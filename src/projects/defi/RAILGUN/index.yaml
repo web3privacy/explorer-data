@@ -1,106 +1,105 @@
 name: RAILGUN
 categories: [ defi ]
+ecosystem: Ethereum
 token:
   name: Railgun
   symbol: RAIL
+  contract_address: string
 description: 'Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.'
 project_type: transaction
+product_launch_day: date
 technology:
   type: zk
-  features: private
+  name: string
+  features: private, social recovery, account abstraction
 links:
   web: https://railgun.org/
   twitter: https://twitter.com/railgun_project
   telegram: https://t.me/railgun_privacy
   discord: https://discord.com/invite/jgUQjkYWzh
-  medium: https://medium.com/@Railgun_Project
+  blog: https://medium.com/@Railgun_Project
+  facebook: link
   block_explorer: https://etherscan.io/
   whitepaper: https://docs.railgun.org/wiki/learn/overview
   github: https://github.com/Railgun-Privacy
+  docs: link
+  changelog: link
+  forum: link
+  snapshot: link
+  lens: link
+  farcaster: link
+  rss_feed: link
 blockchain_features:
-  account_abstraction: true
   p2p: true
   encryption: zksnark
-  upgradability: true
-  upgradability_technology: perpetual power
+  upgradability:
+    enabled: true
+    type: multisig
+    admin_keys: number
   opensource: true
-  enable_viewing_key: true
-  enable_ens: true
-  enable_bright_id: false
+  viewing_key: true
   dissapearing_tx: false
-  tor_compatibility: false
-product-readiness: Jul 2021
+  frontend_anonymity: options
+  identity_integration: string
+  connected_tx: true/false
+  revealed_recipient: true/false
+  revealed_sender: true/false
+  revealed_ammount: true/false
+  reversability_condition: string
+  data_masking: string
+  asset_custody_type: options
+licences: options
+privacy_policy:
+  defined: true/false
+  link: link
+  data_usage: string
 team:
-  researcher: Alan Scott
-  researcher: Kieran Mesquita
-  researcher: John Meurer
-  researcher: Dylan Oliver
-  researcher: Hisham Galan
-  researcher: Peter Simpson
-  researcher: Bill Liang
-  researcher: Matias Grote
-  software_engineer: Jacob Makarsky
-  legal_counsel: Edward P. Fricker
-  advisor: Phil Huang
-  global_economist: Emmanuel Goldstein
-#storage:
-#  decentralized_storage:
-#  local_storage:
-#  locat_storage_encryption:
-#  browser_storage:
-#  onchain_storage:
-#tracebility:
-#  tacked_data:
-#  kyc:
-#  sign_in_type_requirments:
-#linkability:
-#  connected_tx:
-#  revealed_recipient:
-#  revealed_sender:
-#  revealed_amount:
-#  reversability_condition:
-#  data_obfuscassion_type:
-#code_check:
-#  code_clean_Index:
-#  google_analytics:
-#  third_party_dependency:
-#censorship:
-#  compliant_with:
-#  compliant_country:
-#security:
-#  asset_custody_type:
-#  contract_address:
-#  social_recovery:
-#  audits:
-#  how_to_self_validation:
-#  attestations:
-#  trust_assumtions:
-#  governance_distribution:
-#  how_much_admins:
-#  privacy_policy:
-#activity:
-#  github_stars:
-#  roadmap:
-#  hithub_dev_activity:
-#  history:
-#social_setlement:
-#  twitter_followers:
-#  telegram_followers:
-#  discord_members:
-#  web3privacy_web_poll:
-#  web3privacy_review:
-#  price_action:
-#  appstore_stars:
-#  paystore_stars:
-#traction:
-#  tx_number:
-#  unique_wallets:
-#  total_value_locked:
-#  max_asset_transfered_per_day:
-#  average_volume:
-#  fees_earned:
-#usability:
-#  interface_score:
-#  feature_frontend_overview:
-#  privacy_onboarding:
-#  client_diversability:
+  anonymous: treu/false
+  teammembers:
+    - name: Alan Scott
+      role: researcher
+      link: link
+    - name: Kieran Mesquita
+      role: researcher
+      link: link
+  company:
+    - name: string
+      link: link
+      contacts: string
+storage:
+  decentralized: true/false
+tracebility:
+  tracked_data: string
+  kyc: true/false
+  sign_in_type_requirments: string
+third_party_dependency: string
+compliance: options
+audits:
+  - name: string
+    company: string
+    logo: picture
+    link: link
+    time: time
+social_trust: string
+technical_spof: string
+history:
+  - title: string
+    event_type: string
+    description: string
+    time: time
+    link: link
+client_diversability: 
+  - name: string
+    link: link
+default_privacy: true/false
+funding:
+  - name: string
+    type: private, token generation
+    link: url
+    value: number
+    time: time
+project_status:
+  live_status: true
+  version: string
+  testnet: true/false
+  mainnet: true/false
