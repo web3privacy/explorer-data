@@ -1,0 +1,13 @@
+type: array
+required:
+  - id
+  - name
+additionalProperties: false
+items:
+  type: object
+  properties:
+    id:
+      type: string
+      pattern: '^[a-z0-9-]+$'
+    name:
+      type: string

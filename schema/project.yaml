@@ -1,0 +1,17 @@
+type: object
+required:
+  - id
+  - name
+  - categories
+additionalProperties: false
+properties:
+  id:
+    type: string
+    pattern: '^[a-z0-9-]+$'
+  name:
+    type: string
+  categories:
+    type: array
+    items:
+      type: string
+      pattern: '^[a-z0-9-]+$'
