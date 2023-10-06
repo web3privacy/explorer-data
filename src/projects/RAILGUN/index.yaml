@@ -1,29 +1,23 @@
 name: RAILGUN
 categories: [ defi ]
-symbol: RAIL
-description:
-  en: 'Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.'
+token:
+  name: Railgun
+  symbol: RAIL
+description: 'Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.'
 project_type: transaction
 technology:
   type: zk
-  description: 'Encryption technology that allows parties to prove and verify information without having insight into the information itself.'
   features: private
 links:
   web: https://railgun.org/
-  social:
-    twitter: https://twitter.com/railgun_project
-    telegram: https://t.me/railgun_privacy
-    discord: https://discord.com/invite/jgUQjkYWzh
-    medium: https://medium.com/@Railgun_Project
-  infrastracture:
-    block_explorer: https://etherscan.io/
-    whitepaper: https://docs.railgun.org/wiki/learn/overview
+  twitter: https://twitter.com/railgun_project
+  telegram: https://t.me/railgun_privacy
+  discord: https://discord.com/invite/jgUQjkYWzh
+  medium: https://medium.com/@Railgun_Project
+  block_explorer: https://etherscan.io/
+  whitepaper: https://docs.railgun.org/wiki/learn/overview
   github: https://github.com/Railgun-Privacy
-wallet:
-  - railway wallet
-  - terminal wallet
-  - tokenshielder
-privacy:
+blockchain_features:
   account_abstraction: true
   p2p: true
   encryption: zksnark
@@ -35,6 +29,20 @@ privacy:
   enable_bright_id: false
   dissapearing_tx: false
   tor_compatibility: false
+product-readiness: Jul 2021
+team:
+  researcher: Alan Scott
+  researcher: Kieran Mesquita
+  researcher: John Meurer
+  researcher: Dylan Oliver
+  researcher: Hisham Galan
+  researcher: Peter Simpson
+  researcher: Bill Liang
+  researcher: Matias Grote
+  software_engineer: Jacob Makarsky
+  legal_counsel: Edward P. Fricker
+  advisor: Phil Huang
+  global_economist: Emmanuel Goldstein
 #storage:
 #  decentralized_storage:
 #  local_storage:
