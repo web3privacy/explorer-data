@@ -1,17 +1,273 @@
 type: object
+additionalProperties: false
 required:
-  - id
   - name
   - categories
-additionalProperties: false
+  - ecosystem
+  - token
+  - description
+  - project_type
+  - technology
+  - links
 properties:
-  id:
-    type: string
-    pattern: '^[a-z0-9-]+$'
-  name:
+  name: 
     type: string
   categories:
     type: array
-    items:
+    items: 
       type: string
       pattern: '^[a-z0-9-]+$'
+  ecosystem:
+    type: string
+  token:
+    type: object
+    properties:
+      name:
+        type: string
+      symbol:
+        type: string
+      network:
+        type: 
+      contract_address:
+        type: string
+    required:
+      - name
+      - symbol
+      - network
+      - contract_address
+  description:
+    type: string
+  project_type:
+    type: string
+  product_launch_day:
+    type: string
+    format: date
+  technology:
+    type: object
+    properties:
+      type:
+        type: string
+      name:
+        type: string
+      features:
+        type: array
+        items:
+          type: string
+    required:
+      - type
+      - features
+  links:
+    type: object
+    properties:
+      web:
+        type: string
+        format: uri
+      twitter:
+        type: string
+        format: uri
+      telegram:
+        type: string
+        format: uri
+      discord:
+        type: string
+        format: uri
+      blog:
+        type: string
+        format: uri
+      facebook:
+        type: string
+        format: uri
+      block_explorer:
+        type: string
+        format: uri
+      whitepaper:
+        type: string
+        format: uri
+      github:
+        type: string
+        format: uri
+      docs:
+        type: string
+        format: uri
+      changelog:
+        type: string
+        format: uri
+      forum:
+        type: string
+        format: uri
+      snapshot:
+        type: string
+        format: uri
+      lens:
+        type: string
+        format: uri
+      farcaster:
+        type: string
+        format: uri
+      rss_feed:
+        type: string
+        format: uri
+  blockchain_features:
+    type: object
+    properties:
+      p2p:
+        type: boolean
+      encryption:
+        type: string
+      network:
+        type: 
+      upgradability:
+        type: object
+        properties:
+          enabled:
+            type: boolean
+          type:
+            type: string
+          admin_keys:
+            type: string
+    opensource:
+      type: boolean
+    viewing_key:
+      type: boolean
+    dissapearing_tx:
+      type: boolean
+    frontend_anonymity:
+      type: string
+    identity_integration:
+      type: string
+    connected_tx:
+      type: boolean
+    revealed_recipient:
+      type: boolean
+    revealed_sender:
+      type: boolean
+    revealed_ammount:
+      type: boolean
+    reversability_condition:
+      type: string
+    data_masking:
+      type: string
+    asset_custody_type:
+      type: string
+  licences:
+    type: string
+  privacy_policy:
+    type: object
+    properties:
+      defined:
+        type: boolean
+      link:
+        type: string
+        format: uri
+      data_usage:
+        type: string        
+  team:
+    type: object
+    properties:
+      anonymous:
+        type: boolean
+      teammembers:
+        type: object
+        properties:
+          name:
+            type: string
+          role:
+            type: string
+          link:
+            type: string
+            format: uri
+      company:
+        type: object
+        properties:
+          name:
+            type: string
+          link:
+            type: string
+            format: uri
+          contacts:
+            type: string  
+  storage:
+    type: object
+    properties:
+      decentralized:
+      type: boolean
+  tracebility:
+    type: object
+    properties:
+      tracked_data:
+        type: string
+      kyc:
+        type: boolean
+      sign_in_type_requirments:
+        type: string
+  third_party_dependency:
+    type: string
+  compliance:
+    type: string
+  audits:
+    type: object
+    properties:
+      name:
+        type: string
+      company:
+        type: string
+      logo:
+        type: string
+      link:
+        type: string
+        format: uri
+      time:
+        type: string
+  social_trust:
+    type: string
+  technical_spof:
+    type: striing
+  history:
+    type: object
+    properties:
+      title:
+        type: string
+      event_type:
+        type: string
+      description:
+        type: string
+      time:
+        type: string
+      link:
+        type: string
+        format: uri
+  client_diversability:
+    type: object
+    properties:
+      name:
+        type: string
+      link:
+        type: string
+        format: uri
+  default_privacy:
+    type: boolean
+  funding:
+    type: object
+    properties:
+      name:
+        type: string
+      type:
+        type: string
+      link:
+        type: string
+        format: uri
+      value:
+        type: string
+      time:
+        type: string
+  project_status:
+    type: object
+    properties:
+      live_status:
+        type: boolean
+      version: 
+        type: string
+      testnet:
+        type: boolean
+      mainnet:
+        type: boolean
