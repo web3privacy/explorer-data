@@ -1,1 +1,98 @@
-
+name: RAILGUN
+categories: [ defi ]
+symbol: RAIL
+description:
+  en: 'Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.'
+project_type: transaction
+technology:
+  type: zk
+  description: 'Encryption technology that allows parties to prove and verify information without having insight into the information itself.'
+  features: private
+links:
+  web: https://railgun.org/
+  social:
+    twitter: https://twitter.com/railgun_project
+    telegram: https://t.me/railgun_privacy
+    discord: https://discord.com/invite/jgUQjkYWzh
+    medium: https://medium.com/@Railgun_Project
+  infrastracture:
+    block_explorer: https://etherscan.io/
+    whitepaper: https://docs.railgun.org/wiki/learn/overview
+  github: https://github.com/Railgun-Privacy
+wallet:
+  - railway wallet
+  - terminal wallet
+  - tokenshielder
+privacy:
+  account_abstraction: true
+  p2p: true
+  encryption: zksnark
+  upgradability: true
+  upgradability_technology: perpetual power
+  opensource: true
+  enable_viewing_key: true
+  enable_ens: true
+  enable_bright_id: false
+  dissapearing_tx: false
+  tor_compatibility: false
+#storage:
+#  decentralized_storage:
+#  local_storage:
+#  locat_storage_encryption:
+#  browser_storage:
+#  onchain_storage:
+#tracebility:
+#  tacked_data:
+#  kyc:
+#  sign_in_type_requirments:
+#linkability:
+#  connected_tx:
+#  revealed_recipient:
+#  revealed_sender:
+#  revealed_amount:
+#  reversability_condition:
+#  data_obfuscassion_type:
+#code_check:
+#  code_clean_Index:
+#  google_analytics:
+#  third_party_dependency:
+#censorship:
+#  compliant_with:
+#  compliant_country:
+#security:
+#  asset_custody_type:
+#  contract_address:
+#  social_recovery:
+#  audits:
+#  how_to_self_validation:
+#  attestations:
+#  trust_assumtions:
+#  governance_distribution:
+#  how_much_admins:
+#  privacy_policy:
+#activity:
+#  github_stars:
+#  roadmap:
+#  hithub_dev_activity:
+#  history:
+#social_setlement:
+#  twitter_followers:
+#  telegram_followers:
+#  discord_members:
+#  web3privacy_web_poll:
+#  web3privacy_review:
+#  price_action:
+#  appstore_stars:
+#  paystore_stars:
+#traction:
+#  tx_number:
+#  unique_wallets:
+#  total_value_locked:
+#  max_asset_transfered_per_day:
+#  average_volume:
+#  fees_earned:
+#usability:
+#  interface_score:
+#  feature_frontend_overview:
+#  privacy_onboarding:
+#  client_diversability:
