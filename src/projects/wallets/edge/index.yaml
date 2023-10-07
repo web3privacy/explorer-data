@@ -1,0 +1,11 @@
+name: Edge
+categories:
+  - wallets
+description: The most secure way to buy, store & trade crypto under your control
+ecosystem: multichain
+product_readiness: live
+links:
+  web: https://edge.app/
+  github: https://github.com/EdgeApp
+team:
+  anonymous: false

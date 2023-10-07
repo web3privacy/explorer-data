@@ -1,0 +1,11 @@
+name: Zoker
+categories:
+  - wallets
+description: The foremost ZK-based Wallet in Web3
+ecosystem: multichain
+product_readiness: live
+links:
+  web: https://zoker.tech/
+  docs: https://zoker.tech/wp.pdf
+team:
+  anonymous: true

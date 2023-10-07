@@ -1,0 +1,13 @@
+name: MyMonero
+categories:
+  - wallets
+description: >-
+  The simplest way to use the next-generation private digital currency Monero,
+  at the sweet spot between security, convenience, and features
+ecosystem: Monero
+product_readiness: live
+links:
+  web: https://mymonero.com/
+  github: https://github.com/mymonero
+team:
+  anonymous: true

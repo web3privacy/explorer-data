@@ -1,4 +1,4 @@
-name: Sphereon
+name: Sphereon Wallet
 categories:
   - wallets
 description: >-
@@ -6,6 +6,7 @@ description: >-
   full and sole control over whom you want to share your information with
 product_readiness: PoC
 links:
+  web: https://github.com/Sphereon-Opensource/ssi-mobile-wallet
   github: https://github.com/Sphereon-Opensource/ssi-mobile-wallet
 team:
   anonymous: true

@@ -1,0 +1,10 @@
+name: Railway
+categories:
+  - wallets
+description: DeFi privacy wallet
+ecosystem: Ethereum, BNB, Polygon
+product_readiness: live
+links:
+  web: https://railway.xyz/
+team:
+  anonymous: true

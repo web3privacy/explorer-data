@@ -1,0 +1,11 @@
+name: Brave Wallet
+categories:
+  - wallets
+description: The secure multi-chain crypto wallet
+ecosystem: multichain
+product_readiness: live
+links:
+  web: https://brave.com/wallet/
+  github: https://github.com/brave/brave-wallet-docs
+team:
+  anonymous: false

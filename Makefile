@@ -34,3 +34,4 @@ gen-all:
 	make gen cat=node
 	make gen cat=mixing-service
 	make gen cat=data-management
+	make gen cat=wallets

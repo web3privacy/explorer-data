@@ -1,5 +1,10 @@
 import yaml from "npm:js-yaml";
 
+import { W3PData } from "./w3pdata.js";
+
+const w3pd = new W3PData();
+await w3pd.init();
+
 function slugify(input) {
   if (!input) {
     return "";
@@ -29,6 +34,11 @@ async function genCat(cat) {
 
   for (const p of src.data.Projects) {
     const id = slugify(p.Project);
+
+    // try to find
+    const found = w3pd.data.projects.find(p => p.id === id)
+    const baseObject = found || {}
+
     const pDir = `${catDir}/${id}`;
     console.log(`${id}:\n  -> ${pDir}`);
 
@@ -36,19 +46,19 @@ async function genCat(cat) {
       await Deno.mkdir(pDir);
     } catch {}
 
-    const out = {
+    const out = Object.assign(baseObject, {
       name: p.Project,
       categories: [cat],
       description: p.Description,
       ecosystem: p.Ecosystem !== '-' ? p.Ecosystem : undefined,
       product_readiness: p.ProductReadiness !== '-' ? p.ProductReadiness : undefined,
-      links: {
+      links: Object.assign(baseObject.links || {}, {
         web: p.ProjectLink,
         github: p.GitHub && p.GitHub !== '-' ? p.GitHub : undefined,
         docs: p.Docs && p.Docs !== '-' ? p.Docs : undefined,
-      },
-      team: {},
-    };
+      }),
+      team: Object.assign({}, baseObject.team || {}),
+    });
     if (p.Team === "anon" || p.Team === 'Public') {
       out.team.anonymous = p.Team === "anon" ? true : false
     }
@@ -64,6 +74,7 @@ async function genCat(cat) {
         out.token_link = p.TokenLink !== '-' ? p.TokenLink : undefined
       }
     }
+    delete out.id
     const yml = yaml.dump(out);
     await Deno.writeTextFile(`${pDir}/index.yaml`, yml);
     //console.log(id, yml)

@@ -1,0 +1,13 @@
+name: Samourai Wallet
+categories:
+  - wallets
+description: >-
+  A modern bitcoin wallet hand forged to keep your transactions private your
+  identity masked and your funds secured
+ecosystem: Bitcoin
+product_readiness: live
+links:
+  web: https://samouraiwallet.com/products
+  docs: https://docs.samourai.io/wallet/start
+team:
+  anonymous: true

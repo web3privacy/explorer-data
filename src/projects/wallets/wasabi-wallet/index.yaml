@@ -1,0 +1,11 @@
+name: Wasabi Wallet
+categories:
+  - wallets
+description: Open-source, non-custodial Bitcoin Wallet for desktop
+ecosystem: Bitcoin
+product_readiness: live
+links:
+  web: https://wasabiwallet.io/
+  github: https://github.com/zkSNACKs/WalletWasabi
+team:
+  anonymous: true
