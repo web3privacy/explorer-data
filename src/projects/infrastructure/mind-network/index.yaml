@@ -1,0 +1,8 @@
+name: Mind Network
+categories:
+  - infrastructure
+description: Decentralized zero-trust data lake
+links:
+  web: https://mindnetwork.xyz
+  github: https://github.com/mind-network
+have_token: true

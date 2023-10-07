@@ -1,0 +1,8 @@
+name: Aleo
+categories:
+  - infrastructure
+description: The World's First IDE for Zero-Knowledge Proofs ✨️**ZK**
+product_readiness: testnet, mainnet coming in July 2023
+links:
+  web: https://www.aleo.studio
+  github: https://github.com/AleoHQ

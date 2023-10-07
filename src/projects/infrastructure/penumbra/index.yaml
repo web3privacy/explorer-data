@@ -1,0 +1,11 @@
+name: Penumbra
+categories:
+  - infrastructure
+description: >-
+  A shielded, cross-chain network allowing anyone to securely transact, stake,
+  swap, or marketmake without broadcasting their personal information to the
+  world
+product_readiness: testnet
+links:
+  web: https://penumbra.zone
+  github: https://github.com/penumbra-zone

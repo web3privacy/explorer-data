@@ -73,9 +73,9 @@ async function genCat(cat) {
     if (p.Token && p.Token !== 'No' && p.Token !== 'no') {
       out.have_token = true
       if (typeof(p.Token) === "string" && p.Token.match(/^[A-Z]+$/)) {
-        out.token = Object.assign(out.token || {}, {
+        out.tokens = [{
           symbol: p.Token
-        })
+        }]
       }
       if (p.TokenLink) {
         out.token_link = p.TokenLink !== '-' ? p.TokenLink : undefined

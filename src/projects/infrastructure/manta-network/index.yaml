@@ -1,0 +1,11 @@
+name: Manta Network
+categories:
+  - infrastructure
+description: On-Chain Privacy for Web 3, DeFi and more ✨️**ZK*
+product_readiness: testnet v3, january 2023
+links:
+  web: https://www.manta.network
+  github: https://github.com/manta-network
+have_token: true
+tokens:
+  - symbol: MANTA

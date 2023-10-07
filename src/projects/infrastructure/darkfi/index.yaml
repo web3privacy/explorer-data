@@ -1,0 +1,11 @@
+name: DarkFi
+categories:
+  - infrastructure
+description: >-
+  DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront.
+  It offers flexible private primitives that can be wielded to create any kind
+  of application
+product_readiness: testnet, february 2023
+links:
+  web: https://dark.fi
+  github: https://github.com/darkrenaissance/darkfi

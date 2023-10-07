@@ -1,0 +1,10 @@
+name: Anoma
+categories:
+  - infrastructure
+description: >-
+  An intent-centric, privacy-preserving protocol for decentralized counterparty
+  discovery, solving, and multi-chain atomic settlement
+product_readiness: testnet
+links:
+  web: https://anoma.net
+  github: https://github.com/anoma

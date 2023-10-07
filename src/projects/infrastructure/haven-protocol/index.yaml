@@ -1,0 +1,11 @@
+name: Haven Protocol
+categories:
+  - infrastructure
+description: The world’s only network of private stable assets
+product_readiness: live
+links:
+  web: https://havenprotocol.org
+  github: https://github.com/haven-protocol-org
+have_token: true
+tokens:
+  - symbol: XHV

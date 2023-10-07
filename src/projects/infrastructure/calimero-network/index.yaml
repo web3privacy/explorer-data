@@ -1,0 +1,10 @@
+name: Calimero network
+categories:
+  - infrastructure
+description: >-
+  Secure private shard infrastructure lets you protect your data while
+  leveraging all the business benefits of open-source blockchains
+product_readiness: TBD
+links:
+  web: https://www.calimero.network
+  github: https://github.com/calimero-is-near

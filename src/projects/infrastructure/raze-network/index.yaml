@@ -1,0 +1,11 @@
+name: Raze Network
+categories:
+  - infrastructure
+description: A EVM-compatible Privacy Layer on Multichains
+product_readiness: mainnet, November 2021
+links:
+  web: https://www.raze.network
+  github: https://github.com/Raze-Net
+have_token: true
+tokens:
+  - symbol: RAZE

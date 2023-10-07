@@ -1,0 +1,10 @@
+name: Verida
+categories:
+  - infrastructure
+description: >-
+  A multi-chain protocol for interoperable database storage and messaging built
+  on decentralized identity
+product_readiness: live
+links:
+  web: https://www.verida.io
+  github: https://github.com/verida/

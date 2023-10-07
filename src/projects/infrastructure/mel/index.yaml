@@ -1,0 +1,11 @@
+name: Mel
+categories:
+  - infrastructure
+description: >-
+  A clean-slate L1 for a decentralized, secure, and private internet beyond
+  blockchains.
+product_readiness: beta mainnet
+links:
+  web: https://melproject.org/en/
+  github: https://docs.melproject.org
+have_token: true

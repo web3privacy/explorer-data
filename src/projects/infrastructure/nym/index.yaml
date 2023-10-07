@@ -1,0 +1,13 @@
+name: NYM
+categories:
+  - infrastructure
+description: >-
+  The infrastructure to prevent this data leakage by protecting every packet’s
+  metadata at the network and application layers
+product_readiness: mainnet, february 2022
+links:
+  web: https://nymtech.net
+  github: https://github.com/nymtech
+have_token: true
+tokens:
+  - symbol: NYM

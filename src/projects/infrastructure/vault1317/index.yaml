@@ -1,0 +1,10 @@
+name: Vault1317
+categories:
+  - infrastructure
+description: >-
+  An Off-chain secure communication protocol with deniability via ZKP (Ring
+  Signature)
+product_readiness: PoC
+links:
+  web: https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/
+  github: https://github.com/hardenedvault/vault1317
