@@ -1,3 +1,3 @@
 # Web3Privacy Now Data Repository
 
-TODO
+Structured database for Web3Privacy Now.
