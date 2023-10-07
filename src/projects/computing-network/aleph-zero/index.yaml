@@ -1,0 +1,8 @@
+name: Aleph Zero
+description: Privacy-enhancing public blockchain with instant finality.
+ecosystem: Aleph
+links:
+  github: https://github.com/aleph-zero-foundation
+  linkedin: https://alephzero.org/the-team
+team:
+  anonymous: false

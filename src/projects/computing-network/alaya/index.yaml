@@ -1,0 +1,9 @@
+name: Alaya
+description: >-
+  Alaya is a business sandbox and testing field for the next-generation of
+  financial infrastructure of PlatON.
+ecosystem: Ethereum
+links:
+  github: https://github.com/AlayaNetwork
+team:
+  anonymous: true

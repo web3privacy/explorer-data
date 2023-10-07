@@ -1,0 +1,1628 @@
+{
+  "categories": [
+    {
+      "id": "wallets",
+      "name": "Wallets"
+    },
+    {
+      "id": "defi",
+      "name": "DeFi"
+    },
+    {
+      "id": "currency",
+      "name": "Currency"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "computing_network",
+      "name": "Computing network"
+    },
+    {
+      "id": "layer_2",
+      "name": "Layer 2"
+    },
+    {
+      "id": "hardware",
+      "name": "Hardware"
+    },
+    {
+      "id": "vpm",
+      "name": "VPN"
+    },
+    {
+      "id": "did",
+      "name": "DID"
+    },
+    {
+      "id": "dao",
+      "name": "DAO"
+    },
+    {
+      "id": "bridge",
+      "name": "Bridge"
+    },
+    {
+      "id": "messaging",
+      "name": "Messaging"
+    },
+    {
+      "id": "browser",
+      "name": "Browser"
+    },
+    {
+      "id": "kyc",
+      "name": "KYC"
+    },
+    {
+      "id": "rpc",
+      "name": "RPC"
+    },
+    {
+      "id": "storage",
+      "name": "Storage"
+    },
+    {
+      "id": "dapps",
+      "name": "dApps"
+    },
+    {
+      "id": "os",
+      "name": "OS"
+    },
+    {
+      "id": "nft",
+      "name": "NFT"
+    },
+    {
+      "id": "other",
+      "name": "Other"
+    },
+    {
+      "id": "alliance",
+      "name": "Alliance"
+    },
+    {
+      "id": "mixing_management",
+      "name": "Mixing management"
+    },
+    {
+      "id": "data_management",
+      "name": "Data management"
+    },
+    {
+      "id": "donate",
+      "name": "Donate"
+    }
+  ],
+  "projects": [
+    {
+      "id": "aztec-connect"
+    },
+    {
+      "id": "shinobi"
+    },
+    {
+      "id": "sporran"
+    },
+    {
+      "id": "sparrow"
+    },
+    {
+      "id": "imperiume"
+    },
+    {
+      "id": "krux"
+    },
+    {
+      "id": "cake-wallet"
+    },
+    {
+      "id": "brave-wallet"
+    },
+    {
+      "id": "ywallet"
+    },
+    {
+      "id": "specter-diy"
+    },
+    {
+      "id": "sons-of-crypto"
+    },
+    {
+      "id": "phoenix"
+    },
+    {
+      "id": "railway"
+    },
+    {
+      "id": "frame",
+      "name": "Frame",
+      "categories": [
+        "wallets"
+      ],
+      "ecosystem": "Ethereum",
+      "description": "A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux.",
+      "links": {
+        "web": "https://frame.sh/",
+        "discord": "https://discord.com/invite/rr4Yr3JkPq",
+        "github": "https://github.com/floating/frame"
+      }
+    },
+    {
+      "id": "edge"
+    },
+    {
+      "id": "starshell"
+    },
+    {
+      "id": "zengo"
+    },
+    {
+      "id": "blockwallet"
+    },
+    {
+      "id": "seedsigner"
+    },
+    {
+      "id": "lunar",
+      "name:": "Lunar aka Brume Wallet",
+      "ecosystem:": "Ethereum",
+      "link": {
+        "web:": "https://devfolio.co/projects/lunar-wallet-34c4",
+        "github:": "https://github.com/hazae41/ethbrno-wallet",
+        "twitter": "https://twitter.com/BrumeWallet"
+      },
+      "project_status": {
+        "live_status:": true
+      }
+    },
+    {
+      "id": "brume-wallet",
+      "name": "Brume Wallet",
+      "categories": [
+        "wallets"
+      ]
+    },
+    {
+      "id": "anon-nero"
+    },
+    {
+      "id": "mymonero"
+    },
+    {
+      "id": "monerujo"
+    },
+    {
+      "id": "zecrey-wallet"
+    },
+    {
+      "id": "sphereon"
+    },
+    {
+      "id": "samourai-wallet"
+    },
+    {
+      "id": "nighthawk-wallet"
+    },
+    {
+      "id": "beam"
+    },
+    {
+      "id": "cool-wallet"
+    },
+    {
+      "id": "fedi"
+    },
+    {
+      "id": "zeal"
+    },
+    {
+      "id": "zoker"
+    },
+    {
+      "id": "leo-wallet"
+    },
+    {
+      "id": "treasure-chest"
+    },
+    {
+      "id": "blockstream-green"
+    },
+    {
+      "id": "wasabi-wallet"
+    },
+    {
+      "id": "elite"
+    },
+    {
+      "id": "tomochainp"
+    },
+    {
+      "id": "integritee"
+    },
+    {
+      "id": "xx-network"
+    },
+    {
+      "id": "keep"
+    },
+    {
+      "id": "seneca"
+    },
+    {
+      "id": "orbis"
+    },
+    {
+      "id": "raze-network"
+    },
+    {
+      "id": "sunscreen"
+    },
+    {
+      "id": "nulink"
+    },
+    {
+      "id": "nucypher"
+    },
+    {
+      "id": "utopia"
+    },
+    {
+      "id": "gotabit"
+    },
+    {
+      "id": "mina"
+    },
+    {
+      "id": "vault1317"
+    },
+    {
+      "id": "hopr"
+    },
+    {
+      "id": "lit"
+    },
+    {
+      "id": "namada"
+    },
+    {
+      "id": "logion"
+    },
+    {
+      "id": "ixec"
+    },
+    {
+      "id": "privatixy"
+    },
+    {
+      "id": "concordium"
+    },
+    {
+      "id": "zeronet"
+    },
+    {
+      "id": "incognet"
+    },
+    {
+      "id": "highline"
+    },
+    {
+      "id": "asterizm"
+    },
+    {
+      "id": "calamari-network"
+    },
+    {
+      "id": "dero"
+    },
+    {
+      "id": "auth3"
+    },
+    {
+      "id": "mind-network"
+    },
+    {
+      "id": "anytype"
+    },
+    {
+      "id": "verida"
+    },
+    {
+      "id": "omnia"
+    },
+    {
+      "id": "haven-protocol"
+    },
+    {
+      "id": "partisia-blockchain"
+    },
+    {
+      "id": "automata-network"
+    },
+    {
+      "id": "nomos"
+    },
+    {
+      "id": "darkfi"
+    },
+    {
+      "id": "mystiko-network"
+    },
+    {
+      "id": "aleo"
+    },
+    {
+      "id": "findora"
+    },
+    {
+      "id": "masq"
+    },
+    {
+      "id": "hana"
+    },
+    {
+      "id": "horizen"
+    },
+    {
+      "id": "suterusu"
+    },
+    {
+      "id": "threshold"
+    },
+    {
+      "id": "penumbra"
+    },
+    {
+      "id": "the-farcaster-project"
+    },
+    {
+      "id": "scala"
+    },
+    {
+      "id": "onino"
+    },
+    {
+      "id": "comit-network"
+    },
+    {
+      "id": "arcana"
+    },
+    {
+      "id": "parami"
+    },
+    {
+      "id": "layerx"
+    },
+    {
+      "id": "fedimint"
+    },
+    {
+      "id": "1984"
+    },
+    {
+      "id": "light-protocol"
+    },
+    {
+      "id": "pollen-mobile"
+    },
+    {
+      "id": "secret-network"
+    },
+    {
+      "id": "mysterium"
+    },
+    {
+      "id": "parallelchain"
+    },
+    {
+      "id": "zeropool"
+    },
+    {
+      "id": "anoma"
+    },
+    {
+      "id": "njalla"
+    },
+    {
+      "id": "maci"
+    },
+    {
+      "id": "espresso-systems"
+    },
+    {
+      "id": "tonnel-network"
+    },
+    {
+      "id": "oasis-network"
+    },
+    {
+      "id": "trocador-app"
+    },
+    {
+      "id": "burstlq"
+    },
+    {
+      "id": "calimero-network"
+    },
+    {
+      "id": "mel"
+    },
+    {
+      "id": "ruby"
+    },
+    {
+      "id": "manta-network"
+    },
+    {
+      "id": "nym"
+    },
+    {
+      "id": "unova"
+    },
+    {
+      "id": "deeponion"
+    },
+    {
+      "id": "firo"
+    },
+    {
+      "id": "bob-protocol"
+    },
+    {
+      "id": "iron-fish"
+    },
+    {
+      "id": "litecash"
+    },
+    {
+      "id": "zcash"
+    },
+    {
+      "id": "cog"
+    },
+    {
+      "id": "boltz"
+    },
+    {
+      "id": "epic-cash"
+    },
+    {
+      "id": "grin"
+    },
+    {
+      "id": "mobilecoin"
+    },
+    {
+      "id": "oxen"
+    },
+    {
+      "id": "hush"
+    },
+    {
+      "id": "ghost"
+    },
+    {
+      "id": "silk"
+    },
+    {
+      "id": "beldex"
+    },
+    {
+      "id": "pirate-chain"
+    },
+    {
+      "id": "zero"
+    },
+    {
+      "id": "decred"
+    },
+    {
+      "id": "monero"
+    },
+    {
+      "id": "evolution"
+    },
+    {
+      "id": "pivx"
+    },
+    {
+      "id": "blackhat-coin"
+    },
+    {
+      "id": "colossusxt"
+    },
+    {
+      "id": "zano"
+    },
+    {
+      "id": "beam"
+    },
+    {
+      "id": "particl"
+    },
+    {
+      "id": "x-cash"
+    },
+    {
+      "id": "navcoin"
+    },
+    {
+      "id": "basic-attention-token"
+    },
+    {
+      "id": "discreet"
+    },
+    {
+      "id": "ecash"
+    },
+    {
+      "id": "manta_pay",
+      "name": "Manta Pay",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Polkadot",
+      "description": "MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.",
+      "technology": {
+        "type": "zk"
+      },
+      "links": {
+        "web": "https://app.manta.network/dolphin/transact",
+        "github": "https://github.com/Manta-Network",
+        "docs": "https://docs.manta.network/docs/Introduction"
+      },
+      "project_status": {
+        "live_status": false,
+        "testnet": true
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "evanesco",
+      "name": "Evanesco",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Eva",
+      "description": "A financial protocol platform that combines Layer0 network infrastructure with a private computing framework.",
+      "links": {
+        "web": "Evanesco",
+        "github": "https://github.com/Evanesco-Labs"
+      },
+      "project_status": {
+        "live_status": true
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "coinbook"
+    },
+    {
+      "id": "nonkyc"
+    },
+    {
+      "id": "shade_cash"
+    },
+    {
+      "id": "dusk_network",
+      "name": "Dusk Network",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Dusk",
+      "description": "Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.",
+      "links": {
+        "web": "https://dusk.network/",
+        "github": "https://github.com/dusk-network"
+      },
+      "project_status": {
+        "live_status": false,
+        "testnet": true
+      },
+      "team": {
+        "anonymous": false,
+        "company": {
+          "link": "https://dusk.network/pages/team"
+        }
+      }
+    },
+    {
+      "id": "spiral_finance"
+    },
+    {
+      "id": "sienna",
+      "name": "Sienna Network",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Secret",
+      "token": [
+        {
+          "name": "Sienna Network",
+          "symbol": "SIENNA"
+        }
+      ],
+      "description": "Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem.",
+      "project_type": "DeFi",
+      "product_launch_day": "2022/04/27",
+      "technology": {
+        "type": "TEE",
+        "name": "Trusted execution environment",
+        "features": "private, DeFi"
+      },
+      "links": {
+        "web": "https://sienna.network/",
+        "twitter": "https://twitter.com/sienna_network",
+        "telegram": "https://t.me/GoSiennaNetwork",
+        "discord": "https://discord.com/invite/jZk8ggm7XP",
+        "blog": "https://medium.com/@cm_77528",
+        "block_explorer": "https://www.mintscan.io/secret",
+        "whitepaper": "https://sienna.network/whitepaper/",
+        "github": "https://github.com/SiennaNetwork",
+        "docs": "https://docs.sienna.network/main/",
+        "changelog": "https://medium.com/@cm_77528",
+        "forum": "https://commonwealth.im/siennanetwork/discussions"
+      },
+      "blockchain_features": {
+        "p2p": false,
+        "encryption": "TEE",
+        "upgradability": {
+          "enabled": true,
+          "type": "DAO"
+        },
+        "opensource": true,
+        "viewing_key": true,
+        "dissapearing_tx": false,
+        "frontend_anonymity": "options",
+        "identity_integration": null,
+        "connected_tx": false,
+        "revealed_recipient": false,
+        "revealed_sender": false,
+        "revealed_ammount": false,
+        "reversability_condition": "viewing key, hack",
+        "data_masking": "SNIP-20 token",
+        "asset_custody_type": "non-custody"
+      },
+      "licences": "General Public License",
+      "privacy_policy": {
+        "defined": false
+      },
+      "team": {
+        "anonymous": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "tracked_data": "user SCRT adress",
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "audits": [
+        {
+          "name": "Halborn and Certik",
+          "link": "https://sienna.network/audits/",
+          "time": "April 28th, 2021"
+        }
+      ],
+      "social_trust": "Slabs ( MRSINGER )",
+      "technical_spof": "Can decrypt",
+      "history": [
+        {
+          "title": "Mainet",
+          "event_type": "launch",
+          "description": "V1",
+          "time": "October 2021",
+          "link": "https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history"
+        }
+      ],
+      "client_diversability": [
+        {
+          "name": "Keplr",
+          "link": "https://www.keplr.app/"
+        },
+        {
+          "name": "Starshell",
+          "link": "https://starshell.net/"
+        }
+      ],
+      "default_privacy": true,
+      "funding": [
+        {
+          "name": "Public presale",
+          "type": "ICO",
+          "link": "https://icodrops.com/sienna-network/",
+          "value": "11.200.000",
+          "time": "May 5, 2021"
+        }
+      ],
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      }
+    },
+    {
+      "id": "umbra"
+    },
+    {
+      "id": "hinkal"
+    },
+    {
+      "id": "panther_protocl",
+      "name": "Panther Protocol",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Ethereum",
+      "description": "is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi",
+      "technology": {
+        "type": "zk"
+      },
+      "links": {
+        "web": "https://www.pantherprotocol.io/",
+        "github": "https://github.com/pantherprotocol",
+        "docs": "https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation"
+      },
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": true
+      },
+      "team": {
+        "anonymous": false,
+        "company": [
+          {
+            "link": "https://www.pantherprotocol.io/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "blackbox",
+      "name": "Blackbox",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Secret",
+      "description": "Collection of tools allowing you send & receive SCRT anonymously",
+      "project_type": "DeFi",
+      "product_launch_day": 2021,
+      "technology": {
+        "type": "TEE",
+        "name": "Trusted execution environment",
+        "features": "Privacy, Payments"
+      },
+      "links": {
+        "web": "https://blackbox.cash/",
+        "twitter": "https://twitter.com/TriviumNode",
+        "telegram": "https://t.me/TriviumNode",
+        "block_explorer": "https://www.mintscan.io/secret",
+        "github": "https://github.com/TriviumNode"
+      },
+      "blockchain_features": {
+        "p2p": false,
+        "encryption": "TEE",
+        "upgradability": {
+          "enabled": false
+        },
+        "opensource": true,
+        "viewing_key": true,
+        "dissapearing_tx": false,
+        "frontend_anonymity": "options",
+        "connected_tx": false,
+        "revealed_recipient": false,
+        "revealed_sender": false,
+        "revealed_ammount": false,
+        "reversability_condition": "hack",
+        "data_masking": "SNIP-20 token/SCRT contracts",
+        "asset_custody_type": "non-custody"
+      },
+      "licences": "Apache License",
+      "privacy_policy": {
+        "defined": false
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Xiphiar",
+            "role": "rdeveloper",
+            "link": "https://github.com/Xiphiar"
+          }
+        ],
+        "company": [
+          {
+            "name": "Trivium Nodes",
+            "link": "https://trivium.network/",
+            "contacts": "info@trivium.network"
+          }
+        ]
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": true,
+      "compliance": false,
+      "social_trust": "Slabs ( MRSINGER ), Contract operator ( Trivium )",
+      "technical_spof": "Can decrypt/fraud",
+      "client_diversability": [
+        {
+          "name": "Keplr",
+          "link": "https://www.keplr.app/"
+        },
+        {
+          "name": "Starshell",
+          "link": "https://starshell.net/"
+        }
+      ],
+      "default_privacy": true,
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      }
+    },
+    {
+      "id": "sacred"
+    },
+    {
+      "id": "elusiv",
+      "name": "Elusiv",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Solana",
+      "description": "Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana.",
+      "technology": {
+        "type": "zk"
+      },
+      "links": {
+        "web": "https://elusiv.io/",
+        "github": "https://github.com/elusiv-privacy",
+        "docs": "https://docs.elusiv.io/"
+      },
+      "project_status": {
+        "live_status": true
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "link": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280778213%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=s_%40"
+          }
+        ]
+      }
+    },
+    {
+      "id": "firn_protocol",
+      "name": "Firn Protocol",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Ethereum",
+      "description": "Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains.",
+      "token": [
+        {
+          "name": "Firn",
+          "symbol": "FIRN"
+        }
+      ],
+      "project_type": "DeFi",
+      "product_launch_day": "2021/11/06",
+      "technology": {
+        "type": "ZK",
+        "name": "Zero-knowledge",
+        "features": "privacy, payments"
+      },
+      "links": {
+        "web": "https://app.firn.cash/",
+        "twitter": "https://twitter.com/firnprotocol",
+        "discord": "https://discord.com/invite/2TPJE7CMdu",
+        "whitepaper": "https://firn.cash/whitepaper.pdf",
+        "github": "https://github.com/firnprotocol",
+        "docs": "https://docs.firn.cash/"
+      },
+      "blockchain_features": {
+        "p2p": false,
+        "encryption": "ZK",
+        "upgradability": {
+          "enabled": true,
+          "type": "multisig"
+        },
+        "opensource": true,
+        "viewing_key": false,
+        "dissapearing_tx": true,
+        "frontend_anonymity": "options",
+        "identity_integration": null,
+        "connected_tx": false,
+        "revealed_recipient": false,
+        "revealed_sender": false,
+        "revealed_ammount": false,
+        "reversability_condition": "hack",
+        "data_masking": "deposit",
+        "asset_custody_type": "non-custody"
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "team": {
+        "anonymous": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "tracked_dat": "non",
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "audits": [
+        {
+          "name": "BlockSec",
+          "link": "https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf",
+          "time": "Aug, 7. 2023"
+        }
+      ],
+      "history": [
+        {
+          "title": "Github",
+          "event_type": "launch",
+          "description": "AGithub start",
+          "time": "Nov 6, 2021",
+          "link": "https://github.com/firnprotocol"
+        }
+      ],
+      "client_diversability": [
+        {
+          "name": "Metamask",
+          "link": "https://www.metamask.io"
+        }
+      ],
+      "default_privacy": true,
+      "funding": [
+        {
+          "name": "LunarDAO",
+          "type": "token sale",
+          "link": "https://lunardao.net/firn_investment.html",
+          "value": "45.000 $",
+          "time": "Jun 1, 2023"
+        }
+      ],
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      }
+    },
+    {
+      "id": "webb",
+      "name": "Webb",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Tangle",
+      "description": "an interoperable private bridge",
+      "technology": {
+        "type": "zk"
+      },
+      "links": {
+        "web": "https://app.webb.tools/#/tornado",
+        "github": "https://github.com/webb-tools",
+        "docs": "https://docs.manta.network/docs/Introduction"
+      },
+      "project_status": {
+        "live_status": false,
+        "beta": true
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "zkusd"
+    },
+    {
+      "id": "horizon"
+    },
+    {
+      "id": "common"
+    },
+    {
+      "id": "definer"
+    },
+    {
+      "id": "stealthpay"
+    },
+    {
+      "id": "conceal_network"
+    },
+    {
+      "id": "zkvalidator"
+    },
+    {
+      "id": "zkmoney"
+    },
+    {
+      "id": "shade",
+      "name": "Shade Protocol",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Secret",
+      "token": [
+        {
+          "name": "Shade Protocol",
+          "symbol": "SHD"
+        }
+      ],
+      "description": "Super app for private DeFi",
+      "project_type": "DeFi",
+      "product_launch_day": "Feb 21, 2022",
+      "technology": {
+        "type": "TEE",
+        "name": "Trusted execution environment",
+        "features": "private, DeFi"
+      },
+      "links": {
+        "web": "https://shadeprotocol.io/",
+        "twitter": "https://twitter.com/Shade_Protocol",
+        "telegram": "https://t.me/ShadeProtocol",
+        "discord": "https://discord.com/invite/YMcUrXK476",
+        "blog": "https://shadeprotocol.io/blog",
+        "facebook": null,
+        "block_explorer": "https://www.mintscan.io/secret",
+        "whitepaper": "https://framerusercontent.com/modules/assets/aAMeX7kkaxljkFRXRIN4CElVJbo~pEHSkrNceWvWuHWRiNuOD_CQEuYf_tS-dLtgATuz0QY.pdf",
+        "github": "https://github.com/securesecrets/shade",
+        "docs": "https://docs.shadeprotocol.io/shade-protocol/",
+        "changelog": null,
+        "forum": "https://forum.shadeprotocol.io/"
+      },
+      "blockchain_features": {
+        "p2p": false,
+        "encryption": "TEE",
+        "upgradability": {
+          "enabled": true,
+          "type": "multisig"
+        },
+        "opensource": true,
+        "viewing_key": true,
+        "dissapearing_tx": false,
+        "frontend_anonymity": "options",
+        "identity_integration": null,
+        "connected_tx": false,
+        "revealed_recipient": false,
+        "revealed_sender": false,
+        "revealed_ammount": false,
+        "reversability_condition": "viewing key, hack",
+        "data_masking": "SNIP-20 token",
+        "asset_custody_type": "non-custody"
+      },
+      "licences": "General Public License",
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://app.shadeprotocol.io/use-terms",
+        "data_usage": "tools you are making TXs on"
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Carter L. Woetzel",
+            "role": "researcher",
+            "link": "https://twitter.com/l_woetzel"
+          }
+        ],
+        "company": [
+          {
+            "name": "Secure Secrets",
+            "link": "https://www.securesecrets.org/",
+            "contacts": "https://twitter.com/securesecrets"
+          }
+        ]
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "tracked_data": "user SCRT adress",
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "audits": [
+        {
+          "name": "stkd-SCRT",
+          "link": "https://docs.shadeprotocol.io/shade-protocol/research/audit-log",
+          "time": "March 29th, 2022"
+        },
+        {
+          "name": "Bonds",
+          "link": "https://docs.shadeprotocol.io/shade-protocol/research/audit-log",
+          "time": "August 2nd, 2022"
+        }
+      ],
+      "social_trust": "Slabs ( MRSINGER )",
+      "technical_spof": "Can decrypt",
+      "history": [
+        {
+          "title": "Mainet",
+          "event_type": "launch",
+          "description": "Airdrop",
+          "time": "Feb 21, 2022",
+          "link": "https://shadeprotocol.io/blog/shade-protocol-claim-tutorial"
+        }
+      ],
+      "client_diversability": [
+        {
+          "name": "Keplr",
+          "link": "https://www.keplr.app/"
+        },
+        {
+          "name": "Starshell",
+          "link": "https://starshell.net/"
+        }
+      ],
+      "default_privacy": true,
+      "funding": [
+        {
+          "name": "Private investors",
+          "type": "ICO",
+          "link": "https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested",
+          "value": "5.000.000 $",
+          "time": "Feb 17, 2022"
+        }
+      ],
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      }
+    },
+    {
+      "id": "diva"
+    },
+    {
+      "id": "cia_protocol"
+    },
+    {
+      "id": "xata",
+      "name": "XATA",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Automata",
+      "description": "A MEV Minimization solution to survive the Dark Forest",
+      "links": {
+        "web": "https://www.xata.fi/",
+        "docs": "Docs"
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "hurricane_protocol"
+    },
+    {
+      "id": "fairy"
+    },
+    {
+      "id": "cape",
+      "name": "CAPE",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Ethereum",
+      "description": "Configurable Asset Privacy for Ethereum",
+      "links": {
+        "web": "https://app.firn.cash/",
+        "github": "https://github.com/EspressoSystems/cape",
+        "docs": "https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme"
+      },
+      "project_status": {
+        "live_status": false,
+        "testnet": true
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "sahara"
+    },
+    {
+      "id": "silent_protocol",
+      "name": "Silent protocol",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Ethereum",
+      "description": "Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.",
+      "links": {
+        "web": "https://www.silentprotocol.org/"
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "yellow_submarine"
+    },
+    {
+      "id": "basicswap",
+      "name": "Basic Swap",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Multichain",
+      "description": "A private and cross-chain DEX",
+      "project_type": "DeFi",
+      "product_launch_day": 2022,
+      "technology": {
+        "type": "P2P",
+        "name": "peer to peer",
+        "features": "private, Swaps"
+      },
+      "links": {
+        "web": "https://basicswapdex.com/",
+        "twitter": "https://twitter.com/basicswapdex",
+        "blog": "https://particl.news/tag/basicswap/",
+        "github": "https://github.com/tecnovert/basicswap",
+        "docs": "https://academy.particl.io/en/latest/basicswap-dex/basicswap_technicals.html"
+      },
+      "blockchain_features": {
+        "p2p": true,
+        "encryption": "P2P, AtomicSwaps",
+        "upgradability": {
+          "enabled": true,
+          "type": "fork"
+        },
+        "opensource": true,
+        "dissapearing_tx": true,
+        "frontend_anonymity": "self-hosted",
+        "identity_integration": null,
+        "connected_tx": false,
+        "revealed_recipient": true,
+        "revealed_sender": true,
+        "revealed_ammount": true,
+        "data_masking": "P2P",
+        "asset_custody_type": "non-custody"
+      },
+      "licences": "MIT License",
+      "privacy_policy": {
+        "defined": false
+      },
+      "team": {
+        "anonymous": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "tracked_data": "Chains activity",
+        "kyc": false,
+        "sign_in_type_requirments": "wallets"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "client_diversability": [
+        {
+          "name": "BasicSwap client",
+          "link": "https://basicswapdex.com/"
+        }
+      ],
+      "default_privacy": false,
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      }
+    },
+    {
+      "id": "sienna_network",
+      "name": "Sienna Network",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Secret Network",
+      "description": "Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains.",
+      "technology": {
+        "type": "zk"
+      },
+      "links": {
+        "web": "https://sienna.network/",
+        "github": "GitHub",
+        "docs": "https://docs.firn.cash/"
+      },
+      "project_status": {
+        "live_status": true
+      },
+      "team": {
+        "anonymous": true,
+        "company": [
+          {
+            "link": "https://docs.sienna.network/main/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "seven_seas"
+    },
+    {
+      "id": "light_shield"
+    },
+    {
+      "id": "railgun",
+      "name": "RAILGUN",
+      "categories": [
+        "defi"
+      ],
+      "token": [
+        {
+          "name": "Railgun",
+          "symbol": "RAIL",
+          "network": "Ethereum",
+          "contract_address": 1.3211948014787578e+48
+        },
+        {
+          "name": "Railgun",
+          "symbol": "RAIL",
+          "network": "Polygon",
+          "contract_address": 8.372990030650115e+47
+        }
+      ],
+      "description": "Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.",
+      "project_type": "transaction",
+      "technology": {
+        "type": "zk",
+        "features": "private"
+      },
+      "links": {
+        "web": "https://railgun.org/",
+        "twitter": "https://twitter.com/railgun_project",
+        "telegram": "https://t.me/railgun_privacy",
+        "discord": "https://discord.com/invite/jgUQjkYWzh",
+        "blog": "https://medium.com/@Railgun_Project",
+        "block_explorer": "https://etherscan.io/",
+        "whitepaper": "https://docs.railgun.org/wiki/learn/overview",
+        "github": "https://github.com/Railgun-Privacy"
+      },
+      "blockchain_features": {
+        "p2p": true,
+        "encryption": "zksnark",
+        "network": "Ethereum",
+        "upgradability": {
+          "enabled": true,
+          "type": "perpetual power"
+        },
+        "opensource": true,
+        "viewing_key": true,
+        "dissapearing_tx": false
+      },
+      "team": [
+        {
+          "name": "Alan Scott",
+          "role": "researcher"
+        },
+        {
+          "name": "Kieran Mesquita",
+          "role": "researcher"
+        },
+        {
+          "name": "John Meurer",
+          "role": "researcher"
+        },
+        {
+          "name": "Dylan Oliver",
+          "role": "researcher"
+        },
+        {
+          "name": "Hisham Galan",
+          "role": "researcher"
+        },
+        {
+          "name": "Peter Simpson",
+          "role": "researcher"
+        },
+        {
+          "name": "Bill Liang",
+          "role": "researcher"
+        },
+        {
+          "name": "Matias Grote",
+          "role": "researcher"
+        },
+        {
+          "name": "Jacob Makarsky",
+          "role": "Software engineer"
+        },
+        {
+          "name": "Edward P. Fricker",
+          "role": "Legal counsel"
+        },
+        {
+          "name": "Phil Huang",
+          "role": "Advisor"
+        },
+        {
+          "name": "Emmanuel Goldstein",
+          "role": "Global economist"
+        }
+      ]
+    },
+    {
+      "id": "offshift",
+      "name": "Offshift",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": "Ethereum",
+      "description": "Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics",
+      "links": {
+        "web": "https://www.offshift.io/",
+        "github": "https://open.offshift.io/offshiftXFT",
+        "docs": "https://docs.elusiv.io/"
+      },
+      "project_status": {
+        "live_status": true
+      },
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "link": "https://offshift.io/#team"
+          }
+        ]
+      }
+    },
+    {
+      "id": "privasea",
+      "name": "Privasea",
+      "description": "Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed.",
+      "ecosystem": "multipurpose",
+      "links": {
+        "github": "-",
+        "linkedin": "https://www.privasea.tech/about"
+      },
+      "team": {
+        "anonymous": false
+      }
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "description": "blockchain infrastructure empowering intelligence web3 applications.",
+      "ecosystem": "multichain",
+      "links": {
+        "github": "https://github.com/phoenixglobal"
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "arpa",
+      "name": "ARPA",
+      "description": "Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc.",
+      "ecosystem": "multichain",
+      "links": {
+        "github": "https://github.com/ARPA-Network"
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "phala-network",
+      "name": "Phala Network",
+      "description": "Privacy-Enhanced Permissionless Computing Protocol.",
+      "ecosystem": "Khala on Kusama",
+      "links": {
+        "github": "https://github.com/Phala-Network",
+        "linkedin": "https://www.phala.network/en/aboutUs/"
+      },
+      "team": {
+        "anonymous": false
+      }
+    },
+    {
+      "id": "findora",
+      "name": "Findora",
+      "description": "a decentralized, privacy-preserving smart contract platform.",
+      "ecosystem": "multichain",
+      "links": {
+        "github": "https://github.com/findoranetwork",
+        "linkedin": "https://findora.org/team/"
+      },
+      "team": {
+        "anonymous": false
+      }
+    },
+    {
+      "id": "alaya",
+      "name": "Alaya",
+      "description": "Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON.",
+      "ecosystem": "Ethereum",
+      "links": {
+        "github": "https://github.com/AlayaNetwork"
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "zkcloud",
+      "name": "ZkCloud",
+      "description": "Decentralized, Private Computing.",
+      "ecosystem": "Aleo",
+      "links": {
+        "github": "-",
+        "linkedin": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2242785598%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=6tr"
+      },
+      "team": {
+        "anonymous": false
+      }
+    },
+    {
+      "id": "aleph-zero",
+      "name": "Aleph Zero",
+      "description": "Privacy-enhancing public blockchain with instant finality.",
+      "ecosystem": "Aleph",
+      "links": {
+        "github": "https://github.com/aleph-zero-foundation",
+        "linkedin": "https://alephzero.org/the-team"
+      },
+      "team": {
+        "anonymous": false
+      }
+    },
+    {
+      "id": "platon-network",
+      "name": "PlatOn Network",
+      "description": "Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence.",
+      "ecosystem": "Alaya",
+      "links": {
+        "github": "https://github.com/PlatONnetwork",
+        "linkedin": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2214399632%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=PCz"
+      },
+      "team": {
+        "anonymous": false
+      }
+    },
+    {
+      "id": "nillion",
+      "name": "Nillion",
+      "description": "The Secure Processing Layer of Web3.",
+      "ecosystem": "multichain",
+      "links": {
+        "linkedin": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU"
+      },
+      "team": {
+        "anonymous": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+name: Privasea
+description: >-
+  Using secure Multi-Party sharing we protect data ownership and privacy, and
+  facilitate secure sharing between different parties so data still can be
+  processed.
+ecosystem: multipurpose
+links:
+  github: '-'
+  linkedin: https://www.privasea.tech/about
+team:
+  anonymous: false
