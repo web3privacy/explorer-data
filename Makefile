@@ -8,5 +8,8 @@ build:
 test:
 	deno test -A utils/test.js
 
+cache:
+	deno cache utils/test.js
+
 gen:
 	deno run -A utils/gen.js $(cat)
