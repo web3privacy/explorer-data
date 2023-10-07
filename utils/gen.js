@@ -42,13 +42,15 @@ async function genCat(cat) {
       description: p.Description,
       ecosystem: p.Ecosystem,
       links: {
-        github: p.GitHub,
-        linkedin: p.TeamLink,
+        github: p.GitHub && p.GitHub !== '-' ? p.GitHub : undefined,
       },
       team: {
-        anonymous: p.Team !== "Public",
+        anonymous: p.Team !== "Public"
       },
     };
+    if (p.TeamLink && p.TeamLink !== '') {
+      out.team.company = { link: p.TeamLink }
+    }
     const yml = yaml.dump(out);
     await Deno.writeTextFile(`${pDir}/index.yaml`, yml);
     //console.log(id, yml)

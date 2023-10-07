@@ -3,8 +3,9 @@ categories:
   - computing-network
 description: The Secure Processing Layer of Web3.
 ecosystem: multichain
-links:
-  linkedin: >-
-    https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU
+links: {}
 team:
   anonymous: false
+  company:
+    link: >-
+      https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU

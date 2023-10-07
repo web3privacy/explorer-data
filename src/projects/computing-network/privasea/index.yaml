@@ -6,8 +6,8 @@ description: >-
   facilitate secure sharing between different parties so data still can be
   processed.
 ecosystem: multipurpose
-links:
-  github: '-'
-  linkedin: https://www.privasea.tech/about
+links: {}
 team:
   anonymous: false
+  company:
+    link: https://www.privasea.tech/about
