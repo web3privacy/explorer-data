@@ -4,6 +4,6 @@ ecosystem: Automata
 description: 'A MEV Minimization solution to survive the Dark Forest'
 links:
   web: https://www.xata.fi/
-  docs: Docs
+  docs: https://docs.xata.fi/
 team:
   anonymous: true
