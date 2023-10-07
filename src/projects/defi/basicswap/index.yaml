@@ -7,7 +7,9 @@ product_launch_day: "2022-12-08"
 technology:
   type: P2P
   name: peer to peer
-  features: private, Swaps
+  features:
+    - private
+    - swaps
 links:
   web: https://basicswapdex.com/
   twitter: https://twitter.com/basicswapdex
