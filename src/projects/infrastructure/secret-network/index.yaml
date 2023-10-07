@@ -11,7 +11,7 @@ description: >-
   choose what you share, with whom, and how. This protects users, and empowers
   developers to build a better Web3
 project_type: Infrastructure
-product_launch_day: Feb 13, 2020
+product_launch_day: "2020-02-13"
 technology:
   type: TEE
   name: Trusted execution environment
