@@ -1,1 +1,54 @@
-
+name: Basic Swap
+categories: [ defi ]
+ecosystem: Multichain
+description: 'A private and cross-chain DEX'
+project_type: DeFi
+product_launch_day: 2022
+technology:
+  type: P2P
+  name: peer to peer
+  features: private, Swaps
+links:
+  web: https://basicswapdex.com/
+  twitter: https://twitter.com/basicswapdex
+  blog: https://particl.news/tag/basicswap/
+  github: https://github.com/tecnovert/basicswap
+  docs: https://academy.particl.io/en/latest/basicswap-dex/basicswap_technicals.html
+blockchain_features:
+  p2p: true
+  encryption: P2P, AtomicSwaps
+  upgradability:
+    enabled: true
+    type: fork
+  opensource: true
+  dissapearing_tx: true
+  frontend_anonymity: options
+  identity_integration:
+  connected_tx: false
+  revealed_recipient: true
+  revealed_sender: true
+  revealed_ammount: true
+  data_masking: P2P
+  asset_custody_type: non-custody
+licences: MIT License
+privacy_policy:
+  defined: false
+team:
+  anonymous: true
+storage:
+  decentralized: true
+tracebility:
+  tracked_data: Chains activity
+  kyc: false
+  sign_in_type_requirments: wallets
+third_party_dependency: false
+compliance: false
+client_diversability: 
+  - name: BasicSwap client
+    link: https://basicswapdex.com/
+default_privacy: false
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
