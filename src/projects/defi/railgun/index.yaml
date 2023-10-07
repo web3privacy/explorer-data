@@ -33,6 +33,18 @@ blockchain_features:
   opensource: true
   viewing_key: true
   dissapearing_tx: false
+  frontend_anonymity: ( Railway frontend dont work on Firefox/Tor )
+  identity_integration:
+  connected_tx: false
+  revealed_recipient: false
+  revealed_sender: false
+  revealed_ammount: false
+  reversability_condition: viewing key, hack
+  data_masking: Contract deposit
+  asset_custody_type: non-custody
+licences: 
+privacy_policy:
+  defined: false
 team:
   - name: Alan Scott
     role: researcher
@@ -58,3 +70,40 @@ team:
     role: Advisor
   - name: Emmanuel Goldstein
     role: Global economist
+    storage:
+  decentralized: true
+tracebility:
+  tracked_data:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: false
+audits:
+  - name: Railgun audit report
+    link: https://assets.railgun.org/docs/audits/
+    time: July, 2021
+social_trust:
+technical_spof:
+history:
+  - title: Mainet
+    event_type: launch
+    description: Token Launch
+    time: Jul 3, 2021
+    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+client_diversability: 
+  - name: Railway
+    link: https://www.railway.xyz/
+  - name: TokenShielder
+    link: https://tokenshielder.com/
+default_privacy: true
+funding:
+  - name: DCG
+    type: Investments
+    link: https://www.coindesk.com/business/2022/01/26/railgun-aims-for-private-defi-with-10m-backing-from-dcg/
+    value: 10.000.000 $
+    time: Jan 26, 2022
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
