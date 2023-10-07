@@ -27,12 +27,7 @@ export class W3PData {
             }
             const pDir = `${catDir}/${pd.name}`;
             const indexFn = `${pDir}/index.yaml`;
-            try {
-              await Deno.stat(indexFn);
-            } catch(e) {
-              continue
-            }
-
+            
             const index = yaml.load(
               await Deno.readTextFile(indexFn),
             );

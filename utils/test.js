@@ -27,19 +27,28 @@ const matrix = {
 const schemaDir = "./schema";
 const schemas = await loadSchemas();
 
+schemas.project.properties.categories.items.enum = w3pd.data.categories.map(c => c.id)
+
 for (const col of Object.keys(w3pd.data)) {
   const validator = ajv.compile(schemas[matrix[col]]);
+  const ids = []
 
   for (const item of w3pd.data[col]) {
+    const testName = `${col}/${item.id} ` + (col === 'projects' ? `[${item.categories?.join(', ')}]` : '')
 
-    if(Object.keys(item).length === 1) {
-      continue
+    if (ids.includes(item.id)) {
+      Deno.test(testName + ' (id-duplicates)', () => {
+          throw { message: `Duplicate project id="${item.id}"` }
+      });      
     }
 
-    Deno.test(`${col}/${item.id} ` + (col === 'projects' ? `[${item.categories?.join(', ')}]` : ''), () => {
-      if (!validator(item)) {
-        throw validator.errors;
-      }
-    });
+    if(Object.keys(item).length > 1) {
+      Deno.test(testName + ' (schema)', () => {
+        if (!validator(item)) {
+          throw validator.errors;
+        }
+      });
+    }
+    ids.push(item.id)
   }
 }
