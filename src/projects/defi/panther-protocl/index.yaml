@@ -4,7 +4,8 @@ ecosystem: Ethereum, Elrond, Polkadot, Avalanche, Near, Flare
 description: 'is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi'
 technology:
   type: zk
-  features: transactions
+  features:
+    - transactions
 links:
   web: https://www.pantherprotocol.io/
   github: https://github.com/pantherprotocol
