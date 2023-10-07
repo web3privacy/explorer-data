@@ -44,7 +44,7 @@ tracebility:
   kyc: false
   sign_in_type_requirments: wallets
 third_party_dependency: none
-compliance: false
+compliance: none
 client_diversability: 
   - name: BasicSwap client
     link: https://basicswapdex.com/
