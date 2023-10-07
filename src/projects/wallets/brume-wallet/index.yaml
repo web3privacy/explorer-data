@@ -42,7 +42,7 @@ tracebility:
   kyc: false
   sign_in_type_requirments: seed
 third_party_dependency: none
-compliance: false
+compliance: compliant
 
 history:
   - title: Hackaton
