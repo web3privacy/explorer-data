@@ -50,7 +50,6 @@ properties:
     type: string
   product_launch_day:
     type: string
-    format: date
   technology:
     type: object
     properties:
