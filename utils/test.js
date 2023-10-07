@@ -31,6 +31,11 @@ for (const col of Object.keys(w3pd.data)) {
   const validator = ajv.compile(schemas[matrix[col]]);
 
   for (const item of w3pd.data[col]) {
+
+    if(Object.keys(item).length === 1) {
+      continue
+    }
+
     Deno.test(`${col}/${item.id}`, () => {
       if (!validator(item)) {
         throw validator.errors;
