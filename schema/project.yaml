@@ -4,11 +4,6 @@ required:
   - id
   - name
   - categories
-  - ecosystem
-  - description
-  - project_type
-  - technology
-  - links
 properties:
   id:
     type: string
