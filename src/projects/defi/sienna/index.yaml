@@ -1,7 +1,7 @@
 name: Sienna Network
 categories: [ defi ]
 ecosystem: Secret
-token:
+tokens:
   - name: Sienna Network
     symbol: SIENNA
 description: 'Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem.'
