@@ -44,6 +44,7 @@ async function genCat(cat) {
       product_readiness: p.ProductReadiness,
       links: {
         github: p.GitHub && p.GitHub !== '-' ? p.GitHub : undefined,
+        docs: p.Docs && p.Docs !== '-' ? p.Docs : undefined,
       },
       team: {
         anonymous: p.Team !== "Public"

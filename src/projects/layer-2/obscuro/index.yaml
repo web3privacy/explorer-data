@@ -7,7 +7,8 @@ description: >-
   changes to dApps, just migrate and gain privacy
 ecosystem: Ethereum
 product_readiness: testnet
-links: {}
+links:
+  docs: https://docs.obscu.ro
 team:
   anonymous: false
   company:
