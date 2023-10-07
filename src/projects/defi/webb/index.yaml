@@ -4,7 +4,7 @@ ecosystem: Tangle
 description: 'an interoperable private bridge'
 technology:
   type: zk
-  features: Anchor System
+  features: Anchor
 links:
   web: https://app.webb.tools/#/tornado
   github: https://github.com/webb-tools
