@@ -60,12 +60,6 @@ wallets:
   - name: Edge Wallet
     link: https://z.cash/ecosystem/edge-wallet/
 default_privacy: false
-funding:
-  - name:
-    type:
-    link:
-    value:
-    time:
 project_status:
   live_status: true
   version: Mainnet
