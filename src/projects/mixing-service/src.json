@@ -1,0 +1,152 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/Mixing%20services.png?raw=true",
+      "Projects": [
+        {
+          "Project": "UniJoin",
+          "ProjectLink": "https://unijoin.io",
+          "Description": "We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "TornadoCash",
+          "ProjectLink": "https://en.wikipedia.org/wiki/Tornado_Cash",
+          "Description": "TornadoCash is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Coinomize",
+          "ProjectLink": "https://coinomize.biz",
+          "Description": "Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Mix BTC",
+          "ProjectLink": "https://mixbtc.online",
+          "Description": "Bitcoin mixer.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "0xTIP",
+          "ProjectLink": "https://0xmonero.com/mixer",
+          "Description": "0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Onion Mixer",
+          "ProjectLink": "https://onionmixer.gitbook.io/onion-mixer/",
+          "Description": "Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Whirlpool",
+          "ProjectLink": "https://samouraiwallet.com/whirlpool",
+          "Description": "Break the link your coins leave behind with built-in CoinJoin available on any platform.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Cyclone",
+          "ProjectLink": "https://cyclone.xyz",
+          "Description": "Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "JoinMarket",
+          "ProjectLink": "https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F",
+          "Description": "Decentralized bitcoin coinjoin for improving privacy and fungibility.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Void protocol",
+          "ProjectLink": "https://protocolvoid.gitbook.io/void-protocol/",
+          "Description": "Void protocol gives users control over financial anonymity, as a non-custodial opt-in financial privacy service.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "CoinShuffle++",
+          "ProjectLink": "https://github.com/decred/cspp",
+          "Description": "CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "HideYour.cash",
+          "ProjectLink": "https://hideyour.cash",
+          "Description": "HideYour.cash is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Minado",
+          "ProjectLink": "https://github.com/Nicolascoding27/Zkapp-mina-ui",
+          "Description": "Zk Privacy Solution on Mina Protocol.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Spillways",
+          "ProjectLink": "https://spillways.finance",
+          "Description": "Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "TeleBridge",
+          "ProjectLink": "https://telebrid.ge",
+          "Description": "A privacy-focused ERC20 token. Our business plan revolves around offering multiple needed products and sharing the profits with holders, and the chart.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "AnonZK Incognito",
+          "ProjectLink": "https://incognito.anonzk.io",
+          "Description": "A privacy tool known as a mixer, which we developed to utilize zk-SNARKs technology to increase anonymity.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        }
+      ]
+    }
+  }
+  

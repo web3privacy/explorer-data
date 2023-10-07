@@ -30,3 +30,7 @@ gen-all:
 	make gen cat=os
 	make gen cat=nft
 	make gen cat=alliances
+	make gen cat=rd
+	make gen cat=node
+	make gen cat=mixing-service
+	make gen cat=data-management

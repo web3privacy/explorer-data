@@ -1,0 +1,9 @@
+name: TornadoCash
+categories:
+  - mixing-service
+description: >-
+  TornadoCash is an open source, non-custodial, fully decentralized
+  cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible
+  networks.
+links:
+  web: https://en.wikipedia.org/wiki/Tornado_Cash

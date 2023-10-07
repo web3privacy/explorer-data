@@ -1,0 +1,6 @@
+name: Monero PocketNode
+categories:
+  - node
+description: A Monero node for your Android Device.
+links:
+  web: https://github.com/CryptoGrampy/xmr-pocket-node

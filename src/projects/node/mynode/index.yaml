@@ -1,0 +1,7 @@
+name: myNode
+categories:
+  - node
+description: The easiest, most powerful way to run a Bitcoin and Lightning node.
+links:
+  web: https://mynodebtc.com
+  github: https://github.com/mynodebtc/mynode

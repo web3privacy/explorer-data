@@ -46,4 +46,7 @@
   name: Data management
 - id: donate
   name: Donate
-  
+- id: rd
+  name: R&D
+- id: mixing-services
+  name: Mixing services

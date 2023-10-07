@@ -1,0 +1,7 @@
+name: JoinMarket
+categories:
+  - mixing-service
+description: Decentralized bitcoin coinjoin for improving privacy and fungibility.
+links:
+  web: >-
+    https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F

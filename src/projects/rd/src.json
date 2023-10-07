@@ -1,0 +1,134 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/R&D.png?raw=true",
+      "Projects": [
+        {
+          "Project": "P0X labs",
+          "ProjectLink": "https://p0xeidon.xyz",
+          "Description": "The decentralized laboratory for building cutting-edge privacy technologies.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "=nil; Foundation",
+          "ProjectLink": "https://nil.foundation",
+          "Description": "Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "No Trust Verify",
+          "ProjectLink": "https://nym.notrustverify.ch",
+          "Description": "Take place to the next generation of privacy infrastructure.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Privacy & Security explorations",
+          "ProjectLink": "https://appliedzkp.org",
+          "Description": "We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "01 Labs",
+          "ProjectLink": "https://o1labs.org",
+          "Description": "Catalyzing a new generation of applications powered by zero knowledge cryptography.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Personae Labs",
+          "ProjectLink": "https://personaelabs.org",
+          "Description": "R&D lab investigating the future of human expression online.",
+          "GitHub": "https://github.com/personaelabs",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Demox labs",
+          "ProjectLink": "https://www.demoxlabs.xyz",
+          "Description": "Building privacy preserving ZK infrastructure on Aleo.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Electric Coin. Co",
+          "ProjectLink": "https://electriccoin.co/research-and-development/",
+          "Description": "R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Hypermine",
+          "ProjectLink": "https://hypermine.co",
+          "Description": "Smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Entropy1729",
+          "ProjectLink": "https://www.entropy1729.com",
+          "Description": "Zero Knowledge Shop.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Trivium",
+          "ProjectLink": "https://trivium.network",
+          "Description": "Provides validator services to several networks, and develops privacy-preserving dApps.",
+          "GitHub": "https://github.com/TriviumNode",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "RealRan",
+          "ProjectLink": "https://www.realran.com/home",
+          "Description": "RealRan comes from the global engineering and cryptography research team, expertise in cryptography protocol and distribution consensus engineering.",
+          "GitHub": "https://github.com/realran",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "HashCloak",
+          "ProjectLink": "https://hashcloak.com",
+          "Description": "An independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes.",
+          "GitHub": "https://github.com/hashcloak",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Discreet Labs",
+          "ProjectLink": "https://discreetlabs.io",
+          "Description": "Build blockchain systems for a more private, self-sovereign future on Fidora.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        }
+      ]
+    }
+  }
+  

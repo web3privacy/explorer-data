@@ -1,0 +1,80 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true",
+      "Projects": [
+        {
+          "Project": "nodl One",
+          "ProjectLink": "https://www.nodl.eu/products/nodl-one/",
+          "Description": "A full Bitcoin and Lightning Network node.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "nodl Dojo",
+          "ProjectLink": "https://www.nodl.eu/products/nodl-dojo/",
+          "Description": "A collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "RaspiBlitz",
+          "ProjectLink": "https://raspiblitz.org",
+          "Description": "DIY Bitcoin & Lightning Node on a RaspberryPi.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Start9",
+          "ProjectLink": "https://start9.com",
+          "Description": "Sovereign computing for a free future.",
+          "GitHub": "https://github.com/Start9Labs",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "myNode",
+          "ProjectLink": "https://mynodebtc.com",
+          "Description": "The easiest, most powerful way to run a Bitcoin and Lightning node.",
+          "GitHub": "https://github.com/mynodebtc/mynode",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "NiceNode",
+          "ProjectLink": "https://nicenode.xyz",
+          "Description": "Launcher with a simple user experience to run an Ethereum node on your computer.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Stereum",
+          "ProjectLink": "https://stereum.net/ethereum-node-setup/",
+          "Description": "Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Monero PocketNode",
+          "ProjectLink": "https://github.com/CryptoGrampy/xmr-pocket-node",
+          "Description": "A Monero node for your Android Device.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        }
+      ]
+    }
+  }
+  

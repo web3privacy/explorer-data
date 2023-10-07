@@ -1,0 +1,8 @@
+name: Privacy & Security explorations
+categories:
+  - rd
+description: >-
+  We explore new use cases for zero-knowledge proofs and other cryptographic
+  primitives through research and proof-of-concepts.
+links:
+  web: https://appliedzkp.org
