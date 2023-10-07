@@ -3,7 +3,7 @@ categories: [ wallets ]
 ecosystem: Ethereum
 description: 'Tor based wallet for Ethereum'
 project_type: Wallets
-product_launch_day: 2022-11-13
+product_launch_day: "2022-11-13"
 technology:
   type: Tor
   name: Tor project
