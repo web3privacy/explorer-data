@@ -1,1 +1,18 @@
-
+name: Panther Protocol
+categories: [defi]
+ecosystem: Ethereum
+description: 'is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi'
+technology:
+  type: zk
+links:
+  web: https://www.pantherprotocol.io/
+  github: https://github.com/pantherprotocol
+  docs: https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: true
+team:
+  anonymous: false
+  company:
+    - link: https://www.pantherprotocol.io/

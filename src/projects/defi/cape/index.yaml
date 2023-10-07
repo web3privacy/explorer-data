@@ -1,1 +1,15 @@
+name: CAPE
+categories: [defi]
+ecosystem: Ethereum
+description: 'Configurable Asset Privacy for Ethereum'
+links:
+  web: https://app.firn.cash/
+  github: https://github.com/EspressoSystems/cape
+  docs: https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme
+project_status:
+  live_status: false
+  testnet: true
+team:
+  anonymous: true
 
+  
