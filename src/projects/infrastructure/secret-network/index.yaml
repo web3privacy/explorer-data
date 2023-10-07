@@ -4,6 +4,7 @@ ecosystem: Secret
 token:
   name: Secret
   symbol: SCRT
+  network: Secret Network
 description: 'Chain for private computations'
 project_type: Infrastructure
 product_launch_day: Feb 13, 2020
