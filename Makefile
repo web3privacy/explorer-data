@@ -20,3 +20,4 @@ gen-all:
 	make gen cat=hardware
 	make gen cat=vpn
 	make gen cat=did
+	make gen cat=dao

@@ -1,0 +1,35 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true",
+      "Projects": [
+        {
+          "Project": "AnyDAO",
+          "ProjectLink": "https://www.anydao.app",
+          "Description": "Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting",
+          "Docs": "https://docs.ata.network/anydao/introduction/",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "HeyAnon",
+          "ProjectLink": "https://www.heyanoun.xyz",
+          "Description": "Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️ZK",
+          "Docs": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "LunarDAO",
+          "ProjectLink": "https://lunardao.net",
+          "Description": "DAO fostering R&D and investments within Lunarpunk movement",
+          "Docs": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        }
+      ]
+    }
+  }
+  
