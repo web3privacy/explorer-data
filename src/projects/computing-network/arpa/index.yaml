@@ -6,6 +6,7 @@ description: >-
   number generator (RNG), secure wallet, cross-chain bridge, decentralized
   custody etc.
 ecosystem: multichain
+product_readiness: mainnet, Q2 2023
 links:
   github: https://github.com/ARPA-Network
 team:

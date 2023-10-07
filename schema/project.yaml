@@ -17,6 +17,8 @@ properties:
       pattern: '^[a-z0-9-]+$'
   ecosystem:
     type: string
+  product_readiness:
+    type: string
   token:
     type: object
     properties:

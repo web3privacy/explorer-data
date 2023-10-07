@@ -3,6 +3,7 @@ categories:
   - computing-network
 description: Privacy-Enhanced Permissionless Computing Protocol.
 ecosystem: Khala on Kusama
+product_readiness: testnet, 2020
 links:
   github: https://github.com/Phala-Network
 team:

@@ -41,6 +41,7 @@ async function genCat(cat) {
       categories: [cat],
       description: p.Description,
       ecosystem: p.Ecosystem,
+      product_readiness: p.ProductReadiness,
       links: {
         github: p.GitHub && p.GitHub !== '-' ? p.GitHub : undefined,
       },

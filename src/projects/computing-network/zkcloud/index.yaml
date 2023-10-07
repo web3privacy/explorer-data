@@ -3,6 +3,7 @@ categories:
   - computing-network
 description: Decentralized, Private Computing.
 ecosystem: Aleo
+product_readiness: testnet
 links: {}
 team:
   anonymous: false

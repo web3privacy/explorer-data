@@ -3,6 +3,7 @@ categories:
   - computing-network
 description: a decentralized, privacy-preserving smart contract platform.
 ecosystem: multichain
+product_readiness: mainnet
 links:
   github: https://github.com/findoranetwork
 team:

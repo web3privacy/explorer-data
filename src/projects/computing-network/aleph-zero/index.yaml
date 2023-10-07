@@ -3,6 +3,7 @@ categories:
   - computing-network
 description: Privacy-enhancing public blockchain with instant finality.
 ecosystem: Aleph
+product_readiness: mainnet
 links:
   github: https://github.com/aleph-zero-foundation
 team:
