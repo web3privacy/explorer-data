@@ -3,7 +3,7 @@ categories: [ defi ]
 ecosystem: Multichain
 description: 'A private and cross-chain DEX'
 project_type: DeFi
-product_launch_day: 2022
+product_launch_day: "2022-12-08"
 technology:
   type: P2P
   name: peer to peer
