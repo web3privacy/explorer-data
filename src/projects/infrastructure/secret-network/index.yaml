@@ -1,15 +1,12 @@
 name: Secret Network
-categories:
-  - infrastructure
+categories: [ infrastructure ]
+ecosystem: Secret
 token:
   - name: Secret
     symbol: SCRT
     network: Secret Network
     contract_address: secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek
-description: >-
-  Secret Network is the first blockchain with customizable privacy. You get to
-  choose what you share, with whom, and how. This protects users, and empowers
-  developers to build a better Web3
+description: 'Chain for private computations'
 project_type: Infrastructure
 product_launch_day: Feb 13, 2020
 technology:
@@ -17,7 +14,7 @@ technology:
   name: Trusted execution environment
   features: privacy, DeFi, NFTs, PaaS
 links:
-  web: https://scrt.network
+  web: https://scrt.network/
   twitter: https://twitter.com/SecretNetwork
   telegram: https://t.me/scrtCommunity
   discord: https://discord.com/invite/secret-network-360051864110235648
@@ -69,7 +66,7 @@ history:
     description: Mainnet
     time: Feb 13, 2020
     link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
-client_diversability:
+client_diversability: 
   - name: Keplr
     link: https://www.keplr.app/
   - name: Starshell
@@ -86,5 +83,3 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
-product_readiness: mainnet, 2020
-have_token: true
