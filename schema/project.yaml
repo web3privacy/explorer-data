@@ -26,7 +26,7 @@ properties:
   token_link:
     type: string
     format: uri
-  tokens:
+  token:
     type: array
     items:
       type: object
