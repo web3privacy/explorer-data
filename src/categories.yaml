@@ -1,2 +1,49 @@
 - id: wallets
   name: Wallets
+- id: defi
+  name: DeFi
+- id: currency
+  name: Currency
+- id: infrastructure
+  name: Infrastructure
+- id: computing_network
+  name: Computing network
+- id: layer_2
+  name: Layer 2
+- id: hardware
+  name: Hardware
+- id: vpm
+  name: VPN
+- id: did
+  name: DID
+- id: dao
+  name: DAO
+- id: bridge
+  name: Bridge
+- id: messaging
+  name: Messaging
+- id: browser
+  name: Browser
+- id: kyc
+  name: KYC
+- id: rpc
+  name: RPC
+- id: storage
+  name: Storage
+- id: dapps
+  name: dApps
+- id: os
+  name: OS
+- id: nft
+  name: NFT
+- id: other
+  name: Other
+- id: alliance
+  name: Alliance
+- id: mixing_management
+  name: Mixing management
+- id: data_management
+  name: Data management
+- id: donate
+  name: Donate
+  
