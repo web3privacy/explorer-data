@@ -1,0 +1,11 @@
+name: XX network
+categories:
+  - infrastructure
+description: The first and only quantum-resistant and privacy-focused blockchain ecosystem
+product_readiness: mainnet
+links:
+  web: https://xx.network
+  github: https://git.xx.network/explore
+have_token: true
+token:
+  symbol: XX

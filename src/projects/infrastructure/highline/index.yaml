@@ -1,0 +1,8 @@
+name: Highline
+categories:
+  - infrastructure
+description: An execution layer for Ethereum
+product_readiness: TBD
+links:
+  web: https://highline.dev
+  github: https://highline.dev/docs/

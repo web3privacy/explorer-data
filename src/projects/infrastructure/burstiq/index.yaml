@@ -1,0 +1,13 @@
+name: burstIQ
+categories:
+  - infrastructure
+description: >-
+  Fuel your digital-first strategy with human health data. LifeGraph® takes the
+  complexity out of managing sensitive human data freeing you to build trust
+  through hyper-personalized health, work, and life digital experiences.
+product_readiness: TBD
+links:
+  web: https://burstiq.com
+have_token: true
+token:
+  symbol: BIQ

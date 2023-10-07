@@ -1,0 +1,11 @@
+name: Light Protocol
+categories:
+  - infrastructure
+description: The Privacy Layer for Solana
+product_readiness: mainnet
+links:
+  web: https://www.lightprotocol.com
+  github: https://docs.lightprotocol.com
+have_token: true
+token:
+  symbol: LIGHT

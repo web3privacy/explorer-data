@@ -1,0 +1,8 @@
+name: Auth3
+categories:
+  - infrastructure
+description: Authentic Privacy Computing Network into Web 3.0
+product_readiness: TBD
+links:
+  web: https://auth3.network
+have_token: true

@@ -1,0 +1,13 @@
+name: Suterusu
+categories:
+  - infrastructure
+description: >-
+  A suite of privacy-preserving services to obfuscate transactional and asset
+  information
+product_readiness: testnet, January 2021
+links:
+  web: https://suterusu.io
+  github: https://github.com/suterusu-team
+have_token: true
+token:
+  symbol: SUTER

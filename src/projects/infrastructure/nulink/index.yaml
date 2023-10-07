@@ -1,0 +1,11 @@
+name: Nulink
+categories:
+  - infrastructure
+description: Privacy-preserving technology for decentralized applications
+product_readiness: testnet, October 2022
+links:
+  web: https://www.nulink.org
+  github: https://github.com/NuLink-network
+have_token: true
+token:
+  symbol: NLINK

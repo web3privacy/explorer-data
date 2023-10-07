@@ -1,0 +1,10 @@
+name: Espresso Systems
+categories:
+  - infrastructure
+description: >-
+  Bring low-fees and better privacy to your Web3 applications with Espresso
+  Systems' high-throughput EVM-compatible blockchain
+product_readiness: testnet, June 2022
+links:
+  web: https://www.espressosys.com
+  github: https://github.com/EspressoSystems/

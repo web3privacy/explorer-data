@@ -1,0 +1,13 @@
+name: Concordium
+categories:
+  - infrastructure
+description: >-
+  A compliance ready blockchain backed by science that enables private and
+  public transactions
+product_readiness: mainnet, June 2021
+links:
+  web: https://concordium.com
+  github: https://github.com/Concordium
+have_token: true
+token:
+  symbol: CCD

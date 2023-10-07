@@ -1,0 +1,11 @@
+name: Lit
+categories:
+  - infrastructure
+description: Decentralized Cryptography for Access Control, Compute, and Encryption
+product_readiness: TBD
+links:
+  web: https://litprotocol.com
+  github: https://developer.litprotocol.com
+have_token: true
+token:
+  symbol: LIT

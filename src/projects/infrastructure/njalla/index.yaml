@@ -1,0 +1,9 @@
+name: Njalla
+categories:
+  - infrastructure
+description: >-
+  Anonymous domain name registrar and VPS provider based in Sweden, accepts
+  various cryptocurrencies as payment.
+product_readiness: live
+links:
+  web: https://njal.la

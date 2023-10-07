@@ -1,0 +1,11 @@
+name: iExec
+categories:
+  - infrastructure
+description: The Web3 Marketplace
+product_readiness: TBD
+links:
+  web: https://iex.ec
+  github: https://github.com/iExecBlockchainComputing
+have_token: true
+token:
+  symbol: RLC

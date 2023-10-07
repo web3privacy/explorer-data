@@ -1,0 +1,12 @@
+name: Unova
+categories:
+  - infrastructure
+description: >-
+  The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World
+  Asset use cases.
+product_readiness: mainnet, early 2022
+links:
+  web: https://unova.io
+have_token: true
+token:
+  symbol: UON

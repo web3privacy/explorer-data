@@ -1,0 +1,10 @@
+name: ParallelChain
+categories:
+  - infrastructure
+description: >-
+  A public + private layer-1 blockchain protocol building an accountable, fair
+  and solid backbone infrastructure for the digital economy.
+links:
+  web: https://parallelchain.io/technology
+  github: https://github.com/parallelchain-io
+have_token: true

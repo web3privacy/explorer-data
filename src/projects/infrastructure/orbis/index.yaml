@@ -1,0 +1,11 @@
+name: Orbis
+categories:
+  - infrastructure
+description: We make it easy to add social features to your application
+product_readiness: TBD
+links:
+  web: https://orbis.club
+  github: https://github.com/OrbisWeb3/
+have_token: true
+token:
+  symbol: OBT

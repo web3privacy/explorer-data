@@ -1,0 +1,13 @@
+name: Arcana
+categories:
+  - infrastructure
+description: >-
+  Users care about Privacy and Security, set your app apart with the most
+  developer-friendly data storage and privacy platform.
+product_readiness: mainnet, February 2023
+links:
+  web: https://arcana.network
+  github: https://docs.beta.arcana.network
+have_token: true
+token:
+  symbol: XAR

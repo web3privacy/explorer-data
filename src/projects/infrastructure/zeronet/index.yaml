@@ -1,0 +1,9 @@
+name: ZeroNet
+categories:
+  - infrastructure
+description: >-
+  Open, free and uncensorable websites, using Bitcoin cryptography and
+  BitTorrent network
+product_readiness: TBD
+links:
+  web: https://zeronet.io

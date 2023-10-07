@@ -1,0 +1,13 @@
+name: Integritee
+categories:
+  - infrastructure
+description: >-
+  The most scalable public blockchain solution for securely processing sensitive
+  business or personal data
+product_readiness: mainnet, January 2022
+links:
+  web: https://integritee.network
+  github: https://github.com/integritee-network
+have_token: true
+token:
+  symbol: TEER
