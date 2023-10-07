@@ -4,7 +4,8 @@ ecosystem: Polkadot
 description: 'MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.'
 technology:
   type: zk
-  features: modular
+  features:
+    - modular
 links:
   web: https://app.manta.network/dolphin/transact
   github: https://github.com/Manta-Network
