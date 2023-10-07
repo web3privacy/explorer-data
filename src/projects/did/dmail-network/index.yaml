@@ -6,5 +6,4 @@ ecosystem: multichain
 links:
   web: https://dmail.ai
   github: https://github.com/dmailofficial/dmail
-team: {}
 have_token: true

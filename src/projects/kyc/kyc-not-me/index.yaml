@@ -1,0 +1,11 @@
+name: KYC not me
+categories:
+  - kyc
+description: >-
+  With KYCNOT.ME I want to make it easier for people to find trustworthy ways to
+  buy, exchange, trade and use cryptos without needing to identify themselves,
+  and preserving the decentralized and self-governed essence of
+  Cryptocurrencies.
+links:
+  web: https://kycnot.me/
+  github: https://codeberg.org/pluja/kycnot.me

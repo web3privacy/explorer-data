@@ -1,0 +1,9 @@
+name: Notebook labs
+categories:
+  - kyc
+description: >-
+  Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
+  ✨️**ZK**
+links:
+  web: https://www.notebooklabs.xyz
+  docs: https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication

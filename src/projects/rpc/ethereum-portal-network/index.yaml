@@ -1,0 +1,8 @@
+name: Ethereum Portal Network
+categories:
+  - rpc
+description: >-
+  Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC
+  requests.
+links:
+  web: https://www.ethportal.net/

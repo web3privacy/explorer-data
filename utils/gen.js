@@ -55,6 +55,9 @@ async function genCat(cat) {
     if (p.TeamLink && p.TeamLink !== '-') {
       out.team.company = { link: p.TeamLink !== '-' ? p.TeamLink : undefined }
     }
+    if (Object.keys(out.team).length === 0) {
+      delete out.team
+    }
     if (p.Token) {
       out.have_token = true
       if (p.TokenLink) {

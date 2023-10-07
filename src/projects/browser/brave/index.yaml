@@ -1,0 +1,7 @@
+name: Brave
+categories:
+  - browser
+description: Browse privately. Search privately. And ditch Big Tech
+links:
+  web: http://brave.com
+  github: https://github.com/brave/brave-browser

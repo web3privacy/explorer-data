@@ -5,5 +5,4 @@ description: Anti-sybil as a service
 links:
   web: https://interep.link
   github: https://github.com/interep-project
-team: {}
 have_token: true

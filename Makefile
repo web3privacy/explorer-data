@@ -22,3 +22,7 @@ gen-all:
 	make gen cat=did
 	make gen cat=dao
 	make gen cat=messaging
+	make gen cat=browser
+	make gen cat=kyc
+	make gen cat=rpc
+	make gen cat=storage

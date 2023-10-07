@@ -1,0 +1,142 @@
+{
+    "data": {
+      "Projects": [
+        {
+          "Project": "Skiff Drive",
+          "ProjectLink": "https://skiff.com/drive",
+          "Description": "Secure file storage",
+          "GitHub": "https://github.com/skiff-org",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "SkyNet",
+          "ProjectLink": "https://skynetlabs.com",
+          "Description": "Skynet is an open protocol for hosting data and web applications on the decentralized web using Sia",
+          "GitHub": "https://github.com/SkynetLabs",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "VUP",
+          "ProjectLink": "https://vup.app",
+          "Description": "Private and decentralized cloud storage",
+          "GitHub": "https://github.com/redsolver/vup",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Sia",
+          "ProjectLink": "https://sia.tech",
+          "Description": "Decentralized data storage",
+          "GitHub": "https://github.com/SiaFoundation",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "vult",
+          "ProjectLink": "https://lp.zus.network/vult",
+          "Description": "Your private cloud",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Züs",
+          "ProjectLink": "https://zus.network",
+          "Description": "A high-performance storage network powering limitless applications. It's a new way to earn a passive income from storage",
+          "GitHub": "https://github.com/0chain",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "SerenityShield",
+          "ProjectLink": "https://serenityshield.io",
+          "Description": "The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "TransferChain",
+          "ProjectLink": "https://transferchain.io",
+          "Description": "Enables users to store, process, and share their data while ensuring its privacy and security",
+          "GitHub": "https://github.com/TransferChain",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Swarm",
+          "ProjectLink": "https://www.ethswarm.org",
+          "Description": "A decentralized data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dApps",
+          "GitHub": "https://github.com/ethersphere/swarm-cli",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "DJIB",
+          "ProjectLink": "https://djib.io",
+          "Description": "DJIB is the next generation Web3 storage",
+          "GitHub": "https://github.com/Djib-io",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Crust",
+          "ProjectLink": "https://crust.network",
+          "Description": "Web3.0 Storage for the Metaverse",
+          "GitHub": "https://github.com/crustio",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Fileverse",
+          "ProjectLink": "https://fileverse.io",
+          "Description": "On-chain people and communities deserve on-chain tools for private communication and collaboration.",
+          "GitHub": "https://github.com/fileverse",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Storj",
+          "ProjectLink": "https://www.storj.io/",
+          "Description": "Massive, globally distributed network for data storage with better security, privacy, and durability with CDN-like performance. Anyone is able to host a Storj node and stake their token to strengthen the network. Has a paid subscription model for storage.",
+          "GitHub": "https://github.com/Storj/",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Synx",
+          "ProjectLink": "https://synx.xyz",
+          "Description": "The Web3 storage platform",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Oort",
+          "ProjectLink": "https://www.oortech.com",
+          "Description": "A decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        }
+      ]
+    }
+  }
+  

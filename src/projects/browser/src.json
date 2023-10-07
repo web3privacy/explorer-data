@@ -1,0 +1,89 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true",
+      "Projects": [
+        {
+          "Project": "Puma browser",
+          "ProjectLink": "https://www.pumabrowser.com",
+          "Description": "Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Brave",
+          "ProjectLink": "http://brave.com",
+          "Description": "Browse privately. Search privately. And ditch Big Tech",
+          "GitHub": "https://github.com/brave/brave-browser",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Opera Crypto Browser",
+          "ProjectLink": "https://www.opera.com/crypto/next",
+          "Description": "Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Osiris",
+          "ProjectLink": "https://www.decenternet.net/osiris",
+          "Description": "Osiris is the world's first net-neutral browser.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Decentr",
+          "ProjectLink": "https://decentr.net",
+          "Description": "Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value",
+          "GitHub": "https://github.com/Decentr-net",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Carbon Browser",
+          "ProjectLink": "https://carbon.website",
+          "Description": "Join over 5M+ Users. The Fastest Web 3 Browser. AdBlock + 100% Privacy",
+          "GitHub": "https://github.com/Carbon-Browser",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Status Web3 Browser",
+          "ProjectLink": "https://status.im/web-three-browser/",
+          "Description": "Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Mullvad Browser",
+          "ProjectLink": "https://github.com/mullvad/mullvad-browser",
+          "Description": "The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project.",
+          "GitHub": "https://github.com/mullvad/mullvad-browser",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Fulldive",
+          "ProjectLink": "https://www.fulldive.com",
+          "Description": "Web3 browser that respects your privacy",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        }
+      ]
+    }
+  }
+  
