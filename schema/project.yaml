@@ -1,15 +1,18 @@
 type: object
 additionalProperties: false
 required:
+  - id
   - name
   - categories
   - ecosystem
-  - token
   - description
   - project_type
   - technology
   - links
 properties:
+  id:
+    type: string
+    pattern: '^[a-z0-9-]+$'
   name: 
     type: string
   categories:
@@ -27,7 +30,7 @@ properties:
       symbol:
         type: string
       network:
-        type: 
+        type: string
       contract_address:
         type: string
     required:
@@ -115,7 +118,7 @@ properties:
       encryption:
         type: string
       network:
-        type: 
+        type: string
       upgradability:
         type: object
         properties:
@@ -190,7 +193,7 @@ properties:
     type: object
     properties:
       decentralized:
-      type: boolean
+        type: boolean
   tracebility:
     type: object
     properties:
@@ -221,7 +224,7 @@ properties:
   social_trust:
     type: string
   technical_spof:
-    type: striing
+    type: string
   history:
     type: object
     properties:

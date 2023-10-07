@@ -1,0 +1,30 @@
+name: Test
+
+on:
+  push:
+    branches:
+      - main  # Set a branch to deploy
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+           fetch-depth: 0
+
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Europe/Prague"
+
+      - name: Test
+        run: make test
