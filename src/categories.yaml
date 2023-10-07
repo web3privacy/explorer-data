@@ -6,9 +6,9 @@
   name: Currency
 - id: infrastructure
   name: Infrastructure
-- id: computing_network
+- id: computing-network
   name: Computing network
-- id: layer_2
+- id: layer-2
   name: Layer 2
 - id: hardware
   name: Hardware
@@ -40,9 +40,9 @@
   name: Other
 - id: alliance
   name: Alliance
-- id: mixing_management
+- id: mixing-management
   name: Mixing management
-- id: data_management
+- id: data-management
   name: Data management
 - id: donate
   name: Donate
