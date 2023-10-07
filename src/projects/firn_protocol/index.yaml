@@ -1,0 +1,16 @@
+name: Firn Protocol
+categories: [defi]
+ecosystem: Ethereum
+description: 'Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains.'
+technology:
+  type: zk
+links:
+  web: https://app.firn.cash/
+  github: https://github.com/firnprotocol
+	docs: https://docs.firn.cash/
+project_status:
+	live_status: true
+team:
+	anonymous: true
+
+  
