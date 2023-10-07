@@ -1,0 +1,10 @@
+name: xx messenger
+categories:
+  - messaging
+description: >-
+  An ultra-private messaging app, powered by the quantum-resistant and
+  decentralized xx network
+links:
+  web: https://elixxir.io
+  github: https://git.xx.network/elixxir/client-android
+team: {}

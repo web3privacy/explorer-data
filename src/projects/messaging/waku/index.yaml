@@ -1,0 +1,10 @@
+name: Waku
+categories:
+  - messaging
+description: >-
+  Waku is the communication layer for Web3. Decentralized communication that
+  scales
+links:
+  web: https://waku.org
+  github: https://github.com/waku-org
+team: {}

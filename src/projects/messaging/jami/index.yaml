@@ -1,0 +1,10 @@
+name: Jami
+categories:
+  - messaging
+description: >-
+  Jami is a free/libre, end-to-end encrypted, and private communication
+  platform.
+links:
+  web: https://jami.net/
+  github: https://git.jami.net/savoirfairelinux/jami-project
+team: {}

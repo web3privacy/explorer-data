@@ -1,0 +1,206 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true",
+      "Projects": [
+        {
+          "Project": "Waku",
+          "ProjectLink": "https://waku.org",
+          "Description": "Waku is the communication layer for Web3. Decentralized communication that scales",
+          "GitHub": "https://github.com/waku-org",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Status",
+          "ProjectLink": "https://status.im",
+          "Description": "Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology",
+          "GitHub": "https://github.com/status-im/",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "xx messenger",
+          "ProjectLink": "https://elixxir.io",
+          "Description": "An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network",
+          "GitHub": "https://git.xx.network/elixxir/client-android",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "ALTER",
+          "ProjectLink": "https://altermail.co",
+          "Description": "Private & Secure Communication App Utilizing Secret Nework's secret contract technology.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Session",
+          "ProjectLink": "https://getsession.org",
+          "Description": "An end-to-end encrypted messenger that minimizes sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.",
+          "GitHub": "https://github.com/oxen-io",
+          "ProductReadiness": "Live",
+          "Ecosystem": "Cryptonote",
+          "TeamLink": "https://www.linkedin.com/company/sessionmessenger/people/"
+        },
+        {
+          "Project": "BCchat",
+          "ProjectLink": "https://bchat.beldex.io",
+          "Description": "A decentralized, privacy messenger built over the Beldex blockchain.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Crypviser Secure Messenger",
+          "ProjectLink": "https://crypviser.network/",
+          "Description": "The most private messaging app, based on Blockchain technology.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "XMTP x Lens",
+          "ProjectLink": "https://blog.xmtp.com/lens-dms-with-xmtp/",
+          "Description": "Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Senging.me",
+          "ProjectLink": "https://sending.me",
+          "Description": "Open-source communication & social platform.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Zion",
+          "ProjectLink": "https://www.zion.fyi",
+          "Description": "The safest way to join, chat, and send",
+          "GitHub": "https://github.com/getzion/",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "RLN Anonymous Chat",
+          "ProjectLink": "https://github.com/njofce/zk-chat",
+          "Description": "A spam-resistant instant messaging application for private and anonymous communication.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Beepo",
+          "ProjectLink": "https://beepoapp.net/#features",
+          "Description": "A social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts",
+          "GitHub": "https://github.com/beepo-app",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Pastenym",
+          "ProjectLink": "https://pastenym.ch/#/",
+          "Description": "Anon text sharing service",
+          "GitHub": "https://github.com/notrustverify/pastenym/",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Onionclub",
+          "ProjectLink": "https://onionclub.io",
+          "Description": "Blockchain-based, business & social platform.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Speakeasy",
+          "ProjectLink": "https://alpha.speakeasy.tech",
+          "Description": "Speak easily to a group of friends or a global community. Talk about what you want. Surveillance free. Censorship proof.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Speak app",
+          "ProjectLink": "https://speakapp.me",
+          "Description": "No phone number. No email address. Speakapp is a simple, and secure web3 messenger.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Pigeon Communicator",
+          "ProjectLink": "https://pigeoncoin.org",
+          "Description": "Blockchain-based, trustless, censorship-resistant decentralized messaging.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "HushChat",
+          "ProjectLink": "https://git.hush.is/hush/hushchat",
+          "Description": "Private messenger using zero knowledge mathematics.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+          "Project": "Relayz",
+          "ProjectLink": "https://relayz.io",
+          "Description": "Hyper-secure, private communications protocol for Web3",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "TeamLink": "-"
+        },
+        {
+            "Project": "Mejhool",
+            "ProjectLink": "https://hzmcoin.com/mejhool/",
+            "Description": "A decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer, and voice-over-IP service.",
+            "GitHub": "-",
+            "ProductReadiness": "-",
+            "Ecosystem": "-",
+            "TeamLink": "-"
+          },
+          {
+            "Project": "Jami",
+            "ProjectLink": "https://jami.net/",
+            "Description": "Jami is a free/libre, end-to-end encrypted, and private communication platform.",
+            "GitHub": "https://git.jami.net/savoirfairelinux/jami-project",
+            "ProductReadiness": "-",
+            "Ecosystem": "-",
+            "TeamLink": "-"
+          },
+          {
+            "Project": "lurch1317",
+            "ProjectLink": "https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md",
+            "Description": "The omemo variant based on vault1317, which is an off-chain secure communication protocol with deniability under federated XMPP network with ✨️**ZK**.",
+            "GitHub": "https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md",
+            "ProductReadiness": "-",
+            "Ecosystem": "-",
+            "TeamLink": "-"
+          }
+      ]
+    }
+  }
+  
