@@ -5,6 +5,8 @@ description: 'Firn is the first-ever zero-knowledge privacy platform in the acco
 token:
   - name: Firn
     symbol: FIRN
+    network: Optimism
+    contract_address: 0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4
 project_type: DeFi
 product_launch_day: 2021/11/06
 technology:
