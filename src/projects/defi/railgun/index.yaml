@@ -4,11 +4,11 @@ token:
   - name: Railgun
     symbol: RAIL
     network: Ethereum
-    contract_address: 0xe76c6c83af64e4c60245d8c7de953df673a7a33d
+    contract_address: "0xe76c6c83af64e4c60245d8c7de953df673a7a33d"
   - name: Railgun
     symbol: RAIL
     network: Polygon
-    contract_address: 0x92A9C92C215092720C731c96D4Ff508c831a714f
+    contract_address: "0x92A9C92C215092720C731c96D4Ff508c831a714f"
 description: 'Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.'
 project_type: transaction
 technology:
