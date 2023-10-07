@@ -6,7 +6,7 @@ token:
     symbol: SIENNA
 description: 'Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem.'
 project_type: DeFi
-product_launch_day: April 27, 2022
+product_launch_day: 2022/04/27
 technology:
   type: TEE
   name: Trusted execution environment
