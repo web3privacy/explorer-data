@@ -145,6 +145,8 @@ properties:
         link:
           type: string
           format: uli
+    third_party_dependency:
+      type: boolean
     opensource:
       type: boolean
     viewing_key:
