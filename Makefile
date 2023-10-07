@@ -17,7 +17,7 @@ gen:
 gen-all:
 	# make gen cat=defi
 	make gen cat=currency
-	# make gen cat=infrastructure
+	make gen cat=infrastructure
 	make gen cat=wallets
 	make gen cat=computing-network
 	make gen cat=layer-2

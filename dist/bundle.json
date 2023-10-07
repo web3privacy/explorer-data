@@ -2739,7 +2739,7 @@
         "kyc": false,
         "sign_in_type_requirments": "seed"
       },
-      "third_party_dependency": false,
+      "third_party_dependency": "none",
       "compliance": false,
       "history": [
         {
@@ -3956,97 +3956,531 @@
       }
     },
     {
-      "id": "deeponion"
+      "id": "deeponion",
+      "name": "DeepOnion",
+      "categories": [
+        "currency"
+      ],
+      "description": "An anonymous cryptocurrency that is integrated with the Tor network",
+      "ecosystem": "Deep0nion",
+      "product_readiness": "mainnet, 2017",
+      "links": {
+        "web": "https://deeponion.org",
+        "github": "https://github.com/deeponion/deeponion/"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "firo"
+      "id": "firo",
+      "name": "Firo",
+      "categories": [
+        "currency"
+      ],
+      "description": "A privacy-preserving cryptocurrency and ecosystem",
+      "ecosystem": "Firo",
+      "product_readiness": "live, beta",
+      "links": {
+        "web": "https://firo.org",
+        "github": "https://github.com/firoorg/firo"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "bob-protocol"
+      "id": "bob-protocol",
+      "name": "BOB Protocol",
+      "categories": [
+        "currency"
+      ],
+      "description": "A multi-chain, multi-collateral stable token enhanced with optional privacy features",
+      "ecosystem": "Polygon, Optimism, BNB, Ethereum",
+      "product_readiness": "live, beta",
+      "links": {
+        "web": "https://zkbob.com/",
+        "github": "https://github.com/zkBob"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "iron-fish"
+      "id": "iron-fish",
+      "name": "Iron Fish",
+      "categories": [
+        "currency"
+      ],
+      "description": "The Privacy Platform for Web3",
+      "ecosystem": "Iron Fish",
+      "product_readiness": "testnet v3",
+      "links": {
+        "web": "https://ironfish.network",
+        "github": "https://github.com/iron-fish"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "litecash"
+      "id": "litecash",
+      "name": "Litecash",
+      "categories": [
+        "currency"
+      ],
+      "description": "The first fork of Beam. We removed the founder's reward and are 100% community-funded.",
+      "ecosystem": "Mimblewimble",
+      "product_readiness": "wallet live",
+      "links": {
+        "web": "https://lite-cash.com",
+        "github": "https://github.com/Litecash-Dev"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "cog"
+      "id": "zcash",
+      "name": "Zcash",
+      "categories": [
+        "currency"
+      ],
+      "description": "A digital currency - fast and confidential with low fees",
+      "ecosystem": "ZCash",
+      "product_readiness": "mainnet, October 2016",
+      "links": {
+        "web": "https://z.cash",
+        "github": "https://github.com/securesecrets/shade"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "boltz"
+      "id": "cog",
+      "name": "COG",
+      "categories": [
+        "currency"
+      ],
+      "description": "A new private digital currency that leverages the power of Web3 and DeFi without compromising the privacy and security of its users.",
+      "links": {
+        "web": "https://cogfi.org"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "epic-cash"
+      "id": "boltz",
+      "name": "Boltz",
+      "categories": [
+        "currency"
+      ],
+      "description": "Privacy first, account-free crypto exchange",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://boltz.exchange",
+        "github": "https://github.com/BoltzExchange/"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "grin"
+      "id": "epic-cash",
+      "name": "Epic Cash",
+      "categories": [
+        "currency"
+      ],
+      "description": "Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.",
+      "ecosystem": "MimbleWimble",
+      "product_readiness": "live, August 2019",
+      "links": {
+        "web": "https://epic.tech"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "mobilecoin"
+      "id": "grin",
+      "name": "GRin",
+      "categories": [
+        "currency"
+      ],
+      "description": "Electronic transactions for all. Without censorship or restrictions",
+      "ecosystem": "Mimblewimble",
+      "product_readiness": "live, January 2019",
+      "links": {
+        "web": "https://grin.mw",
+        "github": "https://github.com/mimblewimble/grin"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "oxen"
+      "id": "mobilecoin",
+      "name": "MobileCoin",
+      "categories": [
+        "currency"
+      ],
+      "description": "MobileCoin makes global payments inexpensive, secure and fast",
+      "ecosystem": "mobilecoin",
+      "product_readiness": "live, December 2020",
+      "links": {
+        "web": "https://mobilecoin.com",
+        "github": "https://github.com/mobilecoinofficial"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "hush"
+      "id": "oxen",
+      "name": "Oxen",
+      "categories": [
+        "currency"
+      ],
+      "description": "A cryptocurrency powering a new class of interconnected privacy apps",
+      "ecosystem": "0xen",
+      "product_readiness": "mainnet, 2018",
+      "links": {
+        "web": "https://oxen.io",
+        "github": "https://github.com/oxen-io"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "ghost"
+      "id": "hush",
+      "name": "Hush",
+      "categories": [
+        "currency"
+      ],
+      "description": "Private cryptocurrency using zero knowledge mathematics",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://hush.is"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "silk"
+      "id": "ghost",
+      "name": "Ghost",
+      "categories": [
+        "currency"
+      ],
+      "description": "Proof of Stake privacy coin to help make you nothing but a 'ghost' when transacting online",
+      "ecosystem": "Ghost",
+      "product_readiness": "mainnet, 2020",
+      "links": {
+        "web": "https://ipfs.ghostbyjohnmcafee.com/#/",
+        "github": "https://github.com/ghost-coin"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "beldex"
+      "id": "silk",
+      "name": "SILK",
+      "categories": [
+        "currency"
+      ],
+      "description": "Private Algorithmic Stable Coin",
+      "ecosystem": "Secret Network",
+      "links": {
+        "web": "https://github.com/scrtlabs/Grants/issues/22",
+        "github": "https://github.com/scrtlabs"
+      }
     },
     {
-      "id": "pirate-chain"
+      "id": "beldex",
+      "name": "Beldex",
+      "categories": [
+        "currency"
+      ],
+      "description": "A privacy currency based on Monero, Beldex currently offers incentive-based Master Nodes and in the future Beldex will be using POS instead of POW",
+      "ecosystem": "Beldex",
+      "product_readiness": "mainnet, 2021",
+      "links": {
+        "web": "https://www.beldex.io/",
+        "github": "https://github.com/Beldex-Coin"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "zero"
+      "id": "pirate-chain",
+      "name": "Pirate Chain",
+      "categories": [
+        "currency"
+      ],
+      "description": "The most anonymous cryptocurrency, a truly private, decentralized blockchain.",
+      "ecosystem": "Pirate",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://pirate.black",
+        "github": "https://github.com/PirateNetwork"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "decred"
+      "id": "zero",
+      "name": "Zero",
+      "categories": [
+        "currency"
+      ],
+      "description": "Private transactions",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://zero.directory",
+        "github": "https://github.com/zerocurrencycoin"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "monero"
+      "id": "decred",
+      "name": "Decred",
+      "categories": [
+        "currency"
+      ],
+      "description": "A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development",
+      "ecosystem": "Lighting Network",
+      "links": {
+        "web": "https://decred.org",
+        "github": "https://docs.decred.org"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "evolution"
+      "id": "monero",
+      "name": "Monero",
+      "categories": [
+        "currency"
+      ],
+      "description": "Private, decentralized cryptocurrency that keeps your finances confidential and secure",
+      "ecosystem": "Monero",
+      "product_readiness": "mainnet, April 2014",
+      "links": {
+        "web": "https://www.getmonero.org",
+        "github": "https://github.com/monero-ecosystem"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "pivx"
+      "id": "evolution",
+      "name": "Evolution",
+      "categories": [
+        "currency"
+      ],
+      "description": "A new level of your freedom. Anonymously. Secure.",
+      "ecosystem": "Evolution",
+      "product_readiness": "mainnet, 2020",
+      "links": {
+        "web": "https://evolution-network.org",
+        "github": "https://github.com/evolution-project"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "blackhat-coin"
+      "id": "pivx",
+      "name": "PivX",
+      "categories": [
+        "currency"
+      ],
+      "description": "Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets",
+      "ecosystem": "Pivx",
+      "links": {
+        "web": "https://pivx.org",
+        "github": "https://github.com/PIVX-Project/PIVX/"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "colossusxt"
+      "id": "blackhat-coin",
+      "name": "BlackHat Coin",
+      "categories": [
+        "currency"
+      ],
+      "description": "Privacy-focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol ✨️ZK",
+      "ecosystem": "BlackHat",
+      "product_readiness": "mainnet, 2021",
+      "links": {
+        "web": "https://blackhatco.in",
+        "github": "https://github.com/BlackHatCoin"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "zano"
+      "id": "colossusxt",
+      "name": "ColossusXT",
+      "categories": [
+        "currency"
+      ],
+      "description": "A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation",
+      "ecosystem": "ColossusXT",
+      "product_readiness": "mainnet, 2017",
+      "links": {
+        "web": "https://www.colossusxt.io",
+        "github": "https://github.com/ColossusCoinXT"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "beam"
+      "id": "zano",
+      "name": "Zano",
+      "categories": [
+        "currency"
+      ],
+      "description": "A scalable and secure coin, with confidential assets support",
+      "ecosystem": "Zano",
+      "product_readiness": "mainnet, May 2019",
+      "links": {
+        "web": "https://zano.org",
+        "github": "https://github.com/hyle-team/zano"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "particl"
+      "id": "beam",
+      "name": "Beam",
+      "categories": [
+        "currency"
+      ],
+      "description": "Best in class privacy coin and confidential DeFi platform",
+      "links": {
+        "web": "https://beam.mw",
+        "github": "https://github.com/BeamMW/beam"
+      },
+      "ecosystem": "Beam",
+      "product_readiness": "mainnet, 2019",
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "x-cash"
+      "id": "particl",
+      "name": "Particl",
+      "categories": [
+        "currency"
+      ],
+      "description": "A modern digital currency that respects your rights",
+      "ecosystem": "Particl",
+      "product_readiness": "mainnet, 2019",
+      "links": {
+        "web": "https://particl.io/coin",
+        "github": "https://github.com/particl"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "navcoin"
+      "id": "x-cash",
+      "name": "x-cash",
+      "categories": [
+        "currency"
+      ],
+      "description": "Web3’s Private Public Computing Platform",
+      "ecosystem": "xcash",
+      "product_readiness": "mainnet, 2018",
+      "links": {
+        "web": "https://xcash.foundation",
+        "github": "https://github.com/X-CASH-official"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "basic-attention-token"
+      "id": "navcoin",
+      "name": "Navcoin",
+      "categories": [
+        "currency"
+      ],
+      "description": "An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features",
+      "ecosystem": "Navcoin",
+      "product_readiness": "mainnet, 2014",
+      "links": {
+        "web": "https://navcoin.org",
+        "github": "https://github.com/navcoin"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "discreet"
+      "id": "basic-attention-token",
+      "name": "Basic Attention Token",
+      "categories": [
+        "currency"
+      ],
+      "description": "Making Crypto and DeFi accessible and usable for everyone (powered by Brave)",
+      "ecosystem": "Solana",
+      "product_readiness": "mainnet",
+      "links": {
+        "web": "https://basicattentiontoken.org"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "ecash"
+      "id": "discreet",
+      "name": "Discreet",
+      "categories": [
+        "currency"
+      ],
+      "description": "A game-changing cryptocurrency with a sharp focus on total privacy and blistering speed",
+      "ecosystem": "Discreet Compute Network",
+      "product_readiness": "testnet, 2022",
+      "links": {
+        "web": "https://discreet.net",
+        "github": "https://github.com/DiscreetNetwork"
+      },
+      "team": {
+        "anonymous": false
+      }
+    },
+    {
+      "id": "ecash",
+      "name": "eCash",
+      "categories": [
+        "currency"
+      ],
+      "description": "Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche",
+      "links": {
+        "web": "https://e.cash",
+        "github": "https://github.com/bitcoin-abc/bitcoin-abc/"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
       "id": "evanesco",
@@ -4129,9 +4563,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "spiral_finance"
     },
     {
       "id": "sienna",
@@ -4388,6 +4819,9 @@
         "testnet": false,
         "mainnet": true
       }
+    },
+    {
+      "id": "spiral-finance"
     },
     {
       "id": "sacred"

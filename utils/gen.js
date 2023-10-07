@@ -55,10 +55,12 @@ async function genCat(cat) {
       links: Object.assign(baseObject.links || {}, {
         web: p.ProjectLink,
         github: p.GitHub && p.GitHub !== '-' ? p.GitHub : undefined,
-        docs: p.Docs && p.Docs !== '-' ? p.Docs : undefined,
       }),
       team: Object.assign({}, baseObject.team || {}),
     });
+    if (p.Docs && p.Docs !== '-') {
+      out.links.docs = p.Docs
+    }
     if (p.Team === "anon" || p.Team === 'Public') {
       out.team.anonymous = p.Team === "anon" ? true : false
     }
@@ -68,8 +70,13 @@ async function genCat(cat) {
     if (Object.keys(out.team).length === 0) {
       delete out.team
     }
-    if (p.Token) {
+    if (p.Token && p.Token !== 'No' && p.Token !== 'no') {
       out.have_token = true
+      if (typeof(p.Token) === "string" && p.Token.match(/^[A-Z]+$/)) {
+        out.token = Object.assign(out.token || {}, {
+          symbol: p.Token
+        })
+      }
       if (p.TokenLink) {
         out.token_link = p.TokenLink !== '-' ? p.TokenLink : undefined
       }
