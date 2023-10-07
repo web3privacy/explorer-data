@@ -2,9 +2,8 @@ name: Shade Protocol
 categories: [ defi ]
 ecosystem: Secret
 token:
-  name: Shade Protocol
-  symbol: SHD
-  contract_address:
+  - name: Shade Protocol
+    symbol: SHD
 description: 'Super app for private DeFi'
 project_type: DeFi
 product_launch_day: Feb 21, 2022
@@ -25,17 +24,12 @@ links:
   docs: https://docs.shadeprotocol.io/shade-protocol/
   changelog: 
   forum: https://forum.shadeprotocol.io/
-  snapshot:
-  lens:
-  farcaster:
-  rss_feed: 
 blockchain_features:
   p2p: false
   encryption: TEE
   upgradability:
     enabled: true
     type: multisig
-    admin_keys: 
   opensource: true
   viewing_key: true
   dissapearing_tx: false
@@ -73,13 +67,9 @@ third_party_dependency: false
 compliance: false
 audits:
   - name: stkd-SCRT
-    company: 
-    logo: 
     link: https://docs.shadeprotocol.io/shade-protocol/research/audit-log
     time: March 29th, 2022
   - name: Bonds
-    company: 
-    logo: 
     link: https://docs.shadeprotocol.io/shade-protocol/research/audit-log
     time: August 2nd, 2022
 social_trust: Slabs ( MRSINGER )
