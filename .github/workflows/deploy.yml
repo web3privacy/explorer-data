@@ -1,13 +1,14 @@
-name: Test
-
+name: Build and Deploy
 on:
-  push:
-    branches:
-      - main  # Set a branch to deploy
-  pull_request:
-    
+    push:
+      branches:
+        - main  # Set a branch to deploy
+    pull_request:
+        
+permissions:
+  contents: write
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -31,3 +32,11 @@ jobs:
 
       - name: Test
         run: make test
+
+      - name: Test
+        run: make build
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist # The folder the action should deploy.
