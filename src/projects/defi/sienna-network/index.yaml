@@ -8,7 +8,7 @@ technology:
     - lending
 links:
   web: https://sienna.network/
-  github: GitHub
+  github: https://github.com/SiennaNetwork
   docs: https://docs.firn.cash/
 project_status:
   live_status: true
