@@ -4,6 +4,7 @@ ecosystem: Secret
 token:
   - name: Shade Protocol
     symbol: SHD
+    network: Secret Network
 description: 'Super app for private DeFi'
 project_type: DeFi
 product_launch_day: Feb 21, 2022
