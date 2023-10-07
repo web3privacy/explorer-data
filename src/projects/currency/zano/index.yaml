@@ -1,0 +1,11 @@
+name: Zano
+categories:
+  - currency
+description: A scalable and secure coin, with confidential assets support
+ecosystem: Zano
+product_readiness: mainnet, May 2019
+links:
+  web: https://zano.org
+  github: https://github.com/hyle-team/zano
+team:
+  anonymous: false

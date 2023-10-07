@@ -15,6 +15,10 @@ gen:
 	deno run -A utils/gen.js $(cat)
 
 gen-all:
+	# make gen cat=defi
+	make gen cat=currency
+	# make gen cat=infrastructure
+	make gen cat=wallets
 	make gen cat=computing-network
 	make gen cat=layer-2
 	make gen cat=hardware
@@ -34,4 +38,3 @@ gen-all:
 	make gen cat=node
 	make gen cat=mixing-service
 	make gen cat=data-management
-	make gen cat=wallets

@@ -1,0 +1,11 @@
+name: Particl
+categories:
+  - currency
+description: A modern digital currency that respects your rights
+ecosystem: Particl
+product_readiness: mainnet, 2019
+links:
+  web: https://particl.io/coin
+  github: https://github.com/particl
+team:
+  anonymous: false

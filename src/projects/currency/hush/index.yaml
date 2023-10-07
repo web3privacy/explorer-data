@@ -1,0 +1,9 @@
+name: Hush
+categories:
+  - currency
+description: Private cryptocurrency using zero knowledge mathematics
+product_readiness: live
+links:
+  web: https://hush.is
+team:
+  anonymous: false

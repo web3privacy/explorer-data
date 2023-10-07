@@ -1,0 +1,11 @@
+name: Evolution
+categories:
+  - currency
+description: A new level of your freedom. Anonymously. Secure.
+ecosystem: Evolution
+product_readiness: mainnet, 2020
+links:
+  web: https://evolution-network.org
+  github: https://github.com/evolution-project
+team:
+  anonymous: true

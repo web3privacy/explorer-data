@@ -1,0 +1,10 @@
+name: Zero
+categories:
+  - currency
+description: Private transactions
+product_readiness: live
+links:
+  web: https://zero.directory
+  github: https://github.com/zerocurrencycoin
+team:
+  anonymous: true

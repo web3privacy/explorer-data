@@ -1,0 +1,11 @@
+name: Beam
+categories:
+  - currency
+description: Best in class privacy coin and confidential DeFi platform
+links:
+  web: https://beam.mw
+  github: https://github.com/BeamMW/beam
+ecosystem: Beam
+product_readiness: mainnet, 2019
+team:
+  anonymous: false

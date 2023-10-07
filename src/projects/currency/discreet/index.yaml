@@ -1,0 +1,13 @@
+name: Discreet
+categories:
+  - currency
+description: >-
+  A game-changing cryptocurrency with a sharp focus on total privacy and
+  blistering speed
+ecosystem: Discreet Compute Network
+product_readiness: testnet, 2022
+links:
+  web: https://discreet.net
+  github: https://github.com/DiscreetNetwork
+team:
+  anonymous: false

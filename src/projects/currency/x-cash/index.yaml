@@ -1,0 +1,11 @@
+name: x-cash
+categories:
+  - currency
+description: Web3’s Private Public Computing Platform
+ecosystem: xcash
+product_readiness: mainnet, 2018
+links:
+  web: https://xcash.foundation
+  github: https://github.com/X-CASH-official
+team:
+  anonymous: false

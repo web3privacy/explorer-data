@@ -1,0 +1,11 @@
+name: Zcash
+categories:
+  - currency
+description: A digital currency - fast and confidential with low fees
+ecosystem: ZCash
+product_readiness: mainnet, October 2016
+links:
+  web: https://z.cash
+  github: https://github.com/securesecrets/shade
+team:
+  anonymous: false

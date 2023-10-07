@@ -1,0 +1,11 @@
+name: Pirate Chain
+categories:
+  - currency
+description: The most anonymous cryptocurrency, a truly private, decentralized blockchain.
+ecosystem: Pirate
+product_readiness: live
+links:
+  web: https://pirate.black
+  github: https://github.com/PirateNetwork
+team:
+  anonymous: true

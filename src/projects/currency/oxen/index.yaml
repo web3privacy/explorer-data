@@ -1,0 +1,11 @@
+name: Oxen
+categories:
+  - currency
+description: A cryptocurrency powering a new class of interconnected privacy apps
+ecosystem: 0xen
+product_readiness: mainnet, 2018
+links:
+  web: https://oxen.io
+  github: https://github.com/oxen-io
+team:
+  anonymous: true

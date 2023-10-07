@@ -1,0 +1,13 @@
+name: Monero
+categories:
+  - currency
+description: >-
+  Private, decentralized cryptocurrency that keeps your finances confidential
+  and secure
+ecosystem: Monero
+product_readiness: mainnet, April 2014
+links:
+  web: https://www.getmonero.org
+  github: https://github.com/monero-ecosystem
+team:
+  anonymous: true

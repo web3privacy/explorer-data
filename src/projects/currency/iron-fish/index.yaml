@@ -1,0 +1,11 @@
+name: Iron Fish
+categories:
+  - currency
+description: The Privacy Platform for Web3
+ecosystem: Iron Fish
+product_readiness: testnet v3
+links:
+  web: https://ironfish.network
+  github: https://github.com/iron-fish
+team:
+  anonymous: false

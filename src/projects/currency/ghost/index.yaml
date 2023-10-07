@@ -1,0 +1,13 @@
+name: Ghost
+categories:
+  - currency
+description: >-
+  Proof of Stake privacy coin to help make you nothing but a 'ghost' when
+  transacting online
+ecosystem: Ghost
+product_readiness: mainnet, 2020
+links:
+  web: https://ipfs.ghostbyjohnmcafee.com/#/
+  github: https://github.com/ghost-coin
+team:
+  anonymous: true

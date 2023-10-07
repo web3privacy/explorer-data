@@ -1,0 +1,13 @@
+name: Litecash
+categories:
+  - currency
+description: >-
+  The first fork of Beam. We removed the founder's reward and are 100%
+  community-funded.
+ecosystem: Mimblewimble
+product_readiness: wallet live
+links:
+  web: https://lite-cash.com
+  github: https://github.com/Litecash-Dev
+team:
+  anonymous: true

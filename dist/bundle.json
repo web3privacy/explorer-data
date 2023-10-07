@@ -4098,9 +4098,6 @@
       "id": "nonkyc"
     },
     {
-      "id": "shade_cash"
-    },
-    {
       "id": "cia-protocol"
     },
     {
@@ -4425,6 +4422,9 @@
       }
     },
     {
+      "id": "shade-cash"
+    },
+    {
       "id": "webb",
       "name": "Webb",
       "categories": [
@@ -4685,9 +4685,6 @@
     },
     {
       "id": "sahara"
-    },
-    {
-      "id": "yellow_submarine"
     },
     {
       "id": "firn-protocol",
@@ -5052,6 +5049,9 @@
           "link": "https://offshift.io/#team"
         }
       }
+    },
+    {
+      "id": "yellow-submarine"
     },
     {
       "id": "conceal-network"

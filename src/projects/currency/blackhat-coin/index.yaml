@@ -1,0 +1,14 @@
+name: BlackHat Coin
+categories:
+  - currency
+description: >-
+  Privacy-focused decentralized cryptocurrency providing truly anonymous
+  untraceable transactions based on PoS consensus and zk-SNARKs data protection
+  protocol ✨️ZK
+ecosystem: BlackHat
+product_readiness: mainnet, 2021
+links:
+  web: https://blackhatco.in
+  github: https://github.com/BlackHatCoin
+team:
+  anonymous: true

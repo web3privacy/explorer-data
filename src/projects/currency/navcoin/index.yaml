@@ -1,0 +1,13 @@
+name: Navcoin
+categories:
+  - currency
+description: >-
+  An open-sourced digital currency offering fast and reliable payments with
+  innovative technological and privacy features
+ecosystem: Navcoin
+product_readiness: mainnet, 2014
+links:
+  web: https://navcoin.org
+  github: https://github.com/navcoin
+team:
+  anonymous: true
