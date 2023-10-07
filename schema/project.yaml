@@ -137,6 +137,14 @@ properties:
             type: string
           admin_keys:
             type: string
+    wallets:
+      type: object
+      properties:
+        name:
+          type: string
+        link:
+          type: string
+          format: uli
     opensource:
       type: boolean
     viewing_key:
