@@ -88,5 +88,3 @@ project_status:
   mainnet: true
 product_readiness: mainnet, 2020
 have_token: true
-tokens:
-  - symbol: SCRT
