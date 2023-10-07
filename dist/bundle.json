@@ -2668,8 +2668,8 @@
     },
     {
       "id": "lunar",
-      "name:": "Lunar aka Brume Wallet",
-      "category": [
+      "name": "Lunar aka Brume Wallet",
+      "categories": [
         "wallets"
       ],
       "ecosystem:": "Ethereum",
@@ -2740,7 +2740,7 @@
         "sign_in_type_requirments": "seed"
       },
       "third_party_dependency": "none",
-      "compliance": false,
+      "compliance": "compliant",
       "history": [
         {
           "title": "Hackaton",
@@ -2882,7 +2882,7 @@
       ],
       "description": "Non-custodial wallet",
       "links": {
-        "web": "www.coolwallet.io"
+        "web": "https://www.coolwallet.io"
       }
     },
     {
@@ -3201,175 +3201,854 @@
       }
     },
     {
-      "id": "tomochainp"
+      "id": "tomochainp",
+      "name": "TomoChainP",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A privacy protocols developed on TomoChain and designed to create safe and untraceable transactions",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://tomochain.com/tomop",
+        "github": "https://github.com/tomochain/tomop"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "TOMO"
+      }
     },
     {
-      "id": "integritee"
+      "id": "integritee",
+      "name": "Integritee",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The most scalable public blockchain solution for securely processing sensitive business or personal data",
+      "product_readiness": "mainnet, January 2022",
+      "links": {
+        "web": "https://integritee.network",
+        "github": "https://github.com/integritee-network"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "TEER"
+      }
     },
     {
-      "id": "xx-network"
+      "id": "xx-network",
+      "name": "XX network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The first and only quantum-resistant and privacy-focused blockchain ecosystem",
+      "product_readiness": "mainnet",
+      "links": {
+        "web": "https://xx.network",
+        "github": "https://git.xx.network/explore"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "XX"
+      }
     },
     {
-      "id": "keep"
+      "id": "keep",
+      "name": "Keep",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://keep.network/info",
+        "github": "https://github.com/keep-network/"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "KEEP"
+      }
     },
     {
-      "id": "seneca"
+      "id": "seneca",
+      "name": "Seneca",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The first layer 1 designed to build apps on rich, complex yet private data",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://www.seneca.tech"
+      }
     },
     {
-      "id": "orbis"
+      "id": "orbis",
+      "name": "Orbis",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "We make it easy to add social features to your application",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://orbis.club",
+        "github": "https://github.com/OrbisWeb3/"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "OBT"
+      }
     },
     {
-      "id": "raze-network"
+      "id": "raze-network",
+      "name": "Raze Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A EVM-compatible Privacy Layer on Multichains",
+      "product_readiness": "mainnet, November 2021",
+      "links": {
+        "web": "https://www.raze.network",
+        "github": "https://github.com/Raze-Net"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "RAZE"
+      }
     },
     {
-      "id": "sunscreen"
+      "id": "sunscreen",
+      "name": "Sunscreen",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Makes advanced privacy technology easy for engineers to use.",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://blog.sunscreen.tech/roadmap/",
+        "github": "https://github.com/Sunscreen-tech?ref=sunscreen"
+      }
     },
     {
-      "id": "nulink"
+      "id": "nulink",
+      "name": "Nulink",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Privacy-preserving technology for decentralized applications",
+      "product_readiness": "testnet, October 2022",
+      "links": {
+        "web": "https://www.nulink.org",
+        "github": "https://github.com/NuLink-network"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "NLINK"
+      }
     },
     {
-      "id": "nucypher"
+      "id": "nucypher",
+      "name": "NuCypher",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Cryptographic Infrastructure for Privacy-Preserving Applications",
+      "product_readiness": "mainnet, january 2023",
+      "links": {
+        "web": "https://www.nucypher.com",
+        "github": "https://github.com/nucypher/"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "NU"
+      }
     },
     {
-      "id": "utopia"
+      "id": "utopia",
+      "name": "Utopia",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://u.is/en/"
+      },
+      "have_token": true
     },
     {
-      "id": "gotabit"
+      "id": "gotabit",
+      "name": "GotaBit",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts",
+      "links": {
+        "web": "https://gotabit.io",
+        "github": "https://github.com/gotabit"
+      },
+      "have_token": true
     },
     {
-      "id": "mina"
+      "id": "mina",
+      "name": "Mina",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK**",
+      "product_readiness": "mainnet, march 2021",
+      "links": {
+        "web": "https://minaprotocol.com",
+        "github": "https://github.com/MinaProtocol/mina"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "MINA"
+      }
     },
     {
-      "id": "vault1317"
+      "id": "vault1317",
+      "name": "Vault1317",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An Off-chain secure communication protocol with deniability via ZKP (Ring Signature)",
+      "product_readiness": "PoC",
+      "links": {
+        "web": "https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/",
+        "github": "https://github.com/hardenedvault/vault1317"
+      }
     },
     {
-      "id": "hopr"
+      "id": "hopr",
+      "name": "HOPR",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A fully incentivized and decentralized privacy mixnet that enables private point-to-point data exchange",
+      "product_readiness": "testnet, 2021",
+      "links": {
+        "web": "https://hoprnet.org/protocol",
+        "github": "https://github.com/hoprnet"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "HOPR"
+      }
     },
     {
-      "id": "lit"
+      "id": "lit",
+      "name": "Lit",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Decentralized Cryptography for Access Control, Compute, and Encryption",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://litprotocol.com",
+        "github": "https://developer.litprotocol.com"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "LIT"
+      }
     },
     {
-      "id": "namada"
+      "id": "namada",
+      "name": "Namada",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Interchain Privacy",
+      "product_readiness": "testnet, January 2023",
+      "links": {
+        "web": "https://namada.net"
+      }
     },
     {
-      "id": "logion"
+      "id": "logion",
+      "name": "Logion",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Substrate-based public blockchain operated by a decentralized network of legal officers",
+      "links": {
+        "web": "https://logion.network",
+        "github": "https://github.com/logion-network"
+      },
+      "have_token": true
     },
     {
       "id": "ixec"
     },
     {
-      "id": "privatixy"
+      "id": "privatixy",
+      "name": "Privatixy",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users.",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://privatixy.io"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "PRIVATIXY"
+      }
     },
     {
-      "id": "concordium"
+      "id": "concordium",
+      "name": "Concordium",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A compliance ready blockchain backed by science that enables private and public transactions",
+      "product_readiness": "mainnet, June 2021",
+      "links": {
+        "web": "https://concordium.com",
+        "github": "https://github.com/Concordium"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "CCD"
+      }
     },
     {
-      "id": "zeronet"
+      "id": "zeronet",
+      "name": "ZeroNet",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://zeronet.io"
+      }
     },
     {
-      "id": "incognet"
+      "id": "incognet",
+      "name": "Incognet",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Privacy-respecting ISP, hosting, and VPS provider that can be accessed on I2P, TOR, and Yggdrasil - accepts various cryptocurrencies as payment.",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://incognet.io/"
+      }
     },
     {
-      "id": "highline"
+      "id": "highline",
+      "name": "Highline",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An execution layer for Ethereum",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://highline.dev",
+        "github": "https://highline.dev/docs/"
+      }
     },
     {
-      "id": "asterizm"
+      "id": "asterizm",
+      "name": "Asterizm",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Plug and play blockchain interoperability solution for enterprises, web3 protocols, and fintech with privacy at the core",
+      "links": {
+        "web": "https://asterizm.io",
+        "github": "https://github.com/Asterizm-Protocol"
+      },
+      "have_token": true
     },
     {
-      "id": "calamari-network"
+      "id": "calamari-network",
+      "name": "Calamari network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world ✨️**ZK**",
+      "product_readiness": "testnet, mainnet coming in 2023",
+      "links": {
+        "web": "https://calamari.network",
+        "github": "https://github.com/Manta-Network"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "KMA"
+      }
     },
     {
-      "id": "dero"
+      "id": "dero",
+      "name": "Dero",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy",
+      "product_readiness": "mainnet, February 2023",
+      "links": {
+        "web": "https://dero.io",
+        "github": "https://docs.dero.io"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "DERO"
+      }
     },
     {
-      "id": "auth3"
+      "id": "auth3",
+      "name": "Auth3",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Authentic Privacy Computing Network into Web 3.0",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://auth3.network"
+      },
+      "have_token": true
     },
     {
-      "id": "mind-network"
+      "id": "mind-network",
+      "name": "Mind Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Decentralized zero-trust data lake",
+      "links": {
+        "web": "https://mindnetwork.xyz",
+        "github": "https://github.com/mind-network"
+      },
+      "have_token": true
     },
     {
-      "id": "anytype"
+      "id": "anytype",
+      "name": "Anytype",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The digital assets and communities you create are truly yours.",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://anytype.io/en",
+        "github": "https://github.com/anytypeio"
+      }
     },
     {
-      "id": "verida"
+      "id": "verida",
+      "name": "Verida",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A multi-chain protocol for interoperable database storage and messaging built on decentralized identity",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://www.verida.io",
+        "github": "https://github.com/verida/"
+      }
     },
     {
-      "id": "omnia"
+      "id": "burstiq",
+      "name": "burstIQ",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Fuel your digital-first strategy with human health data. LifeGraph® takes the complexity out of managing sensitive human data freeing you to build trust through hyper-personalized health, work, and life digital experiences.",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://burstiq.com"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "BIQ"
+      }
     },
     {
-      "id": "haven-protocol"
+      "id": "omnia",
+      "name": "Omnia",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Secure blockchain node infrastructure",
+      "product_readiness": "testnet coming in Q1 2023",
+      "links": {
+        "web": "https://omniatech.io",
+        "github": "https://github.com/omniaprotocol"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "OMNIA"
+      }
     },
     {
-      "id": "partisia-blockchain"
+      "id": "haven-protocol",
+      "name": "Haven Protocol",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The world’s only network of private stable assets",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://havenprotocol.org",
+        "github": "https://github.com/haven-protocol-org"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "XHV"
+      }
     },
     {
-      "id": "automata-network"
+      "id": "partisia-blockchain",
+      "name": "Partisia Blockchain",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Built for trust, transparency, privacy, and speed of light finalization",
+      "product_readiness": "mainnet, December 2021",
+      "links": {
+        "web": "https://partisiablockchain.com",
+        "github": "https://partisiablockchain.gitlab.io/documentation/index.html"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "MPC"
+      }
     },
     {
-      "id": "nomos"
+      "id": "automata-network",
+      "name": "Automata Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://docs.ata.network",
+        "github": "https://github.com/automata-network"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "ATA"
+      }
     },
     {
-      "id": "darkfi"
+      "id": "nomos",
+      "name": "Nomos",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Nomos is a novel blockchain project that will address a network state's fundamental need for adaptable privacy and sovereignty.",
+      "links": {
+        "web": "http://nomos.tech",
+        "github": "https://github.com/logos-co"
+      },
+      "have_token": true
     },
     {
-      "id": "mystiko-network"
+      "id": "darkfi",
+      "name": "DarkFi",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application",
+      "product_readiness": "testnet, february 2023",
+      "links": {
+        "web": "https://dark.fi",
+        "github": "https://github.com/darkrenaissance/darkfi"
+      }
     },
     {
-      "id": "aleo"
+      "id": "mystiko-network",
+      "name": "Mystiko.Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK**",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://mystiko.network",
+        "github": "https://github.com/mystikonetwork"
+      }
     },
     {
-      "id": "findora"
+      "id": "aleo",
+      "name": "Aleo",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The World's First IDE for Zero-Knowledge Proofs ✨️**ZK**",
+      "product_readiness": "testnet, mainnet coming in July 2023",
+      "links": {
+        "web": "https://www.aleo.studio",
+        "github": "https://github.com/AleoHQ"
+      }
     },
     {
-      "id": "masq"
+      "id": "findora",
+      "name": "Findora",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities",
+      "product_readiness": "mainnet, March 2021",
+      "links": {
+        "web": "https://findora.org",
+        "github": "https://github.com/findoranetwork"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "FRA"
+      }
     },
     {
-      "id": "hana"
+      "id": "masq",
+      "name": "Masq",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://masq.ai",
+        "github": "https://github.com/MASQ-Project"
+      }
     },
     {
-      "id": "horizen"
+      "id": "hana",
+      "name": "Hana",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Layer 0 for privacy, bringing security and confidentiality to all blockchains",
+      "links": {
+        "web": "https://hana.network"
+      },
+      "have_token": true
     },
     {
-      "id": "suterusu"
+      "id": "horizen",
+      "name": "Horizen",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The Zero-Knowledge Enabled Network of Blockchains✨️**ZK**",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://www.horizen.io",
+        "github": "https://github.com/horizenofficial"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "ZEN"
+      }
     },
     {
-      "id": "threshold"
+      "id": "suterusu",
+      "name": "Suterusu",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A suite of privacy-preserving services to obfuscate transactional and asset information",
+      "product_readiness": "testnet, January 2021",
+      "links": {
+        "web": "https://suterusu.io",
+        "github": "https://github.com/suterusu-team"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "SUTER"
+      }
     },
     {
-      "id": "penumbra"
+      "id": "threshold",
+      "name": "Threshold",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A decentralized threshold cryptography network",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://threshold.network",
+        "github": "https://github.com/threshold-network"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "T"
+      }
     },
     {
-      "id": "the-farcaster-project"
+      "id": "penumbra",
+      "name": "Penumbra",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://penumbra.zone",
+        "github": "https://github.com/penumbra-zone"
+      }
     },
     {
-      "id": "scala"
+      "id": "the-farcaster-project",
+      "name": "The Farcaster Project",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node.",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://farcaster.dev/",
+        "github": "https://github.com/farcaster-project"
+      }
     },
     {
-      "id": "onino"
+      "id": "scala",
+      "name": "Scala",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An open-source cryptocurrency. Distributed wealth for all devices",
+      "product_readiness": "testnet, mainnet coming in 2023",
+      "links": {
+        "web": "https://scalaproject.io",
+        "github": "https://github.com/scala-network/"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "XLA"
+      }
     },
     {
-      "id": "comit-network"
+      "id": "onino",
+      "name": "Onino",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://www.onino.io"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "ONI"
+      }
     },
     {
-      "id": "arcana"
+      "id": "comit-network",
+      "name": "Comit Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "COMIT is an open protocol facilitating trustless cross-blockchain applications, connecting all blockchains without adding yet another. Working on BTC-XMR atomic swaps as well as various libraries and clients.",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://comit.network/",
+        "github": "https://github.com/comit-network"
+      }
     },
     {
-      "id": "parami"
+      "id": "arcana",
+      "name": "Arcana",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Users care about Privacy and Security, set your app apart with the most developer-friendly data storage and privacy platform.",
+      "product_readiness": "mainnet, February 2023",
+      "links": {
+        "web": "https://arcana.network",
+        "github": "https://docs.beta.arcana.network"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "XAR"
+      }
     },
     {
-      "id": "layerx"
+      "id": "parami",
+      "name": "Parami",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service.",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://parami.io"
+      }
     },
     {
-      "id": "fedimint"
+      "id": "layerx",
+      "name": "LayerX",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A privacy-preserving blockchain on Substrate",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://layerx.co.jp",
+        "github": "https://github.com/LayerXcom"
+      }
     },
     {
-      "id": "1984"
+      "id": "fedimint",
+      "name": "Fedimint",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An open-source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy",
+      "product_readiness": "mainnet, September 2022",
+      "links": {
+        "web": "https://fedimint.org",
+        "github": "https://github.com/fedimint"
+      }
     },
     {
-      "id": "light-protocol"
+      "id": "1984",
+      "name": "1984",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "High-quality web hosting and VPS service provider based in Iceland that respects and protects the civil and political rights of customers. Does not accept cryptocurrency at this time.",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://1984.hosting/"
+      }
     },
     {
-      "id": "pollen-mobile"
+      "id": "light-protocol",
+      "name": "Light Protocol",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The Privacy Layer for Solana",
+      "product_readiness": "mainnet",
+      "links": {
+        "web": "https://www.lightprotocol.com",
+        "github": "https://docs.lightprotocol.com"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "LIGHT"
+      }
+    },
+    {
+      "id": "pollen-mobile",
+      "name": "Pollen Mobile",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The world's first decentralized, user-owned and operated mobile network.",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://www.pollenmobile.io",
+        "github": "https://docs.pollenmobile.io/pollen-mobile-docs/"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "PCN"
+      }
     },
     {
       "id": "secret-network",
@@ -3377,13 +4056,15 @@
       "categories": [
         "infrastructure"
       ],
-      "ecosystem": "Secret",
-      "token": {
-        "name": "Secret",
-        "symbol": "SCRT",
-        "network": "Secret Network"
-      },
-      "description": "Chain for private computations",
+      "token": [
+        {
+          "name": "Secret",
+          "symbol": "SCRT",
+          "network": "Secret Network",
+          "contract_address": "secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek"
+        }
+      ],
+      "description": "Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3",
       "project_type": "Infrastructure",
       "product_launch_day": "Feb 13, 2020",
       "technology": {
@@ -3392,12 +4073,11 @@
         "features": "privacy, DeFi, NFTs, PaaS"
       },
       "links": {
-        "web": "https://scrt.network/",
+        "web": "https://scrt.network",
         "twitter": "https://twitter.com/SecretNetwork",
         "telegram": "https://t.me/scrtCommunity",
         "discord": "https://discord.com/invite/secret-network-360051864110235648",
         "blog": "https://scrt.network/blog",
-        "facebook": null,
         "block_explorer": "https://www.mintscan.io/secret",
         "whitepaper": "https://scrt.network/graypaper/",
         "github": "https://github.com/scrtlabs/SecretNetwork",
@@ -3486,58 +4166,257 @@
         "version": "Mainnet",
         "testnet": true,
         "mainnet": true
+      },
+      "product_readiness": "mainnet, 2020",
+      "have_token": true
+    },
+    {
+      "id": "mysterium",
+      "name": "Mysterium",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An open-source ecosystem of tools and infrastructure to liberate the web",
+      "product_readiness": "Decentralized VPN (2017), testnet (2018), mainnet (2021)",
+      "links": {
+        "web": "https://www.mysterium.network",
+        "github": "https://github.com/MysteriumNetwork"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "MYST"
       }
     },
     {
-      "id": "mysterium"
+      "id": "parallelchain",
+      "name": "ParallelChain",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy.",
+      "links": {
+        "web": "https://parallelchain.io/technology",
+        "github": "https://github.com/parallelchain-io"
+      },
+      "have_token": true
     },
     {
-      "id": "parallelchain"
+      "id": "zeropool",
+      "name": "ZeroPool",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set.",
+      "product_readiness": "mainnet beta",
+      "links": {
+        "web": "https://zeropool.network/#rec246911850"
+      }
     },
     {
-      "id": "zeropool"
+      "id": "anoma",
+      "name": "Anoma",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement",
+      "product_readiness": "testnet",
+      "links": {
+        "web": "https://anoma.net",
+        "github": "https://github.com/anoma"
+      }
     },
     {
-      "id": "anoma"
+      "id": "njalla",
+      "name": "Njalla",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Anonymous domain name registrar and VPS provider based in Sweden, accepts various cryptocurrencies as payment.",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://njal.la"
+      }
     },
     {
-      "id": "njalla"
+      "id": "maci",
+      "name": "MACI",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting.",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://privacy-scaling-explorations.github.io/maci/",
+        "github": "https://github.com/privacy-scaling-explorations/maci"
+      }
     },
     {
-      "id": "maci"
+      "id": "espresso-systems",
+      "name": "Espresso Systems",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain",
+      "product_readiness": "testnet, June 2022",
+      "links": {
+        "web": "https://www.espressosys.com",
+        "github": "https://github.com/EspressoSystems/"
+      }
     },
     {
-      "id": "espresso-systems"
+      "id": "tonnel-network",
+      "name": "Tonnel Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Zero-Knowledge Privacy Preserving DeFi protocol in Ton Network",
+      "links": {
+        "web": "https://www.tonnel.network"
+      },
+      "have_token": true
     },
     {
-      "id": "tonnel-network"
+      "id": "oasis-network",
+      "name": "Oasis Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A privacy-enabled blockchain platform for open finance and a responsible data economy",
+      "product_readiness": "mainnet, november 2020",
+      "links": {
+        "web": "https://oasisprotocol.org",
+        "github": "https://github.com/oasisprotocol"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "ROSE"
+      }
     },
     {
-      "id": "oasis-network"
-    },
-    {
-      "id": "trocador-app"
+      "id": "trocador-app",
+      "name": "Trocador App",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site and I2P available.",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://trocador.app"
+      }
     },
     {
       "id": "burstlq"
     },
     {
-      "id": "calimero-network"
+      "id": "calimero-network",
+      "name": "Calimero network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://www.calimero.network",
+        "github": "https://github.com/calimero-is-near"
+      }
     },
     {
-      "id": "mel"
+      "id": "mel",
+      "name": "Mel",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "A clean-slate L1 for a decentralized, secure, and private internet beyond blockchains.",
+      "product_readiness": "beta mainnet",
+      "links": {
+        "web": "https://melproject.org/en/",
+        "github": "https://docs.melproject.org"
+      },
+      "have_token": true
     },
     {
-      "id": "ruby"
+      "id": "ruby",
+      "name": "RUBY",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The Decentralized Privacy-Centric Protocol for Web3",
+      "product_readiness": "testnet, January 2023",
+      "links": {
+        "web": "https://www.ruby.xyz",
+        "github": "https://github.com/Ruby-Protocol"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "RUBY"
+      }
     },
     {
-      "id": "manta-network"
+      "id": "manta-network",
+      "name": "Manta Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "On-Chain Privacy for Web 3, DeFi and more ✨️**ZK*",
+      "product_readiness": "testnet v3, january 2023",
+      "links": {
+        "web": "https://www.manta.network",
+        "github": "https://github.com/manta-network"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "MANTA"
+      }
     },
     {
-      "id": "nym"
+      "id": "nym",
+      "name": "NYM",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers",
+      "product_readiness": "mainnet, february 2022",
+      "links": {
+        "web": "https://nymtech.net",
+        "github": "https://github.com/nymtech"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "NYM"
+      }
     },
     {
-      "id": "unova"
+      "id": "iexec",
+      "name": "iExec",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The Web3 Marketplace",
+      "product_readiness": "TBD",
+      "links": {
+        "web": "https://iex.ec",
+        "github": "https://github.com/iExecBlockchainComputing"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "RLC"
+      }
+    },
+    {
+      "id": "unova",
+      "name": "Unova",
+      "categories": [
+        "infrastructure"
+      ],
+      "description": "The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases.",
+      "product_readiness": "mainnet, early 2022",
+      "links": {
+        "web": "https://unova.io"
+      },
+      "have_token": true,
+      "token": {
+        "symbol": "UON"
+      }
     },
     {
       "id": "electric-coin-co",
@@ -4513,7 +5392,10 @@
       "ecosystem": "Polkadot",
       "description": "MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.",
       "technology": {
-        "type": "zk"
+        "type": "zk",
+        "features": [
+          "modular"
+        ]
       },
       "links": {
         "web": "https://app.manta.network/dolphin/transact",
@@ -4543,7 +5425,8 @@
       "ecosystem": "Ethereum, Elrond, Polkadot, Avalanche, Near, Flare",
       "description": "is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi",
       "technology": {
-        "type": "zk"
+        "type": "zk",
+        "features": "transactions"
       },
       "links": {
         "web": "https://www.pantherprotocol.io/",
@@ -4571,10 +5454,12 @@
         "defi"
       ],
       "ecosystem": "Secret",
-      "tokens": [
+      "token": [
         {
           "name": "Sienna Network",
-          "symbol": "SIENNA"
+          "symbol": "SIENNA",
+          "network": "Secret Network",
+          "contract_address": "secret1rgm2m5t530tdzyd99775n6vzumxa5luxcllml4"
         }
       ],
       "description": "Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem.",
@@ -4739,7 +5624,7 @@
       "ecosystem": "Secret",
       "description": "Collection of tools allowing you send & receive SCRT anonymously",
       "project_type": "DeFi",
-      "product_launch_day": "2021-15-02",
+      "product_launch_day": "2022-03-02T00:00:00.000Z",
       "technology": {
         "type": "TEE",
         "name": "Trusted execution environment",
@@ -4836,7 +5721,9 @@
       "description": "Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana.",
       "technology": {
         "type": "zk",
-        "features": "zk-SNARKS"
+        "features": [
+          "zk-SNARKS"
+        ]
       },
       "links": {
         "web": "https://elusiv.io/",
@@ -4868,7 +5755,9 @@
       "description": "an interoperable private bridge",
       "technology": {
         "type": "zk",
-        "features": "Anchor System"
+        "features": [
+          "Anchor System"
+        ]
       },
       "links": {
         "web": "https://app.webb.tools/#/tornado",
@@ -4907,7 +5796,10 @@
       "ecosystem": "Secret Network",
       "description": "Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains.",
       "technology": {
-        "type": "zk"
+        "type": "zk",
+        "features": [
+          "lending"
+        ]
       },
       "links": {
         "web": "https://sienna.network/",
@@ -4946,7 +5838,8 @@
         {
           "name": "Shade Protocol",
           "symbol": "SHD",
-          "network": "Secret Network"
+          "network": "Secret Network",
+          "contrac_address": "secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm"
         }
       ],
       "description": "Super app for private DeFi",
@@ -5131,7 +6024,9 @@
       "token": [
         {
           "name": "Firn",
-          "symbol": "FIRN"
+          "symbol": "FIRN",
+          "network": "Optimism",
+          "contract_address": 1.016501846021016e+48
         }
       ],
       "project_type": "DeFi",
@@ -5237,7 +6132,10 @@
       "technology": {
         "type": "P2P",
         "name": "peer to peer",
-        "features": "private, Swaps"
+        "features": [
+          "private",
+          "swaps"
+        ]
       },
       "links": {
         "web": "https://basicswapdex.com/",
@@ -5306,13 +6204,13 @@
           "name": "Railgun",
           "symbol": "RAIL",
           "network": "Ethereum",
-          "contract_address": 1.3211948014787578e+48
+          "contract_address": "0xe76c6c83af64e4c60245d8c7de953df673a7a33d"
         },
         {
           "name": "Railgun",
           "symbol": "RAIL",
           "network": "Polygon",
-          "contract_address": 8.372990030650115e+47
+          "contract_address": "0x92A9C92C215092720C731c96D4Ff508c831a714f"
         }
       ],
       "description": "Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.",
@@ -5569,12 +6467,16 @@
         "computing-network"
       ],
       "description": "a decentralized, privacy-preserving smart contract platform.",
-      "ecosystem": "multichain",
       "product_readiness": "mainnet",
       "links": {
         "web": "https://findora.org",
         "github": "https://github.com/findoranetwork"
       },
+      "have_token": true,
+      "token": {
+        "symbol": "FRA"
+      },
+      "ecosystem": "multichain",
       "team": {
         "anonymous": false,
         "company": {
