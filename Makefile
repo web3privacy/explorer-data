@@ -11,5 +11,6 @@ test:
 cache:
 	deno cache utils/test.js
 
+# make gen cat=computing-network
 gen:
 	deno run -A utils/gen.js $(cat)

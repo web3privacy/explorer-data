@@ -1,4 +1,6 @@
 name: Phoenix
+categories:
+  - computing-network
 description: blockchain infrastructure empowering intelligence web3 applications.
 ecosystem: multichain
 links:

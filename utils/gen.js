@@ -38,6 +38,7 @@ async function genCat(cat) {
 
     const out = {
       name: p.Project,
+      categories: [cat],
       description: p.Description,
       ecosystem: p.Ecosystem,
       links: {

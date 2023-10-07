@@ -1,4 +1,6 @@
 name: Aleph Zero
+categories:
+  - computing-network
 description: Privacy-enhancing public blockchain with instant finality.
 ecosystem: Aleph
 links:

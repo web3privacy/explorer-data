@@ -1,4 +1,6 @@
 name: Phala Network
+categories:
+  - computing-network
 description: Privacy-Enhanced Permissionless Computing Protocol.
 ecosystem: Khala on Kusama
 links:

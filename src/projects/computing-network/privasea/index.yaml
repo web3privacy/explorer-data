@@ -1,4 +1,6 @@
 name: Privasea
+categories:
+  - computing-network
 description: >-
   Using secure Multi-Party sharing we protect data ownership and privacy, and
   facilitate secure sharing between different parties so data still can be

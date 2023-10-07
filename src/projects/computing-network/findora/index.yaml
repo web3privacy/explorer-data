@@ -1,4 +1,6 @@
 name: Findora
+categories:
+  - computing-network
 description: a decentralized, privacy-preserving smart contract platform.
 ecosystem: multichain
 links:

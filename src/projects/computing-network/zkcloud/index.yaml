@@ -1,4 +1,6 @@
 name: ZkCloud
+categories:
+  - computing-network
 description: Decentralized, Private Computing.
 ecosystem: Aleo
 links:
