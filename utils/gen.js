@@ -52,13 +52,13 @@ async function genCat(cat) {
     if (p.Team === "anon" || p.Team === 'Public') {
       out.team.anonymous = p.Team === "anon" ? true : false
     }
-    if (p.TeamLink && p.TeamLink !== '') {
-      out.team.company = { link: p.TeamLink }
+    if (p.TeamLink && p.TeamLink !== '-') {
+      out.team.company = { link: p.TeamLink !== '-' ? p.TeamLink : undefined }
     }
     if (p.Token) {
       out.have_token = true
       if (p.TokenLink) {
-        out.token_link = p.TokenLink
+        out.token_link = p.TokenLink !== '-' ? p.TokenLink : undefined
       }
     }
     const yml = yaml.dump(out);

@@ -1,0 +1,9 @@
+name: Universal Reputation
+categories:
+  - did
+description: a private and non-repudiable reputation system
+links:
+  web: https://developer.unirep.io
+  github: https://github.com/unirep
+team: {}
+have_token: true

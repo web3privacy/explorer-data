@@ -1,0 +1,10 @@
+name: Dmail Network
+categories:
+  - did
+description: Construct DID in Web3.0, Not Just an Email.
+ecosystem: multichain
+links:
+  web: https://dmail.ai
+  github: https://github.com/dmailofficial/dmail
+team: {}
+have_token: true

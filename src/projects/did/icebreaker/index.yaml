@@ -1,0 +1,8 @@
+name: Icebreaker
+categories:
+  - did
+description: zero knowledge x self-sovereign identity
+links:
+  web: https://www.icebreaker.xyz
+team: {}
+have_token: true

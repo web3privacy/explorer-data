@@ -1,0 +1,9 @@
+name: zkPass
+categories:
+  - did
+description: Protocol for Private Data based on MPC, ZKP, 3P-TLS
+links:
+  web: https://zkpass.org/home
+  github: https://github.com/zkPassOfficial
+team: {}
+have_token: true

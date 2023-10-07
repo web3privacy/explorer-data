@@ -1,0 +1,11 @@
+name: DAuth Network
+categories:
+  - did
+description: >-
+  a decentralized authentication network empowering wallets and dApps to create
+  authentication with a focus on privacy
+links:
+  web: https://www.dauth.network
+  github: https://github.com/DAuth-Network
+team: {}
+have_token: true

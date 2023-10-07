@@ -1,0 +1,9 @@
+name: Hypersign
+categories:
+  - did
+description: the ultimate stack for identity management
+links:
+  web: https://hypersign.id
+  github: https://github.com/hypersign-protocol
+team: {}
+have_token: true

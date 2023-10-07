@@ -1,0 +1,11 @@
+name: Cerebrum
+categories:
+  - did
+description: >-
+  Ensure everyone in your organization is credentialed and compliant with
+  Cerebrum's verifiable data technology and vID ecosystem
+links:
+  web: https://www.cerebrum.com
+  github: https://github.com/cerebruminc
+team: {}
+have_token: true

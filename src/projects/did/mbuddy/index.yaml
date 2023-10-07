@@ -1,0 +1,10 @@
+name: MBuddy
+categories:
+  - did
+description: Web 3.0+ identity infrastructure
+ecosystem: multichain
+links:
+  web: https://metamirror.space/
+  github: https://docs.metamirror.space/mbuddy/introduction/overview
+team: {}
+have_token: true

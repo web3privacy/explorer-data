@@ -19,3 +19,4 @@ gen-all:
 	make gen cat=layer-2
 	make gen cat=hardware
 	make gen cat=vpn
+	make gen cat=did

@@ -1,0 +1,15 @@
+name: Polygon ID
+categories:
+  - did
+description: >-
+  Polygon ID is a blockchain-native identity system with programmable privacy
+  that empowers people and enables the creation of trusted interactions with
+  web3 services ✨️ZK
+ecosystem: Polygon
+links:
+  web: https://polygon.technology/polygon-id/
+  github: https://github.com/0xPolygonID
+team:
+  company:
+    link: https://github.com/orgs/0xPolygonID/people
+have_token: true

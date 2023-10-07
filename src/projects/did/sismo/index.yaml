@@ -1,0 +1,11 @@
+name: Sismo
+categories:
+  - did
+description: >-
+  Sismo is a modular protocol issuing ZK Badges for reputation portability and
+  aggregation
+links:
+  web: https://www.sismo.io/
+  github: https://github.com/sismo-core
+team: {}
+have_token: true

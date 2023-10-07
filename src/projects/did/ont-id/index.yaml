@@ -1,0 +1,9 @@
+name: ONT ID
+categories:
+  - did
+description: Bringing trustless identity to Web3 manage your data with ONT ID
+links:
+  web: https://ont.id
+  github: https://github.com/ont-id/
+team: {}
+have_token: true
