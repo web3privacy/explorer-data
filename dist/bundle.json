@@ -954,7 +954,8 @@
       "links": {
         "web": "https://holonym.id",
         "github": "https://github.com/holonym-foundation"
-      }
+      },
+      "have_token": true
     },
     {
       "id": "bluum",
@@ -2390,37 +2391,177 @@
       }
     },
     {
-      "id": "sporran"
+      "id": "sporran",
+      "name": "Sporran",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services",
+      "ecosystem": "KILT",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://www.sporran.org/",
+        "github": "https://github.com/BTE-Trusted-Entity/sporran-extension"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "sparrow"
+      "id": "sparrow",
+      "name": "Sparrow",
+      "categories": [
+        "wallets"
+      ],
+      "description": "A Bitcoin wallet for those who value financial self-sovereignty",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://sparrowwallet.com/",
+        "github": "https://github.com/sparrowwallet/sparrow"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "imperiume"
+      "id": "imperiume",
+      "name": "Imperiume",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Non-custodial wallet",
+      "links": {
+        "web": "https://www.imperiume.io/wallet"
+      }
     },
     {
-      "id": "krux"
+      "id": "krux",
+      "name": "Krux",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Open-source signing device firmware for Bitcoin",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://selfcustody.github.io/krux/",
+        "github": "https://github.com/selfcustody/krux"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "cake-wallet"
+      "id": "cake-wallet",
+      "name": "Cake Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies)",
+      "ecosystem": "Monero",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://monero.com/wallets",
+        "github": "https://github.com/cake-tech/cake_wallet"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "brave-wallet"
+      "id": "brave-wallet",
+      "name": "Brave Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The secure multi-chain crypto wallet",
+      "ecosystem": "multichain",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://brave.com/wallet/",
+        "github": "https://github.com/brave/brave-wallet-docs"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "ywallet"
+      "id": "ywallet",
+      "name": "YWallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "YWallet is a privacy-oriented wallet and messenger for Ycash and Zcash.",
+      "ecosystem": "Ycash, Zcash",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://ywallet.app/"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "specter-diy"
+      "id": "specter-diy",
+      "name": "Specter-DIY",
+      "categories": [
+        "wallets"
+      ],
+      "description": "DIY airgapped hardware wallet that uses QR codes for communication with the host",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://specter.solutions/hardware",
+        "github": "https://github.com/cryptoadvance/specter-diy/"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "sons-of-crypto"
+      "id": "sons-of-crypto",
+      "name": "Sons of Crypto",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Web3 wallet by degens for degens",
+      "ecosystem": "multichain",
+      "product_readiness": "under development",
+      "links": {
+        "web": "https://sonsofcrypto.com/",
+        "github": "https://github.com/sonsofcrypto"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "phoenix"
+      "id": "phoenix",
+      "name": "Phoenix",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Non-custodial wallet on Lightning network",
+      "links": {
+        "web": "https://phoenix.acinq.co"
+      }
     },
     {
-      "id": "railway"
+      "id": "railway",
+      "name": "Railway",
+      "categories": [
+        "wallets"
+      ],
+      "description": "DeFi privacy wallet",
+      "ecosystem": "Ethereum, BNB, Polygon",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://railway.xyz/"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
       "id": "frame",
@@ -2434,22 +2575,96 @@
         "web": "https://frame.sh/",
         "discord": "https://discord.com/invite/rr4Yr3JkPq",
         "github": "https://github.com/floating/frame"
+      },
+      "product_readiness": "live",
+      "team": {
+        "anonymous": false
       }
     },
     {
-      "id": "edge"
+      "id": "edge",
+      "name": "Edge",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The most secure way to buy, store & trade crypto under your control",
+      "ecosystem": "multichain",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://edge.app/",
+        "github": "https://github.com/EdgeApp"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "starshell"
+      "id": "starshell",
+      "name": "Starshell",
+      "categories": [
+        "wallets"
+      ],
+      "description": "A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem.",
+      "ecosystem": "multichain",
+      "product_readiness": "development",
+      "links": {
+        "web": "https://starshell.net/",
+        "github": "https://github.com/SolarRepublic"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "zengo"
+      "id": "zengo",
+      "name": "ZenGo",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The only self-custodial wallet with no seed phrase vulnerability (shielded transactions)",
+      "ecosystem": "multichain",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://zengo.com/",
+        "github": "https://github.com/ZenGo-X"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "blockwallet"
+      "id": "blockwallet",
+      "name": "BlockWallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The first crypto wallet protecting you on Web3 without any compromises",
+      "ecosystem": "Ethereum",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://chrome.google.com/webstore/detail/blockwallet/bopcbmipnjdcdfflfgjdgdjejmgpoaab",
+        "github": "https://github.com/block-wallet"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "seedsigner"
+      "id": "seedsigner",
+      "name": "SeedSigner",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Air-gapped DIY Bitcoin Signing Device",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://seedsigner.com/",
+        "github": "https://github.com/SeedSigner/seedsigner"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
       "id": "lunar",
@@ -2488,7 +2703,8 @@
       "links": {
         "web": "https://bento.me/brume",
         "twitter": "https://twitter.com/BrumeWallet",
-        "discord": "https://discord.com/invite/KVEPWfN9jK"
+        "discord": "https://discord.com/invite/KVEPWfN9jK",
+        "github": "https://github.com/brume-wallet"
       },
       "blockchain_features": {
         "p2p": true,
@@ -2543,55 +2759,275 @@
       }
     },
     {
-      "id": "anon-nero"
+      "id": "anon-nero",
+      "name": "Anon/Nero",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Private wallet",
+      "links": {
+        "web": "https://t.me/anoneroapks"
+      }
     },
     {
-      "id": "mymonero"
+      "id": "mymonero",
+      "name": "MyMonero",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features",
+      "ecosystem": "Monero",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://mymonero.com/",
+        "github": "https://github.com/mymonero"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "monerujo"
+      "id": "monerujo",
+      "name": "Monerujo",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Android wallet for Moneto",
+      "links": {
+        "web": "https://www.monerujo.io"
+      }
     },
     {
-      "id": "zecrey-wallet"
+      "id": "zecrey-wallet",
+      "name": "Zecrey Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet",
+      "ecosystem": "multichain",
+      "product_readiness": "live, 2022",
+      "links": {
+        "web": "https://www.zecrey.com/",
+        "github": "https://github.com/Zecrey-Labs"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "sphereon"
+      "id": "sphereon",
+      "name": "Sphereon",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with",
+      "product_readiness": "PoC",
+      "links": {
+        "github": "https://github.com/Sphereon-Opensource/ssi-mobile-wallet"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "samourai-wallet"
+      "id": "samourai-wallet",
+      "name": "Samourai Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://samouraiwallet.com/products",
+        "docs": "https://docs.samourai.io/wallet/start"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "nighthawk-wallet"
+      "id": "nighthawk-wallet",
+      "name": "Nighthawk Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Private Money in your pocket.",
+      "ecosystem": "Zcash",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://nighthawkwallet.com/",
+        "github": "https://github.com/nighthawk-apps"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "beam"
+      "id": "beam",
+      "name": "Beam",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Self-custodial wallet",
+      "links": {
+        "web": "https://beam.eco/"
+      }
     },
     {
-      "id": "cool-wallet"
+      "id": "cool-wallet",
+      "name": "Cool Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Non-custodial wallet",
+      "links": {
+        "web": "www.coolwallet.io"
+      }
     },
     {
-      "id": "fedi"
+      "id": "fedi",
+      "name": "Fedi",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "Coming in Q2, 2023",
+      "links": {
+        "web": "https://www.fedi.xyz/"
+      },
+      "team": {
+        "anonymous": false
+      }
     },
     {
-      "id": "zeal"
+      "id": "zeal",
+      "name": "Zeal",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The web3 wallet that defends your crypto and privacy",
+      "ecosystem": "multichain",
+      "product_readiness": "launching beta, Q2 2023",
+      "links": {
+        "web": "https://www.zeal.app/"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "zoker"
+      "id": "zoker",
+      "name": "Zoker",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The foremost ZK-based Wallet in Web3",
+      "ecosystem": "multichain",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://zoker.tech/",
+        "docs": "https://zoker.tech/wp.pdf"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "leo-wallet"
+      "id": "leo-wallet",
+      "name": "Leo wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Safe and easy way to interact with the Aleo blockchain",
+      "ecosystem": "Aleo",
+      "product_readiness": "under development",
+      "links": {
+        "web": "https://leo.app/",
+        "github": "https://docs.leo.app/aleo-wallet-adapter/"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "treasure-chest"
+      "id": "treasure-chest",
+      "name": "Treasure Chest",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Treasure Chest is the main full node wallet for the ARRR cryptocurrency",
+      "ecosystem": "Pirate Chain",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://pirate.black/wallets/treasure-chest/",
+        "github": "https://github.com/PirateNetwork/PirateWallet-Lite"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "blockstream-green"
+      "id": "sphereon-wallet",
+      "name": "Sphereon Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with",
+      "product_readiness": "PoC",
+      "links": {
+        "web": "https://github.com/Sphereon-Opensource/ssi-mobile-wallet",
+        "github": "https://github.com/Sphereon-Opensource/ssi-mobile-wallet"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "wasabi-wallet"
+      "id": "blockstream-green",
+      "name": "Blockstream Green",
+      "categories": [
+        "wallets"
+      ],
+      "description": "A multi-platform, feature-rich Bitcoin and Liquid wallet",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://blockstream.com/green/",
+        "github": "https://github.com/Blockstream/green_android"
+      },
+      "team": {
+        "anonymous": true
+      }
     },
     {
-      "id": "elite"
+      "id": "wasabi-wallet",
+      "name": "Wasabi Wallet",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Open-source, non-custodial Bitcoin Wallet for desktop",
+      "ecosystem": "Bitcoin",
+      "product_readiness": "live",
+      "links": {
+        "web": "https://wasabiwallet.io/",
+        "github": "https://github.com/zkSNACKs/WalletWasabi"
+      },
+      "team": {
+        "anonymous": true
+      }
+    },
+    {
+      "id": "elite",
+      "name": "Elite",
+      "categories": [
+        "wallets"
+      ],
+      "description": "Android and IOS Wallet that respects your privacy",
+      "links": {
+        "web": "https://elitewallet.sc/"
+      }
     },
     {
       "id": "start9",
@@ -3535,94 +3971,6 @@
       "id": "litecash"
     },
     {
-      "id": "zcash",
-      "name": "Zcash",
-      "categories": [
-        "currency"
-      ],
-      "ecosystem": "Zcash",
-      "token": [
-        {
-          "name": "Zcash",
-          "symbol": "ZEC"
-        }
-      ],
-      "security": "PoW",
-      "description": "A simple, secure digital currency that protects your privacy.",
-      "project_type": "Currency",
-      "product_launch_day": "Oct 28, 2016",
-      "technology": {
-        "type": "zkSNARKs",
-        "name": "Zero-knowlindge",
-        "features": "private, currency, payments"
-      },
-      "links": {
-        "web": "https://z.cash/",
-        "coingecko": "https://www.coingecko.com/en/coins/zcash",
-        "twitter": "https://twitter.com/zcash",
-        "telegram": "https://t.me/zcash_community",
-        "discord": null,
-        "blog": null,
-        "facebook": null,
-        "block_explorer": "https://zcashblockexplorer.com/",
-        "whitepaper": "https://whitepaper.io/document/645/zcash-whitepaper",
-        "github": "https://github.com/zcash/zcash",
-        "docs": "https://zcash.readthedocs.io/en/latest/",
-        "forum": "https://forum.zcashcommunity.com/"
-      },
-      "blockchain_features": {
-        "p2p": false,
-        "encryption": "zk-SNARKs",
-        "upgradability": {
-          "enabled": true,
-          "type": "fork"
-        },
-        "opensource": true,
-        "viewing_key": true,
-        "dissapearing_tx": false,
-        "frontend_anonymity": "options",
-        "identity_integration": null,
-        "connected_tx": false,
-        "revealed_recipient": false,
-        "revealed_sender": false,
-        "revealed_ammount": false,
-        "reversability_condition": "viewing key, hack",
-        "data_masking": "Shielded pools",
-        "asset_custody_type": "non-custody"
-      },
-      "licences": null,
-      "third_party_dependency": false,
-      "compliance": false,
-      "social_trust": null,
-      "technical_spof": null,
-      "history": [
-        {
-          "title": "Mainet",
-          "event_type": "launch",
-          "description": "Airdrop",
-          "time": "Oct 28, 2016",
-          "link": null
-        }
-      ],
-      "wallets": [
-        {
-          "name": "Ywallet",
-          "link": "https://ywallet.app/"
-        },
-        {
-          "name": "Edge Wallet",
-          "link": "https://z.cash/ecosystem/edge-wallet/"
-        }
-      ],
-      "default_privacy": false,
-      "project_status": {
-        "live_status": true,
-        "version": "Mainnet",
-        "testnet": true,
-        "mainnet": true
-      }
-    },
-    {
       "id": "cog"
     },
     {
@@ -3751,6 +4099,9 @@
     },
     {
       "id": "shade_cash"
+    },
+    {
+      "id": "cia-protocol"
     },
     {
       "id": "panther-protocl",
@@ -3908,6 +4259,9 @@
       "id": "hinkal"
     },
     {
+      "id": "light-shield"
+    },
+    {
       "id": "silent-protocol",
       "name": "Silent protocol",
       "categories": [
@@ -3921,6 +4275,9 @@
       "team": {
         "anonymous": true
       }
+    },
+    {
+      "id": "hurricane-protocol"
     },
     {
       "id": "dusk-network",
@@ -4105,6 +4462,9 @@
       "id": "definer"
     },
     {
+      "id": "seven-seas"
+    },
+    {
       "id": "sienna-network",
       "name": "Sienna Network",
       "categories": [
@@ -4134,9 +4494,6 @@
     },
     {
       "id": "stealthpay"
-    },
-    {
-      "id": "conceal_network"
     },
     {
       "id": "zkvalidator"
@@ -4287,9 +4644,6 @@
       "id": "diva"
     },
     {
-      "id": "cia_protocol"
-    },
-    {
       "id": "xata",
       "name": "XATA",
       "categories": [
@@ -4304,9 +4658,6 @@
       "team": {
         "anonymous": true
       }
-    },
-    {
-      "id": "hurricane_protocol"
     },
     {
       "id": "fairy"
@@ -4514,12 +4865,6 @@
       }
     },
     {
-      "id": "seven_seas"
-    },
-    {
-      "id": "light_shield"
-    },
-    {
       "id": "railgun",
       "name": "RAILGUN",
       "categories": [
@@ -4709,6 +5054,9 @@
       }
     },
     {
+      "id": "conceal-network"
+    },
+    {
       "id": "privasea",
       "name": "Privasea",
       "categories": [
@@ -4733,12 +5081,12 @@
         "computing-network"
       ],
       "description": "blockchain infrastructure empowering intelligence web3 applications.",
-      "ecosystem": "multichain",
-      "product_readiness": "testnet",
       "links": {
         "web": "https://phoenix.global",
         "github": "https://github.com/phoenixglobal"
       },
+      "ecosystem": "multichain",
+      "product_readiness": "testnet",
       "team": {
         "anonymous": true
       }
