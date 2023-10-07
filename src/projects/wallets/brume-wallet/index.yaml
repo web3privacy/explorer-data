@@ -31,9 +31,9 @@ privacy_policy:
 team:
   anonymous: false
   teammembers:
-    - name: Haz Æ 41
-      role: developer
-      link: https://bento.me/hazae41
+    name: Haz Æ 41
+    role: developer
+    link: https://bento.me/hazae41
 storage:
   decentralized: true
 tracebility:
