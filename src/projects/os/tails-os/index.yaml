@@ -1,0 +1,9 @@
+name: TAILS OS
+categories:
+  - os
+description: >-
+  Tails is a portable operating system that protects your privacy and helps you
+  avoid censorship.
+links:
+  web: https://tails.boum.org
+  github: https://gitlab.tails.boum.org/tails/tails

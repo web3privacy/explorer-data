@@ -26,3 +26,7 @@ gen-all:
 	make gen cat=kyc
 	make gen cat=rpc
 	make gen cat=storage
+	make gen cat=dapps
+	make gen cat=os
+	make gen cat=nft
+	make gen cat=alliances

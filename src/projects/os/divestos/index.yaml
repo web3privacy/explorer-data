@@ -1,0 +1,9 @@
+name: DivestOS
+categories:
+  - os
+description: >-
+  A fork of LineageOS with monthly updates, automated CVE patchings, system
+  WebView, and more.
+links:
+  web: https://divestos.org/
+  github: https://github.com/Divested-Mobile/DivestOS-Build

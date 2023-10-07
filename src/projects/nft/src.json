@@ -1,0 +1,125 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true",
+      "Projects": [
+        {
+          "Project": "Stashh",
+          "ProjectLink": "https://stashh.io",
+          "Description": "Explore the world's first marketplace for NFTs with privacy by default and unlock their hidden data.",
+          "GitHub": "https://github.com/stashh-labs",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Legendao",
+          "ProjectLink": "https://legendao.io",
+          "Description": "The play-to-mint NFT platform, powered by Secret Network, that enables top artists, brands, and NFT creators to launch their NFT projects in a unique, gamified way.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Arcana's Private NFT",
+          "ProjectLink": "https://arcana.network/blog/launching-private-nfts-on-arcana/",
+          "Description": "New supported format by Arcana preserving privacy within NFT minting.",
+          "GitHub": "https://docs.beta.arcana.network/docs/conceptpvtnft/",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Paras",
+          "ProjectLink": "https://eprint.iacr.org/2022/976.pdf",
+          "Description": "A blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "NFT Fair",
+          "ProjectLink": "https://www.nftfair.app",
+          "Description": "The do-good NFT launch platform.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Bidshop",
+          "ProjectLink": "https://www.bidshop.io",
+          "Description": "The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFT's.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "The Anon Club",
+          "ProjectLink": "https://theanonclub.com",
+          "Description": "World's first privacy-focused digital collectibles.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "geniish",
+          "ProjectLink": "https://www.geniish.io",
+          "Description": "Confidential NFTs for exclusive experiences.",
+          "GitHub": "https://github.com/geniish-protocol/docs",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "certUP",
+          "ProjectLink": "https://certup.net",
+          "Description": "SecretNFT Certificates revolutionizing official document distribution, verification, and publication.",
+          "GitHub": "https://github.com/CertUP",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Actilist",
+          "ProjectLink": "https://test.actilist.io",
+          "Description": "Secret NFT auctions.",
+          "GitHub": "https://github.com/actilabs",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Fade WTF",
+          "ProjectLink": "http://mint.fade.wtf",
+          "Description": "Privacy for NFTs powered by Light Protocol.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Polyhedra ZK-NFT Container",
+          "ProjectLink": "https://polyhedra.network/zknft-container",
+          "Description": "A new NFT protocol that can contain other NFTs, realizing maximum interoperability.",
+          "GitHub": "-",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Bluum",
+          "ProjectLink": "https://bluumprotocol.com",
+          "Description": "Enable confidentiality of NFT content.",
+          "GitHub": "https://github.com/BluumProtocol",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        }
+      ]
+    }
+  }
+  

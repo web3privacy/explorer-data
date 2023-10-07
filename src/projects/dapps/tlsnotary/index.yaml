@@ -1,0 +1,7 @@
+name: TLSNotary
+categories:
+  - dapps
+description: Proof of data authenticity
+links:
+  web: https://tlsnotary.org
+  github: https://github.com/tlsnotary/tlsn

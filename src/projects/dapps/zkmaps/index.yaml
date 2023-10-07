@@ -1,0 +1,7 @@
+name: ZkMaps
+categories:
+  - dapps
+description: Protecting users location with ZK proofs
+links:
+  web: https://gitcoin.co/grants/5781/zkmaps-proof-of-location
+  github: https://github.com/zkMaps
