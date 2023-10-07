@@ -35,6 +35,8 @@ properties:
       - symbol
       - network
       - contract_address
+  security:
+    type: string
   description:
     type: string
   project_type:
