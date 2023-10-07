@@ -13,7 +13,8 @@ description: 'Private transfers and DeFi infra for Ethereum, Polygon, Binance Sm
 project_type: transaction
 technology:
   type: zk
-  features: private
+  features:
+    - private
 links:
   web: https://railgun.org/
   twitter: https://twitter.com/railgun_project
