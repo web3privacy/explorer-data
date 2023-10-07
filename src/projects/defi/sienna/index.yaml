@@ -8,7 +8,7 @@ token:
   contract_address: secret1rgm2m5t530tdzyd99775n6vzumxa5luxcllml4
 description: 'Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem.'
 project_type: DeFi
-product_launch_day: 2022-04-27
+product_launch_day: "2022-04-27"
 technology:
   type: TEE
   name: Trusted execution environment
