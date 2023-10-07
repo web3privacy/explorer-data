@@ -2,8 +2,7 @@ name: TrueZK
 categories:
   - layer-2
 description: Post-Quantum ZK Rollup as a service x private DIDs
-ecosystem: '-'
-product_readiness: '-'
 links:
   web: https://www.truezk.com
   docs: https://docs.truezk.com
+team: {}

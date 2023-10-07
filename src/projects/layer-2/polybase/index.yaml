@@ -4,9 +4,7 @@ categories:
 description: >-
   a public L2 blockchain with private transactions and MEV-resistance powered by
   zero-knowledge proofs
-ecosystem: '-'
-product_readiness: '-'
 links:
   web: https://polybase.xyz
   docs: https://polybase.xyz/docs/introduction
-
+team: {}

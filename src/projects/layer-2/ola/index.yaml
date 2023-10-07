@@ -2,8 +2,7 @@ name: OLA
 categories:
   - layer-2
 description: ZK-ZKVM Bringing Programmable Privacy to Blockchains
-ecosystem: '-'
-product_readiness: '-'
 links:
   web: https://sin7y.org
   github: https://github.com/Sin7Y
+team: {}

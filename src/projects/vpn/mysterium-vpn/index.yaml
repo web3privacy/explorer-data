@@ -1,0 +1,15 @@
+name: Mysterium VPN
+categories:
+  - vpn
+description: A global, distributed network powered by everyday people.
+ecosystem: multichain
+product_readiness: live
+links:
+  web: https://www.mysterium.network/mysteriumvpn
+  github: https://github.com/mysteriumnetwork/node
+team:
+  anonymous: false
+  company:
+    link: https://www.mysterium.network/team
+have_token: true
+token_link: https://coinmarketcap.com/currencies/mysterium/

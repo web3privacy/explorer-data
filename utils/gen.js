@@ -40,19 +40,26 @@ async function genCat(cat) {
       name: p.Project,
       categories: [cat],
       description: p.Description,
-      ecosystem: p.Ecosystem,
-      product_readiness: p.ProductReadiness,
+      ecosystem: p.Ecosystem !== '-' ? p.Ecosystem : undefined,
+      product_readiness: p.ProductReadiness !== '-' ? p.ProductReadiness : undefined,
       links: {
         web: p.ProjectLink,
         github: p.GitHub && p.GitHub !== '-' ? p.GitHub : undefined,
         docs: p.Docs && p.Docs !== '-' ? p.Docs : undefined,
       },
-      team: {
-        anonymous: p.Team === "anon" ? true : (p.Team === 'Public' ? false : null)
-      },
+      team: {},
     };
+    if (p.Team === "anon" || p.Team === 'Public') {
+      out.team.anonymous = p.Team === "anon" ? true : false
+    }
     if (p.TeamLink && p.TeamLink !== '') {
       out.team.company = { link: p.TeamLink }
+    }
+    if (p.Token) {
+      out.have_token = true
+      if (p.TokenLink) {
+        out.token_link = p.TokenLink
+      }
     }
     const yml = yaml.dump(out);
     await Deno.writeTextFile(`${pDir}/index.yaml`, yml);

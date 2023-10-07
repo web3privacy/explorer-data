@@ -1,0 +1,18 @@
+name: Orchid
+categories:
+  - vpn
+description: >-
+  Orchid is a platform that enables an onion routing network incentivized by OXT
+  and a multi-hop VPN client
+ecosystem: multichain
+product_readiness: live
+links:
+  web: https://www.orchid.com
+  github: https://github.com/OrchidTechnologies
+team:
+  anonymous: false
+  company:
+    link: >-
+      https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218313136%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=cWH
+have_token: true
+token_link: https://coinmarketcap.com/currencies/orchid/
