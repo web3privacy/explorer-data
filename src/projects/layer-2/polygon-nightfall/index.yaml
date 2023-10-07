@@ -1,10 +1,11 @@
 name: Polygon Nightfall
 categories:
   - layer-2
-description: A Privacy-Focused Rollup for Enterprises ✨️**ZK**
+description: A Privacy-Focused Rollup for Enterprises ✨️ZK
 ecosystem: Polygon
 product_readiness: mainnet, July 2022
 links:
+  web: https://polygon.technology/solutions/polygon-nightfall
   github: https://github.com/maticnetwork/nightfall-sdk/
 team:
   anonymous: false

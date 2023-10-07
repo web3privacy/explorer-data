@@ -5,6 +5,7 @@ description: Privacy-Enhanced Permissionless Computing Protocol.
 ecosystem: Khala on Kusama
 product_readiness: testnet, 2020
 links:
+  web: https://www.phala.network/en/
   github: https://github.com/Phala-Network
 team:
   anonymous: false

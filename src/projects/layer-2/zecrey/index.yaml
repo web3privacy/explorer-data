@@ -5,6 +5,7 @@ description: zkRollup basedLayer 2 protocol featuring privacy and scalability
 ecosystem: multichain
 product_readiness: mainnet, Q2 2023
 links:
+  web: https://www.zecrey.com
   github: https://github.com/Zecrey-Labs
 team:
   anonymous: true

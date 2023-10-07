@@ -8,6 +8,7 @@ description: >-
 ecosystem: Ethereum
 product_readiness: testnet
 links:
+  web: https://obscu.ro
   docs: https://docs.obscu.ro
 team:
   anonymous: false

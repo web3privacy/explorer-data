@@ -5,6 +5,7 @@ description: Privacy Financial Infrastructure For Blockchain
 ecosystem: '-'
 product_readiness: '-'
 links:
+  web: https://tusima.network
   docs: https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima
 team:
-  anonymous: true
+  anonymous: null

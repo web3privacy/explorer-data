@@ -1,0 +1,84 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true",
+      "Projects": [
+        {
+          "Project": "Deeper Network",
+          "ProjectLink": "https://www.deeper.network",
+          "Description": "Web 3.0 infrastructure of the users, by the users, for the users.",
+          "Docs": "https://cdn.shopify.com/s/files/1/0256/1038/7504/files/deeper_network_whitepaper__2023_03_21.pdf?v=1680260637",
+          "ProductReadiness": "live, 2019",
+          "Ecosystem": "-",
+          "Team": "anon"
+        },
+        {
+          "Project": "Motherbored",
+          "ProjectLink": "https://store.motherbored.limited",
+          "Description": "#dVPN hardware (node + SM card)",
+          "GitHub": "https://github.com/boringprotocol/motherbored",
+          "ProductReadiness": "live",
+          "Ecosystem": "Solana",
+          "Team": "anon"
+        },
+        {
+          "Project": "RoninDojo Tanto",
+          "ProjectLink": "https://samouraiwallet.com/ronin",
+          "Description": "Fully validating Bitcoin full node. Served over a Tor hidden service.",
+          "Docs": "https://docs.samourai.io/",
+          "ProductReadiness": "live",
+          "Ecosystem": "Bitcoin",
+          "Team": "anon"
+        },
+        {
+          "Project": "DappNode",
+          "ProjectLink": "https://dappnode.io/",
+          "Description": "Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc.",
+          "GitHub": "https://github.com/dappnode",
+          "ProductReadiness": "live",
+          "Ecosystem": "multichain",
+          "Team": "Public",
+          "TeamLink": "https://dappnode.com/pages/about"
+        },
+        {
+          "Project": "Avado",
+          "ProjectLink": "https://www.mysterium.network/avado",
+          "Description": "A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process",
+          "GitHub": "https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server",
+          "ProductReadiness": "live",
+          "Ecosystem": "multichain",
+          "Team": "Public",
+          "TeamLink": "https://www.mysterium.network/team"
+        },
+        {
+          "Project": "Foundation",
+          "ProjectLink": "https://foundationdevices.com",
+          "Description": "The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app",
+          "GitHub": "https://github.com/Foundation-Devices",
+          "ProductReadiness": "live",
+          "Ecosystem": "Bitcoin",
+          "Team": "Public",
+          "TeamLink": "https://foundationdevices.com/about/"
+        },
+        {
+          "Project": "Privacy Infrastructure Solutions",
+          "ProjectLink": "https://www.chain-reaction.io",
+          "Description": "Cloud and data center acceleration solution for Privacy Enhancing Technologies.",
+          "Docs": "https://www.chain-reaction.io/resource-hub/",
+          "ProductReadiness": "live",
+          "Ecosystem": "multichain",
+          "Team": "Public",
+          "TeamLink": "https://www.chain-reaction.io/about/"
+        },
+        {
+          "Project": "AXIAtel",
+          "ProjectLink": "https://axiatel.co",
+          "Description": "a privacy first mobile service for everyone",
+          "GitHub": "-",
+          "ProductReadiness": "live",
+          "Ecosystem": "multichain",
+          "Team": "anon"
+        }
+      ]
+    }
+  }
+  

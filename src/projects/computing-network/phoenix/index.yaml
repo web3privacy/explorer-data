@@ -5,6 +5,7 @@ description: blockchain infrastructure empowering intelligence web3 applications
 ecosystem: multichain
 product_readiness: testnet
 links:
+  web: https://phoenix.global
   github: https://github.com/phoenixglobal
 team:
   anonymous: true

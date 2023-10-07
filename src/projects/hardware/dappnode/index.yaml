@@ -1,0 +1,15 @@
+name: DappNode
+categories:
+  - hardware
+description: >-
+  Easy to use hardware and software solution for running Ethereum and other kind
+  of nodes, staking, IPFS, etc.
+ecosystem: multichain
+product_readiness: live
+links:
+  web: https://dappnode.io/
+  github: https://github.com/dappnode
+team:
+  anonymous: false
+  company:
+    link: https://dappnode.com/pages/about

@@ -8,6 +8,7 @@ description: >-
 ecosystem: multichain
 product_readiness: mainnet, Q2 2023
 links:
+  web: https://www.arpanetwork.io/en-US
   github: https://github.com/ARPA-Network
 team:
   anonymous: true

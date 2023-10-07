@@ -43,11 +43,12 @@ async function genCat(cat) {
       ecosystem: p.Ecosystem,
       product_readiness: p.ProductReadiness,
       links: {
+        web: p.ProjectLink,
         github: p.GitHub && p.GitHub !== '-' ? p.GitHub : undefined,
         docs: p.Docs && p.Docs !== '-' ? p.Docs : undefined,
       },
       team: {
-        anonymous: p.Team !== "Public"
+        anonymous: p.Team === "anon" ? true : (p.Team === 'Public' ? false : null)
       },
     };
     if (p.TeamLink && p.TeamLink !== '') {

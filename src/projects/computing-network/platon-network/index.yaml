@@ -8,6 +8,7 @@ description: >-
 ecosystem: Alaya
 product_readiness: live
 links:
+  web: https://www.platon.network/en
   github: https://github.com/PlatONnetwork
 team:
   anonymous: false

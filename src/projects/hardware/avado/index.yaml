@@ -1,0 +1,16 @@
+name: Avado
+categories:
+  - hardware
+description: >-
+  A plug-and-play hardware device that connects users to many different kinds of
+  blockchains. Their node-running software makes it easy and efficient for users
+  to help power multiple networks at once, and earn crypto in the process
+ecosystem: multichain
+product_readiness: live
+links:
+  web: https://www.mysterium.network/avado
+  github: https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server
+team:
+  anonymous: false
+  company:
+    link: https://www.mysterium.network/team

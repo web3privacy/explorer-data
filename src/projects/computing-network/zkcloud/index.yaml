@@ -4,7 +4,8 @@ categories:
 description: Decentralized, Private Computing.
 ecosystem: Aleo
 product_readiness: testnet
-links: {}
+links:
+  web: https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/
 team:
   anonymous: false
   company:

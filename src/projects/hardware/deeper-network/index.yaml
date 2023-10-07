@@ -1,0 +1,12 @@
+name: Deeper Network
+categories:
+  - hardware
+description: Web 3.0 infrastructure of the users, by the users, for the users.
+ecosystem: '-'
+product_readiness: live, 2019
+links:
+  web: https://www.deeper.network
+  docs: >-
+    https://cdn.shopify.com/s/files/1/0256/1038/7504/files/deeper_network_whitepaper__2023_03_21.pdf?v=1680260637
+team:
+  anonymous: true

@@ -6,6 +6,7 @@ description: >-
   platform, which is built to enhance privacy for all kinds of cryptocurrency.
 ecosystem: TBD
 product_readiness: TBD
-links: {}
+links:
+  web: https://www.zkchaos.com
 team:
-  anonymous: true
+  anonymous: null

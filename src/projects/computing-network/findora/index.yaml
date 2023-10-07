@@ -5,6 +5,7 @@ description: a decentralized, privacy-preserving smart contract platform.
 ecosystem: multichain
 product_readiness: mainnet
 links:
+  web: https://findora.org
   github: https://github.com/findoranetwork
 team:
   anonymous: false
