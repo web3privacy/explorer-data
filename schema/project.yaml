@@ -19,26 +19,8 @@ properties:
     type: string
   product_readiness:
     type: string
-<<<<<<< Updated upstream
-  token:
-    type: object
-    properties:
-      name:
-        type: string
-      symbol:
-        type: string
-      network:
-        type: string
-      contract_address:
-        type: string
-    required:
-      - name
-      - symbol
-      - network
-      - contract_address
   security:
     type: string
-=======
   have_token:
     type: boolean
   token_link:
@@ -65,7 +47,6 @@ properties:
         - symbol
         - network
         - contract_address
->>>>>>> Stashed changes
   description:
     type: string
   project_type:
