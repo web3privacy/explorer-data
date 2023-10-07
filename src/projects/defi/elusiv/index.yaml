@@ -4,6 +4,7 @@ ecosystem: Solana
 description: 'Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana.'
 technology:
   type: zk
+  features: zk-SNARKS
 links:
   web: https://elusiv.io/
   github: https://github.com/elusiv-privacy
