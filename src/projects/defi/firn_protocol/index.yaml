@@ -1,12 +1,13 @@
 name: Firn Protocol
 categories: [ defi ]
 ecosystem: Ethereum
+description: 'Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains.'
 token:
   - name: Firn
     symbol: FIRN
 description: 'Super app for private DeFi'
 project_type: DeFi
-product_launch_day: Nov 6, 2021
+product_launch_day: 2021/11/06
 technology:
   type: ZK
   name: Zero-knowledge
