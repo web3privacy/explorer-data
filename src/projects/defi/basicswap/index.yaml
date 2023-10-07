@@ -22,7 +22,7 @@ blockchain_features:
     type: fork
   opensource: true
   dissapearing_tx: true
-  frontend_anonymity: options
+  frontend_anonymity: self-hosted
   identity_integration:
   connected_tx: false
   revealed_recipient: true
