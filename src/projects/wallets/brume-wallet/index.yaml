@@ -7,7 +7,9 @@ product_launch_day: "2022-11-13"
 technology:
   type: Tor
   name: Tor project
-  features: private, Wallet
+  features:
+    - private
+    - Wallet
 links:
   web: https://bento.me/brume
   twitter: https://twitter.com/BrumeWallet
