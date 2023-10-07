@@ -1,0 +1,10 @@
+name: Plebble
+categories:
+  - layer-2
+description: P2P Network of computers running the Plebble software (L1 & L2)
+ecosystem: TBD
+product_readiness: TBD
+links:
+  github: https://github.com/root1m3/plebble
+team:
+  anonymous: true

@@ -1,0 +1,90 @@
+{
+    "data": {
+      "Image": "https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true",
+      "Projects": [
+        {
+          "Project": "Polygon Nightfall",
+          "Description": "A Privacy-Focused Rollup for Enterprises ✨️**ZK**",
+          "GitHub": "https://github.com/maticnetwork/nightfall-sdk/",
+          "ProductReadiness": "mainnet, July 2022",
+          "Ecosystem": "Polygon",
+          "Team": "Public",
+          "TeamLink": "https://polygon.technology/about"
+        },
+        {
+          "Project": "Zecrey",
+          "Description": "zkRollup basedLayer 2 protocol featuring privacy and scalability",
+          "GitHub": "https://github.com/Zecrey-Labs",
+          "ProductReadiness": "mainnet, Q2 2023",
+          "Ecosystem": "multichain",
+          "Team": "anon"
+        },
+        {
+          "Project": "Obscuro",
+          "Description": "Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy",
+          "Docs": "https://docs.obscu.ro",
+          "ProductReadiness": "testnet",
+          "Ecosystem": "Ethereum",
+          "Team": "Public",
+          "TeamLink": "https://obscu.ro/#team"
+        },
+        {
+          "Project": "ZKCHAOS",
+          "Description": "ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency.",
+          "GitHub": "-",
+          "ProductReadiness": "TBD",
+          "Ecosystem": "TBD",
+          "Team": "TBD"
+        },
+        {
+          "Project": "StarkEX",
+          "Description": "A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK**",
+          "GitHub": "https://github.com/starkware-libs/starkex-resources",
+          "ProductReadiness": "live",
+          "Ecosystem": "Ethereum",
+          "Team": "Public",
+          "TeamLink": "https://starkware.co/about-us/"
+        },
+        {
+          "Project": "Plebble",
+          "Description": "P2P Network of computers running the Plebble software (L1 & L2)",
+          "GitHub": "https://github.com/root1m3/plebble",
+          "ProductReadiness": "TBD",
+          "Ecosystem": "TBD",
+          "Team": "anon"
+        },
+        {
+          "Project": "Tusima",
+          "Description": "Privacy Financial Infrastructure For Blockchain",
+          "Docs": "https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "OLA",
+          "Description": "ZK-ZKVM Bringing Programmable Privacy to Blockchains",
+          "GitHub": "https://github.com/Sin7Y",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "Polybase",
+          "Description": "a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs",
+          "Docs": "https://polybase.xyz/docs/introduction",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        },
+        {
+          "Project": "TrueZK",
+          "Description": "Post-Quantum ZK Rollup as a service x private DIDs",
+          "Docs": "https://docs.truezk.com",
+          "ProductReadiness": "-",
+          "Ecosystem": "-",
+          "Team": "-"
+        }
+      ]
+    }
+  }

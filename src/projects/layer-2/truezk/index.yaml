@@ -1,0 +1,9 @@
+name: TrueZK
+categories:
+  - layer-2
+description: Post-Quantum ZK Rollup as a service x private DIDs
+ecosystem: '-'
+product_readiness: '-'
+links: {}
+team:
+  anonymous: true

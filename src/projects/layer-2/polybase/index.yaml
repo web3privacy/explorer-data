@@ -1,0 +1,11 @@
+name: Polybase
+categories:
+  - layer-2
+description: >-
+  a public L2 blockchain with private transactions and MEV-resistance powered by
+  zero-knowledge proofs
+ecosystem: '-'
+product_readiness: '-'
+links: {}
+team:
+  anonymous: true

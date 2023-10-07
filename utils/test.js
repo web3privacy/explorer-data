@@ -36,7 +36,7 @@ for (const col of Object.keys(w3pd.data)) {
       continue
     }
 
-    Deno.test(`${col}/${item.id}`, () => {
+    Deno.test(`${col}/${item.id} ` + (col === 'projects' ? `[${item.categories?.join(', ')}]` : ''), () => {
       if (!validator(item)) {
         throw validator.errors;
       }
