@@ -2882,7 +2882,7 @@
       ],
       "description": "Non-custodial wallet",
       "links": {
-        "web": "https://www.coolwallet.io"
+        "web": "www.coolwallet.io"
       }
     },
     {
@@ -3213,9 +3213,11 @@
         "github": "https://github.com/tomochain/tomop"
       },
       "have_token": true,
-      "token": {
-        "symbol": "TOMO"
-      }
+      "tokens": [
+        {
+          "symbol": "TOMO"
+        }
+      ]
     },
     {
       "id": "integritee",
@@ -3230,9 +3232,11 @@
         "github": "https://github.com/integritee-network"
       },
       "have_token": true,
-      "token": {
-        "symbol": "TEER"
-      }
+      "tokens": [
+        {
+          "symbol": "TEER"
+        }
+      ]
     },
     {
       "id": "xx-network",
@@ -3247,9 +3251,11 @@
         "github": "https://git.xx.network/explore"
       },
       "have_token": true,
-      "token": {
-        "symbol": "XX"
-      }
+      "tokens": [
+        {
+          "symbol": "XX"
+        }
+      ]
     },
     {
       "id": "keep",
@@ -3264,9 +3270,11 @@
         "github": "https://github.com/keep-network/"
       },
       "have_token": true,
-      "token": {
-        "symbol": "KEEP"
-      }
+      "tokens": [
+        {
+          "symbol": "KEEP"
+        }
+      ]
     },
     {
       "id": "seneca",
@@ -3293,9 +3301,11 @@
         "github": "https://github.com/OrbisWeb3/"
       },
       "have_token": true,
-      "token": {
-        "symbol": "OBT"
-      }
+      "tokens": [
+        {
+          "symbol": "OBT"
+        }
+      ]
     },
     {
       "id": "raze-network",
@@ -3310,9 +3320,11 @@
         "github": "https://github.com/Raze-Net"
       },
       "have_token": true,
-      "token": {
-        "symbol": "RAZE"
-      }
+      "tokens": [
+        {
+          "symbol": "RAZE"
+        }
+      ]
     },
     {
       "id": "sunscreen",
@@ -3340,9 +3352,11 @@
         "github": "https://github.com/NuLink-network"
       },
       "have_token": true,
-      "token": {
-        "symbol": "NLINK"
-      }
+      "tokens": [
+        {
+          "symbol": "NLINK"
+        }
+      ]
     },
     {
       "id": "nucypher",
@@ -3357,9 +3371,11 @@
         "github": "https://github.com/nucypher/"
       },
       "have_token": true,
-      "token": {
-        "symbol": "NU"
-      }
+      "tokens": [
+        {
+          "symbol": "NU"
+        }
+      ]
     },
     {
       "id": "utopia",
@@ -3400,9 +3416,11 @@
         "github": "https://github.com/MinaProtocol/mina"
       },
       "have_token": true,
-      "token": {
-        "symbol": "MINA"
-      }
+      "tokens": [
+        {
+          "symbol": "MINA"
+        }
+      ]
     },
     {
       "id": "vault1317",
@@ -3430,9 +3448,11 @@
         "github": "https://github.com/hoprnet"
       },
       "have_token": true,
-      "token": {
-        "symbol": "HOPR"
-      }
+      "tokens": [
+        {
+          "symbol": "HOPR"
+        }
+      ]
     },
     {
       "id": "lit",
@@ -3447,9 +3467,11 @@
         "github": "https://developer.litprotocol.com"
       },
       "have_token": true,
-      "token": {
-        "symbol": "LIT"
-      }
+      "tokens": [
+        {
+          "symbol": "LIT"
+        }
+      ]
     },
     {
       "id": "namada",
@@ -3491,9 +3513,11 @@
         "web": "https://privatixy.io"
       },
       "have_token": true,
-      "token": {
-        "symbol": "PRIVATIXY"
-      }
+      "tokens": [
+        {
+          "symbol": "PRIVATIXY"
+        }
+      ]
     },
     {
       "id": "concordium",
@@ -3508,9 +3532,11 @@
         "github": "https://github.com/Concordium"
       },
       "have_token": true,
-      "token": {
-        "symbol": "CCD"
-      }
+      "tokens": [
+        {
+          "symbol": "CCD"
+        }
+      ]
     },
     {
       "id": "zeronet",
@@ -3575,9 +3601,11 @@
         "github": "https://github.com/Manta-Network"
       },
       "have_token": true,
-      "token": {
-        "symbol": "KMA"
-      }
+      "tokens": [
+        {
+          "symbol": "KMA"
+        }
+      ]
     },
     {
       "id": "dero",
@@ -3592,9 +3620,11 @@
         "github": "https://docs.dero.io"
       },
       "have_token": true,
-      "token": {
-        "symbol": "DERO"
-      }
+      "tokens": [
+        {
+          "symbol": "DERO"
+        }
+      ]
     },
     {
       "id": "auth3",
@@ -3660,9 +3690,11 @@
         "web": "https://burstiq.com"
       },
       "have_token": true,
-      "token": {
-        "symbol": "BIQ"
-      }
+      "tokens": [
+        {
+          "symbol": "BIQ"
+        }
+      ]
     },
     {
       "id": "omnia",
@@ -3677,9 +3709,11 @@
         "github": "https://github.com/omniaprotocol"
       },
       "have_token": true,
-      "token": {
-        "symbol": "OMNIA"
-      }
+      "tokens": [
+        {
+          "symbol": "OMNIA"
+        }
+      ]
     },
     {
       "id": "haven-protocol",
@@ -3694,9 +3728,11 @@
         "github": "https://github.com/haven-protocol-org"
       },
       "have_token": true,
-      "token": {
-        "symbol": "XHV"
-      }
+      "tokens": [
+        {
+          "symbol": "XHV"
+        }
+      ]
     },
     {
       "id": "partisia-blockchain",
@@ -3711,9 +3747,11 @@
         "github": "https://partisiablockchain.gitlab.io/documentation/index.html"
       },
       "have_token": true,
-      "token": {
-        "symbol": "MPC"
-      }
+      "tokens": [
+        {
+          "symbol": "MPC"
+        }
+      ]
     },
     {
       "id": "automata-network",
@@ -3728,9 +3766,11 @@
         "github": "https://github.com/automata-network"
       },
       "have_token": true,
-      "token": {
-        "symbol": "ATA"
-      }
+      "tokens": [
+        {
+          "symbol": "ATA"
+        }
+      ]
     },
     {
       "id": "nomos",
@@ -3797,9 +3837,11 @@
         "github": "https://github.com/findoranetwork"
       },
       "have_token": true,
-      "token": {
-        "symbol": "FRA"
-      }
+      "tokens": [
+        {
+          "symbol": "FRA"
+        }
+      ]
     },
     {
       "id": "masq",
@@ -3839,9 +3881,11 @@
         "github": "https://github.com/horizenofficial"
       },
       "have_token": true,
-      "token": {
-        "symbol": "ZEN"
-      }
+      "tokens": [
+        {
+          "symbol": "ZEN"
+        }
+      ]
     },
     {
       "id": "suterusu",
@@ -3856,9 +3900,11 @@
         "github": "https://github.com/suterusu-team"
       },
       "have_token": true,
-      "token": {
-        "symbol": "SUTER"
-      }
+      "tokens": [
+        {
+          "symbol": "SUTER"
+        }
+      ]
     },
     {
       "id": "threshold",
@@ -3873,9 +3919,11 @@
         "github": "https://github.com/threshold-network"
       },
       "have_token": true,
-      "token": {
-        "symbol": "T"
-      }
+      "tokens": [
+        {
+          "symbol": "T"
+        }
+      ]
     },
     {
       "id": "penumbra",
@@ -3916,9 +3964,11 @@
         "github": "https://github.com/scala-network/"
       },
       "have_token": true,
-      "token": {
-        "symbol": "XLA"
-      }
+      "tokens": [
+        {
+          "symbol": "XLA"
+        }
+      ]
     },
     {
       "id": "onino",
@@ -3932,9 +3982,11 @@
         "web": "https://www.onino.io"
       },
       "have_token": true,
-      "token": {
-        "symbol": "ONI"
-      }
+      "tokens": [
+        {
+          "symbol": "ONI"
+        }
+      ]
     },
     {
       "id": "comit-network",
@@ -3962,9 +4014,11 @@
         "github": "https://docs.beta.arcana.network"
       },
       "have_token": true,
-      "token": {
-        "symbol": "XAR"
-      }
+      "tokens": [
+        {
+          "symbol": "XAR"
+        }
+      ]
     },
     {
       "id": "parami",
@@ -4029,9 +4083,11 @@
         "github": "https://docs.lightprotocol.com"
       },
       "have_token": true,
-      "token": {
-        "symbol": "LIGHT"
-      }
+      "tokens": [
+        {
+          "symbol": "LIGHT"
+        }
+      ]
     },
     {
       "id": "pollen-mobile",
@@ -4046,9 +4102,11 @@
         "github": "https://docs.pollenmobile.io/pollen-mobile-docs/"
       },
       "have_token": true,
-      "token": {
-        "symbol": "PCN"
-      }
+      "tokens": [
+        {
+          "symbol": "PCN"
+        }
+      ]
     },
     {
       "id": "secret-network",
@@ -4168,7 +4226,12 @@
         "mainnet": true
       },
       "product_readiness": "mainnet, 2020",
-      "have_token": true
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "SCRT"
+        }
+      ]
     },
     {
       "id": "mysterium",
@@ -4183,9 +4246,11 @@
         "github": "https://github.com/MysteriumNetwork"
       },
       "have_token": true,
-      "token": {
-        "symbol": "MYST"
-      }
+      "tokens": [
+        {
+          "symbol": "MYST"
+        }
+      ]
     },
     {
       "id": "parallelchain",
@@ -4288,9 +4353,11 @@
         "github": "https://github.com/oasisprotocol"
       },
       "have_token": true,
-      "token": {
-        "symbol": "ROSE"
-      }
+      "tokens": [
+        {
+          "symbol": "ROSE"
+        }
+      ]
     },
     {
       "id": "trocador-app",
@@ -4347,9 +4414,11 @@
         "github": "https://github.com/Ruby-Protocol"
       },
       "have_token": true,
-      "token": {
-        "symbol": "RUBY"
-      }
+      "tokens": [
+        {
+          "symbol": "RUBY"
+        }
+      ]
     },
     {
       "id": "manta-network",
@@ -4364,9 +4433,11 @@
         "github": "https://github.com/manta-network"
       },
       "have_token": true,
-      "token": {
-        "symbol": "MANTA"
-      }
+      "tokens": [
+        {
+          "symbol": "MANTA"
+        }
+      ]
     },
     {
       "id": "nym",
@@ -4381,9 +4452,11 @@
         "github": "https://github.com/nymtech"
       },
       "have_token": true,
-      "token": {
-        "symbol": "NYM"
-      }
+      "tokens": [
+        {
+          "symbol": "NYM"
+        }
+      ]
     },
     {
       "id": "iexec",
@@ -4398,9 +4471,11 @@
         "github": "https://github.com/iExecBlockchainComputing"
       },
       "have_token": true,
-      "token": {
-        "symbol": "RLC"
-      }
+      "tokens": [
+        {
+          "symbol": "RLC"
+        }
+      ]
     },
     {
       "id": "unova",
@@ -4414,9 +4489,11 @@
         "web": "https://unova.io"
       },
       "have_token": true,
-      "token": {
-        "symbol": "UON"
-      }
+      "tokens": [
+        {
+          "symbol": "UON"
+        }
+      ]
     },
     {
       "id": "electric-coin-co",
@@ -5426,7 +5503,9 @@
       "description": "is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi",
       "technology": {
         "type": "zk",
-        "features": "transactions"
+        "features": [
+          "transactions"
+        ]
       },
       "links": {
         "web": "https://www.pantherprotocol.io/",
@@ -5464,7 +5543,7 @@
       ],
       "description": "Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem.",
       "project_type": "DeFi",
-      "product_launch_day": "2022/04/27",
+      "product_launch_day": "2022-04-27T00:00:00.000Z",
       "technology": {
         "type": "TEE",
         "name": "Trusted execution environment",
@@ -5839,7 +5918,7 @@
           "name": "Shade Protocol",
           "symbol": "SHD",
           "network": "Secret Network",
-          "contrac_address": "secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm"
+          "contract_address": "secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm"
         }
       ],
       "description": "Super app for private DeFi",
@@ -6026,7 +6105,7 @@
           "name": "Firn",
           "symbol": "FIRN",
           "network": "Optimism",
-          "contract_address": 1.016501846021016e+48
+          "contract_address": "0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4"
         }
       ],
       "project_type": "DeFi",
@@ -6177,7 +6256,7 @@
         "kyc": false,
         "sign_in_type_requirments": "wallets"
       },
-      "third_party_dependency": false,
+      "third_party_dependency": "none",
       "compliance": false,
       "client_diversability": [
         {
@@ -6217,7 +6296,9 @@
       "project_type": "transaction",
       "technology": {
         "type": "zk",
-        "features": "private"
+        "features": [
+          "private"
+        ]
       },
       "links": {
         "web": "https://railgun.org/",
@@ -6473,9 +6554,11 @@
         "github": "https://github.com/findoranetwork"
       },
       "have_token": true,
-      "token": {
-        "symbol": "FRA"
-      },
+      "tokens": [
+        {
+          "symbol": "FRA"
+        }
+      ],
       "ecosystem": "multichain",
       "team": {
         "anonymous": false,

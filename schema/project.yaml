@@ -26,7 +26,7 @@ properties:
   token_link:
     type: string
     format: uri
-  token:
+  tokens:
     type: array
     items:
       type: object
@@ -43,10 +43,7 @@ properties:
           type: string
           format: uri
       required:
-        - name
         - symbol
-        - network
-        - contract_address
   description:
     type: string
   project_type:
