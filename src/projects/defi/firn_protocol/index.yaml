@@ -8,8 +8,8 @@ links:
   web: https://app.firn.cash/
   github: https://github.com/firnprotocol
   docs: https://docs.firn.cash/
-  project_status:
-live_status: true
+project_status:
+  live_status: true
 team:
   anonymous: true
 
