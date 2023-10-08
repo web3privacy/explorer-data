@@ -7,7 +7,9 @@ product_launch_day: "2021-15-02"
 technology:
   type: TEE
   name: Trusted execution environment
-  features: Privacy, Payments
+  features
+    - Privacy
+    - Payments
 links:
   web: https://blackbox.cash/
   twitter: https://twitter.com/TriviumNode
