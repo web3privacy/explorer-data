@@ -12,7 +12,9 @@ product_launch_day: "2022-04-27"
 technology:
   type: TEE
   name: Trusted execution environment
-  features: private, DeFi
+  features:
+    - private
+    - DeFi
 links:
   web: https://sienna.network/
   twitter: https://twitter.com/sienna_network
