@@ -36,6 +36,9 @@ jobs:
       - name: Build bundle
         run: make build
 
+      - name: Add custom domain
+        run: "touch dist/CNAME && echo \"data.web3privacy.info\" >> dist/CNAME"
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
