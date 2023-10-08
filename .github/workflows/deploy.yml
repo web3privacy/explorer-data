@@ -39,7 +39,9 @@ jobs:
       - name: Add custom domain
         run: "touch dist/CNAME && echo \"data.web3privacy.info\" >> dist/CNAME"
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          folder: dist # The folder the action should deploy.
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
