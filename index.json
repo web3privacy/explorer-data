@@ -5882,7 +5882,10 @@
       "technology": {
         "type": "TEE",
         "name": "Trusted execution environment",
-        "features": "private, DeFi"
+        "features": [
+          "private",
+          "DeFi"
+        ]
       },
       "links": {
         "web": "https://sienna.network/",
