@@ -6803,6 +6803,10 @@
     },
     {
       "id": "stealthpay",
+      "name": "StealthPay",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
