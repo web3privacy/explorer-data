@@ -6405,7 +6405,10 @@
       "technology": {
         "type": "ZK",
         "name": "Zero-knowledge",
-        "features": "privacy, payments"
+        "features": [
+          "privacy",
+          "payments"
+        ]
       },
       "links": {
         "web": "https://app.firn.cash/",
