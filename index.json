@@ -6214,6 +6214,10 @@
     },
     {
       "id": "zkvalidator",
+      "name": "ZKValidator",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
