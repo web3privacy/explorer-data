@@ -5631,7 +5631,11 @@
       ]
     },
     {
-      "id": "coinbook"
+      "id": "coinbook",
+      "name": "CoinBook",
+      "categories": [
+        "defi"
+      ]
     },
     {
       "id": "sienna-network",
