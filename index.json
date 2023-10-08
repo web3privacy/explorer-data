@@ -6124,6 +6124,10 @@
     },
     {
       "id": "conceal-network",
+      "name": "Conceal Network",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.jpg",
