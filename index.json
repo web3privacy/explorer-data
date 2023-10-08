@@ -5844,6 +5844,10 @@
     },
     {
       "id": "seven-seas",
+      "name": "Seven Seas",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.jpg",
