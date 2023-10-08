@@ -6817,6 +6817,10 @@
     },
     {
       "id": "hinkal",
+      "name": "Hinkal",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
