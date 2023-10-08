@@ -5830,6 +5830,10 @@
     },
     {
       "id": "sahara",
+      "name": "Sahara",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.svg",
