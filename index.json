@@ -470,7 +470,14 @@
       "links": {
         "web": "https://ethbrno3.cz/",
         "twitter": "https://twitter.com/ETHBrno"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/ethbrno/logo.png"
+        }
+      ]
     },
     {
       "id": "ethdam",
@@ -495,7 +502,14 @@
       "ecosystem": "Ethereum",
       "links": {
         "web": "https://www.leadingprivacy.com/istanbul"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/eth-privacy/logo.svg"
+        }
+      ]
     },
     {
       "id": "relayz",
@@ -5553,7 +5567,14 @@
       }
     },
     {
-      "id": "nonkyc"
+      "id": "nonkyc",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/nonkyc/logo.png"
+        }
+      ]
     },
     {
       "id": "webb",
@@ -5580,13 +5601,34 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/webb/logo.svg"
+        }
+      ]
     },
     {
-      "id": "definer"
+      "id": "definer",
+      "logos": [
+        {
+          "file": "logo.jpg",
+          "ext": "jpg",
+          "url": "https://data.web3privacy.info/assets/projects/definer/logo.jpg"
+        }
+      ]
     },
     {
-      "id": "fairy"
+      "id": "fairy",
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/fairy/logo.svg"
+        }
+      ]
     },
     {
       "id": "coinbook"
@@ -5623,7 +5665,14 @@
       }
     },
     {
-      "id": "hurricane-protocol"
+      "id": "hurricane-protocol",
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/hurricane-protocol/logo.svg"
+        }
+      ]
     },
     {
       "id": "silent-protocol",
@@ -5638,7 +5687,14 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.jpg",
+          "ext": "jpg",
+          "url": "https://data.web3privacy.info/assets/projects/silent-protocol/logo.jpg"
+        }
+      ]
     },
     {
       "id": "manta-pay",
@@ -5665,7 +5721,14 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/manta-pay/logo.png"
+        }
+      ]
     },
     {
       "id": "cape",
@@ -5686,7 +5749,14 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/cape/logo.png"
+        }
+      ]
     },
     {
       "id": "elusiv",
@@ -5715,16 +5785,44 @@
         "teammembers": {
           "link": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280778213%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=s_%40"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.jpg",
+          "ext": "jpg",
+          "url": "https://data.web3privacy.info/assets/projects/elusiv/logo.jpg"
+        }
+      ]
     },
     {
-      "id": "sacred"
+      "id": "sacred",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/sacred/logo.png"
+        }
+      ]
     },
     {
-      "id": "sahara"
+      "id": "sahara",
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/sahara/logo.svg"
+        }
+      ]
     },
     {
-      "id": "seven-seas"
+      "id": "seven-seas",
+      "logos": [
+        {
+          "file": "logo.jpg",
+          "ext": "jpg",
+          "url": "https://data.web3privacy.info/assets/projects/seven-seas/logo.jpg"
+        }
+      ]
     },
     {
       "id": "sienna",
@@ -5840,7 +5938,14 @@
         "version": "Mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/sienna/logo.svg"
+        }
+      ]
     },
     {
       "id": "blackbox",
@@ -5930,7 +6035,14 @@
         "version": "Mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/blackbox/logo.png"
+        }
+      ]
     },
     {
       "id": "panther-protocl",
@@ -5961,10 +6073,24 @@
         "company": {
           "link": "https://www.pantherprotocol.io/"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/panther-protocl/logo.svg"
+        }
+      ]
     },
     {
-      "id": "diva"
+      "id": "diva",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/diva/logo.png"
+        }
+      ]
     },
     {
       "id": "evanesco",
@@ -5983,16 +6109,37 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/evanesco/logo.png"
+        }
+      ]
     },
     {
-      "id": "conceal-network"
+      "id": "conceal-network",
+      "logos": [
+        {
+          "file": "logo.jpg",
+          "ext": "jpg",
+          "url": "https://data.web3privacy.info/assets/projects/conceal-network/logo.jpg"
+        }
+      ]
     },
     {
       "id": "yellow-submarine"
     },
     {
-      "id": "zkmoney"
+      "id": "zkmoney",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/zkmoney/logo.png"
+        }
+      ]
     },
     {
       "id": "dusk-network",
@@ -6018,7 +6165,14 @@
       }
     },
     {
-      "id": "zkvalidator"
+      "id": "zkvalidator",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/zkvalidator/logo.png"
+        }
+      ]
     },
     {
       "id": "horizon"
@@ -6159,7 +6313,14 @@
         "version": "Mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/shade/logo.png"
+        }
+      ]
     },
     {
       "id": "firn-protocol",
@@ -6263,10 +6424,24 @@
         "version": "Mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/firn-protocol/logo.png"
+        }
+      ]
     },
     {
-      "id": "light-shield"
+      "id": "light-shield",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/light-shield/logo.png"
+        }
+      ]
     },
     {
       "id": "railgun",
@@ -6434,13 +6609,34 @@
         "version": "Mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/railgun/logo.svg"
+        }
+      ]
     },
     {
-      "id": "umbra"
+      "id": "umbra",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/umbra/logo.png"
+        }
+      ]
     },
     {
-      "id": "spiral-finance"
+      "id": "spiral-finance",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/spiral-finance/logo.png"
+        }
+      ]
     },
     {
       "id": "offshift",
@@ -6463,7 +6659,14 @@
         "teammembers": {
           "link": "https://offshift.io/#team"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/offshift/logo.png"
+        }
+      ]
     },
     {
       "id": "basicswap",
@@ -6537,22 +6740,57 @@
         "version": "Mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/basicswap/logo.svg"
+        }
+      ]
     },
     {
-      "id": "stealthpay"
+      "id": "stealthpay",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/stealthpay/logo.png"
+        }
+      ]
     },
     {
-      "id": "common"
+      "id": "common",
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://data.web3privacy.info/assets/projects/common/logo.svg"
+        }
+      ]
     },
     {
-      "id": "zkusd"
+      "id": "zkusd",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/zkusd/logo.png"
+        }
+      ]
     },
     {
       "id": "shade-cash"
     },
     {
-      "id": "cia-protocol"
+      "id": "cia-protocol",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/cia-protocol/logo.png"
+        }
+      ]
     },
     {
       "id": "xata",
@@ -6568,10 +6806,24 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/xata/logo.png"
+        }
+      ]
     },
     {
-      "id": "hinkal"
+      "id": "hinkal",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://data.web3privacy.info/assets/projects/hinkal/logo.png"
+        }
+      ]
     },
     {
       "id": "rpch",
