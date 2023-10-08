@@ -6668,6 +6668,10 @@
     },
     {
       "id": "umbra",
+      "name": "Umbra",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
