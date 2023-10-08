@@ -5816,6 +5816,10 @@
     },
     {
       "id": "sacred",
+      "name": "Sacred",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
