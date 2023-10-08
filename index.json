@@ -424,6 +424,19 @@
       }
     },
     {
+      "id": "ethbrno",
+      "name": "ETHBrno",
+      "description": "an annual independent & open community hackathon for supporters of decentralised finance, smart contracts and Web3 happening in Brno, Czech Republic 13",
+      "categories": [
+        "events"
+      ],
+      "ecosystem": "Ethereum",
+      "links": {
+        "web": "https://ethbrno3.cz/",
+        "twitter": "https://twitter.com/ETHBrno"
+      }
+    },
+    {
       "id": "relayz",
       "name": "Relayz",
       "categories": [
