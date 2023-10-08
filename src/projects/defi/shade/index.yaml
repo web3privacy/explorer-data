@@ -12,7 +12,9 @@ product_launch_day: "2022-02-21"
 technology:
   type: TEE
   name: Trusted execution environment
-  features: private, DeFi
+  features:
+   - private
+   - DeFi
 links:
   web: https://shadeprotocol.io/
   twitter: https://twitter.com/Shade_Protocol
