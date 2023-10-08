@@ -6092,6 +6092,10 @@
     },
     {
       "id": "diva",
+      "name": "Diva",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
