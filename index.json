@@ -6843,6 +6843,10 @@
     },
     {
       "id": "zkusd",
+      "name": "zkUSD",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
