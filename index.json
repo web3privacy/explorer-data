@@ -5612,6 +5612,10 @@
     },
     {
       "id": "definer",
+      "name": "DeFiner",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.jpg",
