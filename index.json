@@ -6765,6 +6765,10 @@
     },
     {
       "id": "common",
+      "name": "Common",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.svg",
