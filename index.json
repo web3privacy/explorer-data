@@ -6462,15 +6462,13 @@
           "time": "Aug, 7. 2023"
         }
       ],
-      "history": [
-        {
-          "title": "Github",
-          "event_type": "launch",
-          "description": "AGithub start",
-          "time": "Nov 6, 2021",
-          "link": "https://github.com/firnprotocol"
-        }
-      ],
+      "history": {
+        "title": "Github",
+        "event_type": "launch",
+        "description": "AGithub start",
+        "time": "Nov 6, 2021",
+        "link": "https://github.com/firnprotocol"
+      },
       "client_diversability": [
         {
           "name": "Metamask",
