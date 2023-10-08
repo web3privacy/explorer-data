@@ -1,7 +1,7 @@
 name: Secret Network
 categories:
   - infrastructure
-token:
+tokens:
   - name: Secret
     symbol: SCRT
     network: Secret Network
