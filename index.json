@@ -6832,7 +6832,11 @@
       ]
     },
     {
-      "id": "shade-cash"
+      "id": "shade-cash",
+      "name": "Shade Cash",
+      "categories": [
+        "defi"
+      ]
     },
     {
       "id": "cia-protocol",
