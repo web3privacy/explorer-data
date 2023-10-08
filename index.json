@@ -461,6 +461,19 @@
       }
     },
     {
+      "id": "ethdam",
+      "name": "ETHDam",
+      "description": "Ethereum-focused privacy & DeFi hackathon. ",
+      "categories": [
+        "events"
+      ],
+      "ecosystem": "Ethereum",
+      "links": {
+        "web": "https://www.ethdam.com/hackathon",
+        "twitter": "https://twitter.com/CryptoCanal"
+      }
+    },
+    {
       "id": "relayz",
       "name": "Relayz",
       "categories": [
