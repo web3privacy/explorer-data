@@ -2,10 +2,9 @@
 
 Structured database for Web3Privacy Now.
 
-# License
+# Database
 
-Open Data Commons Open Database License (ODbL)
-
+https://data.web3privacy.info/
 
 # Schema specification
 
@@ -89,3 +88,6 @@ Open Data Commons Open Database License (ODbL)
 | project_status testnet | boolean               |          | Does the project have a running testnet? |
 | project_status mainnet | boolean               |          | Is the mainnet running? |
 
+# License
+
+Open Data Commons Open Database License (ODbL)
