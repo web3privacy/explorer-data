@@ -6463,6 +6463,10 @@
     },
     {
       "id": "light-shield",
+      "name": "Light Shield",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
