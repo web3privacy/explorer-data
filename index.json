@@ -426,9 +426,10 @@
     {
       "id": "ethrome",
       "name": "ETHRome",
-      "types": [
+      "categories": [
         "events"
       ],
+      "ecosystem": "Ethereum",
       "links": {
         "web": "https://ethrome.org/",
         "twitter": "https://twitter.com/ethereumrome"
