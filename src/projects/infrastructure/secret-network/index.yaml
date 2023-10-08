@@ -15,7 +15,11 @@ product_launch_day: "2020-02-13"
 technology:
   type: TEE
   name: Trusted execution environment
-  features: privacy, DeFi, NFTs, PaaS
+  features:
+    - privacy
+    - DeFi
+    - NFTs
+    - PaaS
 links:
   web: https://scrt.network
   twitter: https://twitter.com/SecretNetwork
