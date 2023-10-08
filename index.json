@@ -5110,20 +5110,16 @@
       },
       "team": {
         "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Alex Zaidelson",
-            "role": "SLabs CEO",
-            "link": "https://twitter.com/azaidelson"
-          }
-        ],
-        "company": [
-          {
-            "name": "Secret Labs",
-            "link": "https://www.scrtlabs.com/",
-            "contacts": "info@scrtlabs.com"
-          }
-        ]
+        "teammembers": {
+          "name": "Alex Zaidelson",
+          "role": "SLabs CEO",
+          "link": "https://twitter.com/azaidelson"
+        },
+        "company": {
+          "name": "Secret Labs",
+          "link": "https://www.scrtlabs.com/",
+          "contacts": "info@scrtlabs.com"
+        }
       },
       "storage": {
         "decentralized": true
