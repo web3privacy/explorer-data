@@ -6195,9 +6195,6 @@
       ]
     },
     {
-      "id": "horizon"
-    },
-    {
       "id": "shade",
       "name": "Shade Protocol",
       "categories": [
@@ -6340,6 +6337,13 @@
           "ext": "png",
           "url": "https://data.web3privacy.info/assets/projects/shade/logo.png"
         }
+      ]
+    },
+    {
+      "id": "horizen",
+      "name": "Horizen",
+      "categories": [
+        "defi"
       ]
     },
     {
