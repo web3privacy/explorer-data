@@ -424,6 +424,17 @@
       }
     },
     {
+      "id": "ethrome",
+      "name": "ETHRome",
+      "types": [
+        "events"
+      ],
+      "links": {
+        "web": "https://ethrome.org/",
+        "twitter": "https://twitter.com/ethereumrome"
+      }
+    },
+    {
       "id": "ethbrno",
       "name": "ETHBrno",
       "description": "an annual independent & open community hackathon for supporters of decentralised finance, smart contracts and Web3 happening in Brno, Czech Republic 13",
