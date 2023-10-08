@@ -1003,7 +1003,11 @@
       }
     },
     {
-      "id": "aztec-connect"
+      "id": "aztec-connect",
+      "name": "Aztec Connect",
+      "categories": [
+        "bridge"
+      ]
     },
     {
       "id": "shinobi"
