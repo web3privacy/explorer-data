@@ -3384,14 +3384,12 @@
       },
       "third_party_dependency": "none",
       "compliance": "compliant",
-      "history": [
-        {
-          "title": "Hackaton",
-          "event_type": "Hackaton",
-          "description": "Hackaton project",
-          "time": "Nov 13, 2022"
-        }
-      ],
+      "history": {
+        "title": "Hackaton",
+        "event_type": "Hackaton",
+        "description": "Hackaton project",
+        "time": "Nov 13, 2022"
+      },
       "default_privacy": true,
       "project_status": {
         "live_status": true,
