@@ -11,7 +11,6 @@ Open Data Commons Open Database License (ODbL)
 
 | Field                  | Type                  | Required | Description |
 |------------------------|-----------------------|----------|-------------|
-| type                   | object                | -        |             |
 | id                     | string                | x        |             |
 | name                   | string                | x        | Name of the project |
 | categories             | array                 | x        | Categories defined by web3privacy research |
