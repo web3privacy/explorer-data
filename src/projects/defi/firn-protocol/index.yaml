@@ -55,11 +55,11 @@ audits:
     link: https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf
     time: Aug, 7. 2023
 history:
-  - title: Github
-    event_type: launch
-    description: AGithub start
-    time: Nov 6, 2021
-    link: https://github.com/firnprotocol
+  title: Github
+  event_type: launch
+  description: AGithub start
+  time: Nov 6, 2021
+  link: https://github.com/firnprotocol
 client_diversability: 
   - name: Metamask
     link: https://www.metamask.io
