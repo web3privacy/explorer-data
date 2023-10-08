@@ -6169,7 +6169,11 @@
       ]
     },
     {
-      "id": "yellow-submarine"
+      "id": "yellow-submarine",
+      "name": "Yellow Submarine",
+      "categories": [
+        "defi"
+      ]
     },
     {
       "id": "zkmoney",
