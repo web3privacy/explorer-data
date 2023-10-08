@@ -107,6 +107,10 @@
     {
       "id": "node",
       "name": "Node"
+    },
+    {
+      "id": "events",
+      "name": "Events"
     }
   ],
   "projects": [
