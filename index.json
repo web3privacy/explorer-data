@@ -6784,6 +6784,10 @@
     },
     {
       "id": "cia-protocol",
+      "name": "CIA protocol",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
