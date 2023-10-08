@@ -424,6 +424,18 @@
       }
     },
     {
+      "id": "ethberlin",
+      "name": "ETHBerlin",
+      "description": "a hackathon, a cultural festival, an educational event, a platform for hacktivism, and a community initiative to push the decentralized ecosystem forward.",
+      "categories": [
+        "events"
+      ],
+      "ecosystem": "Ethereum",
+      "links": {
+        "web": "https://ethberlin.ooo/contributors/"
+      }
+    },
+    {
       "id": "ethrome",
       "name": "ETHRome",
       "categories": [
