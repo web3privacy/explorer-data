@@ -5056,7 +5056,7 @@
       "categories": [
         "infrastructure"
       ],
-      "token": [
+      "tokens": [
         {
           "name": "Secret",
           "symbol": "SCRT",
