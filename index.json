@@ -6177,6 +6177,10 @@
     },
     {
       "id": "zkmoney",
+      "name": "zk.money",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.png",
