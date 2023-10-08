@@ -42,17 +42,17 @@ Open Data Commons Open Database License (ODbL)
 | links snapshot                  | string   | uri                       |          |             |
 | links lens                  | string   | uri                       |          |             |
 | links farcaster                  | string   | uri                       |          |             |
-| links rss_feed                  | string   | uri                       |          |             |
+| links rss_feed                  | string   | uri                       |          | validation            |
 | blockchain_features p2p   | boolean   |                        |          |             |
-| blockchain_features encryption   | string   |                        |          |             |
+| blockchain_features encryption   | string   |                        |          | 256bit, ...            |
 | blockchain_features network   | string   |                        |          |             |
 | blockchain_features upgradability enabled   | boolean   |                        |          |             |
 | blockchain_features upgradability type   | string   |                        |          |             |
-| blockchain_features upgradability admin_keys   | string   |                        |          |             |
-| licenses               | string   |                        |          |             |
+| blockchain_features upgradability admin_keys   | string   |                        |          | 5 in Multisign            |
+| licenses               | string   |                        |          | MIT Licence, Copyright, Commons,            |
 | privacy_policy defined         | boolean   |                        |          |             |
 | privacy_policy link         | string   | uri                       |          |             |
-| privacy_policy data_usage         | string   |                        |          |             |
+| privacy_policy data_usage         | string   |                        |          | Page Numbers?, How are they using your data?, Selling/Giving data?             |
 | team anonymous                  | boolean   |                        |          |             |
 | team teammembers name                  | string   |                        |          |             |
 | team teammembers role                  | string   |                        |          |             |
@@ -61,11 +61,11 @@ Open Data Commons Open Database License (ODbL)
 | team company link                  | string   | uri                       |          |             |
 | team company contacts                  | string   |                        |          |             |
 | storage decentralized               | boolean   |                        |          |             |
-| traceability tracked_data          | string   |                        |          |             |
+| traceability tracked_data          | string   |                        |          | IP, Email, Phone, Address, ...             |
 | traceability kyc          | boolean   |                        |          |             |
-| traceability sign_in_type_requirments          | string   |                        |          |             |
-| third_party_dependency | string   |                        |          |             |
-| compliance             | string   |                        |          |             |
+| traceability sign_in_type_requirments          | string   |                        |          | Wallet, Email, Gitcoin Pass,              |
+| third_party_dependency | string   |                        |          | Name, Link, Description, Dependency purpose            |
+| compliance             | string   |                        |          | OFAC, FBI, MasterBlacklist,...            |
 | audits name                | string   |                        |          |             |
 | audits company                | string   |                        |          |             |
 | audits logo                | string   |                        |          |             |
