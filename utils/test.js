@@ -34,6 +34,7 @@ for (const col of Object.keys(w3pd.data)) {
   const ids = []
 
   for (const item of w3pd.data[col]) {
+    delete item._path
     const testName = `${col}/${item.id} ` + (col === 'projects' ? `[${item.categories?.join(', ')}]` : '')
 
     if (ids.includes(item.id)) {

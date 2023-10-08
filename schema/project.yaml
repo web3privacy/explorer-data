@@ -289,3 +289,15 @@ properties:
         type: boolean
       mainnet:
         type: boolean
+  logos:
+    type: array
+    items:
+      type: object
+      properties:
+        file:
+          type: string
+        ext:
+          type: string
+        url:
+          type: string
+          format: uri
