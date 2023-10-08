@@ -5681,11 +5681,9 @@
       },
       "team": {
         "anonymous": true,
-        "company": [
-          {
-            "link": "https://docs.sienna.network/main/"
-          }
-        ]
+        "company": {
+          "link": "https://docs.sienna.network/main/"
+        }
       }
     },
     {
