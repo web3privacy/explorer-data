@@ -5626,6 +5626,10 @@
     },
     {
       "id": "fairy",
+      "name": "Fairy",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.svg",
