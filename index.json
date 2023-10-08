@@ -5678,6 +5678,10 @@
     },
     {
       "id": "hurricane-protocol",
+      "name": "Hurricane Protocol",
+      "categories": [
+        "defi"
+      ],
       "logos": [
         {
           "file": "logo.svg",
