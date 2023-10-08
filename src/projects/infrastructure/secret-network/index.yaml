@@ -50,13 +50,13 @@ privacy_policy:
 team:
   anonymous: false
   teammembers:
-    - name: Alex Zaidelson
-      role: SLabs CEO
-      link: https://twitter.com/azaidelson
+    name: Alex Zaidelson
+    role: SLabs CEO
+    link: https://twitter.com/azaidelson
   company:
-    - name: Secret Labs
-      link: https://www.scrtlabs.com/
-      contacts: info@scrtlabs.com
+    name: Secret Labs
+    link: https://www.scrtlabs.com/
+    contacts: info@scrtlabs.com
 storage:
   decentralized: true
 tracebility:
