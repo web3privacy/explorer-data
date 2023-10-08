@@ -6643,15 +6643,13 @@
       ],
       "social_trust": null,
       "technical_spof": null,
-      "history": [
-        {
-          "title": "Mainet",
-          "event_type": "launch",
-          "description": "Token Launch",
-          "time": "Jul 3, 2021",
-          "link": "https://shadeprotocol.io/blog/shade-protocol-claim-tutorial"
-        }
-      ],
+      "history": {
+        "title": "Mainet",
+        "event_type": "launch",
+        "description": "Token Launch",
+        "time": "Jul 3, 2021",
+        "link": "https://shadeprotocol.io/blog/shade-protocol-claim-tutorial"
+      },
       "client_diversability": [
         {
           "name": "Railway",
