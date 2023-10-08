@@ -52,3 +52,5 @@
   name: Mixing services
 - id: node
   name: Node
+- id: events
+  name: Events
