@@ -21,6 +21,15 @@
                 "ProjectLink": "https://www.getmonero.org"
             },
             {
+                "Project": "Wownero",
+                "Description": "Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply of 184 million coins",
+                "GitHub": "https://git.wownero.com/wownero/wownero",
+                "ProductReadiness": "mainnet, 01 April 2018",
+                "Ecosystem": "Wownero",
+                "Team": "anon",
+                "ProjectLink": "https://wownero.org"
+            },
+            {
                 "Project": "Iron Fish",
                 "Description": "The Privacy Platform for Web3",
                 "GitHub": "https://github.com/iron-fish",
