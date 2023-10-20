@@ -7,7 +7,7 @@ product_launch_day: "2021-15-02"
 technology:
   type: TEE
   name: Trusted execution environment
-  features
+  features:
     - Privacy
     - Payments
 links:
