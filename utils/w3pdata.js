@@ -1,6 +1,6 @@
 import yaml from "npm:js-yaml";
 
-const DATA_URL = 'https://data.web3privacy.info'
+const DATA_URL = 'https://explorer-data.web3privacy.info'
 
 export class W3PData {
   constructor() {
