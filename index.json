@@ -152,9 +152,9 @@
       ],
       "logos": [
         {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/hurricane-protocol/logo.svg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/hurricane-protocol/logo.png"
         }
       ]
     },
@@ -215,9 +215,9 @@
       },
       "logos": [
         {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/panther-protocl/logo.svg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/panther-protocl/logo.png"
         }
       ]
     },
@@ -422,9 +422,9 @@
       ],
       "logos": [
         {
-          "file": "logo.jpg",
-          "ext": "jpg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/conceal-network/logo.jpg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/conceal-network/logo.png"
         }
       ]
     },
@@ -878,7 +878,14 @@
         "company": {
           "link": "https://dusk.network/pages/team"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/dusk-network/logo.png"
+        }
+      ]
     },
     {
       "id": "coinshuffle",
@@ -1067,9 +1074,9 @@
       },
       "logos": [
         {
-          "file": "logo.jpg",
-          "ext": "jpg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/elusiv/logo.jpg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/elusiv/logo.png"
         }
       ]
     },
@@ -1555,9 +1562,9 @@
       },
       "logos": [
         {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/railgun/logo.svg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/railgun/logo.png"
         }
       ]
     },
@@ -1754,9 +1761,9 @@
       ],
       "logos": [
         {
-          "file": "logo.jpg",
-          "ext": "jpg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/seven-seas/logo.jpg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/seven-seas/logo.png"
         }
       ]
     },
@@ -2667,9 +2674,9 @@
       },
       "logos": [
         {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/webb/logo.svg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/webb/logo.png"
         }
       ]
     },
@@ -4449,9 +4456,9 @@
       },
       "logos": [
         {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/sienna/logo.svg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sienna/logo.png"
         }
       ]
     },
@@ -4749,13 +4756,6 @@
       "name": "Common",
       "categories": [
         "defi"
-      ],
-      "logos": [
-        {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/common/logo.svg"
-        }
       ]
     },
     {
@@ -4879,9 +4879,9 @@
       ],
       "logos": [
         {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/fairy/logo.svg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/fairy/logo.png"
         }
       ]
     },
@@ -5143,9 +5143,9 @@
       },
       "logos": [
         {
-          "file": "logo.svg",
-          "ext": "svg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/basicswap/logo.svg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/basicswap/logo.png"
         }
       ]
     },
@@ -5633,9 +5633,9 @@
       },
       "logos": [
         {
-          "file": "logo.jpg",
-          "ext": "jpg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/silent-protocol/logo.jpg"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/silent-protocol/logo.png"
         }
       ]
     },
