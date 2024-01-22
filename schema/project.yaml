@@ -7,6 +7,9 @@ required:
 properties:
   id:
     type: string
+    title: ID
+    description: | 
+      Unique project identifier 
     pattern: '^[a-z0-9-]+$'
   name: 
     type: string
@@ -15,14 +18,16 @@ properties:
     items: 
       type: string
       pattern: '^[a-z0-9-]+$'
+  assets_used:
+    type: array
+    items: 
+      type: string
+      pattern: '^[A-Z0-9-]+$'
   ecosystem:
-    type: string
-  product_readiness:
-    type: string
-  security:
-    type: string
-  have_token:
-    type: boolean
+    type: array
+    items: 
+      type: string
+      pattern: '^[A-Z0-9-]+$'
   token_link:
     type: string
     format: uri
@@ -115,6 +120,9 @@ properties:
       rss_feed:
         type: string
         format: uri
+      education:
+        type: string
+        format: uri
   blockchain_features:
     type: object
     properties:
@@ -155,14 +163,6 @@ properties:
       type: string
     connected_tx:
       type: boolean
-    revealed_recipient:
-      type: boolean
-    revealed_sender:
-      type: boolean
-    revealed_ammount:
-      type: boolean
-    reversability_condition:
-      type: string
     data_masking:
       type: string
     asset_custody_type:
@@ -193,17 +193,7 @@ properties:
             type: string
           link:
             type: string
-            format: uri
-      company:
-        type: object
-        properties:
-          name:
-            type: string
-          link:
-            type: string
-            format: uri
-          contacts:
-            type: string  
+            format: uri 
   storage:
     type: object
     properties:
@@ -239,6 +229,8 @@ properties:
   social_trust:
     type: string
   technical_spof:
+    type: string
+  fee:
     type: string
   history:
     type: object

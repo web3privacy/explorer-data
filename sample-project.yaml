@@ -1,0 +1,147 @@
+#PROJECT DESCRIPTION -------------------------------------------------------------
+
+name: SampleProject
+categories: [ defi ]
+ecosystem: [ Ethereum, Polkadot, Cosmos ] 
+
+
+project_type: All in one Privacy tool
+description: 'Short description of project features and mission'
+product_launch_day: "YYYY-MM-DD"
+
+
+token_link: https://etherscan.io/address/0x148932fc33d97ae4f85443d2f6af25cacddd6062
+tokens:
+  - name: SampleToken
+    symbol: SAMPLE
+    network: Ethereum
+    contract_address: "0xe6c83af64e4c60245d8c7de953df673a00000"
+assets_used: [ BTC, ETH, USDC ] 
+fee: 3.5%
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Samplic Samplist
+      role: CEO
+      link: https://twitter.com/samplesampler
+    - name: Random Guy
+      role: CTO
+      link: https://twitter.com/mostrandomguy
+
+
+funding:
+  - name: Private investors ICO
+    type: ICO
+    link: https://investopedia.org/sample-ico-2022
+    value: $50.000.000
+    time: "YYYY-MM-DD"
+
+history:
+  title: Sample Voyage
+  event_type: launch
+  description: Launched Sample Voyage on Mainnet
+  time: "YYYY-MM-DD"
+  link: https://infonewspage.com/sample-launch
+
+
+sunset: false
+
+
+# LINKS ---------------------------------------------------------------------
+
+
+links:
+  web: https://sample-website.com
+  github: https://github.com/sample_privacy_project
+  block_explorer: https://samplescan.io/
+  docs: https://docs.sample-website.com
+  forum: https://forum.sample-website.com
+  whitepaper: https://docs.sample-website.com/whitepaper.pdf
+  changelog: https://changelog.sample-website.com
+  snapshot: https://snapshot.org/sample-dao
+
+  blog: https://medium.com/@sample_privacy_project
+  twitter: https://twitter.com/sample_privacy_project
+  discord: https://discord.com/invite/jgUQSAMPLE
+  facebook: https://facebook.com/sample-privacy-crypto
+  telegram: https://t.me/sample_privacy_project
+  lens: https://hey.xyz/u/sample_privacy_project
+  farcaster: "@sampleprivacyproject"
+  rss_feed: https://rss-feeds.com/sample_privacy_project
+
+  education: https://twitter.com/random_user/status/12345678901234
+
+
+# TECHNOLOGY ---------------------------------------------------------------------
+
+
+technology:
+  type: ZK-Snarks
+  features:
+   - Private wallet
+   - Shielded DeFi
+   - P2P Swaps
+
+
+blockchain_features:
+  encryption: zksnark
+  opensource: true
+
+  identity_integration: Gitcoin Passport
+  p2p: true
+  data_masking: Sample_mixer
+  viewing_key: true
+  dissapearing_tx: false
+  connected_tx: false
+  frontend_anonymity: Sample frontend dont work on Tor
+
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+    type: DAO vote
+    admin_keys: 51% consensus by DAO
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+client_diversability: 
+  - name: Sample-wallet
+    link: https://sample-wallet-using-sample.com
+  - name: Sample-Defi_Swap
+    link: https://sample-swap.com
+
+
+# PRIVACY ---------------------------------------------------------------------
+
+licences: General Public License
+
+privacy_policy:
+  defined: true
+  link: https://app.shadeprotocol.io/use-terms
+  data_usage: tools you are making TXs on
+
+tracebility:
+  tracked_data: user SCRT adress
+  kyc: false
+  sign_in_type_requirments: EVM wallet
+
+compliance: OFAC, USA
+
+storage:
+  decentralized: true
+
+
+SECURITY ---------------------------------------------------------------------
+
+third_party_dependency: Chainlink oracle
+social_trust: Sample board multisig & DAO
+technical_spof: Uniswap hack
+
+audits:
+  - name: Privacy audit company - Sample security check
+    link: https://pac.com/sample-security.pdf
+    time: "YYYY-MM-DD"
