@@ -14,7 +14,7 @@ links:
   web: https://bento.me/brume
   twitter: https://twitter.com/BrumeWallet
   discord: https://discord.com/invite/KVEPWfN9jK
-  github: https://github.com/brume-wallet
+  github: https://github.com/brumewallet
 blockchain_features:
   p2p: true
   encryption: Tor
