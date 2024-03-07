@@ -6694,7 +6694,14 @@
       "description": "Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser.",
       "links": {
         "web": "https://status.im/web-three-browser/"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/status-web3-browser/logo.png"
+        }
+      ]
     },
     {
       "id": "djib",
