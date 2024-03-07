@@ -5066,7 +5066,14 @@
         }
       },
       "have_token": true,
-      "token_link": "https://coinmarketcap.com/currencies/orchid/"
+      "token_link": "https://coinmarketcap.com/currencies/orchid/",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/orchid/logo.png"
+        }
+      ]
     },
     {
       "id": "crust",
