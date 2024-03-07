@@ -721,7 +721,14 @@
         "company": {
           "link": "https://findora.org/team/"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/findora-platform/logo.png"
+        }
+      ]
     },
     {
       "id": "epic-cash",
