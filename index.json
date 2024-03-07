@@ -3442,7 +3442,14 @@
       "description": "Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️ZK",
       "links": {
         "web": "https://www.heyanoun.xyz"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/heyanon/logo.png"
+        }
+      ]
     },
     {
       "id": "blockwallet",
