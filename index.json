@@ -1006,7 +1006,14 @@
         "company": {
           "link": "https://docs.sienna.network/main/"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sienna-network/logo.png"
+        }
+      ]
     },
     {
       "id": "starkex",
