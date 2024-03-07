@@ -6178,7 +6178,14 @@
       "links": {
         "web": "https://carbon.website",
         "github": "https://github.com/Carbon-Browser"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/carbon-browser/logo.png"
+        }
+      ]
     },
     {
       "id": "axiatel",
