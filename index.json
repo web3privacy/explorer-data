@@ -4529,7 +4529,14 @@
       "description": "DAO fostering R&D and investments within Lunarpunk movement",
       "links": {
         "web": "https://lunardao.net"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/lunardao/logo.png"
+        }
+      ]
     },
     {
       "id": "meile",
