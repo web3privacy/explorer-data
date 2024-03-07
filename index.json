@@ -2336,7 +2336,14 @@
         "live_status": true,
         "version": "v0.11.1.0",
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/wownero/logo.png"
+        }
+      ]
     },
     {
       "id": "juno-analytics",
