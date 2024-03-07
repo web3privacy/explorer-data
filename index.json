@@ -3844,7 +3844,14 @@
       "links": {
         "web": "https://decentr.net",
         "github": "https://github.com/Decentr-net"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/decentr/logo.png"
+        }
+      ]
     },
     {
       "id": "vult",
