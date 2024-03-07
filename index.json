@@ -4175,7 +4175,14 @@
           "link": "https://mullvad.net/en/about"
         }
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mullvad-vpn/logo.png"
+        }
+      ]
     },
     {
       "id": "iron-fish",
