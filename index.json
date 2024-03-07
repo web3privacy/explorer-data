@@ -372,7 +372,14 @@
         }
       },
       "have_token": true,
-      "token_link": "https://coinmarketcap.com/currencies/mysterium/"
+      "token_link": "https://coinmarketcap.com/currencies/mysterium/",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mysterium-vpn/logo.png"
+        }
+      ]
     },
     {
       "id": "nillion",
