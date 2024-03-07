@@ -1634,7 +1634,14 @@
       "links": {
         "web": "https://github.com/scrtlabs/Grants/issues/22",
         "github": "https://github.com/scrtlabs"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/silk/logo.png"
+        }
+      ]
     },
     {
       "id": "sphereon-wallet",
