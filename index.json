@@ -399,7 +399,14 @@
         "company": {
           "link": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nillion/logo.png"
+        }
+      ]
     },
     {
       "id": "anonybit",
