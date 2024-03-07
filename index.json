@@ -2927,7 +2927,14 @@
         "anonymous": true
       },
       "have_token": true,
-      "token_link": "https://coinmarketcap.com/currencies/kelvpn/"
+      "token_link": "https://coinmarketcap.com/currencies/kelvpn/",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/kelvpn/logo.png"
+        }
+      ]
     },
     {
       "id": "demox-labs",
