@@ -5118,7 +5118,14 @@
           "link": "https://protonvpn.com/about"
         }
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/protonvpn/logo.png"
+        }
+      ]
     },
     {
       "id": "basic-attention-token",
