@@ -1976,7 +1976,14 @@
       "product_readiness": "testnet",
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/phoenix-network/logo.png"
+        }
+      ]
     },
     {
       "id": "treasure-chest",
