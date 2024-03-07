@@ -3494,7 +3494,14 @@
         "company": {
           "link": "https://www.phala.network/en/aboutUs/"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/phala-network/logo.png"
+        }
+      ]
     },
     {
       "id": "seer-sdid",
