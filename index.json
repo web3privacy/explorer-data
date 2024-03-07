@@ -4548,7 +4548,14 @@
         "company": {
           "link": "https://alephzero.org/the-team"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/aleph-zero/logo.png"
+        }
+      ]
     },
     {
       "id": "colossusxt",
