@@ -3256,7 +3256,14 @@
       "links": {
         "web": "http://brave.com",
         "github": "https://github.com/brave/brave-browser"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/brave/logo.png"
+        }
+      ]
     },
     {
       "id": "cape",
