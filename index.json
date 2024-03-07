@@ -3598,7 +3598,14 @@
       "description": "Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.",
       "links": {
         "web": "https://www.opera.com/crypto/next"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/opera-crypto-browser/logo.png"
+        }
+      ]
     },
     {
       "id": "asmatch",
