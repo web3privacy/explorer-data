@@ -5447,7 +5447,14 @@
       },
       "team": {
         "anonymous": false
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/particl/logo.png"
+        }
+      ]
     },
     {
       "id": "hopr",
