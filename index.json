@@ -991,7 +991,14 @@
       "links": {
         "web": "https://github.com/mullvad/mullvad-browser",
         "github": "https://github.com/mullvad/mullvad-browser"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mullvad-browser/logo.png"
+        }
+      ]
     },
     {
       "id": "sienna-network",
