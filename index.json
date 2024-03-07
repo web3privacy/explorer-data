@@ -4564,7 +4564,14 @@
       "description": "Web3 browser that respects your privacy",
       "links": {
         "web": "https://www.fulldive.com"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/fulldive/logo.png"
+        }
+      ]
     },
     {
       "id": "serenityshield",
