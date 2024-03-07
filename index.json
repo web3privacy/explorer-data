@@ -2364,7 +2364,14 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/evolution/logo.png"
+        }
+      ]
     },
     {
       "id": "xmtp-x-lens",
