@@ -2446,7 +2446,14 @@
       },
       "team": {
         "anonymous": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/pirate-chain/logo.png"
+        }
+      ]
     },
     {
       "id": "findora-cr",
