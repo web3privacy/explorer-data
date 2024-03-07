@@ -4604,7 +4604,14 @@
       },
       "team": {
         "anonymous": false
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/x-cash/logo.png"
+        }
+      ]
     },
     {
       "id": "xx-messenger",
