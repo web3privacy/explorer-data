@@ -2104,7 +2104,14 @@
       "links": {
         "web": "https://solarlabs.ee"
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/solar-labs/logo.png"
+        }
+      ]
     },
     {
       "id": "silent-protocol",
