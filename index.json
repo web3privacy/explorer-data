@@ -500,7 +500,14 @@
         "company": {
           "link": "https://www.privasea.tech/about"
         }
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/privasea/logo.png"
+        }
+      ]
     },
     {
       "id": "divestos",
