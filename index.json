@@ -4296,7 +4296,14 @@
         "anonymous": true
       },
       "have_token": true,
-      "token_link": "https://coinmarketcap.com/currencies/sentinel/"
+      "token_link": "https://coinmarketcap.com/currencies/sentinel/",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sentinel/logo.png"
+        }
+      ]
     },
     {
       "id": "spkz",
