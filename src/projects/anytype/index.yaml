@@ -1,8 +1,14 @@
 name: Anytype
 categories:
   - infrastructure
-description: The digital assets and communities you create are truly yours.
-product_readiness: TBD
+description: Anytype is a local-first, E2E encrypted software designed as a secure place to create and store digital assets. You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more.
+team: 56 members
+product_readiness: live
 links:
   web: https://anytype.io/en
   github: https://github.com/anytypeio
+  docs: https://doc.anytype.io/anytype-docs
+  blog: https://blog.anytype.io/
+  twitter: https://twitter.com/anytypelabs
+  telegram: https://t.me/anytype
+  youtube: https://www.youtube.com/c/anytype
