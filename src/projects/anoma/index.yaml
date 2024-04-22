@@ -5,6 +5,14 @@ description: >-
   An intent-centric, privacy-preserving protocol for decentralized counterparty
   discovery, solving, and multi-chain atomic settlement
 product_readiness: testnet
+team:
+  anonymous: false
+  - name: Christopher Goes
+  - name: Adrian Brink
+  - name: Awa Sun Yin
 links:
   web: https://anoma.net
+  blog: https://anoma.net/blog
   github: https://github.com/anoma
+  whitepaper: https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf
+  vision-paper: https://anoma.net/vision-paper.pdf
