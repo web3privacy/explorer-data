@@ -4,7 +4,17 @@ categories:
 description: >-
   An open-source and proof-of-stake blockchain that aims to provide a sandbox
   environment for the deployment of smart contracts
+team:
+  anonymous: true
+product_readiness: testnet
 links:
   web: https://gotabit.io
   github: https://github.com/gotabit
+  docs: https://docs.gotabit.io/
+  twitter: https://twitter.com/GotaBitG
 have_token: true
+project_status:
+  live_status: true
+  version: Testnet
+  testnet: true
+  mainnet: false
