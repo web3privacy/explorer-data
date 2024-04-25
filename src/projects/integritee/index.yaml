@@ -2,12 +2,23 @@ name: Integritee
 categories:
   - infrastructure
 description: >-
-  The most scalable public blockchain solution for securely processing sensitive
-  business or personal data
-product_readiness: mainnet, January 2022
+  Integritee is a highly scalable, privacy-enabling network in the Polkadot ecosystem with parachains on Polkadot and Kusama.
+  They seek to become the leading Web3 privacy solution - a blockchain network for developers and relevant to enterprises to build (decentralized) applications that benefit from unrivaled speed, verifiable confidentiality/privacy, and interoperability.
+team:
+  anonymous: true
+product_readiness: live
 links:
   web: https://integritee.network
   github: https://github.com/integritee-network
+  docs: https://docs.integritee.network/
+  blog: https://www.integritee.network/blog
+  Lightpaper: https://www.integritee.network/docs/Integritee_%20Lightpaper_2021.pdf
+  twitter: https://twitter.com/integri_t_e_e
 have_token: true
 tokens:
   - symbol: TEER
+project_status:
+  live_status: true
+  version: false
+  testnet: false
+  mainnet: true
