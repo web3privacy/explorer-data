@@ -2,9 +2,17 @@ name: Calimero network
 categories:
   - infrastructure
 description: >-
-  Secure private shard infrastructure lets you protect your data while
-  leveraging all the business benefits of open-source blockchains
+  Calimero Network is a decentralized peer-to-peer protocol for building self-sovereign networks of applications and sharing data in a completely secure and private way.
+  Calimero 2.0 provides developers with tools for building Layer-0 protocols for private data
+team:
+  anonymous: true
 product_readiness: TBD
 links:
   web: https://www.calimero.network
-  github: https://github.com/calimero-is-near
+  blog: https://www.calimero.network/blogs
+  twitter: https://twitter.com/CalimeroNetwork
+project_status:
+  live_status: false
+  version: false
+  testnet: false
+  mainnet: false
