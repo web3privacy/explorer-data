@@ -1,13 +1,32 @@
 name: Arcana
 categories:
   - infrastructure
-description: >-
-  Users care about Privacy and Security, set your app apart with the most
-  developer-friendly data storage and privacy platform.
-product_readiness: mainnet, February 2023
+description: Arcana is UX-focused Validium chain built to simplify Web3 UX and adoption. It brings client-side SDKs to empower Web3 apps with social login and gasless transaction capabilities and other tools. 
+Auth SDK - Enables social login and gasless transactions through the in-app, embedded, non-custodia Arcana wallet.
+Gasless SDK - Extends the gasless transaction feature (an ERC 4337 based solution) to third-party browser-based wallets.
+SendIt - Send cryptocurrencies via email
+team: 24 team members
+  - name: Mayur Relekar
+  role: Co-Founder and CEO
+  - name: Aravindh Kumar
+  role: Co-Founder, Growth and Partnerships
+  - name: Ajay Shetty
+  role: Chief Operating Officer
+  - name: Abhishek Chaudhary
+  role: Chief Technology Officer
+  - name: Sharan Grandigae
+  role: Sharan Grandigae
+product_readiness: live
 links:
   web: https://arcana.network
   github: https://docs.beta.arcana.network
+  twitter: https://twitter.com/ArcanaNetwork
+  discord: https://discord.com/invite/6g7fQvEpdy
+  youtube: https://www.youtube.com/@ArcanaNetwork
+  telegram: https://t.me/ArcanaNetwork
+  docs: https://docs.arcana.network/
+  blog: https://arcana.network/blog
+  whitepaper: https://www.notion.so/arcananetwork/Arcana-Technical-Docs-a1d7fd0d2970452586c693e4fee14d08
 have_token: true
 tokens:
   - symbol: XAR
