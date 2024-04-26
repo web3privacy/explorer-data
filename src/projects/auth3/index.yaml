@@ -1,8 +1,18 @@
 name: Auth3
 categories:
   - infrastructure
-description: Authentic Privacy Computing Network into Web 3.0
-product_readiness: TBD
+description:  Auth3 is a privacy-preserved computing network into Web 3.0 that aims to unlock the value of data. Auth3 helps individuals and corporations discover,
+authenticate and exchange data values rather than data itself. Auth3 encapsulates data usage rights into data tokens by leveraging blockchain 
+and Defi tools, which helps to incentivize and grow the data ecosystem. 
+team:
+  anonymous: true
 links:
   web: https://auth3.network
-have_token: true
+  whitepaper: https://auth3.network/Auth3-Whitepaper_v1.0.pdf
+  twitter: https://twitter.com/auth3_network
+project_status:
+  live_status: false
+  version: TBD
+  testnet: false
+  mainnet: false
+  
