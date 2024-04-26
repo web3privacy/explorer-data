@@ -5,9 +5,22 @@ description: >-
   Fuel your digital-first strategy with human health data. LifeGraph® takes the
   complexity out of managing sensitive human data freeing you to build trust
   through hyper-personalized health, work, and life digital experiences.
+team:
+  - name: Frank Ricotta
+    role: CEO
+  - name: Brian Jackson
+    role: COO
+  - name: Tyson Henry
+    role: CTO
 product_readiness: TBD
 links:
   web: https://burstiq.com
+  twitter: https://twitter.com/BurstIQ
 have_token: true
 tokens:
   - symbol: BIQ
+project_status:
+  live_status: false
+  version: false
+  testnet: false
+  mainnet: false
