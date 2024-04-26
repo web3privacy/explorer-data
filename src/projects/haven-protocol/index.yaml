@@ -1,11 +1,25 @@
 name: Haven Protocol
 categories:
   - infrastructure
-description: The world’s only network of private stable assets
+description: Haven is an open source, community-led network of private digital assets. 
+It is a Proof-of-Work cryptocurrency network based on the cryptonote protocol. 
+It was originally started as a fork of Monero, one of the most highly regarded privacy focused coins in the space.
+team:
+  anonymous: true
 product_readiness: live
 links:
   web: https://havenprotocol.org
   github: https://github.com/haven-protocol-org
+  whitepaper: https://havenprotocol.org/whitepaper/
+  docs: https://havenprotocol.org/knowledge/
+  blog: https://havenprotocol.org/category/blog/
+  twitter: https://twitter.com/HavenXHV
 have_token: true
 tokens:
   - symbol: XHV
+audits: no audit reports attached - https://github.com/haven-protocol-org/security-audits/
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
