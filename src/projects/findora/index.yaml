@@ -5,10 +5,16 @@ description: >-
   A decentralized, privacy-preserving smart contract platform. Build the next
   privacy dApp for any EVM-chain with the world’s leading zero-knowledge
   technology-explore all new possibilities
-product_readiness: mainnet, March 2021
+product_readiness: TBD
 links:
   web: https://findora.org
   github: https://github.com/findoranetwork
+  twitter: https://twitter.com/Findora
 have_token: true
 tokens:
   - symbol: FRA
+project_status:
+  live_status: false
+  version: false
+  testnet: false
+  mainnet: false
