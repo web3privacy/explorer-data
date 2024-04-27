@@ -1,11 +1,22 @@
 name: Manta Network
 categories:
   - infrastructure
-description: On-Chain Privacy for Web 3, DeFi and more ✨️**ZK*
-product_readiness: testnet v3, january 2023
+description: Manta Network is the multi-modular ecosystem for zero-knowledge (ZK) applications.
+Manta Pacific, the unique L2 ecosystem on Ethereum for EVM-native ZK applications.
+Manta Atlantic, the fastest ZK L1 chain on Polkadot, brings programmable identities and credentials to web3 through zkSBTs.
+team:
+  anonymous: true
+product_readiness: live
 links:
   web: https://www.manta.network
   github: https://github.com/manta-network
+  docs: https://docs.manta.network/
+  X: https://twitter.com/mantanetwork
 have_token: true
 tokens:
   - symbol: MANTA
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
