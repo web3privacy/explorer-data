@@ -2,9 +2,16 @@ name: Masq
 categories:
   - infrastructure
 description: >-
-  Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem
+  The web3 privacy browser. Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem
   that makes living in Web3 anonymous and private
-product_readiness: TBD
+team:
+  anonymous: true
+product_readiness: live (v0.9)
 links:
-  web: https://masq.ai
+  web: https://www.masqbrowser.com/
   github: https://github.com/MASQ-Project
+  greypaper: https://github.com/MASQ-Project/MASQ-Docs/blob/main/Greypaper.md
+  docs: https://docs.masq.ai/masq
+  blog: https://www.masqbrowser.com/blog
+  X: https://twitter.com/MASQ_ai
+  
