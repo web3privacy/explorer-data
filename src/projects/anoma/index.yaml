@@ -12,7 +12,18 @@ team:
   - name: Awa Sun Yin
 links:
   web: https://anoma.net
+  docs: https://github.com/anoma/anoma-archive/tree/main/docs
   blog: https://anoma.net/blog
   github: https://github.com/anoma
   whitepaper: https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf
   vision-paper: https://anoma.net/vision-paper.pdf
+technology:
+  type: ZK, FHE
+  features:
+    - privacy for content
+blockchain_features:
+  p2p: true
+tracebility:
+  kyc: false
+storage:
+  decentralized: true
