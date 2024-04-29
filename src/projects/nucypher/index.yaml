@@ -1,11 +1,34 @@
-name: NuCypher
+name: Threshold
 categories:
   - infrastructure
-description: Cryptographic Infrastructure for Privacy-Preserving Applications
-product_readiness: mainnet, january 2023
-links:
-  web: https://www.nucypher.com
-  github: https://github.com/nucypher/
+description: Threshold cryptography is a revolutionary technology that uses cryptography to unlock greater utility and usability for digital assets without needing to trust a centralized party. 
+Threshold cryptography distributes sensitive operations across multiple independent entities – like nodes in a network – and requires a threshold, or minimum number of those entities to cooperate for the operation to be successful.
+(merged projects NuCypher & Keep - https://blog.threshold.network/decentralized-merger/).
+team:
+  anonymous: true
+product_readiness: live
+  web: https://threshold.network/
+  github: https://github.com/threshold-network
+  docs: https://docs.threshold.network/
+  blog: https://blog.threshold.network/
 have_token: true
 tokens:
-  - symbol: NU
+  - symbol: T
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+audits:
+  - name: Least Authority: Solana Smart Contracts Audit Report
+    link: https://leastauthority.com/blog/audits/audit-of-keep-network-solana-smart-contracts/
+    time: September, 2023
+  - name: Least Authority: tBTC Bridge v2 Security Audit Report
+    link: https://leastauthority.com/blog/audits/audit-of-keep-network-tbtc-bridge-v2/
+    time: October, 2022
+  - name: CertiK: Vending Machine Security Audit Report
+    link: https://skynet.certik.com/projects/threshold-network
+    time: November, 2021
+  - name: ChainSecurity: Staking Contract, T Token, Vending Machine Security Audit Report
+    link: https://chainsecurity.com/security-audit/threshold-network/
+    time: November, 2021
