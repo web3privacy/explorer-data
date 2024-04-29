@@ -1,13 +1,30 @@
 name: NYM
 categories:
   - infrastructure
-description: >-
-  The infrastructure to prevent this data leakage by protecting every packet’s
-  metadata at the network and application layers
-product_readiness: mainnet, february 2022
+description: Nym protects communication patterns, IP addresses and metadata for end-users, enterprise and infrastructure operators
+product_readiness: live
+team:
+  - name: Harry Halpin
+    role: CEO and Chairman of Scientific Board
+  - name: Mark Sinclair
+    role: Chief Technology Officer
+  - name: Claudia Diaz
+    role: Chief Scientist
+  - name: Alexis Roussel
+    role: Chief Operating Officer
+  - name: Jaya Klara Brekke
+    role: Chief Strategy Officer  
 links:
   web: https://nymtech.net
   github: https://github.com/nymtech
+  whitepapers: https://nymtech.net/learn/papers
+  docs: https://nymtech.net/docs
+  blog: https://blog.nymtech.net/
 have_token: true
 tokens:
   - symbol: NYM
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
