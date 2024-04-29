@@ -1,8 +1,9 @@
 name: Pollen Mobile
 categories:
   - infrastructure
-description: The world's first decentralized, user-owned and operated mobile network.
-product_readiness: testnet
+description: The world's first decentralized, user-owned and operated mobile network. "Your information is yours and yours alone. 
+We don't monitor how you use the network, and all data from device to data center is encrypted, giving you and your users peace of mind."
+product_readiness: questionable (lots of product pages does not work, explorer not online)
 links:
   web: https://www.pollenmobile.io
   github: https://docs.pollenmobile.io/pollen-mobile-docs/
