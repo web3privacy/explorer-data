@@ -1,8 +1,18 @@
 name: Mind Network
 categories:
   - infrastructure
-description: Decentralized zero-trust data lake
+description: Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading towards to the era of HTTPZ, an end-to-end encryption internet.
+product_readiness: testnet
+team:
+  anonymous: true
 links:
   web: https://mindnetwork.xyz
   github: https://github.com/mind-network
+  docs: https://mind-network.gitbook.io/mindnetwork
+  X: https://twitter.com/mindnetwork_xyz
 have_token: true
+project_status:
+  live_status: true
+  version: Testnet Episode 2
+  testnet: true
+  mainnet: false
