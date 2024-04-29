@@ -4,10 +4,20 @@ categories:
 description: >-
   A privacy-enabled blockchain platform for open finance and a responsible data
   economy
-product_readiness: mainnet, november 2020
+team:
+  anonymous: true
+product_readiness: live
 links:
   web: https://oasisprotocol.org
   github: https://github.com/oasisprotocol
+  docs: https://docs.oasis.io/
+  blog: https://oasisprotocol.org/blog
+  X: https://twitter.com/OasisProtocol
 have_token: true
 tokens:
   - symbol: ROSE
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
