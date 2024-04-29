@@ -2,10 +2,18 @@ name: Mysterium
 categories:
   - infrastructure
 description: An open-source ecosystem of tools and infrastructure to liberate the web
-product_readiness: Decentralized VPN (2017), testnet (2018), mainnet (2021)
+product_readiness: TBD
+team:
+  - name: RobertasVis
+    role: Founder
+  - name: Waldz
+    role: Founder & Lead Developer
 links:
   web: https://www.mysterium.network
   github: https://github.com/MysteriumNetwork
+  docs: https://docs.mysterium.network/
+  blog: https://www.mysterium.network/blog
+  X: https://twitter.com/MysteriumNet
 have_token: true
 tokens:
   - symbol: MYST
