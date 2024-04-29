@@ -3,7 +3,10 @@ categories:
   - infrastructure
 description: >-
   Anonymous domain name registrar and VPS provider based in Sweden, accepts
-  various cryptocurrencies as payment.
+  various cryptocurrencies as payment (BTC, Litecoin, Monero, Zcash, Ethereum).
+team:
+  anonymous: true
 product_readiness: live
 links:
   web: https://njal.la
+  blog: https://njal.la/blog/
