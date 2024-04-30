@@ -4,7 +4,14 @@ categories:
 description: >-
   An Off-chain secure communication protocol with deniability via ZKP (Ring
   Signature)
-product_readiness: PoC
+team:
+  - name: Shawn Chang
+    role: Founder & CEO
+  - name: Ming Xu
+    role: COO
+  - name: cybernaut.eth
+    role: CTO
+product_readiness: sunset? - last code change 3 yrs ago via github
 links:
   web: https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/
   github: https://github.com/hardenedvault/vault1317
