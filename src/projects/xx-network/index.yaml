@@ -6,6 +6,14 @@ product_readiness: mainnet
 links:
   web: https://xx.network
   github: https://git.xx.network/explore
+  whitepaper: https://xx.network/whitepapers/
+  docs: https://blockchainapi.xx.network/
+  X: https://twitter.com/xx_network
 have_token: true
 tokens:
   - symbol: XX
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
