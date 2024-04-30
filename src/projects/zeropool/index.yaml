@@ -4,6 +4,17 @@ categories:
 description: >-
   Is fully private multi-blockchain solution. Low transaction fees, atomic swaps
   and common anonymity set.
-product_readiness: mainnet beta
+team:
+  anonymous: true
+product_readiness: testnet
 links:
   web: https://zeropool.network/#rec246911850
+  github: https://github.com/zeropoolnetwork
+  whitepaper: https://zeropool.network/pdf/WriteupZeroPoolShardedStorage.pdf
+  blog: https://medium.com/zeropool
+  X: https://twitter.com/ZeroPoolNetwork
+project_status:
+  live_status: true
+  version: Testnet
+  testnet: true
+  mainnet: false
