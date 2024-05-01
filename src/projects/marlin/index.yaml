@@ -1,0 +1,32 @@
+name: Marlin
+categories:
+  - computing-network
+description: >-
+  Serverless backends for Web3 - Access and process data verifiably using ZKPs and TEEs
+ecosystem: Ethereum
+product_readiness: mainnet
+links:
+  web: https://www.marlin.org/
+  docs: https://docs.marlin.org/
+  github: https://github.com/marlinprotocol
+  blog: https://blog.marlin.org/
+  twitter: https://twitter.com/MarlinProtocol/
+  discord: https://discord.gg/pdQZyyy
+  telegram: https://t.me/marlinprotocol
+  facebook: https://www.facebook.com/marlinprotocol/
+team:
+  anonymous: true
+technology:
+  type: TEE, ZK
+  features:
+    - Serverless
+    - ZK proof marketplace
+blockchain_features:
+  p2p: false
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+default_privacy: true
+storage:
+  decentralized: true
+
