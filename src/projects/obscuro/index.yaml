@@ -1,4 +1,4 @@
-name: Obscuro
+name: TEN (formerly Obscuro)
 categories:
   - layer-2
 description: >-
@@ -7,10 +7,16 @@ description: >-
   changes to dApps, just migrate and gain privacy
 ecosystem: Ethereum
 product_readiness: testnet
+team:
+  anonymous: false (https://ten.xyz/team/)
 links:
   web: https://obscu.ro
   docs: https://docs.obscu.ro
+  whitepaper: https://whitepaper.ten.xyz/
 team:
   anonymous: false
-  company:
-    link: https://obscu.ro/#team
+project_status:
+  live_status: true
+  version: Testnet
+  testnet: true
+  mainnet: false
