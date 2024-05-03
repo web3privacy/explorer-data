@@ -2,6 +2,9 @@ name: socialKYC
 categories:
   - kyc
 description: Your decentralized social credentials
+team:
+  anonymous: true
+product_readiness: TBD
 links:
   web: https://socialkyc.io
   github: https://github.com/BTE-Trusted-Entity/socialkyc.io/
