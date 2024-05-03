@@ -1,17 +1,96 @@
-name: Masq
+#PROJECT DESCRIPTION -------------------------------------------------------------
+
+name: MASQ
 categories:
   - infrastructure
+  - VPN
+  - Browser
+  
+logos:
+  - file: MASQ-token-v2.png
+    ext: png
+    url: MASQ-token-v2.png
+ecosystem:
+  - Ethereum
+  - Polygon
+  
+project_type: Decentralized privacy network protocol
 description: >-
-  The web3 privacy browser. Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem
+  MASQ is a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem
   that makes living in Web3 anonymous and private
+product_launch_day: "2019-10-20"
+
+token:
+  - name: MASQ
+    symbol: MASQ
+    network: Ethereum
+    contract_address: "0x06F3C323f0238c72BF35011071f2b5B7F43A054c"
+    link: https://etherscan.io/token/0x06F3C323f0238c72BF35011071f2b5B7F43A054c
+  - name: MASQ
+    symbol: MASQ
+    network: Polygon
+    contract_address: "0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35"
+    link: https://polygonscan.com/token/0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35
+
 team:
   anonymous: true
-product_readiness: live (v0.9)
+product_readiness: Testnet Live (v0.9)
+
+# LINKS ---------------------------------------------------------------------
+
 links:
   web: https://www.masqbrowser.com/
   github: https://github.com/MASQ-Project
-  greypaper: https://github.com/MASQ-Project/MASQ-Docs/blob/main/Greypaper.md
   docs: https://docs.masq.ai/masq
   blog: https://www.masqbrowser.com/blog
   X: https://twitter.com/MASQ_ai
+  changelog: https://masq-network.canny.io/changelog
+  telegram: https://t.me/MASQ_ai
+  discord: https://discord.gg/masq
+  youtube: http://www.youtube.com/@MASQNetwork
+  education: https://docs.masq.ai/masq/getting-started/faqs
+# TECHNOLOGY ---------------------------------------------------------------------  
   
+technology:
+  type: P2P networking
+  name: dMeshVPN
+  features:
+    - private
+    - encrypted
+    - incentivized
+    
+blockchain_features:
+  opensource: true
+  p2p: true
+  asset_custody_type: Non-custodial
+  upgradability:
+    enabled: false
+
+project_status:
+  version: v0.9
+  live_status: true
+  testnet: true
+  mainnet: false
+
+# PRIVACY ---------------------------------------------------------------------
+
+licences: GPLv3 License
+privacy_policy:
+  defined: true
+  link: https://www.notion.so/MASQ-Network-Privacy-Practices-a58209dd0089404b80474da924015c03?pvs=4
+  data_usage: Not Using
+ 
+default_privacy: true
+
+storage:
+  decentralized: true
+ 
+tracebility:
+  tracked_data: Chains activity
+  kyc: false
+  sign_in_type_requirments: wallet 
+  
+SECURITY ---------------------------------------------------------------------
+   
+third_party_dependency: false
+social_trust: Team Multisigs & Dune analytics
