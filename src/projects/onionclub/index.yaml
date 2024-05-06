@@ -2,5 +2,6 @@ name: Onionclub
 categories:
   - messaging
 description: Blockchain-based, business & social platform.
+product_readiness: sunset (website down)
 links:
   web: https://onionclub.io
