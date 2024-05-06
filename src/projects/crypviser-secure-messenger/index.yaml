@@ -2,5 +2,22 @@ name: Crypviser Secure Messenger
 categories:
   - messaging
 description: The most private messaging app, based on Blockchain technology.
+team:
+  - name: Vadim Andryan
+    role: Managing Director
+  - name: Waldemar Konradi
+    role: Managing Director
+product_readiness: live
 links:
   web: https://crypviser.network/
+  whitepaper: https://crypviser.network/CrypViser_Whitepaper.pdf
+  blog: https://twitter.com/crypviser
+  X: https://twitter.com/crypviser
+have_token: true
+tokens:
+  - symbol: CVT
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true
