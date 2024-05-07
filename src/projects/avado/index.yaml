@@ -1,9 +1,7 @@
 name: Avado
 categories:
   - hardware
-description: A plug-and-play hardware device that connects users to many different kinds of
-  blockchains. Their node-running software makes it easy and efficient for users
-  to help power multiple networks at once, and earn crypto in the process
+description: 'A plug-and-play hardware device that connects users to many different kinds of blockchains'
 ecosystem: multichain
 links:
   web: https://www.mysterium.network/avado
