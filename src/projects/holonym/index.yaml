@@ -4,7 +4,6 @@ categories:
 description: ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ZK
 team:
   anonymous: true
-product_readiness: TBD
 links:
   web: https://holonym.id
   github: https://github.com/holonym-foundation
