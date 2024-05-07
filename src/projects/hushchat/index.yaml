@@ -5,13 +5,12 @@ description: HushChat is a protocol which is a particular use case of HushList p
 It is inspired by the design of Signal Protocol and uses many of the same cryptography and ideas, but does not actually use any code from Signal. 
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://hush.is/
   github: https://git.hush.is/hush
   docs: https://git.hush.is/hush/docs
   blog: https://blog.hush.is/
-  X: https://twitter.com/hushisprivacy
+  twitter: https://twitter.com/hushisprivacy
 project_status:
   live_status: true
   version: mainnet
