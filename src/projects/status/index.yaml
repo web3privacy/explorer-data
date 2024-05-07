@@ -1,15 +1,12 @@
 name: Status
 categories:
   - messaging
-description: >-
-  Status is a secure messaging app, crypto wallet, and Web3 browser built with
-  state of the art technology
+description: 'Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology'
 team:
   anonymous: false
-product_readiness: live (legacy mobile apps version 1.2 -- big relaunch 2.0 coming)
 links:
   web: https://status.im
   github: https://github.com/status-im/
   docs: https://status.app/specs
   blog: https://status.app/blog
-  X: https://twitter.com/ethstatus
+  twitter: https://twitter.com/ethstatus
