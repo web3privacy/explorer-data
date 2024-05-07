@@ -3,7 +3,11 @@ categories:
   - currency
 description: A modern digital currency that respects your rights
 ecosystem: Particl
-product_readiness: mainnet, 2019
+project_status: 
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
 links:
   web: https://particl.io/coin
   github: https://github.com/particl
