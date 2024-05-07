@@ -2,7 +2,6 @@ name: NYM
 categories:
   - infrastructure
 description: Nym protects communication patterns, IP addresses and metadata for end-users, enterprise and infrastructure operators
-product_readiness: live
 team:
   - name: Harry Halpin
     role: CEO and Chairman of Scientific Board
