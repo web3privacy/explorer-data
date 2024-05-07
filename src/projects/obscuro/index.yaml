@@ -6,7 +6,7 @@ description: >-
   ensures the inputs, contract state and execution are always encrypted. No
   changes to dApps, just migrate and gain privacy
 ecosystem: Ethereum
-product_readiness: testnet
+project_status: testnet
 team:
   anonymous: false (https://ten.xyz/team/)
 links:
