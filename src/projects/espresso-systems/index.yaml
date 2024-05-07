@@ -13,7 +13,6 @@ team:
   role: Chief Scientist
 - name: Binyi Chen
   role: Chief Cryptographer 
-product_readiness: testnet
 links:
   web: https://www.espressosys.com
   github: https://github.com/EspressoSystems/
