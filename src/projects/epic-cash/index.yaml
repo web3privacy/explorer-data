@@ -1,11 +1,8 @@
 name: Epic Cash
 categories:
   - currency
-description: >-
-  Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer
-  community.
+description: 'Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community'
 ecosystem: MimbleWimble
-product_readiness: live, August 2019
 links:
   web: https://epic.tech
 team:
