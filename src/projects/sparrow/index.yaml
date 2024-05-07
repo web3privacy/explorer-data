@@ -3,7 +3,6 @@ categories:
   - wallets
 description: A Bitcoin wallet for those who value financial self-sovereignty
 ecosystem: Bitcoin
-product_readiness: live
 links:
   web: https://sparrowwallet.com/
   github: https://github.com/sparrowwallet/sparrow
