@@ -2,7 +2,6 @@ name: Onino
 categories:
   - infrastructure
 description: A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability
-product_readiness: TBD
 links:
   web: https://www.onino.io
 have_token: true
