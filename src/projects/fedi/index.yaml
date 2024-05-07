@@ -1,12 +1,8 @@
 name: Fedi
 categories:
   - wallets
-description: >-
-  Billions of people are unable to hold bitcoin on or off exchanges. Fedi,
-  powered by Fedimint, allows anyone to use Bitcoin easily, securely, and
-  collaboratively
+description: 'Billions of people are unable to hold bitcoin on or off exchanges'
 ecosystem: Bitcoin
-product_readiness: Coming in Q2, 2023
 links:
   web: https://www.fedi.xyz/
 team:
