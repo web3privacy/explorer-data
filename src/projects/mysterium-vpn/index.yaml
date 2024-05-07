@@ -3,7 +3,6 @@ categories:
   - vpn
 description: A global, distributed network powered by everyday people.
 ecosystem: multichain
-product_readiness: live
 links:
   web: https://www.mysterium.network/mysteriumvpn
   github: https://github.com/mysteriumnetwork/node
