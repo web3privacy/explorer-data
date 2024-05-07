@@ -5,7 +5,6 @@ description: >-
   DIY airgapped hardware wallet that uses QR codes for communication with the
   host
 ecosystem: Bitcoin
-product_readiness: live
 links:
   web: https://specter.solutions/hardware
   github: https://github.com/cryptoadvance/specter-diy/
