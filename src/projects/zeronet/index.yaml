@@ -4,7 +4,6 @@ categories:
 description: >-
   Open, free and uncensorable websites, using Bitcoin cryptography and
   BitTorrent network
-product_readiness: sunset? - latest release ZeroNet version 0.7.1 - September 2019
 links:
   web: https://zeronet.io
   github: https://github.com/HelloZeroNet/ZeroNet
