@@ -4,6 +4,5 @@ categories:
 description: >-
   A privacy tool known as a mixer, which we developed to utilize zk-SNARKs
   technology to increase anonymity.
-product_readiness: sunset (domain down)
 links:
   web: https://incognito.anonzk.io
