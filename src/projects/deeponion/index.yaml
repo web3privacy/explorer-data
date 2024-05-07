@@ -3,7 +3,7 @@ categories:
   - currency
 description: An anonymous cryptocurrency that is integrated with the Tor network
 ecosystem: Deep0nion
-product_readiness: mainnet, 2017
+project_status: Mainnet
 links:
   web: https://deeponion.org
   github: https://github.com/deeponion/deeponion/
