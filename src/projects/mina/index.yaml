@@ -1,19 +1,15 @@
 name: Mina
 categories:
   - infrastructure
-description: >-
-  The world’s lightest blockchain, powered by participants. Using zero knowledge
-  technology, Mina is creating the infrastructure for the secure, democratic
-  future we all deserve ✨️**ZK**
+description: 'The world’s lightest blockchain, powered by participants. Using zero knowledge technology'
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://minaprotocol.com
   github: https://github.com/MinaProtocol/mina
   whitepaper: https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf
   docs: https://docs.minaprotocol.com/
-  X: https://twitter.com/minaprotocol
+  twitter: https://twitter.com/minaprotocol
 have_token: true
 tokens:
   - symbol: MINA
