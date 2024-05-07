@@ -1,18 +1,15 @@
 name: MACI
 categories:
   - infrastructure
-description: >-
-  Minimum Anti-Collusion Infrastructure (MACI) is a base layer for
-  bribery-resistant, secure, and private digital voting.
+description: 'Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting'
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://maci.pse.dev/
   github: https://github.com/privacy-scaling-explorations/maci
   docs: https://maci.pse.dev/docs/introduction
   blog: https://maci.pse.dev/blog
-  X: https://twitter.com/zkMACI
+  twitter: https://twitter.com/zkMACI
 project_status:
   live_status: true
   version: v1.3 alpha
