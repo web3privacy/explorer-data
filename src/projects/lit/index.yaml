@@ -2,7 +2,6 @@ name: Lit
 categories:
   - infrastructure
 description: Builders of apps, wallets, protocols, and AI agents use the Lit network for decentralized signing, encryption, and compute.
-product_readiness: live
 team:
   - name: David Sneider
     role: Co-Founder
