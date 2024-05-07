@@ -5,7 +5,6 @@ description: >-
   A global network of autonomous dVPN applications that enable private and
   censorship resistant internet access
 ecosystem: Cosmos
-product_readiness: live
 links:
   web: https://sentinel.co
   github: https://github.com/sentinel-official
