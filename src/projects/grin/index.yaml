@@ -3,7 +3,6 @@ categories:
   - currency
 description: Electronic transactions for all. Without censorship or restrictions
 ecosystem: Mimblewimble
-product_readiness: live, January 2019
 links:
   web: https://grin.mw
   github: https://github.com/mimblewimble/grin
