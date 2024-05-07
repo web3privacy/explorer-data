@@ -2,7 +2,7 @@ name: Deeper Network
 categories:
   - hardware
 description: Web 3.0 infrastructure of the users, by the users, for the users.
-product_readiness: live, 2019
+project_status: Mainnet
 links:
   web: https://www.deeper.network
   docs: >-
