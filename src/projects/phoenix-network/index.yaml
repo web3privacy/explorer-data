@@ -6,6 +6,10 @@ links:
   web: https://phoenix.global
   github: https://github.com/phoenixglobal
 ecosystem: multichain
-product_readiness: testnet
+project_status: 
+  live_status: true
+  version: testnet
+  testnet: true
+  mainnet: false
 team:
   anonymous: true
