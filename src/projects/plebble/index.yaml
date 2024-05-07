@@ -3,12 +3,11 @@ categories:
   - layer-2
 description: P2P Network of computers running the Plebble software (L1 & L2)
 ecosystem: TBD
-product_readiness: live (testnet)
 links:
   web: https://plebble.net
   github: https://github.com/root1m3/plebble
   whitepaper: https://plebble.net/plebble_white_paper.pdf
-  X: https://twitter.com/KatlasC
+  twitter: https://twitter.com/KatlasC
 team:
   anonymous: true
 project_status:
