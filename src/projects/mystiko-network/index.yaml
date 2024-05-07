@@ -1,16 +1,15 @@
 name: Mystiko.Network
 categories:
   - infrastructure
-description: The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK**
+description: The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://mystiko.network
   github: https://github.com/mystikonetwork
   docs: https://docs.mystiko.network/
   whitepaper: https://mystiko.network/whitepaper.pdf
-  X: https://twitter.com/MystikoNetwork
+  twitter: https://twitter.com/MystikoNetwork
 project_status:
   live_status: true
   version: Mainnet V1
