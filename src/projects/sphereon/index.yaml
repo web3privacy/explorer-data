@@ -1,10 +1,7 @@
 name: Sphereon
 categories:
   - wallets
-description: >-
-  The Sphereon Wallet enables you to store your own private data and gives you
-  full and sole control over whom you want to share your information with
-product_readiness: PoC
+description: 'The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with'
 links:
   github: https://github.com/Sphereon-Opensource/ssi-mobile-wallet
 team:
