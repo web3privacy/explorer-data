@@ -4,11 +4,10 @@ categories:
 description: This is the first fully functioning tornado-core implementation on TON blockchain. It is based on circom and snarkjs libraries. 
 team:
   anonymous: true
-product_readiness: testnet (mainnet when BLS12-381 opcodes are added to TON blockchain)
 links:
   web: https://www.tonnel.network
   github: https://github.com/Tonnel-Network/core
-  X: https://twitter.com/tonnel_network
+  twitter: https://twitter.com/tonnel_network
 have_token: true
 tokens:
   - symbol: $TONNEL
