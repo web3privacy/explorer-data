@@ -7,12 +7,11 @@ description: >-
 team:
   - name: Eric Tung
     role: Founder CEO & CTO
-product_readiness: beta mainnet
 links:
   web: https://melproject.org/en/
   github: https://github.com/mel-project
   docs: https://docs.melproject.org
   forum: https://forum.melproject.org/
   yellow-paper: https://docs.themelio.org/specifications/yellow/
-  X: https://twitter.com/melproject_org
+  Twitter: https://twitter.com/melproject_org
 have_token: true
