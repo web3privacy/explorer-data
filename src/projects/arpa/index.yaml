@@ -1,12 +1,13 @@
 name: ARPA
 categories:
   - computing-network
-description: >-
-  Threshold BLS network can serve as the infrastructure of verifiable random
-  number generator (RNG), secure wallet, cross-chain bridge, decentralized
-  custody etc.
+description: 'Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc'
 ecosystem: multichain
-product_readiness: mainnet, Q2 2023
+project_status: 
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
 links:
   web: https://www.arpanetwork.io/en-US
   github: https://github.com/ARPA-Network
