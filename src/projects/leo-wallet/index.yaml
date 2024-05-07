@@ -3,7 +3,6 @@ categories:
   - wallets
 description: Safe and easy way to interact with the Aleo blockchain
 ecosystem: Aleo
-product_readiness: under development
 links:
   web: https://leo.app/
   github: https://docs.leo.app/aleo-wallet-adapter/
