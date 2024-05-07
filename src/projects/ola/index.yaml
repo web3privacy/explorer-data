@@ -4,16 +4,15 @@ categories:
 description: ZK-ZKVM Bringing Programmable Privacy to Blockchains
 team:
   anonymous: false
-product_readiness: live (Testnet)
 links:
   web: https://olavm.org/
   github: https://github.com/Sin7Y
   blog: https://medium.com/@ola_zkzkvm
   docs: https://ola-2.gitbook.io/ola-developer-documents
   whitepaper: https://github.com/Sin7Y/olavm-whitepaper-v2/blob/master/Ola%20-%20A%20ZKVM-based%2C%20High-performance%2C%20and%20Privacy-focused%20Layer2%20platform.pdf
-  X: https://twitter.com/ola_zkzkvm
+  twitter: https://twitter.com/ola_zkzkvm
 project_status:
   live_status: true
-  version: Testnet Pre-Alpha
+  version: Testnet
   testnet: true
   mainnet: false
