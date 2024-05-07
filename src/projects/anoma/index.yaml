@@ -4,7 +4,7 @@ categories:
 description: >-
   An intent-centric, privacy-preserving protocol for decentralized counterparty
   discovery, solving, and multi-chain atomic settlement
-product_readiness: testnet
+project_status: testnet
 team:
   anonymous: false
   - name: Christopher Goes
