@@ -5,9 +5,8 @@ description: Main product: Zephyr - the first non-custodial onramp to decentrali
 Zephyr leverages Zero Knowledge proofs to ensure that on and off-rampers never need to rely on centralized institutions.
 team:
   anonymous: true
-product_readiness: TBD
 links:
   web: https://www.notebooklabs.xyz
   docs: https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication
   blog: https://medium.com/@notebook_labs
-  X: https://twitter.com/ZephyrExchange
+  twitter: https://twitter.com/ZephyrExchange
