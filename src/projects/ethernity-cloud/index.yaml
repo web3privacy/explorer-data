@@ -1,10 +1,8 @@
 name: Ethernity cloud
 categories:
   - computing-network
-description: >-
-  The Web3 decentralized confidential computing ecosystem
+description: The Web3 decentralized confidential computing ecosystem
 ecosystem: Polygon
-product_readiness: mainnet, Q3 2023
 links:
   web: https://ethernity.cloud/
   docs: https://docs.ethernity.cloud/
