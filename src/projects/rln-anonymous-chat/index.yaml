@@ -4,5 +4,6 @@ categories:
 description: >-
   A spam-resistant instant messaging application for private and anonymous
   communication.
+product_readiness: sunset? (last commit 2022)
 links:
   web: https://github.com/njofce/zk-chat
