@@ -1,9 +1,7 @@
 name: Mejhool
 categories:
   - messaging
-description: >-
-  A decentralized web and mobile app with peer-to-peer text messaging,
-  decentralized file transfer, and voice-over-IP service.
+description: 'A decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer, and voice-over-IP service'
 team:
   - name: Dr. Mohamed Al Arab
     role: Founder - CEO
@@ -11,7 +9,6 @@ team:
     role: Founder
   - name: Fahad Faqeeh
     role: Founder
-product_readiness: TBD
 links:
   web: https://hzmcoin.com/mejhool/
   whitepaper: https://hzmcoin.com/wp-content/uploads/whitepaper.pdf
