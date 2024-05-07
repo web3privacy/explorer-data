@@ -1,9 +1,34 @@
 name: Waku
 categories:
   - messaging
+ecosystem:
+  - Ethereum
 description: >-
   Waku is the communication layer for Web3. Decentralized communication that
   scales
 links:
   web: https://waku.org
   github: https://github.com/waku-org
+team:
+  anonymous: false
+
+links:
+  web: https://waku.org
+  github: https://github.com/waku-org
+  docs: https://docs.waku.org
+  forum: https://forum.vac.dev/
+  blog: https://blog.waku.org
+  twitter: https://x.com/waku_org
+  discord: https://discord.waku.org
+  farcaster: "@waku"
+
+project_status:
+  live_status: true
+  version: The Waku Network Gen 0
+  testnet: true
+  mainnet: false
+
+licenses: Apache 2.0 and MIT
+
+traceability:
+  kyc: false
