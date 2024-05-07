@@ -1,12 +1,9 @@
 name: Calimero network
 categories:
   - infrastructure
-description: >-
-  Calimero Network is a decentralized peer-to-peer protocol for building self-sovereign networks of applications and sharing data in a completely secure and private way.
-  Calimero 2.0 provides developers with tools for building Layer-0 protocols for private data
+description: 'Calimero Network is a decentralized peer-to-peer protocol for building self-sovereign networks of applications and sharing data in a completely secure and private way'
 team:
   anonymous: true
-product_readiness: TBD
 links:
   web: https://www.calimero.network
   blog: https://www.calimero.network/blogs
