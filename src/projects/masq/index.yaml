@@ -1,5 +1,3 @@
-#PROJECT DESCRIPTION -------------------------------------------------------------
-
 name: MASQ
 categories:
   - infrastructure
@@ -34,22 +32,19 @@ token:
 
 team:
   anonymous: true
-product_readiness: Testnet Live (v0.9)
 
-# LINKS ---------------------------------------------------------------------
 
 links:
   web: https://www.masqbrowser.com/
   github: https://github.com/MASQ-Project
   docs: https://docs.masq.ai/masq
   blog: https://www.masqbrowser.com/blog
-  X: https://twitter.com/MASQ_ai
+  twitter: https://twitter.com/MASQ_ai
   changelog: https://masq-network.canny.io/changelog
   telegram: https://t.me/MASQ_ai
   discord: https://discord.gg/masq
   youtube: http://www.youtube.com/@MASQNetwork
   education: https://docs.masq.ai/masq/getting-started/faqs
-# TECHNOLOGY ---------------------------------------------------------------------  
   
 technology:
   type: P2P networking
@@ -72,7 +67,6 @@ project_status:
   testnet: true
   mainnet: false
 
-# PRIVACY ---------------------------------------------------------------------
 
 licences: GPLv3 License
 privacy_policy:
@@ -89,8 +83,7 @@ tracebility:
   tracked_data: Chains activity
   kyc: false
   sign_in_type_requirments: wallet 
-  
-SECURITY ---------------------------------------------------------------------
+
    
 third_party_dependency: false
 social_trust: Team Multisigs & Dune analytics
