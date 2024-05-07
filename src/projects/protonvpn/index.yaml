@@ -3,7 +3,6 @@ categories:
   - vpn
 description: Swiss VPN provider with encrypted email and online storage
 ecosystem: no chain
-product_readiness: live
 links:
   web: https://protonvpn.com/
   github: https://github.com/ProtonVPN
