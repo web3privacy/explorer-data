@@ -4,12 +4,11 @@ categories:
 description: The Decentralized Privacy-Centric Protocol for Web3
 team:
   anonymous: true
-product_readiness: TBD
 links:
   web: https://www.ruby.xyz
   github: https://github.com/Ruby-Protocol
   docs: https://wiki.ruby.xyz/
-  X: https://twitter.com/RubyProtocol
+  Twitter: https://twitter.com/RubyProtocol
 have_token: true
 tokens:
   - symbol: RUBY
