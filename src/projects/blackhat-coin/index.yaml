@@ -6,7 +6,7 @@ description: >-
   untraceable transactions based on PoS consensus and zk-SNARKs data protection
   protocol ✨️ZK
 ecosystem: BlackHat
-product_readiness: mainnet, 2021
+project_status: Mainnet
 links:
   web: https://blackhatco.in
   github: https://github.com/BlackHatCoin
