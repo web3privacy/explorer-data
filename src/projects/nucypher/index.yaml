@@ -6,7 +6,7 @@ Threshold cryptography distributes sensitive operations across multiple independ
 (merged projects NuCypher & Keep - https://blog.threshold.network/decentralized-merger/).
 team:
   anonymous: true
-product_readiness: live
+links:
   web: https://threshold.network/
   github: https://github.com/threshold-network
   docs: https://docs.threshold.network/
