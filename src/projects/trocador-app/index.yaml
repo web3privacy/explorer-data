@@ -6,7 +6,6 @@ description: >-
   registration, onion site and I2P available.
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://trocador.app
   docs: https://trocador.app/en/docs/
