@@ -90,5 +90,4 @@ project_status:
   version: Mainnet v1.12.1
   testnet: true
   mainnet: true
-product_readiness: mainnet, 2020
 have_token: true
