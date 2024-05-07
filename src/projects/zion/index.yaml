@@ -2,7 +2,6 @@ name: Zion
 categories:
   - messaging
 description: The Zion app is a peer-governed social network where members are the true owners of their data with BTC lightning integration.
-product_readiness: live
 team:
   anonymous: true
 links:
@@ -10,4 +9,4 @@ links:
   github: https://github.com/getzion/
   whitepaper: https://github.com/getZION/whitepaper-documents/tree/master/schemas
   docs: https://docs.zion.fyi/
-  X: https://twitter.com/get_Zion
+  twitter: https://twitter.com/get_Zion
