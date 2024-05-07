@@ -5,11 +5,16 @@ description: >-
   An end-to-end encrypted messenger that minimizes sensitive metadata, designed
   and built for people who want absolute privacy and freedom from any form of
   surveillance.
+team: 
+  anonymous: true
 ecosystem: Cryptonote
 product_readiness: Live
 links:
   web: https://getsession.org
   github: https://github.com/oxen-io
+  whitepaper: http://arxiv.org/pdf/2002.04609
+  docs: https://docs.oxen.io/oxen-docs/products-built-on-oxen/session
+  blog: https://getsession.org/blog
 team:
   company:
     link: https://www.linkedin.com/company/sessionmessenger/people/
