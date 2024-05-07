@@ -3,7 +3,6 @@ categories:
   - currency
 description: A privacy-preserving cryptocurrency and ecosystem
 ecosystem: Firo
-product_readiness: live, beta
 links:
   web: https://firo.org
   github: https://github.com/firoorg/firo
