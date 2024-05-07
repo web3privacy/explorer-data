@@ -3,7 +3,11 @@ categories:
   - currency
 description: The Privacy Platform for Web3
 ecosystem: Iron Fish
-product_readiness: testnet v3
+project_status: 
+  live status: true
+  version: testnet
+  testnet: true
+  mainnet: false
 links:
   web: https://ironfish.network
   github: https://github.com/iron-fish
