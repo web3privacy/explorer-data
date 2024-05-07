@@ -2,11 +2,10 @@ name: Senging.me
 categories:
   - messaging
 description: SendingMe is a decentralized and encrypted super-app that combines chat, socializing, and trade, giving you complete control over your social layer.
-product_readiness: live
 team:
   anonymous: true
 links:
   web: https://sending.me
   github: https://github.com/Sending-Network
   docs: https://sending-network.gitbook.io/sending.network/overview/getting-started
-  X: https://twitter.com/SendingLabs
+  twitter: https://twitter.com/SendingLabs
