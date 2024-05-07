@@ -3,7 +3,11 @@ categories:
   - currency
 description: A cryptocurrency powering a new class of interconnected privacy apps
 ecosystem: 0xen
-product_readiness: mainnet, 2018
+project_status: 
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
 links:
   web: https://oxen.io
   github: https://github.com/oxen-io
