@@ -4,7 +4,7 @@ categories:
 description: >-
   a public L2 blockchain with private transactions and MEV-resistance powered by
   zero-knowledge proofs
-product_readiness: live (testnet)
+product_version: testnet
 team:
   - name: Sid Gandhi
     role: Co-Founder & CEO
@@ -14,7 +14,7 @@ links:
   web: https://polybase.xyz
   docs: https://payy.network/docs
   blog: https://polybaselabs.com/blog
-  X: https://twitter.com/polybase_xyz
+  twitter: https://twitter.com/polybase_xyz
 project_status:
   live_status: true
   version: Testnet (App Payy - beta/testing)
