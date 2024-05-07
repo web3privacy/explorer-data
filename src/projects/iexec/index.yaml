@@ -2,7 +2,6 @@ name: iExec
 categories:
   - infrastructure
 description: iExec aims to provide the technology for developers to build Web3 applications that allow users to store, process, and share their data while maintaining control over its usage and privacy.
-product_readiness: live
 team:
   anonymous: true
 links:
