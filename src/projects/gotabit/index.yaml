@@ -6,7 +6,6 @@ description: >-
   environment for the deployment of smart contracts
 team:
   anonymous: true
-product_readiness: testnet
 links:
   web: https://gotabit.io
   github: https://github.com/gotabit
