@@ -1,11 +1,8 @@
 name: Foundation
 categories:
   - hardware
-description: >-
-  The new standard for Bitcoin self custody. Introducing Passport hardware
-  wallet and Envoy mobile app
+description: 'The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app'
 ecosystem: Bitcoin
-product_readiness: live
 links:
   web: https://foundationdevices.com
   github: https://github.com/Foundation-Devices
