@@ -1,9 +1,8 @@
 name: Treasure Chest
 categories:
   - wallets
-description: Treasure Chest is the main full node wallet for the ARRR cryptocurrency
+description: 'Treasure Chest is the main full node wallet for the ARRR cryptocurrency'
 ecosystem: Pirate Chain
-product_readiness: live
 links:
   web: https://pirate.black/wallets/treasure-chest/
   github: https://github.com/PirateNetwork/PirateWallet-Lite
