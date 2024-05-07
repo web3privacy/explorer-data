@@ -1,10 +1,13 @@
 name: Marlin
 categories:
   - computing-network
-description: >-
-  Serverless backends for Web3 - Access and process data verifiably using ZKPs and TEEs
+description: 'Serverless backends for Web3 - Access and process data verifiably using ZKPs and TEEs'
 ecosystem: Ethereum
-product_readiness: mainnet
+project_status: 
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
 links:
   web: https://www.marlin.org/
   docs: https://docs.marlin.org/
