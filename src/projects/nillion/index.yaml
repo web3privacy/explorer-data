@@ -1,14 +1,12 @@
 name: Nillion
 categories:
   - computing-network
-description: The Secure Processing Layer of Web3.
+description: 'The Secure Processing Layer of Web3'
 ecosystem: multichain
-product_readiness: live
 links:
   web: https://www.nillion.com
   docs: https://docsend.com/view/7bkgvzagr6ifhwrc
 team:
   anonymous: false
   company:
-    link: >-
-      https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU
+    link: https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU
