@@ -5,7 +5,11 @@ description: >-
   A game-changing cryptocurrency with a sharp focus on total privacy and
   blistering speed
 ecosystem: Discreet Compute Network
-product_readiness: testnet, 2022
+project_status: 
+  live_status: true
+  version: Testnet
+  testnet: true
+  mainnet: false
 links:
   web: https://discreet.net
   github: https://github.com/DiscreetNetwork
