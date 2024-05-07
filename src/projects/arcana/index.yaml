@@ -1,10 +1,7 @@
 name: Arcana
 categories:
   - infrastructure
-description: Arcana is UX-focused Validium chain built to simplify Web3 UX and adoption. It brings client-side SDKs to empower Web3 apps with social login and gasless transaction capabilities and other tools. 
-Auth SDK - Enables social login and gasless transactions through the in-app, embedded, non-custodia Arcana wallet.
-Gasless SDK - Extends the gasless transaction feature (an ERC 4337 based solution) to third-party browser-based wallets.
-SendIt - Send cryptocurrencies via email
+description: 'Arcana is UX-focused Validium chain built to simplify Web3 UX and adoption'
 team: 24 team members
   - name: Mayur Relekar
   role: Co-Founder and CEO
@@ -16,7 +13,6 @@ team: 24 team members
   role: Chief Technology Officer
   - name: Sharan Grandigae
   role: Sharan Grandigae
-product_readiness: live
 links:
   web: https://arcana.network
   github: https://docs.beta.arcana.network
