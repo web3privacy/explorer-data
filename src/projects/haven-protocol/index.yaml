@@ -1,12 +1,9 @@
 name: Haven Protocol
 categories:
   - infrastructure
-description: Haven is an open source, community-led network of private digital assets. 
-It is a Proof-of-Work cryptocurrency network based on the cryptonote protocol. 
-It was originally started as a fork of Monero, one of the most highly regarded privacy focused coins in the space.
+description: 'an open source, community-led network of private digital assets'
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://havenprotocol.org
   github: https://github.com/haven-protocol-org
