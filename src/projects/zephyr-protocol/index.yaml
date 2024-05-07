@@ -1,10 +1,8 @@
 name: Zephyr Protocol
 categories:
   - currency
-description: >-
-  The Untraceable Stablecoin Protocol
+description: 'The Untraceable Stablecoin Protocol'
 ecosystem: Zephyr
-product_readiness: mainnet, May 2023
 links:
   web: https://zephyrprotocol.com/
   github: https://github.com/monero-ecosystem
