@@ -6,11 +6,10 @@ description: >-
   technology.
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://alter.network/
   blog: https://blog.altermail.live/
-  X: https://twitter.com/AlterDapp
+  twitter: https://twitter.com/AlterDapp
 project_status:
   live_status: true
   version: mainnet
