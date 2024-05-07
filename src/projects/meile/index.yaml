@@ -3,7 +3,6 @@ categories:
   - vpn
 description: A decentralized VPN Client utilizing the Sentinel Blockchain
 ecosystem: multichain
-product_readiness: live
 links:
   web: https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/
   github: https://github.com/MathNodes
