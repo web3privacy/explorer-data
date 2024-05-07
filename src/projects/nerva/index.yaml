@@ -1,10 +1,8 @@
 name: Nerva
 categories:
   - currency
-description: >-
-  Private and secure cryptocurrency
+description: 'Private and secure cryptocurrency'
 ecosystem: Nerva
-product_readiness: mainnet, 2021
 links:
   web: https://nerva.one/
   docs: https://docs.nerva.one/
