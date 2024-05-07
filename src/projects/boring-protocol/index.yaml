@@ -3,7 +3,6 @@ categories:
   - vpn
 description: A Decentralized VPN on Solana
 ecosystem: Solana
-product_readiness: live
 links:
   web: https://boringprotocol.io
   github: https://docs.boringprotocol.io/bop/information/boring-protocol
