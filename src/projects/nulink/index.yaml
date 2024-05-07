@@ -4,14 +4,13 @@ categories:
 description: ZK Provable Data Privacy Solution for Decentralized Applications
 team:
   anonymous: true
-product_readiness: Testnet
 links:
   web: https://www.nulink.org
   github: https://github.com/NuLink-network
   docs: https://www.nulink.org/whitepaper-2-0
   whitepaper: https://www.nulink.org/whitepaper-2-0
   blog: https://www.nulink.org/blog
-  X: https://twitter.com/NuLink_
+  twitter: https://twitter.com/NuLink_
 have_token: true
 tokens:
   - symbol: NLINK
