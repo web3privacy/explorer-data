@@ -3,10 +3,8 @@ categories:
   - wallets
 description: The first crypto wallet protecting you on Web3 without any compromises
 ecosystem: Ethereum
-product_readiness: live
 links:
-  web: >-
-    https://chrome.google.com/webstore/detail/blockwallet/bopcbmipnjdcdfflfgjdgdjejmgpoaab
+  web: https://chrome.google.com/webstore/detail/blockwallet/bopcbmipnjdcdfflfgjdgdjejmgpoaab
   github: https://github.com/block-wallet
 team:
   anonymous: false
