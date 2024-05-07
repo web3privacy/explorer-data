@@ -4,6 +4,13 @@ categories:
 description: >-
   Waku is the communication layer for Web3. Decentralized communication that
   scales
+team:
+  anonymous: true
+product_readiness: TBD
 links:
   web: https://waku.org
   github: https://github.com/waku-org
+  docs: https://docs.waku.org/
+  blog: https://blog.waku.org/
+  X: https://twitter.com/waku_org
+  
