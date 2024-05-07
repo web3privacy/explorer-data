@@ -3,7 +3,6 @@ categories:
   - wallets
 description: Private Money in your pocket.
 ecosystem: Zcash
-product_readiness: live
 links:
   web: https://nighthawkwallet.com/
   github: https://github.com/nighthawk-apps
