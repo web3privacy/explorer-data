@@ -3,7 +3,11 @@ categories:
   - wallets
 description: The most secure way to buy, store & trade crypto under your control
 ecosystem: multichain
-product_readiness: live
+project_status: 
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
 links:
   web: https://edge.app/
   github: https://github.com/EdgeApp
