@@ -3,7 +3,6 @@ categories:
   - vpn
 description: A VPN tunnel that uses onion routing as the transport
 ecosystem: multichain
-product_readiness: live
 links:
   web: https://lokinet.org
   github: https://github.com/oxen-io/lokinet
