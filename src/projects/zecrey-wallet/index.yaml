@@ -6,7 +6,6 @@ description: >-
   all-in-one wallet that not only provides a multi-chain layer-1 wallet but also
   a private cross-chain layer-2 wallet
 ecosystem: multichain
-product_readiness: live, 2022
 links:
   web: https://www.zecrey.com/
   github: https://github.com/Zecrey-Labs
