@@ -5,7 +5,6 @@ description: >-
   IVPN keeps no logs and no customer accounts, is an open source VPN provider
   using WireGuard or OpenVPN.
 ecosystem: no chain
-product_readiness: live
 links:
   web: https://www.ivpn.net/
   github: https://github.com/ivpn
