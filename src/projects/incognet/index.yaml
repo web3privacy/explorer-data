@@ -6,7 +6,6 @@ description: >-
   TOR, and Yggdrasil - accepts various cryptocurrencies as payment (Bitcoin, Monero, Litecoin...).
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://incognet.io/
   blog: https://blog.incognet.io/
