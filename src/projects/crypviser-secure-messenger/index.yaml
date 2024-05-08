@@ -7,12 +7,11 @@ team:
     role: Managing Director
   - name: Waldemar Konradi
     role: Managing Director
-product_readiness: live
 links:
   web: https://crypviser.network/
   whitepaper: https://crypviser.network/CrypViser_Whitepaper.pdf
   blog: https://twitter.com/crypviser
-  X: https://twitter.com/crypviser
+  twitter: https://twitter.com/crypviser
 have_token: true
 tokens:
   - symbol: CVT
