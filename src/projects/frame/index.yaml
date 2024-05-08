@@ -1,11 +1,11 @@
 name: Frame
-categories: [ wallets ]
+categories: 
+  - wallets
 ecosystem: Ethereum
 description: 'A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux.'
 links:
   web: https://frame.sh/
   discord: https://discord.com/invite/rr4Yr3JkPq
   github: https://github.com/floating/frame
-product_readiness: live
 team:
   anonymous: false
