@@ -8,14 +8,13 @@ team:
   - name: Peter F. Frandsen
     role: Co-Founder & CTO
   - name: Brian Gallagher
-product_readiness: live
 links:
   web: https://partisiablockchain.com
   gitlab: https://gitlab.com/partisiablockchain
   docs: https://partisiablockchain.com/develop/documentation/
   whitepaper: https://partisiablockchain.com/develop/documentation/
   yellowpaper: https://drive.google.com/file/d/1OX7ljrLY4IgEA1O3t3fKNH1qSO60_Qbw/view
-  X: https://x.com/partisiampc
+  twitter: https://x.com/partisiampc
 have_token: true
 tokens:
   - symbol: MPC
