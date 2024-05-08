@@ -6,13 +6,12 @@ description: >-
   economy
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://oasisprotocol.org
   github: https://github.com/oasisprotocol
   docs: https://docs.oasis.io/
   blog: https://oasisprotocol.org/blog
-  X: https://twitter.com/OasisProtocol
+  twitter: https://twitter.com/OasisProtocol
 have_token: true
 tokens:
   - symbol: ROSE
