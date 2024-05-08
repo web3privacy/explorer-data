@@ -6,12 +6,11 @@ description: >-
   messaging layer for the entire Lens ecosystem
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://xmtp.org/
   github: https://github.com/xmtp/awesome-xmtp/
   docs: https://xmtp.org/docs/introduction
-  X: https://twitter.com/xmtp_
+  twitter: https://twitter.com/xmtp_
 project_status:
   live_status: true
   version: Mainnet
