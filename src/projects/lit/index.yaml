@@ -13,7 +13,7 @@ links:
   docs: https://developer.litprotocol.com/
   whitepaper: https://github.com/LIT-Protocol/whitepaper?ref=spark.litprotocol.com
   blog: https://spark.litprotocol.com/
-  X: https://twitter.com/litprotocol
+  twitter: https://twitter.com/litprotocol
 have_token: true
 tokens:
   - symbol: LIT
