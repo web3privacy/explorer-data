@@ -2,7 +2,6 @@ name: Boltz
 categories:
   - currency
 description: Privacy first, account-free crypto exchange
-product_readiness: live
 links:
   web: https://boltz.exchange
   github: https://github.com/BoltzExchange/
