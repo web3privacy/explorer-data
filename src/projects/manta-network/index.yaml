@@ -6,12 +6,11 @@ Manta Pacific, the unique L2 ecosystem on Ethereum for EVM-native ZK application
 Manta Atlantic, the fastest ZK L1 chain on Polkadot, brings programmable identities and credentials to web3 through zkSBTs.
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://www.manta.network
   github: https://github.com/manta-network
   docs: https://docs.manta.network/
-  X: https://twitter.com/mantanetwork
+  twitter: https://twitter.com/mantanetwork
 have_token: true
 tokens:
   - symbol: MANTA
