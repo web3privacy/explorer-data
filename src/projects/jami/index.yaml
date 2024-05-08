@@ -6,7 +6,6 @@ description: >-
   platform.
 team:
   anonymous: true
-product_readiness: live
 links:
   web: https://jami.net/
   github: https://git.jami.net/savoirfairelinux/jami-project
