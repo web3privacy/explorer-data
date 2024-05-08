@@ -6,13 +6,12 @@ description: >-
   and solid backbone infrastructure for the digital economy.
 team:
   anonymous: false
-product_readiness: live
 links:
   web: https://parallelchain.io/technology
   github: https://github.com/parallelchain-io
   papers: https://legacy.parallelchain.io/learn/papers
   docs: https://docs.parallelchain.io/
-  X: https://twitter.com/ParallelChainLB
+  twitter: https://twitter.com/ParallelChainLB
 have_token: true
 project_status:
   live_status: true
