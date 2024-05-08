@@ -3,7 +3,6 @@ categories:
   - wallets
 description: A multi-platform, feature-rich Bitcoin and Liquid wallet
 ecosystem: Bitcoin
-product_readiness: live
 links:
   web: https://blockstream.com/green/
   github: https://github.com/Blockstream/green_android
