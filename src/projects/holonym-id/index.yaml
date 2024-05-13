@@ -1,9 +1,7 @@
 name: Holonym
 categories:
   - did
-description: >-
-  Your ZK Passport for Web3. A holistic identity that lets you prove facts about
-  yourself without revealing who you are ✨️ZK
+description: 'Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are'
 links:
   web: https://www.holonym.id
   github: https://github.com/holonym-foundation
