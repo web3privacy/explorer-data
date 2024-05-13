@@ -3,9 +3,7 @@ categories:
   - messaging
 ecosystem:
   - Ethereum
-description: >-
-  Waku is the communication layer for Web3. Decentralized communication that
-  scales
+description: 'the communication layer for Web3. Decentralized communication that scales'
 links:
   web: https://waku.org
   github: https://github.com/waku-org
