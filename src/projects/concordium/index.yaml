@@ -1,9 +1,7 @@
 name: Concordium
 categories:
   - infrastructure
-description: >-
-  A compliance ready blockchain backed by science that enables private and
-  public transactions
+description: 'A compliance ready blockchain backed by science that enables private and public transactions'
 team:
 - name: Lars Seier Christensen
   roles: Chairman
