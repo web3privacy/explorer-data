@@ -1,7 +1,7 @@
 name: Email Wallet
 categories:
   - wallets
-description: Use your email address as a crypto wallet, via zk email to keep the protocol decentralized and emails private on-chain.
+description: 'Use your email address as a crypto wallet, via zk email to keep the protocol decentralized and emails private on-chain'
 ecosystem: Ethereum
 links:
   web: https://emailwallet.org/
