@@ -1,11 +1,7 @@
 name: Iden3
 categories:
   - did
-description: >-
-  The open-source protocol at the basis of Polygon ID. The protocol defines on a
-  low-level how the parties listed above communicate and interact with each.
-  Polygon ID is an abstraction layer to enable developers to build applications
-  leveraging the Iden3 protocol
+description: 'The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each.'
 ecosystem: Ethereum
 links:
   web: https://iden3.io
