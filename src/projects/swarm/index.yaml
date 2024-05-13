@@ -1,9 +1,7 @@
 name: Swarm
 categories:
   - storage
-description: >-
-  A decentralized data storage and distribution technology. Ready to power the
-  next generation of censorship-resistant, unstoppable, serverless dApps
+description: 'A decentralized data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dApps'
 links:
   web: https://www.ethswarm.org
   github: https://github.com/ethersphere/swarm-cli
