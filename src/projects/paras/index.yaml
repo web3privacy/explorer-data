@@ -1,9 +1,6 @@
 name: Paras
 categories:
   - nft
-description: >-
-  A blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one
-  may hide the real NFTs and only display a reference to them on marketplaces,
-  hide seller and bidder identities, hide bid values and user wallet balances.
+description: 'A blockchain-agnostic protocol that offers privacy to NFTs'
 links:
   web: https://eprint.iacr.org/2022/976.pdf
