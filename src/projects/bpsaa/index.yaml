@@ -1,8 +1,5 @@
 name: BPSAA
-categories:
-  - alliances
-description: >-
-  The Blockchain Privacy, Security & Adoption Alliance educates the public on
-  privacy, security, and decentralization.
+categories: [ alliances ]
+description: 'The Blockchain Privacy, Security & Adoption Alliance educates the public on privacy, security, and decentralization.'
 links:
   web: https://bpsaa.vision
