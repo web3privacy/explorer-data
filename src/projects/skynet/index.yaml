@@ -1,9 +1,7 @@
 name: SkyNet
 categories:
   - storage
-description: >-
-  Skynet is an open protocol for hosting data and web applications on the
-  decentralized web using Sia
+description: 'an open protocol for hosting data and web applications on the decentralized web using Sia'
 links:
   web: https://skynetlabs.com
   github: https://github.com/SkynetLabs
