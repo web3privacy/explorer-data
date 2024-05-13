@@ -1,7 +1,7 @@
 name: RoninDojo Tanto
 categories:
   - hardware
-description: 'Fully validating Bitcoin full node. Served over a Tor hidden service'.
+description: 'Fully validating Bitcoin full node. Served over a Tor hidden service'
 ecosystem: Bitcoin
 links:
   web: https://samouraiwallet.com/ronin
