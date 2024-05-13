@@ -1,8 +1,6 @@
 name: Status Web3 Browser
 categories:
   - browser
-description: >-
-  Access the latest defi dapps, exchanges, marketplaces, games and more with the
-  Web3 Browser.
+description: 'Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser'
 links:
   web: https://status.im/web-three-browser/
