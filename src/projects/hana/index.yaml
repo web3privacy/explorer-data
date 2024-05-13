@@ -1,8 +1,7 @@
 name: Hana
 categories:
   - infrastructure
-description: Hana Network is privacy hub for all blockchains, enabling on-chain privacy on existing chains and for arbitrary assets including Bitcoin.
-Components are Layer 0 for privacy payments, Hana transporter protocol for cross-chain connections and Hana SDK.
+description: 'privacy hub for all blockchains, enabling on-chain privacy on existing chains and for arbitrary assets including Bitcoin'
 team:
   anonymous: true
 links:
