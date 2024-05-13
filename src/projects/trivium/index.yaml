@@ -1,9 +1,7 @@
 name: Trivium
 categories:
   - rd
-description: >-
-  Provides validator services to several networks, and develops
-  privacy-preserving dApps.
+description: 'Provides validator services to several networks, and develops privacy-preserving dApps'
 links:
   web: https://trivium.network
   github: https://github.com/TriviumNode
