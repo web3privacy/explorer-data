@@ -1,7 +1,6 @@
 name: Brave Wallet
-categories:
-  - wallets
-description: The secure multi-chain crypto wallet
+categories: [ wallets ]
+description: 'The secure multi-chain crypto wallet'
 ecosystem: multichain
 links:
   web: https://brave.com/wallet/
