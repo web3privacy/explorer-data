@@ -1,10 +1,7 @@
 name: Calamari network
 categories:
   - infrastructure
-description: >-
-  Manta Network's canary net, is the plug-and-play privacy-preservation
-  parachain built to serve the Kusama world ✨️**ZK**
-team:
+description: 'Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world'
   anonymous: true
 links:
   web: https://calamari.network
