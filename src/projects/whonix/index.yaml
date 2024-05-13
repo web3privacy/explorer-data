@@ -1,10 +1,7 @@
 name: Whonix
 categories:
   - os
-description: >-
-  Whonix is software designed to preserve privacy and anonymity by helping users
-  run applications anonymously. Whonix™ can be installed on Windows, macOS,
-  Linux, and Qubes.
+description: 'software designed to preserve privacy and anonymity by helping users run applications anonymously. Whonix™ can be installed on Windows, macOS, Linux, and Qubes'
 links:
   web: https://www.whonix.org/
   github: https://github.com/Whonix
