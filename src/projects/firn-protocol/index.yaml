@@ -2,11 +2,11 @@ name: Firn Protocol
 categories: [ defi ]
 ecosystem: Ethereum
 description: 'Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains.'
-token:
-  name: Firn
-  symbol: FIRN
-  network: Optimism
-  contract_address: "0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4"
+tokens:
+  - name: Firn
+    symbol: FIRN
+    network: Optimism
+    contract_address: "0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4"
 project_type: DeFi
 product_launch_day: "2021-11-06"
 technology:
@@ -67,11 +67,11 @@ client_diversability:
     link: https://www.metamask.io
 default_privacy: true
 funding:
-  - name: LunarDAO
-    type: token sale
-    link: https://lunardao.net/firn_investment.html
-    value: 45.000 $
-    time: Jun 1, 2023
+  name: LunarDAO
+  type: token sale
+  link: https://lunardao.net/firn_investment.html
+  value: 45.000 $
+  time: Jun 1, 2023
 project_status:
   live_status: true
   version: Mainnet

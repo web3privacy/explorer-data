@@ -49,14 +49,14 @@ privacy_policy:
   defined: false
 team:
   anonymous: false
-  teammembers:
-    name: Alex Zaidelson
-    role: SLabs CEO
-    link: https://twitter.com/azaidelson
   company:
     name: Secret Labs
     link: https://www.scrtlabs.com/
     contacts: info@scrtlabs.com
+  teammembers:
+    - name: Alex Zaidelson
+      role: SLabs CEO
+      link: https://twitter.com/azaidelson
 storage:
   decentralized: true
 tracebility:
@@ -80,11 +80,11 @@ client_diversability:
     link: https://starshell.net/
 default_privacy: false
 funding:
-  - name: Private investors
-    type: ICO
-    link: https://icodrops.com/secret-network/
-    value: 236.500.000 $
-    time: Jul 23, 2020
+  name: Private investors
+  type: ICO
+  link: https://icodrops.com/secret-network/
+  value: 236.500.000 $
+  time: Jul 23, 2020
 project_status:
   live_status: true
   version: Mainnet

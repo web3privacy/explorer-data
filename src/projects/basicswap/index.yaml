@@ -43,11 +43,11 @@ tracebility:
   tracked_data: Chains activity
   kyc: false
   sign_in_type_requirments: wallets
-third_party_dependency: none
+third_party_dependency: false
 compliance: none
 client_diversability: 
-  name: BasicSwap client
-  link: https://basicswapdex.com/
+  - name: BasicSwap client
+    link: https://basicswapdex.com/
 default_privacy: false
 project_status:
   live_status: true

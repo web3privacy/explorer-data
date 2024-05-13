@@ -127,7 +127,7 @@ https://data.web3privacy.info/
 
 | Field                  | Type                  | Required | Description |
 |------------------------|-----------------------|----------|-------------|
-| licenses               | string                |          | Licenses used (ex. MIT License, GGML,...) |
+| licences               | string                |          | Licenses used (ex. MIT License, GGML,...) |
 | privacy_policy defined | boolean               |          | Is there a document defining privacy policies? (Yes/No)|
 | privacy_policy link   | string url             |          | Link to the privacy policy document |
 | privacy_policy data_usage | string             |          | How is the project using your data? (ex. Selling data, Analytics., Not using,...) |

@@ -1,6 +1,6 @@
 name: RAILGUN
 categories: [ defi ]
-token:
+tokens:
   - name: Railgun
     symbol: RAIL
     network: Ethereum
@@ -43,38 +43,38 @@ blockchain_features:
   reversability_condition: viewing key, hack
   data_masking: Contract deposit
   asset_custody_type: non-custody
-licences: 
 privacy_policy:
   defined: false
 team:
-  - name: Alan Scott
-    role: researcher
-  - name: Kieran Mesquita
-    role: researcher
-  - name: John Meurer
-    role: researcher
-  - name: Dylan Oliver
-    role: researcher
-  - name: Hisham Galan
-    role: researcher
-  - name: Peter Simpson
-    role: researcher
-  - name: Bill Liang
-    role: researcher
-  - name: Matias Grote
-    role: researcher
-  - name: Jacob Makarsky
-    role: Software engineer
-  - name: Edward P. Fricker
-    role: Legal counsel
-  - name: Phil Huang
-    role: Advisor
-  - name: Emmanuel Goldstein
-    role: Global economist
+  anonymous: false
+  teammembers:
+    - name: Alan Scott
+      role: researcher
+    - name: Kieran Mesquita
+      role: researcher
+    - name: John Meurer
+      role: researcher
+    - name: Dylan Oliver
+      role: researcher
+    - name: Hisham Galan
+      role: researcher
+    - name: Peter Simpson
+      role: researcher
+    - name: Bill Liang
+      role: researcher
+    - name: Matias Grote
+      role: researcher
+    - name: Jacob Makarsky
+      role: Software engineer
+    - name: Edward P. Fricker
+      role: Legal counsel
+    - name: Phil Huang
+      role: Advisor
+    - name: Emmanuel Goldstein
+      role: Global economist
 storage:
   decentralized: true
 tracebility:
-  tracked_data:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false
@@ -83,8 +83,6 @@ audits:
   - name: Railgun audit report
     link: https://assets.railgun.org/docs/audits/
     time: July, 2021
-social_trust:
-technical_spof:
 history:
   title: Mainet
   event_type: launch
@@ -98,11 +96,11 @@ client_diversability:
     link: https://tokenshielder.com/
 default_privacy: true
 funding:
-  - name: DCG
-    type: Investments
-    link: https://www.coindesk.com/business/2022/01/26/railgun-aims-for-private-defi-with-10m-backing-from-dcg/
-    value: 10.000.000 $
-    time: Jan 26, 2022
+  name: DCG
+  type: Investments
+  link: https://www.coindesk.com/business/2022/01/26/railgun-aims-for-private-defi-with-10m-backing-from-dcg/
+  value: 10.000.000 $
+  time: Jan 26, 2022
 project_status:
   live_status: true
   version: Mainnet
