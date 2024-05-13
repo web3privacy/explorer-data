@@ -1,7 +1,7 @@
 name: Edge
 categories:
   - wallets
-description: The most secure way to buy, store & trade crypto under your control
+description: 'The most secure way to buy, store & trade crypto under your control'
 ecosystem: multichain
 project_status: 
   live_status: true
