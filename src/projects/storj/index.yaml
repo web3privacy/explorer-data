@@ -2,5 +2,6 @@ name: Storj
 categories:
   - storage
 description: 'globally distributed network for data storage with better security, privacy, and durability with CDN-like performance'
+links:  
   web: https://www.storj.io/
   github: https://github.com/Storj/
