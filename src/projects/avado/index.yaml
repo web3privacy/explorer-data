@@ -1,6 +1,5 @@
 name: Avado
-categories:
-  - hardware
+categories: [ hardware ]
 description: 'A plug-and-play hardware device that connects users to many different kinds of blockchains'
 ecosystem: multichain
 links:
