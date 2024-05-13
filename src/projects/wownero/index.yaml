@@ -7,7 +7,13 @@ ecosystem: Wownero
 product_launch_day: 01 April 2018
 project_type: Memecoin
 technology:
-  features: Ring Signatures (21 decoys), Ring Confidential Transactions (RingCT), Stealth Addresses, Bulletproofs+, Dynamic Block Size
+  type: Privacy
+  features: 
+    - Ring Signatures (21 decoys)
+    - Ring Confidential Transactions (RingCT)
+    - Stealth Addresses
+    - Bulletproofs+
+    - Dynamic Block Size
 blockchain_features:
   p2p: true
   network: Dandelion++, RandomX PoW (lite variant)
@@ -20,7 +26,7 @@ links:
   discord: https://discord.gg/ykZyAzJhDK
 team:
   anonymous: true
-licenses: MIT License
+licences: MIT License
 traceability:
   tracked_data: None
   kyc: false

@@ -24,10 +24,12 @@ properties:
       type: string
       pattern: '^[A-Z0-9-]+$'
   ecosystem:
-    type: array
+    anyOf: [{type: array}, {type: string}]
     items: 
       type: string
       pattern: '^[A-Z0-9-]+$'
+  have_token:
+    type: boolean
   token_link:
     type: string
     format: uri
@@ -52,6 +54,8 @@ properties:
   description:
     type: string
   project_type:
+    type: string
+  product_readiness:
     type: string
   product_launch_day:
     type: string
@@ -149,8 +153,6 @@ properties:
         link:
           type: string
           format: uli
-    third_party_dependency:
-      type: boolean
     opensource:
       type: boolean
     viewing_key:
@@ -178,22 +180,39 @@ properties:
         type: string
         format: uri
       data_usage:
-        type: string        
+        type: string   
+  traceability:
+    type: object
+    properties:
+      tracked_data:
+        type: string
+      kyc:
+        type: boolean
+      sign_in_type_requirments:
+        type: string     
   team:
     type: object
     properties:
       anonymous:
         type: boolean
-      teammembers:
+      company:
         type: object
         properties:
-          name:
-            type: string
-          role:
-            type: string
           link:
             type: string
-            format: uri 
+            format: uri
+      teammembers:
+        type: array
+        items:
+          type: object
+          properties:
+            name:
+              type: string
+            role:
+              type: string
+            link:
+              type: string
+              format: uri 
   storage:
     type: object
     properties:
@@ -209,23 +228,25 @@ properties:
       sign_in_type_requirments:
         type: string
   third_party_dependency:
-    type: string
+    type: boolean
   compliance:
-    type: string
+    anyOf: [{type: boolean}, {type: string}]
   audits:
-    type: object
-    properties:
-      name:
-        type: string
-      company:
-        type: string
-      logo:
-        type: string
-      link:
-        type: string
-        format: uri
-      time:
-        type: string
+    type: array
+    items:
+      type: object
+      properties:
+        name:
+          type: string
+        company:
+          type: string
+        logo:
+          type: string
+        link:
+          type: string
+          format: uri
+        time:
+          type: string
   social_trust:
     type: string
   technical_spof:
@@ -247,13 +268,15 @@ properties:
         type: string
         format: uri
   client_diversability:
-    type: object
-    properties:
-      name:
-        type: string
-      link:
-        type: string
-        format: uri
+    type: array
+    items: 
+      type: object
+      properties:
+        name:
+          type: string
+        link:
+          type: string
+          format: uri
   default_privacy:
     type: boolean
   funding:

@@ -10,6 +10,6 @@ project_status:
   live_status: true
 team:
   anonymous: true
-  teammembers:
+  company:
     link: https://offshift.io/#team
 

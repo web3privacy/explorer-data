@@ -1,11 +1,11 @@
 name: Shade Protocol
 categories: [ defi ]
 ecosystem: Secret
-token:
-  name: Shade Protocol
-  symbol: SHD
-  network: Secret Network
-  contract_address: secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm
+tokens:
+  - name: Shade Protocol
+    symbol: SHD
+    network: Secret Network
+    contract_address: secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm
 description: 'Super app for private DeFi'
 project_type: DeFi
 product_launch_day: "2022-02-21"
@@ -21,12 +21,10 @@ links:
   telegram: https://t.me/ShadeProtocol
   discord: https://discord.com/invite/YMcUrXK476
   blog: https://shadeprotocol.io/blog
-  facebook: 
   block_explorer: https://www.mintscan.io/secret
   whitepaper: https://framerusercontent.com/modules/assets/aAMeX7kkaxljkFRXRIN4CElVJbo~pEHSkrNceWvWuHWRiNuOD_CQEuYf_tS-dLtgATuz0QY.pdf
   github: https://github.com/securesecrets/shade
   docs: https://docs.shadeprotocol.io/shade-protocol/
-  changelog: 
   forum: https://forum.shadeprotocol.io/
 blockchain_features:
   p2p: false
@@ -53,14 +51,14 @@ privacy_policy:
   data_usage: tools you are making TXs on
 team:
   anonymous: false
+  company:
+    name: Secure Secrets
+    link: https://www.securesecrets.org/
+    contacts: https://twitter.com/securesecrets
   teammembers:
     - name: Carter L. Woetzel
       role: researcher
       link: https://twitter.com/l_woetzel
-  company:
-    - name: Secure Secrets
-      link: https://www.securesecrets.org/
-      contacts: https://twitter.com/securesecrets
 storage:
   decentralized: true
 tracebility:
@@ -91,11 +89,11 @@ client_diversability:
     link: https://starshell.net/
 default_privacy: true
 funding:
-  - name: Private investors
-    type: ICO
-    link: https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested
-    value: 5.000.000 $
-    time: Feb 17, 2022
+  name: Private investors
+  type: ICO
+  link: https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested
+  value: 5.000.000 $
+  time: Feb 17, 2022
 project_status:
   live_status: true
   version: Mainnet

@@ -135,7 +135,7 @@ storage:
   decentralized: true
 
 
-SECURITY ---------------------------------------------------------------------
+# SECURITY ---------------------------------------------------------------------
 
 third_party_dependency: Chainlink oracle
 social_trust: Sample board multisig & DAO
@@ -145,3 +145,7 @@ audits:
   - name: Privacy audit company - Sample security check
     link: https://pac.com/sample-security.pdf
     time: "YYYY-MM-DD"
+  - name: Competitive Audit - Code4rena
+    link: https://ca.com/audit-result.pdf
+    time: "YYYY-MM-DD"
+  

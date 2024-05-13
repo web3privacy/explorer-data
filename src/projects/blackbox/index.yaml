@@ -37,14 +37,14 @@ privacy_policy:
   defined: false
 team:
   anonymous: false
+  company:
+    name: Trivium Nodes
+    link: https://trivium.network/
+    contacts: info@trivium.network
   teammembers:
     - name: Xiphiar
       role: rdeveloper
       link: https://github.com/Xiphiar
-  company:
-    - name: Trivium Nodes
-      link: https://trivium.network/
-      contacts: info@trivium.network
 storage:
   decentralized: true
 tracebility:
