@@ -1,10 +1,7 @@
 name: Dero
 categories:
   - infrastructure
-description: >-
-  A general purpose, private, and scalable decentralized application platform
-  that allows developers to deploy powerful and unstoppable applications, while
-  users retain total control over their assets with complete privacy
+description: 'A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy'
 links:
   web: https://dero.io
   github: https://github.com/deroproject/derohe/
