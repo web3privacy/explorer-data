@@ -1,9 +1,6 @@
 name: ALTER
-categories:
-  - messaging
-description: >-
-  Private & Secure Communication App Utilizing Secret Nework's secret contract
-  technology.
+categories: [ messaging ]
+description: 'Private & Secure Communication App Utilizing Secret Nework secret contract technology.'
 team:
   anonymous: true
 links:
