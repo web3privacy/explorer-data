@@ -3,15 +3,15 @@ categories:
   - layer-2
 description: 'a layer 2 solution for Ethereum that brings privacy and scale'
 ecosystem: Ethereum
-project_status: testnet
+
 team:
   anonymous: false
+  
 links:
   web: https://obscu.ro
   docs: https://docs.obscu.ro
   whitepaper: https://whitepaper.ten.xyz
-team:
-  anonymous: false
+
 project_status:
   live_status: true
   version: Testnet
