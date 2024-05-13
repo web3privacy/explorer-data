@@ -1,6 +1,5 @@
 name: Automata Network
-categories:
-  - infrastructure
+categories: [ infrastructure ]
 description: 'The privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA'
 team:
   anonymous: true
