@@ -1,10 +1,7 @@
 name: Penumbra
 categories:
   - infrastructure
-description: >-
-  A shielded, cross-chain network allowing anyone to securely transact, stake,
-  swap, or marketmake without broadcasting their personal information to the
-  world
+description: 'A shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world'
 team:
   anonymous: true
 links:
