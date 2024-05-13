@@ -1,9 +1,7 @@
 name: Sentinel
 categories:
   - vpn
-description: >-
-  A global network of autonomous dVPN applications that enable private and
-  censorship resistant internet access
+description: 'A global network of autonomous dVPN applications that enable private and censorship resistant internet access'
 ecosystem: Cosmos
 links:
   web: https://sentinel.co
