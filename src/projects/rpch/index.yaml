@@ -1,9 +1,7 @@
 name: RPCh
 categories:
   - rpc
-description: >-
-  RPCh is a privacy-preserving RPC service for wallets that detaches the user’s
-  identity from all communication with the blockchain
+description: 'a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain'
 links:
   web: https://rpch.net/
   github: https://github.com/Rpc-h/RPCh
