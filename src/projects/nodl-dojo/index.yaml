@@ -1,8 +1,6 @@
 name: nodl Dojo
 categories:
   - node
-description: >-
-  A collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a
-  full Bitcoin and Lightning Network node.
+description: 'A collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node'
 links:
   web: https://www.nodl.eu/products/nodl-dojo/
