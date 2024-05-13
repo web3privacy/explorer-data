@@ -1,10 +1,7 @@
 name: TEN (formerly Obscuro)
 categories:
   - layer-2
-description: >-
-  Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It
-  ensures the inputs, contract state and execution are always encrypted. No
-  changes to dApps, just migrate and gain privacy
+description: 'a layer 2 solution for Ethereum that brings privacy and scale'
 ecosystem: Ethereum
 project_status: testnet
 team:
