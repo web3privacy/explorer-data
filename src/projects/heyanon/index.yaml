@@ -1,8 +1,6 @@
 name: HeyAnon
 categories:
   - dao
-description: >-
-  Allows noun-holders to give feedback on proposals while maintaining their
-  privacy using zero-knowledge proofs ✨️ZK
+description: 'Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs'
 links:
   web: https://www.heyanoun.xyz
