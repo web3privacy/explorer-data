@@ -1,6 +1,5 @@
 name: Beldex
-categories:
-  - currency
+categories: [ currency ]
 description: 'A privacy currency based on Monero, Beldex currently offers incentive-based Master Nodes and in the future Beldex will be using POS instead of POW'
 ecosystem: Beldex
 project_status:
