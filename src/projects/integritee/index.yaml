@@ -1,9 +1,7 @@
 name: Integritee
 categories:
   - infrastructure
-description: >-
-  Integritee is a highly scalable, privacy-enabling network in the Polkadot ecosystem with parachains on Polkadot and Kusama.
-  They seek to become the leading Web3 privacy solution - a blockchain network for developers and relevant to enterprises to build (decentralized) applications that benefit from unrivaled speed, verifiable confidentiality/privacy, and interoperability.
+description: 'Integritee is a highly scalable, privacy-enabling network in the Polkadot ecosystem with parachains on Polkadot and Kusama'
 team:
   anonymous: true
 links:
