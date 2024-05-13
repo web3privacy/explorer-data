@@ -4,9 +4,13 @@ description: 'An intent-centric, privacy-preserving protocol for decentralized c
 project_status: testnet
 team:
   anonymous: false
-  - name: Christopher Goes
-  - name: Adrian Brink
-  - name: Awa Sun Yin
+  teammembers:
+    - name: Christopher Goes
+      role: CTO
+    - name: Adrian Brink
+      role: Co-founder
+    - name: Awa Sun Yin
+      role: CEO
 links:
   web: https://anoma.net
   docs: https://github.com/anoma/anoma-archive/tree/main/docs
