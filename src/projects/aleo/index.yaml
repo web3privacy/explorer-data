@@ -1,7 +1,6 @@
 name: Aleo
-categories:
-  - infrastructure
-description: An all-in-one Zero-Knowledge platform. On Aleo you can code, deploy, and run your apps in a single place. Build full-stack, private applications with ZK on layer 1.
+categories: [ infrastructure ]
+description: 'An all-in-one Zero-Knowledge platform. On Aleo you can code, deploy, and run your apps in a single place. Build full-stack, private applications with ZK on layer 1.'
 team:
   anonymous: true
 links:
