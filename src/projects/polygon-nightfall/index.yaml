@@ -1,8 +1,7 @@
 name: Polygon Miden
 categories:
   - layer-2
-description: Miden is a zero-knowledge rollup for high-throughput and private applications. 
-Miden allows users to prove state changes of local data where the network only tracks a commitment of it. This leads to privacy and high-throughput.
+description: 'a zero-knowledge rollup for high-throughput and private applications'
 ecosystem: Polygon
 links:
   web: https://polygon.technology/polygon-miden
