@@ -1,9 +1,7 @@
 name: Ghost
 categories:
   - currency
-description: >-
-  Proof of Stake privacy coin to help make you nothing but a 'ghost' when
-  transacting online
+description: 'Proof of Stake privacy coin to help make you nothing but a 'ghost' when transacting online'
 ecosystem: Ghost
 project_status: 
   live_status: true
