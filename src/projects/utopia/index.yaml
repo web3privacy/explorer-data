@@ -1,9 +1,7 @@
 name: Utopia
 categories:
   - infrastructure
-description: >-
-  All-in-one kit for secure instant messaging, encrypted email, anonymous
-  payments and private browsing.
+description: 'All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing'
 links:
   web: https://u.is/en/
 have_token: true
