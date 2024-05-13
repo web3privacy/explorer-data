@@ -1,7 +1,9 @@
 name: Arcana
 categories: [ infrastructure ]
 description: 'Arcana is UX-focused Validium chain built to simplify Web3 UX and adoption'
-team: 24 team members
+team: 
+  anonymous: false
+  teammembers:
   - name: Mayur Relekar
     role: Co-Founder
   - name: Aravindh Kumar
