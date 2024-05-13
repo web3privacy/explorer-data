@@ -1,9 +1,7 @@
 name: Trocador App
 categories:
   - infrastructure
-description: >-
-  A privacy-focused exchange aggregator. Anonymous service, no Java, no
-  registration, onion site and I2P available.
+description: 'A privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site and I2P available'
 team:
   anonymous: true
 links:
