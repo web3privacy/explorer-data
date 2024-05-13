@@ -1,9 +1,7 @@
 name: Stashh
 categories:
   - nft
-description: >-
-  Explore the world's first marketplace for NFTs with privacy by default and
-  unlock their hidden data.
+description: 'Explore the worlds first marketplace for NFTs with privacy by default and unlock their hidden data'
 links:
   web: https://stashh.io
   github: https://github.com/stashh-labs
