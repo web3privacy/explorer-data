@@ -1,8 +1,6 @@
 name: POMP
 categories:
   - dapps
-description: >-
-  Comprehensive DeFi platform for token swaps, lending, NFT trading,
-  collateralization
+description: 'Comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization'
 links:
   web: https://mantapacific.pomp.money
