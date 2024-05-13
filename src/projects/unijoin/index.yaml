@@ -1,9 +1,6 @@
 name: UniJoin
 categories:
   - mixing-service
-description: >-
-  We help you regain and maintain your anonymity by mixing your cryptos in a
-  pool with other anonymity enthusiasts and receive untraceable coins using
-  CoinJoin technology.
+description: 'help you regain and maintain your anonymity by mixing your cryptos in a pool using CoinJoin technology'
 links:
   web: https://unijoin.io
