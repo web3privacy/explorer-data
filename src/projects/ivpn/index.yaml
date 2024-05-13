@@ -1,9 +1,7 @@
 name: IVPN
 categories:
   - vpn
-description: >-
-  IVPN keeps no logs and no customer accounts, is an open source VPN provider
-  using WireGuard or OpenVPN.
+description: 'IVPN keeps no logs and no customer accounts, is an open source VPN provider using WireGuard or OpenVPN'
 ecosystem: no chain
 links:
   web: https://www.ivpn.net/
