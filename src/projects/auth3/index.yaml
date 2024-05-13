@@ -1,9 +1,7 @@
 name: Auth3
 categories: infrastructure
 
-description:  a privacy-preserved computing network into Web 3.0 that aims to unlock the value of data. Auth3 helps individuals and corporations discover,
-authenticate and exchange data values rather than data itself. Auth3 encapsulates data usage rights into data tokens by leveraging blockchain 
-and Defi tools, which helps to incentivize and grow the data ecosystem. 
+description: 'a privacy-preserved computing network into Web 3.0 that aims to unlock the value of data.'
 
 team:
   anonymous: true
