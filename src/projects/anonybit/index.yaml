@@ -1,10 +1,6 @@
 name: Anonybit
-categories:
-  - did
-description: >-
-  Anonybit’s revolutionary, patented solution offers a decentralized framework
-  that strengthens compliance, protects identity, and secures personal assets
-  (focus on biometrics)
+categories: [ did ]
+description:'Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics)'
 ecosystem: multichain
 links: {}
 team:
