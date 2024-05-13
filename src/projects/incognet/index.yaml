@@ -1,9 +1,7 @@
 name: Incognet
 categories:
   - infrastructure
-description: >-
-  Privacy-respecting ISP, hosting, and VPS provider that can be accessed on I2P,
-  TOR, and Yggdrasil - accepts various cryptocurrencies as payment (Bitcoin, Monero, Litecoin...).
+description: 'Privacy-respecting ISP, hosting, and VPS provider that can be accessed on I2P, TOR, and Yggdrasil - accepts various cryptocurrencies as payment (Bitcoin, Monero, Litecoin)'
 team:
   anonymous: true
 links:
