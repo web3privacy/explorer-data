@@ -1,6 +1,5 @@
 name: Buildoor
-categories:
-  - dapps
-description: Privacy Focused Analytics
+categories: [ dapps ]
+description: 'Privacy Focused Analytics'
 links:
   web: https://buildoor.xyz
