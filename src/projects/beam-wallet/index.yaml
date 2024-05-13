@@ -1,6 +1,5 @@
 name: Beam
-categories:
-  - wallets
-description: Self-custodial wallet
+categories: [ wallets ]
+description: 'Self-custodial wallet'
 links:
   web: https://beam.eco/
