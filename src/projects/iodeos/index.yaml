@@ -1,10 +1,7 @@
 name: iodéOS
 categories:
   - os
-description: >-
-  Fork of LineageOS with a Trust interface that will help you understand the
-  security of your device and warn incoming threats. Recently released, still in
-  beta.
+description: 'Fork of LineageOS with a Trust interface that will help you understand the security of your device and warn incoming threats. Recently released, still in beta'
 links:
   web: https://iode.tech
   github: https://gitlab.com/iode/
