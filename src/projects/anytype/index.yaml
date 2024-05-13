@@ -1,7 +1,6 @@
 name: Anytype
-categories:
-  - infrastructure
-description: ' local-first, E2E encrypted software designed as a secure place to create and store digital assets. You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more'
+categories: [ infrastructure ]
+description: 'local-first, E2E encrypted software designed as a secure place to create and store digital assets. You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more'
 team: 56 members
 links:
   web: https://anytype.io/en
