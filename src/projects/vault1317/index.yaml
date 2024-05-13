@@ -1,9 +1,7 @@
 name: Vault1317
 categories:
   - infrastructure
-description: >-
-  An Off-chain secure communication protocol with deniability via ZKP (Ring
-  Signature)
+description: 'An Off-chain secure communication protocol with deniability via ZKP (Ring Signature)'
 team:
   - name: Shawn Chang
     role: Founder & CEO
