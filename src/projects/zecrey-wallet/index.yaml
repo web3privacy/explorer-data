@@ -1,10 +1,7 @@
 name: Zecrey Wallet
 categories:
   - wallets
-description: >-
-  Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an
-  all-in-one wallet that not only provides a multi-chain layer-1 wallet but also
-  a private cross-chain layer-2 wallet
+description: 'a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet'
 ecosystem: multichain
 links:
   web: https://www.zecrey.com/
