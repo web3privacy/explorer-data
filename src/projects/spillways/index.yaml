@@ -1,8 +1,6 @@
 name: Spillways
 categories:
   - mixing-service
-description: >-
-  Mixer enables fast, secure, and private transactions in crypto by obscuring
-  the source and destination of funds.
+description: 'Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds'
 links:
   web: https://spillways.finance
