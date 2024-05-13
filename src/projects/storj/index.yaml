@@ -1,11 +1,6 @@
 name: Storj
 categories:
   - storage
-description: >-
-  Massive, globally distributed network for data storage with better security,
-  privacy, and durability with CDN-like performance. Anyone is able to host a
-  Storj node and stake their token to strengthen the network. Has a paid
-  subscription model for storage.
-links:
+description: 'globally distributed network for data storage with better security, privacy, and durability with CDN-like performance'
   web: https://www.storj.io/
   github: https://github.com/Storj/
