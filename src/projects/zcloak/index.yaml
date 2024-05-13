@@ -1,7 +1,7 @@
 name: zCloak
 categories:
   - did
-description: Privacy-first DID and verifiable computation infrastructure ✨️ZK
+description: Privacy-first DID and verifiable computation infrastructure
 links:
   web: https://zcloak.network
   github: https://github.com/zCloak-Network
