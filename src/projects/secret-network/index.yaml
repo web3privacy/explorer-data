@@ -6,10 +6,7 @@ tokens:
     symbol: SCRT
     network: Secret Network
     contract_address: secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek
-description: >-
-  Secret Network is the first blockchain with customizable privacy. You get to
-  choose what you share, with whom, and how. This protects users, and empowers
-  developers to build a better Web3
+description: 'the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3'
 project_type: Infrastructure
 product_launch_day: "2020-02-13"
 technology:
