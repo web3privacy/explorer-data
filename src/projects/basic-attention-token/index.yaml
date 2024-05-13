@@ -1,7 +1,6 @@
 name: Basic Attention Token
-categories:
-  - currency
-description: Making Crypto and DeFi accessible and usable for everyone (powered by Brave)
+categories: [ currency ]
+description: 'Making Crypto and DeFi accessible and usable for everyone (powered by Brave)'
 ecosystem: Solana
 links:
   web: https://basicattentiontoken.org
