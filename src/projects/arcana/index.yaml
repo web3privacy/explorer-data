@@ -3,15 +3,15 @@ categories: [ infrastructure ]
 description: 'Arcana is UX-focused Validium chain built to simplify Web3 UX and adoption'
 team: 24 team members
   - name: Mayur Relekar
-  role: Co-Founder and CEO
+    role: Co-Founder
   - name: Aravindh Kumar
-  role: Co-Founder, Growth and Partnerships
+    role: Co-Founder
   - name: Ajay Shetty
-  role: Chief Operating Officer
+    role: Chief Operating Officer
   - name: Abhishek Chaudhary
-  role: Chief Technology Officer
+    role: Chief Technology Officer
   - name: Sharan Grandigae
-  role: Sharan Grandigae
+    role: Sharan Grandigae
 links:
   web: https://arcana.network
   github: https://docs.beta.arcana.network
