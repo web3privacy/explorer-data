@@ -2835,7 +2835,14 @@
       "links": {
         "web": "https://www.privacypools.com",
         "github": "https://github.com/ameensol/privacy-pools"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/privacy-pools/logo.png"
+        }
+      ]
     },
     {
       "id": "elite",
