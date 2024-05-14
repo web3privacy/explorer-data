@@ -3442,7 +3442,14 @@
         "version": "mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/hushchat/logo.png"
+        }
+      ]
     },
     {
       "id": "coinbook",
