@@ -1849,7 +1849,14 @@
       "description": "Zerochain is a generic, privacy-protecting layer on top of Substrate.",
       "links": {
         "web": "https://layerxcom.github.io/zerochain-book/"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zerochain/logo.png"
+        }
+      ]
     },
     {
       "id": "quadrata",
