@@ -3131,7 +3131,14 @@
       "description": "The only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials",
       "links": {
         "web": "https://www.asmatch.app"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/asmatch/logo.png"
+        }
+      ]
     },
     {
       "id": "sirius-sync",
