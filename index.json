@@ -9586,6 +9586,13 @@
       "name": "Aztec Connect",
       "categories": [
         "bridge"
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/aztec-connect/logo.png"
+        }
       ]
     },
     {
