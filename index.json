@@ -7376,7 +7376,14 @@
         }
       },
       "have_token": true,
-      "token_link": "https://coinmarketcap.com/it/currencies/findora/"
+      "token_link": "https://coinmarketcap.com/it/currencies/findora/",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/findora-cr/logo.png"
+        }
+      ]
     },
     {
       "id": "oort",
