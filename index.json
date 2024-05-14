@@ -3913,7 +3913,14 @@
       "links": {
         "web": "https://www.2fa.guru",
         "github": "https://github.com/skiff-org/skiff-mail"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/2fa-guru/logo.png"
+        }
+      ]
     },
     {
       "id": "universal-reputation",
