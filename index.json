@@ -352,7 +352,14 @@
       },
       "links": {
         "web": "https://parami.io"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/parami/logo.png"
+        }
+      ]
     },
     {
       "id": "zero-knowledge-verifiable-credential",
