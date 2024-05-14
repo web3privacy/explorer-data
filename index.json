@@ -7998,7 +7998,14 @@
         "version": "Mainnet v1",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/dero/logo.png"
+        }
+      ]
     },
     {
       "id": "offshift",
