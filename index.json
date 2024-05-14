@@ -4933,7 +4933,14 @@
       "description": "CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions",
       "links": {
         "web": "https://github.com/decred/cspp"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/coinshuffle/logo.png"
+        }
+      ]
     },
     {
       "id": "ola",
