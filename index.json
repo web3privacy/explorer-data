@@ -8115,7 +8115,14 @@
       "description": "The decentralized laboratory for building cutting-edge privacy technologies.",
       "links": {
         "web": "https://p0xeidon.xyz"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/p0x-labs/logo.png"
+        }
+      ]
     },
     {
       "id": "dero",
