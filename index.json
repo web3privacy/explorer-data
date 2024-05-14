@@ -5520,7 +5520,14 @@
         "web": "https://metamirror.space/",
         "github": "https://docs.metamirror.space/mbuddy/introduction/overview"
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mbuddy/logo.png"
+        }
+      ]
     },
     {
       "id": "beepo",
