@@ -9562,7 +9562,14 @@
         "version": "Mainnet",
         "testnet": true,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/unova/logo.png"
+        }
+      ]
     },
     {
       "id": "highline",
