@@ -8294,6 +8294,13 @@
           "link": "https://chainsecurity.com/security-audit/threshold-network/",
           "time": "November, 2021"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nucypher/logo.png"
+        }
       ]
     },
     {
