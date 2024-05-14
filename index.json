@@ -1462,7 +1462,14 @@
       "links": {
         "web": "https://skiff.com/pages",
         "github": "https://github.com/skiff-org"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/skiff-pages/logo.png"
+        }
+      ]
     },
     {
       "id": "buildoor",
