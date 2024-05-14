@@ -3985,7 +3985,14 @@
         "version": "Testnet",
         "testnet": true,
         "mainnet": false
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/pigeon-communicator/logo.png"
+        }
+      ]
     },
     {
       "id": "2fa-guru",
