@@ -4735,7 +4735,14 @@
       "ecosystem": "Ethereum",
       "links": {
         "web": "https://ethberlin.ooo/contributors/"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ethberlin/logo.png"
+        }
+      ]
     },
     {
       "id": "nodl-one",
