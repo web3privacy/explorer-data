@@ -6199,7 +6199,8 @@
       "description": "Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions",
       "links": {
         "web": "https://onionmixer.gitbook.io/onion-mixer/"
-      }
+      },
+      "sunset": true
     },
     {
       "id": "damus",
@@ -10930,8 +10931,17 @@
         "mixing-service"
       ],
       "description": "Bitcoin mixer.",
+      "team": {
+        "anonymous": false
+      },
       "links": {
         "web": "https://mixbtc.online"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "unkown",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
