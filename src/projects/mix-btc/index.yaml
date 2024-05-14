@@ -2,5 +2,12 @@ name: Mix BTC
 categories:
   - mixing-service
 description: Bitcoin mixer.
+team:
+  anonymous: false
 links:
   web: https://mixbtc.online
+project_status:
+  live_status: true
+  version: unkown
+  testnet: false
+  mainnet: false
