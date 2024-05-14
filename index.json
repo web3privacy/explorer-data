@@ -6204,7 +6204,14 @@
       "links": {
         "web": "https://last-shot.hcpp.cz/",
         "twitter": "https://twitter.com/institutecrypto"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/hackers-congress-paralelni-polis/logo.png"
+        }
+      ]
     },
     {
       "id": "bob-protocol",
