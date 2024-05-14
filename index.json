@@ -4807,7 +4807,14 @@
       "links": {
         "web": "https://layerx.co.jp",
         "github": "https://github.com/LayerXcom"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/layerx/logo.png"
+        }
+      ]
     },
     {
       "id": "zus",
