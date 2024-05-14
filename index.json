@@ -6002,7 +6002,14 @@
       "description": "The new way to upload files anonymously and without censorship.",
       "links": {
         "web": "https://blockyfile.org"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/blockyfile/logo.png"
+        }
+      ]
     },
     {
       "id": "lunar",
