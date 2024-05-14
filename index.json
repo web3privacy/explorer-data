@@ -6851,7 +6851,14 @@
       "description": "0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers.",
       "links": {
         "web": "https://0xmonero.com/mixer"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/0xtip/logo.png"
+        }
+      ]
     },
     {
       "id": "entropy1729",
