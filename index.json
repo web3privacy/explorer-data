@@ -8435,7 +8435,14 @@
       "links": {
         "web": "https://www.ethdam.com/hackathon",
         "twitter": "https://twitter.com/CryptoCanal"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ethdam/logo.png"
+        }
+      ]
     },
     {
       "id": "wownero",
