@@ -7198,7 +7198,14 @@
       "links": {
         "web": "https://arcana.network/blog/launching-private-nfts-on-arcana/",
         "github": "https://docs.beta.arcana.network/docs/conceptpvtnft/"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/arcana-s-private-nft/logo.png"
+        }
+      ]
     },
     {
       "id": "spruce",
