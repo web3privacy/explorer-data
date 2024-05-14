@@ -6236,6 +6236,13 @@
         {
           "symbol": "ONI"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/onino/logo.png"
+        }
       ]
     },
     {
