@@ -2635,7 +2635,14 @@
         "version": "Mainnet",
         "testnet": true,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/xmtp-x-lens/logo.png"
+        }
+      ]
     },
     {
       "id": "ruby",
