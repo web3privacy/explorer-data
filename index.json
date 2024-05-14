@@ -9904,7 +9904,14 @@
         "whitepaper": "https://docs.logion.network/logion-white-paper",
         "twitter": "https://twitter.com/logion_network"
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/logion/logo.png"
+        }
+      ]
     },
     {
       "id": "sigle",
