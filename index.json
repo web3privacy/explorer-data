@@ -5502,7 +5502,14 @@
       "description": "Your private cloud",
       "links": {
         "web": "https://lp.zus.network/vult"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/vult/logo.png"
+        }
+      ]
     },
     {
       "id": "graphene-os",
