@@ -981,7 +981,14 @@
       "links": {
         "web": "https://www.anydao.app",
         "docs": "https://docs.ata.network/anydao/introduction/"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anydao/logo.png"
+        }
+      ]
     },
     {
       "id": "nillion",
