@@ -4735,7 +4735,14 @@
         "yellow-paper": "https://docs.themelio.org/specifications/yellow/",
         "Twitter": "https://twitter.com/melproject_org"
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mel/logo.png"
+        }
+      ]
     },
     {
       "id": "nocturne",
