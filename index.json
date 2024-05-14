@@ -4855,7 +4855,14 @@
       "description": "A full Bitcoin and Lightning Network node.",
       "links": {
         "web": "https://www.nodl.eu/products/nodl-one/"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nodl-one/logo.png"
+        }
+      ]
     },
     {
       "id": "layerx",
@@ -8887,7 +8894,14 @@
       "description": "A Monero node for your Android Device.",
       "links": {
         "web": "https://github.com/CryptoGrampy/xmr-pocket-node"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/monero-pocketnode/logo.png"
+        }
+      ]
     },
     {
       "id": "diva",
