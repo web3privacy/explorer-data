@@ -7377,7 +7377,14 @@
       "links": {
         "web": "https://u.is/en/"
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/utopia/logo.png"
+        }
+      ]
     },
     {
       "id": "findora-cr",
