@@ -9419,7 +9419,14 @@
         "version": false,
         "testnet": false,
         "mainnet": false
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/hana/logo.png"
+        }
+      ]
     },
     {
       "id": "sparrow",
