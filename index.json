@@ -2847,7 +2847,14 @@
       "links": {
         "web": "https://blog.sunscreen.tech/roadmap/",
         "github": "https://github.com/Sunscreen-tech?ref=sunscreen"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sunscreen/logo.png"
+        }
+      ]
     },
     {
       "id": "meile",
