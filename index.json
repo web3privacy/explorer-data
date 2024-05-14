@@ -10996,7 +10996,14 @@
       "product_readiness": "sunset",
       "links": {
         "web": "https://github.com/Nicolascoding27/Zkapp-mina-ui"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/minado/logo.png"
+        }
+      ]
     },
     {
       "id": "boltz",
