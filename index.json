@@ -4806,7 +4806,14 @@
       "links": {
         "web": "https://farcaster.dev/",
         "github": "https://github.com/farcaster-project"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/the-farcaster-project/logo.png"
+        }
+      ]
     },
     {
       "id": "conceal-network",
