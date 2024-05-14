@@ -11229,7 +11229,14 @@
       "description": "A spam-resistant instant messaging application for private and anonymous communication",
       "links": {
         "web": "https://github.com/njofce/zk-chat"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/rln-anonymous-chat/logo.png"
+        }
+      ]
     },
     {
       "id": "telios",
