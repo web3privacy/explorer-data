@@ -3829,7 +3829,14 @@
         "version": "Mainnet",
         "testnet": false,
         "mainnet": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/manta-network/logo.png"
+        }
+      ]
     },
     {
       "id": "polybase",
