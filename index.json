@@ -9866,7 +9866,14 @@
       "links": {
         "web": "https://ethrome.org/",
         "twitter": "https://twitter.com/ethereumrome"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ethrome/logo.png"
+        }
+      ]
     },
     {
       "id": "zero",
