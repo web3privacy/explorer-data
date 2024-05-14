@@ -9410,7 +9410,14 @@
         "blog": "https://blog.incognet.io/",
         "tor": "http://incoghostm2dytlqdiaj3lmtn7x2l5gb76jhabb6ywbqhjfzcoqq6aad.onion/",
         "twitter": "https://x.com/IncogNetLLC"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/incognet/logo.png"
+        }
+      ]
     },
     {
       "id": "hana",
