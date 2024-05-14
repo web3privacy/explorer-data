@@ -364,7 +364,14 @@
       "links": {
         "web": "https://github.com/mono-koto/zkcred"
       },
-      "have_token": true
+      "have_token": true,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zero-knowledge-verifiable-credential/logo.png"
+        }
+      ]
     },
     {
       "id": "frame",
