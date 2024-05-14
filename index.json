@@ -729,7 +729,14 @@
       "links": {
         "web": "https://stealthdrop.xyz",
         "github": "https://github.com/stealthdrop/stealthdrop"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/stealthdrop/logo.png"
+        }
+      ]
     },
     {
       "id": "suterusu",
