@@ -9047,7 +9047,14 @@
       "links": {
         "web": "https://njal.la",
         "blog": "https://njal.la/blog/"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/njalla/logo.png"
+        }
+      ]
     },
     {
       "id": "brume-wallet",
