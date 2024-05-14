@@ -7053,7 +7053,14 @@
       "links": {
         "web": "https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/",
         "github": "https://github.com/hardenedvault/vault1317"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/vault1317/logo.png"
+        }
+      ]
     },
     {
       "id": "motherbored",
