@@ -5,12 +5,14 @@ description: Private Over-Collateralized Anti-inflationary Stable Coin
 technology:
   type: TEE
   name: Trusted execution environment
-     upgradability:
-    enabled: true
-    type: multisig
+blockchain_features:
+  upgradability:
+  enabled: true
+  type: multisig
   opensource: true
   viewing_key: true
   dissapearing_tx: false
+  
 ecosystem: Secret Network
 links:
   web: https://app.shadeprotocol.io/silk
