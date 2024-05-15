@@ -2,6 +2,16 @@ name: Start9
 categories:
   - node
 description: Sovereign computing for a free future.
+team:
+  anonymous: true
 links:
   web: https://start9.com
   github: https://github.com/Start9Labs
+  docs: https://docs.start9.com/0.3.5.x/
+  blog: https://blog.start9.com/
+  twitter: https://twitter.com/start9labs
+project_status:
+  live_status: true
+  version: v0.3.5.1
+  testnet: false
+  mainnet: true
