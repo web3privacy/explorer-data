@@ -4,3 +4,4 @@ categories:
 description: 'Void protocol gives users control over financial anonymity, as a non-custodial opt-in financial privacy service'
 links:
   web: https://protocolvoid.gitbook.io/void-protocol/
+sunset: true
