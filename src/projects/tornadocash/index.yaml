@@ -2,5 +2,15 @@ name: TornadoCash
 categories:
   - mixing-service
 description: 'an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks'
+team:
+  anonymous: true
 links:
-  web: https://en.wikipedia.org/wiki/Tornado_Cash
+  web: https://tornado.dev/
+  docs: https://docs.tornado.dev/
+  github: https://github.com/tornadocashdev
+  telegram: https://t.me/TornadoCash
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
