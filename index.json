@@ -8439,7 +8439,8 @@
       ],
       "description": "The Blockchain Privacy, Security & Adoption Alliance educates the public on privacy, security, and decentralization.",
       "links": {
-        "web": "https://bpsaa.vision"
+        "web": "https://bpsaa.vision",
+        "twitter": "https://twitter.com/BPSAA_Official"
       },
       "logos": [
         {
@@ -9506,13 +9507,17 @@
     },
     {
       "id": "telebridge",
-      "name": "TeleBridge",
+      "name": "Hype (formerly known as TeleBridge)",
       "categories": [
         "mixing-service"
       ],
-      "description": "A privacy-focused ERC20 token. Our business plan revolves around offering multiple needed products and sharing the profits with holders, and the chart",
+      "description": "Hype is the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously.",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://telebrid.ge"
+        "web": "https://telebrid.ge",
+        "whitepaper": "https://hype-eth.com/whitepaper.pdf"
       },
       "logos": [
         {
