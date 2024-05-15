@@ -2014,8 +2014,19 @@
         "node"
       ],
       "description": "DIY Bitcoin & Lightning Node on a RaspberryPi.",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://raspiblitz.org"
+        "web": "https://raspiblitz.org",
+        "docs": "https://docs.raspiblitz.org/docs/setup/intro",
+        "github": "https://github.com/raspiblitz"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v1.11.0",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -2226,7 +2237,15 @@
       ],
       "description": "A collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node",
       "links": {
-        "web": "https://www.nodl.eu/products/nodl-dojo/"
+        "web": "https://www.nodl.eu/",
+        "docs": "https://docs.nodl.it/",
+        "twitter": "https://twitter.com/nodl_it"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": null,
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -3412,9 +3431,20 @@
         "node"
       ],
       "description": "The easiest, most powerful way to run a Bitcoin and Lightning node.",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://mynodebtc.com",
-        "github": "https://github.com/mynodebtc/mynode"
+        "github": "https://github.com/mynodebtc/mynode",
+        "docs": "https://mynodebtc.github.io/intro/introduction.html",
+        "twitter": "https://twitter.com/mynodebtc"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v0.3.28",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -6997,9 +7027,21 @@
         "node"
       ],
       "description": "Sovereign computing for a free future.",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://start9.com",
-        "github": "https://github.com/Start9Labs"
+        "github": "https://github.com/Start9Labs",
+        "docs": "https://docs.start9.com/0.3.5.x/",
+        "blog": "https://blog.start9.com/",
+        "twitter": "https://twitter.com/start9labs"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v0.3.5.1",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -8216,8 +8258,19 @@
         "node"
       ],
       "description": "Launcher with a simple user experience to run an Ethereum node on your computer",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://nicenode.xyz"
+        "web": "https://nicenode.xyz",
+        "github": "https://github.com/NiceNode/nice-node",
+        "twitter": "https://twitter.com/nicenodeapp"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v6.0.5.-alpha",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
