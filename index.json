@@ -146,6 +146,7 @@
       "links": {
         "web": "https://github.com/CryptoGrampy/xmr-pocket-node"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
@@ -3416,6 +3417,7 @@
       "links": {
         "web": "https://protocolvoid.gitbook.io/void-protocol/"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
@@ -5477,7 +5479,8 @@
       "categories": [
         "mixing-service"
       ],
-      "description": "Break the link your coins leave behind with built-in CoinJoin available on any platform"
+      "description": "Break the link your coins leave behind with built-in CoinJoin available on any platform",
+      "sunset": true
     },
     {
       "id": "ola",
