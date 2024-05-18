@@ -1242,8 +1242,10 @@
       ],
       "description": "The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project",
       "links": {
-        "web": "https://github.com/mullvad/mullvad-browser",
-        "github": "https://github.com/mullvad/mullvad-browser"
+        "web": "https://mullvad.net/en",
+        "github": "https://github.com/mullvad/mullvad-browser",
+        "blog": "https://mullvad.net/it/blog",
+        "twitter": "https://x.com/mullvadnet"
       },
       "logos": [
         {
@@ -9051,7 +9053,11 @@
       ],
       "description": "Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar",
       "links": {
-        "web": "https://www.opera.com/crypto/next"
+        "web": "https://www.opera.com/crypto/next",
+        "forum": "https://forums.opera.com/",
+        "blog": "https://blogs.opera.com/news/",
+        "twitter": "https://twitter.com/opera",
+        "facebook": "https://www.facebook.com/Opera/"
       },
       "logos": [
         {
@@ -9555,7 +9561,11 @@
       ],
       "description": "Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.",
       "links": {
-        "web": "https://www.pumabrowser.com"
+        "web": "https://www.pumabrowser.com",
+        "github": "https://github.com/PumaBrowser",
+        "blog": "https://www.pumabrowser.com/blog",
+        "twitter": "https://twitter.com/pumabrowser",
+        "discord": "https://discord.com/invite/4frpm84"
       },
       "logos": [
         {
