@@ -1,22 +1,21 @@
 #PROJECT DESCRIPTION -------------------------------------------------------------
-
 name: SampleProject
 categories: [ defi ]
+assets_used: [ BTC, ETH, USDC ] 
 ecosystem: [ Ethereum, Polkadot, Cosmos ] 
-
 
 project_type: All in one Privacy tool
 description: 'Short description of project features and mission'
+product_readiness: live
 product_launch_day: "YYYY-MM-DD"
 
-
+have_token: true
 token_link: https://etherscan.io/address/0x148932fc33d97ae4f85443d2f6af25cacddd6062
 tokens:
   - name: SampleToken
     symbol: SAMPLE
     network: Ethereum
     contract_address: "0xe6c83af64e4c60245d8c7de953df673a00000"
-assets_used: [ BTC, ETH, USDC ] 
 fee: 3.5%
 
 team:
@@ -28,7 +27,6 @@ team:
     - name: Random Guy
       role: CTO
       link: https://twitter.com/mostrandomguy
-
 
 funding:
   - name: Private investors ICO
@@ -44,13 +42,10 @@ history:
   time: "YYYY-MM-DD"
   link: https://infonewspage.com/sample-launch
 
-
 sunset: false
 
 
 # LINKS ---------------------------------------------------------------------
-
-
 links:
   web: https://sample-website.com
   github: https://github.com/sample_privacy_project
@@ -74,15 +69,12 @@ links:
 
 
 # TECHNOLOGY ---------------------------------------------------------------------
-
-
 technology:
   type: ZK-Snarks
   features:
    - Private wallet
    - Shielded DeFi
    - P2P Swaps
-
 
 blockchain_features:
   encryption: zksnark
@@ -116,7 +108,6 @@ client_diversability:
 
 
 # PRIVACY ---------------------------------------------------------------------
-
 licences: General Public License
 
 privacy_policy:
@@ -124,7 +115,7 @@ privacy_policy:
   link: https://app.shadeprotocol.io/use-terms
   data_usage: tools you are making TXs on
 
-tracebility:
+traceability:
   tracked_data: user SCRT adress
   kyc: false
   sign_in_type_requirments: EVM wallet
@@ -136,7 +127,6 @@ storage:
 
 
 # SECURITY ---------------------------------------------------------------------
-
 third_party_dependency: Chainlink oracle
 social_trust: Sample board multisig & DAO
 technical_spof: Uniswap hack

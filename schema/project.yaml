@@ -11,6 +11,7 @@ properties:
     description: | 
       Unique project identifier 
     pattern: '^[a-z0-9-]+$'
+  #PROJECT DESCRIPTION -------------------------------------------------------------
   name: 
     type: string
   categories:
@@ -28,6 +29,14 @@ properties:
     items: 
       type: string
       pattern: '^[A-Z0-9-]+$'
+  project_type:
+    type: string
+  description:
+    type: string
+  product_readiness:
+    type: string
+  product_launch_day:
+    type: string
   have_token:
     type: boolean
   token_link:
@@ -51,145 +60,8 @@ properties:
           format: uri
       required:
         - symbol
-  description:
+  fee:
     type: string
-  project_type:
-    type: string
-  product_readiness:
-    type: string
-  product_launch_day:
-    type: string
-  technology:
-    type: object
-    properties:
-      type:
-        type: string
-      name:
-        type: string
-      features:
-        type: array
-        items:
-          type: string
-    required:
-      - type
-      - features
-  links:
-    type: object
-    properties:
-      web:
-        type: string
-        format: uri
-      twitter:
-        type: string
-        format: uri
-      telegram:
-        type: string
-        format: uri
-      discord:
-        type: string
-        format: uri
-      blog:
-        type: string
-        format: uri
-      facebook:
-        type: string
-        format: uri
-      block_explorer:
-        type: string
-        format: uri
-      whitepaper:
-        type: string
-        format: uri
-      github:
-        type: string
-        format: uri
-      docs:
-        type: string
-        format: uri
-      changelog:
-        type: string
-        format: uri
-      forum:
-        type: string
-        format: uri
-      snapshot:
-        type: string
-        format: uri
-      lens:
-        type: string
-        format: uri
-      farcaster:
-        type: string
-        format: uri
-      rss_feed:
-        type: string
-        format: uri
-      education:
-        type: string
-        format: uri
-  blockchain_features:
-    type: object
-    properties:
-      p2p:
-        type: boolean
-      encryption:
-        type: string
-      network:
-        type: string
-      upgradability:
-        type: object
-        properties:
-          enabled:
-            type: boolean
-          type:
-            type: string
-          admin_keys:
-            type: string
-    wallets:
-      type: object
-      properties:
-        name:
-          type: string
-        link:
-          type: string
-          format: uli
-    opensource:
-      type: boolean
-    viewing_key:
-      type: boolean
-    dissapearing_tx:
-      type: boolean
-    frontend_anonymity:
-      type: string
-    identity_integration:
-      type: string
-    connected_tx:
-      type: boolean
-    data_masking:
-      type: string
-    asset_custody_type:
-      type: string
-  licences:
-    type: string
-  privacy_policy:
-    type: object
-    properties:
-      defined:
-        type: boolean
-      link:
-        type: string
-        format: uri
-      data_usage:
-        type: string   
-  traceability:
-    type: object
-    properties:
-      tracked_data:
-        type: string
-      kyc:
-        type: boolean
-      sign_in_type_requirments:
-        type: string     
   team:
     type: object
     properties:
@@ -213,12 +85,184 @@ properties:
             link:
               type: string
               format: uri 
-  storage:
+  funding:
     type: object
     properties:
-      decentralized:
+      name:
+        type: string
+      type:
+        type: string
+      link:
+        type: string
+        format: uri
+      value:
+        type: string
+      time:
+        type: string
+  history:
+    type: object
+    properties:
+      title:
+        type: string
+      event_type:
+        type: string
+      description:
+        type: string
+      time:
+        type: string
+      link:
+        type: string
+        format: uri
+  sunset:
+    type: boolean
+  # LINKS ---------------------------------------------------------------------
+  links:
+    type: object
+    properties:
+      web:
+        type: string
+        format: uri
+      github:
+        type: string
+        format: uri
+      block_explorer:
+        type: string
+        format: uri
+      docs:
+        type: string
+        format: uri
+      forum:
+        type: string
+        format: uri
+      whitepaper:
+        type: string
+        format: uri
+      changelog:
+        type: string
+        format: uri
+      snapshot:
+        type: string
+        format: uri
+      blog:
+        type: string
+        format: uri
+      twitter:
+        type: string
+        format: uri
+      discord:
+        type: string
+        format: uri
+      facebook:
+        type: string
+        format: uri
+      telegram:
+        type: string
+        format: uri
+      lens:
+        type: string
+        format: uri
+      farcaster:
+        type: string
+        format: uri
+      rss_feed:
+        type: string
+        format: uri
+      education:
+        type: string
+        format: uri
+  logos:
+    type: array
+    items:
+      type: object
+      properties:
+        file:
+          type: string
+        ext:
+          type: string
+        url:
+          type: string
+          format: uri
+  # TECHNOLOGY ---------------------------------------------------------------------
+  technology:
+    type: object
+    properties:
+      type:
+        type: string
+      name:
+        type: string
+      features:
+        type: array
+        items:
+          type: string
+    required:
+      - type
+      - features
+  blockchain_features:
+    type: object
+    properties:
+      encryption:
+        type: string
+      opensource:
         type: boolean
-  tracebility:
+      identity_integration:
+        type: string
+      wallets:
+        type: object
+        properties:
+          name:
+            type: string
+          link:
+            type: string
+            format: uli
+      p2p:
+        type: boolean
+      data_masking:
+        type: string
+      network:
+        type: string
+      upgradability:
+        type: object
+        properties:
+          enabled:
+            type: boolean
+          type:
+            type: string
+          admin_keys:
+            type: string
+      viewing_key:
+        type: boolean
+      dissapearing_tx:
+        type: boolean
+      connected_tx:
+        type: boolean
+      frontend_anonymity:
+        type: string
+      asset_custody_type:
+        type: string
+  client_diversability:
+    type: array
+    items: 
+      type: object
+      properties:
+        name:
+          type: string
+        link:
+          type: string
+          format: uri
+  # PRIVACY ---------------------------------------------------------------------
+  licences:
+    type: string
+  privacy_policy:
+    type: object
+    properties:
+      defined:
+        type: boolean
+      link:
+        type: string
+        format: uri
+      data_usage:
+        type: string   
+  traceability:
     type: object
     properties:
       tracked_data:
@@ -227,10 +271,20 @@ properties:
         type: boolean
       sign_in_type_requirments:
         type: string
+  compliance:
+    anyOf: [{type: boolean}, {type: string}]   
+  storage:
+    type: object
+    properties:
+      decentralized:
+        type: boolean
+  # SECURITY ---------------------------------------------------------------------
   third_party_dependency:
     type: boolean
-  compliance:
-    anyOf: [{type: boolean}, {type: string}]
+  social_trust:
+    type: string
+  technical_spof:
+    type: string
   audits:
     type: array
     items:
@@ -247,52 +301,8 @@ properties:
           format: uri
         time:
           type: string
-  social_trust:
-    type: string
-  technical_spof:
-    type: string
-  fee:
-    type: string
-  history:
-    type: object
-    properties:
-      title:
-        type: string
-      event_type:
-        type: string
-      description:
-        type: string
-      time:
-        type: string
-      link:
-        type: string
-        format: uri
-  client_diversability:
-    type: array
-    items: 
-      type: object
-      properties:
-        name:
-          type: string
-        link:
-          type: string
-          format: uri
   default_privacy:
     type: boolean
-  funding:
-    type: object
-    properties:
-      name:
-        type: string
-      type:
-        type: string
-      link:
-        type: string
-        format: uri
-      value:
-        type: string
-      time:
-        type: string
   project_status:
     type: object
     properties:
@@ -304,15 +314,3 @@ properties:
         type: boolean
       mainnet:
         type: boolean
-  logos:
-    type: array
-    items:
-      type: object
-      properties:
-        file:
-          type: string
-        ext:
-          type: string
-        url:
-          type: string
-          format: uri

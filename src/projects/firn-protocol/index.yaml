@@ -32,7 +32,6 @@ blockchain_features:
   viewing_key: false
   dissapearing_tx: true
   frontend_anonymity: options
-  identity_integration:
   connected_tx: false
   revealed_recipient: false
   revealed_sender: false
@@ -46,7 +45,7 @@ team:
   anonymous: true
 storage:
   decentralized: true
-tracebility:
+traceability:
   tracked_dat: non
   kyc: false
   sign_in_type_requirments: wallet

@@ -25,7 +25,6 @@ blockchain_features:
   opensource: true
   dissapearing_tx: true
   frontend_anonymity: self-hosted
-  identity_integration:
   connected_tx: false
   revealed_recipient: true
   revealed_sender: true
@@ -39,7 +38,7 @@ team:
   anonymous: true
 storage:
   decentralized: true
-tracebility:
+traceability:
   tracked_data: Chains activity
   kyc: false
   sign_in_type_requirments: wallets
