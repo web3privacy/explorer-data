@@ -37,7 +37,7 @@ team:
       link: https://bento.me/hazae41
 storage:
   decentralized: true
-tracebility:
+traceability:
   tracked_data: no ( Tor based )
   kyc: false
   sign_in_type_requirments: seed

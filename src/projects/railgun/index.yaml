@@ -35,7 +35,6 @@ blockchain_features:
   viewing_key: true
   dissapearing_tx: false
   frontend_anonymity: ( Railway frontend dont work on Firefox/Tor )
-  identity_integration:
   connected_tx: false
   revealed_recipient: false
   revealed_sender: false
@@ -74,7 +73,7 @@ team:
       role: Global economist
 storage:
   decentralized: true
-tracebility:
+traceability:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false

@@ -37,7 +37,6 @@ blockchain_features:
   viewing_key: true
   dissapearing_tx: false
   frontend_anonymity: options
-  identity_integration:
   connected_tx: false
   revealed_recipient: false
   revealed_sender: false
@@ -52,7 +51,7 @@ team:
   anonymous: true
 storage:
   decentralized: true
-tracebility:
+traceability:
   tracked_data: user SCRT adress
   kyc: false
   sign_in_type_requirments: wallet
