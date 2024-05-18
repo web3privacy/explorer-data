@@ -1048,6 +1048,13 @@
       "categories": [
         "bridge"
       ],
+      "links": {
+        "github": "https://github.com/AztecProtocol/aztec-connect-bridges",
+        "docs": "https://docs.aztec.network/misc/aztec_connect_sunset",
+        "blog": "https://aztec.network/blog/private-defi-with-the-aztec-connect-bridge/",
+        "discord": "https://discord.com/invite/aztec",
+        "education": "https://twitter.com/aztecnetwork/status/1575662728395358208"
+      },
       "logos": [
         {
           "file": "logo.png",
@@ -2794,6 +2801,15 @@
       "categories": [
         "bridge"
       ],
+      "links": null,
+      "web": "https://www.sbtc.ninja/",
+      "github": "https://github.com/shinobi-protocol",
+      "docs": "https://docs.sbtc.ninja/",
+      "whitepaper": "https://www.sbtc.ninja/pdf/whitepaper.pdf",
+      "blog": "https://medium.com/@ShinobiProtocol",
+      "twitter": "https://twitter.com/ShinobiProtocol",
+      "discord": "https://discord.com/invite/wm275b6m8d",
+      "telegram": "https://t.me/shinobi_protocol",
       "logos": [
         {
           "file": "logo.png",
@@ -2999,7 +3015,10 @@
       "description": "Browse privately. Search privately. And ditch Big Tech",
       "links": {
         "web": "http://brave.com",
-        "github": "https://github.com/brave/brave-browser"
+        "github": "https://github.com/brave/brave-browser",
+        "blog": "https://brave.com/blog/",
+        "twitter": "https://twitter.com/brave",
+        "facebook": "https://www.facebook.com/BraveSoftware/"
       },
       "logos": [
         {
