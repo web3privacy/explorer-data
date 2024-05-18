@@ -26,5 +26,8 @@ jobs:
         with:
           timezoneLinux: "Europe/Prague"
 
+      - name: Cache
+        run: make cache
+
       - name: Test
         run: make test
