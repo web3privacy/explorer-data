@@ -3,11 +3,11 @@ name: Test
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main # Set a branch to deploy
   pull_request:
-    
+
 jobs:
-  deploy:
+  test:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-           fetch-depth: 0
+          fetch-depth: 0
 
       - uses: denoland/setup-deno@v1
         with:
@@ -25,9 +25,6 @@ jobs:
       - uses: szenius/set-timezone@v2.0
         with:
           timezoneLinux: "Europe/Prague"
-
-      - name: Cache
-        run: make cache
 
       - name: Test
         run: make test
