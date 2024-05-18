@@ -3880,18 +3880,45 @@
     {
       "id": "deeponion",
       "name": "DeepOnion",
-      "categories": [
-        "currency"
-      ],
+      "categories": "currency",
+      "ecosystem": "DeepOnion",
       "description": "An anonymous cryptocurrency that is integrated with the Tor network",
-      "ecosystem": "Deep0nion",
+      "product_launch_day": "“2017-07-12“",
       "project_status": "Mainnet",
       "links": {
         "web": "https://deeponion.org",
-        "github": "https://github.com/deeponion/deeponion/"
+        "github": "https://github.com/deeponion/deeponion/",
+        "forum": "https://deeponion.org/community/",
+        "whitepaper": "https://deeponion.org/White-Paper.pdf",
+        "twitter": "https://twitter.com/TheDeepOnion",
+        "telegram": "https://t.me/getdeeponion"
       },
       "team": {
-        "anonymous": false
+        "anonymous": "yes",
+        "teammembers": [
+          {
+            "name": "Deeper",
+            "role": "Marketing Manager"
+          },
+          {
+            "name": "Monocolor",
+            "role": "Lead Blockchain Developer"
+          },
+          {
+            "name": "Nezero",
+            "role": "Blockchain Developer"
+          }
+        ]
+      },
+      "technology": {
+        "type": "x13",
+        "features": [
+          "Private wallet",
+          "DeepVault",
+          "DeepSend",
+          "DeepOnionJ",
+          "VoteCentral"
+        ]
       },
       "logos": [
         {
