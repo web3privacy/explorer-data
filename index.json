@@ -309,7 +309,6 @@
         "viewing_key": true,
         "dissapearing_tx": false,
         "frontend_anonymity": "( Railway frontend dont work on Firefox/Tor )",
-        "identity_integration": null,
         "connected_tx": false,
         "revealed_recipient": false,
         "revealed_sender": false,
@@ -377,7 +376,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "kyc": false,
         "sign_in_type_requirments": "wallet"
       },
@@ -608,7 +607,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "tracked_data": "user SCRT adress",
         "kyc": false,
         "sign_in_type_requirments": "wallet"
@@ -4399,7 +4398,6 @@
         "viewing_key": true,
         "dissapearing_tx": false,
         "frontend_anonymity": "options",
-        "identity_integration": null,
         "connected_tx": false,
         "revealed_recipient": false,
         "revealed_sender": false,
@@ -4432,7 +4430,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "tracked_data": "user SCRT adress",
         "kyc": false,
         "sign_in_type_requirments": "wallet"
@@ -5635,7 +5633,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "kyc": false,
         "sign_in_type_requirments": "wallet"
       },
@@ -5731,7 +5729,6 @@
         "viewing_key": false,
         "dissapearing_tx": true,
         "frontend_anonymity": "options",
-        "identity_integration": null,
         "connected_tx": false,
         "revealed_recipient": false,
         "revealed_sender": false,
@@ -5749,7 +5746,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "tracked_dat": "non",
         "kyc": false,
         "sign_in_type_requirments": "wallet"
@@ -9433,7 +9430,6 @@
         "viewing_key": true,
         "dissapearing_tx": false,
         "frontend_anonymity": "options",
-        "identity_integration": null,
         "connected_tx": false,
         "revealed_recipient": false,
         "revealed_sender": false,
@@ -9452,7 +9448,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "tracked_data": "user SCRT adress",
         "kyc": false,
         "sign_in_type_requirments": "wallet"
@@ -10204,7 +10200,6 @@
         "opensource": true,
         "dissapearing_tx": true,
         "frontend_anonymity": "self-hosted",
-        "identity_integration": null,
         "connected_tx": false,
         "revealed_recipient": true,
         "revealed_sender": true,
@@ -10222,7 +10217,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "tracked_data": "Chains activity",
         "kyc": false,
         "sign_in_type_requirments": "wallets"
@@ -10875,7 +10870,7 @@
       "storage": {
         "decentralized": true
       },
-      "tracebility": {
+      "traceability": {
         "tracked_data": "no ( Tor based )",
         "kyc": false,
         "sign_in_type_requirments": "seed"
