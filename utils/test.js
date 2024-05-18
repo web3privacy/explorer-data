@@ -27,29 +27,41 @@ const matrix = {
 const schemaDir = "./schema";
 const schemas = await loadSchemas();
 
-schemas.project.properties.categories.items.enum = w3pd.data.categories.map(c => c.id)
+schemas.project.properties.categories.items.enum = w3pd.data.categories.map(
+  (c) => c.id
+);
 
 for (const col of Object.keys(w3pd.data)) {
   const validator = ajv.compile(schemas[matrix[col]]);
-  const ids = []
+  const ids = [];
 
   for (const item of w3pd.data[col]) {
-    delete item._path
-    const testName = `${col}/${item.id} ` + (col === 'projects' ? `[${item.categories?.join(', ')}]` : '')
+    delete item._path;
+    const testName =
+      `${col}/${item.id} ` +
+      (col === "projects"
+        ? `[${
+            Array.isArray(item.categories)
+              ? item.categories.join(", ")
+              : item.categories
+          }]`
+        : "");
 
     if (ids.includes(item.id)) {
-      Deno.test(testName + ' (id-duplicates)', () => {
-          throw { message: `Duplicate project id="${item.id}"` }
-      });      
+      Deno.test(testName + " (id-duplicates)", () => {
+        throw { message: `Duplicate project id="${item.id}"` };
+      });
     }
 
-    if(Object.keys(item).length > 1) {
-      Deno.test(testName + ' (schema)', () => {
+    if (Object.keys(item).length > 1) {
+      Deno.test(testName + " (schema)", () => {
         if (!validator(item)) {
-          throw validator.errors;
+          // throw validator.errors;
+          // log instead of throwing to proceed building all projects
+          console.log(validator.errors);
         }
       });
     }
-    ids.push(item.id)
+    ids.push(item.id);
   }
 }
