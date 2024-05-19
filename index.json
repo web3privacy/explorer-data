@@ -2883,9 +2883,20 @@
         "os"
       ],
       "description": "The private and secure mobile operating system with Android app compatibility",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://grapheneos.org",
-        "github": "https://github.com/GrapheneOS"
+        "github": "https://github.com/GrapheneOS",
+        "docs": "https://grapheneos.org/usage",
+        "twitter": "https://x.com/GrapheneOS"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": 2024051500,
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -5309,9 +5320,18 @@
         "os"
       ],
       "description": "A fork of LineageOS with monthly updates, automated CVE patchings, system WebView, and more",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://divestos.org/",
         "github": "https://github.com/Divested-Mobile/DivestOS-Build"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": 20,
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -9185,9 +9205,20 @@
         "os"
       ],
       "description": "Fork of LineageOS with a Trust interface that will help you understand the security of your device and warn incoming threats. Recently released, still in beta",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://iode.tech",
-        "github": "https://gitlab.com/iode/"
+        "github": "https://gitlab.com/iode/",
+        "blog": "https://blog.iode.tech/",
+        "twitter": "https://twitter.com/iode_tech"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": 5,
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
