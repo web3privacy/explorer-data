@@ -2,6 +2,15 @@ name: CalyxOS
 categories:
   - os
 description: 'Android mobile operating system that puts privacy and security into the hands of everyday users'
+team:
+  anonymous: true
 links:
   web: https://calyxos.org/
   github: https://gitlab.com/CalyxOS
+  docs: https://calyxos.org/docs/
+  twitter: https://x.com/CalyxOS
+project_status:
+  live_status: true
+  version: 5.7.1
+  testnet: false
+  mainnet: true
