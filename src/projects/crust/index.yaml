@@ -1,7 +1,18 @@
 name: Crust
 categories:
   - storage
-description: 'Web3.0 Storage for the Metaverse'
+ecosystem: Polkadot
+description: 'Crust provides a decentralized storage network of Web3 ecosystem. It supports multiple storage layer protocols such as IPFS, and exposes storage interfaces to application layer.'
+team:
+  anonymous: true
 links:
   web: https://crust.network
   github: https://github.com/crustio
+  docs: https://wiki.crust.network/en
+  whitepaper: https://ipfs.io/ipfs/QmP9WqDYhreSuv5KJWzWVKZXJ4hc7y9fUdwC4u23SmqL6t
+  twitter: https://twitter.com/CrustNetwork
+project_status:
+  live_status: true
+  version: Release 6
+  testnet: true
+  mainnet: true
