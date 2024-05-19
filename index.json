@@ -10248,9 +10248,27 @@
         "os"
       ],
       "description": "a free and open-source, security-oriented operating system for single-user desktop computing",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Marek Marczykowski-Górecki",
+            "role": "Project Lead",
+            "link": "https://github.com/marmarek"
+          }
+        ]
+      },
       "links": {
         "web": "https://www.qubes-os.org",
-        "github": "https://github.com/QubesOS"
+        "github": "https://github.com/QubesOS",
+        "docs": "https://www.qubes-os.org/doc/",
+        "twitter": "https://twitter.com/QubesOS"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "4.2.1",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
@@ -10869,9 +10887,20 @@
         "os"
       ],
       "description": "Tails is a portable operating system that protects your privacy and helps you avoid censorship",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://tails.boum.org",
-        "github": "https://gitlab.tails.boum.org/tails/tails"
+        "docs": "https://tails.net/doc/index.en.html",
+        "github": "https://gitlab.tails.boum.org/tails/tails",
+        "twitter": "https://twitter.com/Tails_live"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": 6.3,
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
