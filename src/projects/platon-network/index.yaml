@@ -6,6 +6,14 @@ ecosystem: Alaya
 links:
   web: https://www.platon.network/en
   github: https://github.com/PlatONnetwork
+  docs: https://devdocs.platon.network/docs/en/
+  forum: https://forum.latticex.foundation/
+  whitepaper: https://www.platon.network/pdf/en/PlatON_A_High-Efficiency_Trustless_Computing_Network_Whitepaper_EN_2.pdf
+  blog: https://medium.com/platon-network
+  twitter: https://x.com/PlatON_Network
+  discord: https://discord.com/invite/jAjFzJ3Cff
+  facebook: https://www.facebook.com/PlatONNetwork/
+  telegram: https://t.me/PlatONNetwork
 team:
   anonymous: false
   company:
