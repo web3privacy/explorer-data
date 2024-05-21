@@ -6,6 +6,14 @@ ecosystem: Kusama
 links:
   web: https://www.phala.network/en/
   github: https://github.com/Phala-Network
+  docs: https://docs.phala.network/
+  forum: https://forum.phala.network/
+  whitepaper: pdf/phala-paper.pdf
+  changelog: https://phala.network/changelog
+  blog: https://phala.network/blog 
+  twitter: https://x.com/PhalaNetwork
+  discord: https://discord.com/invite/phala-network
+  telegram: https://t.me/phalanetwork
 team:
   anonymous: false
   company:
