@@ -2,5 +2,13 @@ name: Synx
 categories:
   - storage
 description: The Web3 storage platform
+team:
+  anonymous: true
 links:
   web: https://synx.xyz
+  twitter: https://x.com/synx_xyz
+project_status:
+  live_status: true
+  version: Alpha
+  testnet: false
+  mainnet: true
