@@ -5,7 +5,11 @@ description: 'The Secure Processing Layer of Web3'
 ecosystem: multichain
 links:
   web: https://www.nillion.com
-  docs: https://docsend.com/view/7bkgvzagr6ifhwrc
+  github: https://github.com/NillionNetwork
+  docs: https://docs.nillion.com/
+  twitter: https://x.com/nillionnetwork
+  discord: https://discord.com/invite/nillionnetwork
+  telegram: https://t.me/nillionnetwork
 team:
   anonymous: false
   company:
