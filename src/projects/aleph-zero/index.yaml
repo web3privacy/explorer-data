@@ -10,6 +10,12 @@ project_status:
 links:
   web: https://alephzero.org
   github: https://github.com/aleph-zero-foundation
+  docs: https://docs.alephzero.org/aleph-zero
+  whitepaper: https://docs.alephzero.org/aleph-zero/explore/whitepapers
+  twitter: https://x.com/Aleph__Zero
+  discord: https://discord.com/invite/alephzero
+  facebook: https://www.facebook.com/AlephZeroFoundation
+  telegram: https://t.me/AlephZeroFoundation
 team:
   anonymous: false
   company:
