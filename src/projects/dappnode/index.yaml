@@ -6,6 +6,11 @@ ecosystem: multichain
 links:
   web: https://dappnode.io/
   github: https://github.com/dappnode
+  docs: https://docs.dappnode.io/
+  forum: https://discourse.dappnode.io/
+  blog: https://medium.com/dappnode
+  twitter: https://x.com/DAppNode
+  discord: https://discord.com/invite/dappnode
 team:
   anonymous: false
   company:
