@@ -6,5 +6,12 @@ ecosystem: Lighting Network
 links:
   web: https://decred.org
   github: https://docs.decred.org
+  block_explorer: https://dcrdata.decred.org/
+  docs: https://docs.decred.org/
+  blog: https://medium.com/decred
+  twitter: https://x.com/decredproject
+  discord: https://discord.com/invite/dXSmwvYury
+  facebook: https://www.facebook.com/decredproject
+  telegram: https://t.me/Decred
 team:
   anonymous: false
