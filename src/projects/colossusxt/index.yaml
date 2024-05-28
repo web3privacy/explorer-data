@@ -11,5 +11,12 @@ project_status:
 links:
   web: https://www.colossusxt.io
   github: https://github.com/ColossusCoinXT
+  block_explorer: https://chainz.cryptoid.info/colx/
+  whitepaper: https://www.colossusxt.io/whitepaper/
+  forum: https://forum.colossusxt.io/
+  blog: https://colossusxt.medium.com/
+  twitter: https://x.com/ColossusCoinXT
+  discord: https://discord.com/invite/pRbDzPd
+  telegram: https://t.me/colossuscoin
 team:
   anonymous: false
