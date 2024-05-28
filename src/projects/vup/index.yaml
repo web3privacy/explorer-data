@@ -2,6 +2,14 @@ name: VUP
 categories:
   - storage
 description: Private and decentralized cloud storage
+team:
+  anonymous: true
 links:
   web: https://vup.app
-  github: https://github.com/redsolver/vup
+  github: https://github.com/vup-app
+  docs: https://docs.vup.app/
+project_status:
+  live_status: true
+  version: v0.15.0 BETA
+  testnet: false
+  mainnet: true
