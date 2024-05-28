@@ -6,7 +6,14 @@ ecosystem: multichain
 links:
   web: https://kelvpn.com
   github: https://gitlab.demlabs.net/cellframe/cellframe-sdk
+  whitepaper: https://kelvpn.com/KelVPN-Light-paper.pdf
+  twitter: https://twitter.com/KelvpnNetwork
 team:
   anonymous: true
 have_token: true
 token_link: https://coinmarketcap.com/currencies/kelvpn/
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
