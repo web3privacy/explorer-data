@@ -11,5 +11,12 @@ project_status:
 links:
   web: https://navcoin.org
   github: https://github.com/navcoin
+  block_explorer: https://explorer.navcoin.org/
+
+  blog: https://medium.com/nav-coin
+  twitter: https://x.com/navcoin
+  discord: https://discord.com/invite/y4Vu9jw
+  facebook: https://www.facebook.com/Navcoin/
+  telegram: https://t.me/navcoin
 team:
   anonymous: true
