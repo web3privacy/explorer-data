@@ -7,5 +7,10 @@ project_status: Mainnet
 links:
   web: https://xcash.foundation
   github: https://github.com/X-CASH-official
+ 
+  blog: https://medium.com/x-cash
+  twitter: https://x.com/XCashCrypto
+  discord: https://discord.com/invite/4CAahnd
+
 team:
   anonymous: false
