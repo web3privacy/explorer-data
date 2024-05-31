@@ -6,5 +6,14 @@ ecosystem: Pivx
 links:
   web: https://pivx.org
   github: https://github.com/PIVX-Project/PIVX/
+  block_explorer: https://pivx.org/block-explorer
+  whitepaper: https://pivx.org/whitepaper
+  forum: https://forum.pivx.org/
+
+  blog: https://pivx.org/news
+  twitter: https://x.com/_PIVX
+  discord: https://discord.com/invite/jzqVsJd
+  facebook: https://www.facebook.com/PIVXCrypto/
+  telegram: https://t.me/pivxchat
 team:
   anonymous: false
