@@ -6,5 +6,10 @@ ecosystem: Mimblewimble
 links:
   web: https://lite-cash.com
   github: https://github.com/Litecash-Dev
+  whitepaper: https://lite-cash.com/LitecashWhitepaper.pdf
+
+  twitter: https://x.com/LitecashPR
+  discord: https://discord.com/invite/kga9sgg
+  telegram: https://t.me/litecashgroup
 team:
   anonymous: true
