@@ -17,6 +17,8 @@ ecosystem: Secret Network
 links:
   web: https://app.shadeprotocol.io/silk
   github: https://github.com/securesecrets/shade
+
+  twitter: https://x.com/Silk_Stable
 default_privacy: true
 project_status:
   live_status: true
