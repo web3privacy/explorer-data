@@ -6,6 +6,9 @@ ecosystem: multichain
 links:
   web: https://www.orchid.com
   github: https://github.com/OrchidTechnologies
+  whitepaper: https://www.orchid.com/whitepaper/english.pdf
+  docs: https://docs.orchid.com/en/latest/
+  blog: https://blog.orchid.com/
 team:
   anonymous: false
   company:
