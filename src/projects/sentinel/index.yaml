@@ -6,7 +6,15 @@ ecosystem: Cosmos
 links:
   web: https://sentinel.co
   github: https://github.com/sentinel-official
+  whitepaper: https://docs.sentinel.co/getting-started/whitepaper
+  docs: https://docs.sentinel.co/
+  twitter: https://twitter.com/SentinelDVPN
 team:
   anonymous: true
 have_token: true
 token_link: https://coinmarketcap.com/currencies/sentinel/
+project_status:
+  live_status: true
+  version: stable
+  testnet: false
+  mainnet: false
