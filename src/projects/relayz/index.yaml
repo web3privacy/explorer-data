@@ -2,5 +2,15 @@ name: Relayz
 categories:
   - messaging
 description: Hyper-secure, private communications protocol for Web3
+product_readiness: live
+team:
+  anonymous: true
 links:
   web: https://relayz.io
+  blog: https://relayz.medium.com/
+  X: https://twitter.com/RelayzOfficial
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
