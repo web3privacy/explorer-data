@@ -5513,7 +5513,8 @@
       ],
       "description": "World’s first truly decentralized blockchain-based VPN service.",
       "links": {
-        "web": "https://solarlabs.ee"
+        "web": "https://solarlabs.ee",
+        "twitter": "https://twitter.com/solardvpn"
       },
       "have_token": true,
       "logos": [
@@ -5783,7 +5784,11 @@
       ],
       "description": "Next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens",
       "links": {
-        "web": "https://www.bmda.io"
+        "web": "https://www.bmda.io",
+        "whitepaper": "https://www.bmda.io/bermuda-whitepaper-1.2.pdf",
+        "blog": "https://medium.com/@bmdaadmin",
+        "twitter": "https://x.com/BermudaEth",
+        "telegram": "https://t.me/bermudaportal"
       },
       "logos": [
         {
@@ -9211,7 +9216,9 @@
       "description": "Ensure everyone in your organization is credentialed and compliant with Cerebrum verifiable data technology and vID ecosystem",
       "links": {
         "web": "https://www.cerebrum.com",
-        "github": "https://github.com/cerebruminc"
+        "github": "https://github.com/cerebruminc",
+        "blog": "https://blog.cerebrum.com/",
+        "twitter": "https://x.com/cerebruminc"
       },
       "have_token": true,
       "logos": [
@@ -10806,7 +10813,11 @@
       ],
       "description": "The only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials",
       "links": {
-        "web": "https://www.asmatch.app"
+        "web": "https://www.asmatch.app",
+        "whitepaper": "https://whitepaper.asmatch.app/",
+        "blog": "https://asmatch.medium.com/",
+        "twitter": "https://x.com/AsMatchApp",
+        "discord": "https://discord.com/invite/yqUWDdyfX9"
       },
       "logos": [
         {
