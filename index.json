@@ -1251,7 +1251,11 @@
       "ecosystem": "Mimblewimble",
       "links": {
         "web": "https://lite-cash.com",
-        "github": "https://github.com/Litecash-Dev"
+        "github": "https://github.com/Litecash-Dev",
+        "whitepaper": "https://lite-cash.com/LitecashWhitepaper.pdf",
+        "twitter": "https://x.com/LitecashPR",
+        "discord": "https://discord.com/invite/kga9sgg",
+        "telegram": "https://t.me/litecashgroup"
       },
       "team": {
         "anonymous": true
@@ -3369,7 +3373,13 @@
       "description": "Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community",
       "ecosystem": "MimbleWimble",
       "links": {
-        "web": "https://epic.tech"
+        "web": "https://epiccash.com/",
+        "github": "https://github.com/orgs/EpicCash/repositories",
+        "block_explorer": "https://explorer.epiccash.com/",
+        "whitepaper": "https://epiccash.com/wp-content/uploads/2024/02/Epic-Cash-v7.1b.pdf",
+        "twitter": "https://x.com/EpicCashTech",
+        "facebook": "https://www.facebook.com/EpicCashTech/",
+        "telegram": "https://t.me/epiccash/"
       },
       "team": {
         "anonymous": true
@@ -8138,13 +8148,21 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://kelvpn.com",
-        "github": "https://gitlab.demlabs.net/cellframe/cellframe-sdk"
+        "github": "https://gitlab.demlabs.net/cellframe/cellframe-sdk",
+        "whitepaper": "https://kelvpn.com/KelVPN-Light-paper.pdf",
+        "twitter": "https://twitter.com/KelvpnNetwork"
       },
       "team": {
         "anonymous": true
       },
       "have_token": true,
       "token_link": "https://coinmarketcap.com/currencies/kelvpn/",
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "logos": [
         {
           "file": "logo.png",
