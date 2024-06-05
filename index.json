@@ -4467,6 +4467,7 @@
       "links": {
         "web": "https://dragonx.is/",
         "block_explorer": "https://explorer.dragonx.is/",
+        "whitepaper": "https://dragonx.is/whitepaper.pdf",
         "twitter": "https://twitter.com/DragonXchain",
         "discord": "https://discord.gg/",
         "telegram": "https://t.me/+ISXrAVgLnXkwZmU5"
@@ -7811,7 +7812,12 @@
       "description": "Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche",
       "links": {
         "web": "https://e.cash",
-        "github": "https://github.com/bitcoin-abc/bitcoin-abc/"
+        "github": "https://github.com/bitcoin-abc/bitcoin-abc/",
+        "blog": "https://e.cash/blog",
+        "twitter": "https://x.com/ecashofficial",
+        "discord": "https://discord.com/invite/ecash-official-852595915159896114",
+        "facebook": "https://www.facebook.com/ecashofficial",
+        "telegram": "https://t.me/ecash"
       },
       "team": {
         "anonymous": true
