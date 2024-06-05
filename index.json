@@ -1662,7 +1662,11 @@
       "ecosystem": "Bitcoin",
       "links": {
         "web": "https://foundationdevices.com",
-        "github": "https://github.com/Foundation-Devices"
+        "github": "https://github.com/Foundation-Devices",
+        "docs": "https://docs.foundationdevices.com/",
+        "blog": "https://foundation.xyz/blog/",
+        "twitter": "https://x.com/FOUNDATIONdvcs/",
+        "telegram": "https://t.me/foundationdevices"
       },
       "team": {
         "anonymous": false,
@@ -7859,7 +7863,11 @@
       "project_status": "Mainnet",
       "links": {
         "web": "https://www.deeper.network",
-        "docs": "https://cdn.shopify.com/s/files/1/0256/1038/7504/files/deeper_network_whitepaper__2023_03_21.pdf?v=1680260637"
+        "blog": "https://shop.deeper.network/pages/blog",
+        "twitter": "https://x.com/deeper_network",
+        "discord": "https://discord.com/invite/EWUyAJyH2B",
+        "facebook": "https://www.facebook.com/deeper.network",
+        "telegram": "https://t.me/DeeperNetwork"
       },
       "team": {
         "anonymous": true
