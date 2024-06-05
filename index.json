@@ -10103,7 +10103,13 @@
       },
       "links": {
         "web": "https://navcoin.org",
-        "github": "https://github.com/navcoin"
+        "github": "https://github.com/navcoin",
+        "block_explorer": "https://explorer.navcoin.org/",
+        "blog": "https://medium.com/nav-coin",
+        "twitter": "https://x.com/navcoin",
+        "discord": "https://discord.com/invite/y4Vu9jw",
+        "facebook": "https://www.facebook.com/Navcoin/",
+        "telegram": "https://t.me/navcoin"
       },
       "team": {
         "anonymous": true
@@ -11748,7 +11754,12 @@
       },
       "links": {
         "web": "https://oxen.io",
-        "github": "https://github.com/oxen-io"
+        "github": "https://github.com/oxen-io",
+        "block_explorer": "https://oxen.observer/",
+        "docs": "https://docs.oxen.io/oxen-docs",
+        "blog": "https://oxen.io/blog/1",
+        "twitter": "https://x.com/Oxen_io",
+        "telegram": "https://t.me/Oxen_Community"
       },
       "team": {
         "anonymous": true
