@@ -7299,7 +7299,12 @@
       "description": "Privacy first, account-free crypto exchange",
       "links": {
         "web": "https://boltz.exchange",
-        "github": "https://github.com/BoltzExchange/"
+        "github": "https://github.com/BoltzExchange/",
+        "docs": "https://docs.boltz.exchange/",
+        "blog": "https://blog.boltz.exchange/",
+        "twitter": "https://x.com/Boltzhq",
+        "discord": "https://discord.com/invite/QBvZGcW",
+        "telegram": "https://t.me/boltzhq"
       },
       "team": {
         "anonymous": true
@@ -11118,7 +11123,13 @@
       "ecosystem": "Polygon, Optimism, BNB, Ethereum",
       "links": {
         "web": "https://zkbob.com/",
-        "github": "https://github.com/zkBob"
+        "github": "https://github.com/zkBob",
+        "docs": "https://docs.zkbob.com/",
+        "forum": "https://forum.zkbob.com/?utm_source=Twitter&utm_medium=Linktree",
+        "blog": "https://blog.zkbob.com/",
+        "twitter": "https://x.com/zkBob_",
+        "discord": "https://discord.com/invite/zkbob",
+        "telegram": "https://t.me/zkbobcommunity"
       },
       "team": {
         "anonymous": true
