@@ -931,7 +931,10 @@
       "ecosystem": "mobilecoin",
       "links": {
         "web": "https://mobilecoin.com",
-        "github": "https://github.com/mobilecoinofficial"
+        "github": "https://github.com/mobilecoinofficial",
+        "blog": "https://www.sentz.com/blog",
+        "twitter": "https://x.com/mobilecoin",
+        "facebook": "https://www.facebook.com/people/Sentz-App/61550924458469/"
       },
       "team": {
         "anonymous": false
@@ -10252,7 +10255,11 @@
       },
       "links": {
         "web": "https://www.getmonero.org",
-        "github": "https://github.com/monero-ecosystem"
+        "github": "https://github.com/monero-ecosystem",
+        "blog": "https://www.getmonero.org/blog/",
+        "twitter": "https://x.com/monero",
+        "facebook": "https://www.facebook.com/monerocurrency/",
+        "telegram": "https://t.me/monero"
       },
       "team": {
         "anonymous": true
