@@ -2619,7 +2619,11 @@
       ],
       "description": "Comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization",
       "links": {
-        "web": "https://mantapacific.pomp.money"
+        "web": "https://mantapacific.pomp.money",
+        "blog": "https://medium.com/@POMP_App",
+        "twitter": "https://x.com/AppPOMP",
+        "discord": "https://discord.com/invite/Uh452P8ScM",
+        "telegram": "https://t.me/POMP_Chat"
       },
       "logos": [
         {
@@ -10057,7 +10061,10 @@
       ],
       "description": "Privacy-focused, ad-free social media & digital marketplace.",
       "links": {
-        "web": "https://plugin.io/"
+        "web": "https://plugin.io/",
+        "github": "https://github.com/pluginio",
+        "twitter": "https://x.com/pluginio",
+        "facebook": "https://www.facebook.com/pluginio/"
       },
       "logos": [
         {
@@ -11428,8 +11435,10 @@
       ],
       "description": "Allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that",
       "links": {
-        "web": "https://www.privacypools.com",
-        "github": "https://github.com/ameensol/privacy-pools"
+        "web": "https://privacy-pools-v1-demo.netlify.app/",
+        "github": "https://github.com/ameensol/privacy-pools",
+        "docs": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364",
+        "education": "https://x.com/0xArhat/status/1699812440614035944"
       },
       "logos": [
         {
