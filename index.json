@@ -6834,6 +6834,7 @@
         "web": "https://skiff.com/drive",
         "github": "https://github.com/skiff-org"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
