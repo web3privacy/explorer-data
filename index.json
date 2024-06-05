@@ -201,7 +201,12 @@
       "description": "Secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts",
       "links": {
         "web": "https://www.sigle.io",
-        "github": "https://github.com/sigle/sigle"
+        "github": "https://github.com/sigle/sigle",
+        "docs": "https://docs.sigle.io/",
+        "changelog": "https://docs.sigle.io/changelog",
+        "blog": "https://blog.sigle.io/",
+        "twitter": "https://x.com/sigleapp",
+        "discord": "https://discord.com/invite/X2Dbz3xbrs"
       },
       "logos": [
         {
