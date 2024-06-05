@@ -6,5 +6,13 @@ ecosystem: Firo
 links:
   web: https://firo.org
   github: https://github.com/firoorg/firo
+  block_explorer: https://explorer.firo.org/ 
+  forum: https://forum.firo.org/
+
+  blog: https://firo.org/blog/
+  twitter: https://x.com/firoorg
+  discord: https://discord.com/invite/TGZPRbRT3Y
+  facebook: https://www.facebook.com/firoorg/
+  telegram: https://t.me/firoorg
 team:
   anonymous: false
