@@ -11,5 +11,12 @@ project_status:
 links:
   web: https://ipfs.ghostbyjohnmcafee.com/#/
   github: https://github.com/ghost-coin
+  block_explorer: https://explorer.myghost.org/
+  whitepaper: https://ipfs.ghostbyjohnmcafee.com/static/media/Ghost_by_McAfee_Whitepaper.727767db5411381be148.pdf
+ 
+  blog: https://ghostprivacy.medium.com/
+  twitter: https://x.com/Ghost_Privacy
+  discord: https://discord.com/invite/Pjbme6v
+  telegram: https://t.me/ghostcoinbymcafee
 team:
   anonymous: true
