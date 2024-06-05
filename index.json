@@ -1918,7 +1918,13 @@
       },
       "links": {
         "web": "https://ipfs.ghostbyjohnmcafee.com/#/",
-        "github": "https://github.com/ghost-coin"
+        "github": "https://github.com/ghost-coin",
+        "block_explorer": "https://explorer.myghost.org/",
+        "whitepaper": "https://ipfs.ghostbyjohnmcafee.com/static/media/Ghost_by_McAfee_Whitepaper.727767db5411381be148.pdf",
+        "blog": "https://ghostprivacy.medium.com/",
+        "twitter": "https://x.com/Ghost_Privacy",
+        "discord": "https://discord.com/invite/Pjbme6v",
+        "telegram": "https://t.me/ghostcoinbymcafee"
       },
       "team": {
         "anonymous": true
@@ -7340,7 +7346,9 @@
       "ecosystem": "no chain",
       "links": {
         "web": "https://mullvad.net/",
-        "github": "https://github.com/mullvad"
+        "github": "https://github.com/mullvad",
+        "blog": "https://mullvad.net/en/blog",
+        "twitter": "https://www.x.com/mullvadnet"
       },
       "team": {
         "anonymous": false,
@@ -7348,7 +7356,12 @@
           "link": "https://mullvad.net/en/about"
         }
       },
-      "have_token": true,
+      "project_status": {
+        "live_status": true,
+        "version": 2024.3,
+        "testnet": false,
+        "mainnet": false
+      },
       "logos": [
         {
           "file": "logo.png",
@@ -7550,14 +7563,22 @@
       "description": "A decentralized VPN Client utilizing the Sentinel Blockchain",
       "ecosystem": "multichain",
       "links": {
-        "web": "https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/",
-        "github": "https://github.com/MathNodes"
+        "web": "https://mathnodes.com/",
+        "github": "https://github.com/MathNodes",
+        "blog": "https://mathnodes.medium.com/",
+        "twitter": "https://x.com/MathNodes"
       },
       "team": {
         "anonymous": true
       },
       "have_token": true,
       "token_link": "https://coinmarketcap.com/currencies/sentinel/",
+      "project_status": {
+        "live_status": true,
+        "version": "v1.8.0",
+        "testnet": false,
+        "mainnet": true
+      },
       "logos": [
         {
           "file": "logo.png",
