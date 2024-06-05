@@ -4404,7 +4404,15 @@
       "ecosystem": "Alaya",
       "links": {
         "web": "https://www.platon.network/en",
-        "github": "https://github.com/PlatONnetwork"
+        "github": "https://github.com/PlatONnetwork",
+        "docs": "https://devdocs.platon.network/docs/en/",
+        "forum": "https://forum.latticex.foundation/",
+        "whitepaper": "https://www.platon.network/pdf/en/PlatON_A_High-Efficiency_Trustless_Computing_Network_Whitepaper_EN_2.pdf",
+        "blog": "https://medium.com/platon-network",
+        "twitter": "https://x.com/PlatON_Network",
+        "discord": "https://discord.com/invite/jAjFzJ3Cff",
+        "facebook": "https://www.facebook.com/PlatONNetwork/",
+        "telegram": "https://t.me/PlatONNetwork"
       },
       "team": {
         "anonymous": false,
@@ -9711,9 +9719,21 @@
         "storage"
       ],
       "description": "globally distributed network for data storage with better security, privacy, and durability with CDN-like performance",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://www.storj.io/",
-        "github": "https://github.com/Storj/"
+        "github": "https://github.com/Storj/",
+        "docs": "https://docs.storj.io/",
+        "blog": "https://www.storj.io/blog",
+        "twitter": "https://x.com/storj"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet v1.104.5",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -10256,7 +10276,14 @@
       "description": "Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed",
       "ecosystem": "multipurpose",
       "links": {
-        "web": "https://www.privasea.tech"
+        "web": "https://www.privasea.tech",
+        "github": "https://github.com/Privasea",
+        "docs": "https://docs.privasea.ai/",
+        "whitepaper": "https://drive.google.com/file/d/1jbxWMgEziupt119gvM1n0Mu8sDdM7VWF/view",
+        "blog": "https://www.privasea.ai/blog",
+        "twitter": "https://x.com/Privasea_ai",
+        "discord": "https://discord.com/invite/yRtQGvWkvG",
+        "telegram": "https://t.me/Privasea_ai"
       },
       "team": {
         "anonymous": false,
