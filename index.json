@@ -3959,7 +3959,13 @@
       ],
       "description": "DAO fostering R&D and investments within Lunarpunk movement",
       "links": {
-        "web": "https://lunardao.net"
+        "web": "https://lunardao.net",
+        "github": "https://github.com/lunardao",
+        "docs": "https://wiki.lunardao.net/",
+        "forum": "https://forum.lunardao.net/",
+        "blog": "https://lunardao.net/blog.html",
+        "twitter": "https://x.com/lunarpunksquad",
+        "telegram": "https://t.me/LunarDAO_Official"
       },
       "logos": [
         {
@@ -9292,9 +9298,20 @@
         "storage"
       ],
       "description": "A decentralized data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dApps",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://www.ethswarm.org",
-        "github": "https://github.com/ethersphere/swarm-cli"
+        "github": "https://github.com/ethersphere",
+        "blog": "https://blog.ethswarm.org/",
+        "docs": "https://docs.ethswarm.org/"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": true,
+        "mainnet": true
       },
       "logos": [
         {
