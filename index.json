@@ -163,7 +163,11 @@
       ],
       "description": "Web3 Social Ecosystem",
       "links": {
-        "web": "https://siriussync.io"
+        "web": "https://siriussync.io",
+        "docs": "https://docs.siriussync.io/wiki",
+        "blog": "https://medium.com/@siriussyncrealm",
+        "twitter": "https://x.com/siriussyncrealm",
+        "telegram": "https://t.me/siriussynccommunity"
       },
       "logos": [
         {
@@ -6425,7 +6429,11 @@
       ],
       "description": "Verify web2 Data in web3 Applications.",
       "links": {
-        "web": "https://silentdata.com"
+        "web": "https://silentdata.com",
+        "docs": "https://docs.silentdata.com/docs",
+        "blog": "https://www.silentdata.com/oracle/blog/",
+        "twitter": "https://x.com/SilentDataApp",
+        "discord": "https://discord.com/invite/5Dg57zStXG"
       },
       "logos": [
         {
