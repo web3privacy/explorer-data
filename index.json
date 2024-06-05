@@ -1878,7 +1878,13 @@
       "ecosystem": "Pirate",
       "links": {
         "web": "https://pirate.black",
-        "github": "https://github.com/PirateNetwork"
+        "github": "https://github.com/PirateNetwork",
+        "block_explorer": "https://explorer.piratechain.com/",
+        "whitepaper": "https://piratechain.com/whitepaper/",
+        "blog": "https://piratechain.com/blog/",
+        "twitter": "https://x.com/PirateChain",
+        "discord": "https://discord.com/invite/teHepr757z",
+        "telegram": "https://t.me/piratechain/"
       },
       "team": {
         "anonymous": true
@@ -3175,7 +3181,12 @@
       },
       "links": {
         "web": "https://particl.io/coin",
-        "github": "https://github.com/particl"
+        "github": "https://github.com/particl",
+        "block_explorer": "https://explorer.particl.io/",
+        "whitepaper": "https://raw.githubusercontent.com/particl/whitepaper/master/Particl%20Whitepaper%20Draft%20v0.3.pdf",
+        "blog": "https://particl.news/",
+        "twitter": "https://x.com/particlproject",
+        "telegram": "https://t.me/particltg"
       },
       "team": {
         "anonymous": false
@@ -11581,7 +11592,15 @@
       "ecosystem": "Pivx",
       "links": {
         "web": "https://pivx.org",
-        "github": "https://github.com/PIVX-Project/PIVX/"
+        "github": "https://github.com/PIVX-Project/PIVX/",
+        "block_explorer": "https://pivx.org/block-explorer",
+        "whitepaper": "https://pivx.org/whitepaper",
+        "forum": "https://forum.pivx.org/",
+        "blog": "https://pivx.org/news",
+        "twitter": "https://x.com/_PIVX",
+        "discord": "https://discord.com/invite/jzqVsJd",
+        "facebook": "https://www.facebook.com/PIVXCrypto/",
+        "telegram": "https://t.me/pivxchat"
       },
       "team": {
         "anonymous": false
