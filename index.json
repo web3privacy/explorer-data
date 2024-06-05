@@ -537,7 +537,12 @@
       "description": "Private transactions",
       "links": {
         "web": "https://zero.directory",
-        "github": "https://github.com/zerocurrencycoin"
+        "github": "https://github.com/zerocurrencycoin",
+        "block_explorer": "https://insight.zeromachine.io/insight/",
+        "blog": "https://zero.directory/news/",
+        "twitter": "https://x.com/ZeroCurrencies",
+        "discord": "https://discord.com/invite/Jq5knn5",
+        "telegram": "https://t.me/zerocurrency"
       },
       "team": {
         "anonymous": true
@@ -4427,9 +4432,19 @@
         "storage"
       ],
       "description": "On-chain people and communities deserve on-chain tools for private communication and collaboration",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://fileverse.io",
-        "github": "https://github.com/fileverse"
+        "github": "https://github.com/fileverse",
+        "twitter": "https://x.com/fileverse"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -5590,7 +5605,9 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://www.mysterium.network/mysteriumvpn",
-        "github": "https://github.com/mysteriumnetwork/node"
+        "github": "https://github.com/mysteriumnetwork/node",
+        "docs": "https://docs.mysterium.network/",
+        "blog": "https://www.mysterium.network/blog"
       },
       "team": {
         "anonymous": false,
