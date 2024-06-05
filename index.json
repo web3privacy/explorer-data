@@ -1063,7 +1063,8 @@
       ],
       "description": "A privacy system that enables DaaS and creates balance between business CRM and how individuals control & manage data",
       "links": {
-        "web": "https://spoc.com/"
+        "web": "https://spoc.com/",
+        "twitter": "https://x.com/SPOCme"
       },
       "logos": [
         {
@@ -1263,7 +1264,10 @@
       ],
       "ecosystem": "Ethereum",
       "links": {
-        "web": "https://ethberlin.ooo/contributors/"
+        "web": "https://ethberlin.ooo/contributors/",
+        "github": "https://github.com/ethb3rlin/4",
+        "blog": "https://blog.dod.ngo/",
+        "twitter": "https://x.com/ETHBerlin"
       },
       "logos": [
         {
@@ -1412,7 +1416,9 @@
       "ecosystem": "Ethereum",
       "links": {
         "web": "https://www.ethdam.com/hackathon",
-        "twitter": "https://twitter.com/CryptoCanal"
+        "twitter": "https://twitter.com/CryptoCanal",
+        "discord": "https://discord.com/invite/XJVjpCqQBz",
+        "telegram": "https://t.me/CryptoCanalCommunity"
       },
       "logos": [
         {
