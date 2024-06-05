@@ -6,8 +6,14 @@ ecosystem: no chain
 links:
   web: https://mullvad.net/
   github: https://github.com/mullvad
+  blog: https://mullvad.net/en/blog
+  twitter: https://www.x.com/mullvadnet
 team:
   anonymous: false
   company:
     link: https://mullvad.net/en/about
-have_token: true
+project_status:
+  live_status: true
+  version: 2024.3
+  testnet: false
+  mainnet: false
