@@ -4051,7 +4051,11 @@
       "description": "A protocol enabling usable on-chain privacy",
       "links": {
         "web": "https://nocturnelabs.xyz",
-        "github": "https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager"
+        "github": "https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager",
+        "docs": "https://nocturne-xyz.gitbook.io/nocturne",
+        "blog": "https://mirror.xyz/nocturnelabs.eth",
+        "twitter": "https://x.com/nocturne_xyz",
+        "discord": "https://discord.com/invite/MxZYtzzFmJ"
       },
       "logos": [
         {
@@ -4146,7 +4150,8 @@
       ],
       "description": "Create, Sign, and Save eSignatures with smart contracts and permissioned NFTs.",
       "links": {
-        "web": "https://www.oksign.app"
+        "web": "https://www.oksign.app",
+        "twitter": "https://x.com/okSign_"
       },
       "logos": [
         {
