@@ -11,5 +11,11 @@ project_status:
 links:
   web: https://oxen.io
   github: https://github.com/oxen-io
+  block_explorer: https://oxen.observer/
+  docs: https://docs.oxen.io/oxen-docs
+
+  blog: https://oxen.io/blog/1
+  twitter: https://x.com/Oxen_io
+  telegram: https://t.me/Oxen_Community
 team:
   anonymous: true
