@@ -2837,7 +2837,8 @@
       ],
       "links": {
         "web": "https://last-shot.hcpp.cz/",
-        "twitter": "https://twitter.com/institutecrypto"
+        "twitter": "https://twitter.com/institutecrypto",
+        "telegram": "https://t.me/HCCP20"
       },
       "logos": [
         {
@@ -6540,7 +6541,13 @@
       },
       "links": {
         "web": "https://www.beldex.io/",
-        "github": "https://github.com/Beldex-Coin"
+        "github": "https://github.com/Beldex-Coin",
+        "docs": "https://docs.beldex.io/",
+        "blog": "https://beldex.io/blog/",
+        "twitter": "https://x.com/BeldexCoin",
+        "discord": "https://discord.com/invite/Hj4MAmA5gs",
+        "facebook": "https://www.facebook.com/beldexofficial",
+        "telegram": "https://t.me/official_beldex"
       },
       "team": {
         "anonymous": false
@@ -6717,7 +6724,8 @@
       "ecosystem": "Ethereum",
       "links": {
         "web": "https://ethrome.org/",
-        "twitter": "https://twitter.com/ethereumrome"
+        "twitter": "https://x.com/ETHRome",
+        "discord": "https://discord.com/invite/tr8KMmC2aF"
       },
       "logos": [
         {
