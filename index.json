@@ -3452,8 +3452,20 @@
         "storage"
       ],
       "description": "Your private cloud",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://lp.zus.network/vult"
+        "web": "https://vult.network/",
+        "github": "https://github.com/0chain",
+        "docs": "https://docs.zus.network/",
+        "whitepaper": "https://zus.network/whitepapers/"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v1.14.10",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -8110,7 +8122,14 @@
       },
       "links": {
         "web": "https://www.colossusxt.io",
-        "github": "https://github.com/ColossusCoinXT"
+        "github": "https://github.com/ColossusCoinXT",
+        "block_explorer": "https://chainz.cryptoid.info/colx/",
+        "whitepaper": "https://www.colossusxt.io/whitepaper/",
+        "forum": "https://forum.colossusxt.io/",
+        "blog": "https://colossusxt.medium.com/",
+        "twitter": "https://x.com/ColossusCoinXT",
+        "discord": "https://discord.com/invite/pRbDzPd",
+        "telegram": "https://t.me/colossuscoin"
       },
       "team": {
         "anonymous": false
@@ -9200,9 +9219,19 @@
         "storage"
       ],
       "description": "Private and decentralized cloud storage",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://vup.app",
-        "github": "https://github.com/redsolver/vup"
+        "github": "https://github.com/vup-app",
+        "docs": "https://docs.vup.app/"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v0.15.0 BETA",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
