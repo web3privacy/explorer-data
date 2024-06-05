@@ -6,6 +6,8 @@ ecosystem: multichain
 links:
   web: https://www.mysterium.network/mysteriumvpn
   github: https://github.com/mysteriumnetwork/node
+  docs: https://docs.mysterium.network/
+  blog: https://www.mysterium.network/blog
 team:
   anonymous: false
   company:
