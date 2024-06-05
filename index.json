@@ -1802,8 +1802,13 @@
       "description": "A plug-and-play hardware device that connects users to many different kinds of blockchains",
       "ecosystem": "multichain",
       "links": {
-        "web": "https://www.mysterium.network/avado",
-        "github": "https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server"
+        "web": "https://ava.do/",
+        "github": "https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server",
+        "docs": "https://docs.ava.do/",
+        "blog": "https://ava.do/blog/",
+        "twitter": "https://x.com/AvadoAg",
+        "discord": "https://discord.com/invite/RpMaFjTjyw",
+        "facebook": "https://www.facebook.com/avadocloud"
       },
       "team": {
         "anonymous": false,
