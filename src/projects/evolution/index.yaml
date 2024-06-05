@@ -11,5 +11,13 @@ project_status:
 links:
   web: https://evolution-network.org
   github: https://github.com/evolution-project
+  block_explorer: https://chain.evolution-network.org/
+  docs: https://docs.evolution-network.org/
+  
+  blog: https://evolutionproject.medium.com/
+  twitter: https://x.com/evox_project
+  discord: https://discord.com/invite/erYnAQf
+  telegram: https://t.me/EvoxNetwork
+
 team:
   anonymous: true
