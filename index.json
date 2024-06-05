@@ -7577,7 +7577,8 @@
       "description": "a privacy first mobile service for everyone",
       "ecosystem": "multichain",
       "links": {
-        "web": "https://axiatel.co"
+        "web": "https://axiatel.co",
+        "blog": "https://medium.com/@axiatel"
       },
       "team": {
         "anonymous": true
@@ -9054,7 +9055,12 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://dappnode.io/",
-        "github": "https://github.com/dappnode"
+        "github": "https://github.com/dappnode",
+        "docs": "https://docs.dappnode.io/",
+        "forum": "https://discourse.dappnode.io/",
+        "blog": "https://medium.com/dappnode",
+        "twitter": "https://x.com/DAppNode",
+        "discord": "https://discord.com/invite/dappnode"
       },
       "team": {
         "anonymous": false,
