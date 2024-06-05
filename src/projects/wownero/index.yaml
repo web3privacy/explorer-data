@@ -20,9 +20,13 @@ links:
   web: https://wownero.org
   github: https://git.wownero.com/wownero/wownero
   bloc_explorer: https://muchwow.lol
-  twitter: https://twitter.com/W0wn3r0
+  docs: https://wownerodocs.org/
   forum: https://forum.wownero.com
+  whitepapper: https://wownero.org/whitepaper.pdf
+  
+  twitter: https://twitter.com/W0wn3r0
   discord: https://discord.gg/ykZyAzJhDK
+  telegram: https://t.me/wownero
 team:
   anonymous: true
 licences: MIT License
