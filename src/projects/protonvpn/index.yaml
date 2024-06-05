@@ -6,8 +6,14 @@ ecosystem: no chain
 links:
   web: https://protonvpn.com/
   github: https://github.com/ProtonVPN
+  blog: https://protonvpn.com/blog
 team:
   anonymous: false
   company:
     link: https://protonvpn.com/about
-have_token: true
+have_token: false
+project_status:
+  live_status: true
+  version: stable
+  testnet: false
+  mainnet: false
