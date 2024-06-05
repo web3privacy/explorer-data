@@ -11,5 +11,10 @@ project_status:
 links:
   web: https://www.getmonero.org
   github: https://github.com/monero-ecosystem
+
+  blog: https://www.getmonero.org/blog/
+  twitter: https://x.com/monero
+  facebook: https://www.facebook.com/monerocurrency/
+  telegram: https://t.me/monero
 team:
   anonymous: true
