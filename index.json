@@ -2395,9 +2395,12 @@
         "web": "https://wownero.org",
         "github": "https://git.wownero.com/wownero/wownero",
         "bloc_explorer": "https://muchwow.lol",
-        "twitter": "https://twitter.com/W0wn3r0",
+        "docs": "https://wownerodocs.org/",
         "forum": "https://forum.wownero.com",
-        "discord": "https://discord.gg/ykZyAzJhDK"
+        "whitepapper": "https://wownero.org/whitepaper.pdf",
+        "twitter": "https://twitter.com/W0wn3r0",
+        "discord": "https://discord.gg/ykZyAzJhDK",
+        "telegram": "https://t.me/wownero"
       },
       "team": {
         "anonymous": true
@@ -7821,7 +7824,8 @@
       "ecosystem": "Secret Network",
       "links": {
         "web": "https://app.shadeprotocol.io/silk",
-        "github": "https://github.com/securesecrets/shade"
+        "github": "https://github.com/securesecrets/shade",
+        "twitter": "https://x.com/Silk_Stable"
       },
       "default_privacy": true,
       "project_status": {
