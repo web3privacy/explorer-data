@@ -8244,6 +8244,7 @@
       },
       "have_token": true,
       "token_link": "https://coinmarketcap.com/currencies/boring-protocol/",
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
@@ -9441,9 +9442,22 @@
         "storage"
       ],
       "description": "A high-performance storage network powering limitless applications",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://zus.network",
-        "github": "https://github.com/0chain"
+        "github": "https://github.com/0chain",
+        "blog": "https://zus.network/blog/",
+        "whitepaper": "https://zus.network/whitepapers/",
+        "docs": "https://docs.zus.network/",
+        "twitter": "https://twitter.com/zus_network"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
