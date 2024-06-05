@@ -184,9 +184,27 @@
         "storage"
       ],
       "description": "Decentralized data storage",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Nate",
+            "role": "President",
+            "link": "https://twitter.com/n8maninger"
+          }
+        ]
+      },
       "links": {
         "web": "https://sia.tech",
-        "github": "https://github.com/SiaFoundation"
+        "github": "https://github.com/SiaFoundation",
+        "docs": "https://docs.sia.tech/",
+        "whitepaper": "https://sia.tech/sia.pdf"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": true,
+        "mainnet": true
       },
       "logos": [
         {
@@ -4846,7 +4864,11 @@
       "links": {
         "web": "https://findora.org",
         "github": "https://github.com/findoranetwork",
-        "twitter": "https://twitter.com/Findora"
+        "docs": "https://docs.findora.org/",
+        "twitter": "https://twitter.com/Findora",
+        "discord": "https://discord.com/invite/findora",
+        "facebook": "https://www.facebook.com/findoraOfficial/",
+        "telegram": "https://t.me/findoraen"
       },
       "have_token": true,
       "tokens": [
