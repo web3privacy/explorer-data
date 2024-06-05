@@ -2159,7 +2159,13 @@
       "description": "Best in class privacy coin and confidential DeFi platform",
       "links": {
         "web": "https://beam.mw",
-        "github": "https://github.com/BeamMW/beam"
+        "github": "https://github.com/BeamMW/beam",
+        "docs": "https://beam.mw/docs",
+        "forum": "https://forum.beam.mw/",
+        "blog": "https://medium.com/beam-mw",
+        "twitter": "https://x.com/beamprivacy",
+        "discord": "https://discord.com/invite/BHZvAhg",
+        "telegram": "https://t.me/BeamPrivacy"
       },
       "ecosystem": "Beam",
       "project_status": "Mainnet",
@@ -5177,7 +5183,11 @@
       "description": "Making Crypto and DeFi accessible and usable for everyone (powered by Brave)",
       "ecosystem": "Solana",
       "links": {
-        "web": "https://basicattentiontoken.org"
+        "web": "https://basicattentiontoken.org",
+        "whitepaper": "https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf",
+        "blog": "https://basicattentiontoken.org/blog/",
+        "twitter": "https://x.com/attentiontoken",
+        "discord": "https://discord.com/invite/BATBrigade"
       },
       "team": {
         "anonymous": false
