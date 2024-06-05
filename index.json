@@ -1489,7 +1489,11 @@
       ],
       "description": "Decentralized password management. Real-time identity monitoring.",
       "links": {
-        "web": "https://www.gofyeo.com/fyeo-identity"
+        "web": "https://www.gofyeo.com/fyeo-identity",
+        "blog": "https://www.fyeo.io/blog",
+        "twitter": "https://x.com/gofyeo",
+        "discord": "https://discord.com/invite/tBcAkFPb5r",
+        "telegram": "https://t.me/fyeo_security"
       },
       "logos": [
         {
@@ -1810,7 +1814,12 @@
       "description": "Simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps",
       "links": {
         "web": "https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind",
-        "github": "https://juno.build/docs/build/analytics#getting-started"
+        "github": "https://github.com/junobuild/juno",
+        "docs": "https://juno.build/docs/intro",
+        "changelog": "https://juno.build/changelog",
+        "blog": "https://juno.build/blog",
+        "twitter": "https://x.com/junobuild",
+        "discord": "https://discord.com/invite/wHZ57Z2RAG"
       },
       "logos": [
         {
