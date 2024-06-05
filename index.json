@@ -1512,6 +1512,7 @@
         "web": "https://skynetlabs.com",
         "github": "https://github.com/SkynetLabs"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
@@ -10780,7 +10781,11 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://www.nillion.com",
-        "docs": "https://docsend.com/view/7bkgvzagr6ifhwrc"
+        "github": "https://github.com/NillionNetwork",
+        "docs": "https://docs.nillion.com/",
+        "twitter": "https://x.com/nillionnetwork",
+        "discord": "https://discord.com/invite/nillionnetwork",
+        "telegram": "https://t.me/nillionnetwork"
       },
       "team": {
         "anonymous": false,
