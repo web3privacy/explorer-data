@@ -11,5 +11,11 @@ project_status:
 links:
   web: https://particl.io/coin
   github: https://github.com/particl
+  block_explorer: https://explorer.particl.io/
+  whitepaper: https://raw.githubusercontent.com/particl/whitepaper/master/Particl%20Whitepaper%20Draft%20v0.3.pdf
+ 
+  blog: https://particl.news/
+  twitter: https://x.com/particlproject
+  telegram: https://t.me/particltg
 team:
   anonymous: false
