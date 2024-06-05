@@ -3217,7 +3217,10 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://www.orchid.com",
-        "github": "https://github.com/OrchidTechnologies"
+        "github": "https://github.com/OrchidTechnologies",
+        "whitepaper": "https://www.orchid.com/whitepaper/english.pdf",
+        "docs": "https://docs.orchid.com/en/latest/",
+        "blog": "https://blog.orchid.com/"
       },
       "team": {
         "anonymous": false,
@@ -10736,13 +10739,22 @@
       "ecosystem": "Cosmos",
       "links": {
         "web": "https://sentinel.co",
-        "github": "https://github.com/sentinel-official"
+        "github": "https://github.com/sentinel-official",
+        "whitepaper": "https://docs.sentinel.co/getting-started/whitepaper",
+        "docs": "https://docs.sentinel.co/",
+        "twitter": "https://twitter.com/SentinelDVPN"
       },
       "team": {
         "anonymous": true
       },
       "have_token": true,
       "token_link": "https://coinmarketcap.com/currencies/sentinel/",
+      "project_status": {
+        "live_status": true,
+        "version": "stable",
+        "testnet": false,
+        "mainnet": false
+      },
       "logos": [
         {
           "file": "logo.png",
@@ -11580,7 +11592,8 @@
       "ecosystem": "no chain",
       "links": {
         "web": "https://protonvpn.com/",
-        "github": "https://github.com/ProtonVPN"
+        "github": "https://github.com/ProtonVPN",
+        "blog": "https://protonvpn.com/blog"
       },
       "team": {
         "anonymous": false,
@@ -11588,7 +11601,13 @@
           "link": "https://protonvpn.com/about"
         }
       },
-      "have_token": true,
+      "have_token": false,
+      "project_status": {
+        "live_status": true,
+        "version": "stable",
+        "testnet": false,
+        "mainnet": false
+      },
       "logos": [
         {
           "file": "logo.png",
