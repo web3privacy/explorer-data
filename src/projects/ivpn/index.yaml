@@ -6,8 +6,9 @@ ecosystem: no chain
 links:
   web: https://www.ivpn.net/
   github: https://github.com/ivpn
+  blog: https://www.ivpn.net/blog/
+  twitter: https://x.com/ivpnnet
 team:
   anonymous: false
   company:
     link: https://www.ivpn.net/team/
-have_token: true
