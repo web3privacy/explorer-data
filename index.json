@@ -2297,8 +2297,22 @@
         "storage"
       ],
       "description": "A decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://www.oortech.com"
+        "web": "https://www.oortech.com",
+        "github": "https://github.com/oort-tech",
+        "whitepaper": "https://oort-website.standard.us-east-1.oortech.com/OORT_light_paper-122923.pdf",
+        "docs": "https://docs.oortech.com/oort",
+        "blog": "https://www.oortech.com/blogs",
+        "twitter": "https://twitter.com/oortech"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "logos": [
         {
@@ -7001,7 +7015,10 @@
       "project_status": "Mainnet, 2022",
       "links": {
         "web": "https://alaya.network/en",
-        "github": "https://github.com/AlayaNetwork"
+        "github": "https://github.com/AlayaNetwork",
+        "forum": "https://forum.latticex.foundation/c/alaya-cn/36",
+        "docs": "https://devdocs.alaya.network/alaya-devdocs/en/",
+        "blog": "https://medium.com/platon-network/manual-alaya-network-0-16-2-spirit-version-upgrade-operation-manual-643d92c4971e"
       },
       "team": {
         "anonymous": true
