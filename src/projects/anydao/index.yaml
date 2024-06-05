@@ -2,5 +2,8 @@ name: AnyDAO
 categories: [ dao ]
 description: 'Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting'
 links:
-  web: https://www.anydao.app
-  docs: https://docs.ata.network/anydao/introduction/
+  web: https://app.anydao.io/bsc/explore
+  docs: https://docs.anydao.io/
+  blog: https://anydao.medium.com/
+  twitter: https://x.com/0xAnyDAO
+  telegram: https://t.me/AnyDAO
