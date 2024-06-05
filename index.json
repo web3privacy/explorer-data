@@ -236,7 +236,13 @@
       },
       "links": {
         "web": "https://zano.org",
-        "github": "https://github.com/hyle-team/zano"
+        "github": "https://github.com/hyle-team/zano",
+        "block_explorer": "https://explorer.zano.org/",
+        "docs": "https://docs.zano.org/",
+        "blog": "https://blog.zano.org/",
+        "twitter": "https://x.com/zano_project",
+        "discord": "https://discord.com/invite/wE3rmYY",
+        "telegram": "https://t.me/zanocoin"
       },
       "team": {
         "anonymous": false
@@ -2720,7 +2726,10 @@
       "project_status": "Mainnet",
       "links": {
         "web": "https://xcash.foundation",
-        "github": "https://github.com/X-CASH-official"
+        "github": "https://github.com/X-CASH-official",
+        "blog": "https://medium.com/x-cash",
+        "twitter": "https://x.com/XCashCrypto",
+        "discord": "https://discord.com/invite/4CAahnd"
       },
       "team": {
         "anonymous": false
