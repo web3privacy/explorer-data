@@ -2,6 +2,16 @@ name: Storj
 categories:
   - storage
 description: 'globally distributed network for data storage with better security, privacy, and durability with CDN-like performance'
+team:
+  anonymous: true
 links:  
   web: https://www.storj.io/
   github: https://github.com/Storj/
+  docs: https://docs.storj.io/
+  blog: https://www.storj.io/blog
+  twitter: https://x.com/storj
+project_status:
+  live_status: true
+  version: Mainnet v1.104.5
+  testnet: false
+  mainnet: true  
