@@ -7,3 +7,12 @@ links:
   github: https://github.com/brave/brave-wallet-docs
 team:
   anonymous: false
+  teammembers:
+    - name: Brendan Eich
+      role: CEO
+      link: https://brave.com/about/
+project_status:
+  live_status: true
+  version: 
+  testnet: false
+  mainnet: false
