@@ -4,4 +4,10 @@ description: 'A social identity network that allows you to prove that you’re o
 links:
   web: https://www.brightid.org
   github: https://github.com/BrightID
+  whitepaper: https://www.brightid.org/whitepaper
+  forum: https://forum.brightid.org/
+
+  blog: https://brightid.mirror.xyz/
+  twitter: https://x.com/BrightIDProject
+  discord: https://discord.com/invite/brightid-596752664906432522
 have_token: true
