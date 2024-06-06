@@ -1225,7 +1225,10 @@
       ],
       "description": "A decentralized social network.",
       "links": {
-        "web": "https://wiremin.org/#/"
+        "web": "https://wiremin.org/#/",
+        "blog": "https://wiremin.org/#/blog",
+        "twitter": "https://x.com/WireMin",
+        "facebook": "https://www.facebook.com/WireMinApp/"
       },
       "logos": [
         {
@@ -6955,9 +6958,20 @@
       "categories": [
         "wallets"
       ],
-      "description": "Self-custodial wallet",
+      "description": "Self-custodial wallet built on eco.org",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://beam.eco/"
+        "web": "https://beam.eco/",
+        "twitter": "https://x.com/beam_eco",
+        "github": "https://github.com/eco-association"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": null,
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
