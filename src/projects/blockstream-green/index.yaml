@@ -1,9 +1,20 @@
 name: Blockstream Green
 categories: [ wallets ]
-description: 'A multi-platform, feature-rich Bitcoin and Liquid wallet'
+description: 'A multi-platform, feature-rich Bitcoin and Liquid wallet by Blockstream'
 ecosystem: Bitcoin
 links:
   web: https://blockstream.com/green/
-  github: https://github.com/Blockstream/green_android
+  github: https://github.com/Blockstream/green_qt
+  docs: https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green/
+  twitter: https://x.com/Blockstream
 team:
-  anonymous: true
+  anonymous: false
+  teammembers:
+    - name: Dr. Adam Back
+      role: CEO
+      link: https://blockstream.com/about/
+project_status:
+  live_status: true
+  version: 2.0.6
+  testnet: false
+  mainnet: false
