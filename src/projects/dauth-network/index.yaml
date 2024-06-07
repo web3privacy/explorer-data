@@ -5,4 +5,9 @@ description: 'a decentralized authentication network empowering wallets and dApp
 links:
   web: https://www.dauth.network
   github: https://github.com/DAuth-Network
+  docs: https://openid3.gitbook.io/openid3-docs
+
+  blog: https://dauthnetwork.medium.com/
+  twitter: https://x.com/DauthNetwork
+  discord: https://discord.com/invite/ZJZjAAej2q
 have_token: true
