@@ -7857,8 +7857,27 @@
         "wallets"
       ],
       "description": "Non-custodial wallet",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Michael Ou",
+            "role": "CEO",
+            "link": "https://coolbitx.com/about/"
+          }
+        ]
+      },
       "links": {
-        "web": "https://www.coolwallet.io/"
+        "web": "https://www.coolwallet.io/",
+        "blog": "https://www.coolwallet.io/blog/",
+        "docs": "https://help.coolwallet.io/en/support/solutions",
+        "twitter": "https://twitter.com/coolwallet"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": null,
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
@@ -10429,10 +10448,20 @@
       },
       "links": {
         "web": "https://edge.app/",
-        "github": "https://github.com/EdgeApp"
+        "github": "https://github.com/EdgeApp",
+        "whitepaper": "https://edge.app/wp-content/uploads/2019/01/Edge-White-Paper-01-22-2019.pdf?af=edge-app-wp-admin-post-php&af=edge-app",
+        "docs": "https://edge.app/blog/?af=edge-app",
+        "twitter": "https://twitter.com/EdgeWallet"
       },
       "team": {
-        "anonymous": false
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Paul Puey",
+            "role": "CEO",
+            "link": "https://edge.app/about/"
+          }
+        ]
       },
       "logos": [
         {
