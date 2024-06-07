@@ -3228,10 +3228,20 @@
       "description": "Billions of people are unable to hold bitcoin on or off exchanges",
       "ecosystem": "Bitcoin",
       "links": {
-        "web": "https://www.fedi.xyz/"
+        "web": "https://www.fedi.xyz/",
+        "github": "https://github.com/fedibtc",
+        "docs": "https://fedibtc.github.io/fedi-docs/",
+        "blog": "https://www.fedi.xyz/blog",
+        "twitter": "https://twitter.com/fedibtc"
       },
       "team": {
-        "anonymous": false
+        "anonymous": true
+      },
+      "project_status": {
+        "live_status": true,
+        "version": null,
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
@@ -5790,8 +5800,18 @@
         "wallets"
       ],
       "description": "Android and IOS Wallet that respects your privacy",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://elitewallet.sc/"
+        "web": "https://elitewallet.sc/",
+        "github": "https://github.com/Elite-Labs/EliteWallet"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "1.3.1",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
