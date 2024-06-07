@@ -1140,7 +1140,12 @@
       "description": "an advanced identity management solution that protects users’ personal data and ensures privacy on the internet.",
       "links": {
         "web": "https://web3id.aesirx.io",
-        "github": "https://github.com/aesirxio"
+        "github": "https://github.com/aesirxio",
+        "whitepaper": "https://whitepaper.aesirx.io/",
+        "blog": "https://aesirx.io/blog/aesirx",
+        "twitter": "https://x.com/aesirxio",
+        "facebook": "https://www.facebook.com/aesirxio",
+        "telegram": "https://t.me/aesirx_official_community"
       },
       "have_token": true,
       "logos": [
@@ -1559,7 +1564,12 @@
       "description": "Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P",
       "links": {
         "web": "https://anagolay.network",
-        "github": "https://github.com/anagolay"
+        "github": "https://github.com/anagolay",
+        "docs": "https://anagolay.dev/docs/",
+        "whitepaper": "https://kelp.notion.site/Anagolay-White-Paper-v_0-3-fd9ca46a2f524e83b46ed8a0242d618d",
+        "blog": "https://anagolay.dev/blog/",
+        "twitter": "https://x.com/AnagolayNet",
+        "discord": "https://discord.com/invite/WHe4EuY"
       },
       "have_token": true,
       "logos": [
@@ -5999,7 +6009,20 @@
         "github": "https://github.com/brave/brave-wallet-docs"
       },
       "team": {
-        "anonymous": false
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Brendan Eich",
+            "role": "CEO",
+            "link": "https://brave.com/about/"
+          }
+        ]
+      },
+      "project_status": {
+        "live_status": true,
+        "version": null,
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
