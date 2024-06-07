@@ -11,5 +11,12 @@ project_status:
 links:
   web: https://edge.app/
   github: https://github.com/EdgeApp
+  whitepaper: https://edge.app/wp-content/uploads/2019/01/Edge-White-Paper-01-22-2019.pdf?af=edge-app-wp-admin-post-php&af=edge-app
+  docs: https://edge.app/blog/?af=edge-app
+  twitter: https://twitter.com/EdgeWallet
 team:
   anonymous: false
+  teammembers:
+    - name: Paul Puey
+      role: CEO
+      link: https://edge.app/about/
