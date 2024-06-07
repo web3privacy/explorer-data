@@ -5,7 +5,15 @@ ecosystem: Ethereum
 description: 'A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux.'
 links:
   web: https://frame.sh/
+  docs: https://docs.frame.sh/
+  blog: https://blog.frame.sh/
   discord: https://discord.com/invite/rr4Yr3JkPq
   github: https://github.com/floating/frame
+  twitter: https://x.com/0xFrame
 team:
-  anonymous: false
+  anonymous: true
+project_status:
+  live_status: true
+  version: 0.6.9
+  testnet: false
+  mainnet: false
