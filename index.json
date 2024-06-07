@@ -2372,7 +2372,12 @@
       ],
       "description": "Web3Social Media focused on privacy.",
       "links": {
-        "web": "https://sociogram.org"
+        "web": "https://sociogram.org",
+        "docs": "https://socio.gitbook.io/sociogram.org",
+        "blog": "https://sociogram.medium.com/",
+        "twitter": "https://x.com/SociogramSocFi",
+        "discord": "https://discord.com/invite/kufW7ZfjeD",
+        "telegram": "https://t.me/sociogram_channel"
       },
       "logos": [
         {
@@ -7642,14 +7647,22 @@
       "categories": [
         "wallets"
       ],
-      "description": "The first crypto wallet protecting you on Web3 without any compromises",
+      "description": "BlockWallet is the epitome of speed, reliability, security, and privacy in the world of digital assets. As a self-custodial Web3 wallet, it empowers you to truly own your digital currencies while eliminating concerns surrounding asset management.",
       "ecosystem": "Ethereum",
       "links": {
-        "web": "https://chrome.google.com/webstore/detail/blockwallet/bopcbmipnjdcdfflfgjdgdjejmgpoaab",
-        "github": "https://github.com/block-wallet"
+        "web": "https://blockwallet.io/",
+        "github": "https://github.com/block-wallet",
+        "docs": "https://blockwallet.io/docs",
+        "blog": "https://blockwallet.io/blog"
       },
       "team": {
         "anonymous": false
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v.1.2.9",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
