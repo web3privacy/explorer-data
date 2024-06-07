@@ -1175,11 +1175,18 @@
       "categories": [
         "wallets"
       ],
-      "description": "Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies",
+      "description": "Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV and exchange other currencies",
       "ecosystem": "Monero",
       "links": {
         "web": "https://monero.com/wallets",
-        "github": "https://github.com/cake-tech/cake_wallet"
+        "github": "https://github.com/cake-tech/cake_wallet",
+        "docs": "https://guides.cakewallet.com/"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": null,
+        "testnet": false,
+        "mainnet": false
       },
       "team": {
         "anonymous": true
@@ -3927,7 +3934,12 @@
       "description": "A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity",
       "links": {
         "web": "https://www.brightid.org",
-        "github": "https://github.com/BrightID"
+        "github": "https://github.com/BrightID",
+        "whitepaper": "https://www.brightid.org/whitepaper",
+        "forum": "https://forum.brightid.org/",
+        "blog": "https://brightid.mirror.xyz/",
+        "twitter": "https://x.com/BrightIDProject",
+        "discord": "https://discord.com/invite/brightid-596752664906432522"
       },
       "have_token": true,
       "logos": [
@@ -8821,7 +8833,9 @@
       "description": "Anonybit revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics)",
       "ecosystem": "multichain",
       "links": {
-        "web": "https://www.anonybit.io/team/"
+        "web": "https://www.anonybit.io/team/",
+        "blog": "https://www.anonybit.io/blog/",
+        "twitter": "https://x.com/Anonybit1"
       },
       "have_token": true,
       "logos": [
