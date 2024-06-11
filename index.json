@@ -2653,7 +2653,11 @@
       "description": "a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy",
       "links": {
         "web": "https://www.dauth.network",
-        "github": "https://github.com/DAuth-Network"
+        "github": "https://github.com/DAuth-Network",
+        "docs": "https://openid3.gitbook.io/openid3-docs",
+        "blog": "https://dauthnetwork.medium.com/",
+        "twitter": "https://x.com/DauthNetwork",
+        "discord": "https://discord.com/invite/ZJZjAAej2q"
       },
       "have_token": true,
       "logos": [
@@ -12288,7 +12292,12 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://dmail.ai",
-        "github": "https://github.com/dmailofficial/dmail"
+        "github": "https://github.com/dmailofficial/dmail",
+        "docs": "https://dmailnetwork.gitbook.io/dmail-network",
+        "blog": "https://blog.dmail.ai/",
+        "twitter": "https://x.com/dmailofficial?ref=blog.dmail.ai",
+        "discord": "https://discord.com/invite/RyYNmdqjF9?ref=blog.dmail.ai",
+        "telegram": "https://t.me/dmailofficial"
       },
       "have_token": true,
       "logos": [
