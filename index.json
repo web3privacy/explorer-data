@@ -10291,7 +10291,13 @@
       "description": "the ultimate stack for identity management",
       "links": {
         "web": "https://hypersign.id",
-        "github": "https://github.com/hypersign-protocol"
+        "github": "https://github.com/hypersign-protocol",
+        "block_explorer": "https://explorer.hypersign.id/hypersign-prajna-testnet",
+        "docs": "https://docs.hypersign.id/",
+        "blog": "https://medium.com/@blog.hypersign",
+        "twitter": "https://x.com/hypersignchain",
+        "discord": "https://discord.com/invite/MMnhBYjF4N",
+        "telegram": "https://t.me/hypersignchain"
       },
       "have_token": true,
       "logos": [
