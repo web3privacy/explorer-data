@@ -1720,7 +1720,15 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://verus.io/verusid",
-        "github": "https://github.com/VerusCoin"
+        "github": "https://github.com/VerusCoin",
+        "docs": "https://docs.verus.io/",
+        "block_explorer": "https://insight.verus.io/",
+        "whitepaper": "https://verus.io/papers",
+        "blog": "https://medium.com/veruscoin",
+        "twitter": "https://x.com/veruscoin",
+        "discord": "https://discord.com/invite/wV8w8cWPCf",
+        "facebook": "https://www.facebook.com/VerusCoin",
+        "telegram": "https://t.me/veruscommunity"
       },
       "team": {
         "company": {
@@ -2600,7 +2608,12 @@
       "description": "a private and non-repudiable reputation system",
       "links": {
         "web": "https://developer.unirep.io",
-        "github": "https://github.com/unirep"
+        "github": "https://github.com/unirep",
+        "docs": "https://developer.unirep.io/docs/welcome",
+        "block_explorer": "https://explorer.unirep.io/",
+        "blog": "https://developer.unirep.io/blog",
+        "twitter": "https://x.com/UniRep_protocol",
+        "discord": "https://discord.com/invite/VzMMDJmYc5"
       },
       "have_token": true,
       "logos": [
@@ -3382,7 +3395,11 @@
       "description": "open-source stack to leave control of identity and data where it should be: with users",
       "links": {
         "web": "https://spruceid.com",
-        "github": "https://github.com/spruceid"
+        "github": "https://github.com/spruceid",
+        "docs": "https://www.spruceid.dev/",
+        "blog": "https://blog.spruceid.com/",
+        "twitter": "https://x.com/SpruceID",
+        "discord": "https://discord.com/invite/KmQeRhQPYh"
       },
       "have_token": true,
       "logos": [
