@@ -3420,10 +3420,18 @@
       "ecosystem": "Bitcoin",
       "links": {
         "web": "https://selfcustody.github.io/krux/",
-        "github": "https://github.com/selfcustody/krux"
+        "github": "https://github.com/selfcustody/krux",
+        "docs": "https://selfcustody.github.io/krux/getting-started/",
+        "twitter": "https://twitter.com/selfcustodykrux"
       },
       "team": {
         "anonymous": true
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "24.03.0",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
@@ -10988,10 +10996,25 @@
       "ecosystem": "Aleo",
       "links": {
         "web": "https://leo.app/",
-        "github": "https://docs.leo.app/aleo-wallet-adapter/"
+        "github": "https://github.com/demox-labs",
+        "docs": "https://docs.leo.app/",
+        "blog": "https://www.leo.app/blog",
+        "twitter": "https://x.com/theLeoWallet"
       },
       "team": {
-        "anonymous": true
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Barron Caster",
+            "role": "CEO",
+            "link": "https://www.leo.app/about"
+          }
+        ],
+        "project_status": null,
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
