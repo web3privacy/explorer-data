@@ -3688,7 +3688,19 @@
       ],
       "description": "Non-custodial wallet on Lightning network",
       "links": {
-        "web": "https://phoenix.acinq.co"
+        "web": "https://phoenix.acinq.co",
+        "github": "https://github.com/ACINQ/phoenix",
+        "twitter": "https://twitter.com/PhoenixWallet",
+        "blog": "https://acinq.co/blog"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v.2.2.2",
+        "testnet": false,
+        "mainnet": false
+      },
+      "team": {
+        "anonymous": true
       },
       "logos": [
         {
@@ -5379,10 +5391,17 @@
       "ecosystem": "Zcash",
       "links": {
         "web": "https://nighthawkwallet.com/",
-        "github": "https://github.com/nighthawk-apps"
+        "github": "https://github.com/nighthawk-apps",
+        "twitter": "https://twitter.com/NighthawkWallet"
       },
       "team": {
         "anonymous": true
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v2.2.14",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
@@ -10427,7 +10446,22 @@
       ],
       "description": "Android wallet for Moneto",
       "links": {
-        "web": "https://www.monerujo.io"
+        "web": "https://www.monerujo.io",
+        "github": "https://github.com/m2049r/xmrwallet",
+        "whitepaper": "https://www.monerujo.io/resources/crazy_secure_passphrase.pdf",
+        "docs": "https://www.monerujo.io/resources/monerujo_manual.html"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v3.3.11",
+        "testnet": false,
+        "mainnet": false
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": {
+          "link": "https://www.monerujo.io/team.html"
+        }
       },
       "logos": [
         {
