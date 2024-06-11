@@ -7238,10 +7238,18 @@
       "description": "DeFi privacy wallet",
       "ecosystem": "Ethereum, BNB, Polygon",
       "links": {
-        "web": "https://railway.xyz/"
+        "web": "https://railway.xyz/",
+        "github": "https://github.com/Railway-Wallet/Railway-Wallet/",
+        "twitter": "https://twitter.com/Railway_xyz"
       },
       "team": {
         "anonymous": true
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "5.16.8",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
@@ -10257,6 +10265,7 @@
       "team": {
         "anonymous": true
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
