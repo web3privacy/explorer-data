@@ -782,7 +782,10 @@
       "ecosystem": "Polygon",
       "links": {
         "web": "https://polygon.technology/polygon-id/",
-        "github": "https://github.com/0xPolygonID"
+        "github": "https://github.com/0xPolygonID",
+        "docs": "https://devs.polygonid.com/docs/quick-start-demo/",
+        "blog": "https://www.polygonid.com/blog",
+        "twitter": "https://x.com/0xPolygonID"
       },
       "team": {
         "company": {
@@ -1423,7 +1426,11 @@
       ],
       "description": "Building your own community identity like a brand",
       "links": {
-        "web": "https://sdid.seer.eco/"
+        "web": "https://sdid.seer.eco/",
+        "blog": "https://medium.com/@SeerFoundation",
+        "twitter": "https://x.com/SeerFoundation",
+        "discord": "https://discord.com/invite/zpy6tXP5Qt",
+        "telegram": "https://t.me/seer_official"
       },
       "have_token": true,
       "logos": [
@@ -1524,7 +1531,11 @@
       ],
       "description": " Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain",
       "links": {
-        "web": "https://quadrata.com"
+        "web": "https://quadrata.com",
+        "docs": "https://docs.quadrata.com/integration",
+        "blog": "https://medium.com/quadrata-network",
+        "twitter": "https://x.com/QuadrataNetwork",
+        "discord": "https://discord.com/invite/67QgzrymHW"
       },
       "have_token": true,
       "logos": [
