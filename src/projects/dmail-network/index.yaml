@@ -6,4 +6,10 @@ ecosystem: multichain
 links:
   web: https://dmail.ai
   github: https://github.com/dmailofficial/dmail
+  docs: https://dmailnetwork.gitbook.io/dmail-network
+
+  blog: https://blog.dmail.ai/
+  twitter: https://x.com/dmailofficial?ref=blog.dmail.ai
+  discord: https://discord.com/invite/RyYNmdqjF9?ref=blog.dmail.ai
+  telegram: https://t.me/dmailofficial
 have_token: true
