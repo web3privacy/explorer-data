@@ -5,4 +5,10 @@ description: Protocol for Private Data based on MPC, ZKP, 3P-TLS
 links:
   web: https://zkpass.org/home
   github: https://github.com/zkPassOfficial
+  docs: https://zkpass.gitbook.io/zkpass
+  whitepaper: https://docsend.com/view/5wdg66beu7m95jf3
+
+  blog: https://medium.com/zkpass
+  twitter: https://x.com/zkPass
+  discord: https://discord.com/invite/zkpass
 have_token: true
