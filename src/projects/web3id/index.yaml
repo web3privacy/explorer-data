@@ -6,6 +6,13 @@ ecosystem: multichain
 links:
   web: https://www.dock.io/web3id
   github: https://github.com/docknetwork
+  docs: https://docs.dock.io/
+  block_explorer: https://dock.subscan.io/
+
+  blog: https://blog.dock.io/
+  twitter: https://x.com/docknetwork
+  discord: https://discord.com/invite/feW8KGf7r3
+  telegram: https://t.me/dockio
 team:
   company:
     link: https://www.dock.io/verifiable-credentials-company
