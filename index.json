@@ -1857,6 +1857,7 @@
       "links": {
         "web": "https://www.imperiume.io/wallet"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
@@ -8381,7 +8382,11 @@
       "description": "a modular protocol issuing ZK Badges for reputation portability and aggregation",
       "links": {
         "web": "https://www.sismo.io/",
-        "github": "https://github.com/sismo-core"
+        "github": "https://github.com/sismo-core",
+        "docs": "https://docs.sismo.io/sismo-docs",
+        "blog": "https://sismo.mirror.xyz/",
+        "twitter": "https://x.com/sismo_eth",
+        "discord": "https://discord.com/invite/xKTMeRUX6u"
       },
       "have_token": true,
       "logos": [
