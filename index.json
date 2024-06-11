@@ -6898,7 +6898,11 @@
       "description": "Slashtags gives developers tools to build secure and scalable peer-to-peer applications that put users in control of their profiles, contacts, accounts, and data",
       "links": {
         "web": "https://slashtags.to",
-        "github": "https://github.com/synonymdev/slashtags"
+        "github": "https://github.com/synonymdev/slashtags",
+        "blog": "https://blog.bitkit.to/",
+        "twitter": "https://x.com/slashtags_to",
+        "discord": "https://discord.com/invite/DxTBJXvJxn",
+        "telegram": "https://t.me/slashtags"
       },
       "have_token": true,
       "logos": [
@@ -10152,10 +10156,17 @@
       "ecosystem": "Bitcoin",
       "links": {
         "web": "https://seedsigner.com/",
-        "github": "https://github.com/SeedSigner/seedsigner"
+        "github": "https://github.com/SeedSigner/seedsigner",
+        "docs": "https://seedsigner.com/faqs/"
       },
       "team": {
         "anonymous": true
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v0.7.0",
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
