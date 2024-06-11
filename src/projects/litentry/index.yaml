@@ -6,6 +6,12 @@ ecosystem: multichain
 links:
   web: https://litentry.com
   github: https://github.com/litentry
+  docs: https://docs.litentry.com/
+
+  blog: https://litentry.medium.com/
+  twitter: https://x.com/litentry
+  discord: https://discord.com/invite/litentryofficial
+  telegram: https://t.me/litentry
 team:
   company:
     link: >-
