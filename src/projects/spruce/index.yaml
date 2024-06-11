@@ -5,4 +5,9 @@ description: 'open-source stack to leave control of identity and data where it s
 links:
   web: https://spruceid.com
   github: https://github.com/spruceid
+  docs: https://www.spruceid.dev/
+
+  blog: https://blog.spruceid.com/
+  twitter: https://x.com/SpruceID
+  discord: https://discord.com/invite/KmQeRhQPYh
 have_token: true
