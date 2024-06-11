@@ -6,6 +6,14 @@ ecosystem: multichain
 links:
   web: https://www.kilt.io
   github: https://github.com/KILTprotocol
+  block_explorer: https://spiritnet.subscan.io/
+  docs: https://docs.kilt.io/#/
+  whitepaper: https://www.kilt.io/protocol/whitepaper
+
+  blog: https://kilt-protocol.medium.com/
+  twitter: https://x.com/Kiltprotocol
+  discord: https://discord.com/invite/HztRqvzbhG
+  telegram: https://t.me/KILTProtocolChat
 team:
   company:
     link: https://www.kilt.io/team
