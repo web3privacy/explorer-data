@@ -4,3 +4,15 @@ categories:
 description: Android wallet for Moneto
 links:
   web: https://www.monerujo.io
+  github: https://github.com/m2049r/xmrwallet
+  whitepaper: https://www.monerujo.io/resources/crazy_secure_passphrase.pdf
+  docs: https://www.monerujo.io/resources/monerujo_manual.html
+project_status:
+  live_status: true
+  version: v3.3.11
+  testnet: false
+  mainnet: false
+team:
+  anonymous: false
+  teammembers:
+      link: https://www.monerujo.io/team.html
