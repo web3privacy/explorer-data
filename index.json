@@ -1718,7 +1718,12 @@
       "description": "Privacy Financial Infrastructure For Blockchain",
       "links": {
         "web": "https://tusima.network",
-        "docs": "https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima"
+        "docs": "https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima",
+        "github": "https://github.com/TusimaNetwork",
+        "blog": "https://medium.com/@TusimaNetwork",
+        "twitter": "https://x.com/TusimaNetwork",
+        "discord": "https://discord.com/invite/tusimanetwork",
+        "telegram": "https://t.me/tusimaofficial"
       },
       "logos": [
         {
@@ -11558,7 +11563,11 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://www.zecrey.com",
-        "github": "https://github.com/Zecrey-Labs"
+        "github": "https://github.com/Zecrey-Labs",
+        "docs": "https://docs.zecrey.com/",
+        "blog": "https://zecrey.medium.com/",
+        "twitter": "https://x.com/ZecreyLabs",
+        "discord": "https://discord.com/invite/MdajwkVZE4"
       },
       "team": {
         "anonymous": true
