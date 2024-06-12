@@ -9517,9 +9517,10 @@
       },
       "links": {
         "web": "https://pass.hashbon.com",
+        "docs": "https://hashbon.gitbook.io/hashbon-rocket",
         "whitepaper": "https://pass.hashbon.com/files/Hashbon_Pass_Whitepaper_v1.0.pdf",
         "twitter": "https://twitter.com/hashbon",
-        "docs": "https://hashbon.gitbook.io/hashbon-rocket"
+        "telegram": "https://t.me/hashbon_chat"
       },
       "logos": [
         {
