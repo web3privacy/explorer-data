@@ -8,9 +8,12 @@ team:
   anonymous: false
   
 links:
-  web: https://obscu.ro
-  docs: https://docs.obscu.ro
-  whitepaper: https://whitepaper.ten.xyz
+  web: https://ten.xyz/
+  whitepaper: https://whitepaper.ten.xyz/
+
+  twitter: https://x.com/tenprotocol
+  discord: https://discord.com/invite/tenprotocol
+  telegram: https://t.me/tenprotocol 
 
 project_status:
   live_status: true
