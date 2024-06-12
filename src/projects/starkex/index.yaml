@@ -6,6 +6,10 @@ ecosystem: Ethereum
 links:
   web: https://starkware.co/starkex/
   github: https://github.com/starkware-libs/starkex-resources
+  docs: https://docs.starkware.co/starkex/index.html
+
+  blog: https://medium.com/starkware
+  twitter: https://x.com/StarkWareLtd
 team:
   anonymous: false
   company:
