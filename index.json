@@ -953,7 +953,10 @@
       "ecosystem": "Ethereum",
       "links": {
         "web": "https://starkware.co/starkex/",
-        "github": "https://github.com/starkware-libs/starkex-resources"
+        "github": "https://github.com/starkware-libs/starkex-resources",
+        "docs": "https://docs.starkware.co/starkex/index.html",
+        "blog": "https://medium.com/starkware",
+        "twitter": "https://x.com/StarkWareLtd"
       },
       "team": {
         "anonymous": false,
@@ -6165,7 +6168,9 @@
         "blog": "https://medium.com/@ola_zkzkvm",
         "docs": "https://ola-2.gitbook.io/ola-developer-documents",
         "whitepaper": "https://github.com/Sin7Y/olavm-whitepaper-v2/blob/master/Ola%20-%20A%20ZKVM-based%2C%20High-performance%2C%20and%20Privacy-focused%20Layer2%20platform.pdf",
-        "twitter": "https://twitter.com/ola_zkzkvm"
+        "twitter": "https://twitter.com/ola_zkzkvm",
+        "discord": "https://discord.com/invite/Bk3dNHWt2n",
+        "telegram": "https://t.me/sin7y_labs"
       },
       "project_status": {
         "live_status": true,
@@ -6612,7 +6617,9 @@
       },
       "links": {
         "web": "https://socialkyc.io",
-        "github": "https://github.com/BTE-Trusted-Entity/socialkyc.io/"
+        "github": "https://github.com/BTE-Trusted-Entity/socialkyc.io/",
+        "blog": "https://medium.com/kilt-protocol/announcing-socialkyc-built-on-kilt-65a29a974d07",
+        "twitter": "https://x.com/social_kyc"
       },
       "logos": [
         {
@@ -7955,7 +7962,10 @@
       ],
       "description": "Your Zero-Knowledge, Decentralized KYC filter of Blockchain users.",
       "links": {
-        "web": "https://www.outdid.io"
+        "web": "https://www.outdid.io",
+        "blog": "https://medium.com/@getoutdid",
+        "twitter": "https://x.com/getoutdid",
+        "telegram": "https://t.me/outdid_io"
       },
       "logos": [
         {
