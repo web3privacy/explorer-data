@@ -4419,7 +4419,12 @@
       ],
       "description": "zero knowledge x self-sovereign identity",
       "links": {
-        "web": "https://www.icebreaker.xyz"
+        "web": "https://www.icebreaker.xyz",
+        "docs": "https://icebreakerlabs.notion.site/Icebreaker-Wiki-a2dac9feaf9740d095b58263290ead71",
+        "blog": "https://mirror.xyz/icebreakerlabs.eth",
+        "twitter": "https://x.com/icebreaker_xyz",
+        "telegram": "https://t.me/+Mgo-ltakTs80MDkx",
+        "farcaster": "@icebreaker"
       },
       "have_token": true,
       "logos": [
