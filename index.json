@@ -3647,6 +3647,21 @@
       ]
     },
     {
+      "id": "Zama",
+      "name": "1984",
+      "categories": [
+        "FHE"
+      ],
+      "description": "an open source cryptography company building FHE solutions for blockchain and AI.",
+      "team": {
+        "anonymous": false
+      },
+      "links": {
+        "web": "https://www.zama.ai",
+        "docs": "https://docs.zama.ai/"
+      }
+    },
+    {
       "id": "email-wallet",
       "name": "Email Wallet",
       "categories": [
