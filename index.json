@@ -6034,7 +6034,8 @@
         "docs": "https://docs.beldex.io/",
         "litepaper": "https://bchat.beldex.io/img/litepaper.pdf",
         "blog": "https://beldex.io/blog/what-is-bchat/",
-        "twitter": "https://twitter.com/Bchat_official"
+        "twitter": "https://twitter.com/Bchat_official",
+        "telegram": "https://t.me/official_beldex"
       },
       "project_status": {
         "live_status": true,
@@ -11651,7 +11652,10 @@
       "links": {
         "web": "https://beepoapp.net/#features",
         "github": "https://github.com/beepo-app",
-        "whitepaper": "https://beepo.gitbook.io/internal-wiki/the-company/whitepaper"
+        "whitepaper": "https://beepo.gitbook.io/internal-wiki/the-company/whitepaper",
+        "twitter": "https://x.com/beepoapp",
+        "discord": "https://discord.com/invite/DhYJGgAVzR",
+        "telegram": "https://t.me/beepoapp"
       },
       "logos": [
         {
