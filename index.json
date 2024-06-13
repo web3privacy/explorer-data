@@ -5087,7 +5087,8 @@
       "links": {
         "web": "https://hzmcoin.com/mejhool/",
         "whitepaper": "https://hzmcoin.com/wp-content/uploads/whitepaper.pdf",
-        "blog": "https://hzmcoin.com/blog/"
+        "blog": "https://hzmcoin.com/blog/",
+        "twitter": "https://x.com/Mejhool_app"
       },
       "have_token": true,
       "tokens": [
@@ -7629,7 +7630,11 @@
       },
       "links": {
         "web": "https://pigeoncoin.org",
-        "github": "https://github.com/Pigeoncoin/pigeoncoin"
+        "github": "https://github.com/Pigeoncoin/pigeoncoin",
+        "twitter": "https://x.com/pigeoncoin",
+        "discord": "https://discord.com/invite/SZcf63h",
+        "facebook": "https://www.facebook.com/groups/1022013661300591",
+        "telegram": "https://t.me/Pigeoncoin"
       },
       "have_token": true,
       "tokens": [
