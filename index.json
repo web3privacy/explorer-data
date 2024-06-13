@@ -12728,6 +12728,10 @@
     {
       "id": "events",
       "name": "Events"
+    },
+    {
+      "id": "FHE",
+      "name": "FHE"
     }
   ]
 }
