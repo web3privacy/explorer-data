@@ -54,3 +54,5 @@
   name: Node
 - id: events
   name: Events
+- id: FHE
+  name: FHE
