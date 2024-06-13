@@ -10,8 +10,9 @@ team:
 links:
   web: https://crypviser.network/
   whitepaper: https://crypviser.network/CrypViser_Whitepaper.pdf
-  blog: https://twitter.com/crypviser
+  blog: https://crypviser.medium.com/
   twitter: https://twitter.com/crypviser
+  facebook: https://www.facebook.com/crypviser/
 have_token: true
 tokens:
   - symbol: CVT
