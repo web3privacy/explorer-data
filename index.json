@@ -4837,7 +4837,10 @@
       "links": {
         "web": "https://alter.network/",
         "blog": "https://blog.altermail.live/",
-        "twitter": "https://twitter.com/AlterDapp"
+        "twitter": "https://twitter.com/AlterDapp",
+        "discord": "https://discord.com/invite/jyTnQnpnbU",
+        "facebook": "https://www.facebook.com/alterdapp/?_rdr",
+        "telegram": "https://t.me/alterdapp"
       },
       "project_status": {
         "live_status": true,
