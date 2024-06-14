@@ -555,6 +555,22 @@
       ]
     },
     {
+      "id": "Arcium",
+      "name": "Arcium",
+      "categories": [
+        "FHE"
+      ],
+      "description": "The first parallelized confidential computing network",
+      "links": {
+        "web": "https://arcium.com/",
+        "github": "https://github.com/elusiv-privacy",
+        "docs": "https://docs.arcium.com/",
+        "blog": "https://blog.arcium.com/",
+        "twitter": "https://x.com/ArciumHQ",
+        "discord": "https://discord.com/invite/arcium"
+      }
+    },
+    {
       "id": "bluum",
       "name": "Bluum",
       "categories": [
@@ -5245,6 +5261,20 @@
       ]
     },
     {
+      "id": "Sunscreen",
+      "name": "Sunsscreen",
+      "categories": [
+        "FHE"
+      ],
+      "description": "Privacy engine of the new web.",
+      "links": {
+        "web": "https://sunscreen.tech/",
+        "blog": "https://blog.sunscreen.tech/",
+        "twitter": "https://x.com/sunscreentech",
+        "discord": "https://discord.com/invite/WHCs6jNNDS"
+      }
+    },
+    {
       "id": "findora",
       "name": "Findora",
       "categories": [
@@ -7787,6 +7817,20 @@
       ]
     },
     {
+      "id": "FairMath",
+      "name": "FairMath",
+      "categories": [
+        "FHE"
+      ],
+      "description": "Building Privacy Preserving Future Rooted in Fully Homomorphic Encryption (FHE)",
+      "links": {
+        "web": "https://fairmath.xyz/",
+        "github": "https://github.com/fairmath",
+        "twitter": "https://x.com/FairMath",
+        "discord": "https://discord.com/invite/NfhXwyr9M5"
+      }
+    },
+    {
       "id": "phala-network",
       "name": "Phala Network",
       "categories": [
@@ -9914,6 +9958,22 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/dappnode/logo.png"
         }
       ]
+    },
+    {
+      "id": "octra",
+      "name": "Octra",
+      "categories": [
+        "FHE"
+      ],
+      "description": "general purpose FHE network enabling economies of the future",
+      "links": {
+        "web": "https://octra.org/",
+        "github": "https://github.com/Octra-Labs",
+        "docs": "https://docs.octra.org/",
+        "twitter": "https://x.com/octra",
+        "discord": "https://discord.com/invite/m724x5Ne2F",
+        "telegram": "https://t.me/octranetwork"
+      }
     },
     {
       "id": "status",
