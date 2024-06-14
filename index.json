@@ -4912,6 +4912,23 @@
       ]
     },
     {
+      "id": "Mindnetwork",
+      "name": "MindNetwork",
+      "categories": [
+        "FHE"
+      ],
+      "description": "An FHE Restaking Layer for PoS and AI Networks ",
+      "links": {
+        "web": "https://www.mindnetwork.xyz/",
+        "github": "https://github.com/mind-network",
+        "docs": "https://docs.mindnetwork.xyz/minddocs",
+        "blog": "https://mindnetwork.medium.com/",
+        "twitter": "https://x.com/mindnetwork_xyz",
+        "discord": "https://discord.com/invite/UYj94MJdGJ",
+        "telegram": "https://t.me/MindNetwork_xyz"
+      }
+    },
+    {
       "id": "sacred",
       "name": "Sacred",
       "categories": [
@@ -8634,6 +8651,24 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/coinbook/logo.png"
         }
       ]
+    },
+    {
+      "id": "Privasea",
+      "name": "Privasea",
+      "categories": [
+        "FHE"
+      ],
+      "description": "An AI + DePIN Network enabled through FHEML",
+      "links": {
+        "web": "https://www.privasea.ai/",
+        "github": "https://github.com/Privasea",
+        "docs": "https://docs.privasea.ai/",
+        "whitepaper": "https://drive.google.com/file/d/1jbxWMgEziupt119gvM1n0Mu8sDdM7VWF/view",
+        "blog": "https://www.privasea.ai/blog",
+        "twitter": "https://x.com/Privasea_ai",
+        "discord": "https://discord.com/invite/yRtQGvWkvG",
+        "telegram": "https://t.me/Privasea_ai"
+      }
     },
     {
       "id": "weavemail",
