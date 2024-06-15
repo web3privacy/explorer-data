@@ -5,7 +5,7 @@ description: Web3’s Private Public Computing Platform
 ecosystem: xcash
 project_status: Mainnet
 links:
-  web: https://xcash.foundation
+  web: https://xcash.tech
   github: https://github.com/X-CASH-official
  
   blog: https://medium.com/x-cash
@@ -15,3 +15,10 @@ links:
 
 team:
   anonymous: false
+  teammembers:
+   - name: Paul Bugnot
+     role: Founder
+     link: https://github.com/plbgnt
+ - name: Zach Hildreth
+     role: CTO
+     link: https://github.com/zachhildreth
