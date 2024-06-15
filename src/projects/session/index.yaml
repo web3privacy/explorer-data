@@ -6,6 +6,12 @@ ecosystem: Cryptonote
 links:
   web: https://getsession.org
   github: https://github.com/oxen-io
+  docs: https://docs.oxen.io/oxen-docs/products-built-on-oxen/session
+  block_explorer: https://oxen.observer/
+  whitepaper: https://arxiv.org/pdf/2002.04609
+  blog: https://getsession.org/blog
+  twitter: https://x.com/session_app
+  facebook: https://www.facebook.com/SessionMessenger/
 team:
   company:
     link: https://www.linkedin.com/company/sessionmessenger/people/
