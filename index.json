@@ -4165,9 +4165,12 @@
       "links": {
         "web": "https://elixxir.io",
         "github": "https://git.xx.network/elixxir/client-android",
+        "block_explorer": "https://explorer.xx.network/#/explorer",
         "whitepapers": "https://xx.network/whitepapers/",
         "twitter": "https://twitter.com/xx_network",
-        "forum": "https://forum.xx.network/"
+        "forum": "https://forum.xx.network/",
+        "discord": "https://discord.com/invite/kbS4dSrPCv",
+        "telegram": "https://t.me/xxnetwork"
       },
       "project_status": {
         "live_status": true,
@@ -7023,6 +7026,7 @@
       },
       "links": {
         "web": "https://speakapp.me",
+        "blog": "https://blog.speakapp.me/",
         "twitter": "https://twitter.com/speakappme"
       },
       "logos": [
