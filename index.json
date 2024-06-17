@@ -3234,7 +3234,14 @@
       "description": "a generative AI app focused on privacy",
       "links": {
         "web": "https://venice.ai"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Venice/logo.png"
+        }
+      ]
     },
     {
       "id": "certup",
