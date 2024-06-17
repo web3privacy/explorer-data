@@ -3226,6 +3226,17 @@
       ]
     },
     {
+      "id": "Venice",
+      "name": "Venice",
+      "categories": [
+        "AI"
+      ],
+      "description": "a generative AI app focused on privacy",
+      "links": {
+        "web": "https://venice.ai"
+      }
+    },
+    {
       "id": "certup",
       "name": "certUP",
       "categories": [
