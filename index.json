@@ -3473,7 +3473,14 @@
         "twitter": "https://x.com/inconetwork",
         "discord": "https://discord.com/invite/fnKZp2qHPQ",
         "telgram": "https://t.me/inconetwork"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Inco/logo.png"
+        }
+      ]
     },
     {
       "id": "flock-io",
