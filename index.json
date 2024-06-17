@@ -6143,7 +6143,9 @@
         "web": "https://sending.me",
         "github": "https://github.com/Sending-Network",
         "docs": "https://sending-network.gitbook.io/sending.network/overview/getting-started",
-        "twitter": "https://twitter.com/SendingLabs"
+        "twitter": "https://twitter.com/SendingLabs",
+        "discord": "https://discord.com/invite/J43HGTNeWP",
+        "telegram": "https://t.me/SendingNetworkOfficial"
       },
       "logos": [
         {
@@ -11488,7 +11490,13 @@
       "ecosystem": "Cryptonote",
       "links": {
         "web": "https://getsession.org",
-        "github": "https://github.com/oxen-io"
+        "github": "https://github.com/oxen-io",
+        "docs": "https://docs.oxen.io/oxen-docs/products-built-on-oxen/session",
+        "block_explorer": "https://oxen.observer/",
+        "whitepaper": "https://arxiv.org/pdf/2002.04609",
+        "blog": "https://getsession.org/blog",
+        "twitter": "https://x.com/session_app",
+        "facebook": "https://www.facebook.com/SessionMessenger/"
       },
       "team": {
         "company": {
