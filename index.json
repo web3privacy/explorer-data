@@ -11321,7 +11321,8 @@
       ],
       "description": "Speak easily to a group of friends or a global community. Talk about what you want. Surveillance free. Censorship proof",
       "links": {
-        "web": "https://alpha.speakeasy.tech"
+        "web": "https://alpha.speakeasy.tech",
+        "twitter": "https://x.com/speakeasy_tech"
       },
       "logos": [
         {
@@ -12685,7 +12686,10 @@
         "web": "https://xmtp.org/",
         "github": "https://github.com/xmtp/awesome-xmtp/",
         "docs": "https://xmtp.org/docs/introduction",
-        "twitter": "https://twitter.com/xmtp_"
+        "forum": "https://community.xmtp.org/",
+        "blog": "https://blog.xmtp.com/careers/",
+        "twitter": "https://twitter.com/xmtp_",
+        "discord": "https://discord.com/invite/xmtp"
       },
       "project_status": {
         "live_status": true,
