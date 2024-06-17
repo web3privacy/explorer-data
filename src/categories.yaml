@@ -56,3 +56,5 @@
   name: Events
 - id: FHE
   name: FHE
+- id: AI
+  name: AI
