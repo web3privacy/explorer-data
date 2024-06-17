@@ -575,7 +575,14 @@
         "blog": "https://blog.arcium.com/",
         "twitter": "https://x.com/ArciumHQ",
         "discord": "https://discord.com/invite/arcium"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Arcium/logo.png"
+        }
+      ]
     },
     {
       "id": "bluum",
@@ -5318,7 +5325,14 @@
         "blog": "https://blog.sunscreen.tech/",
         "twitter": "https://x.com/sunscreentech",
         "discord": "https://discord.com/invite/WHCs6jNNDS"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Sunscreen/logo.png"
+        }
+      ]
     },
     {
       "id": "findora",
@@ -7877,7 +7891,14 @@
         "github": "https://github.com/fairmath",
         "twitter": "https://x.com/FairMath",
         "discord": "https://discord.com/invite/NfhXwyr9M5"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/FairMath/logo.png"
+        }
+      ]
     },
     {
       "id": "phala-network",
@@ -10031,7 +10052,14 @@
         "twitter": "https://x.com/octra",
         "discord": "https://discord.com/invite/m724x5Ne2F",
         "telegram": "https://t.me/octranetwork"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/octra/logo.png"
+        }
+      ]
     },
     {
       "id": "status",
