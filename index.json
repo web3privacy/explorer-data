@@ -309,7 +309,14 @@
         "blog": "https://www.cursive.team/blog",
         "twitter": "https://x.com/cursive_team",
         "telegram": "https://t.me/+z5REVOBXp_hmNDIx"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Cursive/logo.png"
+        }
+      ]
     },
     {
       "id": "railgun",
@@ -4974,7 +4981,14 @@
         "twitter": "https://x.com/mindnetwork_xyz",
         "discord": "https://discord.com/invite/UYj94MJdGJ",
         "telegram": "https://t.me/MindNetwork_xyz"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Mindnetwork/logo.png"
+        }
+      ]
     },
     {
       "id": "sacred",
@@ -8747,7 +8761,14 @@
         "twitter": "https://x.com/Privasea_ai",
         "discord": "https://discord.com/invite/yRtQGvWkvG",
         "telegram": "https://t.me/Privasea_ai"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Privasea/logo.png"
+        }
+      ]
     },
     {
       "id": "weavemail",
