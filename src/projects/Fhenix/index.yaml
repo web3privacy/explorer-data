@@ -1,6 +1,6 @@
 name: 'Fhenix'
 categories: [ FHE ]
-description: 'Just an L2 on Ethereum. Powered by FHE Rollups & FHE Coprocessors.'
+description: 'Fhenix is an Ethereum L2 and Coprocessor that uses FHE for onchain confidentiality.'
 links:
   web: https://www.fhenix.io/
   github: https://github.com/FhenixProtocol
