@@ -6186,6 +6186,22 @@
       ]
     },
     {
+      "id": "AIOZ network",
+      "name": "Aioz network",
+      "categories": [
+        "AI"
+      ],
+      "description": "DePIN for Web3 AI, Storage & Streaming",
+      "links": {
+        "web": "https://aioz.network/",
+        "block_explorer": "https://t.me/aioznetwork",
+        "docs": "https://docs.aioz.network/",
+        "blog": "https://aioz.network/blog",
+        "twitter": "https://x.com/AIOZNetwork",
+        "telegram": "https://t.me/aioznetwork"
+      }
+    },
+    {
       "id": "senging-me",
       "name": "Senging.me",
       "categories": [
