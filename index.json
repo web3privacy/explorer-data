@@ -6199,7 +6199,14 @@
         "blog": "https://aioz.network/blog",
         "twitter": "https://x.com/AIOZNetwork",
         "telegram": "https://t.me/aioznetwork"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/AIOZ network/logo.png"
+        }
+      ]
     },
     {
       "id": "senging-me",
