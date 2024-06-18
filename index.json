@@ -9592,7 +9592,14 @@
         "telegram": "https://t.me/+D0CulDl9udZjMWIx"
       },
       "have_token": false,
-      "sunset": false
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Exabits/logo.png"
+        }
+      ]
     },
     {
       "id": "zkmaps",
