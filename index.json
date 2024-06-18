@@ -5919,10 +5919,19 @@
       "ecosystem": "multichain",
       "links": {
         "web": "https://sonsofcrypto.com/",
-        "github": "https://github.com/sonsofcrypto"
+        "github": "https://github.com/sonsofcrypto",
+        "whitepaper": "https://sonsofcrypto.com/web3wallet_whitepaper.pdf",
+        "twitter": "https://twitter.com/sonsofcryptolab",
+        "blog": "https://medium.com/@sonsofcrypto"
       },
       "team": {
-        "anonymous": false
+        "anonymous": true
+      },
+      "project_status": {
+        "live_status": true,
+        "version": null,
+        "testnet": false,
+        "mainnet": false
       },
       "logos": [
         {
