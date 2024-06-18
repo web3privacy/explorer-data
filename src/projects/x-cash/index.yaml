@@ -5,7 +5,7 @@ description: Web3’s Private Public Computing Platform
 ecosystem: xcash
 project_status: Mainnet
 links:
-  web: https://xcash.foundation
+  web: https://xcash.tech
   github: https://github.com/X-CASH-official
  
   blog: https://medium.com/x-cash
@@ -14,4 +14,4 @@ links:
   discord: https://discord.com/invite/4CAahnd
 
 team:
-  anonymous: false
+  anonymous: No
