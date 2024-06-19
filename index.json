@@ -2075,6 +2075,27 @@
       ]
     },
     {
+      "id": "SightAI",
+      "name": "SightAI",
+      "categories": [
+        "AI"
+      ],
+      "description": "Decentralized AI inference with FHE",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://sightai.io/",
+        "github": "https://github.com/sight-ai",
+        "docs": "https://sightai.gitbook.io/docs",
+        "blog": "https://medium.com/@theSightAI",
+        "twitter": "https://x.com/theSightAI",
+        "telegram": "https://t.me/sightai"
+      },
+      "have_token": false,
+      "sunset": false
+    },
+    {
       "id": "dero",
       "name": "Dero",
       "categories": [
@@ -5445,7 +5466,14 @@
           "contract_address": "0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b"
         }
       ],
-      "sunset": false
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Nuco.cloud/logo.png"
+        }
+      ]
     },
     {
       "id": "monero-pocketnode",
@@ -9158,7 +9186,14 @@
           "contract_address": "0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98"
         }
       ],
-      "sunset": false
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/OpSec/logo.png"
+        }
+      ]
     },
     {
       "id": "pivx",
