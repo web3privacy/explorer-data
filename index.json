@@ -8982,7 +8982,14 @@
         "telegram": "https://t.me/superprotocol"
       },
       "have_token": false,
-      "sunset": false
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Super Protocol/logo.png"
+        }
+      ]
     },
     {
       "id": "polybase",
@@ -10435,7 +10442,14 @@
         "telegram": "https://t.me/+N6HLxnRL_WE5ZDVl"
       },
       "have_token": false,
-      "sunset": false
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Rido/logo.png"
+        }
+      ]
     },
     {
       "id": "monerujo",
