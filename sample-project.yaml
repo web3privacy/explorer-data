@@ -1,4 +1,5 @@
-#PROJECT DESCRIPTION -------------------------------------------------------------
+# Essential (minimum) project data ----------------------------------------------------------------------------------------------------------------
+# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples 
 name: SampleProject
 categories: [ defi ]
 assets_used: [ BTC, ETH, USDC ] 
@@ -9,15 +10,7 @@ description: 'Short description of project features and mission'
 product_readiness: live
 product_launch_day: "YYYY-MM-DD"
 
-have_token: true
-token_link: https://etherscan.io/address/0x148932fc33d97ae4f85443d2f6af25cacddd6062
-tokens:
-  - name: SampleToken
-    symbol: SAMPLE
-    network: Ethereum
-    contract_address: "0xe6c83af64e4c60245d8c7de953df673a00000"
-fee: 3.5%
-
+# Team - focus on C-Level (CEO) personnel if information public available otherwise "anonymous: true"
 team:
   anonymous: false
   teammembers:
@@ -27,6 +20,34 @@ team:
     - name: Random Guy
       role: CTO
       link: https://twitter.com/mostrandomguy
+      
+# LINKS - focus: web, github, docs, blog, whitepaper, twitter
+links:
+  web: https://sample-website.com
+  github: https://github.com/sample_privacy_project
+  docs: https://docs.sample-website.com
+  whitepaper: https://docs.sample-website.com/whitepaper.pdf
+  blog: https://medium.com/@sample_privacy_project
+  twitter: https://twitter.com/sample_privacy_project
+  
+# Details on live status + version
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+# Token ticker + contract address - if there is no token "have_token: false" 
+have_token: true
+token_link: https://etherscan.io/address/0x148932fc33d97ae4f85443d2f6af25cacddd6062
+tokens:
+  - name: SampleToken
+    symbol: SAMPLE
+    network: Ethereum
+    contract_address: "0xe6c83af64e4c60245d8c7de953df673a00000"
+    
+# Additional basic information --------------------------------------------------------------------------------------------------------------
+# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
 
 funding:
   - name: Private investors ICO
@@ -34,7 +55,7 @@ funding:
     link: https://investopedia.org/sample-ico-2022
     value: $50.000.000
     time: "YYYY-MM-DD"
-
+    
 history:
   title: Sample Voyage
   event_type: launch
@@ -42,33 +63,23 @@ history:
   time: "YYYY-MM-DD"
   link: https://infonewspage.com/sample-launch
 
-sunset: false
-
-
-# LINKS ---------------------------------------------------------------------
+# more links
 links:
-  web: https://sample-website.com
-  github: https://github.com/sample_privacy_project
   block_explorer: https://samplescan.io/
-  docs: https://docs.sample-website.com
   forum: https://forum.sample-website.com
-  whitepaper: https://docs.sample-website.com/whitepaper.pdf
   changelog: https://changelog.sample-website.com
   snapshot: https://snapshot.org/sample-dao
-
-  blog: https://medium.com/@sample_privacy_project
-  twitter: https://twitter.com/sample_privacy_project
   discord: https://discord.com/invite/jgUQSAMPLE
   facebook: https://facebook.com/sample-privacy-crypto
   telegram: https://t.me/sample_privacy_project
   lens: https://hey.xyz/u/sample_privacy_project
   farcaster: "@sampleprivacyproject"
   rss_feed: https://rss-feeds.com/sample_privacy_project
-
   education: https://twitter.com/random_user/status/12345678901234
+  
+# TECHNOLOGY - information -------------------------------------------------------------------------------------------------------------
+# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
 
-
-# TECHNOLOGY ---------------------------------------------------------------------
 technology:
   type: ZK-Snarks
   features:
@@ -105,9 +116,10 @@ client_diversability:
     link: https://sample-wallet-using-sample.com
   - name: Sample-Defi_Swap
     link: https://sample-swap.com
+    
+# Privacy - information ---------------------------------------------------------------------------------------------------------------
+# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
 
-
-# PRIVACY ---------------------------------------------------------------------
 licences: General Public License
 
 privacy_policy:
@@ -124,9 +136,10 @@ compliance: OFAC, USA
 
 storage:
   decentralized: true
+  
+# Security - information -------------------------------------------------------------------------------------------------------------
+# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
 
-
-# SECURITY ---------------------------------------------------------------------
 third_party_dependency: Chainlink oracle
 social_trust: Sample board multisig & DAO
 technical_spof: Uniswap hack
@@ -138,4 +151,3 @@ audits:
   - name: Competitive Audit - Code4rena
     link: https://ca.com/audit-result.pdf
     time: "YYYY-MM-DD"
-  
