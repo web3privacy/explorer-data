@@ -1,0 +1,13 @@
+name: Cluster Protocol
+categories: [ AI ]
+description: 'World's first decentralized infrastructure for AI and DePINs and Github for AI models'
+team:
+  anonymous: false
+links:
+  web: https://clusterprotocol.ai/
+  whitepaper: https://cluster-protocol.gitbook.io/whitepaper
+  blog: https://medium.com/@clusterprotocol.io
+  twitter: https://x.com/ClusterProtocol
+  telegram: https://t.me/clusterprotocolchat
+have_token: false
+sunset: false
