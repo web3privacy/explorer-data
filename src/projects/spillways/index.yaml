@@ -7,7 +7,9 @@ links:
   web: https://spillways.finance
   docs: https://spillways.gitbook.io/documentation
   block_explorer: https://spillways.finance/explorer
+  blog: https://spillways.medium.com/
   twitter: https://twitter.com/spillways10
+  telegram: https://t.me/SpillWaysJoin
 token_link: https://etherscan.io/address/0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47
 tokens:
   - name: Spillways
