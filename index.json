@@ -5351,7 +5351,10 @@
         "web": "https://cyclone.xyz",
         "github": "https://github.com/cycloneprotocol/cyclone-contracts",
         "docs": "https://docs.cyclone.xyz/",
-        "X": "https://twitter.com/cycloneprotocol"
+        "forum": "https://forum.cyclone.xyz/",
+        "blog": "https://cycloneprotocol.medium.com/",
+        "twitter": "https://x.com/cycloneprotocol",
+        "telegram": "https://t.me/cycloneprotocol"
       },
       "project_status": {
         "live_status": true,
