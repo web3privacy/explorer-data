@@ -1424,10 +1424,11 @@
       ],
       "description": "Bitcoin mixer.",
       "team": {
-        "anonymous": false
+        "anonymous": true
       },
       "links": {
-        "web": "https://mixbtc.online"
+        "web": "https://mixbtc.online",
+        "twitter": "https://x.com/mixbtc_online"
       },
       "project_status": {
         "live_status": true,
@@ -6601,8 +6602,10 @@
         "anonymous": true
       },
       "links": {
-        "web": "https://telebrid.ge",
-        "whitepaper": "https://hype-eth.com/whitepaper.pdf"
+        "web": "https://hype-eth.com/",
+        "whitepaper": "https://hype-eth.com/whitepaper.pdf",
+        "twitter": "https://x.com/TelebridgeERC",
+        "telegram": "https://t.me/TeleBridgingBot"
       },
       "logos": [
         {
@@ -8265,6 +8268,7 @@
         "web": "https://hideyour.cash",
         "docs": "https://docs.tickets.opact.io/tutorial"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
@@ -9979,7 +9983,9 @@
         "web": "https://spillways.finance",
         "docs": "https://spillways.gitbook.io/documentation",
         "block_explorer": "https://spillways.finance/explorer",
-        "twitter": "https://twitter.com/spillways10"
+        "blog": "https://spillways.medium.com/",
+        "twitter": "https://twitter.com/spillways10",
+        "telegram": "https://t.me/SpillWaysJoin"
       },
       "token_link": "https://etherscan.io/address/0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47",
       "tokens": [
@@ -10019,8 +10025,9 @@
         "web": "https://joinmarket.net/",
         "github": "https://github.com/JoinMarket-Org",
         "docs": "https://joinmarket-org.github.io/joinmarket-clientserver/",
-        "X": "https://twitter.com/joinmarket"
+        "twitter": "https://twitter.com/joinmarket"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
