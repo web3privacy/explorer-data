@@ -5,3 +5,4 @@ description: 'HideYour.cash is a private transactions protocol (mixer) designed 
 links:
   web: https://hideyour.cash
   docs: https://docs.tickets.opact.io/tutorial
+sunset: true
