@@ -13244,6 +13244,13 @@
           "link": "https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_CultDAO.pdf",
           "time": "2022-11-11"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cultdao/logo.png"
+        }
       ]
     },
     {
