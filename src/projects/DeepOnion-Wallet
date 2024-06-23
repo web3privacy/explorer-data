@@ -1,0 +1,33 @@
+#PROJECT DESCRIPTION -------------------------------------------------------------
+name: DeepOnion Wallet
+categories: wallets
+
+ecosystem: DeepOnion Network
+
+project_type: Privacy-focused Cryptocurrency Wallet
+description: Secure, private, and decentralized wallet for storing and managing your DeepOnion cryptocurrency. Integrated with Tor for enhanced anonymity.
+product_readiness: Mainnet
+
+# LINKS ---------------------------------------------------------------------
+links:
+  web: https://deeponion.org/#download
+  github: https://github.com/deeponion/deeponion/
+  block_explorer: https://explorer.deeponion.org/
+  forum: https://deeponion.org/community/
+  whitepaper: https://deeponion.org/White-Paper.pdf
+
+  twitter: https://twitter.com/TheDeepOnion
+  facebook: https://www.facebook.com/deeponionx
+  telegram: https://t.me/getdeeponion
+  cmc community: https://coinmarketcap.com/community/profile/DeepOnion/
+  gettr: https://gettr.com/user/deeponion
+  rumble: https://rumble.com/user/DeepOnion
+  primal: http://primal.net/p/npub1l3h54332pdmwnvyg83fsd5g6cfsrdf75mqy3fnh8nxhls0gr2eysm5hucr
+
+  education: https://deeponion.org/#academy
+
+project_status:
+  live_status: Yes
+  version: V2.3.3.0
+  testnet: No
+  mainnet: Yes
