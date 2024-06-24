@@ -16,6 +16,6 @@ tokens:
   - symbol: TEER
 project_status:
   live_status: true
-  version: false
-  testnet: false
+  version: testnet
+  testnet: true
   mainnet: true
