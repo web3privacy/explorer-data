@@ -6080,6 +6080,32 @@
       ]
     },
     {
+      "id": "proof-of-passport",
+      "name": "Proof of Passport",
+      "categories": [
+        "kyc"
+      ],
+      "description": "Passport proving protocol using zk-SNARKs",
+      "links": {
+        "web": "https://proofofpassport.com/",
+        "github": "https://github.com/zk-passport/proof-of-passport",
+        "docs": "https://proof-of-passport.gitbook.io/",
+        "twitter": "https://x.com/proofofpassport",
+        "telegram": "https://t.me/proofofpassport"
+      },
+      "team": {
+        "anonymous": false
+      },
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/proof-of-passport/logo.png"
+        }
+      ]
+    },
+    {
       "id": "waku",
       "name": "Waku",
       "categories": [
