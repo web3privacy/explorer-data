@@ -5826,8 +5826,12 @@
       "description": "Confidential NFTs for exclusive experiences.",
       "links": {
         "web": "https://www.geniish.io",
-        "github": "https://github.com/geniish-protocol/docs"
+        "github": "https://github.com/geniish-protocol/docs",
+        "twitter": "https://x.com/GeniishProtocol",
+        "discord": "https://discord.com/invite/Mc6Y2jfeEv"
       },
+      "have_token": false,
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
