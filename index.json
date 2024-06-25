@@ -4196,8 +4196,10 @@
       ],
       "description": "World's first privacy-focused digital collectibles.",
       "links": {
-        "web": "https://theanonclub.com"
+        "web": "https://theanonclub.com",
+        "twitter": "https://x.com/theanonclub"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
