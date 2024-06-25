@@ -4027,8 +4027,14 @@
       ],
       "description": "A new NFT protocol that can contain other NFTs, realizing maximum interoperability",
       "links": {
-        "web": "https://polyhedra.network/zknft-container"
+        "web": "https://polyhedra.network/zknft-container",
+        "github": "https://github.com/PolyhedraZK/Expander",
+        "docs": "https://docs.zkbridge.com/",
+        "blog": "https://polyhedra.medium.com/",
+        "twitter": "https://x.com/PolyhedraZK",
+        "discord": "https://discord.com/invite/polyhedra-network"
       },
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
@@ -5128,8 +5134,20 @@
       ],
       "description": "A blockchain-agnostic protocol that offers privacy to NFTs",
       "links": {
-        "web": "https://eprint.iacr.org/2022/976.pdf"
+        "web": "https://paras.id/",
+        "whitepaper": "https://eprint.iacr.org/2022/976.pdf",
+        "twitter": "https://x.com/ParasHQ",
+        "telegram": "https://t.me/parasannouncement"
       },
+      "have_token": true,
+      "tokens": [
+        {
+          "name": "ParasToken",
+          "symbol": "PARAS",
+          "network": "Near"
+        }
+      ],
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
