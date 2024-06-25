@@ -350,7 +350,8 @@
         "web": "https://mynodebtc.com",
         "github": "https://github.com/mynodebtc/mynode",
         "docs": "https://mynodebtc.github.io/intro/introduction.html",
-        "twitter": "https://twitter.com/mynodebtc"
+        "twitter": "https://twitter.com/mynodebtc",
+        "telegram": "https://t.me/mynode_btc"
       },
       "project_status": {
         "live_status": true,
@@ -358,6 +359,8 @@
         "testnet": false,
         "mainnet": true
       },
+      "have_token": false,
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
