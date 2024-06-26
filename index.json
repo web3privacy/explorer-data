@@ -320,7 +320,10 @@
       "links": {
         "web": "https://raspiblitz.org",
         "docs": "https://docs.raspiblitz.org/docs/setup/intro",
-        "github": "https://github.com/raspiblitz"
+        "github": "https://github.com/raspiblitz",
+        "blog": "https://medium.com/tag/raspiblitz",
+        "twitter": "https://x.com/RaspiBlitz",
+        "telegram": "https://t.me/raspiblitz"
       },
       "project_status": {
         "live_status": true,
@@ -328,6 +331,8 @@
         "testnet": false,
         "mainnet": true
       },
+      "have_token": false,
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
@@ -6519,7 +6524,8 @@
         "github": "https://github.com/Start9Labs",
         "docs": "https://docs.start9.com/0.3.5.x/",
         "blog": "https://blog.start9.com/",
-        "twitter": "https://twitter.com/start9labs"
+        "twitter": "https://twitter.com/start9labs",
+        "telegram": "https://t.me/start9_labs"
       },
       "project_status": {
         "live_status": true,
@@ -6527,6 +6533,8 @@
         "testnet": false,
         "mainnet": true
       },
+      "have_token": false,
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
@@ -12748,7 +12756,8 @@
       "links": {
         "web": "https://www.nodl.eu/",
         "docs": "https://docs.nodl.it/",
-        "twitter": "https://twitter.com/nodl_it"
+        "twitter": "https://twitter.com/nodl_it",
+        "telegram": "https://t.me/nodl_it"
       },
       "project_status": {
         "live_status": true,
@@ -12756,6 +12765,8 @@
         "testnet": false,
         "mainnet": true
       },
+      "have_token": false,
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
