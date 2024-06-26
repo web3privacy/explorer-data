@@ -2759,7 +2759,8 @@
         "web": "https://stereum.net/ethereum-node-setup/",
         "github": "https://github.com/stereum-dev/ethereum-node",
         "docs": "https://stereum.net/content/guides",
-        "twitter": "https://twitter.com/stereumdev"
+        "twitter": "https://twitter.com/stereumdev",
+        "discord": "https://discord.com/invite/df8r5PVX9P"
       },
       "project_status": {
         "live_status": true,
@@ -2767,6 +2768,8 @@
         "testnet": true,
         "mainnet": true
       },
+      "have_token": false,
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
