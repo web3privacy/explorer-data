@@ -4907,7 +4907,9 @@
       "links": {
         "web": "https://nicenode.xyz",
         "github": "https://github.com/NiceNode/nice-node",
-        "twitter": "https://twitter.com/nicenodeapp"
+        "blog": "https://mirror.xyz/nicenode.eth",
+        "twitter": "https://twitter.com/nicenodeapp",
+        "discord": "https://discord.com/invite/k3dpYU4Pn9"
       },
       "project_status": {
         "live_status": true,
@@ -4915,6 +4917,8 @@
         "testnet": false,
         "mainnet": true
       },
+      "have_token": false,
+      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
