@@ -6,11 +6,9 @@ links:
   web: https://www.nodl.eu/
   docs: https://docs.nodl.it/
   twitter: https://twitter.com/nodl_it
-  telegram: https://t.me/nodl_it
 project_status:
   live_status: true
   version: 
   testnet: false
   mainnet: true
-have_token: false
-sunset: false  
+  
