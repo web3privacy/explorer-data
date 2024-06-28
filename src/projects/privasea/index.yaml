@@ -1,10 +1,8 @@
-name: Privasea
-categories:
-  - computing-network
-description: 'Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed'
-ecosystem: multipurpose
+name: 'Privasea'
+categories: [ FHE ]
+description: 'An AI + DePIN Network enabled through FHEML'
 links:
-  web: https://www.privasea.tech
+  web: https://www.privasea.ai/
   github: https://github.com/Privasea
   docs: https://docs.privasea.ai/
   whitepaper: https://drive.google.com/file/d/1jbxWMgEziupt119gvM1n0Mu8sDdM7VWF/view
@@ -12,7 +10,3 @@ links:
   twitter: https://x.com/Privasea_ai
   discord: https://discord.com/invite/yRtQGvWkvG
   telegram: https://t.me/Privasea_ai
-team:
-  anonymous: false
-  company:
-    link: https://www.privasea.tech/about

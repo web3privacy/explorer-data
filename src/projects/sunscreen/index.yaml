@@ -1,7 +1,8 @@
-name: Sunscreen
-categories:
-  - infrastructure
-description: Makes advanced privacy technology easy for engineers to use.
+name: 'Sunsscreen'
+categories: [ FHE ]
+description: 'Privacy engine of the new web.'
 links:
-  web: https://blog.sunscreen.tech/roadmap/
-  github: https://github.com/Sunscreen-tech?ref=sunscreen
+  web: https://sunscreen.tech/ 
+  blog: https://blog.sunscreen.tech/ 
+  twitter: https://x.com/sunscreentech
+  discord: https://discord.com/invite/WHCs6jNNDS

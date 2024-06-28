@@ -9,11 +9,8 @@ links:
   github: https://github.com/stereum-dev/ethereum-node
   docs: https://stereum.net/content/guides
   twitter: https://twitter.com/stereumdev
-  discord: https://discord.com/invite/df8r5PVX9P
 project_status:
   live_status: true
   version: v2.1.3
   testnet: true
   mainnet: true
-have_token: false
-sunset: false
