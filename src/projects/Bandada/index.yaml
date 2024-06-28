@@ -6,6 +6,6 @@ team:
   anonymous: true
 links:
   web: https://bandada.pse.dev/
-  docs:https://docs.bandada.pse.dev/
+  docs: https://docs.bandada.pse.dev/
   github: https://github.com/bandada-infra/bandada
   type: semaphore, zk-kit
