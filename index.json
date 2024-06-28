@@ -320,10 +320,7 @@
       "links": {
         "web": "https://raspiblitz.org",
         "docs": "https://docs.raspiblitz.org/docs/setup/intro",
-        "github": "https://github.com/raspiblitz",
-        "blog": "https://medium.com/tag/raspiblitz",
-        "twitter": "https://x.com/RaspiBlitz",
-        "telegram": "https://t.me/raspiblitz"
+        "github": "https://github.com/raspiblitz"
       },
       "project_status": {
         "live_status": true,
@@ -331,8 +328,6 @@
         "testnet": false,
         "mainnet": true
       },
-      "have_token": false,
-      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
@@ -2004,6 +1999,38 @@
       ]
     },
     {
+      "id": "semaphore",
+      "name": "semaphore",
+      "categories": [
+        "DID"
+      ],
+      "description": "Semaphore is a protocol that allows users to prove their membership in a group and transmit anonymous data, such as votes or feedback, without revealing their identities.",
+      "project_status": {
+        "version": "V4-beta",
+        "live_status": true
+      },
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/semaphore-protocol",
+        "web": "https://semaphore.pse.dev",
+        "discord": "https://semaphore.pse.dev/discord",
+        "twitter": "https://semaphore.pse.dev/twitter",
+        "docs": "https://docs.semaphore.pse.dev"
+      },
+      "technology": {
+        "type": "zk-kit, circom, snarkjs"
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/semaphore/logo.png"
+        }
+      ]
+    },
+    {
       "id": "rln-anonymous-chat",
       "name": "RLN Anonymous Chat",
       "categories": [
@@ -2764,8 +2791,7 @@
         "web": "https://stereum.net/ethereum-node-setup/",
         "github": "https://github.com/stereum-dev/ethereum-node",
         "docs": "https://stereum.net/content/guides",
-        "twitter": "https://twitter.com/stereumdev",
-        "discord": "https://discord.com/invite/df8r5PVX9P"
+        "twitter": "https://twitter.com/stereumdev"
       },
       "project_status": {
         "live_status": true,
@@ -2773,8 +2799,6 @@
         "testnet": true,
         "mainnet": true
       },
-      "have_token": false,
-      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
@@ -2905,6 +2929,32 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/x-cash/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "zk-kit",
+      "name": "zk-kit",
+      "categories": "infrastructure",
+      "description": "A set of reusable libraries for zero-knowledge technologies.",
+      "project_status": {
+        "live_status": true
+      },
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/privacy-scaling-explorations/zk-kit",
+        "web": "https://zkkit.pse.dev/"
+      },
+      "technology": {
+        "type": "javascript, circom, solidity, noir"
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zk-kit/logo.png"
         }
       ]
     },
@@ -4915,9 +4965,7 @@
       "links": {
         "web": "https://nicenode.xyz",
         "github": "https://github.com/NiceNode/nice-node",
-        "blog": "https://mirror.xyz/nicenode.eth",
-        "twitter": "https://twitter.com/nicenodeapp",
-        "discord": "https://discord.com/invite/k3dpYU4Pn9"
+        "twitter": "https://twitter.com/nicenodeapp"
       },
       "project_status": {
         "live_status": true,
@@ -4925,8 +4973,6 @@
         "testnet": false,
         "mainnet": true
       },
-      "have_token": false,
-      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
@@ -5220,6 +5266,31 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/djib/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "Bandada",
+      "name": "Bandada",
+      "categories": [
+        "DID"
+      ],
+      "description": "An open-source system for managing privacy-preserving groups of anonymous individuals.",
+      "project_status": "testnet",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://bandada.pse.dev/",
+        "docs": "https://docs.bandada.pse.dev/",
+        "github": "https://github.com/bandada-infra/bandada",
+        "type": "semaphore, zk-kit"
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Bandada/logo.png"
         }
       ]
     },
@@ -6047,12 +6118,11 @@
       "id": "privasea",
       "name": "Privasea",
       "categories": [
-        "computing-network"
+        "FHE"
       ],
-      "description": "Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed",
-      "ecosystem": "multipurpose",
+      "description": "An AI + DePIN Network enabled through FHEML",
       "links": {
-        "web": "https://www.privasea.tech",
+        "web": "https://www.privasea.ai/",
         "github": "https://github.com/Privasea",
         "docs": "https://docs.privasea.ai/",
         "whitepaper": "https://drive.google.com/file/d/1jbxWMgEziupt119gvM1n0Mu8sDdM7VWF/view",
@@ -6060,12 +6130,6 @@
         "twitter": "https://x.com/Privasea_ai",
         "discord": "https://discord.com/invite/yRtQGvWkvG",
         "telegram": "https://t.me/Privasea_ai"
-      },
-      "team": {
-        "anonymous": false,
-        "company": {
-          "link": "https://www.privasea.tech/about"
-        }
       },
       "logos": [
         {
@@ -6419,34 +6483,6 @@
       ]
     },
     {
-      "id": "ivpn",
-      "name": "IVPN",
-      "categories": [
-        "vpn"
-      ],
-      "description": "IVPN keeps no logs and no customer accounts, is an open source VPN provider using WireGuard or OpenVPN",
-      "ecosystem": "no chain",
-      "links": {
-        "web": "https://www.ivpn.net/",
-        "github": "https://github.com/ivpn",
-        "blog": "https://www.ivpn.net/blog/",
-        "twitter": "https://x.com/ivpnnet"
-      },
-      "team": {
-        "anonymous": false,
-        "company": {
-          "link": "https://www.ivpn.net/team/"
-        }
-      },
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/ivpn/logo.png"
-        }
-      ]
-    },
-    {
       "id": "spkz",
       "name": "SPKZ",
       "categories": [
@@ -6524,8 +6560,7 @@
         "github": "https://github.com/Start9Labs",
         "docs": "https://docs.start9.com/0.3.5.x/",
         "blog": "https://blog.start9.com/",
-        "twitter": "https://twitter.com/start9labs",
-        "telegram": "https://t.me/start9_labs"
+        "twitter": "https://twitter.com/start9labs"
       },
       "project_status": {
         "live_status": true,
@@ -6533,13 +6568,36 @@
         "testnet": false,
         "mainnet": true
       },
-      "have_token": false,
-      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/start9/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "Summa",
+      "name": "Summa",
+      "categories": "infrastructure",
+      "description": "Protocol enabling centralized exchanges to prove solvency without compromising private information.",
+      "project_status": {
+        "live_status": true
+      },
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/summa-dev"
+      },
+      "technology": {
+        "type": "halo2"
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Summa/logo.png"
         }
       ]
     },
@@ -9497,14 +9555,16 @@
     },
     {
       "id": "sunscreen",
-      "name": "Sunscreen",
+      "name": "Sunsscreen",
       "categories": [
-        "infrastructure"
+        "FHE"
       ],
-      "description": "Makes advanced privacy technology easy for engineers to use.",
+      "description": "Privacy engine of the new web.",
       "links": {
-        "web": "https://blog.sunscreen.tech/roadmap/",
-        "github": "https://github.com/Sunscreen-tech?ref=sunscreen"
+        "web": "https://sunscreen.tech/",
+        "blog": "https://blog.sunscreen.tech/",
+        "twitter": "https://x.com/sunscreentech",
+        "discord": "https://discord.com/invite/WHCs6jNNDS"
       },
       "logos": [
         {
@@ -10941,6 +11001,33 @@
       ]
     },
     {
+      "id": "AnonKlub",
+      "name": "AnonKlub",
+      "categories": [
+        "DID"
+      ],
+      "description": "AnonKlub is a tool designed for Ethereum developers that allows for anonymous proof of Ethereum address ownership.",
+      "project_status": "testnet",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "http://anonklub.xyz",
+        "docs": "https://docs.anonklub.xyz/docs/intro",
+        "github": "https://github.com/anonklub/anonklub"
+      },
+      "technology": {
+        "type": "circom, snarkjs, halo2"
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/AnonKlub/logo.png"
+        }
+      ]
+    },
+    {
       "id": "fedi",
       "name": "Fedi",
       "categories": [
@@ -12133,6 +12220,35 @@
       ]
     },
     {
+      "id": "anon-aadhaar",
+      "name": "Anon Aadhaar",
+      "categories": [
+        "DID"
+      ],
+      "description": "Anon Aadhaar is a project that allows individuals to prove their citizenship anonymously. The project provides circuits, an SDK, and demo applications that generate and verify proofs of valid Aadhaar cards, integrating with the PCD framework to support a wide range of applications.",
+      "project_status": "testnet",
+      "live_status": true,
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://anon-aadhaar.pse.dev/",
+        "blog": "https://anon-aadhaar-documentation.vercel.app/blog",
+        "docs": "https://anon-aadhaar-documentation.vercel.app/docs/intro",
+        "github": "https://github.com/anon-aadhaar/anon-aadhaar"
+      },
+      "technology": {
+        "type": "zk, circom, rsa"
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anon-aadhaar/logo.png"
+        }
+      ]
+    },
+    {
       "id": "notebook-labs",
       "name": "Notebook labs",
       "categories": [
@@ -12497,6 +12613,29 @@
       ]
     },
     {
+      "id": "p0tion",
+      "name": "p0tion",
+      "categories": "infrastructure",
+      "description": "Toolkit for Groth16 Phase 2 Trusted Setup ceremonies.",
+      "project_status": {
+        "live_status": true
+      },
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://ceremony.pse.dev/",
+        "github": "https://github.com/privacy-scaling-explorations/p0tion"
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/p0tion/logo.png"
+        }
+      ]
+    },
+    {
       "id": "arpa",
       "name": "ARPA",
       "categories": [
@@ -12756,8 +12895,7 @@
       "links": {
         "web": "https://www.nodl.eu/",
         "docs": "https://docs.nodl.it/",
-        "twitter": "https://twitter.com/nodl_it",
-        "telegram": "https://t.me/nodl_it"
+        "twitter": "https://twitter.com/nodl_it"
       },
       "project_status": {
         "live_status": true,
@@ -12765,8 +12903,6 @@
         "testnet": false,
         "mainnet": true
       },
-      "have_token": false,
-      "sunset": false,
       "logos": [
         {
           "file": "logo.png",
