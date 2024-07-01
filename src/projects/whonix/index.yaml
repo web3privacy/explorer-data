@@ -9,6 +9,9 @@ links:
   github: https://github.com/Whonix
   docs: https://www.whonix.org/wiki/Documentation
   twitter: https://twitter.com/Whonix
+  forum: https://forums.whonix.org/
+  facebook: https://www.facebook.com/Whonix
+  telegram: https://t.me/s/Whonix
 project_status:
   live_status: true
   version: 17.0.4.5
