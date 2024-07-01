@@ -4485,7 +4485,9 @@
         "web": "https://www.qubes-os.org",
         "github": "https://github.com/QubesOS",
         "docs": "https://www.qubes-os.org/doc/",
-        "twitter": "https://twitter.com/QubesOS"
+        "twitter": "https://twitter.com/QubesOS",
+        "forum": "https://forum.qubes-os.org/",
+        "facebook": "https://www.facebook.com/QubesOS"
       },
       "project_status": {
         "live_status": true,
@@ -8959,7 +8961,13 @@
       ],
       "description": "Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments",
       "links": {
-        "web": "https://nil.foundation"
+        "web": "https://nil.foundation",
+        "github": "https://github.com/nilfoundation",
+        "docs": "https://docs.nil.foundation/",
+        "blog": "https://nil.foundation/blog",
+        "twitter": "https://x.com/nil_foundation",
+        "discord": "https://discord.com/invite/KmTAEjbmM3",
+        "telegram": "https://t.me/nilfoundation"
       },
       "logos": [
         {
@@ -10894,7 +10902,10 @@
         "web": "https://www.whonix.org/",
         "github": "https://github.com/Whonix",
         "docs": "https://www.whonix.org/wiki/Documentation",
-        "twitter": "https://twitter.com/Whonix"
+        "twitter": "https://twitter.com/Whonix",
+        "forum": "https://forums.whonix.org/",
+        "facebook": "https://www.facebook.com/Whonix",
+        "telegram": "https://t.me/s/Whonix"
       },
       "project_status": {
         "live_status": true,
