@@ -13,6 +13,8 @@ links:
   github: https://github.com/QubesOS
   docs: https://www.qubes-os.org/doc/
   twitter: https://twitter.com/QubesOS
+  forum: https://forum.qubes-os.org/
+  facebook: https://www.facebook.com/QubesOS
 project_status:
   live_status: true
   version: 4.2.1
