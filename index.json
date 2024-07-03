@@ -1775,8 +1775,24 @@
         "rd"
       ],
       "description": "Build blockchain systems for a more private, self-sovereign future on Fidora",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Samuel Harrison",
+            "role": "CEO",
+            "link": "https://x.com/samuelpharrison"
+          },
+          {
+            "name": "Peter Abilla",
+            "role": "CBO",
+            "link": "https://x.com/shmula"
+          }
+        ]
+      },
       "links": {
-        "web": "https://discreetlabs.io"
+        "web": "https://discreetlabs.io",
+        "twitter": "https://x.com/discreet_labs"
       },
       "logos": [
         {
@@ -11159,8 +11175,25 @@
         "rd"
       ],
       "description": "R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Josh Swihart",
+            "role": "CEO",
+            "link": "https://x.com/jswihart"
+          },
+          {
+            "name": "Paul Brigner",
+            "role": "VP",
+            "link": "https://x.com/paulbrigner"
+          }
+        ]
+      },
       "links": {
-        "web": "https://electriccoin.co/research-and-development/"
+        "web": "https://electriccoin.co/",
+        "blog": "https://electriccoin.co/blog/",
+        "twitter": "https://x.com/ElectricCoinCo"
       },
       "logos": [
         {
