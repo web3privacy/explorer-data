@@ -7429,8 +7429,10 @@
       ],
       "description": "The decentralized laboratory for building cutting-edge privacy technologies.",
       "links": {
-        "web": "https://p0xeidon.xyz"
+        "web": "https://p0xeidon.xyz",
+        "twitter": "https://x.com/p0xlabs"
       },
+      "sunset": true,
       "logos": [
         {
           "file": "logo.png",
@@ -8743,8 +8745,29 @@
         "rd"
       ],
       "description": "Take place to the next generation of privacy infrastructure.",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "cgi-bin",
+            "link": "https://github.com/sven-hash/"
+          },
+          {
+            "name": "Oheka",
+            "link": "https://github.com/Oheka"
+          },
+          {
+            "name": "Amadeous",
+            "link": "https://github.com/amadeous"
+          }
+        ]
+      },
       "links": {
-        "web": "https://nym.notrustverify.ch"
+        "web": "https://nym.notrustverify.ch",
+        "github": "https://github.com/notrustverify",
+        "blog": "https://blog.notrustverify.ch/",
+        "twitter": "https://x.com/notrustverif",
+        "telegram": "https://t.me/notrustverify"
       },
       "logos": [
         {
