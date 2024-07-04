@@ -13414,7 +13414,10 @@
         "github": "https://github.com/crustio",
         "docs": "https://wiki.crust.network/en",
         "whitepaper": "https://ipfs.io/ipfs/QmP9WqDYhreSuv5KJWzWVKZXJ4hc7y9fUdwC4u23SmqL6t",
-        "twitter": "https://twitter.com/CrustNetwork"
+        "twitter": "https://twitter.com/CrustNetwork",
+        "blog": "https://medium.com/crustnetwork",
+        "discord": "https://discord.com/invite/Jbw2PAUSCR",
+        "telegram": "https://t.me/CrustNetwork"
       },
       "project_status": {
         "live_status": true,
