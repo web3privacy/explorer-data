@@ -837,9 +837,23 @@
         "rd"
       ],
       "description": "An independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Mikerah",
+            "link": "https://x.com/badcryptobitch"
+          },
+          {
+            "name": "Hernan Vanegas",
+            "link": "https://x.com/hdvanegasm"
+          }
+        ]
+      },
       "links": {
         "web": "https://hashcloak.com",
-        "github": "https://github.com/hashcloak"
+        "github": "https://github.com/hashcloak",
+        "twitter": "https://x.com/hashcloak"
       },
       "logos": [
         {
@@ -1226,8 +1240,29 @@
         "rd"
       ],
       "description": "Smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Vikram Anand",
+            "role": "Product&Engineering",
+            "link": "https://x.com/bhushan_vikram"
+          },
+          {
+            "name": "Irfan Khan",
+            "role": "Business&Strategy",
+            "link": "https://x.com/arcaneprojekt"
+          },
+          {
+            "name": "Vishwas Bhushan",
+            "role": "Research&dev",
+            "link": "https://www.linkedin.com/in/vishwas-anand-bhushan-bab55576/"
+          }
+        ]
+      },
       "links": {
-        "web": "https://hypermine.co"
+        "web": "https://hypermine.co",
+        "blog": "https://hypermine.co/blog"
       },
       "logos": [
         {
