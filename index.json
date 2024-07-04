@@ -954,7 +954,11 @@
       "description": "Provides validator services to several networks, and develops privacy-preserving dApps",
       "links": {
         "web": "https://trivium.network",
-        "github": "https://github.com/TriviumNode"
+        "github": "https://github.com/TriviumNode",
+        "block_explorer": "https://explorer.trivium.network/",
+        "twitter": "https://x.com/TriviumNode",
+        "discord": "https://discord.com/invite/tZj7ZhhdP5",
+        "telegram": "https://t.me/TriviumNode"
       },
       "logos": [
         {
@@ -12189,7 +12193,8 @@
       "description": "The Web3 Private RPC Relay",
       "links": {
         "web": "https://www.1rpc.io",
-        "docs": "https://docs.ata.network/1rpc/introduction/"
+        "docs": "https://docs.ata.network/1rpc/introduction/",
+        "twitter": "https://x.com/1rpc_"
       },
       "logos": [
         {
