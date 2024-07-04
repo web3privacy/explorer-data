@@ -226,7 +226,10 @@
       "description": "a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain",
       "links": {
         "web": "https://rpch.net/",
-        "github": "https://github.com/Rpc-h/RPCh"
+        "github": "https://github.com/Rpc-h/RPCh",
+        "docs": "https://docs.rpch.net/docs/tutorial-basics/What-is-RPCh",
+        "twitter": "https://x.com/RPC_h_",
+        "discord": "https://discord.com/invite/VRyTQTNBTy"
       },
       "logos": [
         {
@@ -585,8 +588,37 @@
         "rpc"
       ],
       "description": "Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Piper Merriam",
+            "role": "lead res",
+            "link": "https://github.com/pipermerriam"
+          },
+          {
+            "name": "Jason Carver",
+            "role": "lead dev",
+            "link": "https://github.com/carver/"
+          },
+          {
+            "name": "Nick Gheorghita",
+            "role": "dev",
+            "link": "https://github.com/njgheorghita"
+          },
+          {
+            "name": "Kolby ML",
+            "role": "dev",
+            "link": "https://github.com/KolbyML"
+          }
+        ]
+      },
       "links": {
-        "web": "https://www.ethportal.net/"
+        "web": "https://www.ethportal.net/",
+        "github": "https://github.com/ethereum/portal-network-specs",
+        "blog": "https://blog.ethportal.net/",
+        "twitter": "https://x.com/ethportalnet",
+        "discord": "https://discord.com/invite/rHruRsbgeY"
       },
       "logos": [
         {
@@ -8669,8 +8701,22 @@
       "description": "Private RPC services",
       "links": {
         "web": "https://zoci.io",
-        "github": "https://github.com/zoci-io"
+        "github": "https://github.com/zoci-io",
+        "blog": "https://medium.com/@zoci_io",
+        "twitter": "https://x.com/Zoci_io",
+        "discord": "https://discord.com/invite/vv3HXAVmMq",
+        "telegram": "https://t.me/zoci_io"
       },
+      "have_token": true,
+      "token_link": "https://arbiscan.io/token/0x45d780CfE839b8a8f292C9E26aa5D1805bc536dc",
+      "tokens": [
+        {
+          "name": "ZociToken",
+          "symbol": "ZOCI",
+          "network": "Arbitrum",
+          "contract_address": "0x45d780cfe839b8a8f292c9e26aa5d1805bc536dc"
+        }
+      ],
       "logos": [
         {
           "file": "logo.png",
