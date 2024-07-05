@@ -11616,6 +11616,46 @@
             "name": "Nate",
             "role": "President",
             "link": "https://twitter.com/n8maninger"
+          },
+          {
+            "name": "Chris",
+            "role": "Director of Engineering",
+            "link": "https://github.com/ChrisSchinnerl"
+          },
+          {
+            "name": "Frances",
+            "role": "Director Operation",
+            "link": "https://www.linkedin.com/in/frances-lu-066762123/"
+          },
+          {
+            "name": "Steve",
+            "role": "Director People & Support",
+            "link": "https://github.com/stevefunk"
+          },
+          {
+            "name": "Luke",
+            "role": "Founder & Researcher",
+            "link": "https://x.com/lukechampine"
+          },
+          {
+            "name": "Alex",
+            "role": "Product Engineer",
+            "link": "https://x.com/alexfreska"
+          },
+          {
+            "name": "PJ",
+            "role": "dev",
+            "link": "https://github.com/peterjan"
+          },
+          {
+            "name": "Christopher",
+            "role": "dev",
+            "link": "https://github.com/chris124567"
+          },
+          {
+            "name": "Kino",
+            "role": "Community Manager",
+            "link": "https://github.com/kinomora"
           }
         ]
       },
@@ -11623,7 +11663,12 @@
         "web": "https://sia.tech",
         "github": "https://github.com/SiaFoundation",
         "docs": "https://docs.sia.tech/",
-        "whitepaper": "https://sia.tech/sia.pdf"
+        "whitepaper": "https://sia.tech/sia.pdf",
+        "block_explorer": "https://siascan.com/",
+        "forum": "https://forum.sia.tech/",
+        "blog": "https://blog.sia.tech",
+        "twitter": "https://x.com/sia__foundation",
+        "discord": "https://discord.com/invite/sia"
       },
       "project_status": {
         "live_status": true,
