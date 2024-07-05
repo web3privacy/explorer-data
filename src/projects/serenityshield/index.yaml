@@ -8,11 +8,39 @@ team:
     - name: VENKET NAGA
       role: CEO & Co-Founder
       link: https://www.linkedin.com/in/venket-naga-97998b265/
+    - name: Boris M.
+      role: CPO & Co-Founder
+    - name: Hughes Svay
+      role: COO 
+      link: https://x.com/SvayHugues
+    - name: Nikos Koukos
+      role: Head of Marketing
+      link: https://www.linkedin.com/in/nikos-koukos-7a3899214/
+    - name: Nataliia Shtangrat
+      role: Business dev
+      link: https://x.com/Natalie_sht
+    - name: Justin Mantell
+      role: Business dev
+      link: https://x.com/ahabs_ghost
+    - name: Dan Thompson
+      role: Copywriter
+      link: https://x.com/dan_serenity
+    - name: Juan M.Oviedo
+      role: Head of security
+      link: https://x.com/OviedoJuanma
+    - name: Julio Vilalobos
+      role: Designer
+      link: https://x.com/julioskulls
+    - name: Ranjit Edward
+      role: Infrastructure Architect
+      link: https://www.linkedin.com/in/ranjitedward/  
 links:
   web: https://serenityshield.io
   blog: https://www.serenityshield.io/blog
   whitepaper: https://assets-global.website-files.com/646e1d2bb86f8833c75bdc7b/65e726c08c83172189fa7217_Whitepaper-Serenity%20Shield%20En.pdf
   twitter: https://x.com/serenityshield_
+  discord: https://discord.com/invite/SerenityShield
+  telegram: https://t.me/SerenityShield
 project_status:
   live_status: June 2024
   version: tbd
