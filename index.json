@@ -10479,7 +10479,8 @@
         "github": "https://github.com/Storj/",
         "docs": "https://docs.storj.io/",
         "blog": "https://www.storj.io/blog",
-        "twitter": "https://x.com/storj"
+        "twitter": "https://x.com/storj",
+        "forum": "https://forum.storj.io/"
       },
       "project_status": {
         "live_status": true,
