@@ -8,6 +8,8 @@ links:
   github: https://gitlab.demlabs.net/cellframe/cellframe-sdk
   whitepaper: https://kelvpn.com/KelVPN-Light-paper.pdf
   twitter: https://twitter.com/KelvpnNetwork
+  blog: https://kelvpn-network.medium.com/
+  telegram: https://t.me/kelvpndev
 team:
   anonymous: true
 have_token: true
