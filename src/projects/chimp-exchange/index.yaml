@@ -1,0 +1,22 @@
+name: ChimpExchange
+categories: [ defi ]
+ecosystem: [ Ten ]
+
+project_type: DeFi
+description: 'Fully encrypted DEX'
+
+team:
+  anonymous: true
+
+links:
+  web: https://ten.chimp.exchange
+  docs: https://docs.chimp.exchange/chimp-on-ten
+  twitter: https://x.com/ChimpExchange
+  block_explorer: https://testnet.tenscan.io
+  discord: https://discord.gg/TBJZzkY9aN
+
+project_status:
+  live_status: true
+  version: Testnet
+  testnet: true
+  mainnet: false
