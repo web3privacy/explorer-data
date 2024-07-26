@@ -10072,6 +10072,41 @@
       ]
     },
     {
+      "id": "chimp-exchange",
+      "name": "ChimpExchange",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": [
+        "Ten"
+      ],
+      "project_type": "DeFi",
+      "description": "Fully encrypted DEX",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://ten.chimp.exchange",
+        "docs": "https://docs.chimp.exchange/chimp-on-ten",
+        "twitter": "https://x.com/ChimpExchange",
+        "block_explorer": "https://testnet.tenscan.io",
+        "discord": "https://discord.gg/TBJZzkY9aN"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Testnet",
+        "testnet": true,
+        "mainnet": false
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/chimp-exchange/logo.png"
+        }
+      ]
+    },
+    {
       "id": "blackbox",
       "name": "Blackbox",
       "categories": [
