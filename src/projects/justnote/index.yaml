@@ -1,0 +1,11 @@
+name: Justnote
+categories:
+  - dapps
+description: 'A simple, fast, privacy-focused note-taking app that you can use easily, take notes rapidly, and, importantly, truly own your account and data.'
+links:
+  web: https://justnote.cc
+  github: https://github.com/stxapps/justnote-client
+  blog: https://medium.com/@stxapps
+  twitter: https://x.com/justnotecc
+project_status:
+  live_status: true
