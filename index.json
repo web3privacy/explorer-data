@@ -13426,12 +13426,7 @@
       "id": "Intmax",
       "name": "Intmax",
       "categories": [
-        "Layer-2"
-      ],
-      "assets_used": [
-        "BTC",
-        "ETH",
-        "USDC"
+        "layer-2"
       ],
       "ecosystem": [
         "Ethereum"
