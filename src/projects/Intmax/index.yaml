@@ -1,6 +1,6 @@
 name: Intmax
-categories: [ Layer-2 ]
-assets_used: [ BTC, ETH, USDC ] 
+categories:  
+  - layer-2  
 ecosystem: [ Ethereum ]
 project_type: Layer2 zk-rollup
 description: 'A zkRollup with a stateless architecture. Achieving hyper-scaling and privacy at the same time.'
