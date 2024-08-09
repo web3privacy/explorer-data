@@ -1,0 +1,34 @@
+name: Kinto
+categories: [ Layer-2 ]
+description: 'The safety-first L2 for Finance'
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Ramon Recuero
+      role: CEO 
+      link: https://x.com/ramonrecuero
+
+links:
+  web: https://www.kinto.xyz/
+  github: https://github.com/kintoxyz
+  block_explorer: https://kintoscan.io/
+  docs: https://docs.kinto.xyz/kinto-the-safe-l2
+  whitepaper: https://docs.kinto.xyz/kinto-the-safe-l2/general/litepaper
+  blog: https://mirror.xyz/kintoxyz.eth
+  twitter: https://x.com/KintoXYZ
+  discord: https://discord.com/invite/kinto?a=1
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+have_token: true
+token_link: https://kintoscan.io/token/0x010700808D59d2bb92257fCafACfe8e5bFF7aB87?chainid=7887
+tokens:
+  - name: KINTO
+    symbol: $KINTO
+    network: Kinto
+    contract_address: "0x010700808D59d2bb92257fCafACfe8e5bFF7aB87"
