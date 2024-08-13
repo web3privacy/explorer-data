@@ -3825,6 +3825,55 @@
       ]
     },
     {
+      "id": "Coti",
+      "name": "Coti",
+      "categories": [
+        "layer-2"
+      ],
+      "description": "EVM L2 solving blockchain privacy with Garbled Circuits",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Joshua Maddox",
+            "role": "CEPO",
+            "link": "https://x.com/JoshuaBMaddox"
+          },
+          {
+            "name": "Shaf Bar-Geffen",
+            "role": "CEO",
+            "link": "https://x.com/shahafbg"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://coti.io/",
+        "github": "https://github.com/coti-io",
+        "docs": "https://docs.coti.io/coti-v2-documentation",
+        "whitepaper": "https://coti.io/files/coti_v2_whitepaper.pdf",
+        "blog": "https://coti.io/blog",
+        "twitter": "https://x.com/COTInetwork",
+        "discord": "https://discord.com/invite/wfAQfbc3Df",
+        "telegram": "https://t.me/COTInetwork"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Testnet",
+        "testnet": true,
+        "mainnet": false
+      },
+      "have_token": true,
+      "token_link": "https://etherscan.io/token/0xddb3422497e61e13543bea06989c0789117555c5",
+      "tokens": [
+        {
+          "name": "CotiToken",
+          "symbol": "$COTI",
+          "network": "Ethereum",
+          "contract_address": "0xDDB3422497E61e13543BeA06989C0789117555c5"
+        }
+      ]
+    },
+    {
       "id": "Fhenix",
       "name": "Fhenix",
       "categories": [
@@ -4733,6 +4782,31 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/raspiblitz/logo.png"
         }
       ]
+    },
+    {
+      "id": "Broearn",
+      "name": "Broearn",
+      "categories": [
+        "browser"
+      ],
+      "description": "Broearn the Ai Browser. Use-to-Earn solution, the privacy-centric Web3 browser",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://www.broearn.com/",
+        "docs": "https://docs.broearn.com/",
+        "twitter": "https://x.com/broearn",
+        "discord": "https://discord.com/invite/vsfqexDTDK",
+        "telegram": "https://t.me/broearn_browser"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
+      "have_token": false
     },
     {
       "id": "beepo",
@@ -10825,6 +10899,50 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/pollen-mobile/logo.png"
         }
       ]
+    },
+    {
+      "id": "RawBox",
+      "name": "RawBox",
+      "categories": [
+        "Hardware"
+      ],
+      "ecosystem": [
+        "Nym"
+      ],
+      "description": "Redefined privacy-enabled router.",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Oleksandr",
+            "link": "https://x.com/oleksky"
+          },
+          {
+            "name": "crptcpchk",
+            "link": "https://x.com/the01100011"
+          },
+          {
+            "name": "Yana Matrosova",
+            "link": "https://x.com/yana_tnfl"
+          },
+          {
+            "name": "Beyond",
+            "link": "https://x.com/Beyond_Karto"
+          }
+        ]
+      },
+      "links": {
+        "github": "https://github.com/Raw-Box/",
+        "twitter": "https://x.com/rawbox_tech",
+        "telegram": "https://t.me/+G4ixLEgYBXJkZWRi"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Testnet",
+        "testnet": true,
+        "mainnet": false
+      },
+      "have_token": false
     },
     {
       "id": "leading-privacy-alliance",
