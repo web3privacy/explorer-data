@@ -11925,7 +11925,14 @@
       "project_status": {
         "live_status": true
       },
-      "have_token": false
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Taceo/logo.png"
+        }
+      ]
     },
     {
       "id": "seneca",
