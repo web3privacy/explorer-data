@@ -11601,6 +11601,13 @@
           "network": "Kinto",
           "contract_address": "0x010700808D59d2bb92257fCafACfe8e5bFF7aB87"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Kinto/logo.png"
+        }
       ]
     },
     {
