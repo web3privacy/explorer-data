@@ -1396,6 +1396,33 @@
       ]
     },
     {
+      "id": "Nata network",
+      "name": "Nata network",
+      "categories": [
+        "bridge"
+      ],
+      "description": "Nata Network is your portal to private cross-chain transactions.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://app.natarouter.com/",
+        "github": "https://github.com/shichiro-nakahara",
+        "block_explorer": "https://explorer.natanetwork.io/",
+        "docs": "https://docs.natanetwork.io/",
+        "blog": "https://mirror.xyz/natanetwork.eth",
+        "twitter": "https://x.com/nata_network_io",
+        "discord": "https://discord.com/invite/m9Ma7PbFwb"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
+      "have_token": false
+    },
+    {
       "id": "fractal-id",
       "name": "Fractal ID",
       "categories": [
@@ -2371,6 +2398,38 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/imperiume/logo.png"
         }
       ]
+    },
+    {
+      "id": "DeGuard",
+      "name": "DeGuard",
+      "categories": [
+        "VPN"
+      ],
+      "description": "Provide utimate privacy based on web3",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Niktim",
+            "link": "https://x.com/Crypto_Niktim"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://deguard.io/",
+        "github": "https://github.com/deguardvpn",
+        "docs": "https://docs.deguard.io/",
+        "twitter": "https://x.com/DeGuardVPN",
+        "discord": "https://discord.com/invite/agv3a9wGUn",
+        "telegram": "https://t.me/DeGuardVPN"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
+      "have_token": false
     },
     {
       "id": "common",
@@ -5381,6 +5440,41 @@
       ]
     },
     {
+      "id": "Adamant",
+      "name": "Adamant",
+      "categories": [
+        "messaging"
+      ],
+      "description": "Decentralized anonymous blockchain Messenger & crypto Wallet",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://adamant.im/",
+        "github": "https://github.com/adamant-im",
+        "block_explorer": "https://explorer.adamant.im/",
+        "whitepaper": "https://adamant.im/whitepapers-library/",
+        "blog": "https://news.adamant.im/",
+        "twitter": "https://x.com/adamant_im",
+        "telegram": "https://t.me/adamant_eng"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
+      "have_token": true,
+      "token_link": "https://www.coingecko.com/en/coins/adamant-messenger",
+      "tokens": [
+        {
+          "name": "ADMToken",
+          "symbol": "$ADM",
+          "network": "Ethereum"
+        }
+      ]
+    },
+    {
       "id": "blockwallet",
       "name": "BlockWallet",
       "categories": [
@@ -5586,6 +5680,54 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/foundation/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "BlockBlend",
+      "name": "BlockBlend",
+      "categories": [
+        "bridge"
+      ],
+      "ecosystem": [
+        "Ethereum",
+        "Polygon",
+        "Base",
+        "Bnb",
+        "Solana"
+      ],
+      "description": "Privacy Cross-Chain Decentralized Services",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Tom",
+            "link": "https://x.com/TomBlockBlend"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://blockblend.io/",
+        "docs": "https://docs.blockblend.io/",
+        "whitepaper": "https://blockblend.io/pitchdeck.pdf",
+        "blog": "https://blockblendio.medium.com/",
+        "twitter": "https://x.com/blockblendio",
+        "telegram": "https://t.me/blockblendIO"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
+      "have_token": true,
+      "token_link": "https://etherscan.io/address/0x0a44a7ccea34a7563ba1d45a5f757d0b02281124",
+      "tokens": [
+        {
+          "name": "BBL Tpken",
+          "symbol": "$BBL",
+          "network": "Ethereum",
+          "contract_address": "0x0a44a7ccea34a7563ba1d45a5f757d0b02281124"
         }
       ]
     },
@@ -9207,6 +9349,57 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ethberlin/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "ChainPort",
+      "name": "ChainPort",
+      "categories": [
+        "bridge"
+      ],
+      "ecosystem": [
+        "Ethereum",
+        "Arbitrum",
+        "Optimism",
+        "Base",
+        "Bnb",
+        "Fantom",
+        "Polygon",
+        "Avalanche"
+      ],
+      "description": "next-gen custodian secure bridge",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "DcentraLab",
+            "link": "https://x.com/DcentraLab"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.chainport.io/private-bridge",
+        "github": "https://github.com/chainport",
+        "docs": "https://docs.chainport.io/",
+        "blog": "https://medium.com/chainport",
+        "twitter": "https://x.com/chain_port",
+        "telegram": "https://t.me/chainport_news"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
+      "have_token": true,
+      "token_link": "https://etherscan.io/token/0x104f3152d8ebfc3f679392977356962ff36566ac",
+      "tokens": [
+        {
+          "name": "PORTX Token",
+          "symbol": "$PORTX",
+          "network": "Ethereum",
+          "contract_address": "0x104f3152d8ebfc3f679392977356962ff36566ac"
         }
       ]
     },
