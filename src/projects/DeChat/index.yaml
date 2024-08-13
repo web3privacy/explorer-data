@@ -1,0 +1,37 @@
+name: DeChat
+categories: [ messaging ] 
+description: 'open and secure web3 communications protocol that powers decentralized user interactions'
+
+team:
+  anonymous: false
+  teammembers:
+    - name: JAMES I. RADFORD
+      role: CEO
+      link: https://www.linkedin.com/in/james-r-aa8989165/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+    - name: ANDY DEMETRIOU
+      role: CMO
+      link: https://www.linkedin.com/in/andy-demetriou-a57778177/
+    - name: DANIEL DRESCHER
+      role: COO
+      link: https://www.linkedin.com/in/danieldrescher/
+     
+links:
+  web: https://www.dechat.io/home
+  docs: https://dechat.gitbook.io/dechat
+  twitter: https://x.com/dechat_io
+  discord: https://discord.com/invite/dechat
+  telegram: https://t.me/dechat_community
+  
+project_status:
+  live_status: true
+  version: Testnet
+  testnet: true
+  mainnet: false
+
+have_token: true
+token_link: https://bscscan.com/token/0xd69ee2e508363fed57f89917d5ca03e715ee5519
+tokens:
+  - name: DeChat Token
+    symbol: $DeChat
+    network: BSC
+    contract_address: "0xD69ee2e508363FEd57f89917D5ca03e715ee5519"
