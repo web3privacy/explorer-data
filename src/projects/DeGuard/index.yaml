@@ -1,0 +1,25 @@
+name: DeGuard
+categories: [ VPN ] 
+description: 'Provide utimate privacy based on web3'
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Niktim
+      link: https://x.com/Crypto_Niktim
+
+links:
+  web: https://deguard.io/
+  github: https://github.com/deguardvpn
+  docs: https://docs.deguard.io/
+  twitter: https://x.com/DeGuardVPN
+  discord: https://discord.com/invite/agv3a9wGUn
+  telegram: https://t.me/DeGuardVPN
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+have_token: false
