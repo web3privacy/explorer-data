@@ -13985,27 +13985,6 @@
       ]
     },
     {
-      "id": "sunscreen",
-      "name": "Sunsscreen",
-      "categories": [
-        "FHE"
-      ],
-      "description": "Privacy engine of the new web.",
-      "links": {
-        "web": "https://sunscreen.tech/",
-        "blog": "https://blog.sunscreen.tech/",
-        "twitter": "https://x.com/sunscreentech",
-        "discord": "https://discord.com/invite/WHCs6jNNDS"
-      },
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/sunscreen/logo.png"
-        }
-      ]
-    },
-    {
       "id": "Intmax",
       "name": "Intmax",
       "categories": [
