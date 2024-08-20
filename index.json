@@ -5841,6 +5841,13 @@
           "network": "Ethereum",
           "contract_address": "0x0a44a7ccea34a7563ba1d45a5f757d0b02281124"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/BlockBlend/logo.png"
+        }
       ]
     },
     {
