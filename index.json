@@ -8139,6 +8139,13 @@
           "network": "BSC",
           "contract_address": "0xD69ee2e508363FEd57f89917D5ca03e715ee5519"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/DeChat/logo.png"
+        }
       ]
     },
     {
