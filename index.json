@@ -3916,6 +3916,13 @@
           "network": "Ethereum",
           "contract_address": "0xDDB3422497E61e13543BeA06989C0789117555c5"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Coti/logo.png"
+        }
       ]
     },
     {
@@ -5604,6 +5611,13 @@
           "name": "ADMToken",
           "symbol": "$ADM",
           "network": "Ethereum"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Adamant/logo.png"
         }
       ]
     },
