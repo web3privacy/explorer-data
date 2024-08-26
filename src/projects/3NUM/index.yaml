@@ -1,0 +1,52 @@
+name: 3NUM
+categories: [ messagging ]
+ecosystem: [ Ethereum ]
+usecases: [ sms, call ]
+description: 'The world's first Web3 Mobile Number securely '
+product_lunch_day: "2021"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Chris Boscolo
+      link: https://www.linkedin.com/in/chrisboscolo
+    - name: Brad Robel-Forrest
+      link: https://www.linkedin.com/in/bradrf
+    - name: Brian Gershon
+      link: https://www.linkedin.com/in/briangershon 
+    - name: Tyler Boscolo
+      link: https://www.linkedin.com/in/tylerboscolo
+    - name: Joshua Shane
+    - name: Montana Wong
+      
+links:
+  web: https://www.3num.co/
+  github: https://github.com/3numdao 
+  blog: https://www.3num.co/3num-blog  
+  twitter: https://x.com/3numLabs 
+  discord: https://discord.com/invite/cxFU8NvCYV
+
+project_phase: Mainet
+sunset: false
+
+funding:
+  name: BlueYard Capital
+  link: https://x.com/blueyard
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://www.3num.co/terms-of-service
+
+default_privacy: true
+
+traceability:
+  kyc: false
+third_party_dependency: false
+compliance: false
+ 
