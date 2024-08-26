@@ -1,0 +1,52 @@
+name: Privy
+categories: [ wallets ]
+ecosystem: [Solana ]
+usecases: [ wallet]
+description: 'Privy builds authentication, authorization and data control tooling so developers can deliver amazing products that keep users safe.'
+product_lunch_day: "2021"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Colfax
+      link: https://x.com/colfaxselby
+    - name: Jainil Sutaria
+      link: https://x.com/jainilsutaria1
+
+links:
+  web: https://www.privy.io/
+  github: https://github.com/privy-io
+  docs: https://docs.privy.io/ 
+  blog: https://www.privy.io/blog 
+  twitter: https://x.com/privy_io
+ 
+project_phase: Mainet
+sunset: false
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://www.privy.io/privacy-policy
+
+default_privacy: true
+
+traceability:
+  kyc: false
+   sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: false
+
+audits:
+  - name: Zellic
+    link: https://github.com/Zellic/publications/blob/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf
+    time: 2023-08
+
+tecnology:
+ type: AA   
+
+ 
