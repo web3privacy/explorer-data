@@ -2108,6 +2108,65 @@
       ]
     },
     {
+      "id": "Media network",
+      "name": "Media Network",
+      "categories": [
+        "computing-network"
+      ],
+      "ecosystem": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "Bnb",
+        "Optimist"
+      ],
+      "usecases": [
+        "cloud",
+        "DePin"
+      ],
+      "description": "The Web3 replacement for AWS and Google Cloud",
+      "product_lunch_day": "2021",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://www.media.network/",
+        "github": "https://github.com/mediafoundation",
+        "docs": "https://docs.media.network/",
+        "blog": "https://www.media.network/blog",
+        "twitter": "https://x.com/Media_FDN",
+        "telegram": "https://t.me/Media_FDN",
+        "discord": "https://discord.com/invite/nyCS7ePWzf"
+      },
+      "project_phase": "Beta Mainet",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Media Token",
+          "symbol": "$MEDIA",
+          "network": "Ethereum",
+          "contract_address": "0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1",
+          "token_link": "https://etherscan.io/token/0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false
+      },
+      "third_party_dependency": false,
+      "compliance": false
+    },
+    {
       "id": "rln-anonymous-chat",
       "name": "RLN Anonymous Chat",
       "categories": [
@@ -4882,6 +4941,72 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/pastenym/logo.png"
         }
       ]
+    },
+    {
+      "id": "Particl",
+      "name": "Particl",
+      "categories": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "Particl"
+      ],
+      "usecases": [
+        "marketplace"
+      ],
+      "description": "The only marketplace for private and unrestricted e-commerce",
+      "product_lunch_day": "2017",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Gerlof van Ek",
+            "link": "https://x.com/gerlof"
+          },
+          {
+            "name": "Henk Swardt",
+            "link": "https://www.linkedin.com/in/hswardt/"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://particl.io/marketplace",
+        "github": "https://github.com/particl",
+        "whitepaper": "https://github.com/particl/whitepaper",
+        "docs": "https://particl.wiki/",
+        "block_explorer": "https://explorer.particl.io/",
+        "blog": "https://particl.news/",
+        "twitter": "https://x.com/particlproject",
+        "telegram": "https://t.me/particltg",
+        "discord": "https://discord.me/particl"
+      },
+      "project_phase": "Alpha",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Particl Part",
+          "symbol": "Part",
+          "network": "Particl Blockchain",
+          "token_link": "https://explorer.particl.io/"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://academy.particl.io/en/latest/particl-blockchain/blockchain_privacy.html"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false
+      },
+      "third_party_dependency": false,
+      "compliance": false
     },
     {
       "id": "highline",
@@ -14823,6 +14948,86 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/privacy-pools/logo.png"
         }
       ]
+    },
+    {
+      "id": "Ergo",
+      "name": "Ergo Platform",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ergo",
+        "Btc"
+      ],
+      "usecases": [
+        "wallet",
+        "mining",
+        "mixer"
+      ],
+      "description": "Ergo is the next-gen smart contract platform! Bringing economic freedom to ordinary people through decentralized financial tools",
+      "product_lunch_day": "2017",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Alex Chepurnoy",
+            "link": "https://x.com/chepurnoy"
+          },
+          {
+            "name": "qx",
+            "link": "https://x.com/qx_ergo"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://ergoplatform.org/en/",
+        "github": "https://github.com/ergoplatform",
+        "whitepaper": "https://storage.googleapis.com/ergo-cms-media/Advanced_Ergo_Script_Tutorial_70ed6feddf/Advanced_Ergo_Script_Tutorial_70ed6feddf.pdf",
+        "docs": "https://docs.ergoplatform.com/",
+        "blog": "https://ergoplatform.org/en/blog/",
+        "forum": "https://www.ergoforum.org/",
+        "twitter": "https://x.com/ergo_platform",
+        "telegram": "https://t.me/Ergo_Chats",
+        "discord": "https://discord.com/invite/ergo-platform-668903786361651200"
+      },
+      "project_phase": "Testnet",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Ergo Token",
+          "symbol": "$ERG",
+          "network": "Ergochain",
+          "token_link": "https://www.coingecko.com/en/coins/ergo"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://ergoplatform.org/en/privacy-policy/"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "audits": [
+        {
+          "name": "Jean-Philipee Aumasson",
+          "link": "https://www.aumasson.jp/",
+          "time": "2019-12"
+        }
+      ],
+      "tecnology": {
+        "type": "vpn, mixer"
+      }
     },
     {
       "id": "dmail-network",
