@@ -5004,6 +5004,67 @@
       ]
     },
     {
+      "id": "Self",
+      "name": "Self",
+      "categories": [
+        "did"
+      ],
+      "usecases": [
+        "digital identity",
+        "personal data"
+      ],
+      "description": "Build identification and personal data management for everything",
+      "product_lunch_day": "2019",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Dan Sutherland",
+            "link": "https://www.linkedin.com/in/dansuth/"
+          },
+          {
+            "name": "Sena Gbeckor-Kove",
+            "link": "https://www.linkedin.com/in/senagbe/"
+          },
+          {
+            "name": "Jason Reid",
+            "link": "https://www.linkedin.com/in/jason-reid-1a12833/"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.joinself.com/",
+        "github": "https://github.com/joinself",
+        "docs": "https://docs.joinself.com/",
+        "twitter": "https://x.com/futureoftrust"
+      },
+      "project_phase": "testnet",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.joinself.com/company/legal"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "storage": {
+        "decentralized": true
+      },
+      "tecnology": {
+        "type": "ZK"
+      }
+    },
+    {
       "id": "Broearn",
       "name": "Broearn",
       "categories": [
@@ -11140,6 +11201,91 @@
       ]
     },
     {
+      "id": "Vocdoni",
+      "name": "Vocdoni",
+      "categories": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "voting"
+      ],
+      "description": "To build open source solutions to facilitate decision making in any organization.",
+      "product_lunch_day": "2017",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Joan Arus",
+            "link": "https://x.com/Joan_Arus"
+          },
+          {
+            "name": "Jordi Aulet",
+            "link": "https://x.com/jp_aulet"
+          },
+          {
+            "name": "Pau Escrich",
+            "link": "https://x.com/wildp4u"
+          },
+          {
+            "name": "Jordi Pinyana"
+          },
+          {
+            "name": "Marta Sancho",
+            "link": "https://x.com/MartaMordis"
+          },
+          {
+            "name": "Guido Iribarren",
+            "link": "https://github.com/altergui"
+          },
+          {
+            "name": "Lucas Menéndez",
+            "link": "https://github.com/lucasmenendez"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.vocdoni.io/",
+        "github": "https://github.com/vocdoni",
+        "docs": "https://docs.vocdoni.io/about-us/how-we-work.html",
+        "block_explorer": "https://explorer.vote/",
+        "blog": "https://blog.vocdoni.io/",
+        "twitter": "https://x.com/vocdoni",
+        "discord": "https://discord.com/invite/Qjm7krrFBf"
+      },
+      "project_phase": "Mainnet",
+      "sunset": false,
+      "funding": {
+        "name": "Aragon grant 2021/2022",
+        "link": "https://x.com/AragonProject"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "storage": {
+        "decentralized": true
+      },
+      "tecnology": {
+        "type": "zkSNARKs"
+      }
+    },
+    {
       "id": "skiff-pages",
       "name": "Skiff Pages",
       "categories": [
@@ -14235,6 +14381,64 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/brave/logo.png"
         }
       ]
+    },
+    {
+      "id": "Rotki",
+      "name": "Rotki",
+      "categories": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "Ethereum",
+        "Bitcoin",
+        "Base",
+        "Optimist",
+        "Gnosis",
+        "Scroll",
+        "ZkSync"
+      ],
+      "usecases": [
+        "os portfolio management"
+      ],
+      "description": "rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy",
+      "product_lunch_day": "2017",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Lefteris Karapetsas",
+            "link": "https://x.com/LefterisJP"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://rotki.com/",
+        "github": "https://github.com/rotki/rotki",
+        "docs": "https://docs.rotki.com/",
+        "blog": "https://blog.rotki.com/",
+        "twitter": "https://x.com/rotkiapp",
+        "discord": "https://discord.rotki.com/"
+      },
+      "project_phase": "Mainet",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://rotki.com/privacy-policy"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false
     },
     {
       "id": "parallelchain",
