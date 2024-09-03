@@ -1461,6 +1461,71 @@
       ]
     },
     {
+      "id": "Privy",
+      "name": "Privy",
+      "categories": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "usecases": [
+        "wallet"
+      ],
+      "description": "Privy builds authentication, authorization and data control tooling so developers can deliver amazing products that keep users safe.",
+      "product_lunch_day": "2021",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Colfax",
+            "link": "https://x.com/colfaxselby"
+          },
+          {
+            "name": "Jainil Sutaria",
+            "link": "https://x.com/jainilsutaria1"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.privy.io/",
+        "github": "https://github.com/privy-io",
+        "docs": "https://docs.privy.io/",
+        "blog": "https://www.privy.io/blog",
+        "twitter": "https://x.com/privy_io"
+      },
+      "project_phase": "Mainet",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.privy.io/privacy-policy"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "audits": [
+        {
+          "name": "Zellic",
+          "link": "https://github.com/Zellic/publications/blob/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf",
+          "time": "2023-08"
+        }
+      ],
+      "tecnology": {
+        "type": "AA"
+      }
+    },
+    {
       "id": "calimero-network",
       "name": "Calimero network",
       "categories": [
@@ -7027,6 +7092,76 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/waku/logo.png"
         }
+      ]
+    },
+    {
+      "id": "Sentz",
+      "name": "Sentz",
+      "categories": [
+        "dapps"
+      ],
+      "usecases": [
+        "payment"
+      ],
+      "description": "Global payments app for Freelancers & Creators",
+      "product_lunch_day": "2022",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Sara Drakeley",
+            "link": "https://www.linkedin.com/in/sara-drakeley/"
+          },
+          {
+            "name": "Henry Holtzman",
+            "link": "https://www.linkedin.com/in/holtzmanh/?original_referer=https%3A%2F%2Fwww.sentz.com%2F"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.sentz.com/",
+        "github": "https://github.com/mobilecoinofficial",
+        "whitepaper": "https://www.sentz.com/learn/whitepapers",
+        "docs": "https://www.sentz.com/developers",
+        "blog": "https://www.sentz.com/blog",
+        "twitter": "https://x.com/sentzapp",
+        "discord": "https://discord.com/invite/mobilecoin"
+      },
+      "project_phase": "Mainet",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Mobile Coin",
+          "symbol": "$MOB",
+          "token_link": "https://www.coingecko.com/en/coins/mobilecoin"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.sentz.com/privacy-policy"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "audits": [
+        {
+          "name": "Trail of Bits",
+          "link": "https://www.sentz.com/developers/audits"
+        }
+      ],
+      "assets_used": [
+        "eUSD"
       ]
     },
     {
