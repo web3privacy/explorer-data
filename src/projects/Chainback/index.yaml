@@ -1,0 +1,54 @@
+name: Chainback
+categories: [ storage ]
+ecosystem: [ Ethereum, Solana, Bsc, Polygon]
+usecases: [storage, cloud ]
+description: 'Ultimate Cloud Computing & File Storage'
+product_lunch_day: "2022-12"
+
+team:
+  anonymous: true
+     
+links:
+  web: https://chainback.org/
+  docs: https://chainback.gitbook.io/chainback-whitepaper
+  block_explorer: https://app.chainback.org/explorer
+  whitepaper: https://drive.google.com/file/d/1wtzmijhSoJJmIO5S2PRDH3-rV3IH93xv/view
+  blog: https://medium.com/@chainback.archive 
+  twitter: https://x.com/ChainbackWeb3
+  telegram: https://t.me/chainback_archive 
+
+project_phase: Alpha
+sunset: false
+
+tokens:
+  - name: ARCHIVE Token
+    symbol: $ARCHIVE
+    network: Ethereum
+    contract_address: "0xC7f950271d118A5bdF250dFfc39128DCCED8472C"
+    token_link: https://etherscan.io/token/0xC7f950271d118A5bdF250dFfc39128DCCED8472C
+
+funding:
+  name: Summus Capital
+  link: https://summus.capital/
+
+blockchain_features:
+  opensource: false
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://chainback.gitbook.io/chainback-whitepaper/company-policy/privacy-policy
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: false
+ 
+storage:
+  decentralized: true
+
