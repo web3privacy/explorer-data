@@ -11559,6 +11559,89 @@
       ]
     },
     {
+      "id": "Humanode",
+      "name": "Humanode",
+      "categories": [
+        "did"
+      ],
+      "ecosystem": [
+        "Polkadot"
+      ],
+      "usecases": [
+        "biometrically verified nodes"
+      ],
+      "description": "1 Human = 1 Node = 1 Vote .Cryptobiometric Sybil-resistant layer for the web",
+      "product_lunch_day": "2020",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Dato Kavazi",
+            "link": "https://x.com/DatoKavazi"
+          },
+          {
+            "name": "Sasha Shilina",
+            "link": "https://x.com/sshshln"
+          },
+          {
+            "name": "Andrei Kraciun",
+            "link": "https://x.com/andreikraciun"
+          },
+          {
+            "name": "Victor",
+            "link": "https://x.com/tech_mingler"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://humanode.io/",
+        "github": "https://github.com/humanode-network",
+        "whitepaper": "https://papers.humanode.io/whitepaper.pdf",
+        "docs": "https://gitbook.humanode.io/docs",
+        "block_explorer": "https://humanode.subscan.io/",
+        "blog": "https://blog.humanode.io/",
+        "twitter": "https://x.com/humanode_io",
+        "telegram": "https://t.me/humanode",
+        "discord": "https://discord.com/invite/8my5gbgptx"
+      },
+      "project_phase": "Mainnet",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Humanode Token",
+          "symbol": "$HMND",
+          "network": "Humanodechain",
+          "token_link": "https://coinmarketcap.com/currencies/humanode/"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "audits": [
+        {
+          "name": "Certik",
+          "link": "https://skynet.certik.com/projects/humanode",
+          "time": "2023-01-30T00:00:00.000Z"
+        }
+      ],
+      "tecnology": {
+        "type": "ZKP"
+      }
+    },
+    {
       "id": "grin",
       "name": "GRin",
       "categories": [
