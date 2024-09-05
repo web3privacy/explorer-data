@@ -1,0 +1,72 @@
+name: Sarcophagus
+categories: [ data management ]
+ecosystem: [ Ethereum, Polygon, Arbitrum, Base ]
+usecases: [ digital asset protection ]
+description: 'A decentralized dead man's switch | Credential Recovery | Inheritance | Emergency Communications | Political Activism & Journalism '
+product_launch_day: "2020"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Miguel
+      link: https://x.com/USCMigs
+    - name: Jon Williams
+      link: https://x.com/JonnyRingo711
+    - name: Livlarocca
+      link: https://x.com/livlarocca 
+
+links:
+  web: https://sarcophagus.io/
+  github: https://github.com/sarcophagus-org
+  whitepaper: https://sarcophagus.notion.site/Litepaper-ad7321b28df343efba3b015b924608fd
+  docs: https://sarcophagus.notion.site/Sarcophagus-Documentation-9d9044719669401a8738a1b9059333cf
+  blog: https://sarcophagus.io/blog 
+  twitter: https://x.com/sarcophagusio
+  telegram: https://t.me/sarcophagusio
+  discord: https://discord.com/invite/5XkvsEmMab
+
+project_phase: Mainnet
+sunset: false
+
+tokens:
+  - name: Sarcophagus Token
+    symbol: $SARCO
+    network: Ethereum
+    contract_address: "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a"
+    token_link: https://etherscan.io/token/0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: false
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: false
+
+ audits:
+  - name: Smart Contract Security Audit by Halborn
+    link: https://app.decentdao.org/docs/fractal_audit.pdf
+    time: 2023-04
+
+storage:
+  decentralized: true
+
+tecnology:
+ type: DMS  
+
+blockchain_features: 
+ p2p: true
+ upgradability:
+  type: DAO vote
+  admin_keys: 51% consensus by voting DAO
+
+social_trust: wallet multisig & DAO      
