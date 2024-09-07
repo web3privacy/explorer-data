@@ -8940,7 +8940,14 @@
       ],
       "tecnology": {
         "type": "vpn, mixer"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Ergo/logo.png"
+        }
+      ]
     },
     {
       "id": "logion",
@@ -14145,7 +14152,14 @@
       ],
       "tecnology": {
         "type": "ZKP"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Humanode/logo.png"
+        }
+      ]
     },
     {
       "id": "crust",
