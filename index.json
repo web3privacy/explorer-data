@@ -2720,7 +2720,14 @@
         "kyc": false
       },
       "third_party_dependency": false,
-      "compliance": false
+      "compliance": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Media network/logo.png"
+        }
+      ]
     },
     {
       "id": "Particl",
@@ -12525,7 +12532,14 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false
+      "compliance": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Mailchain/logo.png"
+        }
+      ]
     },
     {
       "id": "Cloak-ai",
