@@ -1984,7 +1984,14 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false
+      "compliance": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Rotki/logo.png"
+        }
+      ]
     },
     {
       "id": "skiff",
