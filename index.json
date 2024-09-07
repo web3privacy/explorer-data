@@ -1796,6 +1796,13 @@
       ],
       "assets_used": [
         "eUSD"
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Sentz/logo.png"
+        }
       ]
     },
     {
@@ -8586,7 +8593,14 @@
       },
       "tecnology": {
         "type": "ZK"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Self/logo.png"
+        }
+      ]
     },
     {
       "id": "spoc",
