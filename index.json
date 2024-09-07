@@ -11828,7 +11828,14 @@
       },
       "tecnology": {
         "type": "zkSNARKs"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Vocdoni/logo.png"
+        }
+      ]
     },
     {
       "id": "dero",
