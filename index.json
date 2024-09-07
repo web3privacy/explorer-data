@@ -3250,7 +3250,14 @@
       "compliance": false,
       "storage": {
         "decentralized": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Chainback/logo.png"
+        }
+      ]
     },
     {
       "id": "burstlq"
