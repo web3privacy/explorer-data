@@ -1,0 +1,12 @@
+- id: no-compliance
+  name: No compliance
+- id: non-kyc
+  name: Non-KYC
+- id: private-by-default
+  name: Private by default
+- id: non-custodial
+  name: Non custodial
+- id: opensource
+  name: Opensource
+- id: live-on-mainnet
+  name: Live on Mainnet

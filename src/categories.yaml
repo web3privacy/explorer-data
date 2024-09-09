@@ -1,62 +1,53 @@
-- id: wallets
-  name: Wallets
-- id: defi
-  name: DeFi
-- id: currency
-  name: Currency
 - id: infrastructure
   name: Infrastructure
-- id: computing-network
-  name: Computing network
-- id: layer-2
-  name: Layer 2
+  usecases:
+    - node
+    - rpc-provider
+    - infrastructure
+    - eth-layer-2
+    - research-and-development
+    - computing
+    - storage
+    - data-management
+    - other
+- id: social-and-communications
+  name: Social & Communications
+  usecases:
+    - dao
+    - nft-community
+    - alliances
+    - messaging
+    - events
+    - other
 - id: hardware
   name: Hardware
-- id: vpn
-  name: VPN
-- id: did
-  name: DID
-- id: dao
-  name: DAO
-- id: bridge
-  name: Bridge
-- id: messaging
-  name: Messaging
-- id: browser
-  name: Browser
-- id: kyc
-  name: KYC
-- id: rpc
-  name: RPC
-- id: storage
-  name: Storage
-- id: dapps
-  name: dApps
-- id: os
-  name: OS
-- id: nft
-  name: NFT
-- id: other
-  name: Other
-- id: alliances
-  name: Alliances
-- id: mixing-management
-  name: Mixing management
-- id: data-management
-  name: Data management
-- id: donate
-  name: Donate
-- id: rd
-  name: R&D
-- id: mixing-service
-  name: Mixing services
-- id: node
-  name: Node
-- id: events
-  name: Events
-- id: FHE
-  name: FHE
-- id: AI
-  name: AI
-- id: sunset
-  name: sunset
+  usecases:
+    - wallets
+    - node
+    - other
+- id: applications
+  name: Applications
+  usecases:
+    - browser
+    - vpn
+    - did
+    - operation-systems
+    - dapps
+    - wallets
+    - ai
+    - kyc-solution
+    - other
+- id: defi
+  name: Defi
+  usecases:
+    - bridge
+    - defi
+    - mixing-service
+    - mixing-management
+    - currency
+    - other
+- id: archived-projects
+  name: Archived projects
+  usecases:
+    - legacy-projects
+    - deprecated-systems

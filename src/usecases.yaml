@@ -1,0 +1,62 @@
+- id: wallets
+  name: Wallets
+- id: defi
+  name: DeFi
+- id: currency
+  name: Currency
+- id: infrastructure
+  name: Infrastructure
+- id: computing
+  name: Computing
+- id: eth-layer-2
+  name: Ethereum Layer 2
+- id: hardware
+  name: Hardware
+- id: vpn
+  name: VPN
+- id: did
+  name: DID
+- id: dao
+  name: DAO
+- id: bridge
+  name: Bridge
+- id: messaging
+  name: Messaging
+- id: browser
+  name: browser
+- id: kyc-solution
+  name: KYC solution
+- id: rpc-provider
+  name: RPC provider
+- id: storage
+  name: Storage
+- id: dapps
+  name: Dapps
+- id: operation-systems
+  name: Operation systems
+- id: nft-community
+  name: NFT community
+- id: alliances
+  name: Allicanes
+- id: mixing-management
+  name: Mixing management
+- id: data-management
+  name: Data management
+- id: donate-charity
+  name: Donate / Charity
+- id: research-and-development
+  name: Research and development
+- id: mixing-service
+  name: Mixing service
+- id: node
+  name: Node
+- id: events
+  name: Events
+- id: fhe encryption
+  name: FHE encryption
+- id: ai
+  name: AI (Artificial Inteligence)
+- id: sunset
+  name: Sunset
+- id: other
+  name: Other

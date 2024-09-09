@@ -1,0 +1,12 @@
+- id: ethereum
+  name: Ethereum
+- id: bitcoin
+  name: Bitcoin
+- id: solana
+  name: Solana
+- id: cosmos
+  name: Cosmos
+- id: monero
+  name: Monero
+- id: other
+  name: Other
