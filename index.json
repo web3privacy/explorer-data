@@ -3091,7 +3091,14 @@
         "testnet": false,
         "mainnet": true
       },
-      "have_token": false
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/IVPN/logo.png"
+        }
+      ]
     },
     {
       "id": "anonzk-incognito",
