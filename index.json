@@ -2534,7 +2534,14 @@
       "licenses": "Apache 2.0 and MIT",
       "traceability": {
         "kyc": false
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Codex/logo.png"
+        }
+      ]
     },
     {
       "id": "sporran",
