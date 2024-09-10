@@ -1933,6 +1933,13 @@
         {
           "symbol": "PRIVATIXY"
         }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/privatixy/logo.png"
+        }
       ]
     },
     {
@@ -2788,7 +2795,14 @@
       ],
       "storage": {
         "decentralized": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Presearch/logo.png"
+        }
+      ]
     },
     {
       "id": "Media network",
@@ -4000,7 +4014,14 @@
         "testnet": false,
         "mainnet": true
       },
-      "have_token": false
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/DeGuard/logo.png"
+        }
+      ]
     },
     {
       "id": "spiral-finance",
@@ -5541,7 +5562,14 @@
         "testnet": true,
         "mainnet": false
       },
-      "have_token": false
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/RawBox/logo.png"
+        }
+      ]
     },
     {
       "id": "oxen",
@@ -14629,6 +14657,11 @@
           "file": "logo.svg",
           "ext": "svg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/eth-privacy/logo.svg"
+        },
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/eth-privacy/logo.png"
         }
       ]
     },
