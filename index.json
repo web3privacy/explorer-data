@@ -8307,7 +8307,14 @@
       },
       "project_status": {
         "live_status": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/justnote/logo.png"
+        }
+      ]
     },
     {
       "id": "conceal-network",
@@ -13984,7 +13991,14 @@
       },
       "project_status": {
         "live_status": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/brace/logo.png"
+        }
+      ]
     },
     {
       "id": "hypermine",
