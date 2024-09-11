@@ -1,0 +1,53 @@
+name: Bubble
+categories: [ data management ]
+ecosystem: [ Ethereum, Polygon, Base, Avalanche, Scroll]
+usecases: [ data storage ]
+description: 'Private Off-Chain Data Management with On-Chain Security'
+product_launch_day: "2022"
+
+team:
+  anonymous: true
+  
+links:
+  web: https://bubbleprotocol.com/
+  github: https://github.com/Bubble-Protocol
+  whitepaper: https://bubbleprotocol.com/docs/whitepaper.pdf 
+  blog: https://seedling-d.app/user/github/Bubble-Protocol
+  twitter: https://x.com/BubbleProtocol
+  telegram: https://t.me/+YSlmjDit4Cw0MDY0
+  discord: https://discord.com/invite/sSnvK5C
+
+project_phase: beta
+sunset: false
+
+tokens:
+  - name: Bubble Governance Token
+    symbol: $BGT   
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  p2p: true
+  upgradability:
+    enabled: true
+    type: DAO vote
+    admin_keys: 51% consensus by DAO
+
+privacy_policy:
+  defined: true
+  link: https://seedling-d.app/article/0xb42117a47b714bde79462b2df6a6cec230d14f60cf78a95d411ed531c6510593
+
+default_privacy: false
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: true
+ 
+storage:
+  decentralized: true
+
+tecnology:
+ type: E2E  
+  
