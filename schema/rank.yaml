@@ -11,7 +11,9 @@ properties:
       properties:
         field:
           type: string
-        conditions:
+        label:
+          type: string
+        condition:
           type: object
           properties:
             exists:
@@ -24,11 +26,13 @@ properties:
               oneOf:
                 - type: boolean
                 - type: string
+                - type: integer
         points:
           type: integer
       required:
         - field
-        - conditions
+        - label
+        - condition
         - points
 required:
   - id

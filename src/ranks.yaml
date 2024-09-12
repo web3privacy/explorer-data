@@ -2,43 +2,53 @@
   name: Openess
   references:
     - field: team.teammembers
-      conditions:
+      label: Team
+      condition:
         minLength: 1
       points: 10
     - field: links.docs
-      conditions:
+      label: Documentation
+      condition:
         exists: true
       points: 10
     - field: links.github
-      conditions:
+      label: Github
+      condition:
         exists: true
       points: 10
     - field: links.twitter
-      conditions:
+      label: Twitter
+      condition:
         exists: true
       points: 1
     - field: links.telegram
-      conditions:
+      label: Telegram
+      condition:
         exists: true
       points: 1
     - field: links.discord
-      conditions:
+      label: Discord
+      condition:
         exists: true
       points: 1
     - field: links.lens
-      conditions:
+      label: Lens
+      condition:
         exists: true
       points: 1
     - field: links.farcaster
-      conditions:
+      label: Farcaster
+      condition:
         exists: true
       points: 1
     - field: links.whitepaper
-      conditions:
+      label: Whitepaper
+      condition:
         exists: true
       points: 10
     - field: team.funding
-      conditions:
+      label: Funding
+      condition:
         minLength: 1
       points: 10
 
@@ -46,23 +56,28 @@
   name: Technology
   references:
     - field: project_status.mainnet
-      conditions:
+      label: Mainnet
+      condition:
         exists: true
       points: 10
     - field: blockchain_features.opensource
-      conditions:
+      label: Open Source
+      condition:
         equals: true
       points: 20
     - field: blockchain_features.asset_custody_type
-      conditions:
+      label: Non Custody
+      condition:
         equals: non-custody
       points: 10
     - field: blockchain_features.upgradability.enabled
-      conditions:
+      label: Upgradability
+      condition:
         equals: false
       points: 10
     - field: audits
-      conditions:
+      label: Audits
+      condition:
         minLength: 1
       points: 10
 
@@ -70,19 +85,23 @@
   name: Privacy
   references:
     - field: privacy_policy.link
-      conditions:
+      label: Privacy Policy
+      condition:
         exists: true
       points: 10
     - field: traceability.kyc
-      conditions:
+      label: KYC
+      condition:
         equals: false
       points: 10
     - field: compliance
-      conditions:
+      label: Compliance
+      condition:
         equals: true
       points: 5
     - field: default_privacy
-      conditions:
+      label: Default Privacy
+      condition:
         equals: true
       points: 10
     
