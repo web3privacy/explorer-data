@@ -100,19 +100,21 @@ properties:
       time:
         type: string
   history:
-    type: object
-    properties:
-      title:
-        type: string
-      event_type:
-        type: string
-      description:
-        type: string
-      time:
-        type: string
-      link:
-        type: string
-        format: uri
+    type: array
+    items:
+      type: object
+      properties:
+        title:
+          type: string
+        event_type:
+          type: string
+        description:
+          type: string
+        time:
+          type: string
+        link:
+          type: string
+          format: uri
   sunset:
     type: boolean
   # LINKS ---------------------------------------------------------------------
