@@ -22,6 +22,11 @@ async function loadSchemas() {
 const matrix = {
   categories: "category",
   projects: "project",
+  assets: "asset",
+  ecosystems: "ecosystem",
+  features: "feature",
+  usecases: "usecase",
+  ranks: "rank",
 };
 
 const schemaDir = "./schema";
