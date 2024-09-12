@@ -1,0 +1,37 @@
+type: object
+properties:
+  id:
+    type: string
+  name:
+    type: string
+  references:
+    type: array
+    items:
+      type: object
+      properties:
+        field:
+          type: string
+        conditions:
+          type: object
+          properties:
+            exists:
+              type: boolean
+            minLength:
+              type: integer
+            regex:
+              type: string
+            equals:
+              oneOf:
+                - type: boolean
+                - type: string
+        points:
+          type: integer
+      required:
+        - field
+        - conditions
+        - points
+required:
+  - id
+  - name
+  - references
+additionalProperties: false

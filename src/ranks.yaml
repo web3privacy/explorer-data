@@ -1,0 +1,89 @@
+- id: openess
+  name: Openess
+  references:
+    - field: team.teammembers
+      conditions:
+        minLength: 1
+      points: 10
+    - field: links.docs
+      conditions:
+        exists: true
+      points: 10
+    - field: links.github
+      conditions:
+        exists: true
+      points: 10
+    - field: links.twitter
+      conditions:
+        exists: true
+      points: 1
+    - field: links.telegram
+      conditions:
+        exists: true
+      points: 1
+    - field: links.discord
+      conditions:
+        exists: true
+      points: 1
+    - field: links.lens
+      conditions:
+        exists: true
+      points: 1
+    - field: links.farcaster
+      conditions:
+        exists: true
+      points: 1
+    - field: links.whitepaper
+      conditions:
+        exists: true
+      points: 10
+    - field: team.funding
+      conditions:
+        minLength: 1
+      points: 10
+
+- id: technology
+  name: Technology
+  references:
+    - field: project_status.mainnet
+      conditions:
+        exists: true
+      points: 10
+    - field: blockchain_features.opensource
+      conditions:
+        equals: true
+      points: 20
+    - field: blockchain_features.asset_custody_type
+      conditions:
+        equals: non-custody
+      points: 10
+    - field: blockchain_features.upgradability.enabled
+      conditions:
+        equals: false
+      points: 10
+    - field: audits
+      conditions:
+        minLength: 1
+      points: 10
+
+- id: privacy
+  name: Privacy
+  references:
+    - field: privacy_policy.link
+      conditions:
+        exists: true
+      points: 10
+    - field: traceability.kyc
+      conditions:
+        equals: false
+      points: 10
+    - field: compliance
+      conditions:
+        equals: true
+      points: 5
+    - field: default_privacy
+      conditions:
+        equals: true
+      points: 10
+    
+    
