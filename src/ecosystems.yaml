@@ -1,12 +1,17 @@
 - id: ethereum
   name: Ethereum
+  icon: https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628
 - id: bitcoin
   name: Bitcoin
+  icon: https://assets.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400
 - id: solana
   name: Solana
+  icon: https://assets.coingecko.com/coins/images/4128/standard/solana.png?1718769756
 - id: cosmos
   name: Cosmos
+  icon: https://assets.coingecko.com/coins/images/1481/standard/cosmos_hub.png?1696502525
 - id: monero
   name: Monero
+  icon: https://assets.coingecko.com/coins/images/69/standard/monero_logo.png?1696501460
 - id: other
   name: Other

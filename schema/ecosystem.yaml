@@ -9,3 +9,5 @@ properties:
     pattern: '^[a-z0-9-]+$'
   name:
     type: string
+  icon:
+    type: string
