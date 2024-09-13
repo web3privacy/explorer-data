@@ -12604,6 +12604,76 @@
       ]
     },
     {
+      "id": "OXygean",
+      "name": "OXygean",
+      "categories": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "Ton"
+      ],
+      "usecases": [
+        "dapp"
+      ],
+      "description": "Transforming your engagement into rewards",
+      "product_launch_day": "2018",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Linda Davis",
+            "link": "https://ie.linkedin.com/in/lindadavisoxygean/"
+          },
+          {
+            "name": "Bernard Flynn",
+            "link": "https://es.linkedin.com/in/flynnbernard/"
+          },
+          {
+            "name": "Andrii Drozdov",
+            "link": "https://www.linkedin.com/in/andrii-drozdov/"
+          },
+          {
+            "name": "Lorraine Wilson",
+            "link": "https://www.linkedin.com/in/lorraine-wilson-95394422/"
+          },
+          {
+            "name": "Lucia G. Onieva",
+            "link": "https://www.linkedin.com/in/lucia-g-onieva-2b37b42b/"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.oxygean.com/",
+        "github": "https://github.com/oxygean",
+        "whitepaper": "https://s3.eu-west-1.amazonaws.com/oxygean.release.static-media/oxme-whitepaper.pdf",
+        "twitter": "https://x.com/OXygean_app",
+        "facebook": "https://www.facebook.com/oxygeansocial"
+      },
+      "project_phase": "testnet",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "OX Token",
+          "symbol": "$OXME"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": false,
+        "asset_custody_type": "non-custody"
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.oxygean.com/term-conditions"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false
+    },
+    {
       "id": "Mailchain",
       "name": "Mailchain",
       "categories": [
