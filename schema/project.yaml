@@ -25,10 +25,10 @@ properties:
       type: string
       pattern: '^[A-Z0-9-]+$'
   ecosystem:
-    anyOf: [{type: array}, {type: string}]
+    type: array
     items: 
       type: string
-      pattern: '^[A-Z0-9-]+$'
+      pattern: '^[a-z0-9-]+$'
   project_type:
     type: string
   description:

@@ -13,6 +13,10 @@ properties:
           type: string
         label:
           type: string
+        positive:
+          type: string
+        negative: 
+          type: string
         condition:
           type: object
           properties:

@@ -3,51 +3,71 @@
   references:
     - field: team.teammembers
       label: Team
+      positive: 'Member'
+      negative: 'Anonymous'
       condition:
         minLength: 1
       points: 10
     - field: links.docs
       label: Documentation
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 10
     - field: links.github
       label: Github
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 10
     - field: links.twitter
       label: Twitter
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 1
     - field: links.telegram
       label: Telegram
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 1
     - field: links.discord
       label: Discord
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 1
     - field: links.lens
       label: Lens
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 1
     - field: links.farcaster
       label: Farcaster
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 1
     - field: links.whitepaper
       label: Whitepaper
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 10
     - field: funding.value
       label: Funding
+      positive: 'Investment'
+      negative: 'Not available'
       condition:
         exists: true
       points: 10
@@ -57,26 +77,36 @@
   references:
     - field: project_status.mainnet
       label: Mainnet
+      positive: 'Yes'
+      negative: 'No'
       condition:
         exists: true
       points: 10
     - field: blockchain_features.opensource
       label: Open Source
+      positive: 'Yes'
+      negative: 'No'
       condition:
         equals: true
       points: 20
     - field: blockchain_features.asset_custody_type
       label: Non Custody
+      positive: 'None'
+      negative: 'Custodial'
       condition:
         equals: non-custody
       points: 10
     - field: blockchain_features.upgradability.enabled
       label: Upgradability
+      positive: 'Disabled'
+      negative: 'Enabled'
       condition:
         equals: false
       points: 10
     - field: audits
       label: Audits
+      positive: 'Audit'
+      negative: 'None'
       condition:
         minLength: 1
       points: 10
@@ -86,21 +116,29 @@
   references:
     - field: privacy_policy.link
       label: Privacy Policy
+      positive: 'Link'
+      negative: 'Not available'
       condition:
         exists: true
       points: 10
     - field: traceability.kyc
       label: KYC
+      positive: 'No'
+      negative: 'Yes'
       condition:
         equals: false
       points: 10
     - field: compliance
       label: Compliance
+      positive: 'No'
+      negative: 'OFAC'
       condition:
         equals: true
       points: 5
     - field: default_privacy
       label: Default Privacy
+      positive: 'YES'
+      negative: 'No'
       condition:
         equals: true
       points: 10
