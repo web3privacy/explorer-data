@@ -316,3 +316,8 @@ properties:
         type: boolean
       mainnet:
         type: boolean
+  usecases: 
+    type: array
+    items: 
+      type: string
+      pattern: '^[a-z0-9-]+$'
