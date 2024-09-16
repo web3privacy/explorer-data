@@ -46,10 +46,10 @@
       condition:
         exists: true
       points: 10
-    - field: team.funding
+    - field: funding.value
       label: Funding
       condition:
-        minLength: 1
+        exists: true
       points: 10
 
 - id: technology
