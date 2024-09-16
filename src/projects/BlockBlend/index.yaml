@@ -1,14 +1,15 @@
+id: blockblend
 name: BlockBlend
-categories: [ bridge ]
-ecosystem: [ Ethereum, Polygon, Base, Bnb, Solana ] 
-description: 'Privacy Cross-Chain Decentralized Services'
+categories: [applications]
+ecosystem: [ETHEREUM, POLYGON, BASE, BNB, SOLANA]
+description: "Privacy Cross-Chain Decentralized Services"
 
 team:
   anonymous: false
   teammembers:
     - name: Tom
       link: https://x.com/TomBlockBlend
-      
+
 links:
   web: https://blockblend.io/
   docs: https://docs.blockblend.io/
@@ -16,7 +17,7 @@ links:
   blog: https://blockblendio.medium.com/
   twitter: https://x.com/blockblendio
   telegram: https://t.me/blockblendIO
-  
+
 project_status:
   live_status: true
   version: Mainnet

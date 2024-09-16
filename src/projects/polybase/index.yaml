@@ -3,10 +3,12 @@ categories:
   - infrastructure
 description: "a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs"
 team:
-  - name: Sid Gandhi
-    role: Co-Founder & CEO
-  - name: Calum Moore
-    role: Co-Founder & CTO
+  anonymous: false
+  teammembers:
+    - name: Sid Gandhi
+      role: Co-Founder & CEO
+    - name: Calum Moore
+      role: Co-Founder & CTO
 links:
   web: https://polybase.xyz
   docs: https://payy.network/docs

@@ -73,11 +73,11 @@ audits:
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  title: Mainet
-  event_type: launch
-  description: Airdrop
-  time: Feb 21, 2022
-  link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+  - title: Mainet
+    event_type: launch
+    description: Airdrop
+    time: Feb 21, 2022
+    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
 client_diversability:
   - name: Keplr
     link: https://www.keplr.app/

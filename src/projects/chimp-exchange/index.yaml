@@ -1,9 +1,9 @@
 name: ChimpExchange
-categories: [ defi ]
-ecosystem: [ Ten ]
+categories: [defi]
+ecosystem: [TEN]
 
 project_type: DeFi
-description: 'Fully encrypted DEX'
+description: "Fully encrypted DEX"
 
 team:
   anonymous: true

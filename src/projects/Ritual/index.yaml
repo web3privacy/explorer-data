@@ -1,7 +1,7 @@
 name: Ritual
 categories: [applications]
-ecosystem: [Ethereum, Solana, Polygon]
-description: "We are building a way for any protocol, application, or smart contract to integrate AI models with a few lines of code."
+ECOSYSTEM: [ETHEREUM, SOLANA, POLYGON]
+DESCRIPTION: "We are building a way for any protocol, application, or smart contract to integrate AI models with a few lines of code."
 product_launch_day: "2023"
 
 team:

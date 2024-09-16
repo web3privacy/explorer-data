@@ -1,9 +1,10 @@
-name: 'Cursive'
-categories: [ FHE ]
-description: 'A cryptography lab focused on human-first applications of signed data.'
+id: cursive
+name: "Cursive"
+categories: [applications]
+description: "A cryptography lab focused on human-first applications of signed data."
 links:
   web: https://www.cursive.team/
-  github: https://github.com/cursive-team 
+  github: https://github.com/cursive-team
   blog: https://www.cursive.team/blog
   twitter: https://x.com/cursive_team
   telegram: https://t.me/+z5REVOBXp_hmNDIx

@@ -1,7 +1,7 @@
 #PROJECT DESCRIPTION -------------------------------------------------------------
 name: DeepOnion
 categories: [applications]
-assets_used: ["ZK-Snarks", "TOR Network"]
+assets_used: ["ZK-SNARKS", "TOR-NETWORK"]
 ecosystem: DeepOnion Network
 
 project_type: Hybrid cryptocurrency

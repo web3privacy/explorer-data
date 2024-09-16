@@ -1,6 +1,7 @@
+id: rotki
 name: Rotki
 categories: [applications]
-ecosystem: [Ethereum, Bitcoin, Base, Optimist, Gnosis, Scroll, ZkSync]
+ecosystem: [ETHEREUM, BITCOIN, BASE, OPTIMIST, GNOSIS, SCROLL, ZKSYNC]
 description: "rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy"
 
 team:

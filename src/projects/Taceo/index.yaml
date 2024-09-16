@@ -1,3 +1,4 @@
+id: taceo
 name: Taceo
 categories: [infrastructure]
 description: "Encrypted Computation Layer; MPC + ZK"
@@ -16,7 +17,6 @@ links:
   web: https://taceo.io/
   github: https://github.com/TaceoLabs
   docs: https://docs.taceo.io/
-  whitepaper:
   blog: https://blog.taceo.io/
   twitter: https://x.com/TACEO_IO
   discord: https://discord.com/invite/gWZW2TANpk

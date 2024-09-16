@@ -8,27 +8,27 @@ properties:
   id:
     type: string
     title: ID
-    description: | 
-      Unique project identifier 
-    pattern: '^[a-z0-9-]+$'
+    description: |
+      Unique project identifier
+    pattern: "^[a-z0-9-]+$"
   #PROJECT DESCRIPTION -------------------------------------------------------------
-  name: 
+  name:
     type: string
   categories:
     type: array
-    items: 
+    items:
       type: string
-      pattern: '^[a-z0-9-]+$'
+      pattern: "^[a-z0-9-]+$"
   assets_used:
     type: array
-    items: 
+    items:
       type: string
-      pattern: '^[A-Z0-9-]+$'
+      pattern: "^[A-Z0-9-]+$"
   ecosystem:
-    anyOf: [{type: array}, {type: string}]
-    items: 
+    anyOf: [{ type: array }, { type: string }]
+    items:
       type: string
-      pattern: '^[A-Z0-9-]+$'
+      pattern: "^[A-Z0-9-]+$"
   project_type:
     type: string
   description:
@@ -84,7 +84,7 @@ properties:
               type: string
             link:
               type: string
-              format: uri 
+              format: uri
   funding:
     type: object
     properties:
@@ -243,7 +243,7 @@ properties:
         type: string
   client_diversability:
     type: array
-    items: 
+    items:
       type: object
       properties:
         name:
@@ -263,7 +263,7 @@ properties:
         type: string
         format: uri
       data_usage:
-        type: string   
+        type: string
   traceability:
     type: object
     properties:
@@ -274,7 +274,7 @@ properties:
       sign_in_type_requirments:
         type: string
   compliance:
-    anyOf: [{type: boolean}, {type: string}]   
+    anyOf: [{ type: boolean }, { type: string }]
   storage:
     type: object
     properties:
@@ -310,7 +310,7 @@ properties:
     properties:
       live_status:
         type: boolean
-      version: 
+      version:
         type: string
       testnet:
         type: boolean

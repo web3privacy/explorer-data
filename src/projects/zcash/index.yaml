@@ -36,9 +36,7 @@ blockchain_features:
 licences: MIT software license
 privacy_policy:
   defined: false
-team:
-  - name:
-    role:
+
 storage:
   decentralized: true
 
@@ -71,11 +69,9 @@ default_privacy: true
 funding:
   - name: DCG
     type: Investments
-    link:
-    value:
-    time:
+
 project_status:
   live_status: true
-  version: Mainnet
+  version: "Mainnet"
   testnet: false
   mainnet: true
