@@ -1,9 +1,7 @@
 name: Humanode
 categories: [applications]
 ecosystem: [Polkadot]
-usecases: [biometrically verified nodes]
 description: "1 Human = 1 Node = 1 Vote .Cryptobiometric Sybil-resistant layer for the web"
-product_lunch_day: "2020"
 team:
   anonymous: false
   teammembers:
@@ -27,7 +25,6 @@ links:
   telegram: https://t.me/humanode
   discord: https://discord.com/invite/8my5gbgptx
 
-project_phase: Mainnet
 sunset: false
 
 tokens:
@@ -39,8 +36,6 @@ tokens:
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
   defined: false
@@ -56,6 +51,3 @@ audits:
   - name: Certik
     link: https://skynet.certik.com/projects/humanode
     time: 2023-01-30
-
-tecnology:
-  type: ZKP

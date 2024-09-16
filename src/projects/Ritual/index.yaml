@@ -1,7 +1,6 @@
 name: Ritual
 categories: [applications]
 ecosystem: [Ethereum, Solana, Polygon]
-usecases: [applications, node]
 description: "We are building a way for any protocol, application, or smart contract to integrate AI models with a few lines of code."
 product_launch_day: "2023"
 
@@ -33,7 +32,6 @@ links:
   twitter: https://x.com/ritualnet
   discord: https://discord.com/invite/ritual-net
 
-project_phase: Testnet
 sunset: false
 
 funding:
@@ -43,9 +41,6 @@ funding:
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
-
 privacy_policy:
   defined: false
 

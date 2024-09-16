@@ -25,8 +25,7 @@ blockchain_features:
   revealed_sender: false
   revealed_ammount: false
 default_privacy: true
-tracebility:
-  kyc: false
+
 project_status:
   live_status: true
   testnet: false

@@ -18,9 +18,6 @@ links:
 blockchain_features:
   p2p: true
   encryption: Tor
-  upgradability:
-    enabled: true
-    type: centralized
   opensource: true
   frontend_anonymity: Tor
   identity_integration: Profiles

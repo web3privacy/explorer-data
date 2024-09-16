@@ -1,8 +1,6 @@
 name: Self
 categories: [applications]
-usecases: [digital identity, personal data]
 description: "Build identification and personal data management for everything"
-product_lunch_day: "2019"
 
 team:
   anonymous: false
@@ -20,15 +18,11 @@ links:
   docs: https://docs.joinself.com/
   twitter: https://x.com/futureoftrust
 
-project_phase: testnet
 sunset: false
 
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
-
 privacy_policy:
   defined: true
   link: https://www.joinself.com/company/legal
@@ -42,6 +36,3 @@ compliance: false
 
 storage:
   decentralized: true
-
-tecnology:
-  type: ZK

@@ -16,18 +16,6 @@ project_type: Decentralized privacy network protocol
 description: "a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem that makes living in Web3 anonymous and private"
 product_launch_day: "2019-10-20"
 
-token:
-  - name: MASQ
-    symbol: MASQ
-    network: Ethereum
-    contract_address: "0x06F3C323f0238c72BF35011071f2b5B7F43A054c"
-    link: https://etherscan.io/token/0x06F3C323f0238c72BF35011071f2b5B7F43A054c
-  - name: MASQ
-    symbol: MASQ
-    network: Polygon
-    contract_address: "0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35"
-    link: https://polygonscan.com/token/0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35
-
 team:
   anonymous: true
 
@@ -55,8 +43,6 @@ blockchain_features:
   opensource: true
   p2p: true
   asset_custody_type: Non-custodial
-  upgradability:
-    enabled: false
 
 project_status:
   version: v0.9
@@ -74,11 +60,6 @@ default_privacy: true
 
 storage:
   decentralized: true
-
-tracebility:
-  tracked_data: Chains activity
-  kyc: false
-  sign_in_type_requirments: wallet
 
 third_party_dependency: false
 social_trust: Team Multisigs & Dune analytics

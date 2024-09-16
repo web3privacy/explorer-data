@@ -32,8 +32,7 @@ blockchain_features:
 default_privacy: true
 storage:
   decentralized: true
-tracebility:
-  kyc: false
+
 project_status:
   live_status: true
   testnet: false

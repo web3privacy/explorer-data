@@ -1,9 +1,7 @@
 name: Media Network
 categories: [infrastructure]
 ecosystem: [Ethereum, Solana, Base, Bnb, Optimist]
-usecases: [cloud, DePin]
 description: "The Web3 replacement for AWS and Google Cloud"
-product_lunch_day: "2021"
 
 team:
   anonymous: true
@@ -17,7 +15,6 @@ links:
   telegram: https://t.me/Media_FDN
   discord: https://discord.com/invite/nyCS7ePWzf
 
-project_phase: Beta Mainet
 sunset: false
 
 tokens:
@@ -30,8 +27,6 @@ tokens:
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
   defined: false

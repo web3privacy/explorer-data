@@ -24,7 +24,5 @@ project_status:
   testnet: false
   mainnet: false
 
-licenses: Apache 2.0 and MIT
-
 traceability:
   kyc: false

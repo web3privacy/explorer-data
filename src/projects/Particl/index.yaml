@@ -1,9 +1,7 @@
 name: Particl
 categories: [applications]
 ecosystem: [Particl]
-usecases: [marketplace]
 description: "The only marketplace for private and unrestricted e-commerce"
-product_lunch_day: "2017"
 
 team:
   anonymous: false
@@ -24,7 +22,6 @@ links:
   telegram: https://t.me/particltg
   discord: https://discord.me/particl
 
-project_phase: Alpha
 sunset: false
 
 tokens:
@@ -36,8 +33,6 @@ tokens:
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
   defined: true

@@ -13,6 +13,6 @@ team:
   anonymous: true
 project_status:
   live_status: true
-  version:
+  version: ""
   testnet: false
   mainnet: false

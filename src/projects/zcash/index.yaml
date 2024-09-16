@@ -1,10 +1,7 @@
 name: Zcash
-categories: [ currency ]
-token:
-  - name: Zcash
-    symbol: ZEC
-    network: Zcash
-description: 'A simple, secure digital currency that protects your privacy. For everyday purchases, sending money to a friend, and your favorite crypto applications, too.'
+categories: [defi]
+network: Zcash
+description: "A simple, secure digital currency that protects your privacy. For everyday purchases, sending money to a friend, and your favorite crypto applications, too."
 project_type: transaction
 technology:
   type: halo2 zk-SNARK
@@ -18,15 +15,13 @@ links:
   discord: https://discord.gg/zcash
   blog: https://electriccoin.co/blog
   block_explorer: https://zcashblockexplorer.com/
-  whitepaper: https://zips.z.cash/protocol/protocol.pdf/ 
+  whitepaper: https://zips.z.cash/protocol/protocol.pdf/
   github: https://github.com/zcash/zcash/
 blockchain_features:
   p2p: true
   encryption: zksnark
   network: Zcash
-  upgradability:
-    enabled: true
-    type: halo2
+
   opensource: true
   viewing_key: true
   dissapearing_tx: false
@@ -43,14 +38,11 @@ licences: MIT software license
 privacy_policy:
   defined: false
 team:
-  - name: 
-    role: 
+  - name:
+    role:
 storage:
   decentralized: true
-tracebility:
-  tracked_data: Transparent Pool
-  kyc: false
-  sign_in_type_requirments: wallet
+
 third_party_dependency: false
 compliance: false
 audits:
@@ -64,14 +56,14 @@ audits:
     link: https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf
     time: Jan 30, 2019
 social_trust:
-technical_spof: 
+technical_spof:
 history:
   title: Mainet
   event_type: launch
   description: Genesis block
   time: Oct 28, 2016
   link: https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/
-client_diversability: 
+client_diversability:
   - name: Zebra
     link: https://zfnd.org/zebra/
   - name: zcashd
@@ -80,9 +72,9 @@ default_privacy: true
 funding:
   - name: DCG
     type: Investments
-    link: 
+    link:
     value:
-    time: 
+    time:
 project_status:
   live_status: true
   version: Mainnet

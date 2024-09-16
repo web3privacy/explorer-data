@@ -1,9 +1,7 @@
 name: Mailchain
 categories: [applications]
 ecosystem: [Ethereum]
-usecases: [mail]
 description: "Web3 communication layer & web3 email  for everyone"
-product_lunch_day: "2019"
 
 team:
   anonymous: false
@@ -41,14 +39,11 @@ links:
   lens: https://hey.xyz/u/mailchain
   farcaster: https://warpcast.com/mailchain
 
-project_phase: Mainnet
 sunset: false
 
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
   defined: true

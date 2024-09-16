@@ -1,9 +1,7 @@
 name: Preserch
-categories: [ browser ]
-ecosystem: [ Ethereum ]
-usecases: [ browser ]
-description: 'The Decentralized Search Engine with more than 4 million members'
-product_lunch_day: "2017"
+categories: [browser]
+ecosystem: [Ethereum]
+description: "The Decentralized Search Engine with more than 4 million members"
 
 team:
   anonymous: false
@@ -25,20 +23,19 @@ team:
     - name: Trey Grainger
       link: https://www.linkedin.com/in/treygrainger/
     - name: Luís Dalmolin
-      link: https://www.linkedin.com/in/luisdalmolin/              
+      link: https://www.linkedin.com/in/luisdalmolin/
 
 links:
   web: https://presearch.com/
   github: https://github.com/presearchofficial
   whitepaper: https://presearch.io/vision.pdf
-  docs: https://docs.presearch.io/ 
+  docs: https://docs.presearch.io/
   blog: https://news.presearch.io/
   forum: https://community.presearch.io/
   twitter: https://x.com/presearchnews
   telegram: https://t.me/presearch
   discord: https://discord.com/invite/KUpshRZz2n
 
-project_phase: Mainnet
 sunset: false
 
 tokens:
@@ -51,8 +48,6 @@ tokens:
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
   defined: true
@@ -70,7 +65,6 @@ audits:
   - name: Mantisec Lab
     link: https://github.com/PresearchOfficial/audit/blob/main/Final%20Presearch%20SCA.Code%20Audit.pdf
     time: 2023-10
-
 
 storage:
   decentralized: true

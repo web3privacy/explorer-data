@@ -1,9 +1,7 @@
 name: DeNet
-categories: [ storage ]
-ecosystem: [ Polygon ]
-usecases: [storage, Depin ]
-description: 'Decentralized Storage Protocol for Web3 services '
-product_lunch_day: "2017"
+categories: [storage]
+ecosystem: [Polygon]
+description: "Decentralized Storage Protocol for Web3 services "
 
 team:
   anonymous: false
@@ -16,13 +14,12 @@ team:
 links:
   web: https://denet.pro/
   github: https://github.com/denetpro
-  doc: https://docs.denet.pro/ 
-  blog: https://medium.com/denetpro 
+  doc: https://docs.denet.pro/
+  blog: https://medium.com/denetpro
   twitter: https://x.com/DeNetPro
   telegram: https://t.me/denetnews
   discord: https://discord.com/invite/PSnjPCq4x5
 
-project_phase: Mainet 
 sunset: false
 
 tokens:
@@ -32,15 +29,12 @@ tokens:
     contract_address: "0x081ec4c0e30159c8259bad8f4887f83010a681dc"
     token_link: https://polygonscan.com/token/0x081ec4c0e30159c8259bad8f4887f83010a681dc
 
-
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
-  defined: false 
+  defined: false
 
 default_privacy: true
 
@@ -51,7 +45,3 @@ compliance: false
 
 storage:
   decentralized: true
-
-   
-
- 

@@ -1,6 +1,6 @@
 name: BlackHat Coin
-categories: [ currency ]
-description: 'Privacy-focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol'
+categories: [defi]
+description: "Privacy-focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol"
 ecosystem: BlackHat
 project_status: Mainnet
 links:

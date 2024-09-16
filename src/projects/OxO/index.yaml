@@ -1,9 +1,7 @@
 name: OxO
 categories: [applications]
 ecosystem: [Ethereum]
-usecases: [Audit, mixer]
 description: "All-in-One Privacy Exchange"
-product_lunch_day: "2023-01"
 
 team:
   anonymous: false
@@ -26,7 +24,6 @@ links:
   telegram: https://t.me/Portal0x0
   discord: https://discord.com/invite/0x0exchange
 
-project_phase: Mainnet
 sunset: false
 
 tokens:
@@ -39,8 +36,6 @@ tokens:
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
   defined: false

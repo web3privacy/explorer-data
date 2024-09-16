@@ -2,7 +2,6 @@ name: Polybase
 categories:
   - infrastructure
 description: "a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs"
-product_version: testnet
 team:
   - name: Sid Gandhi
     role: Co-Founder & CEO

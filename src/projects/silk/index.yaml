@@ -8,9 +8,7 @@ technology:
 blockchain_features:
   p2p: false
   encryption: TEE
-  upgradability:
-    enabled: true
-    type: multisig
+
   opensource: true
   viewing_key: true
   dissapearing_tx: false
