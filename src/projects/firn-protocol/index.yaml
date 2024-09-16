@@ -1,6 +1,6 @@
 name: Firn Protocol
 categories: [defi]
-ecosystem: Ethereum
+ecosystem: [ETHEREUM]
 description: "Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains."
 tokens:
   - name: Firn
@@ -53,11 +53,11 @@ audits:
     link: https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf
     time: Aug, 7. 2023
 history:
-  title: Github
-  event_type: launch
-  description: AGithub start
-  time: Nov 6, 2021
-  link: https://github.com/firnprotocol
+  - title: Github
+    event_type: launch
+    description: AGithub start
+    time: Nov 6, 2021
+    link: https://github.com/firnprotocol
 client_diversability:
   - name: Metamask
     link: https://www.metamask.io

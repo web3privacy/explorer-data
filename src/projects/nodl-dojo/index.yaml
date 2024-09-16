@@ -8,6 +8,5 @@ links:
   twitter: https://twitter.com/nodl_it
 project_status:
   live_status: true
-  version:
   testnet: false
   mainnet: true

@@ -13,6 +13,5 @@ team:
   anonymous: true
 project_status:
   live_status: true
-  version:
   testnet: false
   mainnet: false

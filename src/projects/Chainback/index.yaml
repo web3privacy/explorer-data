@@ -1,5 +1,6 @@
+id: chainback
 name: Chainback
-categories: [storage]
+categories: [applications]
 ecosystem: [ETHEREUM, SOLANA, BSC, POLYGON]
 description: "Ultimate Cloud Computing & File Storage"
 

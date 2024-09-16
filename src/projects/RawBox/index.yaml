@@ -1,7 +1,8 @@
+id: raw-box
 name: RawBox
-categories: [ Hardware ] 
-ecosystem: [ Nym ]  
-description: 'Redefined privacy-enabled router.'
+categories: [hardware]
+ecosystem: [NYM]
+description: "Redefined privacy-enabled router."
 
 team:
   anonymous: false
@@ -15,8 +16,8 @@ team:
     - name: Beyond
       link: https://x.com/Beyond_Karto
 
-links: 
-  github: https://github.com/Raw-Box/ 
+links:
+  github: https://github.com/Raw-Box/
   twitter: https://x.com/rawbox_tech
   telegram: https://t.me/+G4ixLEgYBXJkZWRi
 

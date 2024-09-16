@@ -1,10 +1,11 @@
+id: broearn
 name: Broearn
-categories: [ browser ]
-description: 'Broearn the Ai Browser. Use-to-Earn solution, the privacy-centric Web3 browser'
+categories: [applications]
+description: "Broearn the Ai Browser. Use-to-Earn solution, the privacy-centric Web3 browser"
 
 team:
   anonymous: true
-      
+
 links:
   web: https://www.broearn.com/
   docs: https://docs.broearn.com/

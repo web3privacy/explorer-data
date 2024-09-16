@@ -1,6 +1,7 @@
-name: 'Privasea'
-categories: [ FHE ]
-description: 'An AI + DePIN Network enabled through FHEML'
+id: privasea
+name: "Privasea"
+categories: [infrastructure]
+description: "An AI + DePIN Network enabled through FHEML"
 links:
   web: https://www.privasea.ai/
   github: https://github.com/Privasea

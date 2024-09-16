@@ -14,3 +14,4 @@ links:
   docs: https://docs.semaphore.pse.dev
 technology:
   type: zk-kit, circom, snarkjs
+  features: [""]

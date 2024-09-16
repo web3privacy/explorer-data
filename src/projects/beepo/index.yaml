@@ -2,10 +2,12 @@ name: Beepo
 categories: [social-and-communications]
 description: "A social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts"
 team:
-  - name: Michael Jimoh
-    role: Co-Founder & CEO
-  - name: Clement Hochart
-    role: Co-Founder
+  anonymous: false
+  teammembers:
+    - name: Michael Jimoh
+      role: Co-Founder & CEO
+    - name: Clement Hochart
+      role: Co-Founder
 links:
   web: https://beepoapp.net/#features
   github: https://github.com/beepo-app

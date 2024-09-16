@@ -31,7 +31,6 @@ team:
   anonymous: true
 licences: MIT License
 traceability:
-  tracked_data: None
   kyc: false
 compliance: We will not comply
 social_trust: Community

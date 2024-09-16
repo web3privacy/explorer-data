@@ -1,6 +1,7 @@
-name: 'Inco'
-categories: [ FHE ]
-description: 'Universal confidentiality layer for Web3, enabling the development of next-generation dApps, providing confidentiality to existing blockchains '
+id: inco
+name: "Inco"
+categories: [infrastructure]
+description: "Universal confidentiality layer for Web3, enabling the development of next-generation dApps, providing confidentiality to existing blockchains "
 team:
   anonymous: false
 links:
@@ -8,7 +9,7 @@ links:
   github: https://github.com/Inco-fhevm
   block_explorer: https://explorer.testnet.inco.org/
   docs: https://docs.inco.org/
-  blog: https://www.inco.org/blog/ 
+  blog: https://www.inco.org/blog/
   twitter: https://x.com/inconetwork
   discord: https://discord.com/invite/fnKZp2qHPQ
   telgram: https://t.me/inconetwork

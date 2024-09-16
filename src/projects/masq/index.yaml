@@ -2,15 +2,14 @@ name: MASQ
 categories:
   - infrastructure
   - applications
-  - applications
 
 logos:
   - file: MASQ-token-v2.png
     ext: png
     url: MASQ-token-v2.png
 ecosystem:
-  - Ethereum
-  - Polygon
+  - ETHEREUM
+  - POLYGON
 
 project_type: Decentralized privacy network protocol
 description: "a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem that makes living in Web3 anonymous and private"

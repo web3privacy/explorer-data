@@ -1,6 +1,7 @@
-name: 'Zama'
-categories: [ FHE ]
-description: 'an open source cryptography company building FHE solutions for blockchain and AI.'
+id: zama
+name: "Zama"
+categories: [infrastructure]
+description: "an open source cryptography company building FHE solutions for blockchain and AI."
 team:
   anonymous: false
 links:

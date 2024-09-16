@@ -15,6 +15,5 @@ links:
   twitter: https://twitter.com/coolwallet
 project_status:
   live_status: true
-  version:
   testnet: false
   mainnet: false

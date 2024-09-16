@@ -52,14 +52,12 @@ audits:
   - name: Sapling Implementation Audit
     link: https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf
     time: Jan 30, 2019
-social_trust:
-technical_spof:
 history:
-  title: Mainet
-  event_type: launch
-  description: Genesis block
-  time: Oct 28, 2016
-  link: https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/
+  - title: Mainet
+    event_type: launch
+    description: Genesis block
+    time: Oct 28, 2016
+    link: https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/
 client_diversability:
   - name: Zebra
     link: https://zfnd.org/zebra/
@@ -67,8 +65,11 @@ client_diversability:
     link: https://github.com/Zcash/zcash
 default_privacy: true
 funding:
-  - name: DCG
-    type: Investments
+  name: DCG
+  type: Investments
+  link: "https://zfnd.org/zebra/"
+  value: ""
+  time: "2024-09-15"
 
 project_status:
   live_status: true

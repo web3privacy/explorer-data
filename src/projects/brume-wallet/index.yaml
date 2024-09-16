@@ -42,10 +42,10 @@ third_party_dependency: false
 compliance: compliant
 
 history:
-  title: Hackaton
-  event_type: Hackaton
-  description: Hackaton project
-  time: Nov 13, 2022
+  - title: Hackaton
+    event_type: Hackaton
+    description: Hackaton project
+    time: Nov 13, 2022
 default_privacy: true
 
 project_status:

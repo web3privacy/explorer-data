@@ -1,7 +1,7 @@
 id: humanode
 name: Humanode
 categories: [applications]
-ecosystem: [Polkadot]
+ecosystem: [POLKADOT]
 description: "1 Human = 1 Node = 1 Vote .Cryptobiometric Sybil-resistant layer for the web"
 team:
   anonymous: false
@@ -51,4 +51,4 @@ compliance: false
 audits:
   - name: Certik
     link: https://skynet.certik.com/projects/humanode
-    time: 2023-01-30
+    time: "2023-01-30"

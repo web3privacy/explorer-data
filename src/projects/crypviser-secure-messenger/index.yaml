@@ -3,10 +3,12 @@ categories:
   - social-and-communications
 description: "The most private messaging app, based on Blockchain technology"
 team:
-  - name: Vadim Andryan
-    role: Managing Director
-  - name: Waldemar Konradi
-    role: Managing Director
+  anonymous: false
+  teammembers:
+    - name: Vadim Andryan
+      role: Managing Director
+    - name: Waldemar Konradi
+      role: Managing Director
 links:
   web: https://crypviser.network/
   whitepaper: https://crypviser.network/CrypViser_Whitepaper.pdf

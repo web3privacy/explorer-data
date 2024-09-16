@@ -12,6 +12,7 @@ team:
   anonymous: true
 technology:
   type: ZK
+  features: [""]
 project_status:
   live_status: true
   version: Testnet

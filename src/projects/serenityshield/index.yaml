@@ -42,7 +42,7 @@ links:
   discord: https://discord.com/invite/SerenityShield
   telegram: https://t.me/SerenityShield
 project_status:
-  live_status: June 2024
+  live_status: true
   version: tbd
   testnet: false
   mainnet: false

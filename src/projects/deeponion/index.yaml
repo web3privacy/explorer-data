@@ -7,19 +7,17 @@ ecosystem: DeepOnion Network
 project_type: Hybrid cryptocurrency
 description: DeepOnion (ONION) is a decentralized, open-source, community-driven cryptocurrency that offers multi-layered privacy and everyday use cases. It uses an x13 hybrid PoW/PoS to secure the network. DeepOnion is one of the earliest cryptos to integrate the Tor network into the wallet, which has not leaked any IP addresses since its release on 12 July 2017.
 product_readiness: Mainnet
-product_launch_day: 2017-07-12
+product_launch_day: "2017-07-12"
 
-have_token: Yes
-token_link:
+have_token: true
 tokens:
   - name: DeepOnion
     symbol: ONION
     network: DeepOnion Network
-    contract_address:
-fee: 0.0001 ONION/kB
+    fee: 0.0001 ONION/kB
 
 team:
-  anonymous: Yes
+  anonymous: true
   teammembers:
     - name: Deeper
       role: Marketing Manager
@@ -41,20 +39,13 @@ team:
       link: https://deeponion.org/community/members/doglover.2258/
 
 funding:
-  - name: Community Contributions
-    type: Community Support
-    link: https://deeponion.org/community
-    value: Not applicable
-    time: Ongoing
+  name: Community Contributions
+  type: Community Support
+  link: https://deeponion.org/community
+  value: Not applicable
+  time: Ongoing
 
-history:
-  title:
-  event_type:
-  description:
-  time:
-  link:
-
-sunset: No
+sunset: false
 
 # LINKS ---------------------------------------------------------------------
 links:
@@ -90,21 +81,16 @@ technology:
 
 blockchain_features:
   encryption: zksnark
-  opensource: Yes
-  identity_integration: None
-  p2p: Yes
+  opensource: true
   data_masking: DeepSend
-  viewing_key: No
-  dissapearing_tx: No
-  connected_tx: No
   frontend_anonymity: TOR addresses
   asset_custody_type: non-custodial
 
 project_status:
-  live_status: Yes
+  live_status: true
   version: V2.3.3
-  testnet: No
-  mainnet: Yes
+  testnet: false
+  mainnet: true
 
   client_diversability:
     name: DeepOnion Wallet
@@ -114,28 +100,19 @@ project_status:
 licences: General Public License
 
 privacy_policy:
-  defined: Yes
+  defined: true
   link: https://deeponion.org/privacypolicy.html
   data_usage: Not using
 
 traceability:
-  tracked_data: None
-  kyc: No
+  kyc: false
   sign_in_type_requirements: wallet
 
 compliance: none
 
 storage:
-  decentralized: Yes
+  decentralized: true
 
   # SECURITY ---------------------------------------------------------------------
-third_party_dependency: None
+third_party_dependency: false
 social_trust: DeepOnion uses a multisig system for governance decisions and has a DAO for community voting.
-technical_spof: None
-
-audits:
-  - name:
-    company:
-    logo:
-    link:
-    time:

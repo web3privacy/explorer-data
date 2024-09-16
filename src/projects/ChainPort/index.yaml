@@ -1,22 +1,23 @@
+id: chainport
 name: ChainPort
-categories: [ bridge ]
-ecosystem: [ Ethereum, Arbitrum, Optimism, Base, Bnb, Fantom, Polygon, Avalanche ] 
-description: 'next-gen custodian secure bridge'
+categories: [infrastructure]
+ecosystem: [ETHEREUM, ARBITRUM, OPTIMISM, BASE, BNB, FANTOM, POLYGON, AVALANCHE]
+description: "next-gen custodian secure bridge"
 
 team:
   anonymous: false
   teammembers:
-    - name: DcentraLab 
+    - name: DcentraLab
       link: https://x.com/DcentraLab
-     
+
 links:
   web: https://www.chainport.io/private-bridge
   github: https://github.com/chainport
-  docs: https://docs.chainport.io/ 
+  docs: https://docs.chainport.io/
   blog: https://medium.com/chainport
   twitter: https://x.com/chain_port
   telegram: https://t.me/chainport_news
-  
+
 project_status:
   live_status: true
   version: Mainnet

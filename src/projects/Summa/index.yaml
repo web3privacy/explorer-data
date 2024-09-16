@@ -1,8 +1,8 @@
+id: summa
 name: Summa
 categories: infrastructure
-description: 'Protocol enabling centralized exchanges to prove solvency without compromising private information.'
-project_status: 
-
+description: "Protocol enabling centralized exchanges to prove solvency without compromising private information."
+project_status:
   live_status: true
 team:
   anonymous: true

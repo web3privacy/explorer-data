@@ -1,3 +1,4 @@
+id: sparrow
 name: Sparrow
 categories:
   - applications
@@ -16,6 +17,5 @@ team:
       link: http://twitter.com/craigraw
 project_status:
   live_status: true
-  version:
   testnet: false
   mainnet: false
