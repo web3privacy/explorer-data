@@ -1,7 +1,8 @@
 name: Anon Aadhaar
 categories: [applications]
 description: "Anon Aadhaar is a project that allows individuals to prove their citizenship anonymously. The project provides circuits, an SDK, and demo applications that generate and verify proofs of valid Aadhaar cards, integrating with the PCD framework to support a wide range of applications."
-project_status: testnet
+project_status:
+  version: "testnet"
 live_status: true
 team:
   anonymous: true

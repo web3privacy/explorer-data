@@ -1,6 +1,5 @@
 name: Zcash
 categories: [defi]
-network: Zcash
 description: "A simple, secure digital currency that protects your privacy. For everyday purchases, sending money to a friend, and your favorite crypto applications, too."
 project_type: transaction
 technology:

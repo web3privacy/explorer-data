@@ -15,4 +15,4 @@ project_status:
 team:
   anonymous: false
   teammembers:
-    link: https://www.monerujo.io/team.html
+    - link: https://www.monerujo.io/team.html

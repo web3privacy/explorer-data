@@ -11,6 +11,7 @@ links:
   discord: https://discord.com/invite/BHZvAhg
   telegram: https://t.me/BeamPrivacy
 ecosystem: Beam
-project_status: Mainnet
+project_status:
+  version: "Mainnet"
 team:
   anonymous: false

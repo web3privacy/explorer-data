@@ -14,6 +14,6 @@ links:
   telegram: https://t.me/GrapheneOS
 project_status:
   live_status: true
-  version: 2024051500
+  version: "2024051500"
   testnet: false
   mainnet: true

@@ -2,7 +2,8 @@ name: Alaya
 categories: [infrastructure]
 description: "Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON."
 ecosystem: Ethereum
-project_status: Mainnet, 2022
+project_status:
+  version: Mainnet
 links:
   web: https://alaya.network/en
   github: https://github.com/AlayaNetwork

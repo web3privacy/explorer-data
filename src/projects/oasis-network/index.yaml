@@ -3,12 +3,12 @@ categories:
   - infrastructure
 
 project_type: Confidential compute
-description: 'A privacy-enabled blockchain platform for open finance and a responsible data economy'
+description: "A privacy-enabled blockchain platform for open finance and a responsible data economy"
 product_launch_day: "2020-11-18"
 
 team:
   anonymous: true
-  
+
 links:
   web: https://oasisprotocol.org
   github: https://github.com/oasisprotocol
@@ -30,7 +30,7 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
-  
+
 have_token: true
 tokens:
   - symbol: ROSE
@@ -42,14 +42,14 @@ tokens:
     symbol: wROSE
     network: Ethereum
     contract_address: "0x26B80FBfC01b71495f477d5237071242e0d959d7"
-  
+
 history:
-  title: Oasis Mainnet
-  event_type: launch
-  description: "Oasis Mainnet: Ushering a New Era of Privacy and Scalability"
-  time: "2020-11-18"
-  link: https://oasisprotocol.org/blog/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability
-  
+  - title: Oasis Mainnet
+    event_type: launch
+    description: "Oasis Mainnet: Ushering a New Era of Privacy and Scalability"
+    time: "2020-11-18"
+    link: https://oasisprotocol.org/blog/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability
+
 technology:
   type: TEE
   features:
@@ -58,4 +58,3 @@ technology:
     - Confidential compute
 blockchain_features:
   encryption: TEE
-

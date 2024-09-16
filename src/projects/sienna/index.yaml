@@ -63,11 +63,11 @@ audits:
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  title: Mainet
-  event_type: launch
-  description: V1
-  time: October 2021
-  link: https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
+  - title: Mainet
+    event_type: launch
+    description: V1
+    time: October 2021
+    link: https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
 client_diversability:
   - name: Keplr
     link: https://www.keplr.app/

@@ -62,11 +62,11 @@ compliance: false
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  title: Mainnet
-  event_type: launch
-  description: Mainnet
-  time: Feb 13, 2020
-  link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+  - title: Mainnet
+    event_type: launch
+    description: Mainnet
+    time: Feb 13, 2020
+    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
 client_diversability:
   - name: Keplr
     link: https://www.keplr.app/

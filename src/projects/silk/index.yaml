@@ -3,6 +3,7 @@ categories:
   - defi
 description: Private Over-Collateralized Anti-inflationary Stable Coin
 technology:
+  features: [""]
   type: TEE
   name: Trusted execution environment
 blockchain_features:

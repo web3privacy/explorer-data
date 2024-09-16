@@ -3,7 +3,8 @@ categories:
   - defi
 description: Web3’s Private Public Computing Platform
 ecosystem: xcash
-project_status: Mainnet
+project_status:
+  version: Mainnet
 links:
   web: https://xcash.tech
   github: https://github.com/X-CASH-official

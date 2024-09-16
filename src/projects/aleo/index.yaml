@@ -28,8 +28,8 @@ blockchain_features:
   dissapearing_tx: true
   connected_tx: true
 client_diversability:
-  name: address
-  link: https://explorer.aleo.org/validators
+  - name: address
+    link: https://explorer.aleo.org/validators
 default_privacy: true
 storage:
   decentralized: true

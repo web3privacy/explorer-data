@@ -11,6 +11,6 @@ links:
   twitter: https://twitter.com/Tails_live
 project_status:
   live_status: true
-  version: 6.3
+  version: "6.3"
   testnet: false
   mainnet: false

@@ -9,6 +9,6 @@ links:
   github: https://github.com/Divested-Mobile/DivestOS-Build
 project_status:
   live_status: true
-  version: 20.0
+  version: "20.0"
   testnet: false
   mainnet: true

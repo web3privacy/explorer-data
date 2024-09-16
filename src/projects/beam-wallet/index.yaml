@@ -9,6 +9,6 @@ links:
   github: https://github.com/eco-association
 project_status:
   live_status: true
-  version:
+  version: ""
   testnet: false
   mainnet: false
