@@ -1,7 +1,7 @@
 name: DERP
 categories:
-  - rpc
-description: 'DERP is an RPC endpoint you can add to your wallet to visualize data leaked by your wallet in communication with the blockchain'
+  - infrastructure
+description: "DERP is an RPC endpoint you can add to your wallet to visualize data leaked by your wallet in communication with the blockchain"
 links:
   web: https://derp.hoprnet.org/
   github: https://github.com/hoprnet/derp

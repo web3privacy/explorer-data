@@ -1,8 +1,8 @@
 name: Crust
 categories:
-  - storage
+  - applications
 ecosystem: Polkadot
-description: 'Crust provides a decentralized storage network of Web3 ecosystem. It supports multiple storage layer protocols such as IPFS, and exposes storage interfaces to application layer.'
+description: "Crust provides a decentralized storage network of Web3 ecosystem. It supports multiple storage layer protocols such as IPFS, and exposes storage interfaces to application layer."
 team:
   anonymous: true
 links:

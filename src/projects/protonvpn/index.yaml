@@ -1,6 +1,6 @@
 name: ProtonVPN
 categories:
-  - vpn
+  - applications
 description: Swiss VPN provider with encrypted email and online storage
 ecosystem: no chain
 links:

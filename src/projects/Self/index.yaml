@@ -1,7 +1,7 @@
 name: Self
-categories: [ did ]
-usecases: [ digital identity, personal data ]
-description: 'Build identification and personal data management for everything'
+categories: [applications]
+usecases: [digital identity, personal data]
+description: "Build identification and personal data management for everything"
 product_lunch_day: "2019"
 
 team:
@@ -16,9 +16,9 @@ team:
 
 links:
   web: https://www.joinself.com/
-  github: https://github.com/joinself 
+  github: https://github.com/joinself
   docs: https://docs.joinself.com/
-  twitter: https://x.com/futureoftrust 
+  twitter: https://x.com/futureoftrust
 
 project_phase: testnet
 sunset: false
@@ -44,4 +44,4 @@ storage:
   decentralized: true
 
 tecnology:
- type: ZK  
+  type: ZK

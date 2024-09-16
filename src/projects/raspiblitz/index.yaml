@@ -1,6 +1,6 @@
 name: RaspiBlitz
 categories:
-  - node
+  - infrastructure
 description: DIY Bitcoin & Lightning Node on a RaspberryPi.
 team:
   anonymous: true

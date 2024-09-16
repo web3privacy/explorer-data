@@ -1,8 +1,8 @@
 name: Ritual
-categories: [ ai ]
-ecosystem: [ Ethereum, Solana, Polygon ]
-usecases: [ ai, node ]
-description: 'We are building a way for any protocol, application, or smart contract to integrate AI models with a few lines of code.'
+categories: [applications]
+ecosystem: [Ethereum, Solana, Polygon]
+usecases: [applications, node]
+description: "We are building a way for any protocol, application, or smart contract to integrate AI models with a few lines of code."
 product_launch_day: "2023"
 
 team:
@@ -19,11 +19,11 @@ team:
     - name: Saneel Sreeni
       link: https://x.com/sanlsrni
     - name: Maryam Bahrani
-      link: https://www.mbahrani.net/        
+      link: https://www.mbahrani.net/
     - name: Yahya Hassanzadeh
       link: https://www.linkedin.com/in/yhassanzadeh/
     - name: Praveen Palanisamy
-      link: https://www.linkedin.com/in/praveenpalanisamy/   
+      link: https://www.linkedin.com/in/praveenpalanisamy/
 
 links:
   web: https://ritual.net/
@@ -35,7 +35,6 @@ links:
 
 project_phase: Testnet
 sunset: false
-
 
 funding:
   name: archetype
@@ -56,4 +55,3 @@ traceability:
   kyc: false
 third_party_dependency: false
 compliance: false
- 

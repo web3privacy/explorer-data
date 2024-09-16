@@ -1,6 +1,6 @@
 name: Zecrey
 categories:
-  - layer-2
+  - infrastructure
 description: zkRollup basedLayer 2 protocol featuring privacy and scalability
 ecosystem: multichain
 links:

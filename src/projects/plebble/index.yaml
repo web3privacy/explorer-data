@@ -1,6 +1,6 @@
 name: Plebble
 categories:
-  - layer-2
+  - infrastructure
 description: P2P Network of computers running the Plebble software (L1 & L2)
 ecosystem: TBD
 links:

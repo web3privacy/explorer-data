@@ -1,7 +1,7 @@
 name: Oort
 categories:
-  - storage
-description: 'A decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources'
+  - applications
+description: "A decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources"
 team:
   anonymous: true
 links:

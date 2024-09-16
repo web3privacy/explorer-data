@@ -1,6 +1,6 @@
 name: myNode
 categories:
-  - node
+  - infrastructure
 description: The easiest, most powerful way to run a Bitcoin and Lightning node.
 team:
   anonymous: true

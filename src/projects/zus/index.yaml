@@ -1,7 +1,7 @@
 name: Züs
 categories:
-  - storage
-description: 'A high-performance storage network powering limitless applications'
+  - applications
+description: "A high-performance storage network powering limitless applications"
 team:
   anonymous: true
 links:

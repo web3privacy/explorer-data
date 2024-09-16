@@ -1,7 +1,7 @@
 name: CULT DAO
-categories: [ dao ]
-assets_used: [ CULT ] 
-ecosystem: [ Ethereum ] 
+categories: [applications]
+assets_used: [CULT]
+ecosystem: [Ethereum]
 
 description: Investment DAO that fight against centralization and further decentralization
 product_readiness: live
@@ -42,7 +42,6 @@ links:
   twitter: https://x.com/wearecultdao
   discord: https://discord.gg/cultdao
   telegram: https://t.me/cultdaothemany
-
 
 # SECURITY ---------------------------------------------------------------------
 

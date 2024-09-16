@@ -1,7 +1,7 @@
 name: Paras
 categories:
-  - nft
-description: 'A blockchain-agnostic protocol that offers privacy to NFTs'
+  - applications
+description: "A blockchain-agnostic protocol that offers privacy to NFTs"
 links:
   web: https://paras.id/
   whitepaper: https://eprint.iacr.org/2022/976.pdf
@@ -13,4 +13,3 @@ tokens:
     symbol: PARAS
     network: Near
 sunset: false
-

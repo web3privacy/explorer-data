@@ -1,6 +1,6 @@
 name: Brave Wallet
-categories: [ wallets ]
-description: 'The secure multi-chain crypto wallet'
+categories: [applications]
+description: "The secure multi-chain crypto wallet"
 ecosystem: multichain
 links:
   web: https://brave.com/wallet/
@@ -13,6 +13,6 @@ team:
       link: https://brave.com/about/
 project_status:
   live_status: true
-  version: 
+  version:
   testnet: false
   mainnet: false

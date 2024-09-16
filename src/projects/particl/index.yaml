@@ -1,9 +1,9 @@
 name: Particl
 categories:
-  - currency
+  - defi
 description: A modern digital currency that respects your rights
 ecosystem: Particl
-project_status: 
+project_status:
   live_status: true
   version: Mainnet
   testnet: true
@@ -13,7 +13,7 @@ links:
   github: https://github.com/particl
   block_explorer: https://explorer.particl.io/
   whitepaper: https://raw.githubusercontent.com/particl/whitepaper/master/Particl%20Whitepaper%20Draft%20v0.3.pdf
- 
+
   blog: https://particl.news/
   twitter: https://x.com/particlproject
   telegram: https://t.me/particltg

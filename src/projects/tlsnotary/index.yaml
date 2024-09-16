@@ -1,6 +1,6 @@
 name: TLSNotary
 categories:
-  - dapps
+  - applications
 description: Proof of data authenticity
 links:
   web: https://tlsnotary.org

@@ -1,6 +1,6 @@
 name: Sparrow
 categories:
-  - wallets
+  - applications
 description: A Bitcoin wallet for those who value financial self-sovereignty
 ecosystem: Bitcoin
 links:
@@ -16,6 +16,6 @@ team:
       link: http://twitter.com/craigraw
 project_status:
   live_status: true
-  version: 
+  version:
   testnet: false
   mainnet: false

@@ -1,9 +1,9 @@
 name: Waku
 categories:
-  - messaging
+  - applications
 ecosystem:
   - Ethereum
-description: 'the communication layer for Web3. Decentralized communication that scales'
+description: "the communication layer for Web3. Decentralized communication that scales"
 
 team:
   anonymous: false

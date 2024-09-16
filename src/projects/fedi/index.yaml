@@ -1,7 +1,7 @@
 name: Fedi
 categories:
-  - wallets
-description: 'Billions of people are unable to hold bitcoin on or off exchanges'
+  - applications
+description: "Billions of people are unable to hold bitcoin on or off exchanges"
 ecosystem: Bitcoin
 links:
   web: https://www.fedi.xyz/
@@ -13,6 +13,6 @@ team:
   anonymous: true
 project_status:
   live_status: true
-  version: 
+  version:
   testnet: false
   mainnet: false

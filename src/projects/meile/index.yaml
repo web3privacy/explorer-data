@@ -1,6 +1,6 @@
 name: MEILE
 categories:
-  - vpn
+  - applications
 description: A decentralized VPN Client utilizing the Sentinel Blockchain
 ecosystem: multichain
 links:

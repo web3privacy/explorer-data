@@ -1,6 +1,6 @@
 name: Web3ID
 categories:
-  - did
+  - applications
 description: Privacy-preserving user verification for Web3
 ecosystem: multichain
 links:

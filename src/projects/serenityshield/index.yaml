@@ -1,7 +1,7 @@
 name: SerenityShield
 categories:
-  - storage
-description: 'The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone'
+  - applications
+description: "The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone"
 team:
   anonymous: false
   teammembers:
@@ -11,7 +11,7 @@ team:
     - name: Boris M.
       role: CPO & Co-Founder
     - name: Hughes Svay
-      role: COO 
+      role: COO
       link: https://x.com/SvayHugues
     - name: Nikos Koukos
       role: Head of Marketing
@@ -33,7 +33,7 @@ team:
       link: https://x.com/julioskulls
     - name: Ranjit Edward
       role: Infrastructure Architect
-      link: https://www.linkedin.com/in/ranjitedward/  
+      link: https://www.linkedin.com/in/ranjitedward/
 links:
   web: https://serenityshield.io
   blog: https://www.serenityshield.io/blog

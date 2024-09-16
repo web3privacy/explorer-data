@@ -1,6 +1,6 @@
 name: Zoci
 categories:
-  - rpc
+  - infrastructure
 description: Private RPC services
 links:
   web: https://zoci.io

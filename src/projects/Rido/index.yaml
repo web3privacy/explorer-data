@@ -1,13 +1,13 @@
 name: Rido
-categories: [ AI ]
-description: 'Web3 Personal Data Layer for AI '
+categories: [applications]
+description: "Web3 Personal Data Layer for AI "
 team:
   anonymous: true
 links:
-  web: https://www.rido.io/ 
+  web: https://www.rido.io/
   github: https://github.com/ridoio/rido-dao-contract
   blog: https://medium.com/@Rido_io
-  twitter: https://x.com/rido_crypto 
+  twitter: https://x.com/rido_crypto
   discord: https://discord.com/invite/Ekb98rR3pu
   telegram: https://t.me/+N6HLxnRL_WE5ZDVl
 have_token: false

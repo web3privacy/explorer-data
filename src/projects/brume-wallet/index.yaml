@@ -1,7 +1,7 @@
 name: Brume wallet
-categories: [ wallets ]
+categories: [applications]
 ecosystem: Ethereum
-description: 'Tor based wallet for Ethereum'
+description: "Tor based wallet for Ethereum"
 project_type: Wallets
 product_launch_day: "2022-11-13"
 technology:

@@ -1,7 +1,7 @@
 name: Onion Mixer
 categories:
-  - mixing-service
-description: 'Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions'
+  - applications
+description: "Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions"
 links:
   web: https://onionmixer.gitbook.io/onion-mixer/
 sunset: true

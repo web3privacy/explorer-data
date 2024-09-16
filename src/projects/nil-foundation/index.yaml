@@ -1,7 +1,7 @@
-name: '=nil; Foundation'
+name: "=nil; Foundation"
 categories:
-  - rd
-description: 'Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments'
+  - infrastructure
+description: "Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments"
 links:
   web: https://nil.foundation
   github: https://github.com/nilfoundation

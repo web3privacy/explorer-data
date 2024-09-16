@@ -1,12 +1,12 @@
 name: Nocturne
 categories:
-  - dapps
+  - applications
 description: A protocol enabling usable on-chain privacy
 links:
   web: https://nocturnelabs.xyz
   github: https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager
   docs: https://nocturne-xyz.gitbook.io/nocturne
-  
+
   blog: https://mirror.xyz/nocturnelabs.eth
   twitter: https://x.com/nocturne_xyz
   discord: https://discord.com/invite/MxZYtzzFmJ

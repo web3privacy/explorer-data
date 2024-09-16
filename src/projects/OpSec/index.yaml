@@ -1,9 +1,9 @@
 name: OpSec
-categories: [ AI ]
-description: ' AI-powered decentralized cloud security.'
+categories: [applications]
+description: " AI-powered decentralized cloud security."
 links:
-  web: https://opsec.computer/ 
-  docs: https://docs.opsec.computer/ 
+  web: https://opsec.computer/
+  docs: https://docs.opsec.computer/
   twitter: https://x.com/OpSecCloud
   discord: https://discord.com/invite/opseccloud
   telegram: https://t.me/OpSecCloud

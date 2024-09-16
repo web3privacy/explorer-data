@@ -1,7 +1,7 @@
 name: Polygon Miden
 categories:
-  - layer-2
-description: 'a zero-knowledge rollup for high-throughput and private applications'
+  - infrastructure
+description: "a zero-knowledge rollup for high-throughput and private applications"
 ecosystem: Polygon
 links:
   web: https://polygon.technology/polygon-miden

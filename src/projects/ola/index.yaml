@@ -1,6 +1,6 @@
 name: OLA
 categories:
-  - layer-2
+  - infrastructure
 description: ZK-ZKVM Bringing Programmable Privacy to Blockchains
 team:
   anonymous: false

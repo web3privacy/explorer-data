@@ -1,7 +1,7 @@
 name: KILT
 categories:
-  - did
-description: 'A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers'
+  - applications
+description: "A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers"
 ecosystem: multichain
 links:
   web: https://www.kilt.io

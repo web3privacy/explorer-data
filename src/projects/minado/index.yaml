@@ -1,6 +1,6 @@
 name: Minado
 categories:
-  - mixing-service
+  - applications
 description: Zk Privacy Solution on Mina Protocol.
 product_readiness: sunset
 links:

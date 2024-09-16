@@ -1,6 +1,6 @@
 name: ONT ID
 categories:
-  - did
+  - applications
 description: Bringing trustless identity to Web3 manage your data with ONT ID
 links:
   web: https://ont.id

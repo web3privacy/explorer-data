@@ -1,6 +1,6 @@
 name: Damus
 categories:
-  - dapps
+  - applications
 description: Nostr client for the social network you control.
 links:
   web: https://damus.io

@@ -1,7 +1,7 @@
 name: DragonX
 categories:
-  - currency
-description: 'a Z2Z private by default crypto + messenging'
+  - defi
+description: "a Z2Z private by default crypto + messenging"
 links:
   web: https://dragonx.is/
   block_explorer: https://explorer.dragonx.is/

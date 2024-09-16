@@ -1,7 +1,7 @@
 name: Pirate Chain
 categories:
-  - currency
-description: 'Anonymous cryptocurrency, a truly private, decentralized blockchain'
+  - defi
+description: "Anonymous cryptocurrency, a truly private, decentralized blockchain"
 ecosystem: Pirate
 links:
   web: https://pirate.black

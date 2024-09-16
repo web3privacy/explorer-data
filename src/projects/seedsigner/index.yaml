@@ -1,6 +1,6 @@
 name: SeedSigner
 categories:
-  - wallets
+  - applications
 description: Air-gapped DIY Bitcoin Signing Device
 ecosystem: Bitcoin
 links:

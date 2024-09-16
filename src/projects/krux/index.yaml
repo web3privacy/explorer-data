@@ -1,6 +1,6 @@
 name: Krux
 categories:
-  - wallets
+  - applications
 description: Open-source signing device firmware for Bitcoin
 ecosystem: Bitcoin
 links:

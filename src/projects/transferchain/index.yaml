@@ -1,7 +1,7 @@
 name: TransferChain
 categories:
-  - storage
-description: 'Enables users to store, process, and share their data while ensuring its privacy and security'
+  - applications
+description: "Enables users to store, process, and share their data while ensuring its privacy and security"
 team:
   anonymous: true
 links:

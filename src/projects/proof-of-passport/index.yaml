@@ -1,6 +1,6 @@
 name: Proof of Passport
 categories:
-  - kyc
+  - applications
 description: Passport proving protocol using zk-SNARKs
 links:
   web: https://proofofpassport.com/

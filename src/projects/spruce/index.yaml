@@ -1,7 +1,7 @@
 name: Spruce
 categories:
-  - did
-description: 'open-source stack to leave control of identity and data where it should be: with users'
+  - applications
+description: "open-source stack to leave control of identity and data where it should be: with users"
 links:
   web: https://spruceid.com
   github: https://github.com/spruceid

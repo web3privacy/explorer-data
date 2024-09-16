@@ -1,16 +1,16 @@
 name: Media Network
-categories: [ computing-network ]
-ecosystem: [ Ethereum, Solana, Base, Bnb, Optimist ]
-usecases: [ cloud, DePin]
-description: 'The Web3 replacement for AWS and Google Cloud'
+categories: [infrastructure]
+ecosystem: [Ethereum, Solana, Base, Bnb, Optimist]
+usecases: [cloud, DePin]
+description: "The Web3 replacement for AWS and Google Cloud"
 product_lunch_day: "2021"
 
 team:
   anonymous: true
-   
+
 links:
   web: https://www.media.network/
-  github: https://github.com/mediafoundation 
+  github: https://github.com/mediafoundation
   docs: https://docs.media.network/
   blog: https://www.media.network/blog
   twitter: https://x.com/Media_FDN
@@ -26,7 +26,7 @@ tokens:
     network: Ethereum
     contract_address: "0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1"
     token_link: https://etherscan.io/token/0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1
- 
+
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
@@ -34,7 +34,7 @@ blockchain_features:
     enabled: true
 
 privacy_policy:
-  defined: false 
+  defined: false
 
 default_privacy: true
 

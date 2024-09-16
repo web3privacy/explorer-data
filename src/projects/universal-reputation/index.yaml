@@ -1,6 +1,6 @@
 name: Universal Reputation
 categories:
-  - did
+  - applications
 description: a private and non-repudiable reputation system
 links:
   web: https://developer.unirep.io

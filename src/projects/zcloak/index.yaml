@@ -1,6 +1,6 @@
 name: zCloak
 categories:
-  - did
+  - applications
 description: Privacy-first DID and verifiable computation infrastructure
 links:
   web: https://zcloak.network

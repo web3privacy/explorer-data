@@ -1,7 +1,7 @@
 name: Nillion
 categories:
-  - computing-network
-description: 'The Secure Processing Layer of Web3'
+  - infrastructure
+description: "The Secure Processing Layer of Web3"
 ecosystem: multichain
 links:
   web: https://www.nillion.com

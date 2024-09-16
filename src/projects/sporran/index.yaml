@@ -1,7 +1,7 @@
 name: Sporran
 categories:
-  - wallets
-description: 'The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services'
+  - applications
+description: "The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services"
 links:
   web: https://www.sporran.org/
   github: https://github.com/BTE-Trusted-Entity/sporran-extension

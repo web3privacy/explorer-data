@@ -1,11 +1,11 @@
 name: KYC not me
 categories:
-  - kyc
-description: 'buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies (only BTC & XMR)'
+  - applications
+description: "buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies (only BTC & XMR)"
 team:
   anonymous: true
 links:
   web: https://kycnot.me/
   github: https://codeberg.org/pluja/kycnot.me
-  
+
   twitter: https://x.com/kycnot

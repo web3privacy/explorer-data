@@ -1,6 +1,6 @@
 name: Mix BTC
 categories:
-  - mixing-service
+  - applications
 description: Bitcoin mixer.
 team:
   anonymous: true

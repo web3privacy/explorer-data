@@ -1,6 +1,6 @@
 name: Monerujo
 categories:
-  - wallets
+  - applications
 description: Android wallet for Moneto
 links:
   web: https://www.monerujo.io
@@ -15,4 +15,4 @@ project_status:
 team:
   anonymous: false
   teammembers:
-      link: https://www.monerujo.io/team.html
+    link: https://www.monerujo.io/team.html

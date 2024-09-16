@@ -1,7 +1,7 @@
 name: CalyxOS
 categories:
-  - os
-description: 'Android mobile operating system that puts privacy and security into the hands of everyday users'
+  - applications
+description: "Android mobile operating system that puts privacy and security into the hands of everyday users"
 team:
   anonymous: true
 links:

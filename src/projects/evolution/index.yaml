@@ -1,9 +1,9 @@
 name: Evolution
 categories:
-  - currency
-description: 'A new level of your freedom. Anonymously. Secure.'
+  - defi
+description: "A new level of your freedom. Anonymously. Secure."
 ecosystem: Evolution
-project_status: 
+project_status:
   live status: true
   version: Mainnet
   testnet: true
@@ -13,7 +13,7 @@ links:
   github: https://github.com/evolution-project
   block_explorer: https://chain.evolution-network.org/
   docs: https://docs.evolution-network.org/
-  
+
   blog: https://evolutionproject.medium.com/
   twitter: https://x.com/evox_project
   discord: https://discord.com/invite/erYnAQf

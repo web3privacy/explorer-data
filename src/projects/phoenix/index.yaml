@@ -1,6 +1,6 @@
 name: Phoenix
 categories:
-  - wallets
+  - applications
 description: Non-custodial wallet on Lightning network
 links:
   web: https://phoenix.acinq.co

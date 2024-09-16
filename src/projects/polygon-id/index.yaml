@@ -1,7 +1,7 @@
 name: Polygon ID
 categories:
-  - did
-description: 'a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services'
+  - applications
+description: "a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services"
 ecosystem: Polygon
 links:
   web: https://polygon.technology/polygon-id/

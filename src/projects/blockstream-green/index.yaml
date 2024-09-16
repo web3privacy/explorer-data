@@ -1,6 +1,6 @@
 name: Blockstream Green
-categories: [ wallets ]
-description: 'A multi-platform, feature-rich Bitcoin and Liquid wallet by Blockstream'
+categories: [applications]
+description: "A multi-platform, feature-rich Bitcoin and Liquid wallet by Blockstream"
 ecosystem: Bitcoin
 links:
   web: https://blockstream.com/green/

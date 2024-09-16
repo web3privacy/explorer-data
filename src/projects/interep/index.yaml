@@ -1,6 +1,6 @@
 name: Interep
 categories:
-  - did
+  - applications
 description: Anti-sybil as a service
 links:
   web: https://interep.link
