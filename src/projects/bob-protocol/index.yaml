@@ -1,7 +1,7 @@
 name: BOB Protocol
 categories: [defi]
 description: "A multi-chain, multi-collateral stable token enhanced with optional privacy features"
-ecosystem: Polygon, Optimism, BNB, Ethereum
+ecosystem: [polygon, optimism, bnb, ethereum]
 links:
   web: https://zkbob.com/
   github: https://github.com/zkBob

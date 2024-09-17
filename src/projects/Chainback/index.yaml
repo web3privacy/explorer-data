@@ -1,7 +1,7 @@
 id: chainback
 name: Chainback
 categories: [applications]
-ecosystem: [ETHEREUM, SOLANA, BSC, POLYGON]
+ecosystem: [ethereum, solana, bsc, polygon]
 description: "Ultimate Cloud Computing & File Storage"
 
 team:

@@ -1,6 +1,6 @@
 name: ETHRome
 categories: [social-and-communications]
-ecosystem: Ethereum
+ecosystem: [ethereum]
 links:
   web: https://ethrome.org/
   twitter: https://x.com/ETHRome

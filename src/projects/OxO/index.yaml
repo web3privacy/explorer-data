@@ -1,7 +1,7 @@
 id: oxo
 name: OxO
 categories: [applications]
-ecosystem: [ETHEREUM]
+ecosystem: [ethereum]
 description: "All-in-One Privacy Exchange"
 
 team:

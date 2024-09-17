@@ -1,7 +1,7 @@
 name: Frame
 categories:
   - applications
-ecosystem: Ethereum
+ecosystem: [ethereum]
 description: "A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux."
 links:
   web: https://frame.sh/

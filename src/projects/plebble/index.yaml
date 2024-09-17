@@ -2,7 +2,7 @@ name: Plebble
 categories:
   - infrastructure
 description: P2P Network of computers running the Plebble software (L1 & L2)
-ecosystem: TBD
+ecosystem: [tbd]
 links:
   web: https://plebble.net
   github: https://github.com/root1m3/plebble

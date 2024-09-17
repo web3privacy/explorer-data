@@ -1,7 +1,7 @@
 id: privy
 name: Privy
 categories: [applications]
-ecosystem: [SOLANA]
+ecosystem: [solana]
 description: "Privy builds authentication, authorization and data control tooling so developers can deliver amazing products that keep users safe."
 
 team:

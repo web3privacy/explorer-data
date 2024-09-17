@@ -1,6 +1,6 @@
 name: Blackbox
 categories: [defi]
-ecosystem: Secret
+ecosystem: [secret]
 description: "Collection of tools allowing you send & receive SCRT anonymously"
 project_type: DeFi
 product_launch_day: "2021-15-02"

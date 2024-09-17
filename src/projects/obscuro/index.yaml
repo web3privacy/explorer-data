@@ -2,7 +2,7 @@ name: TEN (formerly Obscuro)
 categories:
   - infrastructure
 description: "a layer 2 solution for Ethereum that brings privacy and scale"
-ecosystem: Ethereum
+ecosystem: [ethereum]
 
 team:
   anonymous: false

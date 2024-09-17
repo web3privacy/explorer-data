@@ -1,6 +1,7 @@
 type: object
 additionalProperties: false
 required:
+  - id
   - name
   - categories
 properties:

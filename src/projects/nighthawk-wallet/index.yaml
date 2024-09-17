@@ -2,7 +2,7 @@ name: Nighthawk Wallet
 categories:
   - applications
 description: Private Money in your pocket.
-ecosystem: Zcash
+ecosystem: [zcash]
 links:
   web: https://nighthawkwallet.com/
   github: https://github.com/nighthawk-apps

@@ -1,6 +1,6 @@
 name: Shade Protocol
 categories: [defi]
-ecosystem: Secret
+ecosystem: [secret]
 tokens:
   - name: Shade Protocol
     symbol: SHD

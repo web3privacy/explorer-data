@@ -1,7 +1,7 @@
 name: CAPE
 categories: [defi]
-ecosystem: Ethereum
-description: 'Configurable Asset Privacy for Ethereum'
+ecosystem: [ethereum]
+description: "Configurable Asset Privacy for Ethereum"
 links:
   web: https://app.firn.cash/
   github: https://github.com/EspressoSystems/cape
@@ -11,5 +11,3 @@ project_status:
   testnet: true
 team:
   anonymous: true
-
-  

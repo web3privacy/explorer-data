@@ -2,7 +2,7 @@ name: Mullvad VPN
 categories:
   - applications
 description: "One of the most privacy-focused VPN providers (check their Privacy Policy and history)"
-ecosystem: no chain
+ecosystem: [no-chain]
 links:
   web: https://mullvad.net/
   github: https://github.com/mullvad

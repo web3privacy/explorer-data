@@ -2,7 +2,7 @@ name: Ghost
 categories:
   - defi
 description: "Proof of Stake privacy coin to help make you nothing but a ghost when transacting online"
-ecosystem: Ghost
+ecosystem: [ghost]
 project_status:
   live_status: true
   version: Mainnet

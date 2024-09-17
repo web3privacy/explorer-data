@@ -1,7 +1,7 @@
 id: raw-box
 name: RawBox
 categories: [hardware]
-ecosystem: [NYM]
+ecosystem: [nym]
 description: "Redefined privacy-enabled router."
 
 team:

@@ -2,7 +2,7 @@ name: GRin
 categories:
   - defi
 description: Electronic transactions for all. Without censorship or restrictions
-ecosystem: Mimblewimble
+ecosystem: [mimblewimble]
 links:
   web: https://grin.mw
   github: https://github.com/mimblewimble/grin

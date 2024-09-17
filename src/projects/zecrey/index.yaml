@@ -2,7 +2,7 @@ name: Zecrey
 categories:
   - infrastructure
 description: zkRollup basedLayer 2 protocol featuring privacy and scalability
-ecosystem: multichain
+ecosystem: [multichain]
 links:
   web: https://www.zecrey.com
   github: https://github.com/Zecrey-Labs

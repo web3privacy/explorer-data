@@ -1,7 +1,7 @@
 id: mailchain
 name: Mailchain
 categories: [applications]
-ecosystem: [ETHEREUM]
+ecosystem: [ethereum]
 description: "Web3 communication layer & web3 email  for everyone"
 
 team:

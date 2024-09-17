@@ -2,7 +2,7 @@ name: Web3ID
 categories:
   - applications
 description: Privacy-preserving user verification for Web3
-ecosystem: multichain
+ecosystem: [multichain]
 links:
   web: https://www.dock.io/web3id
   github: https://github.com/docknetwork

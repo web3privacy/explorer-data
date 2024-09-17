@@ -2,7 +2,7 @@ name: Railway
 categories:
   - applications
 description: DeFi privacy wallet
-ecosystem: Ethereum, BNB, Polygon
+ecosystem: [ethereum, bnb, polygon]
 links:
   web: https://railway.xyz/
   github: https://github.com/Railway-Wallet/Railway-Wallet/

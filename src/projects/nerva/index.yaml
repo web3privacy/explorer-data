@@ -2,7 +2,7 @@ name: Nerva
 categories:
   - defi
 description: "Private and secure cryptocurrency"
-ecosystem: Nerva
+ecosystem: [nerva]
 links:
   web: https://nerva.one/
   docs: https://docs.nerva.one/

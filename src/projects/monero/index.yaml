@@ -2,7 +2,7 @@ name: Monero
 categories:
   - defi
 description: "Private, decentralized cryptocurrency that keeps your finances confidential and secure"
-ecosystem: Monero
+ecosystem: [monero]
 project_status:
   live_status: true
   version: Mainnet

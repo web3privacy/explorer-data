@@ -1,6 +1,6 @@
 name: Lunar aka Brume Wallet
 categories: [applications]
-ecosystem: Ethereum
+ecosystem: [ethereum]
 links:
   web:: https://bento.me/brume
   github:: https://github.com/brumewallet

@@ -2,7 +2,7 @@ name: Litecash
 categories:
   - defi
 description: "The first fork of Beam. We removed the founders reward and are 100% community-funded"
-ecosystem: Mimblewimble
+ecosystem: [mimblewimble]
 links:
   web: https://lite-cash.com
   github: https://github.com/Litecash-Dev

@@ -2,7 +2,7 @@ name: Zephyr Protocol
 categories:
   - defi
 description: "The Untraceable Stablecoin Protocol"
-ecosystem: Zephyr
+ecosystem: [zephyr]
 links:
   web: https://zephyrprotocol.com/
   github: https://github.com/monero-ecosystem

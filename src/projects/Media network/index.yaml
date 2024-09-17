@@ -1,7 +1,7 @@
 id: media-network
 name: Media Network
 categories: [infrastructure]
-ecosystem: [ETHEREUM, SOLANA, BASE, BNB, OPTIMIST]
+ecosystem: [ethereum, solana, base, bnb, optimist]
 description: "The Web3 replacement for AWS and Google Cloud"
 
 team:

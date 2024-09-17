@@ -1,6 +1,6 @@
 name: Firn Protocol
 categories: [defi]
-ecosystem: [ETHEREUM]
+ecosystem: [ethereum]
 description: "Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains."
 tokens:
   - name: Firn

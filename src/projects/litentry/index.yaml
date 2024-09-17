@@ -2,7 +2,7 @@ name: Litentry
 categories:
   - applications
 description: "A decentralized identity aggregator, providing the structure and tools to empower you and your identity"
-ecosystem: multichain
+ecosystem: [multichain]
 links:
   web: https://litentry.com
   github: https://github.com/litentry

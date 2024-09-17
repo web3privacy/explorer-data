@@ -10,7 +10,7 @@ links:
   twitter: https://x.com/beamprivacy
   discord: https://discord.com/invite/BHZvAhg
   telegram: https://t.me/BeamPrivacy
-ecosystem: Beam
+ecosystem: [beam]
 project_status:
   version: "Mainnet"
 team:

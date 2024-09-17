@@ -2,7 +2,7 @@ name: x-cash
 categories:
   - defi
 description: Web3’s Private Public Computing Platform
-ecosystem: xcash
+ecosystem: [xcash]
 project_status:
   version: Mainnet
 links:

@@ -37,7 +37,7 @@ project_status:
   testnet: false
   mainnet: true
 
-ecosystem: Secret Network
+ecosystem: [secret-network]
 links:
   web: https://app.shadeprotocol.io/silk
   github: https://github.com/securesecrets/shade

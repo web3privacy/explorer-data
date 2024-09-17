@@ -2,7 +2,7 @@ name: StarkEX
 categories:
   - infrastructure
 description: A Layer-2 scalability engine, live on Ethereum Mainnet ✨️ZK
-ecosystem: Ethereum
+ecosystem: [ethereum]
 links:
   web: https://starkware.co/starkex/
   github: https://github.com/starkware-libs/starkex-resources

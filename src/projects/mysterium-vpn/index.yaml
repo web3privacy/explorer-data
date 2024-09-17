@@ -2,7 +2,7 @@ name: Mysterium VPN
 categories:
   - applications
 description: A global, distributed network powered by everyday people.
-ecosystem: multichain
+ecosystem: [multichain]
 links:
   web: https://www.mysterium.network/mysteriumvpn
   github: https://github.com/mysteriumnetwork/node

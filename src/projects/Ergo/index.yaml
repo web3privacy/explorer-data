@@ -1,7 +1,7 @@
 id: ergo-platform
 name: Ergo Platform
 categories: [infrastructure]
-ecosystem: [ERGO, BTC]
+ecosystem: [ergo, btc]
 description: "Ergo is the next-gen smart contract platform! Bringing economic freedom to ordinary people through decentralized financial tools"
 
 team:

@@ -2,7 +2,7 @@ name: ZKCHAOS
 categories:
   - infrastructure
 description: "ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency"
-ecosystem: TBD
+ecosystem: [tbd]
 links:
   web: https://www.zkchaos.com
   github: https://github.com/zkchaos

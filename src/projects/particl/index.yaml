@@ -1,7 +1,7 @@
 id: particl
 name: Particl
 categories: [applications]
-ecosystem: [PARTICL]
+ecosystem: [particl]
 description: "The only marketplace for private and unrestricted e-commerce"
 
 team:

@@ -2,7 +2,7 @@ name: Wownero
 categories:
   - defi
 description: "Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply of 184 million coins"
-ecosystem: Wownero
+ecosystem: [wownero]
 product_launch_day: 01 April 2018
 project_type: Memecoin
 technology:

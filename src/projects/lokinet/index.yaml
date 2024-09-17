@@ -2,7 +2,7 @@ name: Lokinet
 categories:
   - applications
 description: A VPN tunnel that uses onion routing as the transport (build on Oxen blockchain)
-ecosystem: multichain
+ecosystem: [multichain]
 links:
   web: https://lokinet.org
   github: https://github.com/oxen-io/lokinet

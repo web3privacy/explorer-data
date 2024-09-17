@@ -2,7 +2,7 @@ name: Sentinel
 categories:
   - applications
 description: "A global network of autonomous dVPN applications that enable private and censorship resistant internet access"
-ecosystem: Cosmos
+ecosystem: [cosmos]
 links:
   web: https://sentinel.co
   github: https://github.com/sentinel-official

@@ -1,7 +1,7 @@
 name: Basic Attention Token
 categories: [defi]
 description: "Making Crypto and DeFi accessible and usable for everyone (powered by Brave)"
-ecosystem: Solana
+ecosystem: [solana]
 links:
   web: https://basicattentiontoken.org
   whitepaper: https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf

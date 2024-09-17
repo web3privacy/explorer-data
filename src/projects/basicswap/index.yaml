@@ -1,6 +1,6 @@
 name: Basic Swap
 categories: [defi]
-ecosystem: Multichain
+ecosystem: [multichain]
 description: "A private and cross-chain DEX"
 project_type: DeFi
 product_launch_day: "2022-12-08"

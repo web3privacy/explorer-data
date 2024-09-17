@@ -1,7 +1,7 @@
 name: Waku
 categories:
   - applications
-ecosystem: [ETHEREUM]
+ecosystem: [ethereum]
 description: "the communication layer for Web3. Decentralized communication that scales"
 
 team:

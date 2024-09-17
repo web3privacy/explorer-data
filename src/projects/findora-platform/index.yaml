@@ -13,7 +13,7 @@ links:
 have_token: true
 tokens:
   - symbol: FRA
-ecosystem: multichain
+ecosystem: [multichain]
 team:
   anonymous: false
   company:

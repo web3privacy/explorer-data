@@ -1,7 +1,7 @@
 name: Boring Protocol
 categories: [applications]
 description: "A Decentralized VPN on Solana"
-ecosystem: Solana
+ecosystem: [solana]
 links:
   web: https://boringprotocol.io
   github: https://docs.boringprotocol.io/bop/information/boring-protocol

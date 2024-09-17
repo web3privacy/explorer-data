@@ -1,7 +1,7 @@
 name: Blockstream Green
 categories: [applications]
 description: "A multi-platform, feature-rich Bitcoin and Liquid wallet by Blockstream"
-ecosystem: Bitcoin
+ecosystem: [bitcoin]
 links:
   web: https://blockstream.com/green/
   github: https://github.com/Blockstream/green_qt

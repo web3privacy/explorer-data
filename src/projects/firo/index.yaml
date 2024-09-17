@@ -2,7 +2,7 @@ name: Firo
 categories:
   - defi
 description: A privacy-preserving cryptocurrency and ecosystem
-ecosystem: Firo
+ecosystem: [firo]
 links:
   web: https://firo.org
   github: https://github.com/firoorg/firo

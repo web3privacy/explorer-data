@@ -1,6 +1,6 @@
 name: Sienna Network
 categories: [defi]
-ecosystem: Secret
+ecosystem: [cecret]
 tokens:
   - name: Sienna Network
     symbol: SIENNA

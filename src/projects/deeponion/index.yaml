@@ -2,7 +2,7 @@
 name: DeepOnion
 categories: [applications]
 assets_used: ["ZK-SNARKS", "TOR-NETWORK"]
-ecosystem: DeepOnion Network
+ecosystem: [deeponion-network]
 
 project_type: Hybrid cryptocurrency
 description: DeepOnion (ONION) is a decentralized, open-source, community-driven cryptocurrency that offers multi-layered privacy and everyday use cases. It uses an x13 hybrid PoW/PoS to secure the network. DeepOnion is one of the earliest cryptos to integrate the Tor network into the wallet, which has not leaked any IP addresses since its release on 12 July 2017.

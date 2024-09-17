@@ -3,7 +3,7 @@ name: Sparrow
 categories:
   - applications
 description: A Bitcoin wallet for those who value financial self-sovereignty
-ecosystem: Bitcoin
+ecosystem: [bitcoin]
 links:
   web: https://sparrowwallet.com/
   github: https://github.com/sparrowwallet/sparrow

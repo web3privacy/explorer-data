@@ -2,7 +2,7 @@ id: intmax
 name: Intmax
 categories:
   - infrastructure
-ecosystem: [ETHEREUM]
+ecosystem: [ethereum]
 project_type: Layer2 zk-rollup
 description: "A zkRollup with a stateless architecture. Achieving hyper-scaling and privacy at the same time."
 

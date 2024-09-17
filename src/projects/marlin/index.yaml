@@ -2,7 +2,7 @@ name: Marlin
 categories:
   - infrastructure
 description: "Serverless backends for Web3 - Access and process data verifiably using ZKPs and TEEs"
-ecosystem: Ethereum
+ecosystem: [ethereum]
 project_status:
   live_status: true
   version: Mainnet

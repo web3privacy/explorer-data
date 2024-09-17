@@ -1,7 +1,7 @@
 name: Aleph Zero
 categories: [infrastructure]
 description: "Privacy-enhancing public blockchain with instant finality."
-ecosystem: Aleph
+ecosystem: [aleph]
 project_status:
   live_status: true
   version: Mainnet

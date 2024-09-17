@@ -1,7 +1,7 @@
 id: vocdoni
 name: Vocdoni
 categories: [applications]
-ecosystem: [ETHEREUM]
+ecosystem: [ethereum]
 description: "To build open source solutions to facilitate decision making in any organization."
 
 team:

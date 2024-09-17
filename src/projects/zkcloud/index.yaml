@@ -2,7 +2,7 @@ name: ZkCloud
 categories:
   - infrastructure
 description: Decentralized, Private Computing.
-ecosystem: Aleo
+ecosystem: [aleo]
 links:
   web: https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/
 team:

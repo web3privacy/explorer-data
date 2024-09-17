@@ -2,7 +2,7 @@ name: Iron Fish
 categories:
   - defi
 description: The Privacy Platform for Web3
-ecosystem: Iron Fish
+ecosystem: [iron-fish]
 project_status:
   live status: true
   version: testnet

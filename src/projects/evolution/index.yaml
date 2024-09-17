@@ -2,7 +2,7 @@ name: Evolution
 categories:
   - defi
 description: "A new level of your freedom. Anonymously. Secure."
-ecosystem: Evolution
+ecosystem: [evolution]
 project_status:
   live status: true
   version: Mainnet

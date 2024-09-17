@@ -8,8 +8,8 @@ logos:
     ext: png
     url: MASQ-token-v2.png
 ecosystem:
-  - ETHEREUM
-  - POLYGON
+  - ethereum
+  - polygon
 
 project_type: Decentralized privacy network protocol
 description: "a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem that makes living in Web3 anonymous and private"

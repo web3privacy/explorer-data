@@ -1,7 +1,7 @@
 id: denet
 name: DeNet
 categories: [applications]
-ecosystem: [POLYGON]
+ecosystem: [polygon]
 description: "Decentralized Storage Protocol for Web3 services "
 
 team:

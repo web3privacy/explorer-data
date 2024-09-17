@@ -2,7 +2,7 @@ name: MobileCoin
 categories:
   - defi
 description: MobileCoin makes global payments inexpensive, secure and fast
-ecosystem: mobilecoin
+ecosystem: [mobilecoin]
 links:
   web: https://mobilecoin.com
   github: https://github.com/mobilecoinofficial

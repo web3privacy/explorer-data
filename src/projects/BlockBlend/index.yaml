@@ -1,7 +1,7 @@
 id: blockblend
 name: BlockBlend
 categories: [applications]
-ecosystem: [ETHEREUM, POLYGON, BASE, BNB, SOLANA]
+ecosystem: [ethereum, polygon, base, bnb, solana]
 description: "Privacy Cross-Chain Decentralized Services"
 
 team:

@@ -1,7 +1,7 @@
 id: presearch
 name: Preserch
 categories: [applications]
-ecosystem: [ETHEREUM]
+ecosystem: [ethereum]
 description: "The Decentralized Search Engine with more than 4 million members"
 
 team:

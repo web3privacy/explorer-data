@@ -1,7 +1,7 @@
 id: chainport
 name: ChainPort
 categories: [infrastructure]
-ecosystem: [ETHEREUM, ARBITRUM, OPTIMISM, BASE, BNB, FANTOM, POLYGON, AVALANCHE]
+ecosystem: [ethereum, arbitrum, optimism, base, bnb, fantom, polygon, avalanche]
 description: "next-gen custodian secure bridge"
 
 team:
