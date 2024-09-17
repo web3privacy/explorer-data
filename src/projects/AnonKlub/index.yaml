@@ -2,7 +2,11 @@ id: anon-club
 name: AnonKlub
 categories: [applications]
 description: "AnonKlub is a tool designed for Ethereum developers that allows for anonymous proof of Ethereum address ownership."
-project_status: testnet
+project_status:
+  live_status: false
+  version: testnet
+  testnet: true
+  mainnet: false
 team:
   anonymous: true
 links:

@@ -52,8 +52,6 @@
   name: Node
 - id: events
   name: Events
-- id: fhe encryption
-  name: FHE encryption
 - id: ai
   name: AI (Artificial Inteligence)
 - id: sunset
