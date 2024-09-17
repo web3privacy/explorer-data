@@ -1,5 +1,6 @@
-import Ajv from "https://esm.sh/ajv@8.8.1?pin=v58";
+import Ajv from "https://esm.sh/ajv@8.17.1?pin=v58";
 import addFormats from "https://esm.sh/ajv-formats@2.1.1";
+import { betterAjvErrors } from 'https://esm.sh/@apideck/better-ajv-errors@0.3.6?pin=v58';
 import yaml from "npm:js-yaml";
 
 import { W3PData } from "./w3pdata.js";
@@ -7,7 +8,7 @@ import { W3PData } from "./w3pdata.js";
 const w3pd = new W3PData();
 await w3pd.init();
 
-const ajv = new Ajv({ strict: false });
+const ajv = new Ajv({ strict: false, allErrors: true });
 addFormats(ajv);
 
 async function loadSchemas() {
@@ -19,17 +20,44 @@ async function loadSchemas() {
   return out;
 }
 
+function getDeepPropertiesKeys(obj, parentKey = '') {
+  let keys = [];
+
+  if (obj.hasOwnProperty('properties')) {
+    const properties = obj['properties'];
+
+    for (const key in properties) {
+      if (properties.hasOwnProperty(key)) {
+        const newKey = parentKey ? `${parentKey}.${key}` : key;
+
+        if (properties[key].hasOwnProperty('properties')) {
+          keys = keys.concat(getDeepPropertiesKeys(properties[key], newKey));
+        } else {
+          keys.push(newKey);
+        }
+      }
+    }
+  }
+
+  return keys;
+}
+
 const matrix = {
   categories: "category",
   projects: "project",
+  assets: "asset",
+  ecosystems: "ecosystem",
+  features: "feature",
+  usecases: "usecase",
+  ranks: "rank",
 };
 
 const schemaDir = "./schema";
 const schemas = await loadSchemas();
 
-schemas.project.properties.categories.items.enum = w3pd.data.categories.map(
-  (c) => c.id
-);
+schemas.rank.properties.references.items.properties.field.enum = getDeepPropertiesKeys(schemas.project);
+schemas.project.properties.categories.items.enum = w3pd.data.categories.map((c) => c.id);
+schemas.project.properties.usecases.items.enum = w3pd.data.usecases.map((c) => c.id);
 
 for (const col of Object.keys(w3pd.data)) {
   const validator = ajv.compile(schemas[matrix[col]]);
@@ -56,9 +84,9 @@ for (const col of Object.keys(w3pd.data)) {
     if (Object.keys(item).length > 1) {
       Deno.test(testName + " (schema)", () => {
         if (!validator(item)) {
-          // throw validator.errors;
-          // log instead of throwing to proceed building all projects
-          console.log(validator.errors);
+          const betterErrors = betterAjvErrors({ errors: validator.errors });
+          // throw betterErrors;
+          console.log(betterErrors);
         }
       });
     }

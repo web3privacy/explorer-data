@@ -25,10 +25,10 @@ properties:
       type: string
       pattern: '^[A-Z0-9-]+$'
   ecosystem:
-    anyOf: [{type: array}, {type: string}]
+    type: array
     items: 
       type: string
-      pattern: '^[A-Z0-9-]+$'
+      pattern: '^[a-z0-9-]+$'
   project_type:
     type: string
   description:
@@ -100,19 +100,21 @@ properties:
       time:
         type: string
   history:
-    type: object
-    properties:
-      title:
-        type: string
-      event_type:
-        type: string
-      description:
-        type: string
-      time:
-        type: string
-      link:
-        type: string
-        format: uri
+    type: array
+    items:
+      type: object
+      properties:
+        title:
+          type: string
+        event_type:
+          type: string
+        description:
+          type: string
+        time:
+          type: string
+        link:
+          type: string
+          format: uri
   sunset:
     type: boolean
   # LINKS ---------------------------------------------------------------------
@@ -314,3 +316,8 @@ properties:
         type: boolean
       mainnet:
         type: boolean
+  usecases: 
+    type: array
+    items: 
+      type: string
+      pattern: '^[a-z0-9-]+$'
