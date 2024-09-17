@@ -12,11 +12,14 @@ properties:
         field:
           type: string
         label:
-          type: string
-        positive:
-          type: string
-        negative: 
-          type: string
+          type: object
+          properties:
+            name: 
+              type: string
+            positive:
+              type: string
+            negative: 
+              type: string
         condition:
           type: object
           properties:
