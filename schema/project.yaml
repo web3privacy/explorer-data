@@ -215,7 +215,7 @@ properties:
             type: string
           link:
             type: string
-            format: uli
+            format: uri
       p2p:
         type: boolean
       data_masking:
