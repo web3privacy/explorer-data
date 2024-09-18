@@ -1,7 +1,8 @@
 name: Mina
-categories:
+
+usecase:
   - infrastructure
-description: 'The world’s lightest blockchain, powered by participants. Using zero knowledge technology'
+description: "The world’s lightest blockchain, powered by participants. Using zero knowledge technology"
 team:
   anonymous: true
 links:
@@ -18,4 +19,3 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
-  

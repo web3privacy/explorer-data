@@ -1,7 +1,8 @@
 name: certUP
-categories:
+
+usecase:
   - nft
-description: 'SecretNFT Certificates revolutionizing official document distribution, verification, and publication'
+description: "SecretNFT Certificates revolutionizing official document distribution, verification, and publication"
 links:
   web: https://certup.net
   github: https://github.com/CertUP

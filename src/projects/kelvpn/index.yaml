@@ -1,5 +1,6 @@
 name: KelVPN
-categories:
+
+usecase:
   - vpn
 description: The first ever deanon-proof VPN is now available.
 ecosystem: multichain

@@ -1,9 +1,10 @@
 name: Codex
-categories:
+
+usecase:
   - Storage
 ecosystem:
   - Ethereum
-description: 'Codex is a durable, decentralised data storage protocol, created so the world community can preserve its most important knowledge without risk of censorship.'
+description: "Codex is a durable, decentralised data storage protocol, created so the world community can preserve its most important knowledge without risk of censorship."
 
 team:
   anonymous: false

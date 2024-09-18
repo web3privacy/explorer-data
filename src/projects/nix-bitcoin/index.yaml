@@ -1,7 +1,8 @@
 name: nix-bitcoin
-categories:
+
+usecase:
   - os
-description: 'A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security'
+description: "A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security"
 links:
   web: https://nixbitcoin.org
   github: https://github.com/fort-nix/nix-bitcoin

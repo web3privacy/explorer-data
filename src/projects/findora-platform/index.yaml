@@ -1,8 +1,9 @@
 name: Findora
-categories:
+
+usecase:
   - computing-network
 description: a decentralized, privacy-preserving smart contract platform.
-project_status: 
+project_status:
   live_status: true
   version: Mainnet
   testnet: true

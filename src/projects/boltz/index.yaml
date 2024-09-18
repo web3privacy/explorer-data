@@ -1,6 +1,7 @@
 name: Boltz
-categories: [ currency ]
-description: 'Privacy first, account-free crypto exchange'
+
+usecase: [currency]
+description: "Privacy first, account-free crypto exchange"
 links:
   web: https://boltz.exchange
   github: https://github.com/BoltzExchange/

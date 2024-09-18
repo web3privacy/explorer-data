@@ -1,5 +1,6 @@
 name: Wasabi Wallet
-categories:
+
+usecase:
   - wallets
 description: Open-source, non-custodial Bitcoin Wallet for desktop
 ecosystem: Bitcoin

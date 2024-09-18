@@ -1,5 +1,6 @@
 name: NYM
-categories:
+
+usecase:
   - infrastructure
 description: Nym protects communication patterns, IP addresses and metadata for end-users, enterprise and infrastructure operators
 team:
@@ -12,7 +13,7 @@ team:
   - name: Alexis Roussel
     role: Chief Operating Officer
   - name: Jaya Klara Brekke
-    role: Chief Strategy Officer  
+    role: Chief Strategy Officer
 links:
   web: https://nymtech.net
   github: https://github.com/nymtech

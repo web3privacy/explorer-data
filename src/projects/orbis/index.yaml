@@ -1,5 +1,6 @@
 name: Orbis
-categories:
+
+usecase:
   - infrastructure
 description: We make it easy to add social features to your application
 links:

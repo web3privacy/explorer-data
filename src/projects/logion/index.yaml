@@ -1,7 +1,8 @@
 name: Logion
-categories:
+
+usecase:
   - infrastructure
-description: 'Substrate-based public blockchain operated by a decentralized network of legal officers. Logion redefines the connection between digital actions and their legal  implications by ensuring every blockchain-based transaction is backed by robust legal certification'
+description: "Substrate-based public blockchain operated by a decentralized network of legal officers. Logion redefines the connection between digital actions and their legal  implications by ensuring every blockchain-based transaction is backed by robust legal certification"
 team:
   anonymous: false
 links:

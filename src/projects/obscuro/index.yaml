@@ -1,19 +1,20 @@
 name: TEN (formerly Obscuro)
-categories:
+
+usecase:
   - layer-2
-description: 'a layer 2 solution for Ethereum that brings privacy and scale'
+description: "a layer 2 solution for Ethereum that brings privacy and scale"
 ecosystem: Ethereum
 
 team:
   anonymous: false
-  
+
 links:
   web: https://ten.xyz/
   whitepaper: https://whitepaper.ten.xyz/
 
   twitter: https://x.com/tenprotocol
   discord: https://discord.com/invite/tenprotocol
-  telegram: https://t.me/tenprotocol 
+  telegram: https://t.me/tenprotocol
 
 project_status:
   live_status: true

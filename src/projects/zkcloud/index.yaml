@@ -1,5 +1,6 @@
 name: ZkCloud
-categories:
+
+usecase:
   - computing-network
 description: Decentralized, Private Computing.
 ecosystem: Aleo

@@ -1,6 +1,7 @@
 name: Secure RPC
-categories:
+
+usecase:
   - rpc
-description: 'a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well'
+description: "a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well"
 links:
   web: https://securerpc.com

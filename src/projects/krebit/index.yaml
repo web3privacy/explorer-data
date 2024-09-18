@@ -1,5 +1,6 @@
 name: Krebit
-categories:
+
+usecase:
   - dapps
 description: Open identity verification protocol for Web3 Verifiable Credentials
 links:

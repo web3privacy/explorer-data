@@ -1,7 +1,8 @@
 name: Mind Network
-categories:
+
+usecase:
   - infrastructure
-description: 'Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading towards to the era of HTTPZ, an end-to-end encryption internet'
+description: "Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading towards to the era of HTTPZ, an end-to-end encryption internet"
 
 team:
   anonymous: true

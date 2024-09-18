@@ -1,7 +1,8 @@
 name: DivestOS
-categories:
+
+usecase:
   - os
-description: 'A fork of LineageOS with monthly updates, automated CVE patchings, system WebView, and more'
+description: "A fork of LineageOS with monthly updates, automated CVE patchings, system WebView, and more"
 team:
   anonymous: true
 links:

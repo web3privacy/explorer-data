@@ -1,7 +1,8 @@
 name: COG
-categories:
+
+usecase:
   - currency
-description: 'A new private digital currency that leverages the power of Web3 and DeFi  without compromising the privacy and security of its users'
+description: "A new private digital currency that leverages the power of Web3 and DeFi  without compromising the privacy and security of its users"
 links:
   web: https://cogfi.org
 team:

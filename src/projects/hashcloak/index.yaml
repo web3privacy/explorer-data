@@ -1,11 +1,12 @@
 name: HashCloak
-categories:
+
+usecase:
   - rd
-description: 'An independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes'
+description: "An independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes"
 team:
   anonymous: false
   teammembers:
-    - name: Mikerah 
+    - name: Mikerah
       link: https://x.com/badcryptobitch
     - name: Hernan Vanegas
       link: https://x.com/hdvanegasm

@@ -1,7 +1,8 @@
 name: Discreet Labs
-categories:
+
+usecase:
   - rd
-description: 'Build blockchain systems for a more private, self-sovereign future on Fidora'
+description: "Build blockchain systems for a more private, self-sovereign future on Fidora"
 team:
   anonymous: false
   teammembers:

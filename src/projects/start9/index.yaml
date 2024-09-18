@@ -1,5 +1,6 @@
 name: Start9
-categories:
+
+usecase:
   - node
 description: Sovereign computing for a free future.
 team:

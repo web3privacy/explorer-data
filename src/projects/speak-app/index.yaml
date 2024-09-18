@@ -1,7 +1,8 @@
 name: Speak app
-categories:
+
+usecase:
   - messaging
-description: 'No phone number. No email address. Speakapp is a simple, and secure web3 messenger'
+description: "No phone number. No email address. Speakapp is a simple, and secure web3 messenger"
 team:
   anonymous: true
 links:

@@ -1,7 +1,8 @@
 name: Cyclone
-categories:
+
+usecase:
   - mixing-service
-description: 'Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.'
+description: "Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses."
 team:
   anonymous: true
 product_readiness: live
@@ -25,4 +26,3 @@ audits:
   - name: Smart Contract Security Audit Report
     link: https://4040024839-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MNeAQGL5skC11vu82Sy%2F-MY3RBSlDMhVlkrMsx5Y%2F-MY3RKd1R4T7nq41E4hA%2FSmart%20Contract%20Security%20Audit%20Report%20-%20Cyclone.pdf?alt=media&token=339e5433-2dac-4022-8310-5a87ad0f9b09
     time: April, 2021
-

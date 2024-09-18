@@ -1,7 +1,8 @@
 name: RoninDojo Tanto
-categories:
+
+usecase:
   - hardware
-description: 'Fully validating Bitcoin full node. Served over a Tor hidden service'
+description: "Fully validating Bitcoin full node. Served over a Tor hidden service"
 ecosystem: Bitcoin
 links:
   web: https://ronindojo.io/

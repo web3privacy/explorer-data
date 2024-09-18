@@ -1,10 +1,11 @@
-name: The 4th Pillar 
-categories: [ messaging ]
-description: 'Web3 Aligned Email & Chat Super App'
+name: The 4th Pillar
+
+usecase: [messaging]
+description: "Web3 Aligned Email & Chat Super App"
 
 team:
   anonymous: true
-      
+
 links:
   web: https://the4thpillar.io/
   github: https://github.com/4P-project/
@@ -14,7 +15,7 @@ links:
   twitter: https://x.com/4pfour
   discord: https://discord.com/invite/WaZZXeBhg4
   telegram: https://t.me/the4thpillarofficial
-  
+
 project_status:
   live_status: true
   version: Mainnet

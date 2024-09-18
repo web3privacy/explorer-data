@@ -1,5 +1,6 @@
 name: Oasiis insights
-categories:
+
+usecase:
   - data-management
 description: Personalized web3 journeys are finally here.
 links:

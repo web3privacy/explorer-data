@@ -1,7 +1,8 @@
 name: Zephyr Protocol
-categories:
+
+usecase:
   - currency
-description: 'The Untraceable Stablecoin Protocol'
+description: "The Untraceable Stablecoin Protocol"
 ecosystem: Zephyr
 links:
   web: https://zephyrprotocol.com/

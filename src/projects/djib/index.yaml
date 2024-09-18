@@ -1,5 +1,6 @@
 name: DJIB
-categories:
+
+usecase:
   - storage
 description: DJIB is the next generation Web3 storage
 team:

@@ -1,7 +1,8 @@
 name: Manta Network
-categories:
+
+usecase:
   - infrastructure
-description: 'the multi-modular ecosystem for zero-knowledge (ZK) applications'
+description: "the multi-modular ecosystem for zero-knowledge (ZK) applications"
 team:
   anonymous: true
 links:

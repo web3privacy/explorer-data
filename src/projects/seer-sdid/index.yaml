@@ -1,10 +1,11 @@
 name: SEER sdid
-categories:
+
+usecase:
   - did
 description: Building your own community identity like a brand
 links:
   web: https://sdid.seer.eco/
- 
+
   blog: https://medium.com/@SeerFoundation
   twitter: https://x.com/SeerFoundation
   discord: https://discord.com/invite/zpy6tXP5Qt

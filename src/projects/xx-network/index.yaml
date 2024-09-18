@@ -1,5 +1,6 @@
 name: XX network
-categories:
+
+usecase:
   - infrastructure
 description: The first and only quantum-resistant and privacy-focused blockchain ecosystem
 links:

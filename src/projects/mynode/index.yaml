@@ -1,5 +1,6 @@
 name: myNode
-categories:
+
+usecase:
   - node
 description: The easiest, most powerful way to run a Bitcoin and Lightning node.
 team:

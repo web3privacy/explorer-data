@@ -1,5 +1,6 @@
 name: Sociogram
-categories:
+
+usecase:
   - dapps
 description: Web3Social Media focused on privacy.
 links:

@@ -1,7 +1,8 @@
 name: Treasure Chest
-categories:
+
+usecase:
   - wallets
-description: 'Treasure Chest is the main full node wallet for the ARRR cryptocurrency'
+description: "Treasure Chest is the main full node wallet for the ARRR cryptocurrency"
 ecosystem: Pirate Chain
 links:
   web: https://pirate.black/wallets/treasure-chest/

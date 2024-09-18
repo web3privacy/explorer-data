@@ -1,5 +1,6 @@
 name: Skiff Pages
-categories:
+
+usecase:
   - dapps
 description: Private, End-to-End Encrypted Notes
 links:

@@ -1,10 +1,11 @@
 name: Elusiv
-categories: [defi]
+
+usecase: [defi]
 ecosystem: Solana
-description: 'Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana.'
+description: "Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana."
 technology:
   type: zk
-  features: 
+  features:
     - zk-SNARKS
 links:
   web: https://elusiv.io/

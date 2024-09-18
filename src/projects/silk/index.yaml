@@ -1,7 +1,8 @@
 name: SILK
-categories:
+
+usecase:
   - currency
-description: Private Over-Collateralized Anti-inflationary Stable Coin 
+description: Private Over-Collateralized Anti-inflationary Stable Coin
 technology:
   type: TEE
   name: Trusted execution environment
@@ -31,18 +32,16 @@ third_party_dependency: false
 compliance: false
 social_trust: Shade Core team ( Secret Contract multisig )
 technical_spof: Can decrypt
-  
+
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
-  
-  
+
 ecosystem: Secret Network
 links:
   web: https://app.shadeprotocol.io/silk
   github: https://github.com/securesecrets/shade
 
   twitter: https://x.com/Silk_Stable
-

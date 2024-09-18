@@ -1,5 +1,6 @@
 name: Sons of Crypto
-categories:
+
+usecase:
   - wallets
 description: Web3 wallet by degens for degens
 ecosystem: multichain
@@ -13,6 +14,6 @@ team:
   anonymous: true
 project_status:
   live_status: true
-  version: 
+  version:
   testnet: false
   mainnet: false

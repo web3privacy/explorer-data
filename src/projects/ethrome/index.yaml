@@ -1,5 +1,6 @@
 name: ETHRome
-categories: [events]
+
+usecase: [events]
 ecosystem: Ethereum
 links:
   web: https://ethrome.org/

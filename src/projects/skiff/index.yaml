@@ -1,5 +1,6 @@
 name: Skiff
-categories:
+
+usecase:
   - dapps
 description: Web3 email, drive, and docs
 links:

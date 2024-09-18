@@ -1,5 +1,6 @@
 name: Phoenix
-categories:
+
+usecase:
   - wallets
 description: Non-custodial wallet on Lightning network
 links:

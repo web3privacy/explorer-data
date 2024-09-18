@@ -1,6 +1,7 @@
 name: Beam
-categories: [ wallets ]
-description: 'Self-custodial wallet built on eco.org'
+
+usecase: [wallets]
+description: "Self-custodial wallet built on eco.org"
 team:
   anonymous: true
 links:
@@ -9,6 +10,6 @@ links:
   github: https://github.com/eco-association
 project_status:
   live_status: true
-  version: 
+  version:
   testnet: false
   mainnet: false

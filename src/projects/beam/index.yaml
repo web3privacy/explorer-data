@@ -1,6 +1,7 @@
 name: Beam
-categories: [ currency ]
-description: 'Best in class privacy coin and confidential DeFi platform'
+
+usecase: [currency]
+description: "Best in class privacy coin and confidential DeFi platform"
 links:
   web: https://beam.mw
   github: https://github.com/BeamMW/beam

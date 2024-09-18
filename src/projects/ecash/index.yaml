@@ -1,7 +1,8 @@
 name: eCash
-categories:
+
+usecase:
   - currency
-description: 'Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche'
+description: "Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche"
 links:
   web: https://e.cash
   github: https://github.com/bitcoin-abc/bitcoin-abc/

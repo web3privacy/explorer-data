@@ -1,7 +1,8 @@
 name: Cool Wallet
-categories:
+
+usecase:
   - wallets
-description: 'Non-custodial wallet'
+description: "Non-custodial wallet"
 team:
   anonymous: false
   teammembers:
@@ -15,7 +16,6 @@ links:
   twitter: https://twitter.com/coolwallet
 project_status:
   live_status: true
-  version: 
+  version:
   testnet: false
   mainnet: false
-  

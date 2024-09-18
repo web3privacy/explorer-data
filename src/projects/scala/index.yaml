@@ -1,7 +1,8 @@
 name: Scala
-categories:
+
+usecase:
   - infrastructure
-description: 'A secure, anonymous and mobile-friendly cryptocurrency offering easy-to-use solutions to ensure financial privacy'
+description: "A secure, anonymous and mobile-friendly cryptocurrency offering easy-to-use solutions to ensure financial privacy"
 team:
   - name: Hayzam
     role: Founder, Lead Developer

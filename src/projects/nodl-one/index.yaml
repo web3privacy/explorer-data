@@ -1,5 +1,6 @@
 name: nodl One
-categories:
+
+usecase:
   - node
 description: A full Bitcoin and Lightning Network node.
 links:

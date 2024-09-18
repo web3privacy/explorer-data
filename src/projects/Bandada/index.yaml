@@ -1,6 +1,7 @@
 name: Bandada
-categories: [ DID ]
-description: 'An open-source system for managing privacy-preserving groups of anonymous individuals.'
+
+usecase: [DID]
+description: "An open-source system for managing privacy-preserving groups of anonymous individuals."
 project_status: testnet
 team:
   anonymous: true

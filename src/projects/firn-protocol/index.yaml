@@ -1,7 +1,8 @@
 name: Firn Protocol
-categories: [ defi ]
+
+usecase: [defi]
 ecosystem: Ethereum
-description: 'Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains.'
+description: "Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains."
 tokens:
   - name: Firn
     symbol: FIRN
@@ -14,7 +15,7 @@ technology:
   name: Zero-knowledge
   features:
     - privacy
-    - payments 
+    - payments
 links:
   web: https://app.firn.cash/
   twitter: https://twitter.com/firnprotocol
@@ -61,7 +62,7 @@ history:
   description: AGithub start
   time: Nov 6, 2021
   link: https://github.com/firnprotocol
-client_diversability: 
+client_diversability:
   - name: Metamask
     link: https://www.metamask.io
 default_privacy: true
@@ -76,4 +77,3 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
-  

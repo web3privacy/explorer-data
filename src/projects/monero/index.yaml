@@ -1,9 +1,10 @@
 name: Monero
-categories:
+
+usecase:
   - currency
-description: 'Private, decentralized cryptocurrency that keeps your finances confidential and secure'
+description: "Private, decentralized cryptocurrency that keeps your finances confidential and secure"
 ecosystem: Monero
-project_status: 
+project_status:
   live_status: true
   version: Mainnet
   testnet: true

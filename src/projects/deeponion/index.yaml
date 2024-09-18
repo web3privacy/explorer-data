@@ -1,6 +1,7 @@
 #PROJECT DESCRIPTION -------------------------------------------------------------
 name: DeepOnion
-categories: currency
+
+usecase: currency
 assets_used: ZK-Snarks, TOR Network
 ecosystem: DeepOnion Network
 
@@ -10,7 +11,7 @@ product_readiness: Mainnet
 product_launch_day: 2017-07-12
 
 have_token: Yes
-token_link: 
+token_link:
 tokens:
   - name: DeepOnion
     symbol: ONION
@@ -21,24 +22,24 @@ fee: 0.0001 ONION/kB
 team:
   anonymous: Yes
   teammembers:
-   - name: Deeper
-     role: Marketing Manager
-     link: https://deeponion.org/community/members/deeper.2/
-   - name: Monocolor
-     role: Lead Blockchain Developer
-     link: https://deeponion.org/community/members/monocolor.207/
-   - name: Nezero
-     role: Blockchain Developer
-     link: https://deeponion.org/community/members/nezero.1858/
-   - name: Obszoenling
-     role: Blockchain Developer
-     link: https://deeponion.org/community/members/obszoenling.414/
-   - name: Impressive
-     role: Web Developer
-     link: https://deeponion.org/community/members/impressive.2278/
-   - name: DogLover
-     role: Web Developer
-     link: https://deeponion.org/community/members/doglover.2258/
+    - name: Deeper
+      role: Marketing Manager
+      link: https://deeponion.org/community/members/deeper.2/
+    - name: Monocolor
+      role: Lead Blockchain Developer
+      link: https://deeponion.org/community/members/monocolor.207/
+    - name: Nezero
+      role: Blockchain Developer
+      link: https://deeponion.org/community/members/nezero.1858/
+    - name: Obszoenling
+      role: Blockchain Developer
+      link: https://deeponion.org/community/members/obszoenling.414/
+    - name: Impressive
+      role: Web Developer
+      link: https://deeponion.org/community/members/impressive.2278/
+    - name: DogLover
+      role: Web Developer
+      link: https://deeponion.org/community/members/doglover.2258/
 
 funding:
   - name: Community Contributions
@@ -55,7 +56,6 @@ history:
   link:
 
 sunset: No
-
 
 # LINKS ---------------------------------------------------------------------
 links:
@@ -75,20 +75,19 @@ links:
 
   education: https://deeponion.org/#academy
 
-
 # TECHNOLOGY ---------------------------------------------------------------------
 technology:
   type: x13 PoW & PoS
   features:
-   - Private wallet
-   - Hybrid - PoW & PoS
-   - ZK-Snarks for privacy
-   - TOR Network integration
-   - DeepSend for transaction masking
-   - DeepVault for file verification
-   - DeepProtocol for encrypted messaging
-   - DeepOnionJ for Java integration
-   - VoteCentral for community governance
+    - Private wallet
+    - Hybrid - PoW & PoS
+    - ZK-Snarks for privacy
+    - TOR Network integration
+    - DeepSend for transaction masking
+    - DeepVault for file verification
+    - DeepProtocol for encrypted messaging
+    - DeepOnionJ for Java integration
+    - VoteCentral for community governance
 
 blockchain_features:
   encryption: zksnark
@@ -108,31 +107,29 @@ project_status:
   testnet: No
   mainnet: Yes
 
-  client_diversability: 
+  client_diversability:
     name: DeepOnion Wallet
     link: https://deeponion.org/#download
 
-
-# PRIVACY ---------------------------------------------------------------------  
+# PRIVACY ---------------------------------------------------------------------
 licences: General Public License
-  
+
 privacy_policy:
   defined: Yes
   link: https://deeponion.org/privacypolicy.html
   data_usage: Not using
-  
+
 traceability:
   tracked_data: None
   kyc: No
   sign_in_type_requirements: wallet
-  
+
 compliance: none
 
 storage:
   decentralized: Yes
 
-
- # SECURITY ---------------------------------------------------------------------
+  # SECURITY ---------------------------------------------------------------------
 third_party_dependency: None
 social_trust: DeepOnion uses a multisig system for governance decisions and has a DAO for community voting.
 technical_spof: None
@@ -146,5 +143,5 @@ audits:
   - name:
     company:
     logo:
-    link: 
+    link:
     time:

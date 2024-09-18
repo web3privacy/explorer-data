@@ -1,5 +1,6 @@
 name: Zion
-categories:
+
+usecase:
   - messaging
 description: The Zion app is a peer-governed social network where members are the true owners of their data with BTC lightning integration.
 team:

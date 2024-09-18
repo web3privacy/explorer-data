@@ -1,5 +1,6 @@
 name: socialKYC
-categories:
+
+usecase:
   - kyc
 description: Your decentralized social credentials
 team:

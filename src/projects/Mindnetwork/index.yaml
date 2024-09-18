@@ -1,6 +1,7 @@
-name: 'MindNetwork'
-categories: [ FHE ]
-description: 'An FHE Restaking Layer for PoS and AI Networks '
+name: "MindNetwork"
+
+usecase: [FHE]
+description: "An FHE Restaking Layer for PoS and AI Networks "
 links:
   web: https://www.mindnetwork.xyz/
   github: https://github.com/mind-network

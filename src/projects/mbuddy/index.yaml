@@ -1,5 +1,6 @@
 name: MBuddy
-categories:
+
+usecase:
   - did
 description: Web 3.0+ identity infrastructure
 ecosystem: multichain

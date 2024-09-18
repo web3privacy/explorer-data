@@ -1,5 +1,6 @@
 name: Hypersign
-categories:
+
+usecase:
   - did
 description: the ultimate stack for identity management
 links:

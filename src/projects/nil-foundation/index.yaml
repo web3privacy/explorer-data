@@ -1,7 +1,8 @@
-name: '=nil; Foundation'
-categories:
+name: "=nil; Foundation"
+
+usecase:
   - rd
-description: 'Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments'
+description: "Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments"
 links:
   web: https://nil.foundation
   github: https://github.com/nilfoundation

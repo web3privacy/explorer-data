@@ -1,7 +1,8 @@
 name: Haven Protocol
-categories:
+
+usecase:
   - infrastructure
-description: 'an open source, community-led network of private digital assets'
+description: "an open source, community-led network of private digital assets"
 team:
   anonymous: true
 links:

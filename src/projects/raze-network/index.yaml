@@ -1,7 +1,8 @@
 name: Raze Network
-categories:
+
+usecase:
   - infrastructure
-description: 'Raze Network is a EVM-compatible privacy protocol. It is built as a native privacy layer that can provide end-to-end anonymity for the entire DeFi and Web3.0 stack. '
+description: "Raze Network is a EVM-compatible privacy protocol. It is built as a native privacy layer that can provide end-to-end anonymity for the entire DeFi and Web3.0 stack. "
 links:
   web: https://www.raze.network
   github: https://github.com/Raze-Net

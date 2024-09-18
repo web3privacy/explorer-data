@@ -1,5 +1,6 @@
 name: Seneca
-categories:
+
+usecase:
   - infrastructure
 description: The first layer 1 designed to build apps on rich, complex yet private data
 links:

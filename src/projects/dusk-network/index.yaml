@@ -1,7 +1,8 @@
 name: Dusk Network
-categories: [defi]
+
+usecase: [defi]
 ecosystem: Dusk
-description: 'Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.'
+description: "Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes."
 links:
   web: https://dusk.network/
   github: https://github.com/dusk-network

@@ -1,5 +1,6 @@
 name: Omnia
-categories:
+
+usecase:
   - infrastructure
 description: Omnia is a specialized RPC provider for DeFi traders, developed by cybersecurity, privacy and trading experts. They address DeFi-specific challenges like front-running and MEV exploitation.
 team:
@@ -21,6 +22,6 @@ project_status:
   testnet: true
   mainnet: true
 audits:
-  - name: Smart Contract Code Review and Security Analysis Report 
+  - name: Smart Contract Code Review and Security Analysis Report
     link: https://wp.hacken.io/wp-content/uploads/2021/11/OmniaProtocol_15112021SCAudit_Report.pdf
     time: November, 2021

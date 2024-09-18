@@ -1,7 +1,8 @@
 name: Litentry
-categories:
+
+usecase:
   - did
-description: 'A decentralized identity aggregator, providing the structure and tools to empower you and your identity'
+description: "A decentralized identity aggregator, providing the structure and tools to empower you and your identity"
 ecosystem: multichain
 links:
   web: https://litentry.com

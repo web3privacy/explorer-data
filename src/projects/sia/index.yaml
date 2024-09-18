@@ -1,5 +1,6 @@
 name: Sia
-categories:
+
+usecase:
   - storage
 description: Decentralized data storage
 team:
@@ -18,7 +19,7 @@ team:
       role: Director People & Support
       link: https://github.com/stevefunk
     - name: Luke
-      role: Founder & Researcher 
+      role: Founder & Researcher
       link: https://x.com/lukechampine
     - name: Alex
       role: Product Engineer
@@ -31,7 +32,7 @@ team:
       link: https://github.com/chris124567
     - name: Kino
       role: Community Manager
-      link: https://github.com/kinomora  
+      link: https://github.com/kinomora
 links:
   web: https://sia.tech
   github: https://github.com/SiaFoundation

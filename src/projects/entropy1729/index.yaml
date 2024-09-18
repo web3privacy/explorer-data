@@ -1,5 +1,6 @@
 name: Entropy1729
-categories:
+
+usecase:
   - rd
 description: Zero Knowledge Shop.
 links:

@@ -1,7 +1,8 @@
 name: Silent protocol
-categories: [defi]
+
+usecase: [defi]
 ecosystem: Ethereum
-description: 'Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.'
+description: "Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale."
 links:
   web: https://www.silentprotocol.org/
 team:

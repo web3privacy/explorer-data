@@ -1,7 +1,8 @@
 name: Cerebrum
-categories:
+
+usecase:
   - did
-description: 'Ensure everyone in your organization is credentialed and compliant with Cerebrum verifiable data technology and vID ecosystem'
+description: "Ensure everyone in your organization is credentialed and compliant with Cerebrum verifiable data technology and vID ecosystem"
 links:
   web: https://www.cerebrum.com
   github: https://github.com/cerebruminc

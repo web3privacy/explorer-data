@@ -1,5 +1,6 @@
 name: Leo wallet
-categories:
+
+usecase:
   - wallets
 description: Safe and easy way to interact with the Aleo blockchain
 ecosystem: Aleo

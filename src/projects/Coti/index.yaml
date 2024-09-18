@@ -1,6 +1,7 @@
 name: Coti
-categories: [ layer-2 ]
-description: 'EVM L2 solving blockchain privacy with Garbled Circuits'
+
+usecase: [layer-2]
+description: "EVM L2 solving blockchain privacy with Garbled Circuits"
 
 team:
   anonymous: false

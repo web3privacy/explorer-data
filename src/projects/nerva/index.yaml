@@ -1,7 +1,8 @@
 name: Nerva
-categories:
+
+usecase:
   - currency
-description: 'Private and secure cryptocurrency'
+description: "Private and secure cryptocurrency"
 ecosystem: Nerva
 links:
   web: https://nerva.one/

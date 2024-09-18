@@ -1,10 +1,11 @@
 name: OutDID
-categories:
+
+usecase:
   - kyc
 description: Your Zero-Knowledge, Decentralized KYC filter of Blockchain users.
 links:
   web: https://www.outdid.io
-  
+
   blog: https://medium.com/@getoutdid
   twitter: https://x.com/getoutdid
   telegram: https://t.me/outdid_io

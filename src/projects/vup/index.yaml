@@ -1,5 +1,6 @@
 name: VUP
-categories:
+
+usecase:
   - storage
 description: Private and decentralized cloud storage
 team:

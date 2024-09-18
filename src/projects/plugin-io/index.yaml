@@ -1,5 +1,6 @@
 name: Plugin.io
-categories:
+
+usecase:
   - dapps
 description: Privacy-focused, ad-free social media & digital marketplace.
 links:

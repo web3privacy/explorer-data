@@ -1,7 +1,8 @@
 name: Ethernity cloud
-categories:
+
+usecase:
   - computing-network
-description: 'The Web3 decentralized confidential computing ecosystem'
+description: "The Web3 decentralized confidential computing ecosystem"
 ecosystem: Polygon
 links:
   web: https://ethernity.cloud/
@@ -31,4 +32,3 @@ traceability:
   kyc: false
 storage:
   decentralized: true
-

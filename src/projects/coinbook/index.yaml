@@ -1,2 +1,3 @@
 name: CoinBook
-categories: [ defi ]
+
+usecase: [defi]

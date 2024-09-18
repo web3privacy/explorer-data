@@ -1,5 +1,6 @@
 name: Relayz
-categories:
+
+usecase:
   - messaging
 description: Hyper-secure, private communications protocol for Web3
 links:

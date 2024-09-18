@@ -1,5 +1,6 @@
 name: Universal Reputation
-categories:
+
+usecase:
   - did
 description: a private and non-repudiable reputation system
 links:

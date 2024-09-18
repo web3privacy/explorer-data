@@ -1,7 +1,8 @@
 name: Hypermine
-categories:
+
+usecase:
   - rd
-description: 'Smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography'
+description: "Smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography"
 team:
   anonymous: false
   teammembers:

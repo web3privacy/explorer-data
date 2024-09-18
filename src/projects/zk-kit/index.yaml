@@ -1,7 +1,8 @@
 name: zk-kit
-categories: infrastructure
-description: 'A set of reusable libraries for zero-knowledge technologies.'
-project_status: 
+
+usecase: infrastructure
+description: "A set of reusable libraries for zero-knowledge technologies."
+project_status:
   live_status: true
 team:
   anonymous: true

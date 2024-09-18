@@ -1,7 +1,8 @@
 name: Mejhool
-categories:
+
+usecase:
   - messaging
-description: 'A decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer, and voice-over-IP service'
+description: "A decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer, and voice-over-IP service"
 team:
   - name: Dr. Mohamed Al Arab
     role: Founder - CEO

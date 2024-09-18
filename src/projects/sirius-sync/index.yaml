@@ -1,5 +1,6 @@
 name: Sirius Sync
-categories:
+
+usecase:
   - dapps
 description: Web3 Social Ecosystem
 links:

@@ -1,7 +1,8 @@
 name: Sigle
-categories:
+
+usecase:
   - dapps
-description: 'Secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts'
+description: "Secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts"
 links:
   web: https://www.sigle.io
   github: https://github.com/sigle/sigle

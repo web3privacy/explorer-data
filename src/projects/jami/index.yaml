@@ -1,7 +1,8 @@
 name: Jami
-categories:
+
+usecase:
   - messaging
-description: 'a free/libre, end-to-end encrypted, and private communication platform'
+description: "a free/libre, end-to-end encrypted, and private communication platform"
 team:
   anonymous: true
 links:

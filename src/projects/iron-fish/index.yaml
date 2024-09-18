@@ -1,9 +1,10 @@
 name: Iron Fish
-categories:
+
+usecase:
   - currency
 description: The Privacy Platform for Web3
 ecosystem: Iron Fish
-project_status: 
+project_status:
   live status: true
   version: testnet
   testnet: true

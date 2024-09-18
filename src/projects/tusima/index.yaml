@@ -1,5 +1,6 @@
 name: Tusima
-categories:
+
+usecase:
   - layer-2
 description: Privacy Financial Infrastructure For Blockchain
 links:

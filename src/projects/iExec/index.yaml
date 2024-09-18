@@ -1,10 +1,11 @@
 name: iExec
-categories: [ AI ]
-description: 'Build, Own, and Monetize in Web3. Privacy & Choice for users'
+
+usecase: [AI]
+description: "Build, Own, and Monetize in Web3. Privacy & Choice for users"
 team:
   anonymous: false
 links:
-  web: https://iex.ec/ 
+  web: https://iex.ec/
   block_exporer: https://explorer.iex.ec/bellecour
   docs: https://docs.iex.ec/
   github: https://github.com/iExecBlockchainComputing

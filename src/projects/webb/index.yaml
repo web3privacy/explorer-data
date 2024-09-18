@@ -1,7 +1,8 @@
 name: Webb
-categories: [defi]
+
+usecase: [defi]
 ecosystem: Tangle
-description: 'an interoperable private bridge'
+description: "an interoperable private bridge"
 technology:
   type: zk
   features:

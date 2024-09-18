@@ -1,7 +1,8 @@
 name: Polybase
-categories:
+
+usecase:
   - layer-2
-description: 'a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs'
+description: "a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs"
 product_version: testnet
 team:
   - name: Sid Gandhi

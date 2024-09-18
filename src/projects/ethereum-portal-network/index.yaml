@@ -1,7 +1,8 @@
 name: Ethereum Portal Network
-categories:
+
+usecase:
   - rpc
-description: 'Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests'
+description: "Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests"
 team:
   anonymous: false
   teammembers:

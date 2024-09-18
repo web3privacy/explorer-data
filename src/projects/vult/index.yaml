@@ -1,5 +1,6 @@
 name: vult
-categories:
+
+usecase:
   - storage
 description: Your private cloud
 team:

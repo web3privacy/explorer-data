@@ -1,6 +1,7 @@
 name: BlockWallet
-categories: [ wallets ]
-description: 'BlockWallet is the epitome of speed, reliability, security, and privacy in the world of digital assets. As a self-custodial Web3 wallet, it empowers you to truly own your digital currencies while eliminating concerns surrounding asset management.'
+
+usecase: [wallets]
+description: "BlockWallet is the epitome of speed, reliability, security, and privacy in the world of digital assets. As a self-custodial Web3 wallet, it empowers you to truly own your digital currencies while eliminating concerns surrounding asset management."
 ecosystem: Ethereum
 links:
   web: https://blockwallet.io/

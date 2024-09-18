@@ -1,5 +1,6 @@
 name: Zoker
-categories:
+
+usecase:
   - wallets
 description: The foremost ZK-based Wallet in Web3
 ecosystem: multichain

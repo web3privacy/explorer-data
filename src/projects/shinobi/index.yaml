@@ -1,5 +1,6 @@
 name: Shinobi
-categories: [bridge]
+
+usecase: [bridge]
 links:
 web: https://www.sbtc.ninja/
 github: https://github.com/shinobi-protocol

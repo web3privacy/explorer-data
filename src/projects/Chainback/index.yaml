@@ -1,21 +1,22 @@
 name: Chainback
-categories: [ storage ]
-ecosystem: [ Ethereum, Solana, Bsc, Polygon]
-usecases: [storage, cloud ]
-description: 'Ultimate Cloud Computing & File Storage'
+
+usecase: [storage]
+ecosystem: [Ethereum, Solana, Bsc, Polygon]
+usecases: [storage, cloud]
+description: "Ultimate Cloud Computing & File Storage"
 product_lunch_day: "2022-12"
 
 team:
   anonymous: true
-     
+
 links:
   web: https://chainback.org/
   docs: https://chainback.gitbook.io/chainback-whitepaper
   block_explorer: https://app.chainback.org/explorer
   whitepaper: https://drive.google.com/file/d/1wtzmijhSoJJmIO5S2PRDH3-rV3IH93xv/view
-  blog: https://medium.com/@chainback.archive 
+  blog: https://medium.com/@chainback.archive
   twitter: https://x.com/ChainbackWeb3
-  telegram: https://t.me/chainback_archive 
+  telegram: https://t.me/chainback_archive
 
 project_phase: Alpha
 sunset: false
@@ -48,7 +49,6 @@ traceability:
   sign_in_type_requirments: wallet
 third_party_dependency: false
 compliance: false
- 
+
 storage:
   decentralized: true
-

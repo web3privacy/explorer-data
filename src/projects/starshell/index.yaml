@@ -1,7 +1,8 @@
 name: Starshell
-categories:
+
+usecase:
   - wallets
-description: 'A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem'
+description: "A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem"
 ecosystem: multichain
 links:
   web: https://starshell.net/

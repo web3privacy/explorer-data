@@ -1,5 +1,6 @@
 name: Graphene OS
-categories:
+
+usecase:
   - os
 description: The private and secure mobile operating system with Android app compatibility
 team:

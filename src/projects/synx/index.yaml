@@ -1,5 +1,6 @@
 name: Synx
-categories:
+
+usecase:
   - storage
 description: The Web3 storage platform
 team:

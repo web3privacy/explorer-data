@@ -1,7 +1,8 @@
 name: Swarm
-categories:
+
+usecase:
   - storage
-description: 'A decentralized data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dApps'
+description: "A decentralized data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dApps"
 team:
   anonymous: true
 links:

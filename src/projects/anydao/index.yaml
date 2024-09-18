@@ -1,6 +1,7 @@
 name: AnyDAO
-categories: [ dao ]
-description: 'Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting'
+
+usecase: [dao]
+description: "Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting"
 links:
   web: https://app.anydao.io/bsc/explore
   docs: https://docs.anydao.io/

@@ -1,5 +1,6 @@
 name: ZkMaps
-categories:
+
+usecase:
   - dapps
 description: Protecting users location with ZK proofs
 links:

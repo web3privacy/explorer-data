@@ -1,20 +1,21 @@
 name: Humanode
-categories: [ did]
-ecosystem: [ Polkadot ]
-usecases: [ biometrically verified nodes ]
-description: '1 Human = 1 Node = 1 Vote .Cryptobiometric Sybil-resistant layer for the web'
+
+usecase: [did]
+ecosystem: [Polkadot]
+usecases: [biometrically verified nodes]
+description: "1 Human = 1 Node = 1 Vote .Cryptobiometric Sybil-resistant layer for the web"
 product_lunch_day: "2020"
 team:
   anonymous: false
   teammembers:
     - name: Dato Kavazi
-      link: https://x.com/DatoKavazi 
+      link: https://x.com/DatoKavazi
     - name: Sasha Shilina
       link: https://x.com/sshshln
     - name: Andrei Kraciun
-      link: https://x.com/andreikraciun 
+      link: https://x.com/andreikraciun
     - name: Victor
-      link: https://x.com/tech_mingler      
+      link: https://x.com/tech_mingler
 
 links:
   web: https://humanode.io/
@@ -43,7 +44,7 @@ blockchain_features:
     enabled: true
 
 privacy_policy:
-  defined: false 
+  defined: false
 
 default_privacy: true
 
@@ -58,5 +59,4 @@ audits:
     time: 2023-01-30
 
 tecnology:
- type: ZKP  
-  
+  type: ZKP

@@ -1,7 +1,8 @@
 name: Demox labs
-categories:
+
+usecase:
   - rd
-description: 'Building privacy preserving ZK infrastructure on Aleo'
+description: "Building privacy preserving ZK infrastructure on Aleo"
 team:
   anonymous: false
   teammembers:

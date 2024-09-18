@@ -1,5 +1,6 @@
 name: Web3ID
-categories:
+
+usecase:
   - did
 description: Privacy-preserving user verification for Web3
 ecosystem: multichain

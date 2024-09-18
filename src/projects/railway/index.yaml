@@ -1,5 +1,6 @@
 name: Railway
-categories:
+
+usecase:
   - wallets
 description: DeFi privacy wallet
 ecosystem: Ethereum, BNB, Polygon

@@ -1,5 +1,6 @@
 name: Mysterium VPN
-categories:
+
+usecase:
   - vpn
 description: A global, distributed network powered by everyday people.
 ecosystem: multichain

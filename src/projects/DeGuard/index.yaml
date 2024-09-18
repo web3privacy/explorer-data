@@ -1,6 +1,7 @@
 name: DeGuard
-categories: [ VPN ] 
-description: 'Provide utimate privacy based on web3'
+
+usecase: [VPN]
+description: "Provide utimate privacy based on web3"
 
 team:
   anonymous: false

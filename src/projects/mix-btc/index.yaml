@@ -1,5 +1,6 @@
 name: Mix BTC
-categories:
+
+usecase:
   - mixing-service
 description: Bitcoin mixer.
 team:

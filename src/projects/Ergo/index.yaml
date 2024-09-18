@@ -1,8 +1,9 @@
 name: Ergo Platform
-categories: [ infrastructure ]
-ecosystem: [ Ergo, Btc ]
-usecases: [ wallet, mining, mixer ]
-description: 'Ergo is the next-gen smart contract platform! Bringing economic freedom to ordinary people through decentralized financial tools'
+
+usecase: [infrastructure]
+ecosystem: [Ergo, Btc]
+usecases: [wallet, mining, mixer]
+description: "Ergo is the next-gen smart contract platform! Bringing economic freedom to ordinary people through decentralized financial tools"
 product_lunch_day: "2017"
 
 team:
@@ -32,7 +33,7 @@ tokens:
     symbol: $ERG
     network: Ergochain
     token_link: https://www.coingecko.com/en/coins/ergo
- 
+
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
@@ -57,6 +58,4 @@ audits:
     time: 2019-12
 
 tecnology:
- type: vpn, mixer   
-
-  
+  type: vpn, mixer

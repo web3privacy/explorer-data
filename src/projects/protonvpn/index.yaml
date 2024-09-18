@@ -1,5 +1,6 @@
 name: ProtonVPN
-categories:
+
+usecase:
   - vpn
 description: Swiss VPN provider with encrypted email and online storage
 ecosystem: no chain

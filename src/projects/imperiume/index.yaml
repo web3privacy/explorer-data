@@ -1,5 +1,6 @@
 name: Imperiume
-categories:
+
+usecase:
   - wallets
 description: Non-custodial wallet
 links:

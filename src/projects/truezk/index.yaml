@@ -1,5 +1,6 @@
 name: TrueZK
-categories:
+
+usecase:
   - layer-2
 description: Post-Quantum ZK Rollup as a service x private DIDs
 links:

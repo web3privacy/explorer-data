@@ -1,11 +1,12 @@
 name: Blockstream Green
-categories: [ wallets ]
-description: 'A multi-platform, feature-rich Bitcoin and Liquid wallet by Blockstream'
+
+usecase: [wallets]
+description: "A multi-platform, feature-rich Bitcoin and Liquid wallet by Blockstream"
 ecosystem: Bitcoin
 links:
   web: https://blockstream.com/green/
   github: https://github.com/Blockstream/green_qt
-  docs: https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green/
+  docs: https://help.blockstream.com/hc/en-us/usecase/900000056183-Blockstream-Green/
   twitter: https://x.com/Blockstream
 team:
   anonymous: false

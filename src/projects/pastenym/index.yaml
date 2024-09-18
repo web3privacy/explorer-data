@@ -1,5 +1,6 @@
 name: Pastenym
-categories:
+
+usecase:
   - messaging
 description: Anon text sharing service
 links:

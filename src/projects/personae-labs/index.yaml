@@ -1,5 +1,6 @@
 name: Personae Labs
-categories:
+
+usecase:
   - rd
 description: R&D lab investigating the future of human expression online.
 links:

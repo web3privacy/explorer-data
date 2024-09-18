@@ -1,7 +1,8 @@
 name: Juno Analytics
-categories:
+
+usecase:
   - dapps
-description: 'Simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps'
+description: "Simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps"
 links:
   web: >-
     https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind

@@ -1,5 +1,6 @@
 name: Damus
-categories:
+
+usecase:
   - dapps
 description: Nostr client for the social network you control.
 links:

@@ -1,8 +1,9 @@
 name: Mailchain
-categories: [ dapps ]
-ecosystem: [ Ethereum ]
-usecases: [ mail ]
-description: 'Web3 communication layer & web3 email  for everyone'
+
+usecase: [dapps]
+ecosystem: [Ethereum]
+usecases: [mail]
+description: "Web3 communication layer & web3 email  for everyone"
 product_lunch_day: "2019"
 
 team:
@@ -23,17 +24,17 @@ team:
     - name: Zubeyir O.
       link: https://github.com/zubeyiro
     - name: Antonio Ivanovski
-      link: https://github.com/toteto    
+      link: https://github.com/toteto
     - name: Nathan Sorochan
       link: https://x.com/nathansorochan
     - name: Tom Sargent
-      link: https://x.com/expensive_jpeg   
+      link: https://x.com/expensive_jpeg
     - name: Becky Prunty
-      link: https://www.linkedin.com/in/becky-prunty-b93406a9/        
+      link: https://www.linkedin.com/in/becky-prunty-b93406a9/
 
 links:
   web: https://mailchain.com/
-  github: https://github.com/mailchain 
+  github: https://github.com/mailchain
   whitepaper: https://mailchain.com/papers/mailchain-whitepaper
   docs: https://docs.mailchain.com/
   blog: https://medium.com/@mailchain
@@ -61,4 +62,3 @@ traceability:
   sign_in_type_requirments: wallet
 third_party_dependency: false
 compliance: false
-  

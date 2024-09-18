@@ -1,7 +1,8 @@
 name: ZeroPool
-categories:
+
+usecase:
   - infrastructure
-description: 'Is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set'
+description: "Is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set"
 team:
   anonymous: true
 links:

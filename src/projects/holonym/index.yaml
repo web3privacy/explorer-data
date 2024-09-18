@@ -1,7 +1,8 @@
 name: Holonym
-categories:
+
+usecase:
   - kyc
-description: ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. 
+description: ZK-identity protocol for anonymous KYC, sybil resistance, and compliance.
 team:
   anonymous: true
 links:

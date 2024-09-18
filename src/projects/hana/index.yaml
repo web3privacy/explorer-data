@@ -1,7 +1,8 @@
 name: Hana
-categories:
+
+usecase:
   - infrastructure
-description: 'privacy hub for all blockchains, enabling on-chain privacy on existing chains and for arbitrary assets including Bitcoin'
+description: "privacy hub for all blockchains, enabling on-chain privacy on existing chains and for arbitrary assets including Bitcoin"
 team:
   anonymous: true
 links:

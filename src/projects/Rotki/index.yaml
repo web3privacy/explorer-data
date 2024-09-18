@@ -1,8 +1,9 @@
 name: Rotki
-categories: [ dapps ]
-ecosystem: [ Ethereum, Bitcoin, Base, Optimist, Gnosis, Scroll, ZkSync ]
-usecases: [ os portfolio management ]
-description: 'rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy'
+
+usecase: [dapps]
+ecosystem: [Ethereum, Bitcoin, Base, Optimist, Gnosis, Scroll, ZkSync]
+usecases: [os portfolio management]
+description: "rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy"
 product_lunch_day: "2017"
 
 team:
@@ -13,10 +14,10 @@ team:
 
 links:
   web: https://rotki.com/
-  github: https://github.com/rotki/rotki 
+  github: https://github.com/rotki/rotki
   docs: https://docs.rotki.com/
   blog: https://blog.rotki.com/
-  twitter: https://x.com/rotkiapp 
+  twitter: https://x.com/rotkiapp
   discord: https://discord.rotki.com/
 
 project_phase: Mainet
@@ -39,4 +40,3 @@ traceability:
   sign_in_type_requirments: wallet
 third_party_dependency: false
 compliance: false
-  

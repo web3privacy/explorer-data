@@ -1,5 +1,6 @@
 name: FYEO Identity
-categories:
+
+usecase:
   - dapps
 description: Decentralized password management. Real-time identity monitoring.
 links:

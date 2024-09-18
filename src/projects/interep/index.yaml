@@ -1,5 +1,6 @@
 name: Interep
-categories:
+
+usecase:
   - did
 description: Anti-sybil as a service
 links:

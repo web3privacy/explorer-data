@@ -1,5 +1,6 @@
 name: Whirlpool
-categories:
+
+usecase:
   - mixing-service
-description: 'Break the link your coins leave behind with built-in CoinJoin available on any platform'
+description: "Break the link your coins leave behind with built-in CoinJoin available on any platform"
 sunset: true

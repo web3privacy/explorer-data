@@ -1,7 +1,8 @@
 name: semaphore
-categories: [ DID ]
-description: 'Semaphore is a protocol that allows users to prove their membership in a group and transmit anonymous data, such as votes or feedback, without revealing their identities.'
-project_status: 
+
+usecase: [DID]
+description: "Semaphore is a protocol that allows users to prove their membership in a group and transmit anonymous data, such as votes or feedback, without revealing their identities."
+project_status:
   version: V4-beta
   live_status: true
 team:
@@ -11,6 +12,6 @@ links:
   web: https://semaphore.pse.dev
   discord: https://semaphore.pse.dev/discord
   twitter: https://semaphore.pse.dev/twitter
-  docs: https://docs.semaphore.pse.dev 
+  docs: https://docs.semaphore.pse.dev
 technology:
   type: zk-kit, circom, snarkjs

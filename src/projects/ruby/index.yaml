@@ -1,5 +1,6 @@
 name: RUBY
-categories:
+
+usecase:
   - infrastructure
 description: The Decentralized Privacy-Centric Protocol for Web3
 team:

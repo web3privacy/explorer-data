@@ -1,9 +1,10 @@
 name: MASQ
-categories:
+
+usecase:
   - infrastructure
   - VPN
   - Browser
-  
+
 logos:
   - file: MASQ-token-v2.png
     ext: png
@@ -11,9 +12,9 @@ logos:
 ecosystem:
   - Ethereum
   - Polygon
-  
+
 project_type: Decentralized privacy network protocol
-description: 'a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem that makes living in Web3 anonymous and private'
+description: "a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem that makes living in Web3 anonymous and private"
 product_launch_day: "2019-10-20"
 
 token:
@@ -31,7 +32,6 @@ token:
 team:
   anonymous: true
 
-
 links:
   web: https://www.masqbrowser.com/
   github: https://github.com/MASQ-Project
@@ -43,7 +43,7 @@ links:
   discord: https://discord.gg/masq
   youtube: http://www.youtube.com/@MASQNetwork
   education: https://docs.masq.ai/masq/getting-started/faqs
-  
+
 technology:
   type: P2P networking
   name: dMeshVPN
@@ -51,7 +51,7 @@ technology:
     - private
     - encrypted
     - incentivized
-    
+
 blockchain_features:
   opensource: true
   p2p: true
@@ -65,23 +65,21 @@ project_status:
   testnet: true
   mainnet: false
 
-
 licences: GPLv3 License
 privacy_policy:
   defined: true
   link: https://www.notion.so/MASQ-Network-Privacy-Practices-a58209dd0089404b80474da924015c03?pvs=4
   data_usage: Not Using
- 
+
 default_privacy: true
 
 storage:
   decentralized: true
- 
+
 tracebility:
   tracked_data: Chains activity
   kyc: false
-  sign_in_type_requirments: wallet 
+  sign_in_type_requirments: wallet
 
-   
 third_party_dependency: false
 social_trust: Team Multisigs & Dune analytics

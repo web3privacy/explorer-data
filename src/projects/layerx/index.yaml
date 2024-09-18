@@ -1,5 +1,6 @@
 name: LayerX
-categories:
+
+usecase:
   - infrastructure
 description: A privacy-preserving blockchain on Substrate
 links:

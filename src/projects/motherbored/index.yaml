@@ -1,7 +1,8 @@
 name: Motherbored
-categories:
+
+usecase:
   - hardware
-description: '#dVPN hardware (node + SM card)'
+description: "#dVPN hardware (node + SM card)"
 ecosystem: Solana
 links:
   web: https://store.motherbored.limited

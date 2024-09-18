@@ -1,5 +1,6 @@
 name: Zoci
-categories:
+
+usecase:
   - rpc
 description: Private RPC services
 links:

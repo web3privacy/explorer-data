@@ -1,5 +1,6 @@
 name: GRin
-categories:
+
+usecase:
   - currency
 description: Electronic transactions for all. Without censorship or restrictions
 ecosystem: Mimblewimble

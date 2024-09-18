@@ -1,9 +1,10 @@
 name: Navcoin
-categories:
+
+usecase:
   - currency
-description: 'An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features'
+description: "An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features"
 ecosystem: Navcoin
-project_status: 
+project_status:
   live_status: true
   version: Mainnet
   testnet: true

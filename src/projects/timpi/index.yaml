@@ -1,5 +1,6 @@
 name: Timpi
-categories:
+
+usecase:
   - dapps
 description: Decentralized Search Engine & Index
 links:

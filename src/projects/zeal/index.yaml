@@ -1,5 +1,6 @@
 name: Zeal
-categories:
+
+usecase:
   - wallets
 description: The web3 wallet that defends your crypto and privacy
 ecosystem: multichain

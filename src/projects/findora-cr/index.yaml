@@ -1,5 +1,6 @@
 name: Findora CR
-categories:
+
+usecase:
   - did
 description: Enabling ZK Identity Management & CRedentials for Web3
 ecosystem: multichain

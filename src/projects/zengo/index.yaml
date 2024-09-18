@@ -1,7 +1,8 @@
 name: ZenGo
-categories:
+
+usecase:
   - wallets
-description: 'The only self-custodial wallet with no seed phrase vulnerability (shielded transactions)'
+description: "The only self-custodial wallet with no seed phrase vulnerability (shielded transactions)"
 ecosystem: multichain
 links:
   web: https://zengo.com/

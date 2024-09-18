@@ -1,7 +1,8 @@
 name: Cirus foundation
-categories:
+
+usecase:
   - data-management
-description: 'With your permission, Cirus makes earning from your data easy'
+description: "With your permission, Cirus makes earning from your data easy"
 links:
   web: https://cirusfoundation.com/your-data/
   twitter: https://x.com/cirusfoundation

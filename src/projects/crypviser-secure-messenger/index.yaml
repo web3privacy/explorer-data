@@ -1,7 +1,8 @@
 name: Crypviser Secure Messenger
-categories:
+
+usecase:
   - messaging
-description: 'The most private messaging app, based on Blockchain technology'
+description: "The most private messaging app, based on Blockchain technology"
 team:
   - name: Vadim Andryan
     role: Managing Director

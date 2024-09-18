@@ -1,7 +1,8 @@
 name: Basic Swap
-categories: [ defi ]
+
+usecase: [defi]
 ecosystem: Multichain
-description: 'A private and cross-chain DEX'
+description: "A private and cross-chain DEX"
 project_type: DeFi
 product_launch_day: "2022-12-08"
 technology:
@@ -44,7 +45,7 @@ traceability:
   sign_in_type_requirments: wallets
 third_party_dependency: false
 compliance: none
-client_diversability: 
+client_diversability:
   - name: BasicSwap client
     link: https://basicswapdex.com/
 default_privacy: false

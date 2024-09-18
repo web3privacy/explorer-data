@@ -1,7 +1,8 @@
 name: Decentr
-categories:
+
+usecase:
   - browser
-description: 'Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value'
+description: "Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value"
 links:
   web: https://decentr.net
   github: https://github.com/Decentr-net

@@ -1,6 +1,7 @@
 name: BOB Protocol
-categories: [ currency ]
-description: 'A multi-chain, multi-collateral stable token enhanced with optional privacy features'
+
+usecase: [currency]
+description: "A multi-chain, multi-collateral stable token enhanced with optional privacy features"
 ecosystem: Polygon, Optimism, BNB, Ethereum
 links:
   web: https://zkbob.com/

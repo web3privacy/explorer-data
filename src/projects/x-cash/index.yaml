@@ -1,5 +1,6 @@
 name: x-cash
-categories:
+
+usecase:
   - currency
 description: Web3’s Private Public Computing Platform
 ecosystem: xcash
@@ -7,7 +8,7 @@ project_status: Mainnet
 links:
   web: https://xcash.tech
   github: https://github.com/X-CASH-official
- 
+
   blog: https://medium.com/x-cash
   twitter: https://x.com/XCashCrypto
   youtube: https://www.youtube.com/@x-cashcommunity1764

@@ -1,5 +1,6 @@
 name: Telios
-categories:
+
+usecase:
   - dapps
 description: Secure Communication with Encrypted Data and Email
 links:

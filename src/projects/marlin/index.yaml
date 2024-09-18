@@ -1,9 +1,10 @@
 name: Marlin
-categories:
+
+usecase:
   - computing-network
-description: 'Serverless backends for Web3 - Access and process data verifiably using ZKPs and TEEs'
+description: "Serverless backends for Web3 - Access and process data verifiably using ZKPs and TEEs"
 ecosystem: Ethereum
-project_status: 
+project_status:
   live_status: true
   version: Mainnet
   testnet: true
@@ -32,4 +33,3 @@ traceability:
 default_privacy: true
 storage:
   decentralized: true
-

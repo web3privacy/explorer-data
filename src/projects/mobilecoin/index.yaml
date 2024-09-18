@@ -1,5 +1,6 @@
 name: MobileCoin
-categories:
+
+usecase:
   - currency
 description: MobileCoin makes global payments inexpensive, secure and fast
 ecosystem: mobilecoin

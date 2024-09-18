@@ -1,7 +1,8 @@
 name: Decred
-categories:
+
+usecase:
   - currency
-description: 'A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development'
+description: "A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development"
 ecosystem: Lighting Network
 links:
   web: https://decred.org

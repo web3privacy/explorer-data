@@ -1,5 +1,6 @@
 name: Lit
-categories:
+
+usecase:
   - infrastructure
 description: Builders of apps, wallets, protocols, and AI agents use the Lit network for decentralized signing, encryption, and compute.
 team:

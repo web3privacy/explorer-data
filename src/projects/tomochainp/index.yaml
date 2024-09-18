@@ -1,7 +1,8 @@
 name: TomoChainP
-categories:
+
+usecase:
   - infrastructure
-description: 'A privacy protocols developed on TomoChain and designed to create safe and untraceable transactions'
+description: "A privacy protocols developed on TomoChain and designed to create safe and untraceable transactions"
 links:
   web: https://tomochain.com/tomop
   github: https://github.com/tomochain/tomop

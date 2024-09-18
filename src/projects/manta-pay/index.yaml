@@ -1,7 +1,8 @@
 name: Manta Pay
-categories: [defi]
+
+usecase: [defi]
 ecosystem: Polkadot
-description: 'MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.'
+description: "MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem."
 technology:
   type: zk
   features:

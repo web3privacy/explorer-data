@@ -1,7 +1,8 @@
 name: Polygon Miden
-categories:
+
+usecase:
   - layer-2
-description: 'a zero-knowledge rollup for high-throughput and private applications'
+description: "a zero-knowledge rollup for high-throughput and private applications"
 ecosystem: Polygon
 links:
   web: https://polygon.technology/polygon-miden

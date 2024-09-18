@@ -1,5 +1,6 @@
 name: SPKZ
-categories:
+
+usecase:
   - dapps
 description: The first fully decentralized web3 community/chat platform.
 links:

@@ -1,5 +1,6 @@
 name: TLSNotary
-categories:
+
+usecase:
   - dapps
 description: Proof of data authenticity
 links:

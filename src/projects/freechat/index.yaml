@@ -1,5 +1,6 @@
 name: FreeChat
-categories:
+
+usecase:
   - dapps
 description: Web3 Social
 links:

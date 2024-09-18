@@ -1,5 +1,6 @@
 name: OriginTrail
-categories: [ AI ]
+
+usecase: [ AI ]
 description: 'Powering Verifiable Internet for Artificial Intelligence 
 '
 links:

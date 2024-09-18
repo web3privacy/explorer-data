@@ -1,7 +1,8 @@
 name: Electric Coin. Co
-categories:
+
+usecase:
   - rd
-description: 'R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential'
+description: "R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential"
 team:
   anonymous: false
   teammembers:

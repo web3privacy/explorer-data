@@ -1,5 +1,6 @@
 name: Dmail Network
-categories:
+
+usecase:
   - did
 description: Construct DID in Web3.0, Not Just an Email.
 ecosystem: multichain

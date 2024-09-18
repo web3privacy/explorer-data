@@ -1,16 +1,17 @@
 name: Concordium
-categories:
+
+usecase:
   - infrastructure
-description: 'A compliance ready blockchain backed by science that enables private and public transactions'
+description: "A compliance ready blockchain backed by science that enables private and public transactions"
 team:
-- name: Lars Seier Christensen
-  roles: Chairman
-- name: Nibras Stiebar-Bang
-  roles: CTO & CPO
-- name: Jonas Stiebar-Bang
-  roles: CCO
-- name: Jørgen Hauglund
-  roles: CFO
+  - name: Lars Seier Christensen
+    roles: Chairman
+  - name: Nibras Stiebar-Bang
+    roles: CTO & CPO
+  - name: Jonas Stiebar-Bang
+    roles: CCO
+  - name: Jørgen Hauglund
+    roles: CFO
 links:
   web: https://concordium.com
   github: https://github.com/Concordium

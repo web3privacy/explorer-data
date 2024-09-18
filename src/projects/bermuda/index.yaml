@@ -1,6 +1,7 @@
 name: Bermuda
-categories: [ dapps ]
-description: 'Next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens'
+
+usecase: [dapps]
+description: "Next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens"
 links:
   web: https://www.bmda.io
   whitepaper: https://www.bmda.io/bermuda-whitepaper-1.2.pdf

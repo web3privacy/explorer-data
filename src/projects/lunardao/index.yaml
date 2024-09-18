@@ -1,5 +1,6 @@
 name: LunarDAO
-categories:
+
+usecase:
   - dao
 description: DAO fostering R&D and investments within Lunarpunk movement
 links:

@@ -1,6 +1,7 @@
 name: AnonKlub
-categories: [ DID ]
-description: 'AnonKlub is a tool designed for Ethereum developers that allows for anonymous proof of Ethereum address ownership.' 
+
+usecase: [DID]
+description: "AnonKlub is a tool designed for Ethereum developers that allows for anonymous proof of Ethereum address ownership."
 project_status: testnet
 team:
   anonymous: true

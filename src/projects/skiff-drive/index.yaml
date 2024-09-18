@@ -1,5 +1,6 @@
 name: Skiff Drive
-categories:
+
+usecase:
   - storage
 description: Secure file storage
 links:

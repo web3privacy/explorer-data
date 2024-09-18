@@ -1,7 +1,8 @@
 name: Suterusu
-categories:
+
+usecase:
   - infrastructure
-description: 'A suite of privacy-preserving services to obfuscate transactional and asset information'
+description: "A suite of privacy-preserving services to obfuscate transactional and asset information"
 links:
   web: https://suterusu.io
   github: https://github.com/suterusu-team

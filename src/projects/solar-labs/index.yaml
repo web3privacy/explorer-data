@@ -1,5 +1,6 @@
 name: Solar labs
-categories:
+
+usecase:
   - vpn
 description: World’s first truly decentralized blockchain-based VPN service.
 links:

@@ -1,6 +1,7 @@
 name: Venice
-categories: [ AI ]
-description: 'a generative AI app focused on privacy'
+
+usecase: [AI]
+description: "a generative AI app focused on privacy"
 links:
   web: https://venice.ai
   blog: https://venice.ai/blog

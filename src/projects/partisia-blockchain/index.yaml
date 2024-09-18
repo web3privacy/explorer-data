@@ -1,5 +1,6 @@
 name: Partisia Blockchain
-categories:
+
+usecase:
   - infrastructure
 description: Partisia Blockchain is built for trust, transparency, privacy and speed of light finalization.
 team:

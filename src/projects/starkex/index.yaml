@@ -1,5 +1,6 @@
 name: StarkEX
-categories:
+
+usecase:
   - layer-2
 description: A Layer-2 scalability engine, live on Ethereum Mainnet ✨️ZK
 ecosystem: Ethereum

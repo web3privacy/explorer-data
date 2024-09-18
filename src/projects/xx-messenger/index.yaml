@@ -1,7 +1,8 @@
 name: xx messenger
-categories:
+
+usecase:
   - messaging
-description: 'An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network'
+description: "An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network"
 team:
   anonymous: false
 links:

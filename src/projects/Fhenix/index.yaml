@@ -1,6 +1,7 @@
-name: 'Fhenix'
-categories: [ FHE ]
-description: 'Fhenix is an Ethereum L2 and Coprocessor that uses FHE for onchain confidentiality.'
+name: "Fhenix"
+
+usecase: [FHE]
+description: "Fhenix is an Ethereum L2 and Coprocessor that uses FHE for onchain confidentiality."
 links:
   web: https://www.fhenix.io/
   github: https://github.com/FhenixProtocol

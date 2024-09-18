@@ -1,6 +1,7 @@
 name: ETHDam
 description: "Ethereum-focused privacy & DeFi hackathon. "
-categories: [events]
+
+usecase: [events]
 ecosystem: Ethereum
 links:
   web: https://www.ethdam.com/hackathon

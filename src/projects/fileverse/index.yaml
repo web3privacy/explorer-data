@@ -1,7 +1,8 @@
 name: Fileverse
-categories:
+
+usecase:
   - storage
-description: 'On-chain people and communities deserve on-chain tools for private communication and collaboration'
+description: "On-chain people and communities deserve on-chain tools for private communication and collaboration"
 team:
   anonymous: true
 links:

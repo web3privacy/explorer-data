@@ -1,8 +1,9 @@
 name: OxO
-categories: [ AI ]
-ecosystem: [ Ethereum ]
-usecases: [ Audit, mixer ]
-description: 'All-in-One Privacy Exchange'
+
+usecase: [AI]
+ecosystem: [Ethereum]
+usecases: [Audit, mixer]
+description: "All-in-One Privacy Exchange"
 product_lunch_day: "2023-01"
 
 team:
@@ -15,11 +16,11 @@ team:
     - name: Jay
       link: https://x.com/xcyb0rg
     - name: Andy
-      link: https://t.me/Andy_0x0   
+      link: https://t.me/Andy_0x0
 
 links:
   web: https://0x0.ai/
-  github: https://github.com/0x0exchange 
+  github: https://github.com/0x0exchange
   docs: https://docs.0x0.ai/
   blog: https://medium.com/@0x0exchange
   twitter: https://x.com/0x0exchange
@@ -43,7 +44,7 @@ blockchain_features:
     enabled: true
 
 privacy_policy:
-  defined: false 
+  defined: false
 
 default_privacy: true
 
@@ -52,4 +53,3 @@ traceability:
   sign_in_type_requirments: wallet
 third_party_dependency: false
 compliance: false
-  

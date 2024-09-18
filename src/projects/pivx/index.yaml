@@ -1,7 +1,8 @@
 name: PivX
-categories:
+
+usecase:
   - currency
-description: 'Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets'
+description: "Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets"
 ecosystem: Pivx
 links:
   web: https://pivx.org
