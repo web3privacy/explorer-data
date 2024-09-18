@@ -1,2 +1,19 @@
+name: Polygon ID
+categories:
+  - applications
+description: "a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services"
+ecosystem: [polygon]
+links:
+  web: https://polygon.technology/polygon-id/
+  github: https://github.com/0xPolygonID
+  docs: https://devs.polygonid.com/docs/quick-start-demo/
+
+  blog: https://www.polygonid.com/blog
+  twitter: https://x.com/0xPolygonID
+team:
+  company:
+    link: https://github.com/orgs/0xPolygonID/people
+have_token: true
+
 usecase:
 - did

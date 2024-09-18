@@ -1,2 +1,12 @@
+name: Mullvad Browser
+categories:
+  - applications
+description: "The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project"
+links:
+  web: https://mullvad.net/en
+  github: https://github.com/mullvad/mullvad-browser
+  blog: https://mullvad.net/it/blog
+  twitter: https://x.com/mullvadnet
+
 usecase:
 - browser

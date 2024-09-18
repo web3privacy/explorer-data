@@ -1,2 +1,22 @@
+name: myNode
+categories:
+  - infrastructure
+description: The easiest, most powerful way to run a Bitcoin and Lightning node.
+team:
+  anonymous: true
+links:
+  web: https://mynodebtc.com
+  github: https://github.com/mynodebtc/mynode
+  docs: https://mynodebtc.github.io/intro/introduction.html
+  twitter: https://twitter.com/mynodebtc
+  telegram: https://t.me/mynode_btc
+project_status:
+  live_status: true
+  version: v0.3.28
+  testnet: false
+  mainnet: true
+have_token: false
+sunset: false
+
 usecase:
 - node

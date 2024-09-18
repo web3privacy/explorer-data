@@ -1,2 +1,25 @@
+name: Leo wallet
+categories:
+  - applications
+description: Safe and easy way to interact with the Aleo blockchain
+ecosystem: [aleo]
+links:
+  web: https://leo.app/
+  github: https://github.com/demox-labs
+  docs: https://docs.leo.app/
+  blog: https://www.leo.app/blog
+  twitter: https://x.com/theLeoWallet
+team:
+  anonymous: false
+  teammembers:
+    - name: Barron Caster
+      role: CEO
+      link: https://www.leo.app/about
+  project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: false
+
 usecase:
 - wallets

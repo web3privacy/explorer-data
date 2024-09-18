@@ -1,2 +1,17 @@
+name: Jami
+categories:
+  - applications
+description: "a free/libre, end-to-end encrypted, and private communication platform"
+team:
+  anonymous: true
+links:
+  web: https://jami.net/
+  github: https://git.jami.net/savoirfairelinux/jami-project
+  docs: https://docs.jami.net/en_US/user/index.html
+  forum: https://forum.jami.net/
+  blog: https://jami.net/tag/articles/
+  twitter: https://x.com/jami_social
+  facebook: https://www.facebook.com/JamiCommunication
+
 usecase:
 - messaging

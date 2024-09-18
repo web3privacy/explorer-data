@@ -1,2 +1,52 @@
+id: sentz
+name: Sentz
+categories: [applications]
+description: "Global payments app for Freelancers & Creators"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Sara Drakeley
+      link: https://www.linkedin.com/in/sara-drakeley/
+    - name: Henry Holtzman
+      link: https://www.linkedin.com/in/holtzmanh/?original_referer=https%3A%2F%2Fwww.sentz.com%2F
+
+links:
+  web: https://www.sentz.com/
+  github: https://github.com/mobilecoinofficial
+  whitepaper: https://www.sentz.com/learn/whitepapers
+  docs: https://www.sentz.com/developers
+  blog: https://www.sentz.com/blog
+  twitter: https://x.com/sentzapp
+  discord: https://discord.com/invite/mobilecoin
+
+sunset: false
+
+tokens:
+  - name: Mobile Coin
+    symbol: $MOB
+    token_link: https://www.coingecko.com/en/coins/mobilecoin
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+privacy_policy:
+  defined: true
+  link: https://www.sentz.com/privacy-policy
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: false
+
+audits:
+  - name: Trail of Bits
+    link: https://www.sentz.com/developers/audits
+
+assets_used: [EUSD]
+
 usecase:
 - dapps

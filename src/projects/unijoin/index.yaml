@@ -1,2 +1,10 @@
+name: UniJoin
+categories:
+  - applications
+description: "help you regain and maintain your anonymity by mixing your cryptos in a pool using CoinJoin technology"
+links:
+  web: https://unijoin.io
+sunset: true
+
 usecase:
 - mixing-service

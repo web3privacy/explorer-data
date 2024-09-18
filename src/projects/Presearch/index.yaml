@@ -1,2 +1,74 @@
+id: presearch
+name: Preserch
+categories: [applications]
+ecosystem: [ethereum]
+description: "The Decentralized Search Engine with more than 4 million members"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Tim Enneking
+      link: https://www.linkedin.com/in/timothy-enneking-a725905/
+    - name: Mark Torelli
+      link: https://www.linkedin.com/in/mark-torelli
+    - name: Jeff Hunt
+      link: https://www.linkedin.com/in/jeff-hunt-b302631b
+    - name: Ed Reese
+      link: https://www.linkedin.com/in/edreese/
+    - name: Brenden Tacon
+      link: https://www.linkedin.com/in/brenden-tacon-81abb211/
+    - name: Todd Enneking
+      link: https://www.linkedin.com/in/toddenneking/
+    - name: Colin Pape
+      link: https://www.linkedin.com/in/colinpape
+    - name: Trey Grainger
+      link: https://www.linkedin.com/in/treygrainger/
+    - name: Luís Dalmolin
+      link: https://www.linkedin.com/in/luisdalmolin/
+
+links:
+  web: https://presearch.com/
+  github: https://github.com/presearchofficial
+  whitepaper: https://presearch.io/vision.pdf
+  docs: https://docs.presearch.io/
+  blog: https://news.presearch.io/
+  forum: https://community.presearch.io/
+  twitter: https://x.com/presearchnews
+  telegram: https://t.me/presearch
+  discord: https://discord.com/invite/KUpshRZz2n
+
+sunset: false
+
+tokens:
+  - name: Pre Token
+    symbol: $PRE
+    network: Ethereum
+    contract_address: "0xEC213F83defB583af3A000B1c0ada660b1902A0F"
+    token_link: https://etherscan.io/token/0xEC213F83defB583af3A000B1c0ada660b1902A0F
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+
+privacy_policy:
+  defined: true
+  link: https://presearch.com/privacy
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: false
+
+audits:
+  - name: Mantisec Lab
+    link: https://github.com/PresearchOfficial/audit/blob/main/Final%20Presearch%20SCA.Code%20Audit.pdf
+    time: 2023-10
+
+storage:
+  decentralized: true
+
 usecase:
 - browser

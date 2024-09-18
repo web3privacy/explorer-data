@@ -1,2 +1,17 @@
+name: Mix BTC
+categories:
+  - applications
+description: Bitcoin mixer.
+team:
+  anonymous: true
+links:
+  web: https://mixbtc.online
+  twitter: https://x.com/mixbtc_online
+project_status:
+  live_status: true
+  version: unkown
+  testnet: false
+  mainnet: false
+
 usecase:
 - mixing-service

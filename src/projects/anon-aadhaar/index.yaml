@@ -1,2 +1,18 @@
+name: Anon Aadhaar
+categories: [applications]
+description: "Anon Aadhaar is a project that allows individuals to prove their citizenship anonymously. The project provides circuits, an SDK, and demo applications that generate and verify proofs of valid Aadhaar cards, integrating with the PCD framework to support a wide range of applications."
+project_status:
+  version: "testnet"
+team:
+  anonymous: true
+links:
+  web: https://anon-aadhaar.pse.dev/
+  blog: https://anon-aadhaar-documentation.vercel.app/blog
+  docs: https://anon-aadhaar-documentation.vercel.app/docs/intro
+  github: https://github.com/anon-aadhaar/anon-aadhaar
+technology:
+  type: zk, circom, rsa
+  features: [""]
+
 usecase:
 - DID

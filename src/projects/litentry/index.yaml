@@ -1,2 +1,23 @@
+name: Litentry
+categories:
+  - applications
+description: "A decentralized identity aggregator, providing the structure and tools to empower you and your identity"
+ecosystem: [multichain]
+links:
+  web: https://litentry.com
+  github: https://github.com/litentry
+  docs: https://docs.litentry.com/
+
+  blog: https://litentry.medium.com/
+  twitter: https://x.com/litentry
+  discord: https://discord.com/invite/litentryofficial
+  telegram: https://t.me/litentry
+team:
+  company:
+    link: >-
+      https://www.linkedin.com/search/results/people/?currentCompany=%5B%2240805422%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=2W3
+have_token: true
+token_link: https://coinmarketcap.com/currencies/litentry/
+
 usecase:
 - did

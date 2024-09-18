@@ -1,2 +1,21 @@
+name: Polygon Miden
+categories:
+  - infrastructure
+description: "a zero-knowledge rollup for high-throughput and private applications"
+ecosystem: [polygon]
+links:
+  web: https://polygon.technology/polygon-miden
+  docs: https://0xpolygonmiden.github.io/miden-base/introduction.html
+  github: https://github.com/0xPolygonMiden
+  blog: https://polygon.technology/blog-tags/polygon-miden
+  twitter: https://twitter.com/0xPolygon
+team:
+  anonymous: false
+project_status:
+  live_status: true
+  version: testnet
+  testnet: true
+  mainnet: false
+
 usecase:
 - layer-2

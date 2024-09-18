@@ -1,2 +1,42 @@
+id: self
+name: Self
+categories: [applications]
+description: "Build identification and personal data management for everything"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Dan Sutherland
+      link: https://www.linkedin.com/in/dansuth/
+    - name: Sena Gbeckor-Kove
+      link: https://www.linkedin.com/in/senagbe/
+    - name: Jason Reid
+      link: https://www.linkedin.com/in/jason-reid-1a12833/
+
+links:
+  web: https://www.joinself.com/
+  github: https://github.com/joinself
+  docs: https://docs.joinself.com/
+  twitter: https://x.com/futureoftrust
+
+sunset: false
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+privacy_policy:
+  defined: true
+  link: https://www.joinself.com/company/legal
+
+default_privacy: true
+
+traceability:
+  kyc: false
+third_party_dependency: false
+compliance: false
+
+storage:
+  decentralized: true
+
 usecase:
 - did

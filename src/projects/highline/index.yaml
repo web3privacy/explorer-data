@@ -1,2 +1,10 @@
+name: Highline
+categories:
+  - infrastructure
+description: An execution layer for Ethereum
+links:
+  web: https://highline.dev
+  github: https://highline.dev/docs/
+
 usecase:
 - infrastructure

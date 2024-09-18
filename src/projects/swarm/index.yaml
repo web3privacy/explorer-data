@@ -1,2 +1,29 @@
+name: Swarm
+categories:
+  - applications
+description: "A decentralized data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dApps"
+team:
+  anonymous: true
+links:
+  web: https://www.ethswarm.org
+  github: https://github.com/ethersphere
+  blog: https://blog.ethswarm.org/
+  docs: https://docs.ethswarm.org/
+  whitepaper: https://www.ethswarm.org/swarm-whitepaper.pdf
+  twitter: https://x.com/ethswarm
+  discord: https://discord.com/invite/hyCr9BMX9U
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
+have_token: true
+token_link: https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb
+tokens:
+  - name: BZZToken
+    symbol: BZZ
+    network: Ethereum
+    contract_address: "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb"
+
 usecase:
 - storage

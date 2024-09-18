@@ -1,2 +1,22 @@
+name: Discreet
+categories:
+  - defi
+description: "A game-changing cryptocurrency with a sharp focus on total privacy and blistering speed"
+ecosystem: [discreet-compute-network]
+project_status:
+  live_status: true
+  version: Testnet
+  testnet: true
+  mainnet: false
+links:
+  web: https://discreet.net
+  github: https://github.com/DiscreetNetwork
+  docs: https://developers.discreet.net/
+  twitter: https://x.com/Discreet
+  discord: https://discord.com/invite/t4EnxCMb3r
+  telegram: https://t.me/discreetnetwork
+team:
+  anonymous: false
+
 usecase:
 - currency

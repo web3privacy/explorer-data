@@ -1,2 +1,23 @@
+name: Oort
+categories:
+  - applications
+description: "A decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources"
+team:
+  anonymous: true
+links:
+  web: https://www.oortech.com
+  github: https://github.com/oort-tech
+  whitepaper: https://oort-website.standard.us-east-1.oortech.com/OORT_light_paper-122923.pdf
+  docs: https://docs.oortech.com/oort
+  blog: https://www.oortech.com/blogs
+  twitter: https://twitter.com/oortech
+  discrord: https://discord.com/invite/oort-decentralized-ai
+  telegram: https://t.me/oortech_announcements
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
 usecase:
 - storage

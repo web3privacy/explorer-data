@@ -1,2 +1,26 @@
+name: DJIB
+categories:
+  - applications
+description: DJIB is the next generation Web3 storage
+team:
+  anonymous: false
+  teammembers:
+    - name: Moe Sayadi
+      role: CEO/CTO
+      link: https://djuno.io/#our-team
+links:
+  web: https://djib.io
+  github: https://github.com/Djib-io
+  docs: https://docs.djib.io/
+  whitepaper: https://djib.io/assets/files/Djib-WP-v1.pdf?v=20220602
+  twitter: https://twitter.com/djibchain
+  discord: https://discord.com/invite/PpZgKJkKpb
+  telegram: https://t.me/DjibTech
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
 usecase:
 - storage

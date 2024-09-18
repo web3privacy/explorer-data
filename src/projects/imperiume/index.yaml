@@ -1,2 +1,11 @@
+name: Imperiume
+categories:
+  - applications
+description: Non-custodial wallet
+links:
+  web: https://www.imperiume.io/wallet
+
+sunset: true
+
 usecase:
 - wallets

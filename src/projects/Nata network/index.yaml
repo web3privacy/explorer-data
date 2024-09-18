@@ -1,2 +1,27 @@
+id: nata-network
+name: Nata network
+categories: [infrastructure]
+description: "Nata Network is your portal to private cross-chain transactions."
+
+team:
+  anonymous: true
+
+links:
+  web: https://app.natarouter.com/
+  github: https://github.com/shichiro-nakahara
+  block_explorer: https://explorer.natanetwork.io/
+  docs: https://docs.natanetwork.io/
+  blog: https://mirror.xyz/natanetwork.eth
+  twitter: https://x.com/nata_network_io
+  discord: https://discord.com/invite/m9Ma7PbFwb
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+have_token: false
+
 usecase:
 - bridge

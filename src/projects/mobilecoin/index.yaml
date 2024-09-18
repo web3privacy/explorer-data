@@ -1,2 +1,17 @@
+name: MobileCoin
+categories:
+  - defi
+description: MobileCoin makes global payments inexpensive, secure and fast
+ecosystem: [mobilecoin]
+links:
+  web: https://mobilecoin.com
+  github: https://github.com/mobilecoinofficial
+
+  blog: https://www.sentz.com/blog
+  twitter: https://x.com/mobilecoin
+  facebook: https://www.facebook.com/people/Sentz-App/61550924458469/
+team:
+  anonymous: false
+
 usecase:
 - currency

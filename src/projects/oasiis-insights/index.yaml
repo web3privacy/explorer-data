@@ -1,2 +1,9 @@
+name: Oasiis insights
+categories:
+  - applications
+description: Personalized web3 journeys are finally here.
+links:
+  web: https://www.oasiisinsights.com
+
 usecase:
 - data-management

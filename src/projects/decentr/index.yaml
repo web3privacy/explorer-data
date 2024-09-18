@@ -1,2 +1,15 @@
+name: Decentr
+categories:
+  - applications
+description: "Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value"
+links:
+  web: https://decentr.net
+  github: https://github.com/Decentr-net
+  whitepaper: https://decentr.net/files/Decentr_Whitepaper_V1.7.pdf
+  blog: https://decentrnet.medium.com/
+  twitter: https://x.com/decentrnet
+  discord: https://discord.com/invite/VMUt7yw92B
+  telegram: https://t.me/DecentrNet
+
 usecase:
 - browser

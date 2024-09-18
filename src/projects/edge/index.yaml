@@ -1,2 +1,25 @@
+name: Edge
+categories:
+  - applications
+description: "The most secure way to buy, store & trade crypto under your control"
+ecosystem: [multichain]
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
+links:
+  web: https://edge.app/
+  github: https://github.com/EdgeApp
+  whitepaper: https://edge.app/wp-content/uploads/2019/01/Edge-White-Paper-01-22-2019.pdf?af=edge-app-wp-admin-post-php&af=edge-app
+  docs: https://edge.app/blog/?af=edge-app
+  twitter: https://twitter.com/EdgeWallet
+team:
+  anonymous: false
+  teammembers:
+    - name: Paul Puey
+      role: CEO
+      link: https://edge.app/about/
+
 usecase:
 - wallets

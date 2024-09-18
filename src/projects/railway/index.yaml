@@ -1,2 +1,19 @@
+name: Railway
+categories:
+  - applications
+description: DeFi privacy wallet
+ecosystem: [ethereum, bnb, polygon]
+links:
+  web: https://railway.xyz/
+  github: https://github.com/Railway-Wallet/Railway-Wallet/
+  twitter: https://twitter.com/Railway_xyz
+team:
+  anonymous: true
+project_status:
+  live_status: true
+  version: 5.16.8
+  testnet: false
+  mainnet: false
+
 usecase:
 - wallets

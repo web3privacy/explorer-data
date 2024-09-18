@@ -1,2 +1,23 @@
+name: PlatOn Network
+categories:
+  - infrastructure
+description: "Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence"
+ecosystem: [alaya]
+links:
+  web: https://www.platon.network/en
+  github: https://github.com/PlatONnetwork
+  docs: https://devdocs.platon.network/docs/en/
+  forum: https://forum.latticex.foundation/
+  whitepaper: https://www.platon.network/pdf/en/PlatON_A_High-Efficiency_Trustless_Computing_Network_Whitepaper_EN_2.pdf
+  blog: https://medium.com/platon-network
+  twitter: https://x.com/PlatON_Network
+  discord: https://discord.com/invite/jAjFzJ3Cff
+  facebook: https://www.facebook.com/PlatONNetwork/
+  telegram: https://t.me/PlatONNetwork
+team:
+  anonymous: false
+  company:
+    link: https://www.linkedin.com/search/results/people/?currentCompany=%5B%2214399632%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=PCz
+
 usecase:
 - computing-network

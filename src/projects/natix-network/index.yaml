@@ -1,2 +1,14 @@
+name: NATIX Network
+categories:
+  - applications
+description: "Patent-pending technology is the easiest way to make any camera smart and 100% privacy compliant"
+links:
+  web: https://www.natix.network
+  whitepaper: https://docs.natix.network/whitepaper
+  twitter: https://x.com/NATIXNetwork
+  discord: https://discord.com/invite/natixnetwork
+  facebook: https://www.facebook.com/NATIX.Network
+  telegram: https://t.me/NATIXNetwork
+
 usecase:
 - data-management

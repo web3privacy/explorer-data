@@ -1,2 +1,24 @@
+name: KILT
+categories:
+  - applications
+description: "A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers"
+ecosystem: [multichain]
+links:
+  web: https://www.kilt.io
+  github: https://github.com/KILTprotocol
+  block_explorer: https://spiritnet.subscan.io/
+  docs: https://docs.kilt.io/#/
+  whitepaper: https://www.kilt.io/protocol/whitepaper
+
+  blog: https://kilt-protocol.medium.com/
+  twitter: https://x.com/Kiltprotocol
+  discord: https://discord.com/invite/HztRqvzbhG
+  telegram: https://t.me/KILTProtocolChat
+team:
+  company:
+    link: https://www.kilt.io/team
+have_token: true
+token_link: https://coinmarketcap.com/it/currencies/kiltprotocol/
+
 usecase:
 - did

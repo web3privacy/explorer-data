@@ -1,2 +1,11 @@
+name: Solar labs
+categories:
+  - applications
+description: World’s first truly decentralized blockchain-based VPN service.
+links:
+  web: https://solarlabs.ee
+  twitter: https://twitter.com/solardvpn
+have_token: true
+
 usecase:
 - vpn

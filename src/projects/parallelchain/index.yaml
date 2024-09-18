@@ -1,2 +1,28 @@
+name: ParallelChain
+categories:
+  - infrastructure
+description: 'A public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy'
+team:
+  anonymous: false
+links:
+  web: https://parallelchain.io/technology
+  github: https://github.com/parallelchain-io
+  papers: https://legacy.parallelchain.io/learn/papers
+  docs: https://docs.parallelchain.io/
+  twitter: https://twitter.com/ParallelChainLB
+have_token: true
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
+audits:
+  - name: ParallelChain Full Node
+    link: http://wp.hacken.io/wp-content/uploads/2023/09/l1-parallelchain-node-final-report-18092023.pdf
+    time: September, 2023
+  - name: ParallelChain HotStuff Consensus
+    link: https://wp.hacken.io/wp-content/uploads/2023/07/ParallelChain_Hotstuff_Consensus_L1_FinalReport_30062023.pdf
+    time: June, 2023
+
 usecase:
 - infrastructure

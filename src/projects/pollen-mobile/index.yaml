@@ -1,2 +1,13 @@
+name: Pollen Mobile
+categories:
+  - infrastructure
+description: 'The worlds first decentralized, user-owned and operated mobile network. "Your information is yours and yours alone'
+links:
+  web: https://www.pollenmobile.io
+  github: https://docs.pollenmobile.io/pollen-mobile-docs/
+have_token: true
+tokens:
+  - symbol: PCN
+
 usecase:
 - infrastructure

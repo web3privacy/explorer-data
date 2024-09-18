@@ -1,2 +1,22 @@
+name: Auth3
+categories: [ infrastructure ]
+
+description: 'a privacy-preserved computing network into Web 3.0 that aims to unlock the value of data.'
+
+team:
+  anonymous: true
+  
+links:
+  web: https://auth3.network
+  whitepaper: https://auth3.network/Auth3-Whitepaper_v1.0.pdf
+  twitter: https://twitter.com/auth3_network
+  
+project_status:
+  live_status: false
+  version: TBD
+  testnet: false
+  mainnet: false
+  
+
 usecase:
 - infrastructure

@@ -1,2 +1,19 @@
+name: Hana
+categories:
+  - infrastructure
+description: "privacy hub for all blockchains, enabling on-chain privacy on existing chains and for arbitrary assets including Bitcoin"
+team:
+  anonymous: true
+links:
+  web: https://hana.network
+  blog: https://medium.com/hananetwork
+  twitter: https://twitter.com/HanaNetwork
+have_token: true
+project_status:
+  live_status: false
+  version: ""
+  testnet: false
+  mainnet: false
+
 usecase:
 - infrastructure

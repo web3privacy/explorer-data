@@ -1,2 +1,23 @@
+name: Findora
+categories:
+  - infrastructure
+description: "A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities"
+links:
+  web: https://findora.org
+  github: https://github.com/findoranetwork
+  docs: https://docs.findora.org/
+  twitter: https://twitter.com/Findora
+  discord: https://discord.com/invite/findora
+  facebook: https://www.facebook.com/findoraOfficial/
+  telegram: https://t.me/findoraen
+have_token: true
+tokens:
+  - symbol: FRA
+project_status:
+  live_status: false
+  version: ""
+  testnet: false
+  mainnet: false
+
 usecase:
 - infrastructure

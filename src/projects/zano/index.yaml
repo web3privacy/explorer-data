@@ -1,2 +1,25 @@
+name: Zano
+categories:
+  - defi
+description: A scalable and secure coin, with confidential assets support
+ecosystem: [zano]
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
+links:
+  web: https://zano.org
+  github: https://github.com/hyle-team/zano
+  block_explorer: https://explorer.zano.org/
+  docs: https://docs.zano.org/
+
+  blog: https://blog.zano.org/
+  twitter: https://x.com/zano_project
+  discord: https://discord.com/invite/wE3rmYY
+  telegram: https://t.me/zanocoin
+team:
+  anonymous: false
+
 usecase:
 - currency

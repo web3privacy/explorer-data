@@ -1,2 +1,15 @@
+name: Sociogram
+categories:
+  - applications
+description: Web3Social Media focused on privacy.
+links:
+  web: https://sociogram.org
+  docs: https://socio.gitbook.io/sociogram.org
+
+  blog: https://sociogram.medium.com/
+  twitter: https://x.com/SociogramSocFi
+  discord: https://discord.com/invite/kufW7ZfjeD
+  telegram: https://t.me/sociogram_channel
+
 usecase:
 - dapps

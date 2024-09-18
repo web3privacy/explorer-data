@@ -1,2 +1,13 @@
+name: FYEO Identity
+categories:
+  - applications
+description: Decentralized password management. Real-time identity monitoring.
+links:
+  web: https://www.gofyeo.com/fyeo-identity
+  blog: https://www.fyeo.io/blog
+  twitter: https://x.com/gofyeo
+  discord: https://discord.com/invite/tBcAkFPb5r
+  telegram: https://t.me/fyeo_security
+
 usecase:
 - dapps

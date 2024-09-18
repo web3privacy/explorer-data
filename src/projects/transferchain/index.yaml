@@ -1,2 +1,20 @@
+name: TransferChain
+categories:
+  - applications
+description: "Enables users to store, process, and share their data while ensuring its privacy and security"
+team:
+  anonymous: true
+links:
+  web: https://transferchain.io
+  github: https://github.com/TransferChain
+  blog: https://blog.transferchain.io/
+  docs: https://docs.transferchain.io/
+  twitter: https://twitter.com/TransferChain_
+project_status:
+  live_status: true
+  version: tbd
+  testnet: false
+  mainnet: true
+
 usecase:
 - storage

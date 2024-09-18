@@ -1,2 +1,46 @@
+id: ivpn
+name: IVPN
+categories: [applications]
+description: "Audited, privacy focused VPN service."
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Nicholas Pestell
+      role: CEO
+      link: https://github.com/cipheromega
+    - name: Edward De
+      role: Technical Support Lead
+      link: https://www.linkedin.com/in/edward-de-91793b163/
+    - name: Iain Douglas
+      link: https://github.com/Iain-ivpn
+    - name: Gorka Pernas
+      role: Senior QA Engineer
+      link: https://github.com/gorkapernas
+    - name: Natanael Rodriguez
+      link: https://github.com/nathanrod
+    - name: Juraj Hilje
+      role: Dev
+      link: https://github.com/jurajhilje
+    - name: Alexandr Stelnykovych
+      role: Dev
+      link: https://github.com/stenya
+    - name: Jordan Sullivan
+      link: https://github.com/jordan-ivpn
+
+links:
+  web: https://www.ivpn.net/en/
+  github: https://github.com/ivpn
+  blog: https://www.ivpn.net/en/blog/
+  twitter: https://x.com/ivpnnet
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+have_token: false
+
 usecase:
 - VPN

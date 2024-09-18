@@ -1,2 +1,55 @@
+id: ergo-platform
+name: Ergo Platform
+categories: [infrastructure]
+ecosystem: [ergo, btc]
+description: "Ergo is the next-gen smart contract platform! Bringing economic freedom to ordinary people through decentralized financial tools"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Alex Chepurnoy
+      link: https://x.com/chepurnoy
+    - name: qx
+      link: https://x.com/qx_ergo
+
+links:
+  web: https://ergoplatform.org/en/
+  github: https://github.com/ergoplatform
+  whitepaper: https://storage.googleapis.com/ergo-cms-media/Advanced_Ergo_Script_Tutorial_70ed6feddf/Advanced_Ergo_Script_Tutorial_70ed6feddf.pdf
+  docs: https://docs.ergoplatform.com/
+  blog: https://ergoplatform.org/en/blog/
+  forum: https://www.ergoforum.org/
+  twitter: https://x.com/ergo_platform
+  telegram: https://t.me/Ergo_Chats
+  discord: https://discord.com/invite/ergo-platform-668903786361651200
+
+sunset: false
+
+tokens:
+  - name: Ergo Token
+    symbol: $ERG
+    network: Ergochain
+    token_link: https://www.coingecko.com/en/coins/ergo
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+privacy_policy:
+  defined: true
+  link: https://ergoplatform.org/en/privacy-policy/
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+compliance: false
+
+audits:
+  - name: Jean-Philipee Aumasson
+    link: https://www.aumasson.jp/
+    time: 2019-12
+
 usecase:
 - infrastructure

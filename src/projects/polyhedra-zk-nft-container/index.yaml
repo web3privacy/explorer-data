@@ -1,2 +1,15 @@
+name: Polyhedra ZK-NFT Container
+categories:
+  - applications
+description: "A new NFT protocol that can contain other NFTs, realizing maximum interoperability"
+links:
+  web: https://polyhedra.network/zknft-container
+  github: https://github.com/PolyhedraZK/Expander
+  docs: https://docs.zkbridge.com/
+  blog: https://polyhedra.medium.com/
+  twitter: https://x.com/PolyhedraZK
+  discord: https://discord.com/invite/polyhedra-network
+sunset: false
+
 usecase:
 - nft

@@ -1,2 +1,17 @@
+name: Elite
+categories:
+  - applications
+description: Android and IOS Wallet that respects your privacy
+team:
+  anonymous: true
+links:
+  web: https://elitewallet.sc/
+  github: https://github.com/Elite-Labs/EliteWallet
+project_status:
+  live_status: true
+  version: 1.3.1
+  testnet: false
+  mainnet: false
+
 usecase:
 - wallets

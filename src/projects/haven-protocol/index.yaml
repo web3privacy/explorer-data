@@ -1,2 +1,27 @@
+name: Haven Protocol
+categories:
+  - infrastructure
+description: "an open source, community-led network of private digital assets"
+team:
+  anonymous: true
+links:
+  web: https://havenprotocol.org
+  github: https://github.com/haven-protocol-org
+  whitepaper: https://havenprotocol.org/whitepaper/
+  docs: https://havenprotocol.org/knowledge/
+  blog: https://havenprotocol.org/category/blog/
+  twitter: https://twitter.com/HavenXHV
+have_token: true
+tokens:
+  - symbol: XHV
+audits:
+  - name: no audit reports attached
+    link: https://github.com/haven-protocol-org/security-audits/
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
 usecase:
 - infrastructure

@@ -1,2 +1,14 @@
+name: Parami
+categories:
+  - infrastructure
+description: 'Para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service'
+project_status: 
+  live_status: true
+  version: testnet
+  testnet: true
+  mainnet: false
+links:
+  web: https://parami.io
+
 usecase:
 - infrastructure

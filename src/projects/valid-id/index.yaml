@@ -1,2 +1,11 @@
+name: Valid.id
+categories:
+  - applications
+description: "Build the root of trust for your entity in a way that is both cryptographic and legally binding"
+links:
+  web: https://valid3.id
+  docs: https://valid3.id/tutorial/
+have_token: true
+
 usecase:
 - did

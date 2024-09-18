@@ -1,2 +1,20 @@
+name: BlackHat Coin
+categories: [defi]
+description: "Privacy-focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol"
+ecosystem: [blackhat]
+project_status:
+  version: "Mainnet"
+links:
+  web: https://blackhatco.in
+  github: https://github.com/BlackHatCoin
+  block_explorer: https://explorer.blackhatco.in/
+  forum: https://forum.blackhatco.in/
+  whitepaper: https://blackhatco.in/resources/whitepaper.pdf?v092
+  twitter: https://x.com/blkcoin
+  discord: https://discord.com/invite/wGvzQVfhdR
+  telegram: https://t.me/BlackHatCoin
+team:
+  anonymous: true
+
 usecase:
 - currency

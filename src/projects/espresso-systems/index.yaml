@@ -1,2 +1,30 @@
+name: Espresso Systems
+categories:
+  - infrastructure
+description: "Espresso is building a marketplace for shared sequencing, allowing rollups to auction the rights to build their blocks"
+team:
+  anonymous: false
+  teammembers:
+    - name: Ben Fisch
+      role: CEO
+    - name: Charles Lu
+      role: COO
+    - name: Jill Gunter
+      role: CSO
+    - name: Benedikt Bünz
+      role: Chief Scientist
+    - name: Binyi Chen
+      role: Chief Cryptographer
+links:
+  web: https://www.espressosys.com
+  github: https://github.com/EspressoSystems/
+  whitepaper: https://github.com/EspressoSystems/HotShot/blob/main/docs/espresso-sequencer-paper.pdf
+  docs: https://docs.espressosys.com/
+project_status:
+  live_status: true
+  version: ""
+  testnet: true
+  mainnet: false
+
 usecase:
 - infrastructure

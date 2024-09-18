@@ -1,2 +1,14 @@
+id: shinobi
+name: Shinobi
+categories: [defi]
+links:
+  github: https://github.com/shinobi-protocol
+  docs: https://docs.sbtc.ninja/
+  whitepaper: https://www.sbtc.ninja/pdf/whitepaper.pdf
+  blog: https://medium.com/@ShinobiProtocol
+  twitter: https://twitter.com/ShinobiProtocol
+  discord: https://discord.com/invite/wm275b6m8d
+  telegram: https://t.me/shinobi_protocol
+
 usecase:
 - bridge

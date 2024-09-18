@@ -1,2 +1,12 @@
+name: Private Finance Syndicate
+categories:
+  - social-and-communications
+
+description: Privacy-oriented investment fund.
+links:
+  web: https://privatefinancesyndicate.io
+  blog: https://medium.com/nav-coin/2023-the-private-finance-syndicate-faqs-3f435d93688a
+  twitter: https://twitter.com/prifisyndicate
+
 usecase:
 - alliances

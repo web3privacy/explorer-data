@@ -1,2 +1,32 @@
+id: adamant
+name: Adamant
+categories: [social-and-communications]
+description: "Decentralized anonymous blockchain Messenger & crypto Wallet"
+
+team:
+  anonymous: true
+
+links:
+  web: https://adamant.im/
+  github: https://github.com/adamant-im
+  block_explorer: https://explorer.adamant.im/
+  whitepaper: https://adamant.im/whitepapers-library/
+  blog: https://news.adamant.im/
+  twitter: https://x.com/adamant_im
+  telegram: https://t.me/adamant_eng
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+have_token: true
+token_link: https://www.coingecko.com/en/coins/adamant-messenger
+tokens:
+  - name: ADMToken
+    symbol: $ADM
+    network: Ethereum
+
 usecase:
 - messaging

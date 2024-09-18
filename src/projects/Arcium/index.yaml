@@ -1,2 +1,14 @@
+id: arcium
+name: "Arcium"
+categories: [infrastructure]
+description: "The first parallelized confidential computing network"
+links:
+  web: https://arcium.com/
+  github: https://github.com/elusiv-privacy
+  docs: https://docs.arcium.com/
+  blog: https://blog.arcium.com/
+  twitter: https://x.com/ArciumHQ
+  discord: https://discord.com/invite/arcium
+
 usecase:
 - FHE

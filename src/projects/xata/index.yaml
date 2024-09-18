@@ -1,2 +1,12 @@
+name: XATA
+categories: [defi]
+ecosystem: [automata]
+description: "A MEV Minimization solution to survive the Dark Forest"
+links:
+  web: https://www.xata.fi/
+  docs: https://docs.xata.fi/
+team:
+  anonymous: true
+
 usecase:
 - defi

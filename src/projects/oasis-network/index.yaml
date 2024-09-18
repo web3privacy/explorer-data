@@ -1,2 +1,63 @@
+name: Oasis Network
+categories:
+  - infrastructure
+
+project_type: Confidential compute
+description: "A privacy-enabled blockchain platform for open finance and a responsible data economy"
+product_launch_day: "2020-11-18"
+
+team:
+  anonymous: true
+
+links:
+  web: https://oasisprotocol.org
+  github: https://github.com/oasisprotocol
+  docs: https://docs.oasis.io/
+  blog: https://oasisprotocol.org/blog
+  twitter: https://twitter.com/OasisProtocol
+  discord: https://discord.com/invite/BQCxwhT5wS
+  telegram: http://t.me/oasisprotocolcommunity
+  youtube: https://www.youtube.com/@OasisFoundation
+  reddit: https://www.reddit.com/r/oasisnetwork/
+  whitepaper: https://docsend.com/view/aq86q2pckrut2yvq
+  forum: https://forum.oasis.io/
+  linkedin: https://www.linkedin.com/company/oasisprotocol/
+  block_explorer: https://www.oasisscan.com/
+  facebook: https://www.facebook.com/oasisprotocol
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: true
+  mainnet: true
+
+have_token: true
+tokens:
+  - symbol: ROSE
+  - name: Wrapped ROSE
+    symbol: wROSE
+    network: BSC
+    contract_address: "0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a"
+  - name: Wrapped ROSE (Wormhole)
+    symbol: wROSE
+    network: Ethereum
+    contract_address: "0x26B80FBfC01b71495f477d5237071242e0d959d7"
+
+history:
+  - title: Oasis Mainnet
+    event_type: launch
+    description: "Oasis Mainnet: Ushering a New Era of Privacy and Scalability"
+    time: "2020-11-18"
+    link: https://oasisprotocol.org/blog/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability
+
+technology:
+  type: TEE
+  features:
+    - Data Privacy
+    - Tokenized Data
+    - Confidential compute
+blockchain_features:
+  encryption: TEE
+
 usecase:
 - infrastructure

@@ -1,2 +1,12 @@
+name: The Farcaster Project
+categories:
+  - infrastructure
+description: 'A cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node'
+team:
+  anonymous: true
+links:
+  web: https://farcaster.dev/
+  github: https://github.com/farcaster-project
+
 usecase:
 - infrastructure

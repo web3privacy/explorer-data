@@ -1,2 +1,8 @@
+name: Whirlpool
+categories:
+  - applications
+description: "Break the link your coins leave behind with built-in CoinJoin available on any platform"
+sunset: true
+
 usecase:
 - mixing-service

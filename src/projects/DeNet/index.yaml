@@ -1,2 +1,51 @@
+id: denet
+name: DeNet
+categories: [applications]
+ecosystem: [polygon]
+description: "Decentralized Storage Protocol for Web3 services "
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Denis Shelestov
+      link: https://x.com/djdeniro1
+    - name: Daniil Maslov
+      link: https://x.com/tttcrp
+
+links:
+  web: https://denet.pro/
+  github: https://github.com/denetpro
+  doc: https://docs.denet.pro/
+  blog: https://medium.com/denetpro
+  twitter: https://x.com/DeNetPro
+  telegram: https://t.me/denetnews
+  discord: https://discord.com/invite/PSnjPCq4x5
+
+sunset: false
+
+tokens:
+  - name: DeNet File Token
+    symbol: $DE
+    network: Polygon
+    contract_address: "0x081ec4c0e30159c8259bad8f4887f83010a681dc"
+    token_link: https://polygonscan.com/token/0x081ec4c0e30159c8259bad8f4887f83010a681dc
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+
+privacy_policy:
+  defined: false
+
+default_privacy: true
+
+traceability:
+  kyc: false
+
+compliance: false
+
+storage:
+  decentralized: true
+
 usecase:
 - storage

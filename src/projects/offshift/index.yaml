@@ -1,2 +1,17 @@
+name: Offshift
+categories: [defi]
+ecosystem: [ethereum]
+description: "Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics"
+links:
+  web: https://www.offshift.io/
+  github: https://open.offshift.io/offshiftXFT
+  docs: https://docs.elusiv.io/
+project_status:
+  live_status: true
+team:
+  anonymous: true
+  company:
+    link: https://offshift.io/#team
+
 usecase:
 - defi

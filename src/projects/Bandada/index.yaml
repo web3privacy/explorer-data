@@ -1,2 +1,16 @@
+id: bandada
+name: Bandada
+categories: [applications]
+description: "An open-source system for managing privacy-preserving groups of anonymous individuals."
+project_status:
+  version: "testnet"
+team:
+  anonymous: true
+links:
+  web: https://bandada.pse.dev/
+  docs: https://docs.bandada.pse.dev/
+  github: https://github.com/bandada-infra/bandada
+  type: semaphore, zk-kit
+
 usecase:
 - DID

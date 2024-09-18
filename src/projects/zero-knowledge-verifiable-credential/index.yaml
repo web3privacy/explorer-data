@@ -1,2 +1,10 @@
+name: Zero Knowledge Verifiable Credential
+categories:
+  - applications
+description: "Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js"
+links:
+  web: https://github.com/mono-koto/zkcred
+have_token: true
+
 usecase:
 - did

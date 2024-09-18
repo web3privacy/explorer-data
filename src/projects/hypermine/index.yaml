@@ -1,2 +1,22 @@
+name: Hypermine
+categories:
+  - infrastructure
+description: "Smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography"
+team:
+  anonymous: false
+  teammembers:
+    - name: Vikram Anand
+      role: Product&Engineering
+      link: https://x.com/bhushan_vikram
+    - name: Irfan Khan
+      role: Business&Strategy
+      link: https://x.com/arcaneprojekt
+    - name: Vishwas Bhushan
+      role: Research&dev
+      link: https://www.linkedin.com/in/vishwas-anand-bhushan-bab55576/
+links:
+  web: https://hypermine.co
+  blog: https://hypermine.co/blog
+
 usecase:
 - rd

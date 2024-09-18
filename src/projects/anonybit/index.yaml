@@ -1,2 +1,13 @@
+name: Anonybit
+categories: [applications]
+description: "Anonybit revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics)"
+ecosystem: [multichain]
+links:
+  web: https://www.anonybit.io/team/
+
+  blog: https://www.anonybit.io/blog/
+  twitter: https://x.com/Anonybit1
+have_token: true
+
 usecase:
 - did

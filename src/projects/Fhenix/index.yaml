@@ -1,2 +1,15 @@
+id: fhenix
+name: "Fhenix"
+categories: [applications]
+description: "Fhenix is an Ethereum L2 and Coprocessor that uses FHE for onchain confidentiality."
+links:
+  web: https://www.fhenix.io/
+  github: https://github.com/FhenixProtocol
+  docs: https://docs.fhenix.zone/
+  whitepaper: https://www.fhenix.io/wp-content/uploads/2024/04/FHE_Rollups_Paper_Final-20241404.pdf
+  blog: https://medium.com/@Fhenix
+  twitter: https://x.com/FhenixIO
+  discord: https://discord.com/invite/FuVgxrvJMY
+
 usecase:
 - FHE

@@ -1,2 +1,16 @@
+name: Holonym
+categories:
+  - applications
+description: ZK-identity protocol for anonymous KYC, sybil resistance, and compliance.
+team:
+  anonymous: true
+links:
+  web: https://holonym.id
+  github: https://github.com/holonym-foundation
+  docs: https://docs.holonym.id/
+  blog: https://medium.com/holonym
+  twitter: https://x.com/0xHolonym
+have_token: true
+
 usecase:
 - kyc

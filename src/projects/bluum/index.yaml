@@ -1,2 +1,9 @@
+name: Bluum
+categories: [applications]
+description: "Enable confidentiality of NFT content."
+links:
+  web: https://bluumprotocol.com
+  github: https://github.com/BluumProtocol
+
 usecase:
 - nft

@@ -1,2 +1,19 @@
+name: Discreet Labs
+categories:
+  - infrastructure
+description: "Build blockchain systems for a more private, self-sovereign future on Fidora"
+team:
+  anonymous: false
+  teammembers:
+    - name: Samuel Harrison
+      role: CEO
+      link: https://x.com/samuelpharrison
+    - name: Peter Abilla
+      role: CBO
+      link: https://x.com/shmula
+links:
+  web: https://discreetlabs.io
+  twitter: https://x.com/discreet_labs
+
 usecase:
 - rd

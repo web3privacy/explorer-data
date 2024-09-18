@@ -1,2 +1,24 @@
+id: sparrow
+name: Sparrow
+categories:
+  - applications
+description: A Bitcoin wallet for those who value financial self-sovereignty
+ecosystem: [bitcoin]
+links:
+  web: https://sparrowwallet.com/
+  github: https://github.com/sparrowwallet/sparrow
+  docs: https://sparrowwallet.com/docs/
+  twitter: https://twitter.com/SparrowWallet
+team:
+  anonymous: false
+  teammembers:
+    - name: craigraw
+      role: Project Lead
+      link: http://twitter.com/craigraw
+project_status:
+  live_status: true
+  testnet: false
+  mainnet: false
+
 usecase:
 - wallets

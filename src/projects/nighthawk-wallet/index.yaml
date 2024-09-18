@@ -1,2 +1,19 @@
+name: Nighthawk Wallet
+categories:
+  - applications
+description: Private Money in your pocket.
+ecosystem: [zcash]
+links:
+  web: https://nighthawkwallet.com/
+  github: https://github.com/nighthawk-apps
+  twitter: https://twitter.com/NighthawkWallet
+team:
+  anonymous: true
+project_status:
+  live_status: true
+  version: v2.2.14
+  testnet: false
+  mainnet: false
+
 usecase:
 - wallets

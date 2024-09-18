@@ -1,2 +1,9 @@
+name: LiquidFactory
+categories:
+  - applications
+description: Unlocks liquidity to DeFi, GameFi & NFTs.
+links:
+  web: https://liquidfactory.io
+
 usecase:
 - dapps

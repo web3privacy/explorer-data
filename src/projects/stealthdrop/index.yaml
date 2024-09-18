@@ -1,2 +1,10 @@
+name: Stealthdrop
+categories:
+  - applications
+description: Anonymous Airdrops using ZK-SNARKS ✨️**ZK**
+links:
+  web: https://stealthdrop.xyz
+  github: https://github.com/stealthdrop/stealthdrop
+
 usecase:
 - dapps

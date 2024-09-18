@@ -1,2 +1,16 @@
+name: RoninDojo Tanto
+categories:
+  - hardware
+description: "Fully validating Bitcoin full node. Served over a Tor hidden service"
+ecosystem: [bitcoin]
+links:
+  web: https://ronindojo.io/
+  docs: https://docs.samourai.io/
+  blog: https://blog.ronindojo.io/tag/news/
+  twitter: https://x.com/RoninDojoNode
+  telegram: https://t.me/RoninDojoNode
+team:
+  anonymous: true
+
 usecase:
 - hardware

@@ -1,2 +1,19 @@
+name: certUP
+categories:
+  - applications
+description: "SecretNFT Certificates revolutionizing official document distribution, verification, and publication"
+links:
+  web: https://certup.net
+  github: https://github.com/CertUP
+  twitter: https://x.com/cert_up
+  discord: https://discord.com/invite/jNZJYBDcZQ
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+have_token: false
+sunset: false
+
 usecase:
 - nft

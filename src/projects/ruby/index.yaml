@@ -1,2 +1,17 @@
+name: RUBY
+categories:
+  - infrastructure
+description: The Decentralized Privacy-Centric Protocol for Web3
+team:
+  anonymous: true
+links:
+  web: https://www.ruby.xyz
+  github: https://github.com/Ruby-Protocol
+  docs: https://wiki.ruby.xyz/
+  Twitter: https://twitter.com/RubyProtocol
+have_token: true
+tokens:
+  - symbol: RUBY
+
 usecase:
 - infrastructure

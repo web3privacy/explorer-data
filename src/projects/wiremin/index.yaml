@@ -1,2 +1,13 @@
+name: WireMin
+categories:
+  - applications
+description: A decentralized social network.
+links:
+  web: https://wiremin.org/#/
+
+  blog: https://wiremin.org/#/blog
+  twitter: https://x.com/WireMin
+  facebook: https://www.facebook.com/WireMinApp/
+
 usecase:
 - dapps

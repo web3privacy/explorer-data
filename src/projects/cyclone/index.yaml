@@ -1,2 +1,30 @@
+name: Cyclone
+categories:
+  - applications
+description: "Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses."
+team:
+  anonymous: true
+product_readiness: live
+links:
+  web: https://cyclone.xyz
+  github: https://github.com/cycloneprotocol/cyclone-contracts
+  docs: https://docs.cyclone.xyz/
+  forum: https://forum.cyclone.xyz/
+  blog: https://cycloneprotocol.medium.com/
+  twitter: https://x.com/cycloneprotocol
+  telegram: https://t.me/cycloneprotocol
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+audits:
+  - name: Smart Contract Audit Report Cyclone Protocol v2
+    link: https://4040024839-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MNeAQGL5skC11vu82Sy%2F-MVwM2h1RmXM94Ik7NAO%2F-MVwMB3sAAKGp9zma217%2FSmart%20Contract%20Audit%20Report%20-%20Cyclone%20Protocol%20v2.pdf?alt=media&token=03e492f6-bebc-4969-aff4-d0441fe662df
+    time: March, 2021
+  - name: Smart Contract Security Audit Report
+    link: https://4040024839-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MNeAQGL5skC11vu82Sy%2F-MY3RBSlDMhVlkrMsx5Y%2F-MY3RKd1R4T7nq41E4hA%2FSmart%20Contract%20Security%20Audit%20Report%20-%20Cyclone.pdf?alt=media&token=339e5433-2dac-4022-8310-5a87ad0f9b09
+    time: April, 2021
+
 usecase:
 - mixing-service

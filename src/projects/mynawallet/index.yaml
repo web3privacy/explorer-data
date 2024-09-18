@@ -1,2 +1,21 @@
+name: MynaWallet
+categories:
+  - applications
+description: Use your Japanese My Number card as a crypto wallet, via verifying the full passport validity inside ZK and using it to sign a transaction.
+ecosystem: [ethereum]
+links:
+  web: https://ethglobal.com/showcase/myna-uxzdd
+  github: https://github.com/MynaWallet/monorepo
+team:
+  anonymous: true
+technology:
+  type: ZK
+  features:
+    - ZK-identity
+project_status:
+  live_status: false
+  testnet: false
+  mainnet: false
+
 usecase:
 - wallets

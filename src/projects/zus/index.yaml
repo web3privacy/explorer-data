@@ -1,2 +1,31 @@
+name: Züs
+categories:
+  - applications
+description: "A high-performance storage network powering limitless applications"
+team:
+  anonymous: true
+links:
+  web: https://zus.network
+  github: https://github.com/0chain
+  blog: https://zus.network/blog/
+  whitepaper: https://zus.network/whitepapers/
+  docs: https://docs.zus.network/
+  twitter: https://twitter.com/zus_network
+  discord: https://discord.com/invite/h3BFjdtCp4
+  facebook: https://www.facebook.com/ZusNetwork
+  telegram: https://t.me/zus_network
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+have_token: true
+token_link: https://etherscan.io/token/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78
+tokens:
+  - name: ZCN Token
+    symbol: ZCN
+    network: Ethereum
+    contract_address: "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+
 usecase:
 - storage

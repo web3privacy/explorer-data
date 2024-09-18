@@ -1,2 +1,25 @@
+id: broearn
+name: Broearn
+categories: [applications]
+description: "Broearn the Ai Browser. Use-to-Earn solution, the privacy-centric Web3 browser"
+
+team:
+  anonymous: true
+
+links:
+  web: https://www.broearn.com/
+  docs: https://docs.broearn.com/
+  twitter: https://x.com/broearn
+  discord: https://discord.com/invite/vsfqexDTDK
+  telegram: https://t.me/broearn_browser
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+have_token: false
+
 usecase:
 - browser

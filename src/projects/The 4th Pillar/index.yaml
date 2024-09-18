@@ -1,2 +1,34 @@
+id: the-4th-pillar
+name: The 4th Pillar
+categories: [social-and-communications]
+description: "Web3 Aligned Email & Chat Super App"
+
+team:
+  anonymous: true
+
+links:
+  web: https://the4thpillar.io/
+  github: https://github.com/4P-project/
+  docs: https://docs.the4thpillar.io/
+  whitepaper: https://docs.google.com/document/d/1Ie_whzzIdvkuBOH_-X2Uhly3r0IIFR1hYGaHqHtIKrU/edit?usp=sharing
+  blog: https://medium.com/4p-project
+  twitter: https://x.com/4pfour
+  discord: https://discord.com/invite/WaZZXeBhg4
+  telegram: https://t.me/the4thpillarofficial
+
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+
+have_token: true
+token_link: https://etherscan.io/token/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0
+tokens:
+  - name: The 4th Pillar Token
+    symbol: $FOUR
+    network: Ethereum
+    contract_address: "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0"
+
 usecase:
 - messaging
