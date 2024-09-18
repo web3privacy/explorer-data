@@ -1,5 +1,4 @@
 name: UniJoin
-
 usecase:
   - mixing-service
 description: "help you regain and maintain your anonymity by mixing your cryptos in a pool using CoinJoin technology"

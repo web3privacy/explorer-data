@@ -1,5 +1,4 @@
 name: Demox labs
-
 usecase:
   - rd
 description: "Building privacy preserving ZK infrastructure on Aleo"

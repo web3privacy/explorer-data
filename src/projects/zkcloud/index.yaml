@@ -1,5 +1,4 @@
 name: ZkCloud
-
 usecase:
   - computing-network
 description: Decentralized, Private Computing.

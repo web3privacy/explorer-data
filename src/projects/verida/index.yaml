@@ -1,5 +1,4 @@
 name: Verida
-
 usecase:
   - infrastructure
 description: "Verida is a multi-chain protocol for interoperable database storage and messaging built on decentralized identity where personal data is owned and controlled by users"

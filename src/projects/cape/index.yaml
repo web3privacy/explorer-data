@@ -1,5 +1,4 @@
 name: CAPE
-
 usecase: [defi]
 ecosystem: Ethereum
 description: "Configurable Asset Privacy for Ethereum"

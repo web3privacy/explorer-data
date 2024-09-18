@@ -1,5 +1,4 @@
 name: Sporran
-
 usecase:
   - wallets
 description: "The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services"

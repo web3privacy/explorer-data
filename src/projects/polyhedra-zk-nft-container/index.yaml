@@ -1,5 +1,4 @@
 name: Polyhedra ZK-NFT Container
-
 usecase:
   - nft
 description: "A new NFT protocol that can contain other NFTs, realizing maximum interoperability"

@@ -1,5 +1,4 @@
 name: Trivium
-
 usecase:
   - rd
 description: "Provides validator services to several networks, and develops privacy-preserving dApps"

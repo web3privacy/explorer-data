@@ -1,5 +1,4 @@
 name: xx messenger
-
 usecase:
   - messaging
 description: "An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network"

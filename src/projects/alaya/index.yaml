@@ -1,5 +1,4 @@
 name: Alaya
-
 usecase: [computing-network]
 description: "Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON."
 ecosystem: Ethereum

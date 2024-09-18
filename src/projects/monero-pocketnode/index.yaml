@@ -1,5 +1,4 @@
 name: Monero PocketNode
-
 usecase:
   - node
 description: A Monero node for your Android Device.

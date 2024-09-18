@@ -1,5 +1,4 @@
 name: "FairMath"
-
 usecase: [FHE]
 description: "Building Privacy Preserving Future Rooted in Fully Homomorphic Encryption (FHE)"
 links:

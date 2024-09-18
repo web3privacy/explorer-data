@@ -1,5 +1,4 @@
 name: POMP
-
 usecase:
   - dapps
 description: "Comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization"

@@ -1,5 +1,4 @@
 name: CoinShuffle++
-
 usecase:
   - mixing-service
 description: "CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions"

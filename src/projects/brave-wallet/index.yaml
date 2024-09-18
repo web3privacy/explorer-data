@@ -1,5 +1,4 @@
 name: Brave Wallet
-
 usecase: [wallets]
 description: "The secure multi-chain crypto wallet"
 ecosystem: multichain

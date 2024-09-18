@@ -1,5 +1,4 @@
 name: Session
-
 usecase:
   - messaging
 description: "An end-to-end encrypted messenger that minimizes sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance"

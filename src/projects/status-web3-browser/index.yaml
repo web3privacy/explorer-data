@@ -1,5 +1,4 @@
 name: Status Web3 Browser
-
 usecase:
   - browser
 description: "Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser"

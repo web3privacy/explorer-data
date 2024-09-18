@@ -1,5 +1,4 @@
 name: Hush
-
 usecase:
   - currency
 description: Private cryptocurrency using zero knowledge mathematics

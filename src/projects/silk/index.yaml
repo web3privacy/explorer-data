@@ -1,5 +1,4 @@
 name: SILK
-
 usecase:
   - currency
 description: Private Over-Collateralized Anti-inflationary Stable Coin

@@ -1,5 +1,4 @@
 name: Zoker
-
 usecase:
   - wallets
 description: The foremost ZK-based Wallet in Web3

@@ -1,5 +1,4 @@
 name: OLA
-
 usecase:
   - layer-2
 description: ZK-ZKVM Bringing Programmable Privacy to Blockchains

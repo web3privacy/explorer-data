@@ -1,5 +1,4 @@
 name: Litentry
-
 usecase:
   - did
 description: "A decentralized identity aggregator, providing the structure and tools to empower you and your identity"

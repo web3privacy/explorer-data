@@ -1,5 +1,4 @@
 name: Monero
-
 usecase:
   - currency
 description: "Private, decentralized cryptocurrency that keeps your finances confidential and secure"

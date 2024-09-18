@@ -1,5 +1,4 @@
 name: ZKCHAOS
-
 usecase:
   - layer-2
 description: "ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency"

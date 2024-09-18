@@ -1,5 +1,4 @@
 name: Crypviser Secure Messenger
-
 usecase:
   - messaging
 description: "The most private messaging app, based on Blockchain technology"

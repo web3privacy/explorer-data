@@ -1,5 +1,4 @@
 name: Keep
-
 usecase:
   - infrastructure
 description: "The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum"

@@ -1,5 +1,4 @@
 name: Spook
-
 usecase:
   - rpc
 description: Mixing service using the Nym network to anonymize Ethereum RPC calls.

@@ -1,5 +1,4 @@
 name: XMTP x Lens
-
 usecase:
   - messaging
 description: "Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem"

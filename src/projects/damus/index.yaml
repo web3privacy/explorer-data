@@ -1,5 +1,4 @@
 name: Damus
-
 usecase:
   - dapps
 description: Nostr client for the social network you control.

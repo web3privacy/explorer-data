@@ -1,5 +1,4 @@
 name: Aleph Zero
-
 usecase: [computing-network]
 description: "Privacy-enhancing public blockchain with instant finality."
 ecosystem: Aleph

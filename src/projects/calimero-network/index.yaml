@@ -1,5 +1,4 @@
 name: Calimero network
-
 usecase:
   - infrastructure
 description: "Calimero Network is a decentralized peer-to-peer protocol for building self-sovereign networks of applications and sharing data in a completely secure and private way"

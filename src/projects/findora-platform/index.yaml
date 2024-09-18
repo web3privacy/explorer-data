@@ -1,5 +1,4 @@
 name: Findora
-
 usecase:
   - computing-network
 description: a decentralized, privacy-preserving smart contract platform.

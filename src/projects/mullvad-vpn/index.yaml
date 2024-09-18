@@ -1,5 +1,4 @@
 name: Mullvad VPN
-
 usecase:
   - vpn
 description: "One of the most privacy-focused VPN providers (check their Privacy Policy and history)"

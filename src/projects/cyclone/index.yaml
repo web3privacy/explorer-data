@@ -1,5 +1,4 @@
 name: Cyclone
-
 usecase:
   - mixing-service
 description: "Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses."

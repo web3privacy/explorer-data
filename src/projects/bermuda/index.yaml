@@ -1,5 +1,4 @@
 name: Bermuda
-
 usecase: [dapps]
 description: "Next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens"
 links:

@@ -1,5 +1,4 @@
 name: RawBox
-
 usecase: [Hardware]
 ecosystem: [Nym]
 description: "Redefined privacy-enabled router."

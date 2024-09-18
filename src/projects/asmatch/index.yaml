@@ -1,5 +1,4 @@
 name: AsMatch
-
 usecase: [dapps]
 description: "The only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials"
 links:

@@ -1,5 +1,4 @@
 name: Concordium
-
 usecase:
   - infrastructure
 description: "A compliance ready blockchain backed by science that enables private and public transactions"

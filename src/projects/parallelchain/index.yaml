@@ -1,5 +1,4 @@
 name: ParallelChain
-
 usecase:
   - infrastructure
 description: "A public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy"

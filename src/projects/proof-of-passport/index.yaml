@@ -1,5 +1,4 @@
 name: Proof of Passport
-
 usecase:
   - kyc
 description: Passport proving protocol using zk-SNARKs

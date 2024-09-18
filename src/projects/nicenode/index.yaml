@@ -1,5 +1,4 @@
 name: NiceNode
-
 usecase:
   - node
 description: "Launcher with a simple user experience to run an Ethereum node on your computer"

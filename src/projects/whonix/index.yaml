@@ -1,5 +1,4 @@
 name: Whonix
-
 usecase:
   - os
 description: "Software designed to preserve privacy and anonymity by helping users run applications anonymously. Whonix™ can be installed on Windows, macOS, Linux, and Qubes"

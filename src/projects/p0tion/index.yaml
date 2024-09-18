@@ -1,5 +1,4 @@
 name: p0tion
-
 usecase: infrastructure
 description: "Toolkit for Groth16 Phase 2 Trusted Setup ceremonies."
 project_status:

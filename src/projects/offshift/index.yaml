@@ -1,5 +1,4 @@
 name: Offshift
-
 usecase: [defi]
 ecosystem: Ethereum
 description: "Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics"

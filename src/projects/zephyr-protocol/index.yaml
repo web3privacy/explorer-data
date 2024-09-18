@@ -1,5 +1,4 @@
 name: Zephyr Protocol
-
 usecase:
   - currency
 description: "The Untraceable Stablecoin Protocol"

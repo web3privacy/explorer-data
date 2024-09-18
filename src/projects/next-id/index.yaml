@@ -1,5 +1,4 @@
 name: Next.ID
-
 usecase:
   - did
 description: An open-sourced protocol that synergises your Web2 and Web3 profiles.

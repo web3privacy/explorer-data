@@ -1,5 +1,4 @@
 name: Sia
-
 usecase:
   - storage
 description: Decentralized data storage

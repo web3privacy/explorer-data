@@ -1,5 +1,4 @@
 name: Ethereum Portal Network
-
 usecase:
   - rpc
 description: "Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests"

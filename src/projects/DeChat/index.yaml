@@ -1,5 +1,4 @@
 name: DeChat
-
 usecase: [messaging]
 description: "open and secure web3 communications protocol that powers decentralized user interactions"
 

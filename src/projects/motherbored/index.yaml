@@ -1,5 +1,4 @@
 name: Motherbored
-
 usecase:
   - hardware
 description: "#dVPN hardware (node + SM card)"

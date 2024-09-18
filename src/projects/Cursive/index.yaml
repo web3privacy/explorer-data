@@ -1,5 +1,4 @@
 name: "Cursive"
-
 usecase: [FHE]
 description: "A cryptography lab focused on human-first applications of signed data."
 links:

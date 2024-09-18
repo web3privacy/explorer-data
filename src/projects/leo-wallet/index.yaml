@@ -1,5 +1,4 @@
 name: Leo wallet
-
 usecase:
   - wallets
 description: Safe and easy way to interact with the Aleo blockchain

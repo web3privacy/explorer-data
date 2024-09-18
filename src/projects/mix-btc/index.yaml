@@ -1,5 +1,4 @@
 name: Mix BTC
-
 usecase:
   - mixing-service
 description: Bitcoin mixer.

@@ -1,5 +1,4 @@
 name: Mina
-
 usecase:
   - infrastructure
 description: "The world’s lightest blockchain, powered by participants. Using zero knowledge technology"

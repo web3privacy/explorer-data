@@ -1,5 +1,4 @@
 name: MACI
-
 usecase:
   - infrastructure
 description: "Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting"

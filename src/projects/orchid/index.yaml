@@ -1,5 +1,4 @@
 name: Orchid
-
 usecase:
   - vpn
 description: "Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client"

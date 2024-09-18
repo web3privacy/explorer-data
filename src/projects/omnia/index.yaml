@@ -1,5 +1,4 @@
 name: Omnia
-
 usecase:
   - infrastructure
 description: Omnia is a specialized RPC provider for DeFi traders, developed by cybersecurity, privacy and trading experts. They address DeFi-specific challenges like front-running and MEV exploitation.

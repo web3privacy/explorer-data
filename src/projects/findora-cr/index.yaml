@@ -1,5 +1,4 @@
 name: Findora CR
-
 usecase:
   - did
 description: Enabling ZK Identity Management & CRedentials for Web3

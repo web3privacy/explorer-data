@@ -1,5 +1,4 @@
 name: "MindNetwork"
-
 usecase: [FHE]
 description: "An FHE Restaking Layer for PoS and AI Networks "
 links:

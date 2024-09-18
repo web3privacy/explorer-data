@@ -1,5 +1,4 @@
 name: Self
-
 usecase: [did]
 usecases: [digital identity, personal data]
 description: "Build identification and personal data management for everything"

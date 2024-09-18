@@ -1,5 +1,4 @@
 name: Phoenix
-
 usecase:
   - computing-network
 description: blockchain infrastructure empowering intelligence web3 applications.

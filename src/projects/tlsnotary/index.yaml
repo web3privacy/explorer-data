@@ -1,5 +1,4 @@
 name: TLSNotary
-
 usecase:
   - dapps
 description: Proof of data authenticity

@@ -1,5 +1,4 @@
 name: Synaps
-
 usecase: [kyc]
 description: "KYC provider and verifiable credential issuer for DID protocols."
 

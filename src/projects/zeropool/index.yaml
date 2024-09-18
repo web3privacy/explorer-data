@@ -1,5 +1,4 @@
 name: ZeroPool
-
 usecase:
   - infrastructure
 description: "Is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set"

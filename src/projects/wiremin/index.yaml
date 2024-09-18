@@ -1,5 +1,4 @@
 name: WireMin
-
 usecase:
   - dapps
 description: A decentralized social network.

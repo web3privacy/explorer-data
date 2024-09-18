@@ -1,5 +1,4 @@
 name: Mullvad Browser
-
 usecase:
   - browser
 description: "The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project"

@@ -1,5 +1,4 @@
 name: Qubes OS
-
 usecase:
   - os
 description: "a free and open-source, security-oriented operating system for single-user desktop computing"

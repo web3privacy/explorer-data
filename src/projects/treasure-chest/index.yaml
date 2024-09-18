@@ -1,5 +1,4 @@
 name: Treasure Chest
-
 usecase:
   - wallets
 description: "Treasure Chest is the main full node wallet for the ARRR cryptocurrency"

@@ -1,5 +1,4 @@
 name: Nillion
-
 usecase:
   - computing-network
 description: "The Secure Processing Layer of Web3"

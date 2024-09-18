@@ -1,5 +1,4 @@
 name: RaspiBlitz
-
 usecase:
   - node
 description: DIY Bitcoin & Lightning Node on a RaspberryPi.

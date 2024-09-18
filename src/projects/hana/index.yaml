@@ -1,5 +1,4 @@
 name: Hana
-
 usecase:
   - infrastructure
 description: "privacy hub for all blockchains, enabling on-chain privacy on existing chains and for arbitrary assets including Bitcoin"

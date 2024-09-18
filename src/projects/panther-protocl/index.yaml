@@ -1,5 +1,4 @@
 name: Panther Protocol
-
 usecase: [defi]
 ecosystem: Ethereum, Elrond, Polkadot, Avalanche, Near, Flare
 description: "is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi"

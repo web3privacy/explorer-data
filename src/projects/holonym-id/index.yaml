@@ -1,5 +1,4 @@
 name: Holonym
-
 usecase:
   - did
 description: "Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are"

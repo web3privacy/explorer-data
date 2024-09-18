@@ -1,5 +1,4 @@
 name: Mailchain
-
 usecase: [dapps]
 ecosystem: [Ethereum]
 usecases: [mail]

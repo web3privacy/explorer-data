@@ -1,5 +1,4 @@
 name: BlockBlend
-
 usecase: [bridge]
 ecosystem: [Ethereum, Polygon, Base, Bnb, Solana]
 description: "Privacy Cross-Chain Decentralized Services"

@@ -1,5 +1,4 @@
 name: Oxen
-
 usecase:
   - currency
 description: A cryptocurrency powering a new class of interconnected privacy apps

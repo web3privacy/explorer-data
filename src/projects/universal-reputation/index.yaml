@@ -1,5 +1,4 @@
 name: Universal Reputation
-
 usecase:
   - did
 description: a private and non-repudiable reputation system

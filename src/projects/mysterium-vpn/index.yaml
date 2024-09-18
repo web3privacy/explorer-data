@@ -1,5 +1,4 @@
 name: Mysterium VPN
-
 usecase:
   - vpn
 description: A global, distributed network powered by everyday people.

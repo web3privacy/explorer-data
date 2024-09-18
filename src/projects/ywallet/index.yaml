@@ -1,5 +1,4 @@
 name: YWallet
-
 usecase:
   - wallets
 description: YWallet is a privacy-oriented wallet and messenger for Ycash and Zcash.

@@ -1,5 +1,4 @@
 name: nodl One
-
 usecase:
   - node
 description: A full Bitcoin and Lightning Network node.

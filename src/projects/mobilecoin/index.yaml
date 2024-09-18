@@ -1,5 +1,4 @@
 name: MobileCoin
-
 usecase:
   - currency
 description: MobileCoin makes global payments inexpensive, secure and fast

@@ -1,5 +1,4 @@
 name: MBuddy
-
 usecase:
   - did
 description: Web 3.0+ identity infrastructure

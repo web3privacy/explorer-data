@@ -1,5 +1,4 @@
 name: Railway
-
 usecase:
   - wallets
 description: DeFi privacy wallet

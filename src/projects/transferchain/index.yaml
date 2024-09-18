@@ -1,5 +1,4 @@
 name: TransferChain
-
 usecase:
   - storage
 description: "Enables users to store, process, and share their data while ensuring its privacy and security"

@@ -1,5 +1,4 @@
 name: Firo
-
 usecase:
   - currency
 description: A privacy-preserving cryptocurrency and ecosystem

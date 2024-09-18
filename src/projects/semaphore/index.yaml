@@ -1,5 +1,4 @@
 name: semaphore
-
 usecase: [DID]
 description: "Semaphore is a protocol that allows users to prove their membership in a group and transmit anonymous data, such as votes or feedback, without revealing their identities."
 project_status:

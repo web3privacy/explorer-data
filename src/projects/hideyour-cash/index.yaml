@@ -1,5 +1,4 @@
 name: HideYour.cash
-
 usecase:
   - mixing-service
 description: "HideYour.cash is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol"

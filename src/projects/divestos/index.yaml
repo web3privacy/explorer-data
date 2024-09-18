@@ -1,5 +1,4 @@
 name: DivestOS
-
 usecase:
   - os
 description: "A fork of LineageOS with monthly updates, automated CVE patchings, system WebView, and more"

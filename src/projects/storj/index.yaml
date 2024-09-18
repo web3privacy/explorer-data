@@ -1,5 +1,4 @@
 name: Storj
-
 usecase:
   - storage
 description: "globally distributed network for data storage with better security, privacy, and durability with CDN-like performance"

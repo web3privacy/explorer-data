@@ -1,5 +1,4 @@
 name: Monerujo
-
 usecase:
   - wallets
 description: Android wallet for Moneto

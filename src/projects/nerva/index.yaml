@@ -1,5 +1,4 @@
 name: Nerva
-
 usecase:
   - currency
 description: "Private and secure cryptocurrency"

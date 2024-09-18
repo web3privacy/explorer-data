@@ -1,5 +1,4 @@
 name: Beam
-
 usecase: [wallets]
 description: "Self-custodial wallet built on eco.org"
 team:

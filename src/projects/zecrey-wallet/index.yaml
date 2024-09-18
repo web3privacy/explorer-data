@@ -1,5 +1,4 @@
 name: Zecrey Wallet
-
 usecase:
   - wallets
 description: "a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet"

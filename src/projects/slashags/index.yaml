@@ -1,5 +1,4 @@
 name: Slashags
-
 usecase:
   - did
 description: "Slashtags gives developers tools to build secure and scalable peer-to-peer applications that put users in control of their profiles, contacts, accounts, and data"

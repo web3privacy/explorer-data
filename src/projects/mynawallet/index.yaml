@@ -1,5 +1,4 @@
 name: MynaWallet
-
 usecase:
   - wallets
 description: Use your Japanese My Number card as a crypto wallet, via verifying the full passport validity inside ZK and using it to sign a transaction.

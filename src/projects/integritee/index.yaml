@@ -1,5 +1,4 @@
 name: Integritee
-
 usecase:
   - infrastructure
 description: "Integritee is a highly scalable, privacy-enabling network in the Polkadot ecosystem with parachains on Polkadot and Kusama"

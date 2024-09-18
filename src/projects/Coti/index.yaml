@@ -1,5 +1,4 @@
 name: Coti
-
 usecase: [layer-2]
 description: "EVM L2 solving blockchain privacy with Garbled Circuits"
 

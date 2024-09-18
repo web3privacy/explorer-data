@@ -1,5 +1,4 @@
 name: Aztec Connect
-
 usecase: [bridge]
 links:
   github: https://github.com/AztecProtocol/aztec-connect-bridges

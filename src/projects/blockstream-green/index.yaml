@@ -1,5 +1,4 @@
 name: Blockstream Green
-
 usecase: [wallets]
 description: "A multi-platform, feature-rich Bitcoin and Liquid wallet by Blockstream"
 ecosystem: Bitcoin

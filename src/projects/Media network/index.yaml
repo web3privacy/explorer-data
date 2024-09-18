@@ -1,5 +1,4 @@
 name: Media Network
-
 usecase: [computing-network]
 ecosystem: [Ethereum, Solana, Base, Bnb, Optimist]
 usecases: [cloud, DePin]

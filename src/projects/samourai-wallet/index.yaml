@@ -1,5 +1,4 @@
 name: Samourai Wallet
-
 usecase:
   - wallets
 description: "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured"

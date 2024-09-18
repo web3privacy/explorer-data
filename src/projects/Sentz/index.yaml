@@ -1,5 +1,4 @@
 name: Sentz
-
 usecase: [dapps]
 usecases: [payment]
 description: "Global payments app for Freelancers & Creators"

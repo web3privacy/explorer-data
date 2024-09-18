@@ -1,5 +1,4 @@
 name: Rotki
-
 usecase: [dapps]
 ecosystem: [Ethereum, Bitcoin, Base, Optimist, Gnosis, Scroll, ZkSync]
 usecases: [os portfolio management]

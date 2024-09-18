@@ -1,5 +1,4 @@
 name: CalyxOS
-
 usecase:
   - os
 description: "Android mobile operating system that puts privacy and security into the hands of everyday users"

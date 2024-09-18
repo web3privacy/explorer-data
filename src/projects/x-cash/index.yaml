@@ -1,5 +1,4 @@
 name: x-cash
-
 usecase:
   - currency
 description: Web3’s Private Public Computing Platform

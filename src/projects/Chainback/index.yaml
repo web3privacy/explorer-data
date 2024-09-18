@@ -1,5 +1,4 @@
 name: Chainback
-
 usecase: [storage]
 ecosystem: [Ethereum, Solana, Bsc, Polygon]
 usecases: [storage, cloud]

@@ -1,5 +1,4 @@
 name: Plebble
-
 usecase:
   - layer-2
 description: P2P Network of computers running the Plebble software (L1 & L2)

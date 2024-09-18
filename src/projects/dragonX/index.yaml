@@ -1,5 +1,4 @@
 name: DragonX
-
 usecase:
   - currency
 description: "a Z2Z private by default crypto + messenging"

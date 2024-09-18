@@ -1,5 +1,4 @@
 name: Calamari network
-
 usecase:
   - infrastructure
 description: "Manta Network canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world"

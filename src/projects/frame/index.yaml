@@ -1,5 +1,4 @@
 name: Frame
-
 usecase:
   - wallets
 ecosystem: Ethereum

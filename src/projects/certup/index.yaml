@@ -1,5 +1,4 @@
 name: certUP
-
 usecase:
   - nft
 description: "SecretNFT Certificates revolutionizing official document distribution, verification, and publication"

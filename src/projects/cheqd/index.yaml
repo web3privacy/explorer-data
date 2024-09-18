@@ -1,5 +1,4 @@
 name: CheqD
-
 usecase:
   - dapps
 description: "A secure network that enables individuals and organizations to fully control  their personal data. It allows self-sovereign identity (SSI) companies to build and deliver secure solutions to you"

@@ -1,5 +1,4 @@
 name: Onion Mixer
-
 usecase:
   - mixing-service
 description: "Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions"

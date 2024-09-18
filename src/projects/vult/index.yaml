@@ -1,5 +1,4 @@
 name: vult
-
 usecase:
   - storage
 description: Your private cloud

@@ -1,5 +1,4 @@
 name: Mind Network
-
 usecase:
   - infrastructure
 description: "Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading towards to the era of HTTPZ, an end-to-end encryption internet"

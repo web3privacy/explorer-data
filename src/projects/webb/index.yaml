@@ -1,5 +1,4 @@
 name: Webb
-
 usecase: [defi]
 ecosystem: Tangle
 description: "an interoperable private bridge"

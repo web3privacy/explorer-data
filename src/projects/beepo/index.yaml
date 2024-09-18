@@ -1,5 +1,4 @@
 name: Beepo
-
 usecase: [messaging]
 description: "A social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts"
 team:

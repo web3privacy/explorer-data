@@ -1,5 +1,4 @@
 name: Minado
-
 usecase:
   - mixing-service
 description: Zk Privacy Solution on Mina Protocol.

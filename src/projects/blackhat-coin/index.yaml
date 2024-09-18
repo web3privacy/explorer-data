@@ -1,5 +1,4 @@
 name: BlackHat Coin
-
 usecase: [currency]
 description: "Privacy-focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol"
 ecosystem: BlackHat

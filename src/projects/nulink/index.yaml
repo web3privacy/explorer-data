@@ -1,5 +1,4 @@
 name: Nulink
-
 usecase:
   - infrastructure
 description: ZK Provable Data Privacy Solution for Decentralized Applications

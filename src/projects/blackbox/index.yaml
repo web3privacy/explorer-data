@@ -1,5 +1,4 @@
 name: Blackbox
-
 usecase: [defi]
 ecosystem: Secret
 description: "Collection of tools allowing you send & receive SCRT anonymously"

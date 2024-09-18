@@ -1,5 +1,4 @@
 name: The Farcaster Project
-
 usecase:
   - infrastructure
 description: "A cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node"

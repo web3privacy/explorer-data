@@ -1,5 +1,4 @@
 name: BOB Protocol
-
 usecase: [currency]
 description: "A multi-chain, multi-collateral stable token enhanced with optional privacy features"
 ecosystem: Polygon, Optimism, BNB, Ethereum

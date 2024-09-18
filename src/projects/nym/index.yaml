@@ -1,5 +1,4 @@
 name: NYM
-
 usecase:
   - infrastructure
 description: Nym protects communication patterns, IP addresses and metadata for end-users, enterprise and infrastructure operators

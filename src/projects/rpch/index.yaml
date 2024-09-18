@@ -1,5 +1,4 @@
 name: RPCh
-
 usecase:
   - rpc
 description: "a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain"

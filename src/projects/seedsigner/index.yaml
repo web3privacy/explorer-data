@@ -1,5 +1,4 @@
 name: SeedSigner
-
 usecase:
   - wallets
 description: Air-gapped DIY Bitcoin Signing Device

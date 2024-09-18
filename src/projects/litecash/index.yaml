@@ -1,5 +1,4 @@
 name: Litecash
-
 usecase:
   - currency
 description: "The first fork of Beam. We removed the founders reward and are 100% community-funded"

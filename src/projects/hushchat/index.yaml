@@ -1,5 +1,4 @@
 name: HushChat
-
 usecase:
   - messaging
 description: "HushChat is a protocol which is a particular use case of HushList protocol and which sits on top of Hush Protocol, an improved Zcash Protocol"

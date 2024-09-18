@@ -1,5 +1,4 @@
 name: Fileverse
-
 usecase:
   - storage
 description: "On-chain people and communities deserve on-chain tools for private communication and collaboration"

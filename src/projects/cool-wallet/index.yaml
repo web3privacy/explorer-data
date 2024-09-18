@@ -1,5 +1,4 @@
 name: Cool Wallet
-
 usecase:
   - wallets
 description: "Non-custodial wallet"

@@ -1,5 +1,4 @@
 name: Specter-DIY
-
 usecase:
   - wallets
 description: "DIY airgapped hardware wallet that uses QR codes for communication with the host"

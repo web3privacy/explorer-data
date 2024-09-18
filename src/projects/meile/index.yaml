@@ -1,5 +1,4 @@
 name: MEILE
-
 usecase:
   - vpn
 description: A decentralized VPN Client utilizing the Sentinel Blockchain

@@ -1,5 +1,4 @@
 name: Boring Protocol
-
 usecase: [vpn]
 description: "A Decentralized VPN on Solana"
 ecosystem: Solana

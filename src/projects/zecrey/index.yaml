@@ -1,5 +1,4 @@
 name: Zecrey
-
 usecase:
   - layer-2
 description: zkRollup basedLayer 2 protocol featuring privacy and scalability

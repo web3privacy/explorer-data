@@ -1,5 +1,4 @@
 name: RLN Anonymous Chat
-
 usecase:
   - messaging
 description: "A spam-resistant instant messaging application for private and anonymous communication"

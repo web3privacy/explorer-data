@@ -1,5 +1,4 @@
 name: Privacy Pools
-
 usecase:
   - dapps
 description: "Allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that"

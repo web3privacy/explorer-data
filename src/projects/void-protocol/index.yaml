@@ -1,5 +1,4 @@
 name: Void protocol
-
 usecase:
   - mixing-service
 description: "Void protocol gives users control over financial anonymity, as a non-custodial opt-in financial privacy service"

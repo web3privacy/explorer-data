@@ -1,5 +1,4 @@
 name: Hypersign
-
 usecase:
   - did
 description: the ultimate stack for identity management

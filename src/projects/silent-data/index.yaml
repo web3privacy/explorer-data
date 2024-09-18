@@ -1,5 +1,4 @@
 name: Silent Data
-
 usecase:
   - dapps
 description: Verify web2 Data in web3 Applications.

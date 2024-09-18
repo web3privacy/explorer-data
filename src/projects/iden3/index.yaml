@@ -1,5 +1,4 @@
 name: Iden3
-
 usecase:
   - did
 description: "The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each."

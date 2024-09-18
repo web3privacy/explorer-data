@@ -1,5 +1,4 @@
 name: Mejhool
-
 usecase:
   - messaging
 description: "A decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer, and voice-over-IP service"

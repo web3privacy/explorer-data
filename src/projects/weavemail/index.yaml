@@ -1,5 +1,4 @@
 name: Weavemail
-
 usecase:
   - dapps
 description: "The mail that cannot be lost, censored, or read by Google: Weavemail is mail that you own"

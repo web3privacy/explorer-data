@@ -1,5 +1,4 @@
 name: socialKYC
-
 usecase:
   - kyc
 description: Your decentralized social credentials

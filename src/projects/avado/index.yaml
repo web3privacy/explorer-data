@@ -1,5 +1,4 @@
 name: Avado
-
 usecase: [hardware]
 description: "A plug-and-play hardware device that connects users to many different kinds of blockchains"
 ecosystem: multichain

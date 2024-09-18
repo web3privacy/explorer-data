@@ -1,5 +1,4 @@
 name: KILT
-
 usecase:
   - did
 description: "A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers"

@@ -1,5 +1,4 @@
 name: Fedi
-
 usecase:
   - wallets
 description: "Billions of people are unable to hold bitcoin on or off exchanges"

@@ -1,5 +1,4 @@
 name: Notebook labs
-
 usecase:
   - kyc
 description: "Built Zephyr - the first non-custodial onramp to decentralize the gates of crypto. Zephyr leverages Zero Knowledge proofs to ensure that on and off-rampers never need to rely on centralized institutions"

@@ -1,5 +1,4 @@
 name: RoninDojo Tanto
-
 usecase:
   - hardware
 description: "Fully validating Bitcoin full node. Served over a Tor hidden service"

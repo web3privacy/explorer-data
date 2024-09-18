@@ -1,5 +1,4 @@
 name: lurch1317
-
 usecase:
   - messaging
 description: "The omemo variant based on vault1317, which is an off-chain secure communication protocol with deniability under federated XMPP network with"

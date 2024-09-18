@@ -1,5 +1,4 @@
 name: Vocdoni
-
 usecase: [dapps]
 ecosystem: [Ethereum]
 usecases: [voting]

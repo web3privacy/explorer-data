@@ -1,5 +1,4 @@
 name: Brume wallet
-
 usecase: [wallets]
 ecosystem: Ethereum
 description: "Tor based wallet for Ethereum"

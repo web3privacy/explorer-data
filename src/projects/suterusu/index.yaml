@@ -1,5 +1,4 @@
 name: Suterusu
-
 usecase:
   - infrastructure
 description: "A suite of privacy-preserving services to obfuscate transactional and asset information"

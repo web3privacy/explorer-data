@@ -1,5 +1,4 @@
 name: Summa
-
 usecase: infrastructure
 description: "Protocol enabling centralized exchanges to prove solvency without compromising private information."
 project_status:

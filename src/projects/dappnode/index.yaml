@@ -1,5 +1,4 @@
 name: DappNode
-
 usecase:
   - hardware
 description: "Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc"

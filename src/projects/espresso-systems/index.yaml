@@ -1,5 +1,4 @@
 name: Espresso Systems
-
 usecase:
   - infrastructure
 description: "Espresso is building a marketplace for shared sequencing, allowing rollups to auction the rights to build their blocks"

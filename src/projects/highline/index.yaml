@@ -1,5 +1,4 @@
 name: Highline
-
 usecase:
   - infrastructure
 description: An execution layer for Ethereum

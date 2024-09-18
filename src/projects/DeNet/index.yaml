@@ -1,5 +1,4 @@
 name: DeNet
-
 usecase: [storage]
 ecosystem: [Polygon]
 usecases: [storage, Depin]

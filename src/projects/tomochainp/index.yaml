@@ -1,5 +1,4 @@
 name: TomoChainP
-
 usecase:
   - infrastructure
 description: "A privacy protocols developed on TomoChain and designed to create safe and untraceable transactions"

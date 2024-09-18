@@ -1,5 +1,4 @@
 name: Imperiume
-
 usecase:
   - wallets
 description: Non-custodial wallet

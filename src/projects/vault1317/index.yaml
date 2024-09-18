@@ -1,5 +1,4 @@
 name: Vault1317
-
 usecase:
   - infrastructure
 description: "An Off-chain secure communication protocol with deniability via ZKP (Ring Signature)"

@@ -1,5 +1,4 @@
 name: 1RPC
-
 usecase: [rpc]
 description: "The Web3 Private RPC Relay"
 links:

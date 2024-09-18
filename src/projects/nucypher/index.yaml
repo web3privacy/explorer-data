@@ -1,5 +1,4 @@
 name: Threshold
-
 usecase:
   - infrastructure
 description: "uses cryptography to unlock greater utility and usability for digital assets without needing to trust a centralized party. Threshold cryptography distributes sensitive operations across multiple independent entities – like nodes in a network – and requires a threshold, or minimum number of those entities to cooperate for the operation to be successful"

@@ -1,6 +1,5 @@
 #PROJECT DESCRIPTION -------------------------------------------------------------
 name: DeepOnion
-
 usecase: currency
 assets_used: ZK-Snarks, TOR Network
 ecosystem: DeepOnion Network

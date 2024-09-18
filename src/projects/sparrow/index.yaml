@@ -1,5 +1,4 @@
 name: Sparrow
-
 usecase:
   - wallets
 description: A Bitcoin wallet for those who value financial self-sovereignty

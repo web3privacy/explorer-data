@@ -1,5 +1,4 @@
 name: Züs
-
 usecase:
   - storage
 description: "A high-performance storage network powering limitless applications"

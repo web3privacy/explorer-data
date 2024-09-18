@@ -1,5 +1,4 @@
 name: zkPass
-
 usecase:
   - did
 description: Protocol for Private Data based on MPC, ZKP, 3P-TLS

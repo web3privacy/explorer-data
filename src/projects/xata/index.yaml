@@ -1,5 +1,4 @@
 name: XATA
-
 usecase: [defi]
 ecosystem: Automata
 description: "A MEV Minimization solution to survive the Dark Forest"

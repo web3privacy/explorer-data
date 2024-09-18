@@ -1,5 +1,4 @@
 name: Web3ID
-
 usecase:
   - did
 description: Privacy-preserving user verification for Web3

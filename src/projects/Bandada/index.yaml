@@ -1,5 +1,4 @@
 name: Bandada
-
 usecase: [DID]
 description: "An open-source system for managing privacy-preserving groups of anonymous individuals."
 project_status: testnet

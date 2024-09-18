@@ -1,5 +1,4 @@
 name: zk-kit
-
 usecase: infrastructure
 description: "A set of reusable libraries for zero-knowledge technologies."
 project_status:

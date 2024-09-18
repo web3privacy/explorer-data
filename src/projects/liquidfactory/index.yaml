@@ -1,5 +1,4 @@
 name: LiquidFactory
-
 usecase:
   - dapps
 description: Unlocks liquidity to DeFi, GameFi & NFTs.

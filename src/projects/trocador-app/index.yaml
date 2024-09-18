@@ -1,5 +1,4 @@
 name: Trocador App
-
 usecase:
   - infrastructure
 description: "A privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site and I2P available"

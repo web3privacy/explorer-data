@@ -1,5 +1,4 @@
 name: Discreet Labs
-
 usecase:
   - rd
 description: "Build blockchain systems for a more private, self-sovereign future on Fidora"

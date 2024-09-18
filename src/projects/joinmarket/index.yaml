@@ -1,5 +1,4 @@
 name: JoinMarket
-
 usecase:
   - mixing-service
 description: Decentralized bitcoin coinjoin for improving privacy and fungibility.

@@ -1,5 +1,4 @@
 name: Polybase
-
 usecase:
   - layer-2
 description: "a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs"

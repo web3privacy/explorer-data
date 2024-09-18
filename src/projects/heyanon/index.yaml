@@ -1,5 +1,4 @@
 name: HeyAnon
-
 usecase:
   - dao
 description: "Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs"

@@ -1,5 +1,4 @@
 name: SightAI
-
 usecase: [AI]
 description: "Decentralized AI inference with FHE"
 team:

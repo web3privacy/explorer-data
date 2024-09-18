@@ -1,5 +1,4 @@
 name: Basic Swap
-
 usecase: [defi]
 ecosystem: Multichain
 description: "A private and cross-chain DEX"

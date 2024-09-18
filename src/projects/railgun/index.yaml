@@ -1,5 +1,4 @@
 name: RAILGUN
-
 usecase: [defi]
 tokens:
   - name: Railgun

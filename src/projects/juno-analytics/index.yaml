@@ -1,5 +1,4 @@
 name: Juno Analytics
-
 usecase:
   - dapps
 description: "Simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps"

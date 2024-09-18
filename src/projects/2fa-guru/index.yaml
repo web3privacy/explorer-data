@@ -1,5 +1,4 @@
 name: 2FA Guru
-
 usecase: [dapps]
 description: "A simple solution to interact with DApps by enforcing an additional signature check before each transaction"
 links:

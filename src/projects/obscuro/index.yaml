@@ -1,5 +1,4 @@
 name: TEN (formerly Obscuro)
-
 usecase:
   - layer-2
 description: "a layer 2 solution for Ethereum that brings privacy and scale"

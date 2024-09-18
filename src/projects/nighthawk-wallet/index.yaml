@@ -1,5 +1,4 @@
 name: Nighthawk Wallet
-
 usecase:
   - wallets
 description: Private Money in your pocket.

@@ -1,5 +1,4 @@
 name: Hype (formerly known as TeleBridge)
-
 usecase: [mixing-service]
 description: "Hype is the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously."
 team:

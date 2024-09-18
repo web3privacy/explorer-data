@@ -1,5 +1,4 @@
 name: Hashbon Pass
-
 usecase:
   - kyc
 description: Tokenized All Web3 Pass to KYC while being anonymous.

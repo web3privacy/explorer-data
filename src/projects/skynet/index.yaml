@@ -1,5 +1,4 @@
 name: SkyNet
-
 usecase:
   - storage
 description: "an open protocol for hosting data and web applications on the decentralized web using Sia"

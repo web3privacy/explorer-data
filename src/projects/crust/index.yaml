@@ -1,5 +1,4 @@
 name: Crust
-
 usecase:
   - storage
 ecosystem: Polkadot

@@ -1,5 +1,4 @@
 name: Zano
-
 usecase:
   - currency
 description: A scalable and secure coin, with confidential assets support

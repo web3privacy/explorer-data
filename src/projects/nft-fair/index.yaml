@@ -1,5 +1,4 @@
 name: NFT Fair
-
 usecase:
   - nft
 description: The do-good NFT launch platform.

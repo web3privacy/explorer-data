@@ -1,5 +1,4 @@
 name: Pirate Chain
-
 usecase:
   - currency
 description: "Anonymous cryptocurrency, a truly private, decentralized blockchain"

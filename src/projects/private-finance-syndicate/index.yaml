@@ -1,5 +1,4 @@
 name: Private Finance Syndicate
-
 usecase:
   - alliances
 description: Privacy-oriented investment fund.

@@ -1,5 +1,4 @@
 name: Zeal
-
 usecase:
   - wallets
 description: The web3 wallet that defends your crypto and privacy

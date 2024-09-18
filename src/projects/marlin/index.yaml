@@ -1,5 +1,4 @@
 name: Marlin
-
 usecase:
   - computing-network
 description: "Serverless backends for Web3 - Access and process data verifiably using ZKPs and TEEs"

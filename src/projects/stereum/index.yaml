@@ -1,5 +1,4 @@
 name: Stereum
-
 usecase:
   - node
 description: "Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features"

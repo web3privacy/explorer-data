@@ -1,5 +1,4 @@
 name: Email Wallet
-
 usecase:
   - wallets
 description: "Use your email address as a crypto wallet, via zk email to keep the protocol decentralized and emails private on-chain"

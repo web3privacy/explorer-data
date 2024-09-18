@@ -1,5 +1,4 @@
 name: Jami
-
 usecase:
   - messaging
 description: "a free/libre, end-to-end encrypted, and private communication platform"

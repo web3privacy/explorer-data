@@ -1,5 +1,4 @@
 name: Pigeon Communicator
-
 usecase:
   - messaging
 description: "Blockchain-based, trustless, censorship-resistant decentralized messaging"

@@ -1,5 +1,4 @@
 name: Zero Knowledge Verifiable Credential
-
 usecase:
   - did
 description: "Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js"

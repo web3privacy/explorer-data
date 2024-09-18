@@ -1,5 +1,4 @@
 name: Icebreaker
-
 usecase:
   - did
 description: zero knowledge x self-sovereign identity

@@ -1,5 +1,4 @@
 name: Decred
-
 usecase:
   - currency
 description: "A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development"

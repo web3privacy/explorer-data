@@ -1,5 +1,4 @@
 name: ChainPort
-
 usecase: [bridge]
 ecosystem: [Ethereum, Arbitrum, Optimism, Base, Bnb, Fantom, Polygon, Avalanche]
 description: "next-gen custodian secure bridge"

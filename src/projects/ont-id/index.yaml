@@ -1,5 +1,4 @@
 name: ONT ID
-
 usecase:
   - did
 description: Bringing trustless identity to Web3 manage your data with ONT ID

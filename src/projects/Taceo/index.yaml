@@ -1,5 +1,4 @@
 name: Taceo
-
 usecase: [computing-network]
 description: "Encrypted Computation Layer; MPC + ZK"
 

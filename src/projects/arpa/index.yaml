@@ -1,5 +1,4 @@
 name: ARPA
-
 usecase: [computing-network]
 description: "Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc"
 ecosystem: multichain

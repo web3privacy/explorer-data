@@ -1,5 +1,4 @@
 name: Ritual
-
 usecase: [ai]
 ecosystem: [Ethereum, Solana, Polygon]
 usecases: [ai, node]

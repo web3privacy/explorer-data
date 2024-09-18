@@ -1,5 +1,4 @@
 name: zCloak
-
 usecase:
   - did
 description: Privacy-first DID and verifiable computation infrastructure

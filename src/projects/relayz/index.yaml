@@ -1,5 +1,4 @@
 name: Relayz
-
 usecase:
   - messaging
 description: Hyper-secure, private communications protocol for Web3

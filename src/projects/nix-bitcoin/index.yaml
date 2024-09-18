@@ -1,5 +1,4 @@
 name: nix-bitcoin
-
 usecase:
   - os
 description: "A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security"

@@ -1,5 +1,4 @@
 name: Puma browser
-
 usecase:
   - browser
 description: Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.

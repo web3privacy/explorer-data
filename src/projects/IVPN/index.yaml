@@ -1,5 +1,4 @@
 name: IVPN
-
 usecase: [VPN]
 description: "Audited, privacy focused VPN service."
 

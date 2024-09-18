@@ -1,5 +1,4 @@
 name: Ergo Platform
-
 usecase: [infrastructure]
 ecosystem: [Ergo, Btc]
 usecases: [wallet, mining, mixer]

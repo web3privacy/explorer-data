@@ -1,5 +1,4 @@
 name: Humanode
-
 usecase: [did]
 ecosystem: [Polkadot]
 usecases: [biometrically verified nodes]

@@ -1,5 +1,4 @@
 name: Sismo
-
 usecase:
   - did
 description: "a modular protocol issuing ZK Badges for reputation portability and aggregation"

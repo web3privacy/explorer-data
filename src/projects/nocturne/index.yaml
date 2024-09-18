@@ -1,5 +1,4 @@
 name: Nocturne
-
 usecase:
   - dapps
 description: A protocol enabling usable on-chain privacy

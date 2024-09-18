@@ -1,5 +1,4 @@
 name: "Arcium"
-
 usecase: [FHE]
 description: "The first parallelized confidential computing network"
 links:

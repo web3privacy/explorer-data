@@ -1,5 +1,4 @@
 name: Fractal ID
-
 usecase:
   - did
 description: "We help web3 platforms and ecosystems ensure data and regulatory compliance by enabling selective disclosure of verified user data to KYC/AML status"

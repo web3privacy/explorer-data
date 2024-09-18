@@ -1,5 +1,4 @@
 name: Secure RPC
-
 usecase:
   - rpc
 description: "a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well"

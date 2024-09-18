@@ -1,5 +1,4 @@
 name: Polygon Miden
-
 usecase:
   - layer-2
 description: "a zero-knowledge rollup for high-throughput and private applications"

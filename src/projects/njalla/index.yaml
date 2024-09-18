@@ -1,5 +1,4 @@
 name: Njalla
-
 usecase:
   - infrastructure
 description: "Anonymous domain name registrar and VPS provider based in Sweden, accepts various cryptocurrencies as payment (BTC, Litecoin, Monero, Zcash, Ethereum)"
