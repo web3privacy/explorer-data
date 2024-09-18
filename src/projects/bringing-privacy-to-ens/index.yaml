@@ -1,6 +1,2 @@
-name: Bringing Privacy to ENS
-usecase: [dapps]
-description: "ChainSafe’s Proposed Integration Using Aztec Network"
-links:
-  web: https://www.cerebrum.com
-  github: https://github.com/ChainSafe/ens-aztec-privacy/
+usecase:
+- dapps

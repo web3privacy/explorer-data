@@ -1,10 +1,2 @@
-name: MyMonero
 usecase:
-  - wallets
-description: "The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features"
-ecosystem: Monero
-links:
-  web: https://mymonero.com/
-  github: https://github.com/mymonero
-team:
-  anonymous: true
+- wallets

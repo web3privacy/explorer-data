@@ -1,11 +1,2 @@
-name: Sirius Sync
 usecase:
-  - dapps
-description: Web3 Social Ecosystem
-links:
-  web: https://siriussync.io
-  docs: https://docs.siriussync.io/wiki
-
-  blog: https://medium.com/@siriussyncrealm
-  twitter: https://x.com/siriussyncrealm
-  telegram: https://t.me/siriussynccommunity
+- dapps

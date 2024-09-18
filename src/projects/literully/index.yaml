@@ -1,8 +1,2 @@
-name: Literully
 usecase:
-  - dapps
-description: "A decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data"
-links:
-  web: https://literully.com
-  github: https://docs.literully.com/articles/
-  twitter: https://x.com/literully
+- dapps

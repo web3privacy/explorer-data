@@ -1,25 +1,2 @@
-name: Partisia Blockchain
 usecase:
-  - infrastructure
-description: Partisia Blockchain is built for trust, transparency, privacy and speed of light finalization.
-team:
-  - name: Kurt Nielsen
-    role: Co-Founder & President
-  - name: Peter F. Frandsen
-    role: Co-Founder & CTO
-  - name: Brian Gallagher
-links:
-  web: https://partisiablockchain.com
-  gitlab: https://gitlab.com/partisiablockchain
-  docs: https://partisiablockchain.com/develop/documentation/
-  whitepaper: https://partisiablockchain.com/develop/documentation/
-  yellowpaper: https://drive.google.com/file/d/1OX7ljrLY4IgEA1O3t3fKNH1qSO60_Qbw/view
-  twitter: https://x.com/partisiampc
-have_token: true
-tokens:
-  - symbol: MPC
-project_status:
-  live_status: true
-  version: Gamma Mainnet Vers 4.0
-  testnet: true
-  mainnet: true
+- infrastructure

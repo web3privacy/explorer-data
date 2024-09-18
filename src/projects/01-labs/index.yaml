@@ -1,8 +1,2 @@
-name: 01 Labs
-usecase: [rd]
-description: "Catalyzing a new generation of applications powered by zero knowledge cryptography."
-links:
-  web: https://o1labs.org
-  github: https://github.com/o1-labs
-  blog: https://www.o1labs.org/blog
-  twitter: https://x.com/o1_labs
+usecase:
+- rd

@@ -1,11 +1,2 @@
-name: Silent Data
 usecase:
-  - dapps
-description: Verify web2 Data in web3 Applications.
-links:
-  web: https://silentdata.com
-  docs: https://docs.silentdata.com/docs
-
-  blog: https://www.silentdata.com/oracle/blog/
-  twitter: https://x.com/SilentDataApp
-  discord: https://discord.com/invite/5Dg57zStXG
+- dapps

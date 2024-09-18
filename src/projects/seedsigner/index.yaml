@@ -1,16 +1,2 @@
-name: SeedSigner
 usecase:
-  - wallets
-description: Air-gapped DIY Bitcoin Signing Device
-ecosystem: Bitcoin
-links:
-  web: https://seedsigner.com/
-  github: https://github.com/SeedSigner/seedsigner
-  docs: https://seedsigner.com/faqs/
-team:
-  anonymous: true
-project_status:
-  live_status: true
-  version: v0.7.0
-  testnet: false
-  mainnet: false
+- wallets

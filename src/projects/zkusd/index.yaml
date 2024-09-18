@@ -1,2 +1,2 @@
-name: zkUSD
-usecase: [defi]
+usecase:
+- defi

@@ -1,15 +1,2 @@
-name: Fileverse
 usecase:
-  - storage
-description: "On-chain people and communities deserve on-chain tools for private communication and collaboration"
-team:
-  anonymous: true
-links:
-  web: https://fileverse.io
-  github: https://github.com/fileverse
-  twitter: https://x.com/fileverse
-project_status:
-  live_status: true
-  version: Mainnet
-  testnet: false
-  mainnet: true
+- storage

@@ -1,19 +1,2 @@
-name: XMTP x Lens
 usecase:
-  - messaging
-description: "Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem"
-team:
-  anonymous: true
-links:
-  web: https://xmtp.org/
-  github: https://github.com/xmtp/awesome-xmtp/
-  docs: https://xmtp.org/docs/introduction
-  forum: https://community.xmtp.org/
-  blog: https://blog.xmtp.com/careers/
-  twitter: https://twitter.com/xmtp_
-  discord: https://discord.com/invite/xmtp
-project_status:
-  live_status: true
-  version: Mainnet
-  testnet: true
-  mainnet: true
+- messaging

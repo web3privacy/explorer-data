@@ -1,11 +1,2 @@
-name: Brace.to
 usecase:
-  - dapps
-description: "Save links to everything and visit them later easily, anytime, on any device, with Web3 technology that empowers you to truly own your account and data."
-links:
-  web: https://brace.to
-  github: https://github.com/stxapps/brace-client
-  blog: https://medium.com/@stxapps
-  twitter: https://x.com/bracedotto
-project_status:
-  live_status: true
+- dapps

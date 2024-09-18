@@ -1,8 +1,2 @@
-name: "FairMath"
-usecase: [FHE]
-description: "Building Privacy Preserving Future Rooted in Fully Homomorphic Encryption (FHE)"
-links:
-  web: https://fairmath.xyz/
-  github: https://github.com/fairmath
-  twitter: https://x.com/FairMath
-  discord: https://discord.com/invite/NfhXwyr9M5
+usecase:
+- FHE

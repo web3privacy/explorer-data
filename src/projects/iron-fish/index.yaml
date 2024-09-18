@@ -1,22 +1,2 @@
-name: Iron Fish
 usecase:
-  - currency
-description: The Privacy Platform for Web3
-ecosystem: Iron Fish
-project_status:
-  live status: true
-  version: testnet
-  testnet: true
-  mainnet: false
-links:
-  web: https://ironfish.network
-  github: https://github.com/iron-fish
-  block_explorer: https://explorer.ironfish.network/
-  whitepaper: https://ironfish.network/learn/whitepaper/introduction
-
-  blog: https://ironfish.network/learn/blog
-  twitter: https://x.com/ironfishcrypto
-  discord: https://discord.com/invite/EkQkEcm8DH
-  telegram: https://t.me/ironfishcryptochat
-team:
-  anonymous: false
+- currency

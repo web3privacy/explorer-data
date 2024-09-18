@@ -1,17 +1,2 @@
-name: Asterizm
-usecase: [infrastructure]
-description: "Plug and play blockchain interoperability solution for enterprises, web3 protocols, and fintech with privacy at the core. Launch in-demand cross-chain solutions with their core modules -  asset bridge, NFT bridge, native cross-chain token & NFT"
-team:
-  - name: Artem Avdeev
-    role: CEO
-  - name: Denis Polulyakhov
-    role: Co-Founder
-links:
-  web: https://asterizm.io
-  github: https://github.com/Asterizm-Protocol
-  docs: http://docs.asterizm.io/
-  blog: https://medium.com/asterizm-labs
-  whitepaper: https://asterizm.io/files/wp.pdf
-  twitter: https://twitter.com/Asterizm_layer
-  discord: https://discord.gg/z5QVerD48C
-  telegram: https://t.me/asterizm_protocol
+usecase:
+- infrastructure

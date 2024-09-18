@@ -1,7 +1,2 @@
-name: lurch1317
 usecase:
-  - messaging
-description: "The omemo variant based on vault1317, which is an off-chain secure communication protocol with deniability under federated XMPP network with"
-links:
-  web: https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md
-  github: https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md
+- messaging

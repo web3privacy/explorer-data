@@ -1,13 +1,2 @@
-name: Light Protocol
 usecase:
-  - infrastructure
-description: Light is a protocol built on Solana introducing ZK compression, a new primitive that enables the secure scaling of state directly on the L1.
-team:
-  anonymous: true
-links:
-  web: https://www.lightprotocol.com
-  github: https://github.com/Lightprotocol/light-protocol
-  docs: https://docs.lightprotocol.com/
-have_token: true
-tokens:
-  - symbol: LIGHT
+- infrastructure

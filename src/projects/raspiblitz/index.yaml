@@ -1,15 +1,2 @@
-name: RaspiBlitz
 usecase:
-  - node
-description: DIY Bitcoin & Lightning Node on a RaspberryPi.
-team:
-  anonymous: true
-links:
-  web: https://raspiblitz.org
-  docs: https://docs.raspiblitz.org/docs/setup/intro
-  github: https://github.com/raspiblitz
-project_status:
-  live_status: true
-  version: v1.11.0
-  testnet: false
-  mainnet: true
+- node

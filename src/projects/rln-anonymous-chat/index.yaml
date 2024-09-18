@@ -1,6 +1,2 @@
-name: RLN Anonymous Chat
 usecase:
-  - messaging
-description: "A spam-resistant instant messaging application for private and anonymous communication"
-links:
-  web: https://github.com/njofce/zk-chat
+- messaging

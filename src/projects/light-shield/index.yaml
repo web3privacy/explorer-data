@@ -1,2 +1,2 @@
-name: Light Shield
-usecase: [defi]
+usecase:
+- defi

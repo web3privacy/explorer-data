@@ -1,2 +1,2 @@
-name: Umbra
-usecase: [defi]
+usecase:
+- defi

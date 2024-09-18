@@ -1,8 +1,2 @@
-name: Skiff Drive
 usecase:
-  - storage
-description: Secure file storage
-links:
-  web: https://skiff.com/drive
-  github: https://github.com/skiff-org
-sunset: true
+- storage

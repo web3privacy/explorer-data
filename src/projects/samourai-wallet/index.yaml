@@ -1,11 +1,2 @@
-name: Samourai Wallet
 usecase:
-  - wallets
-description: "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured"
-ecosystem: Bitcoin
-links:
-  web: https://samouraiwallet.com/products
-  docs: https://docs.samourai.io/wallet/start
-team:
-  anonymous: true
-sunset: true
+- wallets

@@ -1,21 +1,2 @@
-name: Integritee
 usecase:
-  - infrastructure
-description: "Integritee is a highly scalable, privacy-enabling network in the Polkadot ecosystem with parachains on Polkadot and Kusama"
-team:
-  anonymous: true
-links:
-  web: https://integritee.network
-  github: https://github.com/integritee-network
-  docs: https://docs.integritee.network/
-  blog: https://www.integritee.network/blog
-  Lightpaper: https://www.integritee.network/docs/Integritee_%20Lightpaper_2021.pdf
-  twitter: https://twitter.com/integri_t_e_e
-have_token: true
-tokens:
-  - symbol: TEER
-project_status:
-  live_status: true
-  version: testnet
-  testnet: true
-  mainnet: true
+- infrastructure

@@ -1,7 +1,2 @@
-name: Monero PocketNode
 usecase:
-  - node
-description: A Monero node for your Android Device.
-links:
-  web: https://github.com/CryptoGrampy/xmr-pocket-node
-sunset: true
+- node

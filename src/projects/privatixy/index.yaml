@@ -1,7 +1,2 @@
-name: Privatixy
 usecase:
-  - infrastructure
-description: "An open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users"
-have_token: true
-tokens:
-  - symbol: PRIVATIXY
+- infrastructure

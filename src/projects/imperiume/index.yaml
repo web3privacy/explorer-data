@@ -1,8 +1,2 @@
-name: Imperiume
 usecase:
-  - wallets
-description: Non-custodial wallet
-links:
-  web: https://www.imperiume.io/wallet
-
-sunset: true
+- wallets

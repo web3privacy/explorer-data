@@ -1,7 +1,2 @@
-name: Skiff Pages
 usecase:
-  - dapps
-description: Private, End-to-End Encrypted Notes
-links:
-  web: https://skiff.com/pages
-  github: https://github.com/skiff-org
+- dapps

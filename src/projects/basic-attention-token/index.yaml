@@ -1,12 +1,2 @@
-name: Basic Attention Token
-usecase: [currency]
-description: "Making Crypto and DeFi accessible and usable for everyone (powered by Brave)"
-ecosystem: Solana
-links:
-  web: https://basicattentiontoken.org
-  whitepaper: https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf
-  blog: https://basicattentiontoken.org/blog/
-  twitter: https://x.com/attentiontoken
-  discord: https://discord.com/invite/BATBrigade
-team:
-  anonymous: false
+usecase:
+- currency

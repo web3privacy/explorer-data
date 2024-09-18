@@ -1,20 +1,2 @@
-name: xx messenger
 usecase:
-  - messaging
-description: "An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network"
-team:
-  anonymous: false
-links:
-  web: https://elixxir.io
-  github: https://git.xx.network/elixxir/client-android
-  block_explorer: https://explorer.xx.network/#/explorer
-  whitepapers: https://xx.network/whitepapers/
-  twitter: https://twitter.com/xx_network
-  forum: https://forum.xx.network/
-  discord: https://discord.com/invite/kbS4dSrPCv
-  telegram: https://t.me/xxnetwork
-project_status:
-  live_status: true
-  version: Mainnet
-  testnet: true
-  mainnet: true
+- messaging

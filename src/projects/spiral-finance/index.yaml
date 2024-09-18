@@ -1,2 +1,2 @@
-name: Spiral Finance
-usecase: [defi]
+usecase:
+- defi

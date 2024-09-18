@@ -1,6 +1,2 @@
-name: Fade WTF
 usecase:
-  - nft
-description: Privacy for NFTs powered by Light Protocol.
-links:
-  web: http://mint.fade.wtf
+- nft

@@ -1,13 +1,2 @@
-name: Logion
 usecase:
-  - infrastructure
-description: "Substrate-based public blockchain operated by a decentralized network of legal officers. Logion redefines the connection between digital actions and their legal  implications by ensuring every blockchain-based transaction is backed by robust legal certification"
-team:
-  anonymous: false
-links:
-  web: https://logion.network
-  github: https://github.com/logion-network
-  docs: https://logion-network.github.io/logion-api/
-  whitepaper: https://docs.logion.network/logion-white-paper
-  twitter: https://twitter.com/logion_network
-have_token: true
+- infrastructure

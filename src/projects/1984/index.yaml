@@ -1,8 +1,2 @@
-name: "1984"
-usecase: [infrastructure]
-description: "High-quality web hosting and VPS service provider based in Iceland that respects and protects the civil and political rights of customers. And offers a free DNS service and runs its services with 100% green energy. Does accept Bitcoin & Monero."
-team:
-  anonymous: true
-links:
-  web: https://1984.hosting/
-  docs: https://kb.1984hosting.com/doku.php?id=start
+usecase:
+- infrastructure

@@ -1,13 +1,2 @@
-name: Demox labs
 usecase:
-  - rd
-description: "Building privacy preserving ZK infrastructure on Aleo"
-team:
-  anonymous: false
-  teammembers:
-    - name: Evan Marshall
-      role: CTO
-      link: https://x.com/CoralRelief
-links:
-  web: https://www.demoxlabs.xyz
-  twitter: https://x.com/DemoxLabs
+- rd

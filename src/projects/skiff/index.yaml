@@ -1,11 +1,2 @@
-name: Skiff
 usecase:
-  - dapps
-description: Web3 email, drive, and docs
-links:
-  web: https://skiff.com/crypto
-  github: https://github.com/skiff-org/skiff-mail
-  whitepaper: https://skiff-org.github.io/whitepaper/Skiff_Whitepaper_2023.pdf
-  docs: https://skiff.com/skiff-crypto/
-
-  twitter: https://x.com/skiffprivacy
+- dapps

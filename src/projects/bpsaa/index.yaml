@@ -1,6 +1,2 @@
-name: BPSAA
-usecase: [alliances]
-description: "The Blockchain Privacy, Security & Adoption Alliance educates the public on privacy, security, and decentralization."
-links:
-  web: https://bpsaa.vision
-  twitter: https://twitter.com/BPSAA_Official
+usecase:
+- alliances

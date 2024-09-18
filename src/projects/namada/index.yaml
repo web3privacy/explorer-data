@@ -1,18 +1,2 @@
-name: Namada
 usecase:
-  - infrastructure
-description: Proof-of-Stake L1 for interchain asset-agnostic privacy. Namada uses CometBFT consensus and enables multi-asset shielded transfers for any native or non-native asset.
-team:
-  anonymous: true
-product_version: Testnet
-links:
-  web: https://namada.net
-  github: https://github.com/anoma/namada
-  docs: https://docs.namada.net/
-  blog: https://namada.net/blog
-  twitter: https://twitter.com/namada
-project_status:
-  live_status: true
-  version: Testnet v.034.0
-  testnet: true
-  mainnet: false
+- infrastructure

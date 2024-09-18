@@ -1,8 +1,2 @@
-name: Entropy1729
 usecase:
-  - rd
-description: Zero Knowledge Shop.
-links:
-  web: https://www.entropy1729.com
-  twitter: https://x.com/1729entropy
-sunset: true
+- rd

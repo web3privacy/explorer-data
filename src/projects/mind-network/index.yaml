@@ -1,18 +1,2 @@
-name: Mind Network
 usecase:
-  - infrastructure
-description: "Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading towards to the era of HTTPZ, an end-to-end encryption internet"
-
-team:
-  anonymous: true
-links:
-  web: https://mindnetwork.xyz
-  github: https://github.com/mind-network
-  docs: https://mind-network.gitbook.io/mindnetwork
-  Twitter: https://twitter.com/mindnetwork_xyz
-have_token: true
-project_status:
-  live_status: true
-  version: Testnet
-  testnet: true
-  mainnet: false
+- infrastructure

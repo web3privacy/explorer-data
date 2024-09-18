@@ -1,15 +1,2 @@
-name: Mel
 usecase:
-  - infrastructure
-description: "A clean-slate L1 for a decentralized, secure, and private internet beyond blockchains - a vibrant ecosystem of full-stack decentralized apps freed from the current on-chain smart contract model, yet still ultimately secured by blockchain consensus"
-team:
-  - name: Eric Tung
-    role: Founder CEO & CTO
-links:
-  web: https://melproject.org/en/
-  github: https://github.com/mel-project
-  docs: https://docs.melproject.org
-  forum: https://forum.melproject.org/
-  yellow-paper: https://docs.themelio.org/specifications/yellow/
-  Twitter: https://twitter.com/melproject_org
-have_token: true
+- infrastructure

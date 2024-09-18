@@ -1,16 +1,2 @@
-name: TAILS OS
 usecase:
-  - os
-description: "Tails is a portable operating system that protects your privacy and helps you avoid censorship"
-team:
-  anonymous: true
-links:
-  web: https://tails.boum.org
-  docs: https://tails.net/doc/index.en.html
-  github: https://gitlab.tails.boum.org/tails/tails
-  twitter: https://twitter.com/Tails_live
-project_status:
-  live_status: true
-  version: 6.3
-  testnet: false
-  mainnet: false
+- os

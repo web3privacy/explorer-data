@@ -1,9 +1,2 @@
-name: Onino
 usecase:
-  - infrastructure
-description: A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability
-links:
-  web: https://www.onino.io
-have_token: true
-tokens:
-  - symbol: ONI
+- infrastructure

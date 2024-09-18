@@ -1,2 +1,2 @@
-name: zk.money
-usecase: [defi]
+usecase:
+- defi

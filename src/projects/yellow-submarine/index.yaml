@@ -1,2 +1,2 @@
-name: Yellow Submarine
-usecase: [defi]
+usecase:
+- defi

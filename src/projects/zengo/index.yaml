@@ -1,10 +1,2 @@
-name: ZenGo
 usecase:
-  - wallets
-description: "The only self-custodial wallet with no seed phrase vulnerability (shielded transactions)"
-ecosystem: multichain
-links:
-  web: https://zengo.com/
-  github: https://github.com/ZenGo-X
-team:
-  anonymous: false
+- wallets

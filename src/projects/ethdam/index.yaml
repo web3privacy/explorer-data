@@ -1,9 +1,2 @@
-name: ETHDam
-description: "Ethereum-focused privacy & DeFi hackathon. "
-usecase: [events]
-ecosystem: Ethereum
-links:
-  web: https://www.ethdam.com/hackathon
-  twitter: https://twitter.com/CryptoCanal
-  discord: https://discord.com/invite/XJVjpCqQBz
-  telegram: https://t.me/CryptoCanalCommunity
+usecase:
+- events

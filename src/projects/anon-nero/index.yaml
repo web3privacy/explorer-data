@@ -1,5 +1,2 @@
-name: Anon/Nero
-usecase: [wallets]
-description: "Private wallet"
-links:
-  web: https://t.me/anoneroapks
+usecase:
+- wallets

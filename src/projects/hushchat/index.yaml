@@ -1,17 +1,2 @@
-name: HushChat
 usecase:
-  - messaging
-description: "HushChat is a protocol which is a particular use case of HushList protocol and which sits on top of Hush Protocol, an improved Zcash Protocol"
-team:
-  anonymous: true
-links:
-  web: https://hush.is/
-  github: https://git.hush.is/hush
-  docs: https://git.hush.is/hush/docs
-  blog: https://blog.hush.is/
-  twitter: https://twitter.com/hushisprivacy
-project_status:
-  live_status: true
-  version: mainnet
-  testnet: false
-  mainnet: true
+- messaging

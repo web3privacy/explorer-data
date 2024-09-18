@@ -1,6 +1,2 @@
-name: Zerochain
 usecase:
-  - dapps
-description: Zerochain is a generic, privacy-protecting layer on top of Substrate.
-links:
-  web: https://layerxcom.github.io/zerochain-book/
+- dapps

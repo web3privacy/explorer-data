@@ -1,6 +1,2 @@
-name: Onionclub
 usecase:
-  - messaging
-description: Blockchain-based, business & social platform.
-links:
-  web: https://onionclub.io
+- messaging

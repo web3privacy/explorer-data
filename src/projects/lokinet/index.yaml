@@ -1,14 +1,2 @@
-name: Lokinet
 usecase:
-  - vpn
-description: A VPN tunnel that uses onion routing as the transport (build on Oxen blockchain)
-ecosystem: multichain
-links:
-  web: https://lokinet.org
-  github: https://github.com/oxen-io/lokinet
-  docs: https://docs.oxen.io/oxen-docs
-  twitter: https://twitter.com/Lokinet_org
-team:
-  anonymous: true
-have_token: true
-token_link: https://www.coingecko.com/en/coins/oxen
+- vpn

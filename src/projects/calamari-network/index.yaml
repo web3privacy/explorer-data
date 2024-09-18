@@ -1,18 +1,2 @@
-name: Calamari network
 usecase:
-  - infrastructure
-description: "Manta Network canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world"
-team:
-  anonymous: true
-links:
-  web: https://calamari.network
-  github: https://github.com/Manta-Network
-  blog: https://mantanetwork.medium.com/
-have_token: true
-tokens:
-  - symbol: KMA
-project_status:
-  live_status: true
-  version: Mainnet
-  testnet: false
-  mainnet: true
+- infrastructure

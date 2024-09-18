@@ -1,8 +1,2 @@
-name: Universal Privacy Alliance
 usecase:
-  - alliances
-description: "seeks to advance the understanding of privacy as the very basis of free and flourishing digital societies"
-links:
-  web: https://privacyalliance.com
-  blog: https://nymtech.medium.com/press-release-universal-privacy-alliance-launches-privacy-legal-defence-fund-at-devcon-c80af393ab11
-  twitter: https://twitter.com/priv_alliance
+- alliances

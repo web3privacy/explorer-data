@@ -1,12 +1,2 @@
-name: Timpi
 usecase:
-  - dapps
-description: Decentralized Search Engine & Index
-links:
-  web: https://timpi.io
-  whitepaper: https://timpi.io/timpi-whitepaper/
-
-  blog: https://timpi.io/category/blogs/
-  twitter: https://x.com/Timpi_TheNewWay
-  discord: https://discord.com/invite/wGRm9c7JE2
-  telegram: https://t.me/TimpiMe
+- dapps

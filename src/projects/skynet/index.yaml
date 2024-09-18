@@ -1,8 +1,2 @@
-name: SkyNet
 usecase:
-  - storage
-description: "an open protocol for hosting data and web applications on the decentralized web using Sia"
-links:
-  web: https://skynetlabs.com
-  github: https://github.com/SkynetLabs
-sunset: true
+- storage

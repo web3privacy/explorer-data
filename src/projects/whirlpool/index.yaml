@@ -1,5 +1,2 @@
-name: Whirlpool
 usecase:
-  - mixing-service
-description: "Break the link your coins leave behind with built-in CoinJoin available on any platform"
-sunset: true
+- mixing-service

@@ -1,15 +1,2 @@
-name: Paras
 usecase:
-  - nft
-description: "A blockchain-agnostic protocol that offers privacy to NFTs"
-links:
-  web: https://paras.id/
-  whitepaper: https://eprint.iacr.org/2022/976.pdf
-  twitter: https://x.com/ParasHQ
-  telegram: https://t.me/parasannouncement
-have_token: true
-tokens:
-  - name: ParasToken
-    symbol: PARAS
-    network: Near
-sunset: false
+- nft

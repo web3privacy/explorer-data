@@ -1,8 +1,2 @@
-name: Venice
-usecase: [AI]
-description: "a generative AI app focused on privacy"
-links:
-  web: https://venice.ai
-  blog: https://venice.ai/blog
-  twitter: https://x.com/askvenice
-  farcaster: venice-ai
+usecase:
+- AI

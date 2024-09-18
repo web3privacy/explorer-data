@@ -1,15 +1,2 @@
-name: ONT ID
 usecase:
-  - did
-description: Bringing trustless identity to Web3 manage your data with ONT ID
-links:
-  web: https://ont.id
-  github: https://github.com/ont-id/
-  docs: https://docs.ont.io/decentralized-identity-and-data/ontid
-
-  blog: https://medium.com/@theontologyteam
-  twitter: https://x.com/OntologyNetwork
-  discord: https://discord.com/invite/4SrrJy2zHe
-  facebook: https://www.facebook.com/ONTnetwork/
-  telegram: https://t.me/OntologyAnnouncements
-have_token: true
+- did

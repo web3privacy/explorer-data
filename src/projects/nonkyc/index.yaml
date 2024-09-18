@@ -1,2 +1,2 @@
-name: NonKYC
-usecase: [defi]
+usecase:
+- defi

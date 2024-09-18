@@ -1,6 +1,2 @@
-name: nodl One
 usecase:
-  - node
-description: A full Bitcoin and Lightning Network node.
-links:
-  web: https://www.nodl.eu/products/nodl-one/
+- node

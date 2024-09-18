@@ -1,2 +1,2 @@
-name: ZKValidator
-usecase: [defi]
+usecase:
+- defi

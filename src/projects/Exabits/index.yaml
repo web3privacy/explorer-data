@@ -1,14 +1,2 @@
-name: Exabits
-usecase: [AI]
-description: "Simplified Access to the Currency of the Future "
-team:
-  anonymous: true
-links:
-  web: https://www.exabits.ai/
-  docs: https://docs.exabits.ai/introduction/what-is-exabits
-  blog: https://blog.exabits.ai/
-  twitter: https://x.com/exa_bits
-  discord: https://discord.com/invite/exabits
-  telegram: https://t.me/+D0CulDl9udZjMWIx
-have_token: false
-sunset: false
+usecase:
+- AI

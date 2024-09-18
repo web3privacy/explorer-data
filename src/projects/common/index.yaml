@@ -1,2 +1,2 @@
-name: Common
-usecase: [defi]
+usecase:
+- defi

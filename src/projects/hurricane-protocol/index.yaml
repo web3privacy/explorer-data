@@ -1,2 +1,2 @@
-name: Hurricane Protocol
-usecase: [defi]
+usecase:
+- defi

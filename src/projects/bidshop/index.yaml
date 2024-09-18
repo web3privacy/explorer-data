@@ -1,16 +1,2 @@
-name: Bidshop
-usecase: [nft]
-description: "The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFTs"
-links:
-  web: https://www.bidshop.io
-  docs: https://bidshop.gitbook.io/bidshop-platform
-  blog: https://medium.com/@BIDSHOP
-  twitter: https://x.com/BIDSHOP_io
-  telegram: https://t.me/BIDSHOP_TG
-have_token: true
-token_link: https://etherscan.io/token/0xA53e968b8d8a5Be52d66e5BB35d9b6B6B5A5CD2F
-tokens:
-  - name: BIDSHOP
-    symbol: BIDS
-    network: Ethereum
-    contract_address: "0xA53e968b8d8a5Be52d66e5BB35d9b6B6B5A5CD2F"
+usecase:
+- nft

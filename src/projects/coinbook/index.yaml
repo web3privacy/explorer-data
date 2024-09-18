@@ -1,2 +1,2 @@
-name: CoinBook
-usecase: [defi]
+usecase:
+- defi

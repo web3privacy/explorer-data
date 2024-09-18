@@ -1,20 +1,2 @@
-name: Polybase
 usecase:
-  - layer-2
-description: "a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs"
-product_version: testnet
-team:
-  - name: Sid Gandhi
-    role: Co-Founder & CEO
-  - name: Calum Moore
-    role: Co-Founder & CTO
-links:
-  web: https://polybase.xyz
-  docs: https://payy.network/docs
-  blog: https://polybaselabs.com/blog
-  twitter: https://twitter.com/polybase_xyz
-project_status:
-  live_status: true
-  version: Testnet (App Payy - beta/testing)
-  testnet: false
-  mainnet: true
+- layer-2

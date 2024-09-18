@@ -1,17 +1,2 @@
-name: Webb
-usecase: [defi]
-ecosystem: Tangle
-description: "an interoperable private bridge"
-technology:
-  type: zk
-  features:
-    - Anchor System
-links:
-  web: https://app.webb.tools/#/tornado
-  github: https://github.com/webb-tools
-  docs: https://docs.manta.network/docs/Introduction
-project_status:
-  live_status: false
-  beta: true
-team:
-  anonymous: true
+usecase:
+- defi

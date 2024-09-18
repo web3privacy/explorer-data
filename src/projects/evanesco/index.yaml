@@ -1,11 +1,2 @@
-name: Evanesco
-usecase: [defi]
-ecosystem: Eva
-description: "A financial protocol platform that combines Layer0 network infrastructure with a private computing framework."
-links:
-  web: https://evanesco.org/
-  github: https://github.com/Evanesco-Labs
-project_status:
-  live_status: true
-team:
-  anonymous: true
+usecase:
+- defi

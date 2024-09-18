@@ -1,19 +1,2 @@
-name: MEILE
 usecase:
-  - vpn
-description: A decentralized VPN Client utilizing the Sentinel Blockchain
-ecosystem: multichain
-links:
-  web: https://mathnodes.com/
-  github: https://github.com/MathNodes
-  blog: https://mathnodes.medium.com/
-  twitter: https://x.com/MathNodes
-team:
-  anonymous: true
-have_token: true
-token_link: https://coinmarketcap.com/currencies/sentinel/
-project_status:
-  live_status: true
-  version: v1.8.0
-  testnet: false
-  mainnet: true
+- vpn

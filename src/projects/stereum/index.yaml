@@ -1,16 +1,2 @@
-name: Stereum
 usecase:
-  - node
-description: "Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features"
-team:
-  anonymous: true
-links:
-  web: https://stereum.net/ethereum-node-setup/
-  github: https://github.com/stereum-dev/ethereum-node
-  docs: https://stereum.net/content/guides
-  twitter: https://twitter.com/stereumdev
-project_status:
-  live_status: true
-  version: v2.1.3
-  testnet: true
-  mainnet: true
+- node

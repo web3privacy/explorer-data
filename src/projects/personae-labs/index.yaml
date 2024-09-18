@@ -1,9 +1,2 @@
-name: Personae Labs
 usecase:
-  - rd
-description: R&D lab investigating the future of human expression online.
-links:
-  web: https://personaelabs.xyz/
-  github: https://github.com/personaelabs
-  twitter: https://x.com/personae_labs
-  discord: https://discord.com/invite/ZVWhZrbkRV
+- rd

@@ -1,9 +1,2 @@
-name: Cirus foundation
 usecase:
-  - data-management
-description: "With your permission, Cirus makes earning from your data easy"
-links:
-  web: https://cirusfoundation.com/your-data/
-  twitter: https://x.com/cirusfoundation
-  discord: https://discord.com/invite/Vbawz2j7AW
-  blog: https://medium.com/the-cirus-foundation
+- data-management

@@ -1,18 +1,2 @@
-name: Fedi
 usecase:
-  - wallets
-description: "Billions of people are unable to hold bitcoin on or off exchanges"
-ecosystem: Bitcoin
-links:
-  web: https://www.fedi.xyz/
-  github: https://github.com/fedibtc
-  docs: https://fedibtc.github.io/fedi-docs/
-  blog: https://www.fedi.xyz/blog
-  twitter: https://twitter.com/fedibtc
-team:
-  anonymous: true
-project_status:
-  live_status: true
-  version:
-  testnet: false
-  mainnet: false
+- wallets

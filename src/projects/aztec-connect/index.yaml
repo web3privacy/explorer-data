@@ -1,8 +1,2 @@
-name: Aztec Connect
-usecase: [bridge]
-links:
-  github: https://github.com/AztecProtocol/aztec-connect-bridges
-  docs: https://docs.aztec.network/misc/aztec_connect_sunset
-  blog: https://aztec.network/blog/private-defi-with-the-aztec-connect-bridge/
-  discord: https://discord.com/invite/aztec
-  education: https://twitter.com/aztecnetwork/status/1575662728395358208
+usecase:
+- bridge

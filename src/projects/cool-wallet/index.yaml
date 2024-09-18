@@ -1,20 +1,2 @@
-name: Cool Wallet
 usecase:
-  - wallets
-description: "Non-custodial wallet"
-team:
-  anonymous: false
-  teammembers:
-    - name: Michael Ou
-      role: CEO
-      link: https://coolbitx.com/about/
-links:
-  web: https://www.coolwallet.io/
-  blog: https://www.coolwallet.io/blog/
-  docs: https://help.coolwallet.io/en/support/solutions
-  twitter: https://twitter.com/coolwallet
-project_status:
-  live_status: true
-  version:
-  testnet: false
-  mainnet: false
+- wallets
