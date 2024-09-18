@@ -1,7 +1,7 @@
 name: Integritee
 categories:
   - infrastructure
-description: 'Integritee is a highly scalable, privacy-enabling network in the Polkadot ecosystem with parachains on Polkadot and Kusama'
+description: "Integritee is a highly scalable, privacy-enabling network in the Polkadot ecosystem with parachains on Polkadot and Kusama"
 team:
   anonymous: true
 links:
@@ -19,3 +19,6 @@ project_status:
   version: testnet
   testnet: true
   mainnet: true
+
+usecases:
+  - infrastructure

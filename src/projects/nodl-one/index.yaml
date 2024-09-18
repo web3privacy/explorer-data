@@ -4,3 +4,6 @@ categories:
 description: A full Bitcoin and Lightning Network node.
 links:
   web: https://www.nodl.eu/products/nodl-one/
+
+usecases:
+  - node

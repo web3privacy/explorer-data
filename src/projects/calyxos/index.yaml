@@ -14,3 +14,6 @@ project_status:
   version: 5.7.1
   testnet: false
   mainnet: true
+
+usecases:
+  - os

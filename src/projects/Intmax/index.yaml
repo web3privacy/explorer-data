@@ -29,3 +29,6 @@ project_status:
   mainnet: false
 
 have_token: false
+
+usecases:
+  - layer-2

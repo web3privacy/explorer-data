@@ -31,3 +31,6 @@ traceability:
   kyc: false
 storage:
   decentralized: true
+
+usecases:
+  - computing-network

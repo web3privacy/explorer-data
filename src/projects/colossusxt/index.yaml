@@ -20,3 +20,6 @@ links:
   telegram: https://t.me/colossuscoin
 team:
   anonymous: false
+
+usecases:
+  - currency

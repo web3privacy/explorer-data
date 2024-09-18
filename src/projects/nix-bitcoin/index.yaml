@@ -11,3 +11,6 @@ project_status:
   version: 0.0.108
   testnet: false
   mainnet: true
+
+usecases:
+  - os

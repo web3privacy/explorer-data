@@ -47,3 +47,6 @@ audits:
     link: https://www.sentz.com/developers/audits
 
 assets_used: [EUSD]
+
+usecases:
+  - dapps

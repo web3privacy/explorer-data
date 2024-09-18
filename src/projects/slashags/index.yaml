@@ -11,3 +11,6 @@ links:
   discord: https://discord.com/invite/DxTBJXvJxn
   telegram: https://t.me/slashtags
 have_token: true
+
+usecases:
+  - did

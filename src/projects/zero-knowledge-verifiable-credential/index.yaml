@@ -5,3 +5,6 @@ description: "Sketching out verifiable credential selective disclosure presentat
 links:
   web: https://github.com/mono-koto/zkcred
 have_token: true
+
+usecases:
+  - did

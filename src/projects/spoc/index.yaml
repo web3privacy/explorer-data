@@ -5,3 +5,6 @@ description: "A privacy system that enables DaaS and creates balance between bus
 links:
   web: https://spoc.com/
   twitter: https://x.com/SPOCme
+
+usecases:
+  - data-management

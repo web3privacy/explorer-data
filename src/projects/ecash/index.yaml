@@ -12,3 +12,6 @@ links:
   telegram: https://t.me/ecash
 team:
   anonymous: true
+
+usecases:
+  - currency

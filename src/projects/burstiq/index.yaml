@@ -20,3 +20,6 @@ project_status:
   live_status: false
   testnet: false
   mainnet: false
+
+usecases:
+  - infrastructure

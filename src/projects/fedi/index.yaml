@@ -15,3 +15,6 @@ project_status:
   live_status: true
   testnet: false
   mainnet: false
+
+usecases:
+  - wallets

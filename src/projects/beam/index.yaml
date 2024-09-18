@@ -15,3 +15,6 @@ project_status:
   version: "Mainnet"
 team:
   anonymous: false
+
+usecases:
+  - currency

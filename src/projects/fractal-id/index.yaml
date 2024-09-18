@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/Fractal_ID
   telegram: https://t.me/Fractal_ID_Support_bot
 have_token: true
+
+usecases:
+  - did

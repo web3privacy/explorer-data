@@ -7,3 +7,6 @@ links:
   blog: https://medium.com/@axiatel
 team:
   anonymous: true
+
+usecases:
+  - hardware

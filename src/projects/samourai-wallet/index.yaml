@@ -9,3 +9,6 @@ links:
 team:
   anonymous: true
 sunset: true
+
+usecases:
+  - wallets

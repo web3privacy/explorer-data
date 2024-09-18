@@ -18,3 +18,6 @@ team:
     link: https://www.dock.io/verifiable-credentials-company
 have_token: true
 token_link: https://coinmarketcap.com/it/currencies/dock/
+
+usecases:
+  - did

@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/NextDotID
   telegram: https://t.me/NextDotIDofficial
 have_token: true
+
+usecases:
+  - did

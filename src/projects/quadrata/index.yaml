@@ -10,3 +10,6 @@ links:
   twitter: https://x.com/QuadrataNetwork
   discord: https://discord.com/invite/67QgzrymHW
 have_token: true
+
+usecases:
+  - did

@@ -19,3 +19,6 @@ links:
   telegram: https://t.me/Oxen_Community
 team:
   anonymous: true
+
+usecases:
+  - currency

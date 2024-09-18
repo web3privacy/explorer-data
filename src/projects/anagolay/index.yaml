@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/AnagolayNet
   discord: https://discord.com/invite/WHe4EuY
 have_token: true
+
+usecases:
+  - did

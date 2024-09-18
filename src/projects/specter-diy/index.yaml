@@ -8,3 +8,6 @@ links:
   github: https://github.com/cryptoadvance/specter-diy/
 team:
   anonymous: false
+
+usecases:
+  - wallets

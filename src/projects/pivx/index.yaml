@@ -17,3 +17,6 @@ links:
   telegram: https://t.me/pivxchat
 team:
   anonymous: false
+
+usecases:
+  - currency

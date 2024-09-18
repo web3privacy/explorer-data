@@ -20,3 +20,6 @@ links:
   telegram: https://t.me/zanocoin
 team:
   anonymous: false
+
+usecases:
+  - currency

@@ -8,3 +8,6 @@ links:
   whitepaper: https://hype-eth.com/whitepaper.pdf
   twitter: https://x.com/TelebridgeERC
   telegram: https://t.me/TeleBridgingBot
+
+usecases:
+  - mixing-service

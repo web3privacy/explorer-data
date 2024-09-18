@@ -46,3 +46,6 @@ project_status:
   version: tbd
   testnet: false
   mainnet: false
+
+usecases:
+  - storage

@@ -18,3 +18,6 @@ links:
   telegram: https://t.me/monero
 team:
   anonymous: true
+
+usecases:
+  - currency

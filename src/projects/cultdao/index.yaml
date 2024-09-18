@@ -49,3 +49,6 @@ audits:
   - name: Solidproof Audit
     link: https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_CultDAO.pdf
     time: "2022-11-11"
+
+usecases:
+  - dao

@@ -7,3 +7,6 @@ links:
   web: https://ywallet.app/
 team:
   anonymous: true
+
+usecases:
+  - wallets

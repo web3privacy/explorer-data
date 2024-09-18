@@ -11,3 +11,6 @@ links:
   facebook: https://www.facebook.com/aesirxio
   telegram: https://t.me/aesirx_official_community
 have_token: true
+
+usecases:
+  - did

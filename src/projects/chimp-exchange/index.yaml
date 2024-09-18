@@ -20,3 +20,6 @@ project_status:
   version: Testnet
   testnet: true
   mainnet: false
+
+usecases:
+  - defi

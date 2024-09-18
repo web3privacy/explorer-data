@@ -17,3 +17,6 @@ project_status:
   version: 17.0.4.5
   testnet: false
   mainnet: false
+
+usecases:
+  - os

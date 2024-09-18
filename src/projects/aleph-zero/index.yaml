@@ -20,3 +20,6 @@ team:
   anonymous: false
   company:
     link: https://alephzero.org/the-team
+
+usecases:
+  - computing-network

@@ -7,3 +7,6 @@ links:
   docs: https://docs.xata.fi/
 team:
   anonymous: true
+
+usecases:
+  - defi

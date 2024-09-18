@@ -6,3 +6,6 @@ links:
   web: https://www.imperiume.io/wallet
 
 sunset: true
+
+usecases:
+  - wallets

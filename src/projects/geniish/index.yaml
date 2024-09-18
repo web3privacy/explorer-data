@@ -9,3 +9,6 @@ links:
   discord: https://discord.com/invite/Mc6Y2jfeEv
 have_token: false
 sunset: false
+
+usecases:
+  - nft

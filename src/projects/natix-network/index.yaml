@@ -9,3 +9,6 @@ links:
   discord: https://discord.com/invite/natixnetwork
   facebook: https://www.facebook.com/NATIX.Network
   telegram: https://t.me/NATIXNetwork
+
+usecases:
+  - data-management

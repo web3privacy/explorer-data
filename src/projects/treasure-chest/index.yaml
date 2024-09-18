@@ -8,3 +8,6 @@ links:
   github: https://github.com/PirateNetwork/PirateWallet-Lite
 team:
   anonymous: true
+
+usecases:
+  - wallets

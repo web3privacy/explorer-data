@@ -69,3 +69,6 @@ audits:
 
 storage:
   decentralized: true
+
+usecases:
+  - browser

@@ -9,3 +9,6 @@ links:
   github: https://codeberg.org/pluja/kycnot.me
 
   twitter: https://x.com/kycnot
+
+usecases:
+  - kyc

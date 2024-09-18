@@ -12,3 +12,6 @@ links:
   facebook: https://www.facebook.com/people/Sentz-App/61550924458469/
 team:
   anonymous: false
+
+usecases:
+  - currency

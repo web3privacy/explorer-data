@@ -36,3 +36,6 @@ tokens:
     symbol: $COTI
     network: Ethereum
     contract_address: "0xDDB3422497E61e13543BeA06989C0789117555c5"
+
+usecases:
+  - layer-2

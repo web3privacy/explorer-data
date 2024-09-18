@@ -10,3 +10,6 @@ links:
   blog: https://mirror.xyz/privacy-scaling-explorations.eth/w7zCHj0xoxIfhoJIxI-ZeYIXwvNatP1t4w0TsqSIBe4
   education: https://x.com/PrivacyScaling/status/1570046655998709764
 have_token: true
+
+usecases:
+  - did

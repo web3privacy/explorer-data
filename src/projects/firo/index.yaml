@@ -16,3 +16,6 @@ links:
   telegram: https://t.me/firoorg
 team:
   anonymous: false
+
+usecases:
+  - currency

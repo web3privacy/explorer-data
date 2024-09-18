@@ -25,3 +25,6 @@ project_status:
   version: ""
   testnet: true
   mainnet: false
+
+usecases:
+  - infrastructure

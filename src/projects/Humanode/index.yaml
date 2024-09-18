@@ -52,3 +52,6 @@ audits:
   - name: Certik
     link: https://skynet.certik.com/projects/humanode
     time: "2023-01-30"
+
+usecases:
+  - did

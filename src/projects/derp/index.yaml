@@ -5,3 +5,6 @@ description: "DERP is an RPC endpoint you can add to your wallet to visualize da
 links:
   web: https://derp.hoprnet.org/
   github: https://github.com/hoprnet/derp
+
+usecases:
+  - rpc

@@ -16,3 +16,6 @@ project_status:
   mainnet: false
 team:
   anonymous: true
+
+usecases:
+  - computing-network

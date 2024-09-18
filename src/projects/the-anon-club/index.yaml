@@ -6,3 +6,6 @@ links:
   web: https://theanonclub.com
   twitter: https://x.com/theanonclub
 sunset: true
+
+usecases:
+  - nft

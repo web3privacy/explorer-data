@@ -17,3 +17,6 @@ project_status:
   version: "2024.3"
   testnet: false
   mainnet: false
+
+usecases:
+  - vpn

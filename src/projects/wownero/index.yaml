@@ -42,3 +42,6 @@ project_status:
   live_status: true
   version: v0.11.1.0
   mainnet: true
+
+usecases:
+  - currency

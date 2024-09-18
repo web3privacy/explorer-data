@@ -10,3 +10,6 @@ team:
 have_token: true
 token_link: https://coinmarketcap.com/currencies/boring-protocol/
 sunset: true
+
+usecases:
+  - vpn

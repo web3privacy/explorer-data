@@ -4,3 +4,6 @@ categories:
 description: The first layer 1 designed to build apps on rich, complex yet private data
 links:
   web: https://www.seneca.tech
+
+usecases:
+  - infrastructure

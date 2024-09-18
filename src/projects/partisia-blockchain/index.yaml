@@ -25,3 +25,6 @@ project_status:
   version: Gamma Mainnet Vers 4.0
   testnet: true
   mainnet: true
+
+usecases:
+  - infrastructure

@@ -13,3 +13,6 @@ links:
   discord: https://discord.com/invite/jFxBtJCMAJ
   telegram: https://t.me/MetaMirror
 have_token: true
+
+usecases:
+  - did

@@ -12,3 +12,6 @@ links:
   twitter: https://x.com/UniRep_protocol
   discord: https://discord.com/invite/VzMMDJmYc5
 have_token: true
+
+usecases:
+  - did

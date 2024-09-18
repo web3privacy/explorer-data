@@ -8,3 +8,6 @@ links:
   web: https://speakapp.me
   blog: https://blog.speakapp.me/
   twitter: https://twitter.com/speakappme
+
+usecases:
+  - messaging

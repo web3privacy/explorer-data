@@ -8,3 +8,6 @@ links:
   github: https://github.com/SolarRepublic
 team:
   anonymous: false
+
+usecases:
+  - wallets

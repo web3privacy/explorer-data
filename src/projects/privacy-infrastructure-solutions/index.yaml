@@ -12,3 +12,6 @@ team:
   anonymous: false
   company:
     link: https://www.chain-reaction.io/about/
+
+usecases:
+  - hardware

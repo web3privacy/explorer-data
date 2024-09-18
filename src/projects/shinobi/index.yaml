@@ -9,3 +9,6 @@ links:
   twitter: https://twitter.com/ShinobiProtocol
   discord: https://discord.com/invite/wm275b6m8d
   telegram: https://t.me/shinobi_protocol
+
+usecases:
+  - bridge

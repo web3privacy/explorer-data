@@ -20,3 +20,6 @@ team:
   version: Mainnet
   testnet: false
   mainnet: false
+
+usecases:
+  - wallets

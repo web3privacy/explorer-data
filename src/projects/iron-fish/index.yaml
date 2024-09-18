@@ -20,3 +20,6 @@ links:
   telegram: https://t.me/ironfishcryptochat
 team:
   anonymous: false
+
+usecases:
+  - currency

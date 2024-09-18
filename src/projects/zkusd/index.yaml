@@ -1,2 +1,5 @@
 name: zkUSD
 categories: [defi]
+
+usecases:
+  - defi

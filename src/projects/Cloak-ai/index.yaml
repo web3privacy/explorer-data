@@ -14,3 +14,5 @@ tokens:
     network: Ethereum
     contract_address: "0x13f7B4581dF403542286563C2F762077B2a368Da"
 sunset: false
+
+usecases: [ai]

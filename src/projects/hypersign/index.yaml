@@ -13,3 +13,6 @@ links:
   discord: https://discord.com/invite/MMnhBYjF4N
   telegram: https://t.me/hypersignchain
 have_token: true
+
+usecases:
+  - did

@@ -4,3 +4,6 @@ categories:
 description: Zerochain is a generic, privacy-protecting layer on top of Substrate.
 links:
   web: https://layerxcom.github.io/zerochain-book/
+
+usecases:
+  - dapps

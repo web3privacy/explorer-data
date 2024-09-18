@@ -11,3 +11,6 @@ links:
   telegram: https://t.me/RoninDojoNode
 team:
   anonymous: true
+
+usecases:
+  - hardware

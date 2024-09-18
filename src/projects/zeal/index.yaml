@@ -7,3 +7,6 @@ links:
   web: https://www.zeal.app/
 team:
   anonymous: true
+
+usecases:
+  - wallets

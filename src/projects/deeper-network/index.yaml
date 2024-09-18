@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/DeeperNetwork
 team:
   anonymous: true
+
+usecases:
+  - hardware

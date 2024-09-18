@@ -23,3 +23,6 @@ project_status:
   version: mainnet
   testnet: false
   mainnet: true
+
+usecases:
+  - messaging

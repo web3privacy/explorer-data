@@ -8,3 +8,6 @@ links:
   github: https://github.com/mymonero
 team:
   anonymous: true
+
+usecases:
+  - wallets

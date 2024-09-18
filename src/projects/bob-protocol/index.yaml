@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/zkbobcommunity
 team:
   anonymous: true
+
+usecases:
+  - currency

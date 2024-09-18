@@ -6,3 +6,6 @@ links:
   web: https://skynetlabs.com
   github: https://github.com/SkynetLabs
 sunset: true
+
+usecases:
+  - storage

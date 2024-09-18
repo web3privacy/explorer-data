@@ -3,3 +3,6 @@ categories: [applications]
 description: "A privacy tool known as a mixer, which we developed to utilize zk-SNARKs technology to increase anonymity."
 links:
   web: https://incognito.anonzk.io
+
+usecases:
+  - mixing-service

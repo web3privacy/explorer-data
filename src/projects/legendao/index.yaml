@@ -13,3 +13,6 @@ tokens:
     symbol: LGND
     network: Cosmos
 sunset: false
+
+usecases:
+  - nft

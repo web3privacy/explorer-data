@@ -32,3 +32,6 @@ traceability:
 default_privacy: true
 storage:
   decentralized: true
+
+usecases:
+  - computing-network

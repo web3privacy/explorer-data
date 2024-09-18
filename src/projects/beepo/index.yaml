@@ -15,3 +15,6 @@ links:
   twitter: https://x.com/beepoapp
   discord: https://discord.com/invite/DhYJGgAVzR
   telegram: https://t.me/beepoapp
+
+usecases:
+  - messaging

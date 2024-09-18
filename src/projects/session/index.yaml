@@ -15,3 +15,6 @@ links:
 team:
   company:
     link: https://www.linkedin.com/company/sessionmessenger/people/
+
+usecases:
+  - messaging

@@ -6,3 +6,6 @@ links:
   github: https://github.com/Sphereon-Opensource/ssi-mobile-wallet
 team:
   anonymous: true
+
+usecases:
+  - wallets

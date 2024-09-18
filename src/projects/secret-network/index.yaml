@@ -85,3 +85,6 @@ project_status:
   testnet: true
   mainnet: true
 have_token: true
+
+usecases:
+  - infrastructure

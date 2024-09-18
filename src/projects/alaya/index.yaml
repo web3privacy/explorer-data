@@ -12,3 +12,6 @@ links:
   blog: https://medium.com/platon-network/manual-alaya-network-0-16-2-spirit-version-upgrade-operation-manual-643d92c4971e
 team:
   anonymous: true
+
+usecases:
+  - computing-network

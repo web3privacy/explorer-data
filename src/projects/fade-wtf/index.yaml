@@ -4,3 +4,6 @@ categories:
 description: Privacy for NFTs powered by Light Protocol.
 links:
   web: http://mint.fade.wtf
+
+usecases:
+  - nft

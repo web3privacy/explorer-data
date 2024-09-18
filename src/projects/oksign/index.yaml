@@ -5,3 +5,6 @@ description: Create, Sign, and Save eSignatures with smart contracts and permiss
 links:
   web: https://www.oksign.app
   twitter: https://x.com/okSign_
+
+usecases:
+  - dapps

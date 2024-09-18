@@ -11,3 +11,6 @@ links:
 team:
   anonymous: false
 have_token: false
+
+usecases:
+  - kyc

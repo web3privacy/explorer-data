@@ -12,3 +12,6 @@ team:
   anonymous: true
 have_token: true
 token_link: https://www.coingecko.com/en/coins/oxen
+
+usecases:
+  - vpn

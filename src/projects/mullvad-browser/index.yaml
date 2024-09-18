@@ -7,3 +7,6 @@ links:
   github: https://github.com/mullvad/mullvad-browser
   blog: https://mullvad.net/it/blog
   twitter: https://x.com/mullvadnet
+
+usecases:
+  - browser

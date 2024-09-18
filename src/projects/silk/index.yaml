@@ -43,3 +43,6 @@ links:
   github: https://github.com/securesecrets/shade
 
   twitter: https://x.com/Silk_Stable
+
+usecases:
+  - currency

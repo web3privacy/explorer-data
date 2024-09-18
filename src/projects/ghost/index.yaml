@@ -20,3 +20,6 @@ links:
   telegram: https://t.me/ghostcoinbymcafee
 team:
   anonymous: true
+
+usecases:
+  - currency

@@ -16,3 +16,6 @@ project_status:
   mainnet: false
 have_token: false
 sunset: false
+
+usecases:
+  - nft

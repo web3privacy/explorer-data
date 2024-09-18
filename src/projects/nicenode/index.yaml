@@ -13,3 +13,6 @@ project_status:
   version: v6.0.5.-alpha
   testnet: false
   mainnet: true
+
+usecases:
+  - node

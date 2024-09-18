@@ -15,3 +15,6 @@ project_status:
   version: Testnet v.034.0
   testnet: true
   mainnet: false
+
+usecases:
+  - infrastructure

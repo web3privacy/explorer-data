@@ -17,3 +17,6 @@ project_status:
   version: stable
   testnet: false
   mainnet: false
+
+usecases:
+  - vpn

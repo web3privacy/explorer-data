@@ -6,3 +6,6 @@ links:
   web: https://www.silentprotocol.org/
 team:
   anonymous: true
+
+usecases:
+  - defi

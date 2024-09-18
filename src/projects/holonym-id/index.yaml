@@ -6,3 +6,6 @@ links:
   web: https://www.holonym.id
   github: https://github.com/holonym-foundation
 have_token: true
+
+usecases:
+  - did

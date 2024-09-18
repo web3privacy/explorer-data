@@ -51,3 +51,5 @@ traceability:
   kyc: false
 third_party_dependency: false
 compliance: false
+
+usecases: [ai]

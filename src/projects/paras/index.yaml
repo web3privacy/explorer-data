@@ -13,3 +13,6 @@ tokens:
     symbol: PARAS
     network: Near
 sunset: false
+
+usecases:
+  - nft

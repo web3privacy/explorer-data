@@ -31,3 +31,6 @@ tokens:
     symbol: $BBL
     network: Ethereum
     contract_address: "0x0a44a7ccea34a7563ba1d45a5f757d0b02281124"
+
+usecases:
+  - bridge

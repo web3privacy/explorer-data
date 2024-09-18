@@ -11,3 +11,6 @@ links:
   docs: https://docs.bandada.pse.dev/
   github: https://github.com/bandada-infra/bandada
   type: semaphore, zk-kit
+
+usecases:
+  - DID

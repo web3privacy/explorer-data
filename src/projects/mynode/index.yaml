@@ -17,3 +17,6 @@ project_status:
   mainnet: true
 have_token: false
 sunset: false
+
+usecases:
+  - node

@@ -15,3 +15,6 @@ links:
   web: https://electriccoin.co/
   blog: https://electriccoin.co/blog/
   twitter: https://x.com/ElectricCoinCo
+
+usecases:
+  - rd

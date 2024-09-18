@@ -13,3 +13,6 @@ links:
   web: https://hashcloak.com
   github: https://github.com/hashcloak
   twitter: https://x.com/hashcloak
+
+usecases:
+  - rd

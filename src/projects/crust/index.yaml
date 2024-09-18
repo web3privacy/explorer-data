@@ -19,3 +19,6 @@ project_status:
   version: Release 6
   testnet: true
   mainnet: true
+
+usecases:
+  - storage

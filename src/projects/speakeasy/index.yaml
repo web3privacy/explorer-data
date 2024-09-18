@@ -5,3 +5,6 @@ description: "Speak easily to a group of friends or a global community. Talk abo
 links:
   web: https://alpha.speakeasy.tech
   twitter: https://x.com/speakeasy_tech
+
+usecases:
+  - messaging

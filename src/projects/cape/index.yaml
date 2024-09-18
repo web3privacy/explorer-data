@@ -11,3 +11,6 @@ project_status:
   testnet: true
 team:
   anonymous: true
+
+usecases:
+  - defi

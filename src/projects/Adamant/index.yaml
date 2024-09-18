@@ -27,3 +27,6 @@ tokens:
   - name: ADMToken
     symbol: $ADM
     network: Ethereum
+
+usecases:
+  - messaging

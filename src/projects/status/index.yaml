@@ -10,3 +10,6 @@ links:
   docs: https://status.app/specs
   blog: https://status.app/blog
   twitter: https://twitter.com/ethstatus
+
+usecases:
+  - messaging

@@ -11,3 +11,6 @@ links:
   blog: https://medium.com/holonym
   twitter: https://x.com/0xHolonym
 have_token: true
+
+usecases:
+  - kyc

@@ -1,7 +1,7 @@
 name: Tonnel Network
 categories:
   - infrastructure
-description: This is the first fully functioning tornado-core implementation on TON blockchain. It is based on circom and snarkjs libraries. 
+description: This is the first fully functioning tornado-core implementation on TON blockchain. It is based on circom and snarkjs libraries.
 team:
   anonymous: true
 links:
@@ -16,3 +16,6 @@ project_status:
   version: Testnet
   testnet: true
   mainnet: false
+
+usecases:
+  - infrastructure

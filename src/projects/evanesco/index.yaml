@@ -9,3 +9,6 @@ project_status:
   live_status: true
 team:
   anonymous: true
+
+usecases:
+  - defi

@@ -15,3 +15,6 @@ links:
   telegram: https://t.me/Decred
 team:
   anonymous: false
+
+usecases:
+  - currency

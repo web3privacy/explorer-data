@@ -16,3 +16,6 @@ links:
 technology:
   type: circom, snarkjs, halo2
   features: ["zkp"]
+
+usecases:
+  - DID

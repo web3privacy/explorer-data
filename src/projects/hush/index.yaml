@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/hushisprivacy
 team:
   anonymous: false
+
+usecases:
+  - currency

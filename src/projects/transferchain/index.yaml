@@ -15,3 +15,6 @@ project_status:
   version: tbd
   testnet: false
   mainnet: true
+
+usecases:
+  - storage

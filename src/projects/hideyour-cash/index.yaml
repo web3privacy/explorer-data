@@ -6,3 +6,6 @@ links:
   web: https://hideyour.cash
   docs: https://docs.tickets.opact.io/tutorial
 sunset: true
+
+usecases:
+  - mixing-service

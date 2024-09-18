@@ -31,3 +31,6 @@ project_status:
 audits:
   - name: 4 Audits from Oct.23 - Jan.24
     link: https://drive.google.com/drive/folders/1Rrht88iUkzpofwl1CvP9gEjqY60BKyFn?usp=drive_link&ref=spark.litprotocol.com
+
+usecases:
+  - infrastructure

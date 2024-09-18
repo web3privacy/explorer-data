@@ -23,3 +23,6 @@ links:
   blog: https://blog.ethportal.net/
   twitter: https://x.com/ethportalnet
   discord: https://discord.com/invite/rHruRsbgeY
+
+usecases:
+  - rpc

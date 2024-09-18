@@ -1,7 +1,7 @@
 name: GotaBit
 categories:
   - infrastructure
-description: 'An open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts'
+description: "An open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts"
 team:
   anonymous: true
 links:
@@ -15,3 +15,6 @@ project_status:
   version: Testnet
   testnet: true
   mainnet: false
+
+usecases:
+  - infrastructure

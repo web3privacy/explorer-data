@@ -8,3 +8,6 @@ links:
   github: https://github.com/zkSNACKs/WalletWasabi
 team:
   anonymous: true
+
+usecases:
+  - wallets

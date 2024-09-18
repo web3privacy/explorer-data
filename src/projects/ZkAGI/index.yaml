@@ -12,3 +12,5 @@ links:
   telegram: https://t.me/ZkAGI_AI
 have_token: false
 sunset: false
+
+usecases: [ai]

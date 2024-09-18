@@ -16,3 +16,6 @@ team:
   anonymous: false
   teammembers:
     - link: https://www.monerujo.io/team.html
+
+usecases:
+  - wallets

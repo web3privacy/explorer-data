@@ -12,3 +12,6 @@ project_status:
   version: unkown
   testnet: false
   mainnet: false
+
+usecases:
+  - mixing-service

@@ -7,3 +7,6 @@ links:
   blog: https://brave.com/blog/
   twitter: https://twitter.com/brave
   facebook: https://www.facebook.com/BraveSoftware/
+
+usecases:
+  - browser

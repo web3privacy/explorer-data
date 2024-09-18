@@ -28,3 +28,6 @@ blockchain_features:
 
 storage:
   decentralized: true
+
+usecases:
+  - infrastructure

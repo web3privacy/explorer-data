@@ -11,3 +11,5 @@ links:
 technology:
   type: halo2
   features: [""]
+
+usecases: infrastructure

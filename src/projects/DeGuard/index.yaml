@@ -24,3 +24,6 @@ project_status:
   mainnet: true
 
 have_token: false
+
+usecases:
+  - VPN

@@ -8,3 +8,6 @@ links:
   blog: https://blogs.opera.com/news/
   twitter: https://twitter.com/opera
   facebook: https://www.facebook.com/Opera/
+
+usecases:
+  - browser

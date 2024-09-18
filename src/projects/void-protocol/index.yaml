@@ -5,3 +5,6 @@ description: "Void protocol gives users control over financial anonymity, as a n
 links:
   web: https://protocolvoid.gitbook.io/void-protocol/
 sunset: true
+
+usecases:
+  - mixing-service

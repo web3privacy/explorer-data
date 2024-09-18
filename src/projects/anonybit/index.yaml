@@ -8,3 +8,6 @@ links:
   blog: https://www.anonybit.io/blog/
   twitter: https://x.com/Anonybit1
 have_token: true
+
+usecases:
+  - did

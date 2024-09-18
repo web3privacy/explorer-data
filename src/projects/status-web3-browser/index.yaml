@@ -8,3 +8,6 @@ links:
   blog: https://status.app/blog
   twitter: https://twitter.com/ethstatus
   facebook: https://www.facebook.com/ethstatus/about
+
+usecases:
+  - browser

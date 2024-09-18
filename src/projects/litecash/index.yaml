@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/litecashgroup
 team:
   anonymous: true
+
+usecases:
+  - currency

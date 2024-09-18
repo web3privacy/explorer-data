@@ -14,3 +14,6 @@ team:
 links:
   web: https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/
   github: https://github.com/hardenedvault/vault1317
+
+usecases:
+  - infrastructure

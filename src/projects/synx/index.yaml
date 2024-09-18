@@ -12,3 +12,6 @@ project_status:
   version: Alpha
   testnet: false
   mainnet: true
+
+usecases:
+  - storage

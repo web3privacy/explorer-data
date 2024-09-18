@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/zcloaknetwork
   discord: https://discord.com/invite/wcKt6MDRJz
 have_token: true
+
+usecases:
+  - did

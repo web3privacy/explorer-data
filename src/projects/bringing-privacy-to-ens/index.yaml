@@ -4,3 +4,6 @@ description: "ChainSafe’s Proposed Integration Using Aztec Network"
 links:
   web: https://www.cerebrum.com
   github: https://github.com/ChainSafe/ens-aztec-privacy/
+
+usecases:
+  - dapps

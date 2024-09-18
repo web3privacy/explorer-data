@@ -7,3 +7,6 @@ links:
 have_token: true
 tokens:
   - symbol: ONI
+
+usecases:
+  - infrastructure

@@ -16,3 +16,6 @@ links:
   telegram: https://t.me/grinprivacy
 team:
   anonymous: true
+
+usecases:
+  - currency

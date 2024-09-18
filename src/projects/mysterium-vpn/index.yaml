@@ -14,3 +14,6 @@ team:
     link: https://www.mysterium.network/team
 have_token: true
 token_link: https://coinmarketcap.com/currencies/mysterium/
+
+usecases:
+  - vpn

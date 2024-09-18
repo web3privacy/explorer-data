@@ -47,3 +47,6 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
+
+usecases:
+  - storage

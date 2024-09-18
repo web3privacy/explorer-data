@@ -12,3 +12,6 @@ links:
   twitter: https://x.com/zkPass
   discord: https://discord.com/invite/zkpass
 have_token: true
+
+usecases:
+  - did

@@ -12,3 +12,6 @@ team:
   anonymous: false
   company:
     link: https://dusk.network/pages/team
+
+usecases:
+  - defi

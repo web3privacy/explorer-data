@@ -4,3 +4,6 @@ description: "New supported format by Arcana preserving privacy within NFT minti
 links:
   web: https://arcana.network/blog/launching-private-nfts-on-arcana/
   github: https://docs.beta.arcana.network/docs/conceptpvtnft/
+
+usecases:
+  - nft

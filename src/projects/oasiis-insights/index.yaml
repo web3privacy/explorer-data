@@ -4,3 +4,6 @@ categories:
 description: Personalized web3 journeys are finally here.
 links:
   web: https://www.oasiisinsights.com
+
+usecases:
+  - data-management

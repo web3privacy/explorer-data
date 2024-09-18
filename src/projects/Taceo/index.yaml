@@ -25,3 +25,6 @@ project_status:
   live_status: true
 
 have_token: false
+
+usecases:
+  - computing-network

@@ -37,3 +37,6 @@ compliance: false
 
 storage:
   decentralized: true
+
+usecases:
+  - did

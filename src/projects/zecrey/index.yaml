@@ -13,3 +13,6 @@ links:
 
 team:
   anonymous: true
+
+usecases:
+  - layer-2

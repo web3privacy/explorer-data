@@ -13,3 +13,6 @@ links:
   facebook: https://www.facebook.com/ONTnetwork/
   telegram: https://t.me/OntologyAnnouncements
 have_token: true
+
+usecases:
+  - did

@@ -20,3 +20,6 @@ project_status:
   version: 4.2.1
   testnet: false
   mainnet: false
+
+usecases:
+  - os

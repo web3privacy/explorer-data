@@ -19,3 +19,6 @@ team:
     link: https://www.kilt.io/team
 have_token: true
 token_link: https://coinmarketcap.com/it/currencies/kiltprotocol/
+
+usecases:
+  - did

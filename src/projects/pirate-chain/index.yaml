@@ -16,3 +16,6 @@ links:
 
 team:
   anonymous: true
+
+usecases:
+  - currency

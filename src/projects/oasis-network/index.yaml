@@ -58,3 +58,6 @@ technology:
     - Confidential compute
 blockchain_features:
   encryption: TEE
+
+usecases:
+  - infrastructure

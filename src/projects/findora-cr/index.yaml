@@ -11,3 +11,6 @@ team:
     link: https://findora.org/team/
 have_token: true
 token_link: https://coinmarketcap.com/it/currencies/findora/
+
+usecases:
+  - did

@@ -15,3 +15,6 @@ team:
   anonymous: false
   company:
     link: https://dappnode.com/pages/about
+
+usecases:
+  - hardware

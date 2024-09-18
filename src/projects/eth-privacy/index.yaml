@@ -4,3 +4,6 @@ categories: [social-and-communications]
 ecosystem: [ethereum]
 links:
   web: https://www.leadingprivacy.com/istanbul
+
+usecases:
+  - events

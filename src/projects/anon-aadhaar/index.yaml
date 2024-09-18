@@ -13,3 +13,6 @@ links:
 technology:
   type: zk, circom, rsa
   features: [""]
+
+usecases:
+  - DID

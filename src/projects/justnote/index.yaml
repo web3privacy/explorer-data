@@ -9,3 +9,6 @@ links:
   twitter: https://x.com/justnotecc
 project_status:
   live_status: true
+
+usecases:
+  - dapps

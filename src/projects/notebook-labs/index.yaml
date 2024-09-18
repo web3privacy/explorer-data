@@ -9,3 +9,6 @@ links:
   docs: https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication
   blog: https://medium.com/@notebook_labs
   twitter: https://twitter.com/ZephyrExchange
+
+usecases:
+  - kyc

@@ -13,3 +13,6 @@ project_status:
   version: v1.11.0
   testnet: false
   mainnet: true
+
+usecases:
+  - node

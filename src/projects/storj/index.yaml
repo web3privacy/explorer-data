@@ -16,3 +16,6 @@ project_status:
   version: Mainnet v1.104.5
   testnet: false
   mainnet: true
+
+usecases:
+  - storage

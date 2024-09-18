@@ -27,3 +27,6 @@ project_status:
 
 traceability:
   kyc: false
+
+usecases:
+  - Storage

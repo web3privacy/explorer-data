@@ -9,3 +9,6 @@ links:
   blog: https://blog.cerebrum.com/
   twitter: https://x.com/cerebruminc
 have_token: true
+
+usecases:
+  - did

@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/epiccash/
 team:
   anonymous: true
+
+usecases:
+  - currency

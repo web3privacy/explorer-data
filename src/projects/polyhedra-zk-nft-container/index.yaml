@@ -10,3 +10,6 @@ links:
   twitter: https://x.com/PolyhedraZK
   discord: https://discord.com/invite/polyhedra-network
 sunset: false
+
+usecases:
+  - nft

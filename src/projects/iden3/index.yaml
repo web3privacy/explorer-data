@@ -12,3 +12,6 @@ links:
   twitter: https://x.com/identhree
   telegram: https://t.me/iden3io
 have_token: true
+
+usecases:
+  - did

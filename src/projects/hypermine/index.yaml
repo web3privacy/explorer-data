@@ -17,3 +17,6 @@ team:
 links:
   web: https://hypermine.co
   blog: https://hypermine.co/blog
+
+usecases:
+  - rd

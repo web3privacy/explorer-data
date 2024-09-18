@@ -14,3 +14,6 @@ project_status:
   version: v0.15.0 BETA
   testnet: false
   mainnet: true
+
+usecases:
+  - storage

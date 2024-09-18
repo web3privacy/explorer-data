@@ -11,3 +11,6 @@ links:
   telegram: https://t.me/boltzhq
 team:
   anonymous: true
+
+usecases:
+  - currency

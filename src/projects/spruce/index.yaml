@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/SpruceID
   discord: https://discord.com/invite/KmQeRhQPYh
 have_token: true
+
+usecases:
+  - did

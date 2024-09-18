@@ -1,2 +1,5 @@
 name: DeFiner
 categories: [defi]
+
+usecases:
+  - defi

@@ -19,3 +19,6 @@ project_status:
   version: Testnet (App Payy - beta/testing)
   testnet: false
   mainnet: true
+
+usecases:
+  - layer-2

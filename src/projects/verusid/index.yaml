@@ -20,3 +20,6 @@ team:
     link: https://verus.io/people
 have_token: true
 token_link: https://coinmarketcap.com/it/currencies/veruscoin/
+
+usecases:
+  - did

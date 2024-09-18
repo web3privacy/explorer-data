@@ -62,3 +62,8 @@ storage:
 
 third_party_dependency: false
 social_trust: Team Multisigs & Dune analytics
+
+usecases:
+  - infrastructure
+  - VPN
+  - Browser

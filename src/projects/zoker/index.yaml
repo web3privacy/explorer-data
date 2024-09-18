@@ -8,3 +8,6 @@ links:
   docs: https://zoker.tech/wp.pdf
 team:
   anonymous: true
+
+usecases:
+  - wallets

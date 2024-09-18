@@ -26,3 +26,6 @@ audits:
   - name: Smart Contract Code Review and Security Analysis Report
     link: https://wp.hacken.io/wp-content/uploads/2021/11/OmniaProtocol_15112021SCAudit_Report.pdf
     time: November, 2021
+
+usecases:
+  - infrastructure

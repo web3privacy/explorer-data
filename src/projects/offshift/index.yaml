@@ -12,3 +12,6 @@ team:
   anonymous: true
   company:
     link: https://offshift.io/#team
+
+usecases:
+  - defi

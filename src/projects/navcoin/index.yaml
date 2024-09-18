@@ -20,3 +20,6 @@ links:
   telegram: https://t.me/navcoin
 team:
   anonymous: true
+
+usecases:
+  - currency

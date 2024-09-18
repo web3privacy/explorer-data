@@ -6,3 +6,6 @@ links:
   web: https://solarlabs.ee
   twitter: https://twitter.com/solardvpn
 have_token: true
+
+usecases:
+  - vpn

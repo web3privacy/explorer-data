@@ -16,3 +16,6 @@ team:
     - name: Haz Æ 41
       role: Founder
       link: https://x.com/hazae41
+
+usecases:
+  - wallets

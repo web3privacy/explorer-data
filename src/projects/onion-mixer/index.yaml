@@ -5,3 +5,6 @@ description: "Onion Mixer is the first decentralized protocol for anonymous cros
 links:
   web: https://onionmixer.gitbook.io/onion-mixer/
 sunset: true
+
+usecases:
+  - mixing-service

@@ -5,3 +5,6 @@ description: "help you regain and maintain your anonymity by mixing your cryptos
 links:
   web: https://unijoin.io
 sunset: true
+
+usecases:
+  - mixing-service

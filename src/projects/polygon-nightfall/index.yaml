@@ -16,3 +16,6 @@ project_status:
   version: testnet
   testnet: true
   mainnet: false
+
+usecases:
+  - layer-2

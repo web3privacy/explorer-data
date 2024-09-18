@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/zerocurrency
 team:
   anonymous: true
+
+usecases:
+  - currency

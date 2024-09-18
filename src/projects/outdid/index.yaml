@@ -8,3 +8,6 @@ links:
   blog: https://medium.com/@getoutdid
   twitter: https://x.com/getoutdid
   telegram: https://t.me/outdid_io
+
+usecases:
+  - kyc

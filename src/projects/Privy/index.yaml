@@ -41,3 +41,6 @@ audits:
   - name: Zellic
     link: https://github.com/Zellic/publications/blob/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf
     time: 2023-08
+
+usecases:
+  - wallets

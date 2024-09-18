@@ -11,3 +11,6 @@ links:
 have_token: true
 tokens:
   - symbol: LIGHT
+
+usecases:
+  - infrastructure

@@ -5,3 +5,6 @@ description: "Allows noun-holders to give feedback on proposals while maintainin
 links:
   web: https://www.heyanoun.xyz
   twitter: https://x.com/HeyAnoun
+
+usecases:
+  - dao

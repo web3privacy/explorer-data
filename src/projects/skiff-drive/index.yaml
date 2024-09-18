@@ -6,3 +6,6 @@ links:
   web: https://skiff.com/drive
   github: https://github.com/skiff-org
 sunset: true
+
+usecases:
+  - storage

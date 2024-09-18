@@ -8,3 +8,6 @@ links:
   docs: https://docs.rpch.net/docs/tutorial-basics/What-is-RPCh
   twitter: https://x.com/RPC_h_
   discord: https://discord.com/invite/VRyTQTNBTy
+
+usecases:
+  - rpc

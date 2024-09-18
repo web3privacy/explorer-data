@@ -1,2 +1,5 @@
 name: StealthPay
 categories: [defi]
+
+usecases:
+  - defi

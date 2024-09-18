@@ -6,3 +6,6 @@ links:
   web: https://cogfi.org
 team:
   anonymous: false
+
+usecases:
+  - currency

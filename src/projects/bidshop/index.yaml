@@ -14,3 +14,6 @@ tokens:
     symbol: BIDS
     network: Ethereum
     contract_address: "0xA53e968b8d8a5Be52d66e5BB35d9b6B6B5A5CD2F"
+
+usecases:
+  - nft

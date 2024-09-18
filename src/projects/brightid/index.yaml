@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/BrightIDProject
   discord: https://discord.com/invite/brightid-596752664906432522
 have_token: true
+
+usecases:
+  - did

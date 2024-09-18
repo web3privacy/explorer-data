@@ -12,3 +12,6 @@ project_status:
   version: "20.0"
   testnet: false
   mainnet: true
+
+usecases:
+  - os

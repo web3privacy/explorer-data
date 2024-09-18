@@ -8,3 +8,6 @@ links:
   blog: https://www.pumabrowser.com/blog
   twitter: https://twitter.com/pumabrowser
   discord: https://discord.com/invite/4frpm84
+
+usecases:
+  - browser

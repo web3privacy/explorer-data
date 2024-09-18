@@ -11,3 +11,6 @@ links:
   telegram: https://t.me/+Mgo-ltakTs80MDkx
   farcaster: "https://farcaster/icebreaker"
 have_token: true
+
+usecases:
+  - did

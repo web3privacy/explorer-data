@@ -20,3 +20,6 @@ team:
     - name: Paul Puey
       role: CEO
       link: https://edge.app/about/
+
+usecases:
+  - wallets

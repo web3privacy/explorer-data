@@ -14,3 +14,6 @@ project_status:
   version: v2.2.14
   testnet: false
   mainnet: false
+
+usecases:
+  - wallets

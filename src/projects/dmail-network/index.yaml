@@ -13,3 +13,6 @@ links:
   discord: https://discord.com/invite/RyYNmdqjF9?ref=blog.dmail.ai
   telegram: https://t.me/dmailofficial
 have_token: true
+
+usecases:
+  - did

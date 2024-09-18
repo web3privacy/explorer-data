@@ -5,3 +5,6 @@ ecosystem: [ethereum]
 links:
   web: https://ethbrno.cz/
   twitter: https://twitter.com/ETHBrno
+
+usecases:
+  - events

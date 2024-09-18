@@ -15,3 +15,6 @@ links:
 technology:
   type: zk-kit, circom, snarkjs
   features: [""]
+
+usecases:
+  - DID

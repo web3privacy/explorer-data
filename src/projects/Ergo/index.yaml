@@ -50,3 +50,6 @@ audits:
   - name: Jean-Philipee Aumasson
     link: https://www.aumasson.jp/
     time: 2019-12
+
+usecases:
+  - infrastructure

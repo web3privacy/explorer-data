@@ -116,3 +116,5 @@ storage:
   # SECURITY ---------------------------------------------------------------------
 third_party_dependency: false
 social_trust: DeepOnion uses a multisig system for governance decisions and has a DAO for community voting.
+
+usecases: currency

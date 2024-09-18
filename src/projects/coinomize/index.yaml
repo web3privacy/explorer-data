@@ -5,3 +5,6 @@ description: "Coinomize helps you protect your privacy and identity and mix your
 links:
   web: https://coinomize.biz
   blog: https://coinomize.biz/blog
+
+usecases:
+  - mixing-service

@@ -20,3 +20,6 @@ links:
 have_token: true
 tokens:
   - symbol: MYST
+
+usecases:
+  - infrastructure
