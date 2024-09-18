@@ -13,4 +13,4 @@ team:
 have_token: false
 
 usecases:
-  - kyc
+  - kyc-solution

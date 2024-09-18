@@ -1,11 +1,10 @@
 id: origin-trail
 name: OriginTrail
-categories: [ applications ]
-description: 'Powering Verifiable Internet for Artificial Intelligence 
-'
+categories: [applications]
+description: "Powering Verifiable Internet for Artificial Intelligence "
 links:
   web: https://origintrail.io/
-  github: https://github.com/OriginTrail 
+  github: https://github.com/OriginTrail
   docs: https://docs.origintrail.io/
   whitepaper: https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf
   blog: https://origintrail.io/blog
@@ -13,5 +12,4 @@ links:
   discord: https://discord.com/invite/QctFuPCMew
   telegram: https://t.me/origintrail
 
-usecases:
-ai
+usecases: [ai]

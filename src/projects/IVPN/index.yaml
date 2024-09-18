@@ -43,4 +43,4 @@ project_status:
 have_token: false
 
 usecases:
-  - VPN
+  - vpn

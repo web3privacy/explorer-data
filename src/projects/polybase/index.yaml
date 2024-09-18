@@ -21,4 +21,4 @@ project_status:
   mainnet: true
 
 usecases:
-  - layer-2
+  - eth-layer-2

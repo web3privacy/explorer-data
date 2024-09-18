@@ -6,4 +6,4 @@ links:
   web: https://github.com/EdenBlockVC/spook
 
 usecases:
-  - rpc
+  - rpc-provider

@@ -19,4 +19,4 @@ project_status:
   mainnet: true
 
 usecases:
-  - os
+  - operation-systems

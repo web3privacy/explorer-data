@@ -16,4 +16,4 @@ have_token: false
 sunset: false
 
 usecases:
-  - nft
+  - nft-community

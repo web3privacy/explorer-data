@@ -35,4 +35,4 @@ tokens:
     contract_address: "0x010700808D59d2bb92257fCafACfe8e5bFF7aB87"
 
 usecases:
-  - Layer-2
+  - eth-layer-2

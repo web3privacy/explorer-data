@@ -65,5 +65,5 @@ social_trust: Team Multisigs & Dune analytics
 
 usecases:
   - infrastructure
-  - VPN
-  - Browser
+  - vpn
+  - browser

@@ -15,4 +15,4 @@ technology:
   features: [""]
 
 usecases:
-  - DID
+  - did

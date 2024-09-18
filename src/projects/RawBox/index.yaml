@@ -30,4 +30,4 @@ project_status:
 have_token: false
 
 usecases:
-  - Hardware
+  - hardware

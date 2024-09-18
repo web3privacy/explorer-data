@@ -10,4 +10,4 @@ links:
   discord: https://discord.com/invite/VRyTQTNBTy
 
 usecases:
-  - rpc
+  - rpc-provider

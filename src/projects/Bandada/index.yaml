@@ -13,4 +13,4 @@ links:
   type: semaphore, zk-kit
 
 usecases:
-  - DID
+  - did

@@ -25,4 +25,4 @@ links:
   discord: https://discord.com/invite/rHruRsbgeY
 
 usecases:
-  - rpc
+  - rpc-provider

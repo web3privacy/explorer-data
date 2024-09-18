@@ -40,4 +40,4 @@ third_party_dependency: false
 compliance: false
 
 usecases:
-  - computing-network
+  - computing

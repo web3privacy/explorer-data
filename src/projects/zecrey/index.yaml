@@ -15,4 +15,4 @@ team:
   anonymous: true
 
 usecases:
-  - layer-2
+  - eth-layer-2

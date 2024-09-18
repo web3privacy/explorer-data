@@ -22,4 +22,4 @@ project_status:
   testnet: false
   mainnet: true
 
-usecases: mixing-service
+usecases: [mixing-service]

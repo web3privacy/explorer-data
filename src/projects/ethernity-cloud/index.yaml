@@ -33,4 +33,4 @@ storage:
   decentralized: true
 
 usecases:
-  - computing-network
+  - computing

@@ -18,4 +18,4 @@ tokens:
     contract_address: "0x45d780cfe839b8a8f292c9e26aa5d1805bc536dc"
 
 usecases:
-  - rpc
+  - rpc-provider

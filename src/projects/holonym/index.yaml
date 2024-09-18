@@ -13,4 +13,4 @@ links:
 have_token: true
 
 usecases:
-  - kyc
+  - kyc-solution

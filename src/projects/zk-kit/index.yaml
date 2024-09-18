@@ -12,4 +12,4 @@ technology:
   type: javascript, circom, solidity, noir
   features: [""]
 
-usecases: infrastructure
+usecases: [infrastructure]

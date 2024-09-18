@@ -18,4 +18,4 @@ technology:
   features: ["zkp"]
 
 usecases:
-  - DID
+  - did

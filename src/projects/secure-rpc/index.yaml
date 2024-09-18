@@ -6,4 +6,4 @@ links:
   web: https://securerpc.com
 
 usecases:
-  - rpc
+  - rpc-provider
