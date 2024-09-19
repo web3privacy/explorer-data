@@ -14934,6 +14934,28 @@
       ]
     },
     {
+      "id": "tuumio",
+      "name": "TuumIO",
+      "categories": [
+        "protocol",
+        "infrastructure"
+      ],
+      "usecases": [
+        "data sovereignty"
+      ],
+      "description": "TuumIO empowers users with decentralized control over their data. Secure, private, and user-friendly, bridging Web2 to Web3 seamlessly.",
+      "product_launch_day": "YYYY-MM-DD",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://tuumio.com/",
+        "whitepaper": "https://tuumio.com/concept-paper",
+        "blog": "https://tuumio.medium.com/",
+        "twitter": "https://x.com/tuum_io"
+      }
+    },
+    {
       "id": "monero-pocketnode",
       "name": "Monero PocketNode",
       "categories": [
