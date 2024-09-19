@@ -1,0 +1,46 @@
+name: 'MindNetwork'
+categories: [ FHE ]
+ecosystem: [ Ethereum ] 
+usecases: [ Restake ]
+description: 'An FHE Restaking Layer for PoS and AI Networks '
+product_launch_day: "2022"
+
+links:
+  web: https://www.mindnetwork.xyz/
+  github: https://github.com/mind-network
+  docs: https://docs.mindnetwork.xyz/minddocs
+  blog: https://mindnetwork.medium.com/
+  twitter: https://x.com/mindnetwork_xyz
+  discord: https://discord.com/invite/UYj94MJdGJ
+  telegram: https://t.me/MindNetwork_xyz
+
+project_phase: Mainnet
+sunset: false
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://docs.mindnetwork.xyz/minddocs/security-and-privacy/mind-network-terms-of-service 
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+social_trust: Multi-Sig & Timelock
+compliance: false
+
+audits:
+  - name: Certik
+    link: https://github.com/mind-network/mind-restaking-contracts/blob/main/audit/Mind_Network_CertiK_Audit_20240711.pdf
+  - name: Offside
+    link: https://github.com/mind-network/mind-sap-contracts/blob/main/audit/Mind%20Network%20SAP-Audit-Final-240312.pdf    
+
+tecnology:
+ type: FHE    
