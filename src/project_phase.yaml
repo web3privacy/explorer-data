@@ -1,0 +1,10 @@
+  - id: mainnet
+    name: Mainnet
+  - id: testnet
+    name: Testnet
+  - id: alpha
+    name: Alpha
+  - id: beta
+    name: Beta
+  - id: mvp
+    name: MVP
