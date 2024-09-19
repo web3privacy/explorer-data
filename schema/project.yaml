@@ -273,6 +273,8 @@ properties:
         type: boolean
       sign_in_type_requirments:
         type: string
+    required:
+      - kyc
   compliance:
     anyOf: [{ type: boolean }, { type: string }]
   storage:
@@ -280,6 +282,7 @@ properties:
     properties:
       decentralized:
         type: boolean
+
   # SECURITY ---------------------------------------------------------------------
   third_party_dependency:
     type: boolean
