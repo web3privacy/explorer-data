@@ -1,8 +1,11 @@
 name: Entropy1729
 categories:
-  - rd
+  - infrastructure
 description: Zero Knowledge Shop.
 links:
   web: https://www.entropy1729.com
   twitter: https://x.com/1729entropy
 sunset: true
+
+usecases:
+  - research-and-development

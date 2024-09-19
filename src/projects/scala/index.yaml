@@ -1,10 +1,12 @@
 name: Scala
 categories:
   - infrastructure
-description: 'A secure, anonymous and mobile-friendly cryptocurrency offering easy-to-use solutions to ensure financial privacy'
+description: "A secure, anonymous and mobile-friendly cryptocurrency offering easy-to-use solutions to ensure financial privacy"
 team:
-  - name: Hayzam
-    role: Founder, Lead Developer
+  anonymous: false
+  teammembers:
+    - name: Hayzam
+      role: Founder, Lead Developer
 links:
   web: https://scalaproject.io
   github: https://github.com/scala-network/
@@ -19,3 +21,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
+
+usecases:
+  - infrastructure

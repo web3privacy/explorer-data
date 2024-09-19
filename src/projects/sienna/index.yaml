@@ -1,12 +1,12 @@
 name: Sienna Network
-categories: [ defi ]
-ecosystem: Secret
+categories: [defi]
+ecosystem: [cecret]
 tokens:
   - name: Sienna Network
     symbol: SIENNA
     network: Secret Network
     contract_address: secret1rgm2m5t530tdzyd99775n6vzumxa5luxcllml4
-description: 'Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem.'
+description: "Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem."
 project_type: DeFi
 product_launch_day: "2022-04-27"
 technology:
@@ -30,9 +30,6 @@ links:
 blockchain_features:
   p2p: false
   encryption: TEE
-  upgradability:
-    enabled: true
-    type: DAO
   opensource: true
   viewing_key: true
   dissapearing_tx: false
@@ -64,12 +61,12 @@ audits:
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  title: Mainet
-  event_type: launch
-  description: V1
-  time: October 2021
-  link: https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
-client_diversability: 
+  - title: Mainet
+    event_type: launch
+    description: V1
+    time: October 2021
+    link: https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
+client_diversability:
   - name: Keplr
     link: https://www.keplr.app/
   - name: Starshell
@@ -86,3 +83,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
+
+usecases:
+  - defi

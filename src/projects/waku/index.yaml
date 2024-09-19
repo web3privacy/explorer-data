@@ -1,9 +1,8 @@
 name: Waku
 categories:
-  - messaging
-ecosystem:
-  - Ethereum
-description: 'the communication layer for Web3. Decentralized communication that scales'
+  - applications
+ecosystem: [ethereum]
+description: "the communication layer for Web3. Decentralized communication that scales"
 
 team:
   anonymous: false
@@ -16,7 +15,7 @@ links:
   blog: https://blog.waku.org
   twitter: https://x.com/waku_org
   discord: https://discord.waku.org
-  farcaster: "@waku"
+  farcaster: "https://farcaster/waku"
 
 project_status:
   live_status: true
@@ -24,7 +23,8 @@ project_status:
   testnet: true
   mainnet: false
 
-licenses: Apache 2.0 and MIT
-
 traceability:
   kyc: false
+
+usecases:
+  - messaging

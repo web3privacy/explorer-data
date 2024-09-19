@@ -5,3 +5,6 @@ description: A privacy-preserving blockchain on Substrate
 links:
   web: https://layerx.co.jp
   github: https://github.com/LayerXcom
+
+usecases:
+  - infrastructure

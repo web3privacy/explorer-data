@@ -1,2 +1,5 @@
 name: Yellow Submarine
 categories: [defi]
+
+usecases:
+  - defi

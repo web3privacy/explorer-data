@@ -1,6 +1,9 @@
 name: Spook
 categories:
-  - rpc
+  - infrastructure
 description: Mixing service using the Nym network to anonymize Ethereum RPC calls.
 links:
   web: https://github.com/EdenBlockVC/spook
+
+usecases:
+  - rpc-provider

@@ -1,6 +1,7 @@
+id: coti
 name: Coti
-categories: [ layer-2 ]
-description: 'EVM L2 solving blockchain privacy with Garbled Circuits'
+categories: [infrastructure]
+description: "EVM L2 solving blockchain privacy with Garbled Circuits"
 
 team:
   anonymous: false
@@ -35,3 +36,6 @@ tokens:
     symbol: $COTI
     network: Ethereum
     contract_address: "0xDDB3422497E61e13543BeA06989C0789117555c5"
+
+usecases:
+  - eth-layer-2

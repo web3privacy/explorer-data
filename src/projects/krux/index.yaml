@@ -1,8 +1,8 @@
 name: Krux
 categories:
-  - wallets
+  - applications
 description: Open-source signing device firmware for Bitcoin
-ecosystem: Bitcoin
+ecosystem: [bitcoin]
 links:
   web: https://selfcustody.github.io/krux/
   github: https://github.com/selfcustody/krux
@@ -15,3 +15,6 @@ project_status:
   version: 24.03.0
   testnet: false
   mainnet: false
+
+usecases:
+  - wallets

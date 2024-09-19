@@ -1,7 +1,10 @@
 name: NFT Fair
 categories:
-  - nft
+  - applications
 description: The do-good NFT launch platform.
 links:
   web: https://www.nftfair.app
 sunset: true
+
+usecases:
+  - nft-community

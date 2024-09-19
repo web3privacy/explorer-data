@@ -1,7 +1,8 @@
+id: dragonx
 name: DragonX
 categories:
-  - currency
-description: 'a Z2Z private by default crypto + messenging'
+  - defi
+description: "a Z2Z private by default crypto + messenging"
 links:
   web: https://dragonx.is/
   block_explorer: https://explorer.dragonx.is/
@@ -25,9 +26,11 @@ blockchain_features:
   revealed_sender: false
   revealed_ammount: false
 default_privacy: true
-tracebility:
-  kyc: false
+
 project_status:
   live_status: true
   testnet: false
   mainnet: true
+
+usecases:
+  - currency

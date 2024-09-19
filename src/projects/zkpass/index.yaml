@@ -1,6 +1,6 @@
 name: zkPass
 categories:
-  - did
+  - applications
 description: Protocol for Private Data based on MPC, ZKP, 3P-TLS
 links:
   web: https://zkpass.org/home
@@ -12,3 +12,6 @@ links:
   twitter: https://x.com/zkPass
   discord: https://discord.com/invite/zkpass
 have_token: true
+
+usecases:
+  - did

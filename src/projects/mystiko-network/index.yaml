@@ -15,3 +15,6 @@ project_status:
   version: Mainnet V1
   testnet: true
   mainnet: true
+
+usecases:
+  - infrastructure

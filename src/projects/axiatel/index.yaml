@@ -1,9 +1,12 @@
 name: AXIAtel
-categories: [ hardware ]
-description: 'a privacy first mobile service for everyone'
-ecosystem: multichain
+categories: [hardware]
+description: "a privacy first mobile service for everyone"
+ecosystem: [multichain]
 links:
   web: https://axiatel.co
   blog: https://medium.com/@axiatel
 team:
   anonymous: true
+
+usecases:
+  - hardware

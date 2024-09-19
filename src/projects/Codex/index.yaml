@@ -1,9 +1,10 @@
+id: codex
 name: Codex
 categories:
-  - Storage
+  - applications
 ecosystem:
-  - Ethereum
-description: 'Codex is a durable, decentralised data storage protocol, created so the world community can preserve its most important knowledge without risk of censorship.'
+  - ethereum
+description: "Codex is a durable, decentralised data storage protocol, created so the world community can preserve its most important knowledge without risk of censorship."
 
 team:
   anonymous: false
@@ -16,7 +17,7 @@ links:
   blog: https://blog.codex.storage
   twitter: https://x.com/codex_storage
   discord: https://discord.com/invite/codex-storage
-  farcaster: "@codexstorage"
+  farcaster: "https://farcaster/@codexstorage"
 
 project_status:
   live_status: true
@@ -24,7 +25,8 @@ project_status:
   testnet: false
   mainnet: false
 
-licenses: Apache 2.0 and MIT
-
 traceability:
   kyc: false
+
+usecases:
+  - storage

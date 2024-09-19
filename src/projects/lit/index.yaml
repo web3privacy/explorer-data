@@ -3,10 +3,16 @@ categories:
   - infrastructure
 description: Builders of apps, wallets, protocols, and AI agents use the Lit network for decentralized signing, encryption, and compute.
 team:
-  - name: David Sneider
-    role: Co-Founder
-  - name: Chris Cassano
-    role: Co-Founder & CTO
+  anonymous: false
+  company:
+    link: https://example-company.com
+  teammembers:
+    - name: David Sneider
+      role: Co-Founder
+      link: https://www.linkedin.com/in/davidsneider
+    - name: Chris Cassano
+      role: Co-Founder & CTO
+      link: https://www.linkedin.com/in/chriscassano
 links:
   web: https://litprotocol.com
   github: https://github.com/LIT-Protocol/
@@ -25,3 +31,6 @@ project_status:
 audits:
   - name: 4 Audits from Oct.23 - Jan.24
     link: https://drive.google.com/drive/folders/1Rrht88iUkzpofwl1CvP9gEjqY60BKyFn?usp=drive_link&ref=spark.litprotocol.com
+
+usecases:
+  - infrastructure

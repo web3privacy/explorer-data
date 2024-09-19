@@ -1,6 +1,6 @@
 name: No Trust Verify
 categories:
-  - rd
+  - infrastructure
 description: Take place to the next generation of privacy infrastructure.
 team:
   anonymous: false
@@ -17,3 +17,6 @@ links:
   blog: https://blog.notrustverify.ch/
   twitter: https://x.com/notrustverif
   telegram: https://t.me/notrustverify
+
+usecases:
+  - research-and-development

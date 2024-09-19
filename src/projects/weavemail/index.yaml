@@ -1,6 +1,9 @@
 name: Weavemail
 categories:
-  - dapps
-description: 'The mail that cannot be lost, censored, or read by Google: Weavemail is mail that you own'
+  - applications
+description: "The mail that cannot be lost, censored, or read by Google: Weavemail is mail that you own"
 links:
   web: https://docs.arweave.org/info/tools/weavemail
+
+usecases:
+  - dapps

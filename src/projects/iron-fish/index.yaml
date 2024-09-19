@@ -1,9 +1,9 @@
 name: Iron Fish
 categories:
-  - currency
+  - defi
 description: The Privacy Platform for Web3
-ecosystem: Iron Fish
-project_status: 
+ecosystem: [iron-fish]
+project_status:
   live status: true
   version: testnet
   testnet: true
@@ -20,3 +20,6 @@ links:
   telegram: https://t.me/ironfishcryptochat
 team:
   anonymous: false
+
+usecases:
+  - currency

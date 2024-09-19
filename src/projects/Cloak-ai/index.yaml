@@ -1,8 +1,9 @@
+id: cloak-ai
 name: Cloak Ai
-categories: [ AI ]
-description: 'The purpose-built Web3 GenAI engine for the privacy conscious individual or business'
+categories: [applications]
+description: "The purpose-built Web3 GenAI engine for the privacy conscious individual or business"
 links:
-  web: https://www.cloakai.xyz/ 
+  web: https://www.cloakai.xyz/
   twitter: https://x.com/Cloak_xyz
   telegram: https://t.me/cloakai
 have_token: true
@@ -12,4 +13,6 @@ tokens:
     symbol: CLOAK
     network: Ethereum
     contract_address: "0x13f7B4581dF403542286563C2F762077B2a368Da"
-sunset: false 
+sunset: false
+
+usecases: [ai]

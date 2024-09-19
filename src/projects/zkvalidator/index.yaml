@@ -1,2 +1,5 @@
 name: ZKValidator
 categories: [defi]
+
+usecases:
+  - defi

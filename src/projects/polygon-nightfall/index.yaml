@@ -1,8 +1,8 @@
 name: Polygon Miden
 categories:
-  - layer-2
-description: 'a zero-knowledge rollup for high-throughput and private applications'
-ecosystem: Polygon
+  - infrastructure
+description: "a zero-knowledge rollup for high-throughput and private applications"
+ecosystem: [polygon]
 links:
   web: https://polygon.technology/polygon-miden
   docs: https://0xpolygonmiden.github.io/miden-base/introduction.html
@@ -16,3 +16,6 @@ project_status:
   version: testnet
   testnet: true
   mainnet: false
+
+usecases:
+  - eth-layer-2

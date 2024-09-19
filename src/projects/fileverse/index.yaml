@@ -1,7 +1,7 @@
 name: Fileverse
 categories:
-  - storage
-description: 'On-chain people and communities deserve on-chain tools for private communication and collaboration'
+  - applications
+description: "On-chain people and communities deserve on-chain tools for private communication and collaboration"
 team:
   anonymous: true
 links:
@@ -13,3 +13,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
+
+usecases:
+  - storage

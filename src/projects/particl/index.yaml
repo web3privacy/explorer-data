@@ -1,21 +1,50 @@
+id: particl
 name: Particl
-categories:
-  - currency
-description: A modern digital currency that respects your rights
-ecosystem: Particl
-project_status: 
-  live_status: true
-  version: Mainnet
-  testnet: true
-  mainnet: true
+categories: [applications]
+ecosystem: [particl]
+description: "The only marketplace for private and unrestricted e-commerce"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Gerlof van Ek
+      link: https://x.com/gerlof
+    - name: Henk Swardt
+      link: https://www.linkedin.com/in/hswardt/
+
 links:
-  web: https://particl.io/coin
+  web: https://particl.io/marketplace
   github: https://github.com/particl
+  whitepaper: https://github.com/particl/whitepaper
+  docs: https://particl.wiki/
   block_explorer: https://explorer.particl.io/
-  whitepaper: https://raw.githubusercontent.com/particl/whitepaper/master/Particl%20Whitepaper%20Draft%20v0.3.pdf
- 
   blog: https://particl.news/
   twitter: https://x.com/particlproject
   telegram: https://t.me/particltg
-team:
-  anonymous: false
+  discord: https://discord.me/particl
+
+sunset: false
+
+tokens:
+  - name: Particl Part
+    symbol: Part
+    network: Particl Blockchain
+    token_link: https://explorer.particl.io/
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+
+privacy_policy:
+  defined: true
+  link: https://academy.particl.io/en/latest/particl-blockchain/blockchain_privacy.html
+
+default_privacy: true
+
+traceability:
+  kyc: false
+third_party_dependency: false
+compliance: false
+
+usecases:
+  - currency

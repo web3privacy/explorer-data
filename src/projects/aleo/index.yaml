@@ -1,6 +1,6 @@
 name: Aleo
-categories: [ infrastructure ]
-description: 'An all-in-one Zero-Knowledge platform. On Aleo you can code, deploy, and run your apps in a single place. Build full-stack, private applications with ZK on layer 1.'
+categories: [infrastructure]
+description: "An all-in-one Zero-Knowledge platform. On Aleo you can code, deploy, and run your apps in a single place. Build full-stack, private applications with ZK on layer 1."
 team:
   anonymous: true
 links:
@@ -28,14 +28,13 @@ blockchain_features:
   dissapearing_tx: true
   connected_tx: true
 client_diversability:
-  name: address
-  link: https://explorer.aleo.org/validators
+  - name: address
+    link: https://explorer.aleo.org/validators
 default_privacy: true
-tracebility:
-  kyc: false
-  sign_in_type_requirements: wallet
-  tracked_data: non
 storage:
   decentralized: true
 compliance: false
 third_party_dependency: false
+
+usecases:
+  - infrastructure

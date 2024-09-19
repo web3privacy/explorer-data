@@ -1,7 +1,7 @@
 name: Demox labs
 categories:
-  - rd
-description: 'Building privacy preserving ZK infrastructure on Aleo'
+  - infrastructure
+description: "Building privacy preserving ZK infrastructure on Aleo"
 team:
   anonymous: false
   teammembers:
@@ -11,3 +11,6 @@ team:
 links:
   web: https://www.demoxlabs.xyz
   twitter: https://x.com/DemoxLabs
+
+usecases:
+  - research-and-development

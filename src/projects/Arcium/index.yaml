@@ -1,6 +1,7 @@
-name: 'Arcium'
-categories: [ FHE ]
-description: 'The first parallelized confidential computing network'
+id: arcium
+name: "Arcium"
+categories: [infrastructure]
+description: "The first parallelized confidential computing network"
 links:
   web: https://arcium.com/
   github: https://github.com/elusiv-privacy

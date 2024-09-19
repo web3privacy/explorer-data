@@ -1,6 +1,6 @@
 name: Synx
 categories:
-  - storage
+  - applications
 description: The Web3 storage platform
 team:
   anonymous: true
@@ -12,3 +12,6 @@ project_status:
   version: Alpha
   testnet: false
   mainnet: true
+
+usecases:
+  - storage

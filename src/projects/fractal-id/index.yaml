@@ -1,7 +1,7 @@
 name: Fractal ID
 categories:
-  - did
-description: 'We help web3 platforms and ecosystems ensure data and regulatory compliance by enabling selective disclosure of verified user data to KYC/AML status'
+  - applications
+description: "We help web3 platforms and ecosystems ensure data and regulatory compliance by enabling selective disclosure of verified user data to KYC/AML status"
 links:
   web: https://web.fractal.id
   github: https://github.com/trustfractal
@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/Fractal_ID
   telegram: https://t.me/Fractal_ID_Support_bot
 have_token: true
+
+usecases:
+  - did

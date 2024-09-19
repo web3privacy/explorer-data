@@ -1,8 +1,8 @@
 name: Email Wallet
 categories:
-  - wallets
-description: 'Use your email address as a crypto wallet, via zk email to keep the protocol decentralized and emails private on-chain'
-ecosystem: Ethereum
+  - applications
+description: "Use your email address as a crypto wallet, via zk email to keep the protocol decentralized and emails private on-chain"
+ecosystem: [ethereum]
 links:
   web: https://emailwallet.org/
   docs: https://zkemail.gitbook.io/zk-email/email-wallet
@@ -12,9 +12,12 @@ team:
   anonymous: true
 technology:
   type: ZK
+  features: [""]
 project_status:
   live_status: true
   version: Testnet
   testnet: true
   mainnet: false
 
+usecases:
+  - wallets

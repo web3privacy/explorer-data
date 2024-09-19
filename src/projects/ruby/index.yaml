@@ -12,3 +12,6 @@ links:
 have_token: true
 tokens:
   - symbol: RUBY
+
+usecases:
+  - infrastructure

@@ -1,2 +1,5 @@
 name: Diva
 categories: [defi]
+
+usecases:
+  - defi

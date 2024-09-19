@@ -1,7 +1,7 @@
 name: Privacy & Security explorations
 categories:
-  - rd
-description: 'We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts'
+  - infrastructure
+description: "We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts"
 team:
   anonymous: false
   teammembers:
@@ -17,3 +17,6 @@ links:
   blog: https://mirror.xyz/privacy-scaling-explorations.eth
   twitter: https://x.com/privacyscaling
   discord: https://discord.com/invite/sF5CT5rzrR
+
+usecases:
+  - research-and-development

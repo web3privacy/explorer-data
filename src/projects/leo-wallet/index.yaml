@@ -1,8 +1,8 @@
 name: Leo wallet
 categories:
-  - wallets
+  - applications
 description: Safe and easy way to interact with the Aleo blockchain
-ecosystem: Aleo
+ecosystem: [aleo]
 links:
   web: https://leo.app/
   github: https://github.com/demox-labs
@@ -20,3 +20,6 @@ team:
   version: Mainnet
   testnet: false
   mainnet: false
+
+usecases:
+  - wallets

@@ -3,16 +3,18 @@ categories:
   - infrastructure
 description: Nym protects communication patterns, IP addresses and metadata for end-users, enterprise and infrastructure operators
 team:
-  - name: Harry Halpin
-    role: CEO and Chairman of Scientific Board
-  - name: Mark Sinclair
-    role: Chief Technology Officer
-  - name: Claudia Diaz
-    role: Chief Scientist
-  - name: Alexis Roussel
-    role: Chief Operating Officer
-  - name: Jaya Klara Brekke
-    role: Chief Strategy Officer  
+  anonymous: false
+  teammembers:
+    - name: Harry Halpin
+      role: CEO and Chairman of Scientific Board
+    - name: Mark Sinclair
+      role: Chief Technology Officer
+    - name: Claudia Diaz
+      role: Chief Scientist
+    - name: Alexis Roussel
+      role: Chief Operating Officer
+    - name: Jaya Klara Brekke
+      role: Chief Strategy Officer
 links:
   web: https://nymtech.net
   github: https://github.com/nymtech
@@ -27,3 +29,6 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
+
+usecases:
+  - infrastructure

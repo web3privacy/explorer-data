@@ -1,8 +1,8 @@
 name: VerusID
 categories:
-  - did
-description: 'for self-sovereign individuals, and conscious organizations that value their data'
-ecosystem: multichain
+  - applications
+description: "for self-sovereign individuals, and conscious organizations that value their data"
+ecosystem: [multichain]
 links:
   web: https://verus.io/verusid
   github: https://github.com/VerusCoin
@@ -20,3 +20,6 @@ team:
     link: https://verus.io/people
 have_token: true
 token_link: https://coinmarketcap.com/it/currencies/veruscoin/
+
+usecases:
+  - did

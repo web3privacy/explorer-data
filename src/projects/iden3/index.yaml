@@ -1,8 +1,8 @@
 name: Iden3
 categories:
-  - did
-description: 'The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each.'
-ecosystem: Ethereum
+  - applications
+description: "The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each."
+ecosystem: [ethereum]
 links:
   web: https://iden3.io
   github: https://github.com/iden3
@@ -12,3 +12,6 @@ links:
   twitter: https://x.com/identhree
   telegram: https://t.me/iden3io
 have_token: true
+
+usecases:
+  - did

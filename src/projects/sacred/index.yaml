@@ -1,2 +1,5 @@
 name: Sacred
 categories: [defi]
+
+usecases:
+  - defi

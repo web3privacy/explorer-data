@@ -1,6 +1,9 @@
 name: Onionclub
 categories:
-  - messaging
+  - applications
 description: Blockchain-based, business & social platform.
 links:
   web: https://onionclub.io
+
+usecases:
+  - messaging

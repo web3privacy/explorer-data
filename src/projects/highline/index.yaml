@@ -5,3 +5,6 @@ description: An execution layer for Ethereum
 links:
   web: https://highline.dev
   github: https://highline.dev/docs/
+
+usecases:
+  - infrastructure

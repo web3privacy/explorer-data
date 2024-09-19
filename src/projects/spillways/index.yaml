@@ -1,6 +1,6 @@
 name: Spillways
-categories: mixing-service
-description: 'Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds'
+categories: [applications]
+description: "Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds"
 team:
   anonymous: false
 links:
@@ -21,3 +21,5 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
+
+usecases: [mixing-service]

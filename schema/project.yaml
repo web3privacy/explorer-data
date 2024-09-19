@@ -8,27 +8,27 @@ properties:
   id:
     type: string
     title: ID
-    description: | 
-      Unique project identifier 
-    pattern: '^[a-z0-9-]+$'
+    description: |
+      Unique project identifier
+    pattern: "^[a-z0-9-]+$"
   #PROJECT DESCRIPTION -------------------------------------------------------------
-  name: 
+  name:
     type: string
   categories:
     type: array
-    items: 
+    items:
       type: string
-      pattern: '^[a-z0-9-]+$'
+      pattern: "^[a-z0-9-]+$"
   assets_used:
     type: array
-    items: 
+    items:
       type: string
-      pattern: '^[A-Z0-9-]+$'
+      pattern: "^[A-Z0-9-]+$"
   ecosystem:
     type: array
-    items: 
+    items:
       type: string
-      pattern: '^[a-z0-9-]+$'
+      pattern: "^[a-z0-9-]+$"
   project_type:
     type: string
   description:
@@ -84,7 +84,7 @@ properties:
               type: string
             link:
               type: string
-              format: uri 
+              format: uri
   funding:
     type: object
     properties:
@@ -215,7 +215,7 @@ properties:
             type: string
           link:
             type: string
-            format: uli
+            format: uri
       p2p:
         type: boolean
       data_masking:
@@ -243,7 +243,7 @@ properties:
         type: string
   client_diversability:
     type: array
-    items: 
+    items:
       type: object
       properties:
         name:
@@ -263,7 +263,7 @@ properties:
         type: string
         format: uri
       data_usage:
-        type: string   
+        type: string
   traceability:
     type: object
     properties:
@@ -273,13 +273,16 @@ properties:
         type: boolean
       sign_in_type_requirments:
         type: string
+    required:
+      - kyc
   compliance:
-    anyOf: [{type: boolean}, {type: string}]   
+    anyOf: [{ type: boolean }, { type: string }]
   storage:
     type: object
     properties:
       decentralized:
         type: boolean
+
   # SECURITY ---------------------------------------------------------------------
   third_party_dependency:
     type: boolean
@@ -310,14 +313,14 @@ properties:
     properties:
       live_status:
         type: boolean
-      version: 
+      version:
         type: string
       testnet:
         type: boolean
       mainnet:
         type: boolean
-  usecases: 
+  usecases:
     type: array
-    items: 
+    items:
       type: string
-      pattern: '^[a-z0-9-]+$'
+      pattern: "^[a-z0-9-]+$"

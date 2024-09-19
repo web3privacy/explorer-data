@@ -6,7 +6,7 @@ tokens:
     symbol: SCRT
     network: Secret Network
     contract_address: secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek
-description: 'the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3'
+description: "the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3"
 project_type: Infrastructure
 product_launch_day: "2020-02-13"
 technology:
@@ -15,7 +15,7 @@ technology:
   features:
     - privacy
     - DeFi
-    - NFTs
+    - applicationss
     - PaaS
 links:
   web: https://scrt.network
@@ -31,9 +31,6 @@ links:
 blockchain_features:
   p2p: false
   encryption: TEE
-  upgradability:
-    enabled: true
-    type: governance/fork
   opensource: true
   viewing_key: true
   dissapearing_tx: false
@@ -65,11 +62,11 @@ compliance: false
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  title: Mainnet
-  event_type: launch
-  description: Mainnet
-  time: Feb 13, 2020
-  link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+  - title: Mainnet
+    event_type: launch
+    description: Mainnet
+    time: Feb 13, 2020
+    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
 client_diversability:
   - name: Keplr
     link: https://www.keplr.app/
@@ -88,3 +85,6 @@ project_status:
   testnet: true
   mainnet: true
 have_token: true
+
+usecases:
+  - infrastructure
