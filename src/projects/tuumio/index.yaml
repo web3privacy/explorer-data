@@ -1,0 +1,19 @@
+# BASIC DATA ------------------------------------------------------------------------------------------------------------------------
+
+name: TuumIO
+categories: [ protocol, infrastructure ]
+usecases: [ data sovereignty ]
+description: 'TuumIO empowers users with decentralized control over their data. Secure, private, and user-friendly, bridging Web2 to Web3 seamlessly.'
+product_launch_day: "YYYY-MM-DD"
+
+# TEAM - focus on C-Level (CEO) personnel if information public available otherwise "anonymous: true" -------------------------------
+
+team:
+  anonymous: true
+# LINKS - focus: Web, Github, Docs, Blog, Whitepaper, Twitter -----------------------------------------------------------------------
+
+links:
+  web: https://tuumio.com/
+  whitepaper: https://tuumio.com/concept-paper
+  blog: https://tuumio.medium.com/
+  twitter: https://x.com/tuum_io
