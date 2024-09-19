@@ -1,10 +1,13 @@
 name: Specter-DIY
 categories:
-  - wallets
-description: 'DIY airgapped hardware wallet that uses QR codes for communication with the host'
-ecosystem: Bitcoin
+  - applications
+description: "DIY airgapped hardware wallet that uses QR codes for communication with the host"
+ecosystem: [bitcoin]
 links:
   web: https://specter.solutions/hardware
   github: https://github.com/cryptoadvance/specter-diy/
 team:
   anonymous: false
+
+usecases:
+  - wallets

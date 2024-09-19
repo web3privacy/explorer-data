@@ -1,6 +1,6 @@
 name: SPKZ
 categories:
-  - dapps
+  - applications
 description: The first fully decentralized web3 community/chat platform.
 links:
   web: https://spkz.io
@@ -9,3 +9,6 @@ links:
 
   blog: https://medium.com/arianee/why-we-are-building-spkz-c856e251c899
   twitter: https://x.com/SPKZ_io
+
+usecases:
+  - dapps

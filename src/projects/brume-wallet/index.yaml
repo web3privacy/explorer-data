@@ -1,7 +1,7 @@
 name: Brume wallet
-categories: [ wallets ]
-ecosystem: Ethereum
-description: 'Tor based wallet for Ethereum'
+categories: [applications]
+ecosystem: [ethereum]
+description: "Tor based wallet for Ethereum"
 project_type: Wallets
 product_launch_day: "2022-11-13"
 technology:
@@ -18,9 +18,6 @@ links:
 blockchain_features:
   p2p: true
   encryption: Tor
-  upgradability:
-    enabled: true
-    type: centralized
   opensource: true
   frontend_anonymity: Tor
   identity_integration: Profiles
@@ -45,10 +42,10 @@ third_party_dependency: false
 compliance: compliant
 
 history:
-  title: Hackaton
-  event_type: Hackaton
-  description: Hackaton project
-  time: Nov 13, 2022
+  - title: Hackaton
+    event_type: Hackaton
+    description: Hackaton project
+    time: Nov 13, 2022
 default_privacy: true
 
 project_status:
@@ -56,3 +53,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
+
+usecases:
+  - wallets

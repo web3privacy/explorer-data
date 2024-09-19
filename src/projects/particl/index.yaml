@@ -1,9 +1,8 @@
+id: particl
 name: Particl
-categories: [ dapps ]
-ecosystem: [ Particl ]
-usecases: [ marketplace ]
-description: 'The only marketplace for private and unrestricted e-commerce'
-product_lunch_day: "2017"
+categories: [applications]
+ecosystem: [particl]
+description: "The only marketplace for private and unrestricted e-commerce"
 
 team:
   anonymous: false
@@ -19,12 +18,11 @@ links:
   whitepaper: https://github.com/particl/whitepaper
   docs: https://particl.wiki/
   block_explorer: https://explorer.particl.io/
-  blog: https://particl.news/ 
+  blog: https://particl.news/
   twitter: https://x.com/particlproject
   telegram: https://t.me/particltg
   discord: https://discord.me/particl
 
-project_phase: Alpha
 sunset: false
 
 tokens:
@@ -32,12 +30,10 @@ tokens:
     symbol: Part
     network: Particl Blockchain
     token_link: https://explorer.particl.io/
- 
+
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
 
 privacy_policy:
   defined: true
@@ -49,3 +45,6 @@ traceability:
   kyc: false
 third_party_dependency: false
 compliance: false
+
+usecases:
+  - currency

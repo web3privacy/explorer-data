@@ -1,6 +1,6 @@
 name: LunarDAO
 categories:
-  - dao
+  - applications
 description: DAO fostering R&D and investments within Lunarpunk movement
 links:
   web: https://lunardao.net
@@ -10,3 +10,6 @@ links:
   blog: https://lunardao.net/blog.html
   twitter: https://x.com/lunarpunksquad
   telegram: https://t.me/LunarDAO_Official
+
+usecases:
+  - dao

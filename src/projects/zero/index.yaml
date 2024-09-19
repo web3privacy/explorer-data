@@ -1,6 +1,6 @@
 name: Zero
 categories:
-  - currency
+  - defi
 description: Private transactions
 links:
   web: https://zero.directory
@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/zerocurrency
 team:
   anonymous: true
+
+usecases:
+  - currency

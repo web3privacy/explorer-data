@@ -1,7 +1,7 @@
 name: Quadrata
 categories:
-  - did
-description: ' Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain'
+  - applications
+description: " Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain"
 links:
   web: https://quadrata.com
   docs: https://docs.quadrata.com/integration
@@ -10,3 +10,6 @@ links:
   twitter: https://x.com/QuadrataNetwork
   discord: https://discord.com/invite/67QgzrymHW
 have_token: true
+
+usecases:
+  - did

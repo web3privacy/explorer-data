@@ -1,2 +1,5 @@
 name: Fairy
 categories: [defi]
+
+usecases:
+  - defi

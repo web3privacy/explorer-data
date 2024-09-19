@@ -1,8 +1,8 @@
 name: Decred
 categories:
-  - currency
-description: 'A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development'
-ecosystem: Lighting Network
+  - defi
+description: "A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development"
+ecosystem: [lighting-network]
 links:
   web: https://decred.org
   github: https://docs.decred.org
@@ -15,3 +15,6 @@ links:
   telegram: https://t.me/Decred
 team:
   anonymous: false
+
+usecases:
+  - currency

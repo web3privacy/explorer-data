@@ -1,7 +1,7 @@
 name: Pigeon Communicator
 categories:
-  - messaging
-description: 'Blockchain-based, trustless, censorship-resistant decentralized messaging'
+  - social-and-communications
+description: "Blockchain-based, trustless, censorship-resistant decentralized messaging"
 team:
   anonymous: true
 links:
@@ -19,3 +19,6 @@ project_status:
   version: Testnet
   testnet: true
   mainnet: false
+
+usecases:
+  - messaging

@@ -1,13 +1,15 @@
 name: burstIQ
-categories: [ infrastructure ]
-description: 'Fuel your digital-first strategy with human health data'
+categories: [infrastructure]
+description: "Fuel your digital-first strategy with human health data"
 team:
-  - name: Frank Ricotta
-    role: CEO
-  - name: Brian Jackson
-    role: COO
-  - name: Tyson Henry
-    role: CTO
+  anonymous: false
+  teammembers:
+    - name: Frank Ricotta
+      role: CEO
+    - name: Brian Jackson
+      role: COO
+    - name: Tyson Henry
+      role: CTO
 links:
   web: https://burstiq.com
   twitter: https://twitter.com/BurstIQ
@@ -16,6 +18,8 @@ tokens:
   - symbol: BIQ
 project_status:
   live_status: false
-  version: false
   testnet: false
   mainnet: false
+
+usecases:
+  - infrastructure

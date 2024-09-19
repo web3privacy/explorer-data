@@ -1,7 +1,7 @@
 name: Discreet Labs
 categories:
-  - rd
-description: 'Build blockchain systems for a more private, self-sovereign future on Fidora'
+  - infrastructure
+description: "Build blockchain systems for a more private, self-sovereign future on Fidora"
 team:
   anonymous: false
   teammembers:
@@ -14,3 +14,6 @@ team:
 links:
   web: https://discreetlabs.io
   twitter: https://x.com/discreet_labs
+
+usecases:
+  - research-and-development

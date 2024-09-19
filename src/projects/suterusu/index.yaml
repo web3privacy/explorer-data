@@ -1,10 +1,13 @@
 name: Suterusu
 categories:
   - infrastructure
-description: 'A suite of privacy-preserving services to obfuscate transactional and asset information'
+description: "A suite of privacy-preserving services to obfuscate transactional and asset information"
 links:
   web: https://suterusu.io
   github: https://github.com/suterusu-team
 have_token: true
 tokens:
   - symbol: SUTER
+
+usecases:
+  - infrastructure

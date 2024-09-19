@@ -1,7 +1,7 @@
 name: Ethereum Portal Network
 categories:
-  - rpc
-description: 'Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests'
+  - infrastructure
+description: "Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests"
 team:
   anonymous: false
   teammembers:
@@ -23,3 +23,6 @@ links:
   blog: https://blog.ethportal.net/
   twitter: https://x.com/ethportalnet
   discord: https://discord.com/invite/rHruRsbgeY
+
+usecases:
+  - rpc-provider

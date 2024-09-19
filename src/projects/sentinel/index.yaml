@@ -1,8 +1,8 @@
 name: Sentinel
 categories:
-  - vpn
-description: 'A global network of autonomous dVPN applications that enable private and censorship resistant internet access'
-ecosystem: Cosmos
+  - applications
+description: "A global network of autonomous dVPN applications that enable private and censorship resistant internet access"
+ecosystem: [cosmos]
 links:
   web: https://sentinel.co
   github: https://github.com/sentinel-official
@@ -18,3 +18,6 @@ project_status:
   version: stable
   testnet: false
   mainnet: false
+
+usecases:
+  - vpn

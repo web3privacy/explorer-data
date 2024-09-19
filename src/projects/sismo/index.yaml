@@ -1,7 +1,7 @@
 name: Sismo
 categories:
-  - did
-description: 'a modular protocol issuing ZK Badges for reputation portability and aggregation'
+  - applications
+description: "a modular protocol issuing ZK Badges for reputation portability and aggregation"
 links:
   web: https://www.sismo.io/
   github: https://github.com/sismo-core
@@ -11,3 +11,6 @@ links:
   twitter: https://x.com/sismo_eth
   discord: https://discord.com/invite/xKTMeRUX6u
 have_token: true
+
+usecases:
+  - did

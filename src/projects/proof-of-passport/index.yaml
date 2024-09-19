@@ -1,6 +1,6 @@
 name: Proof of Passport
 categories:
-  - kyc
+  - applications
 description: Passport proving protocol using zk-SNARKs
 links:
   web: https://proofofpassport.com/
@@ -11,3 +11,6 @@ links:
 team:
   anonymous: false
 have_token: false
+
+usecases:
+  - kyc-solution

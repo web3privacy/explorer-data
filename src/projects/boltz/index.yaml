@@ -1,6 +1,6 @@
 name: Boltz
-categories: [ currency ]
-description: 'Privacy first, account-free crypto exchange'
+categories: [defi]
+description: "Privacy first, account-free crypto exchange"
 links:
   web: https://boltz.exchange
   github: https://github.com/BoltzExchange/
@@ -11,3 +11,6 @@ links:
   telegram: https://t.me/boltzhq
 team:
   anonymous: true
+
+usecases:
+  - currency

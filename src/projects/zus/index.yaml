@@ -1,7 +1,7 @@
 name: Züs
 categories:
-  - storage
-description: 'A high-performance storage network powering limitless applications'
+  - applications
+description: "A high-performance storage network powering limitless applications"
 team:
   anonymous: true
 links:
@@ -26,3 +26,6 @@ tokens:
     symbol: ZCN
     network: Ethereum
     contract_address: "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+
+usecases:
+  - storage

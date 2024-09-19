@@ -1,7 +1,10 @@
 name: Hackers Congress Paralelní Polis
 description: "the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world."
-categories: [events]
+categories: [social-and-communications]
 links:
   web: https://last-shot.hcpp.cz/
   twitter: https://twitter.com/institutecrypto
   telegram: https://t.me/HCCP20
+
+usecases:
+  - events

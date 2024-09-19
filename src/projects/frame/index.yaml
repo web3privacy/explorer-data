@@ -1,8 +1,8 @@
 name: Frame
-categories: 
-  - wallets
-ecosystem: Ethereum
-description: 'A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux.'
+categories:
+  - applications
+ecosystem: [ethereum]
+description: "A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux."
 links:
   web: https://frame.sh/
   docs: https://docs.frame.sh/
@@ -17,3 +17,6 @@ project_status:
   version: 0.6.9
   testnet: false
   mainnet: false
+
+usecases:
+  - wallets

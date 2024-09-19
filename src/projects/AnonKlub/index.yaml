@@ -1,7 +1,12 @@
+id: anon-club
 name: AnonKlub
-categories: [ DID ]
-description: 'AnonKlub is a tool designed for Ethereum developers that allows for anonymous proof of Ethereum address ownership.' 
-project_status: testnet
+categories: [applications]
+description: "AnonKlub is a tool designed for Ethereum developers that allows for anonymous proof of Ethereum address ownership."
+project_status:
+  live_status: false
+  version: testnet
+  testnet: true
+  mainnet: false
 team:
   anonymous: true
 links:
@@ -10,3 +15,7 @@ links:
   github: https://github.com/anonklub/anonklub
 technology:
   type: circom, snarkjs, halo2
+  features: ["zkp"]
+
+usecases:
+  - did

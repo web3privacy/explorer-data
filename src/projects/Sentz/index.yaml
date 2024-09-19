@@ -1,8 +1,7 @@
+id: sentz
 name: Sentz
-categories: [ dapps ]
-usecases: [ payment ]
-description: 'Global payments app for Freelancers & Creators'
-product_lunch_day: "2022"
+categories: [applications]
+description: "Global payments app for Freelancers & Creators"
 
 team:
   anonymous: false
@@ -21,7 +20,6 @@ links:
   twitter: https://x.com/sentzapp
   discord: https://discord.com/invite/mobilecoin
 
-project_phase: Mainet
 sunset: false
 
 tokens:
@@ -29,13 +27,9 @@ tokens:
     symbol: $MOB
     token_link: https://www.coingecko.com/en/coins/mobilecoin
 
-
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-  upgradability:
-    enabled: true
-
 privacy_policy:
   defined: true
   link: https://www.sentz.com/privacy-policy
@@ -52,5 +46,7 @@ audits:
   - name: Trail of Bits
     link: https://www.sentz.com/developers/audits
 
-assets_used: [ eUSD ] 
+assets_used: [EUSD]
 
+usecases:
+  - dapps

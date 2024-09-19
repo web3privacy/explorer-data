@@ -1,6 +1,6 @@
 name: DJIB
 categories:
-  - storage
+  - applications
 description: DJIB is the next generation Web3 storage
 team:
   anonymous: false
@@ -21,3 +21,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
+
+usecases:
+  - storage

@@ -8,3 +8,6 @@ links:
 have_token: true
 tokens:
   - symbol: OBT
+
+usecases:
+  - infrastructure

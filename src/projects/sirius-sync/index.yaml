@@ -1,6 +1,6 @@
 name: Sirius Sync
 categories:
-  - dapps
+  - applications
 description: Web3 Social Ecosystem
 links:
   web: https://siriussync.io
@@ -9,3 +9,6 @@ links:
   blog: https://medium.com/@siriussyncrealm
   twitter: https://x.com/siriussyncrealm
   telegram: https://t.me/siriussynccommunity
+
+usecases:
+  - dapps

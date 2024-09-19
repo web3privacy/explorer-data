@@ -1,5 +1,8 @@
 name: Anon/Nero
-categories: [ wallets ]
-description: 'Private wallet'
+categories: [applications]
+description: "Private wallet"
 links:
   web: https://t.me/anoneroapks
+
+usecases:
+  - wallets

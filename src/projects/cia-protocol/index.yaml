@@ -1,2 +1,5 @@
 name: CIA protocol
 categories: [defi]
+
+usecases:
+  - defi

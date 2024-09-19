@@ -1,6 +1,6 @@
 name: Relayz
 categories:
-  - messaging
+  - applications
 description: Hyper-secure, private communications protocol for Web3
 links:
   web: https://relayz.io
@@ -8,3 +8,6 @@ links:
   twitter: https://x.com/RelayzOfficial
   discord: https://discord.com/invite/sMbZ2kxZKk
   telegram: https://t.me/RelayzOfficial
+
+usecases:
+  - messaging

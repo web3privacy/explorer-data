@@ -1,2 +1,5 @@
 name: Umbra
 categories: [defi]
+
+usecases:
+  - defi

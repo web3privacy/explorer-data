@@ -1,7 +1,10 @@
 name: Speakeasy
 categories:
-  - messaging
-description: 'Speak easily to a group of friends or a global community. Talk about what you want. Surveillance free. Censorship proof'
+  - applications
+description: "Speak easily to a group of friends or a global community. Talk about what you want. Surveillance free. Censorship proof"
 links:
   web: https://alpha.speakeasy.tech
   twitter: https://x.com/speakeasy_tech
+
+usecases:
+  - messaging

@@ -1,7 +1,7 @@
 name: Mask
 categories:
-  - dapps
-description: 'brings privacy and benefits from Web3 to social media like Facebook & Twitter - with an open-sourced browser extension'
+  - applications
+description: "brings privacy and benefits from Web3 to social media like Facebook & Twitter - with an open-sourced browser extension"
 links:
   web: https://mask.io
   github: https://github.com/DimensionDev/Maskbook
@@ -12,3 +12,6 @@ links:
   discord: https://discord.com/invite/4SVXvj7
   facebook: https://www.facebook.com/masknetwork
   telegram: https://t.me/maskbook_group#telegram
+
+usecases:
+  - dapps

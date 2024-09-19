@@ -1,12 +1,13 @@
+id: kinto
 name: Kinto
-categories: [ Layer-2 ]
-description: 'The safety-first L2 for Finance'
+categories: [infrastructure]
+description: "The safety-first L2 for Finance"
 
 team:
   anonymous: false
   teammembers:
     - name: Ramon Recuero
-      role: CEO 
+      role: CEO
       link: https://x.com/ramonrecuero
 
 links:
@@ -32,3 +33,6 @@ tokens:
     symbol: $KINTO
     network: Kinto
     contract_address: "0x010700808D59d2bb92257fCafACfe8e5bFF7aB87"
+
+usecases:
+  - eth-layer-2

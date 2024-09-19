@@ -1,20 +1,20 @@
 name: Shade Protocol
-categories: [ defi ]
-ecosystem: Secret
+categories: [defi]
+ecosystem: [secret]
 tokens:
   - name: Shade Protocol
     symbol: SHD
     network: Secret Network
     contract_address: secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm
-description: 'Super app for private DeFi'
+description: "Super app for private DeFi"
 project_type: DeFi
 product_launch_day: "2022-02-21"
 technology:
   type: TEE
   name: Trusted execution environment
   features:
-   - private
-   - DeFi
+    - private
+    - DeFi
 links:
   web: https://shadeprotocol.io/
   twitter: https://twitter.com/Shade_Protocol
@@ -29,9 +29,6 @@ links:
 blockchain_features:
   p2p: false
   encryption: TEE
-  upgradability:
-    enabled: true
-    type: multisig
   opensource: true
   viewing_key: true
   dissapearing_tx: false
@@ -76,12 +73,12 @@ audits:
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  title: Mainet
-  event_type: launch
-  description: Airdrop
-  time: Feb 21, 2022
-  link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
-client_diversability: 
+  - title: Mainet
+    event_type: launch
+    description: Airdrop
+    time: Feb 21, 2022
+    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+client_diversability:
   - name: Keplr
     link: https://www.keplr.app/
   - name: Starshell
@@ -98,3 +95,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
+
+usecases:
+  - defi

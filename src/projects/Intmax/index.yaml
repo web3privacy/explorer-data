@@ -1,9 +1,10 @@
+id: intmax
 name: Intmax
-categories:  
-  - layer-2  
-ecosystem: [ Ethereum ]
+categories:
+  - infrastructure
+ecosystem: [ethereum]
 project_type: Layer2 zk-rollup
-description: 'A zkRollup with a stateless architecture. Achieving hyper-scaling and privacy at the same time.'
+description: "A zkRollup with a stateless architecture. Achieving hyper-scaling and privacy at the same time."
 
 team:
   anonymous: false
@@ -11,7 +12,7 @@ team:
     - name: Leona Hioki
       role: Co-founder
       link: https://x.com/HiokiLeona
-    
+
 links:
   web: https://www.intmax.io/
   github: https://github.com/InternetMaximalism
@@ -25,6 +26,9 @@ project_status:
   live_status: true
   version: testnet2
   testnet: true
-  mainnet: false        
+  mainnet: false
 
-have_token: false  
+have_token: false
+
+usecases:
+  - eth-layer-2

@@ -1,6 +1,6 @@
 name: Universal Reputation
 categories:
-  - did
+  - applications
 description: a private and non-repudiable reputation system
 links:
   web: https://developer.unirep.io
@@ -12,3 +12,6 @@ links:
   twitter: https://x.com/UniRep_protocol
   discord: https://discord.com/invite/VzMMDJmYc5
 have_token: true
+
+usecases:
+  - did

@@ -1,6 +1,7 @@
+id: exabits
 name: Exabits
-categories: [ AI ]
-description: 'Simplified Access to the Currency of the Future '
+categories: [applications]
+description: "Simplified Access to the Currency of the Future "
 team:
   anonymous: true
 links:
@@ -11,4 +12,6 @@ links:
   discord: https://discord.com/invite/exabits
   telegram: https://t.me/+D0CulDl9udZjMWIx
 have_token: false
-sunset: false  
+sunset: false
+
+usecases: [ai]

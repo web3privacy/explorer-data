@@ -19,3 +19,6 @@ project_status:
   version: Testnet Horus2.0
   testnet: true
   mainnet: false
+
+usecases:
+  - infrastructure

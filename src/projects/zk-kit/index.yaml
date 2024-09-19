@@ -1,7 +1,7 @@
 name: zk-kit
-categories: infrastructure
-description: 'A set of reusable libraries for zero-knowledge technologies.'
-project_status: 
+categories: ["infrastructure"]
+description: "A set of reusable libraries for zero-knowledge technologies."
+project_status:
   live_status: true
 team:
   anonymous: true
@@ -10,3 +10,6 @@ links:
   web: https://zkkit.pse.dev/
 technology:
   type: javascript, circom, solidity, noir
+  features: [""]
+
+usecases: [infrastructure]

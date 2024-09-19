@@ -1,2 +1,5 @@
 name: Common
 categories: [defi]
+
+usecases:
+  - defi

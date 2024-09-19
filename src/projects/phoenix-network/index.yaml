@@ -1,6 +1,6 @@
 name: Phoenix
 categories:
-  - computing-network
+  - infrastructure
 description: blockchain infrastructure empowering intelligence web3 applications.
 links:
   web: https://phoenix.global
@@ -8,11 +8,14 @@ links:
   twitter: https://x.com/Phoenix_Chain
   telegram: https://t.me/APEXcommunity
   blog: https://phoenixglobal.medium.com/
-ecosystem: multichain
-project_status: 
+ecosystem: [multichain]
+project_status:
   live_status: true
   version: testnet
   testnet: true
   mainnet: false
 team:
   anonymous: true
+
+usecases:
+  - computing

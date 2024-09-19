@@ -1,7 +1,8 @@
 name: Anoma
-categories: [ infrastructure ]
-description: 'An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement'
-project_status: testnet
+categories: [infrastructure]
+description: "An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement"
+project_status:
+  version: "testnet"
 team:
   anonymous: false
   teammembers:
@@ -24,7 +25,9 @@ technology:
     - privacy for content
 blockchain_features:
   p2p: true
-tracebility:
-  kyc: false
+
 storage:
   decentralized: true
+
+usecases:
+  - infrastructure

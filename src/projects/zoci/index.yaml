@@ -1,6 +1,6 @@
 name: Zoci
 categories:
-  - rpc
+  - infrastructure
 description: Private RPC services
 links:
   web: https://zoci.io
@@ -16,3 +16,6 @@ tokens:
     symbol: ZOCI
     network: Arbitrum
     contract_address: "0x45d780cfe839b8a8f292c9e26aa5d1805bc536dc"
+
+usecases:
+  - rpc-provider

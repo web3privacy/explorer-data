@@ -1,6 +1,6 @@
 name: Hush
 categories:
-  - currency
+  - defi
 description: Private cryptocurrency using zero knowledge mathematics
 links:
   web: https://hush.is
@@ -13,3 +13,6 @@ links:
   telegram: https://t.me/hushisprivacy
 team:
   anonymous: false
+
+usecases:
+  - currency

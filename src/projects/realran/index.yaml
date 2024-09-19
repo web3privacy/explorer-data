@@ -1,7 +1,7 @@
 name: RealRan
 categories:
-  - rd
-description: 'RealRan comes from the global engineering and cryptography research team, expertise in cryptography protocol and distribution consensus engineering'
+  - infrastructure
+description: "RealRan comes from the global engineering and cryptography research team, expertise in cryptography protocol and distribution consensus engineering"
 links:
   web: https://www.realran.com/home
   github: https://github.com/realran
@@ -10,3 +10,6 @@ links:
   twitter: https://x.com/RealRanCrypto/
   discord: https://discord.com/invite/K9J5cCAAUC
 sunset: true
+
+usecases:
+  - research-and-development

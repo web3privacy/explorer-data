@@ -1,6 +1,7 @@
+id: sightai
 name: SightAI
-categories: [ AI ]
-description: 'Decentralized AI inference with FHE'
+categories: [applications]
+description: "Decentralized AI inference with FHE"
 team:
   anonymous: true
 links:
@@ -8,7 +9,9 @@ links:
   github: https://github.com/sight-ai
   docs: https://sightai.gitbook.io/docs
   blog: https://medium.com/@theSightAI
-  twitter: https://x.com/theSightAI 
+  twitter: https://x.com/theSightAI
   telegram: https://t.me/sightai
 have_token: false
 sunset: false
+
+usecases: [ai]

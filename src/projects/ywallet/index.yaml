@@ -1,9 +1,12 @@
 name: YWallet
 categories:
-  - wallets
+  - applications
 description: YWallet is a privacy-oriented wallet and messenger for Ycash and Zcash.
-ecosystem: Ycash, Zcash
+ecosystem: [ycash, zcash]
 links:
   web: https://ywallet.app/
 team:
   anonymous: true
+
+usecases:
+  - wallets

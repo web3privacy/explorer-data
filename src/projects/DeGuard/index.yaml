@@ -1,6 +1,7 @@
+id: deguard
 name: DeGuard
-categories: [ VPN ] 
-description: 'Provide utimate privacy based on web3'
+categories: [applications]
+description: "Provide utimate privacy based on web3"
 
 team:
   anonymous: false
@@ -23,3 +24,6 @@ project_status:
   mainnet: true
 
 have_token: false
+
+usecases:
+  - vpn

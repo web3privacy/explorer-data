@@ -3,11 +3,13 @@ categories:
   - infrastructure
 description: Partisia Blockchain is built for trust, transparency, privacy and speed of light finalization.
 team:
-  - name: Kurt Nielsen
-    role: Co-Founder & President
-  - name: Peter F. Frandsen
-    role: Co-Founder & CTO
-  - name: Brian Gallagher
+  anonymous: false
+  teammembers:
+    - name: Kurt Nielsen
+      role: Co-Founder & President
+    - name: Peter F. Frandsen
+      role: Co-Founder & CTO
+    - name: Brian Gallagher
 links:
   web: https://partisiablockchain.com
   gitlab: https://gitlab.com/partisiablockchain
@@ -23,3 +25,6 @@ project_status:
   version: Gamma Mainnet Vers 4.0
   testnet: true
   mainnet: true
+
+usecases:
+  - infrastructure

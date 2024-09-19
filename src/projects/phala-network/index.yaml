@@ -1,16 +1,16 @@
 name: Phala Network
 categories:
-  - computing-network
+  - infrastructure
 description: Privacy-Enhanced Permissionless Computing Protocol.
-ecosystem: Kusama
+ecosystem: [kusama]
 links:
   web: https://www.phala.network/en/
   github: https://github.com/Phala-Network
   docs: https://docs.phala.network/
   forum: https://forum.phala.network/
-  whitepaper: pdf/phala-paper.pdf
+  whitepaper: https://www.phala.network/pdf/phala-paper.pdf
   changelog: https://phala.network/changelog
-  blog: https://phala.network/blog 
+  blog: https://phala.network/blog
   twitter: https://x.com/PhalaNetwork
   discord: https://discord.com/invite/phala-network
   telegram: https://t.me/phalanetwork
@@ -18,3 +18,6 @@ team:
   anonymous: false
   company:
     link: https://www.phala.network/en/aboutUs/
+
+usecases:
+  - computing

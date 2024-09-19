@@ -1,7 +1,7 @@
 name: Fedimint
 categories:
   - infrastructure
-description: 'An open-source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy'
+description: "An open-source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy"
 team:
   anonymous: true
 links:
@@ -12,7 +12,9 @@ links:
   twitter: https://twitter.com/fedimint
 project_status:
   live_status: false
-  version: false
+  version: ""
   testnet: false
   mainnet: false
-  
+
+usecases:
+  - infrastructure

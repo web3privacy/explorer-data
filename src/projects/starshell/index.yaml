@@ -1,10 +1,13 @@
 name: Starshell
 categories:
-  - wallets
-description: 'A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem'
-ecosystem: multichain
+  - applications
+description: "A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem"
+ecosystem: [multichain]
 links:
   web: https://starshell.net/
   github: https://github.com/SolarRepublic
 team:
   anonymous: false
+
+usecases:
+  - wallets

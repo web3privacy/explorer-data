@@ -1,2 +1,5 @@
 name: Sahara
 categories: [defi]
+
+usecases:
+  - defi

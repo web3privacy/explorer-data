@@ -1,7 +1,7 @@
 name: Qubes OS
 categories:
-  - os
-description: 'a free and open-source, security-oriented operating system for single-user desktop computing'
+  - applications
+description: "a free and open-source, security-oriented operating system for single-user desktop computing"
 team:
   anonymous: false
   teammembers:
@@ -20,3 +20,6 @@ project_status:
   version: 4.2.1
   testnet: false
   mainnet: false
+
+usecases:
+  - operation-systems

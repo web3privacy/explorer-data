@@ -1,6 +1,6 @@
 name: AesirX WEB3 ID
-categories: [ did ]
-description: 'an advanced identity management solution that protects users’ personal data and ensures privacy on the internet.'
+categories: [applications]
+description: "an advanced identity management solution that protects users’ personal data and ensures privacy on the internet."
 links:
   web: https://web3id.aesirx.io
   github: https://github.com/aesirxio
@@ -11,3 +11,6 @@ links:
   facebook: https://www.facebook.com/aesirxio
   telegram: https://t.me/aesirx_official_community
 have_token: true
+
+usecases:
+  - did

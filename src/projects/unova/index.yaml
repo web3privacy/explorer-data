@@ -1,7 +1,7 @@
 name: Unova
 categories:
   - infrastructure
-description: Unova is a blockchain network with privacy-enabled data distribution clusters and cross-cluster distribution capabilities, made possible by the Web3 data distribution privacy protocol and multi-layer architecture. 
+description: Unova is a blockchain network with privacy-enabled data distribution clusters and cross-cluster distribution capabilities, made possible by the Web3 data distribution privacy protocol and multi-layer architecture.
 links:
   web: https://unova.io
   blog: https://unova.io/blog/
@@ -14,3 +14,6 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
+
+usecases:
+  - infrastructure

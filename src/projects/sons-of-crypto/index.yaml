@@ -1,8 +1,8 @@
 name: Sons of Crypto
 categories:
-  - wallets
+  - applications
 description: Web3 wallet by degens for degens
-ecosystem: multichain
+ecosystem: [multichain]
 links:
   web: https://sonsofcrypto.com/
   github: https://github.com/sonsofcrypto
@@ -13,6 +13,9 @@ team:
   anonymous: true
 project_status:
   live_status: true
-  version: 
+  version: ""
   testnet: false
   mainnet: false
+
+usecases:
+  - wallets

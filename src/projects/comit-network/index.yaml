@@ -1,7 +1,7 @@
 name: Comit Network
 categories:
   - infrastructure
-description: 'COMIT is an open protocol facilitating trustless cross-blockchain  applications, connecting all blockchains without adding yet another. Working on BTC-XMR atomic swaps as well as various libraries and clients'
+description: "COMIT is an open protocol facilitating trustless cross-blockchain  applications, connecting all blockchains without adding yet another. Working on BTC-XMR atomic swaps as well as various libraries and clients"
 team:
   anonymous: true
 links:
@@ -10,7 +10,9 @@ links:
   blog: https://comit.network/blog/
 project_status:
   live_status: false
-  version: false
+  version: ""
   testnet: false
   mainnet: false
-  
+
+usecases:
+  - infrastructure

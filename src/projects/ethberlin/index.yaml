@@ -1,9 +1,12 @@
 name: ETHBerlin
 description: "a hackathon, a cultural festival, an educational event, a platform for hacktivism, and a community initiative to push the decentralized ecosystem forward."
-categories: [events]
-ecosystem: Ethereum
+categories: [social-and-communications]
+ecosystem: [ethereum]
 links:
   web: https://ethberlin.ooo/contributors/
   github: https://github.com/ethb3rlin/4
   blog: https://blog.dod.ngo/
   twitter: https://x.com/ETHBerlin
+
+usecases:
+  - events
