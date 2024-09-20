@@ -137,7 +137,7 @@
       condition:
         exists: true
       points: 10
-    - field: traceability.kyc
+    - field: tracebility.kyc
       label: 
         name: KYC
         positive: No

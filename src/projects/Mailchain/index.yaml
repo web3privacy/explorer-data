@@ -48,7 +48,7 @@ privacy_policy:
   defined: true
   link: https://mailchain.com/terms
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false

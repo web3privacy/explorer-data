@@ -26,7 +26,7 @@ privacy_policy:
   defined: true
   link: https://www.joinself.com/company/legal
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
 third_party_dependency: false
 compliance: false

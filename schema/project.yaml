@@ -285,7 +285,7 @@ properties:
         format: uri
       data_usage:
         type: string
-  traceability:
+  tracebility:
     type: object
     properties:
       tracked_data:

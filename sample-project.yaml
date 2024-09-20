@@ -127,7 +127,7 @@ privacy_policy:
   link: https://app.shadeprotocol.io/use-terms
   data_usage: tools you are making TXs on
 
-traceability:
+tracebility:
   tracked_data: user SCRT adress
   kyc: false
   sign_in_type_requirments: EVM wallet

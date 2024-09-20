@@ -29,7 +29,7 @@ technology:
 blockchain_features:
   p2p: false
   opensource: true
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments: wallet
 default_privacy: true

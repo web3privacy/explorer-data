@@ -131,15 +131,15 @@ https://data.web3privacy.info/
 | privacy_policy defined | boolean               |          | Is there a document defining privacy policies? (Yes/No)|
 | privacy_policy link   | string url             |          | Link to the privacy policy document |
 | privacy_policy data_usage | string             |          | How is the project using your data? (ex. Selling data, Analytics., Not using,...) |
-| traceability tracked_data | string             |          | What data is the project tracking (ex. Address, Name, Phone, IP,...) |
+| tracebility tracked_data | string             |          | What data is the project tracking (ex. Address, Name, Phone, IP,...) |
 | default_privacy        | boolean               |          | Is privacy applied by default or must it be turned on? (Yes/No) |
 | compliance             | string                |          | Does the project comply with any official blacklists? (ex. OFAC, Hacker_wallet_list, USA,...) |
 |                        |                       |          |              |
 |                        |                       |          |              |
 |                        |                       |          |              |
 | storage decentralized | boolean                |          | Is any part of used data stored on decetralized networks? (Yes/No)|
-| traceability kyc      | boolean                |          | Is KYC required for product usage? (Yes/No) |
-| traceability sign_in_type_requirments | string |          | What Sign-in information is required to use the project? (ex. Wallet, Email, Gitcoin Pass,...) |
+| tracebility kyc      | boolean                |          | Is KYC required for product usage? (Yes/No) |
+| tracebility sign_in_type_requirments | string |          | What Sign-in information is required to use the project? (ex. Wallet, Email, Gitcoin Pass,...) |
 | blockchain_features identity_integration | string|        | What Identity integration project use? (ex. Gitcoin Pass, Proof of Humanity, Degenscore,...)  |
 | blockchain_features p2p | boolean              |          | Is the project Peer to Peer-based or enabling such a feature? (Yes/No) |
 | blockchain_features data_masking | string      |          | What type of anonymity mechanism is used? (Mixer, ZK Pool,...)  |

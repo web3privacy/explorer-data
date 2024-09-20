@@ -36,7 +36,7 @@ privacy_policy:
   defined: true
   link: https://academy.particl.io/en/latest/particl-blockchain/blockchain_privacy.html
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
 third_party_dependency: false
 compliance: false

@@ -23,7 +23,7 @@ blockchain_features:
 default_privacy: true
 storage:
   decentralized: true
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false
