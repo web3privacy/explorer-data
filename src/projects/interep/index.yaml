@@ -11,3 +11,4 @@ links:
 have_token: false
 usecases:
 - did
+third_party_dependency: false

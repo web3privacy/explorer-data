@@ -56,3 +56,4 @@ blockchain_features:
   opensource: true
 usecases:
 - infrastructure
+third_party_dependency: false

@@ -29,3 +29,4 @@ audits:
 usecases:
 - mixing-service
 have_token: false
+third_party_dependency: false

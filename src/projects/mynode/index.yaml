@@ -19,3 +19,4 @@ have_token: false
 sunset: false
 usecases:
 - node
+third_party_dependency: false

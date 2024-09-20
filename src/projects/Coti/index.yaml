@@ -35,3 +35,4 @@ tokens:
   contract_address: '0xDDB3422497E61e13543BeA06989C0789117555c5'
 usecases:
 - eth-layer-2
+third_party_dependency: false

@@ -22,3 +22,4 @@ technology:
 usecases:
 - did
 have_token: false
+third_party_dependency: false

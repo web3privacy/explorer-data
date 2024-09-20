@@ -20,3 +20,4 @@ project_status:
 have_token: false
 usecases:
 - browser
+third_party_dependency: false

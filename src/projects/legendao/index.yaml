@@ -17,3 +17,4 @@ tokens:
 sunset: false
 usecases:
 - nft-community
+third_party_dependency: false

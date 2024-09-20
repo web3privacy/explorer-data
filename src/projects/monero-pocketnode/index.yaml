@@ -8,3 +8,4 @@ sunset: true
 usecases:
 - node
 have_token: false
+third_party_dependency: false

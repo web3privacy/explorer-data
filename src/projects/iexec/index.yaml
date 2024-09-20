@@ -25,3 +25,4 @@ tokens:
 sunset: false
 usecases:
 - infrastructure
+third_party_dependency: false

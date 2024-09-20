@@ -14,3 +14,4 @@ tokens:
 - symbol: LIGHT
 usecases:
 - infrastructure
+third_party_dependency: false

@@ -22,3 +22,4 @@ tokens:
 - symbol: HZM
 usecases:
 - messaging
+third_party_dependency: false

@@ -4,3 +4,4 @@ categories:
 usecases:
 - defi
 have_token: false
+third_party_dependency: false

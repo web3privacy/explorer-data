@@ -21,3 +21,4 @@ team:
     link: https://findora.org/team/
 usecases:
 - computing
+third_party_dependency: false

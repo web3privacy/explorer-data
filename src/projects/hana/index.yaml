@@ -17,3 +17,4 @@ project_status:
   mainnet: false
 usecases:
 - infrastructure
+third_party_dependency: false

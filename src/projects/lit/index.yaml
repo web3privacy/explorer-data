@@ -34,3 +34,4 @@ audits:
   link: https://drive.google.com/drive/folders/1Rrht88iUkzpofwl1CvP9gEjqY60BKyFn?usp=drive_link&ref=spark.litprotocol.com
 usecases:
 - infrastructure
+third_party_dependency: false

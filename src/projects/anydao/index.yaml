@@ -12,3 +12,4 @@ links:
 usecases:
 - dao
 have_token: false
+third_party_dependency: false

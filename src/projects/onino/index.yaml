@@ -9,3 +9,4 @@ tokens:
 - symbol: ONI
 usecases:
 - infrastructure
+third_party_dependency: false

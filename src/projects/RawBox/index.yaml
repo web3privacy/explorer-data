@@ -28,3 +28,4 @@ project_status:
 have_token: false
 usecases:
 - hardware
+third_party_dependency: false

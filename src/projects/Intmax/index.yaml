@@ -29,3 +29,4 @@ project_status:
 have_token: false
 usecases:
 - eth-layer-2
+third_party_dependency: false

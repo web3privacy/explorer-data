@@ -10,3 +10,4 @@ tokens:
 - symbol: OBT
 usecases:
 - infrastructure
+third_party_dependency: false

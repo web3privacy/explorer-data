@@ -22,3 +22,4 @@ have_token: false
 token_link: https://coinmarketcap.com/currencies/orchid/
 usecases:
 - vpn
+third_party_dependency: false

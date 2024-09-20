@@ -11,3 +11,4 @@ tokens:
 - symbol: PCN
 usecases:
 - infrastructure
+third_party_dependency: false

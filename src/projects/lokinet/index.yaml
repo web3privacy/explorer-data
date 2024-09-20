@@ -16,3 +16,4 @@ have_token: false
 token_link: https://www.coingecko.com/en/coins/oxen
 usecases:
 - vpn
+third_party_dependency: false

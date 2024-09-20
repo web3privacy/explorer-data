@@ -8,3 +8,4 @@ tokens:
 - symbol: PRIVATIXY
 usecases:
 - infrastructure
+third_party_dependency: false

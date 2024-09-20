@@ -20,3 +20,4 @@ project_status:
   mainnet: false
 usecases:
 - vpn
+third_party_dependency: false

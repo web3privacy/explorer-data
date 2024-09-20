@@ -21,3 +21,4 @@ have_token: false
 token_link: https://coinmarketcap.com/it/currencies/dock/
 usecases:
 - did
+third_party_dependency: false

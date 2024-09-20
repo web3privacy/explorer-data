@@ -37,3 +37,4 @@ audits:
   time: November, 2021
 usecases:
 - infrastructure
+third_party_dependency: false

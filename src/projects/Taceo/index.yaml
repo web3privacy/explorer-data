@@ -26,3 +26,4 @@ project_status:
 have_token: false
 usecases:
 - computing
+third_party_dependency: false

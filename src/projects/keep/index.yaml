@@ -11,3 +11,4 @@ tokens:
 - symbol: KEEP
 usecases:
 - infrastructure
+third_party_dependency: false

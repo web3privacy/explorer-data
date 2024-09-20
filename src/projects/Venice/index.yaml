@@ -11,3 +11,4 @@ links:
 usecases:
 - ai
 have_token: false
+third_party_dependency: false

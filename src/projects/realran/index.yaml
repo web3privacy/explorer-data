@@ -14,3 +14,4 @@ sunset: true
 usecases:
 - research-and-development
 have_token: false
+third_party_dependency: false

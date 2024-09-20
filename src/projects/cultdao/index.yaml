@@ -44,3 +44,4 @@ audits:
   time: '2022-11-11'
 usecases:
 - dao
+third_party_dependency: false

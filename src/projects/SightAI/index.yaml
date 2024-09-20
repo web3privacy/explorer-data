@@ -16,3 +16,4 @@ have_token: false
 sunset: false
 usecases:
 - ai
+third_party_dependency: false

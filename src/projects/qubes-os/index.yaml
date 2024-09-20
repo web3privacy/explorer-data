@@ -24,3 +24,4 @@ project_status:
 usecases:
 - operation-systems
 have_token: false
+third_party_dependency: false
