@@ -1,0 +1,44 @@
+name: Opacity network
+categories: [ computing network ]
+ecosystem: [ Ethereum ]
+usecases: [ data ]
+description: 'We leverage cooperation with users and employ cryptography to trustlessly share data from closed digital ecosystems.'
+product_launch_day: "2024"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: EulerLagrange
+      link: https://x.com/Euler__Lagrange
+
+
+links:
+  web: https://www.opacity.network/
+  twitter: https://x.com/OpacityNetwork
+  telegram: https://t.me/+Xgj5vWoYTM84ZmQ5
+ 
+project_phase: testnet
+sunset: false
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: false
+
+default_privacy: true
+
+traceability:
+  kyc: false
+third_party_dependency: false
+compliance: false
+
+
+storage:
+  decentralized: true
+
+tecnology:
+ type: Zero-Knowledge Transport Layer Service (zkTLS)   
