@@ -2412,6 +2412,89 @@
       ]
     },
     {
+      "id": "Midnight-network",
+      "name": "Midnight network",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Cardano"
+      ],
+      "usecases": [
+        "Identity verification",
+        "Decentralized anonymous voting"
+      ],
+      "description": "An innovative new blockchain empowering ground-breaking apps that safeguard sensitive commercial and personal data",
+      "product_launch_day": "2023-10",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Eran Barak",
+            "link": "https://x.com/eranbarak"
+          },
+          {
+            "name": "Marta Szluinska",
+            "link": "https://www.linkedin.com/in/martaszluinska/"
+          },
+          {
+            "name": "Benjamin Beckmann",
+            "link": "https://x.com/BenB_IOG"
+          },
+          {
+            "name": "Kim Tripodo",
+            "link": "https://www.linkedin.com/in/kim-tripodo-b5993918/"
+          },
+          {
+            "name": "Mauricio Magaldi",
+            "link": "https://www.linkedin.com/in/magaldi/"
+          },
+          {
+            "name": "Anthony Day",
+            "link": "https://www.linkedin.com/in/anthonyjjday/"
+          },
+          {
+            "name": "Thomas Ubermeier",
+            "link": "https://www.linkedin.com/in/uebermts/"
+          },
+          {
+            "name": "Fahmi Syed"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://midnight.network/",
+        "docs": "https://docs.midnight.network/",
+        "blog": "https://midnight.network/blog",
+        "twitter": "https://x.com/MidnightNtwrk",
+        "telegram": "https://t.me/Midnight_Network_Official",
+        "discord": "https://discord.com/invite/midnightnetwork"
+      },
+      "project_phase": "Testnet",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://midnight.network/static/terms.pdf"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "tecnology": {
+        "type": "Zk"
+      }
+    },
+    {
       "id": "chimp-exchange",
       "name": "ChimpExchange",
       "categories": [
@@ -3089,7 +3172,14 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false
+      "compliance": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/OXygean/logo.png"
+        }
+      ]
     },
     {
       "id": "railway",
@@ -5157,6 +5247,93 @@
       ]
     },
     {
+      "id": "vlayer",
+      "name": "vlayer",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "data"
+      ],
+      "description": "Trustless verifiable data infrastructure powered by zero-knowledge proofs",
+      "product_launch_day": "2024",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Hubert Rachwalski von Rejchwald",
+            "link": "https://x.com/HubertRvR_PL"
+          },
+          {
+            "name": "Marek Kirejczyk",
+            "link": "https://x.com/zkMarek"
+          },
+          {
+            "name": "Namita Shenolikar",
+            "link": "https://x.com/nam1ta"
+          },
+          {
+            "name": "Iweta Laskowska",
+            "link": "https://x.com/iweta_web3"
+          },
+          {
+            "name": "Natalia Kirejczyk",
+            "link": "https://www.linkedin.com/in/nkirejczyk/"
+          },
+          {
+            "name": "Leonid Logvinov",
+            "link": "https://x.com/logvinov_leon"
+          },
+          {
+            "name": "Piotr Żelazko",
+            "link": "https://x.com/pzelazko_eth"
+          },
+          {
+            "name": "Artur Chmaro",
+            "link": "https://x.com/ArtiChmaro"
+          },
+          {
+            "name": "Natalia Kirejczyk",
+            "link": "https://www.linkedin.com/in/nkirejczyk/"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.vlayer.xyz/",
+        "github": "https://github.com/vlayer-xyz",
+        "blog": "https://www.vlayer.xyz/blog",
+        "twitter": "https://www.vlayer.xyz/blog",
+        "discord": "https://discord.com/invite/dRFRhgRH9P"
+      },
+      "project_phase": "testnet",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "storage": {
+        "decentralized": true
+      },
+      "tecnology": {
+        "type": "zk proof"
+      }
+    },
+    {
       "id": "OriginTrail",
       "name": "OriginTrail",
       "categories": [
@@ -6848,6 +7025,72 @@
       ]
     },
     {
+      "id": "Bubble-protocol",
+      "name": "Bubble",
+      "categories": [
+        "data management"
+      ],
+      "ecosystem": [
+        "Ethereum",
+        "Polygon",
+        "Base",
+        "Avalanche",
+        "Scroll"
+      ],
+      "usecases": [
+        "data storage"
+      ],
+      "description": "Private Off-Chain Data Management with On-Chain Security",
+      "product_launch_day": "2022",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://bubbleprotocol.com/",
+        "github": "https://github.com/Bubble-Protocol",
+        "whitepaper": "https://bubbleprotocol.com/docs/whitepaper.pdf",
+        "blog": "https://seedling-d.app/user/github/Bubble-Protocol",
+        "twitter": "https://x.com/BubbleProtocol",
+        "telegram": "https://t.me/+YSlmjDit4Cw0MDY0",
+        "discord": "https://discord.com/invite/sSnvK5C"
+      },
+      "project_phase": "beta",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Bubble Governance Token",
+          "symbol": "$BGT"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "p2p": true,
+        "upgradability": {
+          "enabled": true,
+          "type": "DAO vote",
+          "admin_keys": "51% consensus by DAO"
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://seedling-d.app/article/0xb42117a47b714bde79462b2df6a6cec230d14f60cf78a95d411ed531c6510593"
+      },
+      "default_privacy": false,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": true,
+      "storage": {
+        "decentralized": true
+      },
+      "tecnology": {
+        "type": "E2E"
+      }
+    },
+    {
       "id": "vup",
       "name": "VUP",
       "categories": [
@@ -7854,6 +8097,66 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/treasure-chest/logo.png"
         }
       ]
+    },
+    {
+      "id": "Alien",
+      "name": "Alien",
+      "categories": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Bnb"
+      ],
+      "usecases": [
+        "chat"
+      ],
+      "description": "A simple-to-use, end-to-end encrypted instant messaging software for all users to experience encrypted message transmission, achieving free communication.",
+      "product_launch_day": "2023",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Nikita Ermakov"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://alien-chat.com/#/HOME",
+        "docs": "https://alien-3.gitbook.io/alien-2",
+        "blog": "https://medium.com/@alienweb3",
+        "twitter": "https://x.com/Alien_SocialFi",
+        "telegram": "https://t.me/AlienAnnouncement"
+      },
+      "project_phase": "beta",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true,
+          "type": "DAO vote"
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://res.alien-chat.com/other/AlienChat%20Privacy%20Policy.htm"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "storage": {
+        "decentralized": true
+      },
+      "tecnology": {
+        "type": "End-to-End Encryption"
+      }
     },
     {
       "id": "kilt",
@@ -9772,6 +10075,59 @@
       ]
     },
     {
+      "id": "Opacity Network",
+      "name": "Opacity network",
+      "categories": [
+        "computing network"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "data"
+      ],
+      "description": "We leverage cooperation with users and employ cryptography to trustlessly share data from closed digital ecosystems.",
+      "product_launch_day": "2024",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "EulerLagrange",
+            "link": "https://x.com/Euler__Lagrange"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.opacity.network/",
+        "twitter": "https://x.com/OpacityNetwork",
+        "telegram": "https://t.me/+Xgj5vWoYTM84ZmQ5"
+      },
+      "project_phase": "testnet",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false
+      },
+      "third_party_dependency": false,
+      "compliance": false,
+      "storage": {
+        "decentralized": true
+      },
+      "tecnology": {
+        "type": "Zero-Knowledge Transport Layer Service (zkTLS)"
+      }
+    },
+    {
       "id": "zion",
       "name": "Zion",
       "categories": [
@@ -11355,6 +11711,109 @@
       ]
     },
     {
+      "id": "Ghost Drive",
+      "name": "Ghost Drive",
+      "categories": [
+        "storage"
+      ],
+      "ecosystem": [
+        "Filecoim",
+        "Ton"
+      ],
+      "usecases": [
+        "storage data",
+        "DePin"
+      ],
+      "description": "Privacy-first, secure decentralized smart storage, Full data control, Pioneering DePIN with hot satellite nodes",
+      "product_launch_day": "2018",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Karim Tarakji",
+            "link": "https://www.linkedin.com/in/karimtrj/"
+          },
+          {
+            "name": "Roma Nebo",
+            "link": "https://www.linkedin.com/in/romanebo/"
+          },
+          {
+            "name": "Simran Kaur",
+            "link": "https://www.linkedin.com/in/simran-kaur-2a99601a0/"
+          },
+          {
+            "name": "Vadym Vitenko",
+            "link": "https://www.linkedin.com/in/vadym-vitenko-600824164/"
+          },
+          {
+            "name": "Max B.",
+            "link": "https://www.linkedin.com/in/maxb/"
+          },
+          {
+            "name": "Oleksandr Balbus",
+            "link": "https://www.linkedin.com/in/alexbalbus/"
+          },
+          {
+            "name": "Paul Conrad",
+            "link": "https://www.linkedin.com/in/melorix/"
+          },
+          {
+            "name": "Alena Belos",
+            "link": "https://www.linkedin.com/in/alena-belos-%F0%9F%87%BA%F0%9F%87%A6-a52783233/"
+          },
+          {
+            "name": "Hashim Shah",
+            "link": "https://www.linkedin.com/in/hashim-shah-b92796146/"
+          },
+          {
+            "name": "Eugene Vivdich",
+            "link": "https://www.linkedin.com/in/eugenevivdich/"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.ghostdrive.com/",
+        "github": "https://github.com/Ghost-Drive",
+        "docs": "https://docs.ghostdrive.com/",
+        "blog": "https://medium.com/@ghostdrive2019",
+        "twitter": "https://x.com/GhostDrive_Web3",
+        "telegram": "https://t.me/ghostdrive_web3"
+      },
+      "project_phase": "Mainnet",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Ghost Drive Token",
+          "symbol": "$GD",
+          "network": "Ton"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://docs.ghostdrive.com/legal/terms-of-service"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false
+      },
+      "third_party_dependency": false,
+      "social_trust": "wallet multisig",
+      "compliance": false,
+      "storage": {
+        "decentralized": true
+      },
+      "tecnology": {
+        "type": "DePin"
+      }
+    },
+    {
       "id": "bpsaa",
       "name": "BPSAA",
       "categories": [
@@ -12931,11 +13390,21 @@
     },
     {
       "id": "Mindnetwork",
-      "name": "MindNetwork",
+      "name": "Mind Network",
       "categories": [
         "FHE"
       ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Restake"
+      ],
       "description": "An FHE Restaking Layer for PoS and AI Networks ",
+      "product_launch_day": "2022",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://www.mindnetwork.xyz/",
         "github": "https://github.com/mind-network",
@@ -12944,6 +13413,40 @@
         "twitter": "https://x.com/mindnetwork_xyz",
         "discord": "https://discord.com/invite/UYj94MJdGJ",
         "telegram": "https://t.me/MindNetwork_xyz"
+      },
+      "project_phase": "Mainnet",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://docs.mindnetwork.xyz/minddocs/security-and-privacy/mind-network-terms-of-service"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": false,
+      "social_trust": "Multi-Sig & Timelock",
+      "compliance": false,
+      "audits": [
+        {
+          "name": "Certik",
+          "link": "https://github.com/mind-network/mind-restaking-contracts/blob/main/audit/Mind_Network_CertiK_Audit_20240711.pdf"
+        },
+        {
+          "name": "Offside",
+          "link": "https://github.com/mind-network/mind-sap-contracts/blob/main/audit/Mind%20Network%20SAP-Audit-Final-240312.pdf"
+        }
+      ],
+      "tecnology": {
+        "type": "FHE"
       },
       "logos": [
         {
@@ -15150,37 +15653,6 @@
       ]
     },
     {
-      "id": "mind-network",
-      "name": "Mind Network",
-      "categories": [
-        "infrastructure"
-      ],
-      "description": "Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading towards to the era of HTTPZ, an end-to-end encryption internet",
-      "team": {
-        "anonymous": true
-      },
-      "links": {
-        "web": "https://mindnetwork.xyz",
-        "github": "https://github.com/mind-network",
-        "docs": "https://mind-network.gitbook.io/mindnetwork",
-        "Twitter": "https://twitter.com/mindnetwork_xyz"
-      },
-      "have_token": true,
-      "project_status": {
-        "live_status": true,
-        "version": "Testnet",
-        "testnet": true,
-        "mainnet": false
-      },
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/mind-network/logo.png"
-        }
-      ]
-    },
-    {
       "id": "zkchaos",
       "name": "ZKCHAOS",
       "categories": [
@@ -15405,6 +15877,100 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/hackers-congress-paralelni-polis/logo.png"
         }
       ]
+    },
+    {
+      "id": "DOP",
+      "name": "DOP",
+      "categories": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "wallet"
+      ],
+      "description": "Using zero-knowledge proofs, DOP allows you to decide what crypto assets and transactions you wish to make public.",
+      "product_launch_day": "2023",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Moshe Yuval",
+            "link": "https://www.linkedin.com/in/moshe-yuval/"
+          },
+          {
+            "name": "Waleed Qureshi",
+            "link": "https://www.linkedin.com/in/waleed-qureshi-61830218b/"
+          },
+          {
+            "name": "Avidan Abitbol",
+            "link": "https://www.linkedin.com/in/avidan-abitbol/"
+          },
+          {
+            "name": "Matan Almakis",
+            "link": "https://www.linkedin.com/in/matan-almakis-3555a2276/"
+          },
+          {
+            "name": "Tiffany Ben",
+            "link": "https://www.linkedin.com/in/tiffany-ben-3aa660160/"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://dop.org/",
+        "github": "https://github.com/dop-labs",
+        "whitepaper": "https://dop.org/DOP_Whitepaper_V2.1.pdf",
+        "blog": "https://dop.org/blog",
+        "twitter": "https://x.com/dop_org",
+        "telegram": "https://t.me/dop_org",
+        "discord": "https://discord.com/invite/dopofficial"
+      },
+      "project_phase": "mainnet",
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "DOP Token",
+          "symbol": "$DOP",
+          "network": "Ethereum",
+          "contract_address": "0x97A9a15168C22B3C137E6381037E1499C8ad0978",
+          "token_link": "https://etherscan.io/token/0x97a9a15168c22b3c137e6381037e1499c8ad0978"
+        }
+      ],
+      "funding": {
+        "name": "Aditya Kumar Singh private investor",
+        "link": "https://www.linkedin.com/in/aditya2525/"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true,
+          "type": "DAO vote",
+          "admin keys": "The committee reviews submissions"
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://dop.org/privacy"
+      },
+      "default_privacy": true,
+      "traceability": {
+        "kyc": false,
+        "sign_in_type_requirments": "wallet"
+      },
+      "third_party_dependency": "Chainalysis and zkMe",
+      "compliance": true,
+      "audits": [
+        {
+          "name": "hacken",
+          "link": "https://wp.hacken.io/wp-content/uploads/2024/05/Hacken_DOP-Data-Ownership-Protocol_SCA-DOP-_-SmartLogic-_-Apr2024_P-2024-319_1_20240513-09_04-1.pdf",
+          "time": "2024-05-13T00:00:00.000Z"
+        }
+      ],
+      "tecnology": {
+        "type": "ZK-SNARKS and ECDSA"
+      }
     },
     {
       "id": "krux",
