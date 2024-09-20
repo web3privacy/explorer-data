@@ -1,0 +1,73 @@
+name: DOP
+categories: [ wallets ]
+ecosystem: [ Ethereum ]
+usecases: [ wallet ]
+description: 'Using zero-knowledge proofs, DOP allows you to decide what crypto assets and transactions you wish to make public.'
+product_launch_day: "2023"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Moshe Yuval
+      link: https://www.linkedin.com/in/moshe-yuval/
+    - name: Waleed Qureshi
+      link: https://www.linkedin.com/in/waleed-qureshi-61830218b/
+    - name: Avidan Abitbol
+      link: https://www.linkedin.com/in/avidan-abitbol/
+    - name: Matan Almakis
+      link: https://www.linkedin.com/in/matan-almakis-3555a2276/
+    - name: Tiffany Ben
+      link: https://www.linkedin.com/in/tiffany-ben-3aa660160/      
+
+links:
+  web: https://dop.org/
+  github: https://github.com/dop-labs 
+  whitepaper: https://dop.org/DOP_Whitepaper_V2.1.pdf
+  blog: https://dop.org/blog 
+  twitter: https://x.com/dop_org
+  telegram: https://t.me/dop_org
+  discord: https://discord.com/invite/dopofficial
+
+project_phase: mainnet
+sunset: false
+
+tokens:
+  - name: DOP Token
+    symbol: $DOP
+    network: Ethereum
+    contract_address: "0x97A9a15168C22B3C137E6381037E1499C8ad0978"
+    token_link: https://etherscan.io/token/0x97a9a15168c22b3c137e6381037e1499c8ad0978
+
+funding:
+  name: Aditya Kumar Singh private investor
+  link: https://www.linkedin.com/in/aditya2525/
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+    type: DAO vote
+    admin keys: The committee reviews submissions
+
+privacy_policy:
+  defined: true
+  link: https://dop.org/privacy
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: Chainalysis and zkMe 
+compliance: true
+
+audits:
+  - name: hacken
+    link: https://wp.hacken.io/wp-content/uploads/2024/05/Hacken_DOP-Data-Ownership-Protocol_SCA-DOP-_-SmartLogic-_-Apr2024_P-2024-319_1_20240513-09_04-1.pdf
+    time: 2024-05-13
+   
+
+tecnology:
+ type: ZK-SNARKS and ECDSA
+      
