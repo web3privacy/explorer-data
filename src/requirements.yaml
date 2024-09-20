@@ -1,0 +1,6 @@
+- id: wallet
+  name: Wallet
+- id: email
+  name: Email
+- id: seed
+  name: Seed
