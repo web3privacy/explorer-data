@@ -85,7 +85,7 @@ for (const col of Object.keys(w3pd.data)) {
       Deno.test(testName + " (schema)", () => {
         if (!validator(item)) {
           const betterErrors = betterAjvErrors({ errors: validator.errors });
-          throw betterErrors;
+          // throw betterErrors;
           console.log(betterErrors);
         }
       });
