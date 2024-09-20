@@ -14925,7 +14925,14 @@
         "whitepaper": "https://tuumio.com/concept-paper",
         "blog": "https://tuumio.medium.com/",
         "twitter": "https://x.com/tuum_io"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/tuumio/logo.png"
+        }
+      ]
     },
     {
       "id": "monero-pocketnode",
