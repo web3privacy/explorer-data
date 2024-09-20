@@ -1,18 +1,17 @@
 name: MBuddy
 categories:
-  - applications
+- applications
 description: Web 3.0+ identity infrastructure
-ecosystem: [multichain]
+ecosystem:
+- multichain
 links:
   web: https://metamirror.space/
   docs: https://docs.metamirror.space/mbuddy/introduction/overview
   whitepaper: https://docsend.com/view/hanw3wjgcyqsj6ht
-
   blog: https://medium.com/metamirror
   twitter: https://x.com/Auth3MetaMirror
   discord: https://discord.com/invite/jFxBtJCMAJ
   telegram: https://t.me/MetaMirror
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did

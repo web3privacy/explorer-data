@@ -1,13 +1,13 @@
 name: Keep
 categories:
-  - infrastructure
-description: "The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum"
+- infrastructure
+description: The privacy-focused infrastructure behind tBTCv2, the only truly decentralized
+  solution for Bitcoin on Ethereum
 links:
   web: https://keep.network/info
   github: https://github.com/keep-network/
-have_token: true
+have_token: false
 tokens:
-  - symbol: KEEP
-
+- symbol: KEEP
 usecases:
-  - infrastructure
+- infrastructure

@@ -1,15 +1,16 @@
 name: Boring Protocol
-categories: [applications]
-description: "A Decentralized VPN on Solana"
-ecosystem: [solana]
+categories:
+- applications
+description: A Decentralized VPN on Solana
+ecosystem:
+- solana
 links:
   web: https://boringprotocol.io
   github: https://docs.boringprotocol.io/bop/information/boring-protocol
 team:
   anonymous: true
-have_token: true
+have_token: false
 token_link: https://coinmarketcap.com/currencies/boring-protocol/
 sunset: true
-
 usecases:
-  - vpn
+- vpn

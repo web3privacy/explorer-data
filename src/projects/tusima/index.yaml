@@ -1,6 +1,6 @@
 name: Tusima
 categories:
-  - infrastructure
+- infrastructure
 description: Privacy Financial Infrastructure For Blockchain
 links:
   web: https://tusima.network
@@ -10,6 +10,6 @@ links:
   twitter: https://x.com/TusimaNetwork
   discord: https://discord.com/invite/tusimanetwork
   telegram: https://t.me/tusimaofficial
-
 usecases:
-  - eth-layer-2
+- eth-layer-2
+have_token: false

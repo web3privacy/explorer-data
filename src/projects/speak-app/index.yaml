@@ -1,13 +1,14 @@
 name: Speak app
 categories:
-  - applications
-description: "No phone number. No email address. Speakapp is a simple, and secure web3 messenger"
+- applications
+description: No phone number. No email address. Speakapp is a simple, and secure web3
+  messenger
 team:
   anonymous: true
 links:
   web: https://speakapp.me
   blog: https://blog.speakapp.me/
   twitter: https://twitter.com/speakappme
-
 usecases:
-  - messaging
+- messaging
+have_token: false

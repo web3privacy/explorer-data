@@ -1,6 +1,6 @@
 name: Graphene OS
 categories:
-  - applications
+- applications
 description: The private and secure mobile operating system with Android app compatibility
 team:
   anonymous: true
@@ -14,9 +14,9 @@ links:
   telegram: https://t.me/GrapheneOS
 project_status:
   live_status: true
-  version: "2024051500"
+  version: '2024051500'
   testnet: false
   mainnet: true
-
 usecases:
-  - operation-systems
+- operation-systems
+have_token: false

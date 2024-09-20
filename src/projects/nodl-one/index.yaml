@@ -1,9 +1,9 @@
 name: nodl One
 categories:
-  - infrastructure
+- infrastructure
 description: A full Bitcoin and Lightning Network node.
 links:
   web: https://www.nodl.eu/products/nodl-one/
-
 usecases:
-  - node
+- node
+have_token: false

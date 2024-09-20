@@ -1,10 +1,11 @@
 name: HeyAnon
 categories:
-  - applications
-description: "Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs"
+- applications
+description: Allows noun-holders to give feedback on proposals while maintaining their
+  privacy using zero-knowledge proofs
 links:
   web: https://www.heyanoun.xyz
   twitter: https://x.com/HeyAnoun
-
 usecases:
-  - dao
+- dao
+have_token: false

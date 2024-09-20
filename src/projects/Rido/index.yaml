@@ -1,7 +1,8 @@
 id: rido
 name: Rido
-categories: [applications]
-description: "Web3 Personal Data Layer for AI "
+categories:
+- applications
+description: 'Web3 Personal Data Layer for AI '
 team:
   anonymous: true
 links:
@@ -13,5 +14,5 @@ links:
   telegram: https://t.me/+N6HLxnRL_WE5ZDVl
 have_token: false
 sunset: false
-
-usecases: [ai]
+usecases:
+- ai

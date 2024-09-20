@@ -1,12 +1,14 @@
 name: Zcash
-categories: [defi]
-description: "A simple, secure digital currency that protects your privacy. For everyday purchases, sending money to a friend, and your favorite crypto applications, too."
+categories:
+- defi
+description: A simple, secure digital currency that protects your privacy. For everyday
+  purchases, sending money to a friend, and your favorite crypto applications, too.
 project_type: transaction
 technology:
   type: halo2 zk-SNARK
   features:
-    - private
-    - trustless proof system
+  - private
+  - trustless proof system
 links:
   web: https://z.cash/
   twitter: https://twitter.com/zcash
@@ -20,7 +22,6 @@ blockchain_features:
   p2p: true
   encryption: zksnark
   network: Zcash
-
   opensource: true
   viewing_key: true
   dissapearing_tx: false
@@ -30,52 +31,50 @@ blockchain_features:
   revealed_recipient: false
   revealed_sender: false
   revealed_ammount: false
-  reversability_condition: viewing key, 51% attack (rollback limit = 100 blocks), payment disclosure
+  reversability_condition: viewing key, 51% attack (rollback limit = 100 blocks),
+    payment disclosure
   data_masking: shielded pool deposit
   asset_custody_type: non-custody
 licences: MIT software license
 privacy_policy:
   defined: false
-
 storage:
   decentralized: true
-
 third_party_dependency: false
 compliance: false
 audits:
-  - name: NCC Group NU5 Review
-    link: https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/
-    time: Nov 2, 2021
-  - name: NCC Group Zcash FROST Security Assesment
-    link: https://research.nccgroup.com/2023/10/23/public-report-zcash-frost-security-assessment/
-    time: Oct 23, 2023
-  - name: Sapling Implementation Audit
-    link: https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf
-    time: Jan 30, 2019
+- name: NCC Group NU5 Review
+  link: https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/
+  time: Nov 2, 2021
+- name: NCC Group Zcash FROST Security Assesment
+  link: https://research.nccgroup.com/2023/10/23/public-report-zcash-frost-security-assessment/
+  time: Oct 23, 2023
+- name: Sapling Implementation Audit
+  link: https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf
+  time: Jan 30, 2019
 history:
-  - title: Mainet
-    event_type: launch
-    description: Genesis block
-    time: Oct 28, 2016
-    link: https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/
+- title: Mainet
+  event_type: launch
+  description: Genesis block
+  time: Oct 28, 2016
+  link: https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/
 client_diversability:
-  - name: Zebra
-    link: https://zfnd.org/zebra/
-  - name: zcashd
-    link: https://github.com/Zcash/zcash
+- name: Zebra
+  link: https://zfnd.org/zebra/
+- name: zcashd
+  link: https://github.com/Zcash/zcash
 default_privacy: true
 funding:
   name: DCG
   type: Investments
-  link: "https://zfnd.org/zebra/"
-  value: ""
-  time: "2024-09-15"
-
+  link: https://zfnd.org/zebra/
+  value: ''
+  time: '2024-09-15'
 project_status:
   live_status: true
-  version: "Mainnet"
+  version: Mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - currency
+- currency
+have_token: false

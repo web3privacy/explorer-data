@@ -1,21 +1,21 @@
 id: oxo
 name: OxO
-categories: [applications]
-ecosystem: [ethereum]
-description: "All-in-One Privacy Exchange"
-
+categories:
+- applications
+ecosystem:
+- ethereum
+description: All-in-One Privacy Exchange
 team:
   anonymous: false
   teammembers:
-    - name: Sir Enigma
-      link: https://x.com/abdel_hhh
-    - name: Smokey
-      link: https://x.com/Smokey_0x0
-    - name: Jay
-      link: https://x.com/xcyb0rg
-    - name: Andy
-      link: https://t.me/Andy_0x0
-
+  - name: Sir Enigma
+    link: https://x.com/abdel_hhh
+  - name: Smokey
+    link: https://x.com/Smokey_0x0
+  - name: Jay
+    link: https://x.com/xcyb0rg
+  - name: Andy
+    link: https://t.me/Andy_0x0
 links:
   web: https://0x0.ai/
   github: https://github.com/0x0exchange
@@ -24,29 +24,25 @@ links:
   twitter: https://x.com/0x0exchange
   telegram: https://t.me/Portal0x0
   discord: https://discord.com/invite/0x0exchange
-
 sunset: false
-
 tokens:
-  - name: OxO Token
-    symbol: $OxO
-    network: Ethereum
-    contract_address: "0x5a3e6A77ba2f983eC0d371ea3B475F8Bc0811AD5"
-    token_link: https://etherscan.io/token/0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5
-
+- name: OxO Token
+  symbol: $OxO
+  network: Ethereum
+  contract_address: '0x5a3e6A77ba2f983eC0d371ea3B475F8Bc0811AD5'
+  token_link: https://etherscan.io/token/0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-
+  p2p: false
 privacy_policy:
   defined: false
-
 default_privacy: true
-
 traceability:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false
 compliance: false
-
-usecases: [ai]
+usecases:
+- ai
+have_token: false

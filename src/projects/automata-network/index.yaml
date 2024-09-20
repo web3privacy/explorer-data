@@ -1,6 +1,8 @@
 name: Automata Network
-categories: [infrastructure]
-description: "The privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA"
+categories:
+- infrastructure
+description: The privacy middleware layer building for a fair Web3. Its core suite
+  of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA
 team:
   anonymous: true
 links:
@@ -8,14 +10,13 @@ links:
   docs: https://docs.ata.network
   github: https://github.com/automata-network
   blog: https://blog.ata.network/
-have_token: true
+have_token: false
 tokens:
-  - symbol: ATA
+- symbol: ATA
 project_status:
   live_status: true
-  version: ""
+  version: ''
   testnet: true
   mainnet: false
-
 usecases:
-  - infrastructure
+- infrastructure

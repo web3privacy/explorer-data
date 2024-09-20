@@ -1,20 +1,21 @@
 name: Electric Coin. Co
 categories:
-  - infrastructure
-description: "R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential"
+- infrastructure
+description: R&D advances accessibility, usability and scalability of Zcash, but the
+  implications of our work have an even broader potential
 team:
   anonymous: false
   teammembers:
-    - name: Josh Swihart
-      role: CEO
-      link: https://x.com/jswihart
-    - name: Paul Brigner
-      role: VP
-      link: https://x.com/paulbrigner
+  - name: Josh Swihart
+    role: CEO
+    link: https://x.com/jswihart
+  - name: Paul Brigner
+    role: VP
+    link: https://x.com/paulbrigner
 links:
   web: https://electriccoin.co/
   blog: https://electriccoin.co/blog/
   twitter: https://x.com/ElectricCoinCo
-
 usecases:
-  - research-and-development
+- research-and-development
+have_token: false

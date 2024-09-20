@@ -1,15 +1,17 @@
 name: Basic Swap
-categories: [defi]
-ecosystem: [multichain]
-description: "A private and cross-chain DEX"
+categories:
+- defi
+ecosystem:
+- multichain
+description: A private and cross-chain DEX
 project_type: DeFi
-product_launch_day: "2022-12-08"
+product_launch_day: '2022-12-08'
 technology:
   type: P2P
   name: peer to peer
   features:
-    - private
-    - swaps
+  - private
+  - swaps
 links:
   web: https://basicswapdex.com/
   twitter: https://twitter.com/basicswapdex
@@ -42,14 +44,14 @@ traceability:
 third_party_dependency: false
 compliance: none
 client_diversability:
-  - name: BasicSwap client
-    link: https://basicswapdex.com/
+- name: BasicSwap client
+  link: https://basicswapdex.com/
 default_privacy: false
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - defi
+- defi
+have_token: false

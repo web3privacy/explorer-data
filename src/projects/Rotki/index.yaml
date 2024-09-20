@@ -1,15 +1,22 @@
 id: rotki
 name: Rotki
-categories: [applications]
-ecosystem: [ethereum, bitcoin, base, optimist, gnosis, scroll, zksync]
-description: "rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy"
-
+categories:
+- applications
+ecosystem:
+- ethereum
+- bitcoin
+- base
+- optimist
+- gnosis
+- scroll
+- zksync
+description: rotki is an open source portfolio tracker, accounting and analytics tool
+  that protects your privacy
 team:
   anonymous: false
   teammembers:
-    - name: Lefteris Karapetsas
-      link: https://x.com/LefterisJP
-
+  - name: Lefteris Karapetsas
+    link: https://x.com/LefterisJP
 links:
   web: https://rotki.com/
   github: https://github.com/rotki/rotki
@@ -17,24 +24,20 @@ links:
   blog: https://blog.rotki.com/
   twitter: https://x.com/rotkiapp
   discord: https://discord.rotki.com/
-
 sunset: false
-
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-
+  p2p: true
 privacy_policy:
   defined: true
   link: https://rotki.com/privacy-policy
-
 default_privacy: true
-
 traceability:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false
 compliance: false
-
 usecases:
-  - dapps
+- dapps
+have_token: false

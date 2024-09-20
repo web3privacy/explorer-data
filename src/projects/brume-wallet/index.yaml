@@ -1,15 +1,17 @@
 name: Brume wallet
-categories: [applications]
-ecosystem: [ethereum]
-description: "Tor based wallet for Ethereum"
+categories:
+- applications
+ecosystem:
+- ethereum
+description: Tor based wallet for Ethereum
 project_type: Wallets
-product_launch_day: "2022-11-13"
+product_launch_day: '2022-11-13'
 technology:
   type: Tor
   name: Tor project
   features:
-    - private
-    - Wallet
+  - private
+  - Wallet
 links:
   web: https://bento.me/brume
   twitter: https://twitter.com/BrumeWallet
@@ -29,9 +31,9 @@ privacy_policy:
 team:
   anonymous: false
   teammembers:
-    - name: Haz Æ 41
-      role: developer
-      link: https://bento.me/hazae41
+  - name: "Haz \xC6 41"
+    role: developer
+    link: https://bento.me/hazae41
 storage:
   decentralized: true
 traceability:
@@ -40,19 +42,17 @@ traceability:
   sign_in_type_requirments: seed
 third_party_dependency: false
 compliance: compliant
-
 history:
-  - title: Hackaton
-    event_type: Hackaton
-    description: Hackaton project
-    time: Nov 13, 2022
+- title: Hackaton
+  event_type: Hackaton
+  description: Hackaton project
+  time: Nov 13, 2022
 default_privacy: true
-
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - wallets
+- wallets
+have_token: false

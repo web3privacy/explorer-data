@@ -1,7 +1,8 @@
 id: privasea
-name: "Privasea"
-categories: [infrastructure]
-description: "An AI + DePIN Network enabled through FHEML"
+name: Privasea
+categories:
+- infrastructure
+description: An AI + DePIN Network enabled through FHEML
 links:
   web: https://www.privasea.ai/
   github: https://github.com/Privasea
@@ -11,3 +12,4 @@ links:
   twitter: https://x.com/Privasea_ai
   discord: https://discord.com/invite/yRtQGvWkvG
   telegram: https://t.me/Privasea_ai
+have_token: false

@@ -1,9 +1,10 @@
 name: Arcana's Private NFT
-categories: [applications]
-description: "New supported format by Arcana preserving privacy within NFT minting."
+categories:
+- applications
+description: New supported format by Arcana preserving privacy within NFT minting.
 links:
   web: https://arcana.network/blog/launching-private-nfts-on-arcana/
   github: https://docs.beta.arcana.network/docs/conceptpvtnft/
-
 usecases:
-  - nft-community
+- nft-community
+have_token: false

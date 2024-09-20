@@ -1,9 +1,11 @@
 name: Lunar aka Brume Wallet
-categories: [applications]
-ecosystem: [ethereum]
+categories:
+- applications
+ecosystem:
+- ethereum
 links:
-  web:: https://bento.me/brume
-  github:: https://github.com/brumewallet
+  'web:': https://bento.me/brume
+  'github:': https://github.com/brumewallet
   twitter: https://twitter.com/BrumeWallet
 project_status:
   live_status: true
@@ -13,9 +15,9 @@ project_status:
 team:
   anonymous: true
   teammembers:
-    - name: Haz Æ 41
-      role: Founder
-      link: https://x.com/hazae41
-
+  - name: "Haz \xC6 41"
+    role: Founder
+    link: https://x.com/hazae41
 usecases:
-  - wallets
+- wallets
+have_token: false

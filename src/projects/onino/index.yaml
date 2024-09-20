@@ -1,12 +1,11 @@
 name: Onino
 categories:
-  - infrastructure
+- infrastructure
 description: A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability
 links:
   web: https://www.onino.io
-have_token: true
+have_token: false
 tokens:
-  - symbol: ONI
-
+- symbol: ONI
 usecases:
-  - infrastructure
+- infrastructure

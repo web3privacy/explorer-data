@@ -1,13 +1,14 @@
 name: Wasabi Wallet
 categories:
-  - applications
+- applications
 description: Open-source, non-custodial Bitcoin Wallet for desktop
-ecosystem: [bitcoin]
+ecosystem:
+- bitcoin
 links:
   web: https://wasabiwallet.io/
   github: https://github.com/zkSNACKs/WalletWasabi
 team:
   anonymous: true
-
 usecases:
-  - wallets
+- wallets
+have_token: false

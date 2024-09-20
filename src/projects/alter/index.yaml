@@ -1,6 +1,8 @@
 name: ALTER
-categories: [social-and-communications]
-description: "Private & Secure Communication App Utilizing Secret Nework secret contract technology."
+categories:
+- social-and-communications
+description: Private & Secure Communication App Utilizing Secret Nework secret contract
+  technology.
 team:
   anonymous: true
 links:
@@ -15,6 +17,6 @@ project_status:
   version: mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - messaging
+- messaging
+have_token: false

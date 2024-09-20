@@ -1,39 +1,40 @@
 name: SerenityShield
 categories:
-  - applications
-description: "The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone"
+- applications
+description: The Leading Sensitive Data Storage Solution on Blockchain. Security,
+  Privacy and Digital Rights for Everyone
 team:
   anonymous: false
   teammembers:
-    - name: VENKET NAGA
-      role: CEO & Co-Founder
-      link: https://www.linkedin.com/in/venket-naga-97998b265/
-    - name: Boris M.
-      role: CPO & Co-Founder
-    - name: Hughes Svay
-      role: COO
-      link: https://x.com/SvayHugues
-    - name: Nikos Koukos
-      role: Head of Marketing
-      link: https://www.linkedin.com/in/nikos-koukos-7a3899214/
-    - name: Nataliia Shtangrat
-      role: Business dev
-      link: https://x.com/Natalie_sht
-    - name: Justin Mantell
-      role: Business dev
-      link: https://x.com/ahabs_ghost
-    - name: Dan Thompson
-      role: Copywriter
-      link: https://x.com/dan_serenity
-    - name: Juan M.Oviedo
-      role: Head of security
-      link: https://x.com/OviedoJuanma
-    - name: Julio Vilalobos
-      role: Designer
-      link: https://x.com/julioskulls
-    - name: Ranjit Edward
-      role: Infrastructure Architect
-      link: https://www.linkedin.com/in/ranjitedward/
+  - name: VENKET NAGA
+    role: CEO & Co-Founder
+    link: https://www.linkedin.com/in/venket-naga-97998b265/
+  - name: Boris M.
+    role: CPO & Co-Founder
+  - name: Hughes Svay
+    role: COO
+    link: https://x.com/SvayHugues
+  - name: Nikos Koukos
+    role: Head of Marketing
+    link: https://www.linkedin.com/in/nikos-koukos-7a3899214/
+  - name: Nataliia Shtangrat
+    role: Business dev
+    link: https://x.com/Natalie_sht
+  - name: Justin Mantell
+    role: Business dev
+    link: https://x.com/ahabs_ghost
+  - name: Dan Thompson
+    role: Copywriter
+    link: https://x.com/dan_serenity
+  - name: Juan M.Oviedo
+    role: Head of security
+    link: https://x.com/OviedoJuanma
+  - name: Julio Vilalobos
+    role: Designer
+    link: https://x.com/julioskulls
+  - name: Ranjit Edward
+    role: Infrastructure Architect
+    link: https://www.linkedin.com/in/ranjitedward/
 links:
   web: https://serenityshield.io
   blog: https://www.serenityshield.io/blog
@@ -46,6 +47,6 @@ project_status:
   version: tbd
   testnet: false
   mainnet: false
-
 usecases:
-  - storage
+- storage
+have_token: false

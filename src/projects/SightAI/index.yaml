@@ -1,7 +1,8 @@
 id: sightai
 name: SightAI
-categories: [applications]
-description: "Decentralized AI inference with FHE"
+categories:
+- applications
+description: Decentralized AI inference with FHE
 team:
   anonymous: true
 links:
@@ -13,5 +14,5 @@ links:
   telegram: https://t.me/sightai
 have_token: false
 sunset: false
-
-usecases: [ai]
+usecases:
+- ai

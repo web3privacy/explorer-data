@@ -1,20 +1,22 @@
 name: RAILGUN
-categories: [defi]
+categories:
+- defi
 tokens:
-  - name: Railgun
-    symbol: RAIL
-    network: Ethereum
-    contract_address: "0xe76c6c83af64e4c60245d8c7de953df673a7a33d"
-  - name: Railgun
-    symbol: RAIL
-    network: Polygon
-    contract_address: "0x92A9C92C215092720C731c96D4Ff508c831a714f"
-description: "Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum."
+- name: Railgun
+  symbol: RAIL
+  network: Ethereum
+  contract_address: '0xe76c6c83af64e4c60245d8c7de953df673a7a33d'
+- name: Railgun
+  symbol: RAIL
+  network: Polygon
+  contract_address: '0x92A9C92C215092720C731c96D4Ff508c831a714f'
+description: Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart
+  Chain and Arbitrum.
 project_type: transaction
 technology:
   type: zk
   features:
-    - private
+  - private
 links:
   web: https://railgun.org/
   twitter: https://twitter.com/railgun_project
@@ -44,30 +46,30 @@ privacy_policy:
 team:
   anonymous: false
   teammembers:
-    - name: Alan Scott
-      role: researcher
-    - name: Kieran Mesquita
-      role: researcher
-    - name: John Meurer
-      role: researcher
-    - name: Dylan Oliver
-      role: researcher
-    - name: Hisham Galan
-      role: researcher
-    - name: Peter Simpson
-      role: researcher
-    - name: Bill Liang
-      role: researcher
-    - name: Matias Grote
-      role: researcher
-    - name: Jacob Makarsky
-      role: Software engineer
-    - name: Edward P. Fricker
-      role: Legal counsel
-    - name: Phil Huang
-      role: Advisor
-    - name: Emmanuel Goldstein
-      role: Global economist
+  - name: Alan Scott
+    role: researcher
+  - name: Kieran Mesquita
+    role: researcher
+  - name: John Meurer
+    role: researcher
+  - name: Dylan Oliver
+    role: researcher
+  - name: Hisham Galan
+    role: researcher
+  - name: Peter Simpson
+    role: researcher
+  - name: Bill Liang
+    role: researcher
+  - name: Matias Grote
+    role: researcher
+  - name: Jacob Makarsky
+    role: Software engineer
+  - name: Edward P. Fricker
+    role: Legal counsel
+  - name: Phil Huang
+    role: Advisor
+  - name: Emmanuel Goldstein
+    role: Global economist
 storage:
   decentralized: true
 traceability:
@@ -76,20 +78,20 @@ traceability:
 third_party_dependency: false
 compliance: false
 audits:
-  - name: Railgun audit report
-    link: https://assets.railgun.org/docs/audits/
-    time: July, 2021
+- name: Railgun audit report
+  link: https://assets.railgun.org/docs/audits/
+  time: July, 2021
 history:
-  - title: Mainet
-    event_type: launch
-    description: Token Launch
-    time: Jul 3, 2021
-    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+- title: Mainet
+  event_type: launch
+  description: Token Launch
+  time: Jul 3, 2021
+  link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
 client_diversability:
-  - name: Railway
-    link: https://www.railway.xyz/
-  - name: TokenShielder
-    link: https://tokenshielder.com/
+- name: Railway
+  link: https://www.railway.xyz/
+- name: TokenShielder
+  link: https://tokenshielder.com/
 default_privacy: true
 funding:
   name: DCG
@@ -102,6 +104,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - defi
+- defi
+have_token: false

@@ -1,7 +1,8 @@
 name: TransferChain
 categories:
-  - applications
-description: "Enables users to store, process, and share their data while ensuring its privacy and security"
+- applications
+description: Enables users to store, process, and share their data while ensuring
+  its privacy and security
 team:
   anonymous: true
 links:
@@ -15,6 +16,6 @@ project_status:
   version: tbd
   testnet: false
   mainnet: true
-
 usecases:
-  - storage
+- storage
+have_token: false

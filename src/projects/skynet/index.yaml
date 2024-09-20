@@ -1,11 +1,12 @@
 name: SkyNet
 categories:
-  - applications
-description: "an open protocol for hosting data and web applications on the decentralized web using Sia"
+- applications
+description: an open protocol for hosting data and web applications on the decentralized
+  web using Sia
 links:
   web: https://skynetlabs.com
   github: https://github.com/SkynetLabs
 sunset: true
-
 usecases:
-  - storage
+- storage
+have_token: false

@@ -1,7 +1,8 @@
 name: xx messenger
 categories:
-  - social-and-communications
-description: "An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network"
+- social-and-communications
+description: An ultra-private messaging app, powered by the quantum-resistant and
+  decentralized xx network
 team:
   anonymous: false
 links:
@@ -18,6 +19,6 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
-
 usecases:
-  - messaging
+- messaging
+have_token: false

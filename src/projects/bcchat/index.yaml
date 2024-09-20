@@ -1,6 +1,7 @@
 name: BCchat
-categories: [social-and-communications]
-description: "A decentralized, privacy messenger built over the Beldex blockchain."
+categories:
+- social-and-communications
+description: A decentralized, privacy messenger built over the Beldex blockchain.
 team:
   anonymous: true
 links:
@@ -16,6 +17,6 @@ project_status:
   version: mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - messaging
+- messaging
+have_token: false

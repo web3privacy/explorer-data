@@ -1,18 +1,21 @@
 name: Cake Wallet
-categories: [applications]
-description: "Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV and exchange other currencies"
-ecosystem: [monero]
+categories:
+- applications
+description: Cake Wallet allows you to safely store, send, receive, and exchange your
+  XMR, BTC, LTC, and XHV and exchange other currencies
+ecosystem:
+- monero
 links:
   web: https://monero.com/wallets
   github: https://github.com/cake-tech/cake_wallet
   docs: https://guides.cakewallet.com/
 project_status:
   live_status: true
-  version: ""
+  version: ''
   testnet: false
   mainnet: false
 team:
   anonymous: true
-
 usecases:
-  - wallets
+- wallets
+have_token: false

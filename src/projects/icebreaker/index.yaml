@@ -1,16 +1,14 @@
 name: Icebreaker
 categories:
-  - applications
+- applications
 description: zero knowledge x self-sovereign identity
 links:
   web: https://www.icebreaker.xyz
   docs: https://icebreakerlabs.notion.site/Icebreaker-Wiki-a2dac9feaf9740d095b58263290ead71
-
   blog: https://mirror.xyz/icebreakerlabs.eth
   twitter: https://x.com/icebreaker_xyz
   telegram: https://t.me/+Mgo-ltakTs80MDkx
-  farcaster: "https://farcaster/icebreaker"
-have_token: true
-
+  farcaster: https://farcaster/icebreaker
+have_token: false
 usecases:
-  - did
+- did

@@ -1,8 +1,9 @@
 name: Nillion
 categories:
-  - infrastructure
-description: "The Secure Processing Layer of Web3"
-ecosystem: [multichain]
+- infrastructure
+description: The Secure Processing Layer of Web3
+ecosystem:
+- multichain
 links:
   web: https://www.nillion.com
   github: https://github.com/NillionNetwork
@@ -14,6 +15,6 @@ team:
   anonymous: false
   company:
     link: https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU
-
 usecases:
-  - computing
+- computing
+have_token: false

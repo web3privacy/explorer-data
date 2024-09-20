@@ -1,7 +1,8 @@
 id: ixec
 name: iExec
-categories: [applications]
-description: "Build, Own, and Monetize in Web3. Privacy & Choice for users"
+categories:
+- applications
+description: Build, Own, and Monetize in Web3. Privacy & Choice for users
 team:
   anonymous: false
 links:
@@ -14,14 +15,13 @@ links:
   discord: https://discord.com/invite/pbt9m98wnU
   facebook: https://www.facebook.com/iexecteam
   telegram: https://discord.com/invite/pbt9m98wnU
-have_token: true
+have_token: false
 token_link: https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375
 tokens:
-  - name: RLC
-    symbol: RLC
-    network: Ethereum
-    contract_address: "0x607F4C5BB672230e8672085532f7e901544a7375"
+- name: RLC
+  symbol: RLC
+  network: Ethereum
+  contract_address: '0x607F4C5BB672230e8672085532f7e901544a7375'
 sunset: false
-
 usecases:
-  - infrastructure
+- infrastructure

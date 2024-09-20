@@ -1,11 +1,11 @@
 name: Skiff Drive
 categories:
-  - applications
+- applications
 description: Secure file storage
 links:
   web: https://skiff.com/drive
   github: https://github.com/skiff-org
 sunset: true
-
 usecases:
-  - storage
+- storage
+have_token: false

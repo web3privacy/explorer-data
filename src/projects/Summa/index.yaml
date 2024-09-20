@@ -1,15 +1,21 @@
 id: summa
 name: Summa
-categories: [infrastructure]
-description: "Protocol enabling centralized exchanges to prove solvency without compromising private information."
+categories:
+- infrastructure
+description: Protocol enabling centralized exchanges to prove solvency without compromising
+  private information.
 project_status:
   live_status: true
+  testnet: false
+  mainnet: false
 team:
   anonymous: true
 links:
   github: https://github.com/summa-dev
 technology:
   type: halo2
-  features: [""]
-
-usecases: [infrastructure]
+  features:
+  - ''
+usecases:
+- infrastructure
+have_token: false

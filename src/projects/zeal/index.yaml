@@ -1,12 +1,13 @@
 name: Zeal
 categories:
-  - applications
+- applications
 description: The web3 wallet that defends your crypto and privacy
-ecosystem: [multichain]
+ecosystem:
+- multichain
 links:
   web: https://www.zeal.app/
 team:
   anonymous: true
-
 usecases:
-  - wallets
+- wallets
+have_token: false

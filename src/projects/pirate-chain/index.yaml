@@ -1,21 +1,20 @@
 name: Pirate Chain
 categories:
-  - defi
-description: "Anonymous cryptocurrency, a truly private, decentralized blockchain"
-ecosystem: [pirate]
+- defi
+description: Anonymous cryptocurrency, a truly private, decentralized blockchain
+ecosystem:
+- pirate
 links:
   web: https://pirate.black
   github: https://github.com/PirateNetwork
   block_explorer: https://explorer.piratechain.com/
   whitepaper: https://piratechain.com/whitepaper/
-
   blog: https://piratechain.com/blog/
   twitter: https://x.com/PirateChain
   discord: https://discord.com/invite/teHepr757z
   telegram: https://t.me/piratechain/
-
 team:
   anonymous: true
-
 usecases:
-  - currency
+- currency
+have_token: false

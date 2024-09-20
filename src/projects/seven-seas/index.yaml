@@ -1,5 +1,6 @@
 name: Seven Seas
-categories: [defi]
-
+categories:
+- defi
 usecases:
-  - defi
+- defi
+have_token: false

@@ -1,7 +1,8 @@
 id: arcium
-name: "Arcium"
-categories: [infrastructure]
-description: "The first parallelized confidential computing network"
+name: Arcium
+categories:
+- infrastructure
+description: The first parallelized confidential computing network
 links:
   web: https://arcium.com/
   github: https://github.com/elusiv-privacy
@@ -9,3 +10,4 @@ links:
   blog: https://blog.arcium.com/
   twitter: https://x.com/ArciumHQ
   discord: https://discord.com/invite/arcium
+have_token: false

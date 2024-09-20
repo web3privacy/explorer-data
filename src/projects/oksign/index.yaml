@@ -1,10 +1,11 @@
 name: okSign
 categories:
-  - applications
-description: Create, Sign, and Save eSignatures with smart contracts and permissioned NFTs.
+- applications
+description: Create, Sign, and Save eSignatures with smart contracts and permissioned
+  NFTs.
 links:
   web: https://www.oksign.app
   twitter: https://x.com/okSign_
-
 usecases:
-  - dapps
+- dapps
+have_token: false

@@ -1,8 +1,11 @@
 name: Session
 categories:
-  - applications
-description: "An end-to-end encrypted messenger that minimizes sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance"
-ecosystem: [cryptonote]
+- applications
+description: An end-to-end encrypted messenger that minimizes sensitive metadata,
+  designed and built for people who want absolute privacy and freedom from any form
+  of surveillance
+ecosystem:
+- cryptonote
 links:
   web: https://getsession.org
   github: https://github.com/oxen-io
@@ -13,8 +16,9 @@ links:
   twitter: https://x.com/session_app
   facebook: https://www.facebook.com/SessionMessenger/
 team:
+  anonymous: false
   company:
     link: https://www.linkedin.com/company/sessionmessenger/people/
-
 usecases:
-  - messaging
+- messaging
+have_token: false

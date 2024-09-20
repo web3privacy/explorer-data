@@ -1,6 +1,6 @@
 name: JoinMarket
 categories:
-  - applications
+- applications
 description: Decentralized bitcoin coinjoin for improving privacy and fungibility.
 team:
   anonymous: true
@@ -11,6 +11,6 @@ links:
   docs: https://joinmarket-org.github.io/joinmarket-clientserver/
   twitter: https://twitter.com/joinmarket
 sunset: true
-
 usecases:
-  - mixing-service
+- mixing-service
+have_token: false

@@ -1,6 +1,6 @@
 name: OLA
 categories:
-  - infrastructure
+- infrastructure
 description: ZK-ZKVM Bringing Programmable Privacy to Blockchains
 team:
   anonymous: false
@@ -18,6 +18,6 @@ project_status:
   version: Testnet
   testnet: true
   mainnet: false
-
 usecases:
-  - eth-layer-2
+- eth-layer-2
+have_token: false

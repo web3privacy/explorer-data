@@ -1,33 +1,30 @@
 id: raw-box
 name: RawBox
-categories: [hardware]
-ecosystem: [nym]
-description: "Redefined privacy-enabled router."
-
+categories:
+- hardware
+ecosystem:
+- nym
+description: Redefined privacy-enabled router.
 team:
   anonymous: false
   teammembers:
-    - name: Oleksandr
-      link: https://x.com/oleksky
-    - name: crptcpchk
-      link: https://x.com/the01100011
-    - name: Yana Matrosova
-      link: https://x.com/yana_tnfl
-    - name: Beyond
-      link: https://x.com/Beyond_Karto
-
+  - name: Oleksandr
+    link: https://x.com/oleksky
+  - name: crptcpchk
+    link: https://x.com/the01100011
+  - name: Yana Matrosova
+    link: https://x.com/yana_tnfl
+  - name: Beyond
+    link: https://x.com/Beyond_Karto
 links:
   github: https://github.com/Raw-Box/
   twitter: https://x.com/rawbox_tech
   telegram: https://t.me/+G4ixLEgYBXJkZWRi
-
 project_status:
   live_status: true
   version: Testnet
   testnet: true
   mainnet: false
-
 have_token: false
-
 usecases:
-  - hardware
+- hardware

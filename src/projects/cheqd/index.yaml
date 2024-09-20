@@ -1,17 +1,18 @@
 name: CheqD
 categories:
-  - applications
-description: "A secure network that enables individuals and organizations to fully control  their personal data. It allows self-sovereign identity (SSI) companies to build and deliver secure solutions to you"
+- applications
+description: A secure network that enables individuals and organizations to fully
+  control  their personal data. It allows self-sovereign identity (SSI) companies
+  to build and deliver secure solutions to you
 links:
   web: https://cheqd.io
   github: https://github.com/cheqd
   block_explorer: https://bigdipper.live/cheqd/it
   docs: https://docs.cheqd.io/identity
-
   blog: https://cheqd.io/blog/
   twitter: https://x.com/cheqd_io
   discord: https://discord.com/invite/4VZszdE7HH
   telegram: https://t.me/cheqd
-
 usecases:
-  - dapps
+- dapps
+have_token: false

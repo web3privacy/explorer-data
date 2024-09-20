@@ -1,7 +1,7 @@
 name: Pigeon Communicator
 categories:
-  - social-and-communications
-description: "Blockchain-based, trustless, censorship-resistant decentralized messaging"
+- social-and-communications
+description: Blockchain-based, trustless, censorship-resistant decentralized messaging
 team:
   anonymous: true
 links:
@@ -11,14 +11,13 @@ links:
   discord: https://discord.com/invite/SZcf63h
   facebook: https://www.facebook.com/groups/1022013661300591
   telegram: https://t.me/Pigeoncoin
-have_token: true
+have_token: false
 tokens:
-  - symbol: PGN
+- symbol: PGN
 project_status:
   live_status: true
   version: Testnet
   testnet: true
   mainnet: false
-
 usecases:
-  - messaging
+- messaging

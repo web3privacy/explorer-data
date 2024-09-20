@@ -4,6 +4,9 @@ required:
   - id
   - name
   - categories
+  - have_token
+  - third_party_dependency
+
 properties:
   id:
     type: string
@@ -39,6 +42,7 @@ properties:
     type: string
   have_token:
     type: boolean
+
   token_link:
     type: string
     format: uri
@@ -64,6 +68,9 @@ properties:
     type: string
   team:
     type: object
+    required:
+      - anonymous
+
     properties:
       anonymous:
         type: boolean
@@ -115,8 +122,12 @@ properties:
         link:
           type: string
           format: uri
+
   sunset:
     type: boolean
+    required:
+      - sunset
+
   # LINKS ---------------------------------------------------------------------
   links:
     type: object
@@ -201,6 +212,9 @@ properties:
       - features
   blockchain_features:
     type: object
+    required:
+      - opensource
+      - p2p
     properties:
       encryption:
         type: string
@@ -224,6 +238,11 @@ properties:
         type: string
       upgradability:
         type: object
+        required:
+          - enabled
+          - viewing_key
+          - dissapearing_tx
+          - connected_tx
         properties:
           enabled:
             type: boolean
@@ -256,6 +275,8 @@ properties:
     type: string
   privacy_policy:
     type: object
+    required:
+      - defined
     properties:
       defined:
         type: boolean
@@ -310,6 +331,10 @@ properties:
     type: boolean
   project_status:
     type: object
+    required:
+      - live_status
+      - testnet
+      - mainnet
     properties:
       live_status:
         type: boolean

@@ -1,11 +1,12 @@
 name: HideYour.cash
 categories:
-  - applications
-description: "HideYour.cash is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol"
+- applications
+description: HideYour.cash is a private transactions protocol (mixer) designed for
+  well-intended users on NEAR Protocol
 links:
   web: https://hideyour.cash
   docs: https://docs.tickets.opact.io/tutorial
 sunset: true
-
 usecases:
-  - mixing-service
+- mixing-service
+have_token: false

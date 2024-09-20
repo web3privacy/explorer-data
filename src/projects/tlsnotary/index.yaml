@@ -1,15 +1,14 @@
 name: TLSNotary
 categories:
-  - applications
+- applications
 description: Proof of data authenticity
 links:
   web: https://tlsnotary.org
   github: https://github.com/tlsnotary/tlsn
   docs: https://docs.tlsnotary.org/
-
   blog: https://mirror.xyz/privacy-scaling-explorations.eth/T4MR2PgBzBmN2I3dhDJpILXkQsqZp1Bp8GSm_Oo3Vnw
   twitter: https://x.com/tlsnotary
   discord: https://discord.com/invite/9XwESXtcN7
-
 usecases:
-  - dapps
+- dapps
+have_token: false

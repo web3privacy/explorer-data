@@ -1,16 +1,14 @@
 name: zCloak
 categories:
-  - applications
+- applications
 description: Privacy-first DID and verifiable computation infrastructure
 links:
   web: https://zcloak.network
   github: https://github.com/zCloak-Network
   docs: https://zcloak-network.notion.site/166923ca03f0410888ad3860c96c0894?v=9aa8a4f5436942d0b224da99ad2a4565
-
   blog: https://zcloaknetwork.medium.com/
   twitter: https://x.com/zcloaknetwork
   discord: https://discord.com/invite/wcKt6MDRJz
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did

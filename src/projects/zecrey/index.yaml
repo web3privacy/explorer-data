@@ -1,8 +1,9 @@
 name: Zecrey
 categories:
-  - infrastructure
+- infrastructure
 description: zkRollup basedLayer 2 protocol featuring privacy and scalability
-ecosystem: [multichain]
+ecosystem:
+- multichain
 links:
   web: https://www.zecrey.com
   github: https://github.com/Zecrey-Labs
@@ -10,9 +11,8 @@ links:
   blog: https://zecrey.medium.com/
   twitter: https://x.com/ZecreyLabs
   discord: https://discord.com/invite/MdajwkVZE4
-
 team:
   anonymous: true
-
 usecases:
-  - eth-layer-2
+- eth-layer-2
+have_token: false

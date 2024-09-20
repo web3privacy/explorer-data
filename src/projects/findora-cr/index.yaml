@@ -1,16 +1,17 @@
 name: Findora CR
 categories:
-  - applications
+- applications
 description: Enabling ZK Identity Management & CRedentials for Web3
-ecosystem: [multichain]
+ecosystem:
+- multichain
 links:
   web: https://findora.org/findora-cr/
   github: https://github.com/findoranetwork
 team:
+  anonymous: false
   company:
     link: https://findora.org/team/
-have_token: true
+have_token: false
 token_link: https://coinmarketcap.com/it/currencies/findora/
-
 usecases:
-  - did
+- did

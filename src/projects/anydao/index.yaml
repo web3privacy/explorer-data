@@ -1,12 +1,14 @@
 name: AnyDAO
-categories: [applications]
-description: "Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting"
+categories:
+- applications
+description: Vote aggregation across different blockchain networks with adjustable
+  privacy settings which controls the visibility of the voting
 links:
   web: https://app.anydao.io/bsc/explore
   docs: https://docs.anydao.io/
   blog: https://anydao.medium.com/
   twitter: https://x.com/0xAnyDAO
   telegram: https://t.me/AnyDAO
-
 usecases:
-  - dao
+- dao
+have_token: false

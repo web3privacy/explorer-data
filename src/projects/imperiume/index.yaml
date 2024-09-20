@@ -1,11 +1,10 @@
 name: Imperiume
 categories:
-  - applications
+- applications
 description: Non-custodial wallet
 links:
   web: https://www.imperiume.io/wallet
-
 sunset: true
-
 usecases:
-  - wallets
+- wallets
+have_token: false

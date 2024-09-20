@@ -1,6 +1,6 @@
 name: VUP
 categories:
-  - applications
+- applications
 description: Private and decentralized cloud storage
 team:
   anonymous: true
@@ -14,6 +14,6 @@ project_status:
   version: v0.15.0 BETA
   testnet: false
   mainnet: true
-
 usecases:
-  - storage
+- storage
+have_token: false

@@ -1,9 +1,12 @@
 name: ETH Privacy
-description: "ETH #Privacy is the hackathon around privacy, organized by the Leading Privacy Alliance of web3."
-categories: [social-and-communications]
-ecosystem: [ethereum]
+description: 'ETH #Privacy is the hackathon around privacy, organized by the Leading
+  Privacy Alliance of web3.'
+categories:
+- social-and-communications
+ecosystem:
+- ethereum
 links:
   web: https://www.leadingprivacy.com/istanbul
-
 usecases:
-  - events
+- events
+have_token: false

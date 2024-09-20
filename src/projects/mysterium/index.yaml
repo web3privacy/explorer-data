@@ -1,25 +1,25 @@
 name: Mysterium
 categories:
-  - infrastructure
-description: An open-source ecosystem of tools and infrastructure to liberate the web
+- infrastructure
+description: An open-source ecosystem of tools and infrastructure to liberate the
+  web
 team:
   anonymous: false
   teammembers:
-    - name: RobertasVis
-      role: Founder
-      link: https://www.linkedin.com/in/robertasvis
-    - name: Waldz
-      role: Founder & Lead Developer
-      link: https://www.linkedin.com/in/waldz
+  - name: RobertasVis
+    role: Founder
+    link: https://www.linkedin.com/in/robertasvis
+  - name: Waldz
+    role: Founder & Lead Developer
+    link: https://www.linkedin.com/in/waldz
 links:
   web: https://www.mysterium.network
   github: https://github.com/MysteriumNetwork
   docs: https://docs.mysterium.network/
   blog: https://www.mysterium.network/blog
   twitter: https://twitter.com/MysteriumNet
-have_token: true
+have_token: false
 tokens:
-  - symbol: MYST
-
+- symbol: MYST
 usecases:
-  - infrastructure
+- infrastructure

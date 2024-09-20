@@ -1,6 +1,6 @@
 name: geniish
 categories:
-  - applications
+- applications
 description: Confidential NFTs for exclusive experiences.
 links:
   web: https://www.geniish.io
@@ -9,6 +9,5 @@ links:
   discord: https://discord.com/invite/Mc6Y2jfeEv
 have_token: false
 sunset: false
-
 usecases:
-  - nft-community
+- nft-community

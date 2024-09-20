@@ -1,11 +1,13 @@
 name: Webb
-categories: [defi]
-ecosystem: [tangle]
-description: "an interoperable private bridge"
+categories:
+- defi
+ecosystem:
+- tangle
+description: an interoperable private bridge
 technology:
   type: zk
   features:
-    - Anchor System
+  - Anchor System
 links:
   web: https://app.webb.tools/#/tornado
   github: https://github.com/webb-tools
@@ -13,8 +15,10 @@ links:
 project_status:
   live_status: false
   beta: true
+  mainnet: false
+  testnet: false
 team:
   anonymous: true
-
 usecases:
-  - defi
+- defi
+have_token: false

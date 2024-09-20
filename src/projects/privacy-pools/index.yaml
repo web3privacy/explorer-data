@@ -1,13 +1,14 @@
 name: Privacy Pools
 categories:
-  - applications
-description: "Allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that"
+- applications
+description: Allow you to generate a brand new Ethereum address that is completely
+  unlinkable to any prior transaction history. But our privacy-preserving technology
+  does much more than that
 links:
   web: https://privacy-pools-v1-demo.netlify.app/
   github: https://github.com/ameensol/privacy-pools
   docs: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364
-
   education: https://x.com/0xArhat/status/1699812440614035944
-
 usecases:
-  - dapps
+- dapps
+have_token: false

@@ -1,21 +1,24 @@
 name: Wownero
 categories:
-  - defi
-description: "Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply of 184 million coins"
-ecosystem: [wownero]
+- defi
+description: Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of
+  Monero with fixed supply of 184 million coins
+ecosystem:
+- wownero
 product_launch_day: 01 April 2018
 project_type: Memecoin
 technology:
   type: Privacy
   features:
-    - Ring Signatures (21 decoys)
-    - Ring Confidential Transactions (RingCT)
-    - Stealth Addresses
-    - Bulletproofs+
-    - Dynamic Block Size
+  - Ring Signatures (21 decoys)
+  - Ring Confidential Transactions (RingCT)
+  - Stealth Addresses
+  - Bulletproofs+
+  - Dynamic Block Size
 blockchain_features:
   p2p: true
   network: Dandelion++, RandomX PoW (lite variant)
+  opensource: false
 links:
   web: https://wownero.org
   github: https://git.wownero.com/wownero/wownero
@@ -23,7 +26,6 @@ links:
   docs: https://wownerodocs.org/
   forum: https://forum.wownero.com
   whitepapper: https://wownero.org/whitepaper.pdf
-
   twitter: https://twitter.com/W0wn3r0
   discord: https://discord.gg/ykZyAzJhDK
   telegram: https://t.me/wownero
@@ -42,6 +44,7 @@ project_status:
   live_status: true
   version: v0.11.1.0
   mainnet: true
-
+  testnet: false
 usecases:
-  - currency
+- currency
+have_token: false

@@ -1,19 +1,20 @@
 name: Vault1317
 categories:
-  - infrastructure
-description: "An Off-chain secure communication protocol with deniability via ZKP (Ring Signature)"
+- infrastructure
+description: An Off-chain secure communication protocol with deniability via ZKP (Ring
+  Signature)
 team:
   anonymous: false
   teammembers:
-    - name: Shawn Chang
-      role: Founder & CEO
-    - name: Ming Xu
-      role: COO
-    - name: cybernaut.eth
-      role: CTO
+  - name: Shawn Chang
+    role: Founder & CEO
+  - name: Ming Xu
+    role: COO
+  - name: cybernaut.eth
+    role: CTO
 links:
   web: https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/
   github: https://github.com/hardenedvault/vault1317
-
 usecases:
-  - infrastructure
+- infrastructure
+have_token: false

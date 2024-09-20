@@ -1,5 +1,6 @@
 name: Spiral Finance
-categories: [defi]
-
+categories:
+- defi
 usecases:
-  - defi
+- defi
+have_token: false

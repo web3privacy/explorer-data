@@ -1,6 +1,6 @@
 name: Start9
 categories:
-  - infrastructure
+- infrastructure
 description: Sovereign computing for a free future.
 team:
   anonymous: true
@@ -15,6 +15,6 @@ project_status:
   version: v0.3.5.1
   testnet: false
   mainnet: true
-
 usecases:
-  - node
+- node
+have_token: false

@@ -1,10 +1,11 @@
 name: Coinomize
 categories:
-  - applications
-description: "Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you"
+- applications
+description: Coinomize helps you protect your privacy and identity and mix your Bitcoins
+  (CoinJoin) easily and cheaply without storing any logs from you
 links:
   web: https://coinomize.biz
   blog: https://coinomize.biz/blog
-
 usecases:
-  - mixing-service
+- mixing-service
+have_token: false

@@ -1,8 +1,10 @@
 name: Sentinel
 categories:
-  - applications
-description: "A global network of autonomous dVPN applications that enable private and censorship resistant internet access"
-ecosystem: [cosmos]
+- applications
+description: A global network of autonomous dVPN applications that enable private
+  and censorship resistant internet access
+ecosystem:
+- cosmos
 links:
   web: https://sentinel.co
   github: https://github.com/sentinel-official
@@ -11,13 +13,12 @@ links:
   twitter: https://twitter.com/SentinelDVPN
 team:
   anonymous: true
-have_token: true
+have_token: false
 token_link: https://coinmarketcap.com/currencies/sentinel/
 project_status:
   live_status: true
   version: stable
   testnet: false
   mainnet: false
-
 usecases:
-  - vpn
+- vpn
