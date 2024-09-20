@@ -20,7 +20,7 @@ project_status:
   version: The Waku Network Gen 0
   testnet: true
   mainnet: false
-traceability:
+tracebility:
   kyc: false
 usecases:
 - messaging

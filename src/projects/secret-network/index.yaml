@@ -53,7 +53,7 @@ team:
       link: https://twitter.com/azaidelson
 storage:
   decentralized: true
-traceability:
+tracebility:
   tracked_data: user SCRT adress
   kyc: false
   sign_in_type_requirments: wallet

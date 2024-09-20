@@ -34,7 +34,7 @@ blockchain_features:
 privacy_policy:
   defined: false
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
 compliance: false
 storage:

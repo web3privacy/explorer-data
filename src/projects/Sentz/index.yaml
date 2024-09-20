@@ -31,7 +31,7 @@ privacy_policy:
   defined: true
   link: https://www.sentz.com/privacy-policy
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false

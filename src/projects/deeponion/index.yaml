@@ -105,7 +105,7 @@ privacy_policy:
   link: https://deeponion.org/privacypolicy.html
   data_usage: Not using
 
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirements: wallet
 

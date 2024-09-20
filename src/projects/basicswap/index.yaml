@@ -37,7 +37,7 @@ team:
   anonymous: true
 storage:
   decentralized: true
-traceability:
+tracebility:
   tracked_data: Chains activity
   kyc: false
   sign_in_type_requirments: wallets

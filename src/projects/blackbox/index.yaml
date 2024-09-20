@@ -47,7 +47,7 @@ team:
     link: https://github.com/Xiphiar
 storage:
   decentralized: true
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: true
