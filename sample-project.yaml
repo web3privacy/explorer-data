@@ -31,11 +31,11 @@ links:
   twitter: https://twitter.com/sample_privacy_project
   
 # Details on live status + version
-project_status:
-  live_status: true
-  version: Mainnet
-  testnet: false
-  mainnet: true
+# project_status:
+#   live_status: true
+#   version: Mainnet
+#   testnet: false
+#   mainnet: true
 
 # Token ticker + contract address - if there is no token "have_token: false" 
 have_token: true
@@ -64,18 +64,18 @@ history:
   link: https://infonewspage.com/sample-launch
 
 # more links
-links:
-  block_explorer: https://samplescan.io/
-  forum: https://forum.sample-website.com
-  changelog: https://changelog.sample-website.com
-  snapshot: https://snapshot.org/sample-dao
-  discord: https://discord.com/invite/jgUQSAMPLE
-  facebook: https://facebook.com/sample-privacy-crypto
-  telegram: https://t.me/sample_privacy_project
-  lens: https://hey.xyz/u/sample_privacy_project
-  farcaster: "@sampleprivacyproject"
-  rss_feed: https://rss-feeds.com/sample_privacy_project
-  education: https://twitter.com/random_user/status/12345678901234
+# links:
+#   block_explorer: https://samplescan.io/
+#   forum: https://forum.sample-website.com
+#   changelog: https://changelog.sample-website.com
+#   snapshot: https://snapshot.org/sample-dao
+#   discord: https://discord.com/invite/jgUQSAMPLE
+#   facebook: https://facebook.com/sample-privacy-crypto
+#   telegram: https://t.me/sample_privacy_project
+#   lens: https://hey.xyz/u/sample_privacy_project
+#   farcaster: "@sampleprivacyproject"
+#   rss_feed: https://rss-feeds.com/sample_privacy_project
+#   education: https://twitter.com/random_user/status/12345678901234
   
 # TECHNOLOGY - information -------------------------------------------------------------------------------------------------------------
 # Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples

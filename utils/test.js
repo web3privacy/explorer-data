@@ -50,6 +50,9 @@ const matrix = {
   features: "feature",
   usecases: "usecase",
   ranks: "rank",
+  custodys: "custody",
+  phases: "phase",
+  requirements: "requirement"
 };
 
 const schemaDir = "./schema";
