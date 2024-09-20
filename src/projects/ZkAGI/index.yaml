@@ -1,7 +1,8 @@
 id: zkagi
 name: ZkAGI
-categories: [applications]
-description: "Pioneering Privacy AI with Decentralized Infrastructure (DePIN)"
+categories:
+- applications
+description: Pioneering Privacy AI with Decentralized Infrastructure (DePIN)
 links:
   web: https://www.zkagi.ai/
   docs: https://zkagi.gitbook.io/introduction
@@ -12,5 +13,6 @@ links:
   telegram: https://t.me/ZkAGI_AI
 have_token: false
 sunset: false
-
-usecases: [ai]
+usecases:
+- ai
+third_party_dependency: false

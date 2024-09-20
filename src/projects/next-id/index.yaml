@@ -1,16 +1,15 @@
 name: Next.ID
 categories:
-  - applications
+- applications
 description: An open-sourced protocol that synergises your Web2 and Web3 profiles.
 links:
   web: https://next.id
   github: https://github.com/nextdotid
   docs: https://docs.next.id/
-
   blog: https://medium.com/@Next.ID
   twitter: https://x.com/NextDotID
   telegram: https://t.me/NextDotIDofficial
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did
+third_party_dependency: false

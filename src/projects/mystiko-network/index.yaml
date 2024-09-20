@@ -1,6 +1,6 @@
 name: Mystiko.Network
 categories:
-  - infrastructure
+- infrastructure
 description: The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer
 team:
   anonymous: true
@@ -15,6 +15,7 @@ project_status:
   version: Mainnet V1
   testnet: true
   mainnet: true
-
 usecases:
-  - infrastructure
+- infrastructure
+have_token: false
+third_party_dependency: false

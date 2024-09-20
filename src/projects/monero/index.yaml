@@ -1,8 +1,10 @@
 name: Monero
 categories:
-  - defi
-description: "Private, decentralized cryptocurrency that keeps your finances confidential and secure"
-ecosystem: [monero]
+- defi
+description: Private, decentralized cryptocurrency that keeps your finances confidential
+  and secure
+ecosystem:
+- monero
 project_status:
   live_status: true
   version: Mainnet
@@ -11,13 +13,13 @@ project_status:
 links:
   web: https://www.getmonero.org
   github: https://github.com/monero-ecosystem
-
   blog: https://www.getmonero.org/blog/
   twitter: https://x.com/monero
   facebook: https://www.facebook.com/monerocurrency/
   telegram: https://t.me/monero
 team:
   anonymous: true
-
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false

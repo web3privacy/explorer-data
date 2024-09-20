@@ -1,18 +1,18 @@
 name: Zero
 categories:
-  - defi
+- defi
 description: Private transactions
 links:
   web: https://zero.directory
   github: https://github.com/zerocurrencycoin
   block_explorer: https://insight.zeromachine.io/insight/
-
   blog: https://zero.directory/news/
   twitter: https://x.com/ZeroCurrencies
   discord: https://discord.com/invite/Jq5knn5
   telegram: https://t.me/zerocurrency
 team:
   anonymous: true
-
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false

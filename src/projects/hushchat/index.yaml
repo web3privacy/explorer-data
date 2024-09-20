@@ -1,7 +1,8 @@
 name: HushChat
 categories:
-  - applications
-description: "HushChat is a protocol which is a particular use case of HushList protocol and which sits on top of Hush Protocol, an improved Zcash Protocol"
+- applications
+description: HushChat is a protocol which is a particular use case of HushList protocol
+  and which sits on top of Hush Protocol, an improved Zcash Protocol
 team:
   anonymous: true
 links:
@@ -15,6 +16,7 @@ project_status:
   version: mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - messaging
+- messaging
+have_token: false
+third_party_dependency: false

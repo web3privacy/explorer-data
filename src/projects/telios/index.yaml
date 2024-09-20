@@ -1,10 +1,11 @@
 name: Telios
 categories:
-  - applications
+- applications
 description: Secure Communication with Encrypted Data and Email
 links:
   web: https://www.telios.io
   github: https://github.com/Telios-org
-
 usecases:
-  - dapps
+- dapps
+have_token: false
+third_party_dependency: false

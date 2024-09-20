@@ -1,31 +1,29 @@
 name: CULT DAO
-categories: [applications]
-assets_used: [CULT]
-ecosystem: [ethereum]
-
+categories:
+- applications
+assets_used:
+- CULT
+ecosystem:
+- ethereum
 description: Investment DAO that fight against centralization and further decentralization
 product_readiness: live
-
-have_token: true
+have_token: false
 token_link: https://etherscan.io/address/0xf0f9D895aCa5c8678f706FB8216fa22957685A13
 tokens:
-  - name: CULT
-    symbol: CULT
-    network: Ethereum
-    contract_address: "0xf0f9D895aCa5c8678f706FB8216fa22957685A13"
+- name: CULT
+  symbol: CULT
+  network: Ethereum
+  contract_address: '0xf0f9D895aCa5c8678f706FB8216fa22957685A13'
 fee: 0.4%
-
 team:
   anonymous: true
   teammembers:
-    - name: Mr. O Modulus
-      role: Founder
-      link: https://x.com/MrOmodulus
-    - name: Artorias
-      role: Co-Founder
-      link: https://x.com/Artorias_eth
-
-# LINKS ---------------------------------------------------------------------
+  - name: Mr. O Modulus
+    role: Founder
+    link: https://x.com/MrOmodulus
+  - name: Artorias
+    role: Co-Founder
+    link: https://x.com/Artorias_eth
 links:
   web: https://cultdao.io/
   github: https://github.com/cultdao-developer/cultdao
@@ -33,22 +31,17 @@ links:
   whitepaper: https://cultdao.io/manifesto
   l2 zkevm: https://moduluszk.io/
   docs l2: https://docs.moduluszk.io/
-
   changelog: https://changelog.sample-website.com
   Proposals: https://app.cultdao.io/#/proposalOptions
   snapshot: https://snapshot.org/#/cult-dao.eth
-
   blog: https://medium.com/@wearecultdao
   twitter: https://x.com/wearecultdao
   discord: https://discord.gg/cultdao
   telegram: https://t.me/cultdaothemany
-
-# SECURITY ---------------------------------------------------------------------
-
 audits:
-  - name: Solidproof Audit
-    link: https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_CultDAO.pdf
-    time: "2022-11-11"
-
+- name: Solidproof Audit
+  link: https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_CultDAO.pdf
+  time: '2022-11-11'
 usecases:
-  - dao
+- dao
+third_party_dependency: false

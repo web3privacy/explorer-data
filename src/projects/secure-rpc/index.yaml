@@ -1,9 +1,11 @@
 name: Secure RPC
 categories:
-  - infrastructure
-description: "a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well"
+- infrastructure
+description: a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that
+  aims to perform well
 links:
   web: https://securerpc.com
-
 usecases:
-  - rpc-provider
+- rpc-provider
+have_token: false
+third_party_dependency: false

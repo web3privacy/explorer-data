@@ -1,7 +1,7 @@
 name: Jami
 categories:
-  - applications
-description: "a free/libre, end-to-end encrypted, and private communication platform"
+- applications
+description: a free/libre, end-to-end encrypted, and private communication platform
 team:
   anonymous: true
 links:
@@ -12,6 +12,7 @@ links:
   blog: https://jami.net/tag/articles/
   twitter: https://x.com/jami_social
   facebook: https://www.facebook.com/JamiCommunication
-
 usecases:
-  - messaging
+- messaging
+have_token: false
+third_party_dependency: false

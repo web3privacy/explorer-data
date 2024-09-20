@@ -1,9 +1,11 @@
 name: Bluum
-categories: [applications]
-description: "Enable confidentiality of NFT content."
+categories:
+- applications
+description: Enable confidentiality of NFT content.
 links:
   web: https://bluumprotocol.com
   github: https://github.com/BluumProtocol
-
 usecases:
-  - nft-community
+- nft-community
+have_token: false
+third_party_dependency: false

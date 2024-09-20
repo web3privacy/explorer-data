@@ -1,13 +1,15 @@
 name: Status Web3 Browser
 categories:
-  - applications
-description: "Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser"
+- applications
+description: Access the latest defi dapps, exchanges, marketplaces, games and more
+  with the Web3 Browser
 links:
   web: https://status.im/web-three-browser/
   github: https://github.com/status-im
   blog: https://status.app/blog
   twitter: https://twitter.com/ethstatus
   facebook: https://www.facebook.com/ethstatus/about
-
 usecases:
-  - browser
+- browser
+have_token: false
+third_party_dependency: false

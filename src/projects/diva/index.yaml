@@ -1,5 +1,7 @@
 name: Diva
-categories: [defi]
-
+categories:
+- defi
 usecases:
-  - defi
+- defi
+have_token: false
+third_party_dependency: false

@@ -1,8 +1,9 @@
 name: Nerva
 categories:
-  - defi
-description: "Private and secure cryptocurrency"
-ecosystem: [nerva]
+- defi
+description: Private and secure cryptocurrency
+ecosystem:
+- nerva
 links:
   web: https://nerva.one/
   docs: https://docs.nerva.one/
@@ -17,8 +18,8 @@ team:
 technology:
   type: Monero
   features:
-    - Bulletproofs
-    - Ring signatures
+  - Bulletproofs
+  - Ring signatures
 blockchain_features:
   p2p: true
   encryption: Cryptonight
@@ -29,14 +30,15 @@ blockchain_features:
   revealed_recipient: false
   revealed_sender: false
   revealed_ammount: false
+  opensource: false
 default_privacy: true
 storage:
   decentralized: true
-
 project_status:
   live_status: true
   testnet: false
   mainnet: true
-
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false

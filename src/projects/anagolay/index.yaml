@@ -1,16 +1,17 @@
 name: Anagolay
-categories: [applications]
-description: "Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P"
+categories:
+- applications
+description: Web3 Framework for Original Creators to claim and verify ownership of
+  online identities and multimedia content and license creative works P2P
 links:
   web: https://anagolay.network
   github: https://github.com/anagolay
   docs: https://anagolay.dev/docs/
   whitepaper: https://kelp.notion.site/Anagolay-White-Paper-v_0-3-fd9ca46a2f524e83b46ed8a0242d618d
-
   blog: https://anagolay.dev/blog/
   twitter: https://x.com/AnagolayNet
   discord: https://discord.com/invite/WHe4EuY
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did
+third_party_dependency: false

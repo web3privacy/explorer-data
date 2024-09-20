@@ -1,12 +1,11 @@
 name: Waku
 categories:
-  - applications
-ecosystem: [ethereum]
-description: "the communication layer for Web3. Decentralized communication that scales"
-
+- applications
+ecosystem:
+- ethereum
+description: the communication layer for Web3. Decentralized communication that scales
 team:
   anonymous: false
-
 links:
   web: https://waku.org
   github: https://github.com/waku-org
@@ -15,16 +14,15 @@ links:
   blog: https://blog.waku.org
   twitter: https://x.com/waku_org
   discord: https://discord.waku.org
-  farcaster: "https://farcaster/waku"
-
+  farcaster: https://farcaster/waku
 project_status:
   live_status: true
   version: The Waku Network Gen 0
   testnet: true
   mainnet: false
-
 traceability:
   kyc: false
-
 usecases:
-  - messaging
+- messaging
+have_token: false
+third_party_dependency: false

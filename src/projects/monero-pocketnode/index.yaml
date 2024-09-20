@@ -1,10 +1,11 @@
 name: Monero PocketNode
 categories:
-  - infrastructure
+- infrastructure
 description: A Monero node for your Android Device.
 links:
   web: https://github.com/CryptoGrampy/xmr-pocket-node
 sunset: true
-
 usecases:
-  - node
+- node
+have_token: false
+third_party_dependency: false

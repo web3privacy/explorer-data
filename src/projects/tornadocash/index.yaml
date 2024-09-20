@@ -1,7 +1,8 @@
 name: TornadoCash
 categories:
-  - applications
-description: "an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks"
+- applications
+description: an open source, non-custodial, fully decentralized cryptocurrency tumbler
+  that runs on Ethereum Virtual Machine-compatible networks
 team:
   anonymous: true
 links:
@@ -16,6 +17,7 @@ project_status:
   version: Mainnet
   testnet: true
   mainnet: true
-
 usecases:
-  - mixing-service
+- mixing-service
+have_token: false
+third_party_dependency: false

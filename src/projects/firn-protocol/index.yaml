@@ -1,20 +1,23 @@
 name: Firn Protocol
-categories: [defi]
-ecosystem: [ethereum]
-description: "Firn is the first-ever zero-knowledge privacy platform in the account-based model, and introduces pluggable, flexible privacy to Ethereum-based chains."
+categories:
+- defi
+ecosystem:
+- ethereum
+description: Firn is the first-ever zero-knowledge privacy platform in the account-based
+  model, and introduces pluggable, flexible privacy to Ethereum-based chains.
 tokens:
-  - name: Firn
-    symbol: FIRN
-    network: Optimism
-    contract_address: "0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4"
+- name: Firn
+  symbol: FIRN
+  network: Optimism
+  contract_address: '0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4'
 project_type: DeFi
-product_launch_day: "2021-11-06"
+product_launch_day: '2021-11-06'
 technology:
   type: ZK
   name: Zero-knowledge
   features:
-    - privacy
-    - payments
+  - privacy
+  - payments
 links:
   web: https://app.firn.cash/
   twitter: https://twitter.com/firnprotocol
@@ -49,18 +52,18 @@ traceability:
 third_party_dependency: false
 compliance: false
 audits:
-  - name: BlockSec
-    link: https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf
-    time: Aug, 7. 2023
+- name: BlockSec
+  link: https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf
+  time: Aug, 7. 2023
 history:
-  - title: Github
-    event_type: launch
-    description: AGithub start
-    time: Nov 6, 2021
-    link: https://github.com/firnprotocol
+- title: Github
+  event_type: launch
+  description: AGithub start
+  time: Nov 6, 2021
+  link: https://github.com/firnprotocol
 client_diversability:
-  - name: Metamask
-    link: https://www.metamask.io
+- name: Metamask
+  link: https://www.metamask.io
 default_privacy: true
 funding:
   name: LunarDAO
@@ -73,6 +76,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - defi
+- defi
+have_token: false

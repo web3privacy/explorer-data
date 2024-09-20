@@ -1,7 +1,10 @@
 name: Avado
-categories: [hardware]
-description: "A plug-and-play hardware device that connects users to many different kinds of blockchains"
-ecosystem: [multichain]
+categories:
+- hardware
+description: A plug-and-play hardware device that connects users to many different
+  kinds of blockchains
+ecosystem:
+- multichain
 links:
   web: https://ava.do/
   github: https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server
@@ -14,6 +17,7 @@ team:
   anonymous: false
   company:
     link: https://www.mysterium.network/team
-
 usecases:
-  - hardware
+- hardware
+have_token: false
+third_party_dependency: false

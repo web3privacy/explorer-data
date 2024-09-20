@@ -1,10 +1,11 @@
 name: Iron Fish
 categories:
-  - defi
+- defi
 description: The Privacy Platform for Web3
-ecosystem: [iron-fish]
+ecosystem:
+- iron-fish
 project_status:
-  live status: true
+  live_status: true
   version: testnet
   testnet: true
   mainnet: false
@@ -13,13 +14,13 @@ links:
   github: https://github.com/iron-fish
   block_explorer: https://explorer.ironfish.network/
   whitepaper: https://ironfish.network/learn/whitepaper/introduction
-
   blog: https://ironfish.network/learn/blog
   twitter: https://x.com/ironfishcrypto
   discord: https://discord.com/invite/EkQkEcm8DH
   telegram: https://t.me/ironfishcryptochat
 team:
   anonymous: false
-
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false

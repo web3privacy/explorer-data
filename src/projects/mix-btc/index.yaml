@@ -1,6 +1,6 @@
 name: Mix BTC
 categories:
-  - applications
+- applications
 description: Bitcoin mixer.
 team:
   anonymous: true
@@ -12,6 +12,7 @@ project_status:
   version: unkown
   testnet: false
   mainnet: false
-
 usecases:
-  - mixing-service
+- mixing-service
+have_token: false
+third_party_dependency: false

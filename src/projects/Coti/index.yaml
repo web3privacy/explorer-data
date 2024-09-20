@@ -1,18 +1,17 @@
 id: coti
 name: Coti
-categories: [infrastructure]
-description: "EVM L2 solving blockchain privacy with Garbled Circuits"
-
+categories:
+- infrastructure
+description: EVM L2 solving blockchain privacy with Garbled Circuits
 team:
   anonymous: false
   teammembers:
-    - name: Joshua Maddox
-      role: CEPO
-      link: https://x.com/JoshuaBMaddox
-    - name: Shaf Bar-Geffen
-      role: CEO
-      link: https://x.com/shahafbg
-
+  - name: Joshua Maddox
+    role: CEPO
+    link: https://x.com/JoshuaBMaddox
+  - name: Shaf Bar-Geffen
+    role: CEO
+    link: https://x.com/shahafbg
 links:
   web: https://coti.io/
   github: https://github.com/coti-io
@@ -22,20 +21,18 @@ links:
   twitter: https://x.com/COTInetwork
   discord: https://discord.com/invite/wfAQfbc3Df
   telegram: https://t.me/COTInetwork
-
 project_status:
   live_status: true
   version: Testnet
   testnet: true
   mainnet: false
-
-have_token: true
+have_token: false
 token_link: https://etherscan.io/token/0xddb3422497e61e13543bea06989c0789117555c5
 tokens:
-  - name: CotiToken
-    symbol: $COTI
-    network: Ethereum
-    contract_address: "0xDDB3422497E61e13543BeA06989C0789117555c5"
-
+- name: CotiToken
+  symbol: $COTI
+  network: Ethereum
+  contract_address: '0xDDB3422497E61e13543BeA06989C0789117555c5'
 usecases:
-  - eth-layer-2
+- eth-layer-2
+third_party_dependency: false

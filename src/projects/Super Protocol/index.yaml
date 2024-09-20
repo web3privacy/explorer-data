@@ -1,7 +1,9 @@
 id: super-protocol
 name: SuperProtocol
-categories: [applications]
-description: "The confidential and self-sovereign AI cloud and marketplace, governed by smart contracts"
+categories:
+- applications
+description: The confidential and self-sovereign AI cloud and marketplace, governed
+  by smart contracts
 team:
   anonymous: true
 links:
@@ -12,5 +14,6 @@ links:
   telegram: https://t.me/superprotocol
 have_token: false
 sunset: false
-
-usecases: [ai]
+usecases:
+- ai
+third_party_dependency: false

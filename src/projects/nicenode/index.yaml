@@ -1,7 +1,8 @@
 name: NiceNode
 categories:
-  - infrastructure
-description: "Launcher with a simple user experience to run an Ethereum node on your computer"
+- infrastructure
+description: Launcher with a simple user experience to run an Ethereum node on your
+  computer
 team:
   anonymous: true
 links:
@@ -13,6 +14,7 @@ project_status:
   version: v6.0.5.-alpha
   testnet: false
   mainnet: true
-
 usecases:
-  - node
+- node
+have_token: false
+third_party_dependency: false

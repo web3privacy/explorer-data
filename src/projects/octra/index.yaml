@@ -1,7 +1,8 @@
 id: octra
-name: "Octra"
-categories: [infrastructure]
-description: "general purpose FHE network enabling economies of the future"
+name: Octra
+categories:
+- infrastructure
+description: general purpose FHE network enabling economies of the future
 links:
   web: https://octra.org/
   github: https://github.com/Octra-Labs
@@ -9,3 +10,5 @@ links:
   twitter: https://x.com/octra
   discord: https://discord.com/invite/m724x5Ne2F
   telegram: https://t.me/octranetwork
+have_token: false
+third_party_dependency: false

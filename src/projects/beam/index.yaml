@@ -1,6 +1,7 @@
 name: Beam
-categories: [defi]
-description: "Best in class privacy coin and confidential DeFi platform"
+categories:
+- defi
+description: Best in class privacy coin and confidential DeFi platform
 links:
   web: https://beam.mw
   github: https://github.com/BeamMW/beam
@@ -10,11 +11,16 @@ links:
   twitter: https://x.com/beamprivacy
   discord: https://discord.com/invite/BHZvAhg
   telegram: https://t.me/BeamPrivacy
-ecosystem: [beam]
+ecosystem:
+- beam
 project_status:
-  version: "Mainnet"
+  version: Mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
 team:
   anonymous: false
-
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false

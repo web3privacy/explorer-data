@@ -1,20 +1,23 @@
 name: Sienna Network
-categories: [defi]
-ecosystem: [cecret]
+categories:
+- defi
+ecosystem:
+- cecret
 tokens:
-  - name: Sienna Network
-    symbol: SIENNA
-    network: Secret Network
-    contract_address: secret1rgm2m5t530tdzyd99775n6vzumxa5luxcllml4
-description: "Privacy-first, cross-chain decentralized finance protocol powered by Secret Network in the Cosmos ecosystem."
+- name: Sienna Network
+  symbol: SIENNA
+  network: Secret Network
+  contract_address: secret1rgm2m5t530tdzyd99775n6vzumxa5luxcllml4
+description: Privacy-first, cross-chain decentralized finance protocol powered by
+  Secret Network in the Cosmos ecosystem.
 project_type: DeFi
-product_launch_day: "2022-04-27"
+product_launch_day: '2022-04-27'
 technology:
   type: TEE
   name: Trusted execution environment
   features:
-    - private
-    - DeFi
+  - private
+  - DeFi
 links:
   web: https://sienna.network/
   twitter: https://twitter.com/sienna_network
@@ -55,22 +58,22 @@ traceability:
 third_party_dependency: false
 compliance: false
 audits:
-  - name: Halborn and Certik
-    link: https://sienna.network/audits/
-    time: "2021-04-18"
+- name: Halborn and Certik
+  link: https://sienna.network/audits/
+  time: '2021-04-18'
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  - title: Mainet
-    event_type: launch
-    description: V1
-    time: October 2021
-    link: https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
+- title: Mainet
+  event_type: launch
+  description: V1
+  time: October 2021
+  link: https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
 client_diversability:
-  - name: Keplr
-    link: https://www.keplr.app/
-  - name: Starshell
-    link: https://starshell.net/
+- name: Keplr
+  link: https://www.keplr.app/
+- name: Starshell
+  link: https://starshell.net/
 default_privacy: true
 funding:
   name: Public presale
@@ -83,6 +86,6 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - defi
+- defi
+have_token: false

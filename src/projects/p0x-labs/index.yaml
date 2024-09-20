@@ -1,11 +1,12 @@
 name: P0X labs
 categories:
-  - infrastructure
+- infrastructure
 description: The decentralized laboratory for building cutting-edge privacy technologies.
 links:
   web: https://p0xeidon.xyz
   twitter: https://x.com/p0xlabs
 sunset: true
-
 usecases:
-  - research-and-development
+- research-and-development
+have_token: false
+third_party_dependency: false

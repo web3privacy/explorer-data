@@ -1,18 +1,17 @@
 id: taceo
 name: Taceo
-categories: [infrastructure]
-description: "Encrypted Computation Layer; MPC + ZK"
-
+categories:
+- infrastructure
+description: Encrypted Computation Layer; MPC + ZK
 team:
   anonymous: false
   teammembers:
-    - name: Roman Walch
-      role: Co-founder
-      link: https://x.com/rw0x0
-    - name: Lukas Helminger
-      role: CEO
-      link: https://x.com/luhelminger
-
+  - name: Roman Walch
+    role: Co-founder
+    link: https://x.com/rw0x0
+  - name: Lukas Helminger
+    role: CEO
+    link: https://x.com/luhelminger
 links:
   web: https://taceo.io/
   github: https://github.com/TaceoLabs
@@ -20,11 +19,11 @@ links:
   blog: https://blog.taceo.io/
   twitter: https://x.com/TACEO_IO
   discord: https://discord.com/invite/gWZW2TANpk
-
 project_status:
   live_status: true
-
+  mainnet: true
+  testnet: true
 have_token: false
-
 usecases:
-  - computing
+- computing
+third_party_dependency: false

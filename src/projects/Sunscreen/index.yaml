@@ -1,9 +1,12 @@
 id: sunscreen
-name: "Sunsscreen"
-categories: [applications]
-description: "Privacy engine of the new web."
+name: Sunsscreen
+categories:
+- applications
+description: Privacy engine of the new web.
 links:
   web: https://sunscreen.tech/
   blog: https://blog.sunscreen.tech/
   twitter: https://x.com/sunscreentech
   discord: https://discord.com/invite/WHCs6jNNDS
+have_token: false
+third_party_dependency: false

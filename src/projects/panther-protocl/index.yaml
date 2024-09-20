@@ -1,11 +1,19 @@
 name: Panther Protocol
-categories: [defi]
-ecosystem: [ethereum, elrond, polkadot, avalanche, near, flare]
-description: "is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi"
+categories:
+- defi
+ecosystem:
+- ethereum
+- elrond
+- polkadot
+- avalanche
+- near
+- flare
+description: is a decentralized privacy metaprotocol enabling confidential, trusted
+  transactions and interoperability with DeFi
 technology:
   type: zk
   features:
-    - transactions
+  - transactions
 links:
   web: https://www.pantherprotocol.io/
   github: https://github.com/pantherprotocol
@@ -18,6 +26,7 @@ team:
   anonymous: false
   company:
     link: https://www.pantherprotocol.io/
-
 usecases:
-  - defi
+- defi
+have_token: false
+third_party_dependency: false

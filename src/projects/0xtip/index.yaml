@@ -1,8 +1,11 @@
 name: 0xTIP
-categories: [applications]
-description: "0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers."
+categories:
+- applications
+description: 0xTIP features mixing, private bridging from Ethereum to BNB chain as
+  well as off-chain transfers.
 links:
   web: https://0xmonero.com/mixer
-
 usecases:
-  - mixing-service
+- mixing-service
+have_token: false
+third_party_dependency: false

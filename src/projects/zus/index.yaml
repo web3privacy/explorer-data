@@ -1,7 +1,7 @@
-name: Züs
+name: "Z\xFCs"
 categories:
-  - applications
-description: "A high-performance storage network powering limitless applications"
+- applications
+description: A high-performance storage network powering limitless applications
 team:
   anonymous: true
 links:
@@ -19,13 +19,13 @@ project_status:
   version: Mainnet
   testnet: false
   mainnet: true
-have_token: true
+have_token: false
 token_link: https://etherscan.io/token/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78
 tokens:
-  - name: ZCN Token
-    symbol: ZCN
-    network: Ethereum
-    contract_address: "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
-
+- name: ZCN Token
+  symbol: ZCN
+  network: Ethereum
+  contract_address: '0xb9ef770b6a5e12e45983c5d80545258aa38f3b78'
 usecases:
-  - storage
+- storage
+third_party_dependency: false

@@ -1,6 +1,6 @@
 name: Zoci
 categories:
-  - infrastructure
+- infrastructure
 description: Private RPC services
 links:
   web: https://zoci.io
@@ -9,13 +9,13 @@ links:
   twitter: https://x.com/Zoci_io
   discord: https://discord.com/invite/vv3HXAVmMq
   telegram: https://t.me/zoci_io
-have_token: true
+have_token: false
 token_link: https://arbiscan.io/token/0x45d780CfE839b8a8f292C9E26aa5D1805bc536dc
 tokens:
-  - name: ZociToken
-    symbol: ZOCI
-    network: Arbitrum
-    contract_address: "0x45d780cfe839b8a8f292c9e26aa5d1805bc536dc"
-
+- name: ZociToken
+  symbol: ZOCI
+  network: Arbitrum
+  contract_address: '0x45d780cfe839b8a8f292c9e26aa5d1805bc536dc'
 usecases:
-  - rpc-provider
+- rpc-provider
+third_party_dependency: false

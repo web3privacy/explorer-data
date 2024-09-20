@@ -1,15 +1,15 @@
 name: Krebit
 categories:
-  - applications
+- applications
 description: Open identity verification protocol for Web3 Verifiable Credentials
 links:
   web: https://krebit.id
   github: https://github.com/KrebitDAO
   docs: https://docs.krebit.id/#/
-
   blog: https://www.publish0x.com/krebit
   twitter: https://x.com/KrebitID
   discord: https://discord.com/invite/y7sMYVjxrd
-
 usecases:
-  - dapps
+- dapps
+have_token: false
+third_party_dependency: false

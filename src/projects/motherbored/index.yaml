@@ -1,13 +1,15 @@
 name: Motherbored
 categories:
-  - hardware
-description: "#dVPN hardware (node + SM card)"
-ecosystem: [solana]
+- hardware
+description: '#dVPN hardware (node + SM card)'
+ecosystem:
+- solana
 links:
   web: https://store.motherbored.limited
   github: https://github.com/boringprotocol/motherbored
 team:
   anonymous: true
-
 usecases:
-  - hardware
+- hardware
+have_token: false
+third_party_dependency: false

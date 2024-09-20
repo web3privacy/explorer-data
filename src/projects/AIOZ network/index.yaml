@@ -1,7 +1,8 @@
 id: aioz-network
 name: Aioz network
-categories: [applications]
-description: "DePIN for Web3 AI, Storage & Streaming"
+categories:
+- applications
+description: DePIN for Web3 AI, Storage & Streaming
 links:
   web: https://aioz.network/
   block_explorer: https://t.me/aioznetwork
@@ -9,6 +10,7 @@ links:
   blog: https://aioz.network/blog
   twitter: https://x.com/AIOZNetwork
   telegram: https://t.me/aioznetwork
-
 usecases:
-  - ai
+- ai
+have_token: false
+third_party_dependency: false

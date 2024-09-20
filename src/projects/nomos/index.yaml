@@ -1,7 +1,8 @@
 name: Nomos
 categories:
-  - infrastructure
-description: "Nomos is a novel blockchain project that will address a network states fundamental need for adaptable privacy and sovereignty"
+- infrastructure
+description: Nomos is a novel blockchain project that will address a network states
+  fundamental need for adaptable privacy and sovereignty
 team:
   anonymous: true
 links:
@@ -9,12 +10,12 @@ links:
   github: https://github.com/logos-co/nomos-node
   blog: https://blog.nomos.tech/
   twitter: https://twitter.com/Nomos_tech
-have_token: true
+have_token: false
 project_status:
   live_status: false
-  version: ""
+  version: ''
   testnet: true
   mainnet: false
-
 usecases:
-  - infrastructure
+- infrastructure
+third_party_dependency: false

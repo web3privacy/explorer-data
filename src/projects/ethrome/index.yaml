@@ -1,10 +1,13 @@
 name: ETHRome
-categories: [social-and-communications]
-ecosystem: [ethereum]
+categories:
+- social-and-communications
+ecosystem:
+- ethereum
 links:
   web: https://ethrome.org/
   twitter: https://x.com/ETHRome
   discord: https://discord.com/invite/tr8KMmC2aF
-
 usecases:
-  - events
+- events
+have_token: false
+third_party_dependency: false

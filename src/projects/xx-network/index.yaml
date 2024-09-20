@@ -1,6 +1,6 @@
 name: XX network
 categories:
-  - infrastructure
+- infrastructure
 description: The first and only quantum-resistant and privacy-focused blockchain ecosystem
 links:
   web: https://xx.network
@@ -8,14 +8,14 @@ links:
   whitepaper: https://xx.network/whitepapers/
   docs: https://blockchainapi.xx.network/
   twitter: https://twitter.com/xx_network
-have_token: true
+have_token: false
 tokens:
-  - symbol: XX
+- symbol: XX
 project_status:
   live_status: true
   version: Mainnet
   testnet: true
   mainnet: true
-
 usecases:
-  - infrastructure
+- infrastructure
+third_party_dependency: false

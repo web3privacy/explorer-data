@@ -1,16 +1,16 @@
 name: DAuth Network
 categories:
-  - applications
-description: "a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy"
+- applications
+description: a decentralized authentication network empowering wallets and dApps to
+  create authentication with a focus on privacy
 links:
   web: https://www.dauth.network
   github: https://github.com/DAuth-Network
   docs: https://openid3.gitbook.io/openid3-docs
-
   blog: https://dauthnetwork.medium.com/
   twitter: https://x.com/DauthNetwork
   discord: https://discord.com/invite/ZJZjAAej2q
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did
+third_party_dependency: false

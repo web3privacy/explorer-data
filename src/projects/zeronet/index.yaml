@@ -1,10 +1,12 @@
 name: ZeroNet
 categories:
-  - infrastructure
-description: "Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network"
+- infrastructure
+description: Open, free and uncensorable websites, using Bitcoin cryptography and
+  BitTorrent network
 links:
   web: https://zeronet.io
   github: https://github.com/HelloZeroNet/ZeroNet
-
 usecases:
-  - infrastructure
+- infrastructure
+have_token: false
+third_party_dependency: false

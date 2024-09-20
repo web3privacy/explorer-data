@@ -1,6 +1,6 @@
 name: Nulink
 categories:
-  - infrastructure
+- infrastructure
 description: ZK Provable Data Privacy Solution for Decentralized Applications
 team:
   anonymous: true
@@ -11,14 +11,14 @@ links:
   whitepaper: https://www.nulink.org/whitepaper-2-0
   blog: https://www.nulink.org/blog
   twitter: https://twitter.com/NuLink_
-have_token: true
+have_token: false
 tokens:
-  - symbol: NLINK
+- symbol: NLINK
 project_status:
   live_status: true
   version: Testnet Horus2.0
   testnet: true
   mainnet: false
-
 usecases:
-  - infrastructure
+- infrastructure
+third_party_dependency: false

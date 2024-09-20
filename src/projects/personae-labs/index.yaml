@@ -1,12 +1,13 @@
 name: Personae Labs
 categories:
-  - infrastructure
+- infrastructure
 description: R&D lab investigating the future of human expression online.
 links:
   web: https://personaelabs.xyz/
   github: https://github.com/personaelabs
   twitter: https://x.com/personae_labs
   discord: https://discord.com/invite/ZVWhZrbkRV
-
 usecases:
-  - research-and-development
+- research-and-development
+have_token: false
+third_party_dependency: false

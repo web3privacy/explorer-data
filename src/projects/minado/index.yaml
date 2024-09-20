@@ -1,10 +1,11 @@
 name: Minado
 categories:
-  - applications
+- applications
 description: Zk Privacy Solution on Mina Protocol.
 product_readiness: sunset
 links:
   web: https://github.com/Nicolascoding27/Zkapp-mina-ui
-
 usecases:
-  - mixing-service
+- mixing-service
+have_token: false
+third_party_dependency: false

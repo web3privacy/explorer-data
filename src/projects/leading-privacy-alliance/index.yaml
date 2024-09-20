@@ -1,11 +1,13 @@
 name: Leading Privacy Alliance
 categories:
-  - social-and-communications
-description: "The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design)"
+- social-and-communications
+description: The purpose of the LPA of Web3 is to speak up for everyone working in
+  the Web3 industry and make them aware of the need for privacy (by design)
 links:
   web: https://www.leadingprivacy.com
   blog: https://medium.com/hoprnet/hopr-co-founds-leading-privacy-alliance-of-web3-99e057722deb
   twitter: https://twitter.com/LeadingPrivacy
-
 usecases:
-  - alliances
+- alliances
+have_token: false
+third_party_dependency: false

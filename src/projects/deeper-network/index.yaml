@@ -1,9 +1,12 @@
 name: Deeper Network
 categories:
-  - hardware
+- hardware
 description: Web 3.0 infrastructure of the users, by the users, for the users.
 project_status:
   version: Mainet
+  live_status: true
+  mainnet: true
+  testnet: false
 links:
   web: https://www.deeper.network
   blog: https://shop.deeper.network/pages/blog
@@ -13,6 +16,7 @@ links:
   telegram: https://t.me/DeeperNetwork
 team:
   anonymous: true
-
 usecases:
-  - hardware
+- hardware
+have_token: false
+third_party_dependency: false

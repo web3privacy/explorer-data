@@ -1,14 +1,17 @@
 name: Samourai Wallet
 categories:
-  - applications
-description: "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured"
-ecosystem: [bitcoin]
+- applications
+description: A modern bitcoin wallet hand forged to keep your transactions private
+  your identity masked and your funds secured
+ecosystem:
+- bitcoin
 links:
   web: https://samouraiwallet.com/products
   docs: https://docs.samourai.io/wallet/start
 team:
   anonymous: true
 sunset: true
-
 usecases:
-  - wallets
+- wallets
+have_token: false
+third_party_dependency: false

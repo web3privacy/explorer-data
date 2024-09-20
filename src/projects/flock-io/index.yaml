@@ -1,16 +1,16 @@
 name: FLock.io
 categories:
-  - applications
+- applications
 description: A native Web3 Data Privacy solution for Artificial Intelligence.
 links:
   web: https://flock.io/
   github: https://github.com/flock-io
   docs: https://docs.flock.io/
-
   blog: https://flock-io.medium.com/
   twitter: https://x.com/flock_io
   discord: https://discord.com/invite/fz5EqH7rhn
   telegram: https://t.me/flock_io_community
-
 usecases:
-  - dapps
+- dapps
+have_token: false
+third_party_dependency: false

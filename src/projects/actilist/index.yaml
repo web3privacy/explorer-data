@@ -1,6 +1,7 @@
 name: Actilist
-categories: [applications]
-description: "Secret NFT auctions."
+categories:
+- applications
+description: Secret NFT auctions.
 links:
   web: https://test.actilist.io
   github: https://github.com/actilabs
@@ -16,6 +17,6 @@ project_status:
   mainnet: false
 have_token: false
 sunset: false
-
 usecases:
-  - nft-community
+- nft-community
+third_party_dependency: false

@@ -1,10 +1,11 @@
 name: Skiff Pages
 categories:
-  - applications
+- applications
 description: Private, End-to-End Encrypted Notes
 links:
   web: https://skiff.com/pages
   github: https://github.com/skiff-org
-
 usecases:
-  - dapps
+- dapps
+have_token: false
+third_party_dependency: false

@@ -1,8 +1,9 @@
 name: Plebble
 categories:
-  - infrastructure
+- infrastructure
 description: P2P Network of computers running the Plebble software (L1 & L2)
-ecosystem: [tbd]
+ecosystem:
+- tbd
 links:
   web: https://plebble.net
   github: https://github.com/root1m3/plebble
@@ -15,6 +16,7 @@ project_status:
   version: plebble-alpha-55.1_10-392024 2023-08-04_23-42-16
   testnet: true
   mainnet: false
-
 usecases:
-  - eth-layer-2
+- eth-layer-2
+have_token: false
+third_party_dependency: false

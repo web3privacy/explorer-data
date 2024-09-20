@@ -1,15 +1,22 @@
 id: chainport
 name: ChainPort
-categories: [infrastructure]
-ecosystem: [ethereum, arbitrum, optimism, base, bnb, fantom, polygon, avalanche]
-description: "next-gen custodian secure bridge"
-
+categories:
+- infrastructure
+ecosystem:
+- ethereum
+- arbitrum
+- optimism
+- base
+- bnb
+- fantom
+- polygon
+- avalanche
+description: next-gen custodian secure bridge
 team:
   anonymous: false
   teammembers:
-    - name: DcentraLab
-      link: https://x.com/DcentraLab
-
+  - name: DcentraLab
+    link: https://x.com/DcentraLab
 links:
   web: https://www.chainport.io/private-bridge
   github: https://github.com/chainport
@@ -17,20 +24,18 @@ links:
   blog: https://medium.com/chainport
   twitter: https://x.com/chain_port
   telegram: https://t.me/chainport_news
-
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
-
-have_token: true
+have_token: false
 token_link: https://etherscan.io/token/0x104f3152d8ebfc3f679392977356962ff36566ac
 tokens:
-  - name: PORTX Token
-    symbol: $PORTX
-    network: Ethereum
-    contract_address: "0x104f3152d8ebfc3f679392977356962ff36566ac"
-
+- name: PORTX Token
+  symbol: $PORTX
+  network: Ethereum
+  contract_address: '0x104f3152d8ebfc3f679392977356962ff36566ac'
 usecases:
-  - bridge
+- bridge
+third_party_dependency: false

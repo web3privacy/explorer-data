@@ -1,8 +1,10 @@
 name: Blockyfile
-categories: [applications]
-description: "The new way to upload files anonymously and without censorship."
+categories:
+- applications
+description: The new way to upload files anonymously and without censorship.
 links:
   web: https://blockyfile.org
-
 usecases:
-  - dapps
+- dapps
+have_token: false
+third_party_dependency: false

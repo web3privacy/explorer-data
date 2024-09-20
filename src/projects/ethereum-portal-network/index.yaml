@@ -1,28 +1,30 @@
 name: Ethereum Portal Network
 categories:
-  - infrastructure
-description: "Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests"
+- infrastructure
+description: Decentralized P2P overlay network on top of Ethereum devp2p for serving
+  RPC requests
 team:
   anonymous: false
   teammembers:
-    - name: Piper Merriam
-      role: lead res
-      link: https://github.com/pipermerriam
-    - name: Jason Carver
-      role: lead dev
-      link: https://github.com/carver/
-    - name: Nick Gheorghita
-      role: dev
-      link: https://github.com/njgheorghita
-    - name: Kolby ML
-      role: dev
-      link: https://github.com/KolbyML
+  - name: Piper Merriam
+    role: lead res
+    link: https://github.com/pipermerriam
+  - name: Jason Carver
+    role: lead dev
+    link: https://github.com/carver/
+  - name: Nick Gheorghita
+    role: dev
+    link: https://github.com/njgheorghita
+  - name: Kolby ML
+    role: dev
+    link: https://github.com/KolbyML
 links:
   web: https://www.ethportal.net/
   github: https://github.com/ethereum/portal-network-specs
   blog: https://blog.ethportal.net/
   twitter: https://x.com/ethportalnet
   discord: https://discord.com/invite/rHruRsbgeY
-
 usecases:
-  - rpc-provider
+- rpc-provider
+have_token: false
+third_party_dependency: false

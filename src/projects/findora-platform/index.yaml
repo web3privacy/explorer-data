@@ -1,6 +1,6 @@
 name: Findora
 categories:
-  - infrastructure
+- infrastructure
 description: a decentralized, privacy-preserving smart contract platform.
 project_status:
   live_status: true
@@ -10,14 +10,15 @@ project_status:
 links:
   web: https://findora.org
   github: https://github.com/findoranetwork
-have_token: true
+have_token: false
 tokens:
-  - symbol: FRA
-ecosystem: [multichain]
+- symbol: FRA
+ecosystem:
+- multichain
 team:
   anonymous: false
   company:
     link: https://findora.org/team/
-
 usecases:
-  - computing
+- computing
+third_party_dependency: false

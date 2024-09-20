@@ -1,21 +1,22 @@
 name: GRin
 categories:
-  - defi
+- defi
 description: Electronic transactions for all. Without censorship or restrictions
-ecosystem: [mimblewimble]
+ecosystem:
+- mimblewimble
 links:
   web: https://grin.mw
   github: https://github.com/mimblewimble/grin
   docs: https://docs.grin.mw/
   forum: https://forum.grin.mw/
   whitepaper: https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt
-
   blog: https://grin.mw/blog/
   twitter: https://x.com/grin_privacy
   discord: https://discord.com/invite/5p4vCQY9km
   telegram: https://t.me/grinprivacy
 team:
   anonymous: true
-
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false

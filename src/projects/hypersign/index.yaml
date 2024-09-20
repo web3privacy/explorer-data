@@ -1,18 +1,17 @@
 name: Hypersign
 categories:
-  - applications
+- applications
 description: the ultimate stack for identity management
 links:
   web: https://hypersign.id
   github: https://github.com/hypersign-protocol
   block_explorer: https://explorer.hypersign.id/hypersign-prajna-testnet
   docs: https://docs.hypersign.id/
-
   blog: https://medium.com/@blog.hypersign
   twitter: https://x.com/hypersignchain
   discord: https://discord.com/invite/MMnhBYjF4N
   telegram: https://t.me/hypersignchain
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did
+third_party_dependency: false

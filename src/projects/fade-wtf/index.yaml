@@ -1,9 +1,10 @@
 name: Fade WTF
 categories:
-  - applications
+- applications
 description: Privacy for NFTs powered by Light Protocol.
 links:
   web: http://mint.fade.wtf
-
 usecases:
-  - nft-community
+- nft-community
+have_token: false
+third_party_dependency: false

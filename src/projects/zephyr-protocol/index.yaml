@@ -1,8 +1,9 @@
 name: Zephyr Protocol
 categories:
-  - defi
-description: "The Untraceable Stablecoin Protocol"
-ecosystem: [zephyr]
+- defi
+description: The Untraceable Stablecoin Protocol
+ecosystem:
+- zephyr
 links:
   web: https://zephyrprotocol.com/
   github: https://github.com/monero-ecosystem
@@ -17,10 +18,11 @@ team:
 technology:
   type: Monero
   features:
-    - Bulletproofs
-    - Ring signatures
+  - Bulletproofs
+  - Ring signatures
 blockchain_features:
   p2p: true
+  opensource: false
   encryption: Cryptonote
   data_masking: Ring signature
   viewing_key: true
@@ -32,15 +34,15 @@ blockchain_features:
 default_privacy: true
 storage:
   decentralized: true
-
 project_status:
   live_status: true
   testnet: false
   mainnet: true
 audits:
-  - name: Cyberscope
-    link: https://www.cyberscope.io/audits/coin-zephyr-protocol
-    time: Apr. 2024
-
+- name: Cyberscope
+  link: https://www.cyberscope.io/audits/coin-zephyr-protocol
+  time: Apr. 2024
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false

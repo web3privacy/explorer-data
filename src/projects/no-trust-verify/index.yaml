@@ -1,22 +1,23 @@
 name: No Trust Verify
 categories:
-  - infrastructure
+- infrastructure
 description: Take place to the next generation of privacy infrastructure.
 team:
   anonymous: false
   teammembers:
-    - name: cgi-bin
-      link: https://github.com/sven-hash/
-    - name: Oheka
-      link: https://github.com/Oheka
-    - name: Amadeous
-      link: https://github.com/amadeous
+  - name: cgi-bin
+    link: https://github.com/sven-hash/
+  - name: Oheka
+    link: https://github.com/Oheka
+  - name: Amadeous
+    link: https://github.com/amadeous
 links:
   web: https://nym.notrustverify.ch
   github: https://github.com/notrustverify
   blog: https://blog.notrustverify.ch/
   twitter: https://x.com/notrustverif
   telegram: https://t.me/notrustverify
-
 usecases:
-  - research-and-development
+- research-and-development
+have_token: false
+third_party_dependency: false

@@ -1,11 +1,13 @@
 name: Aztec Connect
-categories: [applications]
+categories:
+- applications
 links:
   github: https://github.com/AztecProtocol/aztec-connect-bridges
   docs: https://docs.aztec.network/misc/aztec_connect_sunset
   blog: https://aztec.network/blog/private-defi-with-the-aztec-connect-bridge/
   discord: https://discord.com/invite/aztec
   education: https://twitter.com/aztecnetwork/status/1575662728395358208
-
 usecases:
-  - bridge
+- bridge
+have_token: false
+third_party_dependency: false

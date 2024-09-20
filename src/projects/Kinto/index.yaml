@@ -1,15 +1,14 @@
 id: kinto
 name: Kinto
-categories: [infrastructure]
-description: "The safety-first L2 for Finance"
-
+categories:
+- infrastructure
+description: The safety-first L2 for Finance
 team:
   anonymous: false
   teammembers:
-    - name: Ramon Recuero
-      role: CEO
-      link: https://x.com/ramonrecuero
-
+  - name: Ramon Recuero
+    role: CEO
+    link: https://x.com/ramonrecuero
 links:
   web: https://www.kinto.xyz/
   github: https://github.com/kintoxyz
@@ -19,20 +18,18 @@ links:
   blog: https://mirror.xyz/kintoxyz.eth
   twitter: https://x.com/KintoXYZ
   discord: https://discord.com/invite/kinto?a=1
-
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
-
-have_token: true
+have_token: false
 token_link: https://kintoscan.io/token/0x010700808D59d2bb92257fCafACfe8e5bFF7aB87?chainid=7887
 tokens:
-  - name: KINTO
-    symbol: $KINTO
-    network: Kinto
-    contract_address: "0x010700808D59d2bb92257fCafACfe8e5bFF7aB87"
-
+- name: KINTO
+  symbol: $KINTO
+  network: Kinto
+  contract_address: '0x010700808D59d2bb92257fCafACfe8e5bFF7aB87'
 usecases:
-  - eth-layer-2
+- eth-layer-2
+third_party_dependency: false

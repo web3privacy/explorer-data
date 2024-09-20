@@ -1,8 +1,9 @@
 name: ProtonVPN
 categories:
-  - applications
+- applications
 description: Swiss VPN provider with encrypted email and online storage
-ecosystem: [no-chain]
+ecosystem:
+- no-chain
 links:
   web: https://protonvpn.com/
   github: https://github.com/ProtonVPN
@@ -17,6 +18,6 @@ project_status:
   version: stable
   testnet: false
   mainnet: false
-
 usecases:
-  - vpn
+- vpn
+third_party_dependency: false

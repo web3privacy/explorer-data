@@ -1,12 +1,14 @@
 name: Njalla
 categories:
-  - infrastructure
-description: "Anonymous domain name registrar and VPS provider based in Sweden, accepts various cryptocurrencies as payment (BTC, Litecoin, Monero, Zcash, Ethereum)"
+- infrastructure
+description: Anonymous domain name registrar and VPS provider based in Sweden, accepts
+  various cryptocurrencies as payment (BTC, Litecoin, Monero, Zcash, Ethereum)
 team:
   anonymous: true
 links:
   web: https://njal.la
   blog: https://njal.la/blog/
-
 usecases:
-  - infrastructure
+- infrastructure
+have_token: false
+third_party_dependency: false

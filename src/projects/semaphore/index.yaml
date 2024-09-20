@@ -1,9 +1,14 @@
 name: semaphore
-categories: [applications]
-description: "Semaphore is a protocol that allows users to prove their membership in a group and transmit anonymous data, such as votes or feedback, without revealing their identities."
+categories:
+- applications
+description: Semaphore is a protocol that allows users to prove their membership in
+  a group and transmit anonymous data, such as votes or feedback, without revealing
+  their identities.
 project_status:
   version: V4-beta
   live_status: true
+  mainnet: false
+  testnet: true
 team:
   anonymous: true
 links:
@@ -14,7 +19,9 @@ links:
   docs: https://docs.semaphore.pse.dev
 technology:
   type: zk-kit, circom, snarkjs
-  features: [""]
-
+  features:
+  - ''
 usecases:
-  - did
+- did
+have_token: false
+third_party_dependency: false

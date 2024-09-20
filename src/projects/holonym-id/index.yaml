@@ -1,11 +1,12 @@
 name: Holonym
 categories:
-  - applications
-description: "Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are"
+- applications
+description: Your ZK Passport for Web3. A holistic identity that lets you prove facts
+  about yourself without revealing who you are
 links:
   web: https://www.holonym.id
   github: https://github.com/holonym-foundation
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did
+third_party_dependency: false

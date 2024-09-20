@@ -1,6 +1,7 @@
 id: shinobi
 name: Shinobi
-categories: [defi]
+categories:
+- defi
 links:
   github: https://github.com/shinobi-protocol
   docs: https://docs.sbtc.ninja/
@@ -9,6 +10,7 @@ links:
   twitter: https://twitter.com/ShinobiProtocol
   discord: https://discord.com/invite/wm275b6m8d
   telegram: https://t.me/shinobi_protocol
-
 usecases:
-  - bridge
+- bridge
+have_token: false
+third_party_dependency: false

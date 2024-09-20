@@ -1,9 +1,15 @@
 name: Alaya
-categories: [infrastructure]
-description: "Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON."
-ecosystem: [ethereum]
+categories:
+- infrastructure
+description: Alaya is a business sandbox and testing field for the next-generation
+  of financial infrastructure of PlatON.
+ecosystem:
+- ethereum
 project_status:
   version: Mainnet
+  live_status: true
+  mainnet: true
+  testnet: true
 links:
   web: https://alaya.network/en
   github: https://github.com/AlayaNetwork
@@ -12,6 +18,7 @@ links:
   blog: https://medium.com/platon-network/manual-alaya-network-0-16-2-spirit-version-upgrade-operation-manual-643d92c4971e
 team:
   anonymous: true
-
 usecases:
-  - computing
+- computing
+have_token: false
+third_party_dependency: false

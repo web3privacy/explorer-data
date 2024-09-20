@@ -1,6 +1,8 @@
 name: Spillways
-categories: [applications]
-description: "Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds"
+categories:
+- applications
+description: Mixer enables fast, secure, and private transactions in crypto by obscuring
+  the source and destination of funds
 team:
   anonymous: false
 links:
@@ -12,14 +14,16 @@ links:
   telegram: https://t.me/SpillWaysJoin
 token_link: https://etherscan.io/address/0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47
 tokens:
-  - name: Spillways
-    symbol: SAMPLE
-    network: Ethereum
-    contract_address: "0x8790f2fc7Ca2e7Db841307FB3f4e72a03Baf7b47"
+- name: Spillways
+  symbol: SAMPLE
+  network: Ethereum
+  contract_address: '0x8790f2fc7Ca2e7Db841307FB3f4e72a03Baf7b47'
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
-
-usecases: [mixing-service]
+usecases:
+- mixing-service
+have_token: false
+third_party_dependency: false

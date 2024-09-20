@@ -1,15 +1,14 @@
 name: SEER sdid
 categories:
-  - applications
+- applications
 description: Building your own community identity like a brand
 links:
   web: https://sdid.seer.eco/
-
   blog: https://medium.com/@SeerFoundation
   twitter: https://x.com/SeerFoundation
   discord: https://discord.com/invite/zpy6tXP5Qt
   telegram: https://t.me/seer_official
-have_token: true
-
+have_token: false
 usecases:
-  - did
+- did
+third_party_dependency: false

@@ -1,9 +1,12 @@
 name: 2FA Guru
-categories: [applications]
-description: "A simple solution to interact with DApps by enforcing an additional signature check before each transaction"
+categories:
+- applications
+description: A simple solution to interact with DApps by enforcing an additional signature
+  check before each transaction
 links:
   web: https://www.2fa.guru
   github: https://github.com/skiff-org/skiff-mail
-
 usecases:
-  - dapps
+- dapps
+have_token: false
+third_party_dependency: false

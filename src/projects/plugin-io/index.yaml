@@ -1,13 +1,13 @@
 name: Plugin.io
 categories:
-  - applications
+- applications
 description: Privacy-focused, ad-free social media & digital marketplace.
 links:
   web: https://plugin.io/
   github: https://github.com/pluginio
-
   twitter: https://x.com/pluginio
   facebook: https://www.facebook.com/pluginio/
-
 usecases:
-  - dapps
+- dapps
+have_token: false
+third_party_dependency: false

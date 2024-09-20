@@ -1,8 +1,9 @@
 name: KelVPN
 categories:
-  - applications
+- applications
 description: The first ever deanon-proof VPN is now available.
-ecosystem: [multichain]
+ecosystem:
+- multichain
 links:
   web: https://kelvpn.com
   github: https://gitlab.demlabs.net/cellframe/cellframe-sdk
@@ -12,13 +13,13 @@ links:
   telegram: https://t.me/kelvpndev
 team:
   anonymous: true
-have_token: true
+have_token: false
 token_link: https://coinmarketcap.com/currencies/kelvpn/
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
-
 usecases:
-  - vpn
+- vpn
+third_party_dependency: false

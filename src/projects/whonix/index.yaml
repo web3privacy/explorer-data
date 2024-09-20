@@ -1,7 +1,9 @@
 name: Whonix
 categories:
-  - applications
-description: "Software designed to preserve privacy and anonymity by helping users run applications anonymously. Whonix™ can be installed on Windows, macOS, Linux, and Qubes"
+- applications
+description: "Software designed to preserve privacy and anonymity by helping users\
+  \ run applications anonymously. Whonix\u2122 can be installed on Windows, macOS,\
+  \ Linux, and Qubes"
 team:
   anonymous: true
 links:
@@ -17,6 +19,7 @@ project_status:
   version: 17.0.4.5
   testnet: false
   mainnet: false
-
 usecases:
-  - operation-systems
+- operation-systems
+have_token: false
+third_party_dependency: false

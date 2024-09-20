@@ -1,12 +1,13 @@
 name: Cirus foundation
 categories:
-  - applications
-description: "With your permission, Cirus makes earning from your data easy"
+- applications
+description: With your permission, Cirus makes earning from your data easy
 links:
   web: https://cirusfoundation.com/your-data/
   twitter: https://x.com/cirusfoundation
   discord: https://discord.com/invite/Vbawz2j7AW
   blog: https://medium.com/the-cirus-foundation
-
 usecases:
-  - data-management
+- data-management
+have_token: false
+third_party_dependency: false

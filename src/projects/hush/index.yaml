@@ -1,18 +1,18 @@
 name: Hush
 categories:
-  - defi
+- defi
 description: Private cryptocurrency using zero knowledge mathematics
 links:
   web: https://hush.is
   github: https://git.hush.is/hush
   block_explorer: https://explorer.hush.is/
   whitepaper: https://git.hush.is/hush/hush-v3-whitepaper/src/branch/master/hush-v3.pdf
-
   blog: https://blog.hush.is/
   twitter: https://x.com/hushisprivacy
   telegram: https://t.me/hushisprivacy
 team:
   anonymous: false
-
 usecases:
-  - currency
+- currency
+have_token: false
+third_party_dependency: false
