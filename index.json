@@ -7109,7 +7109,14 @@
       },
       "tecnology": {
         "type": "E2E"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Bubble-protocol/logo.png"
+        }
+      ]
     },
     {
       "id": "vup",
@@ -15305,7 +15312,14 @@
       },
       "tecnology": {
         "type": "Zk"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Argument/logo.png"
+        }
+      ]
     },
     {
       "id": "edge",
