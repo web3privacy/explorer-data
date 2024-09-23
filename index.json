@@ -8184,7 +8184,14 @@
       },
       "tecnology": {
         "type": "End-to-End Encryption"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Alien/logo.png"
+        }
+      ]
     },
     {
       "id": "kilt",
