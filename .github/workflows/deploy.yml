@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
     push:
       branches:
-        - main  # Set a branch to deploy
+        - dk/v2-dataset  # Set a branch to deploy
     pull_request:
         
 permissions:
