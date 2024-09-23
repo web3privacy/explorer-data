@@ -1,3 +1,4 @@
+id: ronindojo-tanto
 name: RoninDojo Tanto
 categories:
 - hardware
@@ -16,4 +17,3 @@ usecases:
 - hardware
 have_token: false
 third_party_dependency: false
-id: ronindojo-tanto

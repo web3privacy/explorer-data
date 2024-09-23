@@ -1,3 +1,4 @@
+id: electric-coin-co
 name: Electric Coin. Co
 categories:
 - infrastructure
@@ -20,4 +21,3 @@ usecases:
 - research-and-development
 have_token: false
 third_party_dependency: false
-id: electric-coin-co

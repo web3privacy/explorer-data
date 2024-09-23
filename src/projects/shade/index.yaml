@@ -1,3 +1,4 @@
+id: shade
 name: Shade Protocol
 categories:
 - defi
@@ -100,4 +101,3 @@ project_status:
 usecases:
 - defi
 have_token: false
-id: shade

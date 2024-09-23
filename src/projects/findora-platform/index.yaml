@@ -1,3 +1,4 @@
+id: findora-platform
 name: Findora
 categories:
 - infrastructure
@@ -22,4 +23,3 @@ team:
 usecases:
 - computing
 third_party_dependency: false
-id: findora-platform

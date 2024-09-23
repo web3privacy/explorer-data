@@ -1,3 +1,4 @@
+id: masq
 name: MASQ
 categories:
 - infrastructure
@@ -57,4 +58,3 @@ usecases:
 - vpn
 - browser
 have_token: false
-id: masq

@@ -1,3 +1,4 @@
+id: logion
 name: Logion
 categories:
 - infrastructure
@@ -17,4 +18,3 @@ have_token: false
 usecases:
 - infrastructure
 third_party_dependency: false
-id: logion

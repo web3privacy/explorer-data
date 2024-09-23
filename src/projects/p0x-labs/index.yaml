@@ -1,3 +1,4 @@
+id: p0x-labs
 name: P0X labs
 categories:
 - infrastructure
@@ -10,4 +11,3 @@ usecases:
 - research-and-development
 have_token: false
 third_party_dependency: false
-id: p0x-labs

@@ -1,3 +1,4 @@
+id: anon-aadhaar
 name: Anon Aadhaar
 categories:
 - applications
@@ -25,4 +26,3 @@ usecases:
 - did
 have_token: false
 third_party_dependency: false
-id: anon-aadhaar

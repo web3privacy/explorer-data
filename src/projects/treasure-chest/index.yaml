@@ -1,3 +1,4 @@
+id: treasure-chest
 name: Treasure Chest
 categories:
 - applications
@@ -13,4 +14,3 @@ usecases:
 - wallets
 have_token: false
 third_party_dependency: false
-id: treasure-chest

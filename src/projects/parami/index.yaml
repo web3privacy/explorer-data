@@ -1,3 +1,4 @@
+id: parami
 name: Parami
 categories:
 - infrastructure
@@ -15,4 +16,3 @@ usecases:
 - infrastructure
 have_token: false
 third_party_dependency: false
-id: parami

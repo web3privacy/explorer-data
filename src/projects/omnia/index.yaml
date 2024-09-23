@@ -1,3 +1,4 @@
+id: omnia
 name: Omnia
 categories:
 - infrastructure
@@ -31,4 +32,3 @@ audits:
 usecases:
 - infrastructure
 third_party_dependency: false
-id: omnia

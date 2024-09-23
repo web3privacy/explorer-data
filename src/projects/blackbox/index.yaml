@@ -1,3 +1,4 @@
+id: blackbox
 name: Blackbox
 categories:
 - defi
@@ -68,4 +69,3 @@ project_status:
 usecases:
 - defi
 have_token: false
-id: blackbox

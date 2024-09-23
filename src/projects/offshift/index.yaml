@@ -1,3 +1,4 @@
+id: offshift
 name: Offshift
 categories:
 - defi
@@ -21,4 +22,3 @@ usecases:
 - defi
 have_token: false
 third_party_dependency: false
-id: offshift

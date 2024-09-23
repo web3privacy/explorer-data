@@ -1,3 +1,4 @@
+id: silk
 name: SILK
 categories:
 - defi
@@ -44,4 +45,3 @@ links:
 usecases:
 - currency
 have_token: false
-id: silk

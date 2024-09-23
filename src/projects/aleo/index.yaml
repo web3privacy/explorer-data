@@ -1,3 +1,4 @@
+id: aleo
 name: Aleo
 categories:
 - infrastructure
@@ -43,4 +44,3 @@ third_party_dependency: false
 usecases:
 - infrastructure
 have_token: false
-id: aleo

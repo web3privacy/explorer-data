@@ -1,3 +1,4 @@
+id: transferchain
 name: TransferChain
 categories:
 - applications
@@ -20,4 +21,3 @@ usecases:
 - storage
 have_token: false
 third_party_dependency: false
-id: transferchain

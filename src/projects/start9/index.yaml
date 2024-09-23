@@ -1,3 +1,4 @@
+id: start9
 name: Start9
 categories:
 - infrastructure
@@ -19,4 +20,3 @@ usecases:
 - node
 have_token: false
 third_party_dependency: false
-id: start9

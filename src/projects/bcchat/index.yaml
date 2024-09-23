@@ -1,3 +1,4 @@
+id: bcchat
 name: BCchat
 categories:
 - social-and-communications
@@ -21,4 +22,3 @@ usecases:
 - messaging
 have_token: false
 third_party_dependency: false
-id: bcchat

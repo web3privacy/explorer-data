@@ -1,3 +1,4 @@
+id: nodl-dojo
 name: nodl Dojo
 categories:
 - infrastructure
@@ -15,4 +16,3 @@ usecases:
 - node
 have_token: false
 third_party_dependency: false
-id: nodl-dojo

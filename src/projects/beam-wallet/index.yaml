@@ -1,3 +1,4 @@
+id: beam-wallet
 name: Beam
 categories:
 - applications
@@ -17,4 +18,3 @@ usecases:
 - wallets
 have_token: false
 third_party_dependency: false
-id: beam-wallet

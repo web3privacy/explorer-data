@@ -1,3 +1,4 @@
+id: zus
 name: "Z\xFCs"
 categories:
 - applications
@@ -29,4 +30,3 @@ tokens:
 usecases:
 - storage
 third_party_dependency: false
-id: zus

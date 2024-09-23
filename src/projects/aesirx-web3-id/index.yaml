@@ -1,3 +1,4 @@
+id: aesirx-web3-id
 name: AesirX WEB3 ID
 categories:
 - applications
@@ -15,4 +16,3 @@ have_token: false
 usecases:
 - did
 third_party_dependency: false
-id: aesirx-web3-id

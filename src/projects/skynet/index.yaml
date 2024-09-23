@@ -1,3 +1,4 @@
+id: skynet
 name: SkyNet
 categories:
 - applications
@@ -11,4 +12,3 @@ usecases:
 - storage
 have_token: false
 third_party_dependency: false
-id: skynet

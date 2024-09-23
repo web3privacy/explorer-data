@@ -1,3 +1,4 @@
+id: sons-of-crypto
 name: Sons of Crypto
 categories:
 - applications
@@ -21,4 +22,3 @@ usecases:
 - wallets
 have_token: false
 third_party_dependency: false
-id: sons-of-crypto

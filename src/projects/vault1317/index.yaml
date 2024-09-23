@@ -1,3 +1,4 @@
+id: vault1317
 name: Vault1317
 categories:
 - infrastructure
@@ -19,4 +20,3 @@ usecases:
 - infrastructure
 have_token: false
 third_party_dependency: false
-id: vault1317

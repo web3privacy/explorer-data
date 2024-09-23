@@ -1,3 +1,4 @@
+id: anon-nero
 name: Anon/Nero
 categories:
 - applications
@@ -8,4 +9,3 @@ usecases:
 - wallets
 have_token: false
 third_party_dependency: false
-id: anon-nero

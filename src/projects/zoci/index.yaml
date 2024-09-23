@@ -1,3 +1,4 @@
+id: zoci
 name: Zoci
 categories:
 - infrastructure
@@ -19,4 +20,3 @@ tokens:
 usecases:
 - rpc-provider
 third_party_dependency: false
-id: zoci

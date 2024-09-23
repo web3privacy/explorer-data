@@ -1,3 +1,4 @@
+id: zecrey-wallet
 name: Zecrey Wallet
 categories:
 - applications
@@ -15,4 +16,3 @@ usecases:
 - wallets
 have_token: false
 third_party_dependency: false
-id: zecrey-wallet

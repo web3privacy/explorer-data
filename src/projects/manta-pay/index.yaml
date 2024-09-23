@@ -1,3 +1,4 @@
+id: manta-pay
 name: Manta Pay
 categories:
 - defi
@@ -23,4 +24,3 @@ usecases:
 - defi
 have_token: false
 third_party_dependency: false
-id: manta-pay

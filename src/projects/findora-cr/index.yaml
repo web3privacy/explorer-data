@@ -1,3 +1,4 @@
+id: findora-cr
 name: Findora CR
 categories:
 - applications
@@ -16,4 +17,3 @@ token_link: https://coinmarketcap.com/it/currencies/findora/
 usecases:
 - did
 third_party_dependency: false
-id: findora-cr

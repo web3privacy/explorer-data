@@ -1,3 +1,4 @@
+id: ethernity-cloud
 name: Ethernity cloud
 categories:
 - infrastructure
@@ -37,4 +38,3 @@ usecases:
 - computing
 have_token: false
 third_party_dependency: false
-id: ethernity-cloud

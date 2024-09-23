@@ -1,3 +1,4 @@
+id: 0xtip
 name: 0xTIP
 categories:
 - applications
@@ -9,4 +10,3 @@ usecases:
 - mixing-service
 have_token: false
 third_party_dependency: false
-id: 0xtip

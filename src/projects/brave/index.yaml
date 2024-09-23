@@ -1,3 +1,4 @@
+id: brave
 name: Brave
 categories:
 - applications
@@ -12,4 +13,3 @@ usecases:
 - browser
 have_token: false
 third_party_dependency: false
-id: brave

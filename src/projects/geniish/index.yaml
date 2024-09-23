@@ -1,3 +1,4 @@
+id: geniish
 name: geniish
 categories:
 - applications
@@ -12,4 +13,3 @@ sunset: false
 usecases:
 - nft-community
 third_party_dependency: false
-id: geniish

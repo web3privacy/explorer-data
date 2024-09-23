@@ -1,3 +1,4 @@
+id: 01-labs
 name: 01 Labs
 categories:
 - applications
@@ -12,4 +13,3 @@ usecases:
 - research-and-development
 have_token: false
 third_party_dependency: false
-id: 01-labs

@@ -1,3 +1,4 @@
+id: zoker
 name: Zoker
 categories:
 - applications
@@ -13,4 +14,3 @@ usecases:
 - wallets
 have_token: false
 third_party_dependency: false
-id: zoker

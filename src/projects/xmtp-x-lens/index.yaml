@@ -1,3 +1,4 @@
+id: xmtp-x-lens
 name: XMTP x Lens
 categories:
 - social-and-communications
@@ -22,4 +23,3 @@ usecases:
 - messaging
 have_token: false
 third_party_dependency: false
-id: xmtp-x-lens

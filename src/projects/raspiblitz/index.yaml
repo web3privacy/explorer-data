@@ -1,3 +1,4 @@
+id: raspiblitz
 name: RaspiBlitz
 categories:
 - infrastructure
@@ -17,4 +18,3 @@ usecases:
 - node
 have_token: false
 third_party_dependency: false
-id: raspiblitz

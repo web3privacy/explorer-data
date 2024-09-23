@@ -1,3 +1,4 @@
+id: deeponion
 name: DeepOnion
 categories:
 - applications
@@ -105,4 +106,3 @@ social_trust: DeepOnion uses a multisig system for governance decisions and has 
   DAO for community voting.
 usecases:
 - currency
-id: deeponion

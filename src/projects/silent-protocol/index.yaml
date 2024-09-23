@@ -1,3 +1,4 @@
+id: silent-protocol
 name: Silent protocol
 categories:
 - defi
@@ -13,4 +14,3 @@ usecases:
 - defi
 have_token: false
 third_party_dependency: false
-id: silent-protocol

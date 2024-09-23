@@ -1,3 +1,4 @@
+id: oasis-network
 name: Oasis Network
 categories:
 - infrastructure
@@ -57,4 +58,3 @@ blockchain_features:
 usecases:
 - infrastructure
 third_party_dependency: false
-id: oasis-network

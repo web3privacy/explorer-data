@@ -1,3 +1,4 @@
+id: heyanon
 name: HeyAnon
 categories:
 - applications
@@ -10,4 +11,3 @@ usecases:
 - dao
 have_token: false
 third_party_dependency: false
-id: heyanon

@@ -1,3 +1,4 @@
+id: swarm
 name: Swarm
 categories:
 - applications
@@ -28,4 +29,3 @@ tokens:
 usecases:
 - storage
 third_party_dependency: false
-id: swarm

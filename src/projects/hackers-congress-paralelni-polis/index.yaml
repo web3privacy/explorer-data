@@ -1,3 +1,4 @@
+id: hackers-congress-paralelni-polis
 name: "Hackers Congress Paraleln\xED Polis"
 description: "the flagship event of Paraleln\xED Polis, which since 2014 has been\
   \ regularly attended by over 500 fans and IT experts from all over the world."
@@ -11,4 +12,3 @@ usecases:
 - events
 have_token: false
 third_party_dependency: false
-id: hackers-congress-paralelni-polis

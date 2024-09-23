@@ -1,3 +1,4 @@
+id: incognet
 name: Incognet
 categories:
 - infrastructure
@@ -15,4 +16,3 @@ usecases:
 - infrastructure
 have_token: false
 third_party_dependency: false
-id: incognet

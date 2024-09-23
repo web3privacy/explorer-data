@@ -1,3 +1,4 @@
+id: brightid
 name: BrightID
 categories:
 - applications
@@ -15,4 +16,3 @@ have_token: false
 usecases:
 - did
 third_party_dependency: false
-id: brightid

@@ -1,3 +1,4 @@
+id: coinomize
 name: Coinomize
 categories:
 - applications
@@ -10,4 +11,3 @@ usecases:
 - mixing-service
 have_token: false
 third_party_dependency: false
-id: coinomize

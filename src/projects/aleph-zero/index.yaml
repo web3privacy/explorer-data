@@ -1,3 +1,4 @@
+id: aleph-zero
 name: Aleph Zero
 categories:
 - infrastructure
@@ -26,4 +27,3 @@ usecases:
 - computing
 have_token: false
 third_party_dependency: false
-id: aleph-zero

@@ -1,3 +1,4 @@
+id: solar-labs
 name: Solar labs
 categories:
 - applications
@@ -9,4 +10,3 @@ have_token: false
 usecases:
 - vpn
 third_party_dependency: false
-id: solar-labs

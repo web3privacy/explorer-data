@@ -1,3 +1,4 @@
+id: fulldive
 name: Fulldive
 categories:
 - applications
@@ -11,4 +12,3 @@ usecases:
 - browser
 have_token: false
 third_party_dependency: false
-id: fulldive

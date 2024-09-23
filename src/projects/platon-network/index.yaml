@@ -1,3 +1,4 @@
+id: platon-network
 name: PlatOn Network
 categories:
 - infrastructure
@@ -25,4 +26,3 @@ usecases:
 - computing
 have_token: false
 third_party_dependency: false
-id: platon-network

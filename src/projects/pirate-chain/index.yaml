@@ -1,3 +1,4 @@
+id: pirate-chain
 name: Pirate Chain
 categories:
 - defi
@@ -19,4 +20,3 @@ usecases:
 - currency
 have_token: false
 third_party_dependency: false
-id: pirate-chain

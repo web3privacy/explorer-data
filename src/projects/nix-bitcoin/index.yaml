@@ -1,3 +1,4 @@
+id: nix-bitcoin
 name: nix-bitcoin
 categories:
 - applications
@@ -16,4 +17,3 @@ usecases:
 - operation-systems
 have_token: false
 third_party_dependency: false
-id: nix-bitcoin

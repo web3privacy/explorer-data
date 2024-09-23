@@ -1,3 +1,4 @@
+id: socialkyc
 name: socialKYC
 categories:
 - applications
@@ -13,4 +14,3 @@ usecases:
 - kyc-solution
 have_token: false
 third_party_dependency: false
-id: socialkyc

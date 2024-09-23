@@ -1,3 +1,4 @@
+id: hushchat
 name: HushChat
 categories:
 - applications
@@ -20,4 +21,3 @@ usecases:
 - messaging
 have_token: false
 third_party_dependency: false
-id: hushchat

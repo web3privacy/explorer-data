@@ -1,3 +1,4 @@
+id: leading-privacy-alliance
 name: Leading Privacy Alliance
 categories:
 - social-and-communications
@@ -11,4 +12,3 @@ usecases:
 - alliances
 have_token: false
 third_party_dependency: false
-id: leading-privacy-alliance

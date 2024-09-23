@@ -1,3 +1,4 @@
+id: manta-network
 name: Manta Network
 categories:
 - infrastructure
@@ -20,4 +21,3 @@ project_status:
 usecases:
 - infrastructure
 third_party_dependency: false
-id: manta-network

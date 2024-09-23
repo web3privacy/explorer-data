@@ -1,3 +1,4 @@
+id: automata-network
 name: Automata Network
 categories:
 - infrastructure
@@ -21,4 +22,3 @@ project_status:
 usecases:
 - infrastructure
 third_party_dependency: false
-id: automata-network

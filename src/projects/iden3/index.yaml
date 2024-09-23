@@ -1,3 +1,4 @@
+id: iden3
 name: Iden3
 categories:
 - applications
@@ -16,4 +17,3 @@ have_token: false
 usecases:
 - did
 third_party_dependency: false
-id: iden3

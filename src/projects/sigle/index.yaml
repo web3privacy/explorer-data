@@ -1,3 +1,4 @@
+id: sigle
 name: Sigle
 categories:
 - applications
@@ -15,4 +16,3 @@ usecases:
 - dapps
 have_token: false
 third_party_dependency: false
-id: sigle

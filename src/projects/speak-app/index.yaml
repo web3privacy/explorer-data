@@ -1,3 +1,4 @@
+id: speak-app
 name: Speak app
 categories:
 - applications
@@ -13,4 +14,3 @@ usecases:
 - messaging
 have_token: false
 third_party_dependency: false
-id: speak-app

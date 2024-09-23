@@ -1,3 +1,4 @@
+id: scala
 name: Scala
 categories:
 - infrastructure
@@ -25,4 +26,3 @@ project_status:
 usecases:
 - infrastructure
 third_party_dependency: false
-id: scala

@@ -1,3 +1,4 @@
+id: crypviser-secure-messenger
 name: Crypviser Secure Messenger
 categories:
 - social-and-communications
@@ -26,4 +27,3 @@ project_status:
 usecases:
 - messaging
 third_party_dependency: false
-id: crypviser-secure-messenger

@@ -1,3 +1,4 @@
+id: onionclub
 name: Onionclub
 categories:
 - applications
@@ -8,4 +9,3 @@ usecases:
 - messaging
 have_token: false
 third_party_dependency: false
-id: onionclub

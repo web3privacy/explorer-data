@@ -1,3 +1,4 @@
+id: trocador-app
 name: Trocador App
 categories:
 - infrastructure
@@ -12,4 +13,3 @@ usecases:
 - infrastructure
 have_token: false
 third_party_dependency: false
-id: trocador-app
