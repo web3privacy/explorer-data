@@ -3453,7 +3453,14 @@
       },
       "tecnology": {
         "type": "Zk & FHE"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Punkpool/logo.png"
+        }
+      ]
     },
     {
       "id": "hypersign",
