@@ -1,0 +1,57 @@
+name: Pado labs
+categories: [ dapps ]
+ecosystem: [ Ethereum ]
+usecases: [ Manage data, dapp ]
+description: 'PADO is a decentralized computation network based on FHE'
+product_launch_day: "2022"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Xiang Xie
+      link: https://x.com/xxiang_xie
+    - name: Vicky
+      link: https://x.com/bitvkphil
+    - name: Xavier
+      link: https://x.com/Xavier_bham 
+    
+links:
+  web: https://www.padolabs.org/
+  github: https://github.com/pado-labs
+  docs: https://docs.padolabs.org/
+  blog: https://medium.com/@padolabs 
+  twitter: https://x.com/padolabs
+  telegram: https://t.me/zkpadolabs
+  discord: https://discord.com/invite/pdrNxRrApX
+
+project_phase: Mainnet
+sunset: false
+
+funding:
+  name: Amber
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://docs.padolabs.org/privacy-policy/
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet or google account
+third_party_dependency: AO & Arweave network
+compliance: false
+
+storage:
+  decentralized: true
+
+tecnology:
+ type: FHE & ZKproof   
+ 
+  
