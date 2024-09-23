@@ -2492,7 +2492,14 @@
       "compliance": false,
       "tecnology": {
         "type": "Zk"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Midnight-network/logo.png"
+        }
+      ]
     },
     {
       "id": "chimp-exchange",
@@ -10139,7 +10146,14 @@
       },
       "tecnology": {
         "type": "Zero-Knowledge Transport Layer Service (zkTLS)"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Opacity Network/logo.png"
+        }
+      ]
     },
     {
       "id": "zion",
@@ -11825,7 +11839,14 @@
       },
       "tecnology": {
         "type": "DePin"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Ghost Drive/logo.png"
+        }
+      ]
     },
     {
       "id": "bpsaa",
@@ -15984,7 +16005,14 @@
       ],
       "tecnology": {
         "type": "ZK-SNARKS and ECDSA"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/DOP/logo.png"
+        }
+      ]
     },
     {
       "id": "krux",
