@@ -1,0 +1,49 @@
+name: FamBam
+categories: [ dapps ]
+ecosystem: [ Ton ]
+usecases: [ dapp ]
+description: 'Creating a decentralized platform for the verification of all Web3 on-chain and off-chain activities and experiences.'
+product_launch_day: "2021"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Peter Gabriel M.
+      link: https://www.linkedin.com/in/peterinprojects/
+
+links:
+  web: https://www.fambam.com/
+  github: https://github.com/fambam-com 
+  blog: https://fambam-com.medium.com/ 
+  twitter: https://x.com/Fambam_com
+  telegram: https://t.me/+6PbhAfz1EhJiZTNh
+  discord: https://discord.com/invite/FfbDtBJMuZ
+
+project_phase: Testnet
+sunset: false
+
+funding:
+  name: OKX venture
+  name: Jsquare
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: false 
+
+default_privacy: true
+
+traceability:
+  kyc: false
+third_party_dependency: false
+compliance: false
+
+storage:
+  decentralized: true
+
+tecnology:
+ type: DePin  
