@@ -1,0 +1,107 @@
+# BASIC DATA ------------------------------------------------------------------------------------------------------------------------
+
+name: SampleProject
+categories: [ defi ]
+ecosystem: [ Ethereum, Polkadot, Cosmos ]
+usecases: [ Swap, Wallet, Yield ]
+description: 'Short description of project features and mission'
+product_launch_day: "YYYY-MM-DD"
+
+# TEAM - focus on C-Level (CEO) personnel if information public available otherwise "anonymous: true" -------------------------------
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Random Guy
+      link: https://twitter.com/mostrandomguy
+# LINKS - focus: Web, Github, Docs, Blog, Whitepaper, Twitter -----------------------------------------------------------------------
+
+links:
+  web: https://sample-website.com
+  github: https://github.com/sample_privacy_project
+  docs: https://docs.sample-website.com
+  whitepaper: https://docs.sample-website.com/whitepaper.pdf
+  blog: https://medium.com/@sample_privacy_project
+  twitter: https://twitter.com/sample_privacy_project
+  block_explorer: https://samplescan.io/
+  forum: https://forum.sample-website.com
+  governance: https://snapshot.org/sample-dao
+  discord: https://discord.com/invite/jgUQSAMPLE
+  telegram: https://t.me/sample_privacy_project
+  lens: https://hey.xyz/u/sample_privacy_project
+  farcaster: "@sampleprivacyproject"
+# PROJECT STATUS -------------------------------------------------------------------------------------------------------------------
+
+project_status:
+  version: MVP/Alpha/Mainnet/Testnet
+sunset: false
+
+# ASSETS AND NATIVE TOKENS - if there is no token "have_token: false" --------------------------------------------------------------
+
+assets_used: [ BTC, ETH, USDC ]
+have_token: true
+tokens:
+  - name: SampleToken
+    symbol: SAMPLE
+    contract_address: "0xe6c83af64e4c60245d8c7de953df673a00000"
+    token_link: https://etherscan.io/address/0x148932fc33d97ae4f85443d2f6af25cacddd6062
+# FUNDING ------------------------------------------------------------------------------------------------------------------------
+
+funding:
+  - name: Private investors ICO
+    link: https://investopedia.org/sample-ico-2022
+
+# TECHNOLOGY ---------------------------------------------------------------------------------------------------------------------
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+# PRIVACY ------------------------------------------------------------------------------------------------------------------------
+
+privacy_policy:
+  defined: true
+  link: https://app.shadeprotocol.io/use-terms
+
+default_privacy: True
+
+traceability:
+  kyc: false
+
+compliance: OFAC, USA
+# SECURITY -----------------------------------------------------------------------------------------------------------------------
+
+audits:
+  - name: Privacy audit company - Sample security check
+    link: https://pac.com/sample-security.pdf
+    time: "YYYY-MM-DD"
+
+# ADDITIONAL INFORMATION --------------------------------------------------------------------------------------------------------
+
+history:
+  title: Sample Voyage
+  description: Launched Sample Voyage on Mainnet
+  time: "YYYY-MM-DD"
+  link: https://infonewspage.com/sample-launch
+ 
+privacy_policy:
+  data_usage: tools you are making TXs on
+
+traceability:
+  tracked_data: user SCRT adress
+  sign_in_type_requirments: EVM wallet
+
+storage:
+  decentralized: true
+
+technology:
+  type: ZK-Snarks
+
+blockchain_features:
+  p2p: true
+
+third_party_dependency: Chainlink oracle
+social_trust: Sample board multisig & DAO
+technical_spof: Uniswap hack
