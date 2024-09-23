@@ -24,3 +24,4 @@ token_link: https://coinmarketcap.com/it/currencies/kiltprotocol/
 usecases:
 - did
 third_party_dependency: false
+id: kilt

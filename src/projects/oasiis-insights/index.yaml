@@ -8,3 +8,4 @@ usecases:
 - data-management
 have_token: false
 third_party_dependency: false
+id: oasiis-insights

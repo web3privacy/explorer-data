@@ -25,3 +25,4 @@ token_link: https://coinmarketcap.com/it/currencies/veruscoin/
 usecases:
 - did
 third_party_dependency: false
+id: verusid

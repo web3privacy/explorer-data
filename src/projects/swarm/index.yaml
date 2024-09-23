@@ -28,3 +28,4 @@ tokens:
 usecases:
 - storage
 third_party_dependency: false
+id: swarm

@@ -22,3 +22,4 @@ token_link: https://coinmarketcap.com/it/currencies/dock/
 usecases:
 - did
 third_party_dependency: false
+id: web3id

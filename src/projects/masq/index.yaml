@@ -57,3 +57,4 @@ usecases:
 - vpn
 - browser
 have_token: false
+id: masq

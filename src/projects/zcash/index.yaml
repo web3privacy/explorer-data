@@ -78,3 +78,4 @@ project_status:
 usecases:
 - currency
 have_token: false
+id: zcash

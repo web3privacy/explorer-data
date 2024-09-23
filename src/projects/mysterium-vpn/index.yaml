@@ -18,3 +18,4 @@ token_link: https://coinmarketcap.com/currencies/mysterium/
 usecases:
 - vpn
 third_party_dependency: false
+id: mysterium-vpn

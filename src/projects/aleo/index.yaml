@@ -43,3 +43,4 @@ third_party_dependency: false
 usecases:
 - infrastructure
 have_token: false
+id: aleo

@@ -22,3 +22,4 @@ token_link: https://coinmarketcap.com/currencies/litentry/
 usecases:
 - did
 third_party_dependency: false
+id: litentry

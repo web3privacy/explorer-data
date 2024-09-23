@@ -14,3 +14,4 @@ have_token: false
 usecases:
 - kyc-solution
 third_party_dependency: false
+id: holonym

@@ -9,3 +9,4 @@ usecases:
 - nft-community
 have_token: false
 third_party_dependency: false
+id: arcana-s-private-nft

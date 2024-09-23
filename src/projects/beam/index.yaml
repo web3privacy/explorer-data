@@ -24,3 +24,4 @@ usecases:
 - currency
 have_token: false
 third_party_dependency: false
+id: beam

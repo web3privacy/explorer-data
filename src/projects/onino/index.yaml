@@ -10,3 +10,4 @@ tokens:
 usecases:
 - infrastructure
 third_party_dependency: false
+id: onino

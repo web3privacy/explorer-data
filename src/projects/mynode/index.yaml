@@ -20,3 +20,4 @@ sunset: false
 usecases:
 - node
 third_party_dependency: false
+id: mynode

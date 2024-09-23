@@ -100,3 +100,4 @@ project_status:
 usecases:
 - defi
 have_token: false
+id: shade

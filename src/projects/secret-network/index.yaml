@@ -1,22 +1,24 @@
 name: Secret Network
 categories:
-  - infrastructure
+- infrastructure
 tokens:
-  - name: Secret
-    symbol: SCRT
-    network: Secret Network
-    contract_address: secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek
-description: "the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3"
+- name: Secret
+  symbol: SCRT
+  network: Secret Network
+  contract_address: secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek
+description: the first blockchain with customizable privacy. You get to choose what
+  you share, with whom, and how. This protects users, and empowers developers to build
+  a better Web3
 project_type: Infrastructure
-product_launch_day: "2020-02-13"
+product_launch_day: '2020-02-13'
 technology:
   type: TEE
   name: Trusted execution environment
   features:
-    - privacy
-    - DeFi
-    - applicationss
-    - PaaS
+  - privacy
+  - DeFi
+  - applicationss
+  - PaaS
 links:
   web: https://scrt.network
   twitter: https://twitter.com/SecretNetwork
@@ -48,9 +50,9 @@ team:
     link: https://www.scrtlabs.com/
     contacts: info@scrtlabs.com
   teammembers:
-    - name: Alex Zaidelson
-      role: SLabs CEO
-      link: https://twitter.com/azaidelson
+  - name: Alex Zaidelson
+    role: SLabs CEO
+    link: https://twitter.com/azaidelson
 storage:
   decentralized: true
 tracebility:
@@ -62,16 +64,16 @@ compliance: false
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-  - title: Mainnet
-    event_type: launch
-    description: Mainnet
-    time: Feb 13, 2020
-    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+- title: Mainnet
+  event_type: launch
+  description: Mainnet
+  time: Feb 13, 2020
+  link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
 client_diversability:
-  - name: Keplr
-    link: https://www.keplr.app/
-  - name: Starshell
-    link: https://starshell.net/
+- name: Keplr
+  link: https://www.keplr.app/
+- name: Starshell
+  link: https://starshell.net/
 default_privacy: false
 funding:
   name: Private investors
@@ -85,6 +87,6 @@ project_status:
   testnet: true
   mainnet: true
 have_token: true
-
 usecases:
-  - infrastructure
+- infrastructure
+id: secret-network
