@@ -1009,6 +1009,11 @@
       "percentage": 75,
       "logos": [
         {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/presearch/logo.svg"
+        },
+        {
           "file": "logo.svg+xml",
           "ext": "svg+xml",
           "url": "https://explorer-data.web3privacy.info/assets/projects/presearch/logo.svg+xml"
