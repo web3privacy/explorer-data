@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
     push:
       branches:
-        - dk/v2-dataset  # Set a branch to deploy
+        - main # Set a branch to deploy
     pull_request:
         
 permissions:
@@ -41,7 +41,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/dk/v2-dataset' }}
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
