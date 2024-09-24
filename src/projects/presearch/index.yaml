@@ -169,3 +169,7 @@ ratings:
         value: true
     points: 30
 percentage: 75
+logos:
+  - file: logo.svg+xml
+    ext: svg+xml
+    url: https://explorer-data.web3privacy.info/assets/projects/presearch/logo.svg+xml
