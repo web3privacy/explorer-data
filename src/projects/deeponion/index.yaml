@@ -1,47 +1,46 @@
 id: deeponion
 name: DeepOnion
 categories:
-- applications
+  - infrastructure
 assets_used:
-- ZK-SNARKS
-- TOR-NETWORK
+  - zk-snarks
+  - tor-network
 ecosystem:
-- deeponion-network
+  - deeponion-network
 project_type: Hybrid cryptocurrency
-description: DeepOnion (ONION) is a decentralized, open-source, community-driven cryptocurrency
-  that offers multi-layered privacy and everyday use cases. It uses an x13 hybrid
-  PoW/PoS to secure the network. DeepOnion is one of the earliest cryptos to integrate
-  the Tor network into the wallet, which has not leaked any IP addresses since its
-  release on 12 July 2017.
+description: DeepOnion (ONION) is a decentralized, open-source, community-driven
+  cryptocurrency that offers multi-layered privacy and everyday use cases. It
+  uses an x13 hybrid PoW/PoS to secure the network. DeepOnion is one of the
+  earliest cryptos to integrate the Tor network into the wallet, which has not
+  leaked any IP addresses since its release on 12 July 2017.
 product_readiness: Mainnet
-product_launch_day: '2017-07-12'
-have_token: true
+have_token: false
 tokens:
-- name: DeepOnion
-  symbol: ONION
-  network: DeepOnion Network
-  fee: 0.0001 ONION/kB
+  - name: DeepOnion
+    symbol: ONION
+    network: DeepOnion Network
+    fee: 0.0001 ONION/kB
 team:
   anonymous: true
   teammembers:
-  - name: Deeper
-    role: Marketing Manager
-    link: https://deeponion.org/community/members/deeper.2/
-  - name: Monocolor
-    role: Lead Blockchain Developer
-    link: https://deeponion.org/community/members/monocolor.207/
-  - name: Nezero
-    role: Blockchain Developer
-    link: https://deeponion.org/community/members/nezero.1858/
-  - name: Obszoenling
-    role: Blockchain Developer
-    link: https://deeponion.org/community/members/obszoenling.414/
-  - name: Impressive
-    role: Web Developer
-    link: https://deeponion.org/community/members/impressive.2278/
-  - name: DogLover
-    role: Web Developer
-    link: https://deeponion.org/community/members/doglover.2258/
+    - name: Deeper
+      role: Marketing Manager
+      link: https://deeponion.org/community/members/deeper.2/
+    - name: Monocolor
+      role: Lead Blockchain Developer
+      link: https://deeponion.org/community/members/monocolor.207/
+    - name: Nezero
+      role: Blockchain Developer
+      link: https://deeponion.org/community/members/nezero.1858/
+    - name: Obszoenling
+      role: Blockchain Developer
+      link: https://deeponion.org/community/members/obszoenling.414/
+    - name: Impressive
+      role: Web Developer
+      link: https://deeponion.org/community/members/impressive.2278/
+    - name: DogLover
+      role: Web Developer
+      link: https://deeponion.org/community/members/doglover.2258/
 funding:
   name: Community Contributions
   type: Community Support
@@ -51,36 +50,36 @@ funding:
 sunset: false
 links:
   web: https://deeponion.org
+  blog: ""
   github: https://github.com/deeponion/deeponion/
-  block_explorer: https://explorer.deeponion.org/
   forum: https://deeponion.org/community/
+  docs: ""
   whitepaper: https://deeponion.org/White-Paper.pdf
+  block_explorer: https://explorer.deeponion.org/
+  governance: ""
   twitter: https://twitter.com/TheDeepOnion
-  facebook: https://www.facebook.com/deeponionx
+  discord: ""
   telegram: https://t.me/getdeeponion
-  cmc community: https://coinmarketcap.com/community/profile/DeepOnion/
-  gettr: https://gettr.com/user/deeponion
-  rumble: https://rumble.com/user/DeepOnion
-  primal: http://primal.net/p/npub1l3h54332pdmwnvyg83fsd5g6cfsrdf75mqy3fnh8nxhls0gr2eysm5hucr
-  education: https://deeponion.org/#academy
+  lens: ""
+  farcaster: ""
 technology:
   type: x13 PoW & PoS
   features:
-  - Private wallet
-  - Hybrid - PoW & PoS
-  - ZK-Snarks for privacy
-  - TOR Network integration
-  - DeepSend for transaction masking
-  - DeepVault for file verification
-  - DeepProtocol for encrypted messaging
-  - DeepOnionJ for Java integration
-  - VoteCentral for community governance
+    - Private wallet
+    - Hybrid - PoW & PoS
+    - ZK-Snarks for privacy
+    - TOR Network integration
+    - DeepSend for transaction masking
+    - DeepVault for file verification
+    - DeepProtocol for encrypted messaging
+    - DeepOnionJ for Java integration
+    - VoteCentral for community governance
 blockchain_features:
-  encryption: zksnark
   opensource: true
-  data_masking: DeepSend
-  frontend_anonymity: TOR addresses
-  asset_custody_type: non-custodial
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: zksnark
   p2p: true
 project_status:
   live_status: true
@@ -97,12 +96,123 @@ privacy_policy:
   data_usage: Not using
 tracebility:
   kyc: false
-  sign_in_type_requirements: wallet
+  tracked_data: None
 compliance: none
 storage:
   decentralized: true
-third_party_dependency: false
-social_trust: DeepOnion uses a multisig system for governance decisions and has a
-  DAO for community voting.
+third_party_dependency: ""
+social_trust: DeepOnion uses a multisig system for governance decisions and has
+  a DAO for community voting.
 usecases:
-- currency
+  - currency
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/deeponion/logo.png
+ratings:
+  - type: openess
+    name: Openess
+    items:
+      - isValid: true
+        label: Team
+        positive: 6 Members
+        negative: Anonymous
+        value: 6
+      - isValid: false
+        label: Documentation
+        positive: Link
+        negative: Not available
+      - isValid: true
+        label: Github
+        positive: Link
+        negative: Not available
+        value: https://github.com/deeponion/deeponion/
+      - isValid: true
+        label: Twitter
+        positive: Link
+        negative: Not available
+        value: https://twitter.com/TheDeepOnion
+      - isValid: true
+        label: Twitter
+        positive: Link
+        negative: Not available
+        value: https://t.me/getdeeponion
+      - isValid: false
+        label: Discord
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Lens
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Farcaster
+        positive: Link
+        negative: Not available
+      - isValid: true
+        label: Whitepaper
+        positive: Link
+        negative: Not available
+        value: https://deeponion.org/White-Paper.pdf
+      - isValid: true
+        label: Funding
+        positive: Investment
+        negative: Not available
+        value: Not applicable
+    points: 42
+  - type: technology
+    name: Technology
+    items:
+      - isValid: true
+        label: Mainnet
+        positive: Yes
+        negative: No
+        value: true
+      - isValid: true
+        label: Open Source
+        positive: Yes
+        negative: No
+        value: true
+      - isValid: false
+        label: Non Custody
+        positive: None
+        negative: Custodial
+        value: non-custodial
+      - isValid: false
+        label: Upgradability
+        positive: Disabled
+        negative: Enabled
+      - isValid: false
+        label: Audits
+        positive: Audit
+        negative: None
+    points: 30
+  - type: privacy
+    name: Privacy
+    items:
+      - isValid: true
+        label: Privacy Policy
+        positive: Link
+        negative: Not available
+        value: https://deeponion.org/privacypolicy.html
+      - isValid: true
+        label: KYC
+        positive: No
+        negative: Yes
+        value: false
+      - isValid: false
+        label: Compliance
+        positive: No
+        negative: OFAC
+        value: none
+      - isValid: false
+        label: Default Privacy
+        positive: YES
+        negative: No
+    points: 20
+percentage: 61
+project_phase: mainnet
+default_privacy: true
+audits: []
+technical_spof: ""
+history: []
