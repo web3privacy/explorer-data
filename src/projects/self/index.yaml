@@ -1,0 +1,143 @@
+id: self
+name: Self
+categories:
+  - applications
+description: Build identification and personal data management for everything
+team:
+  anonymous: false
+  teammembers:
+    - name: Dan Sutherland
+      link: https://www.linkedin.com/in/dansuth/
+    - name: Sena Gbeckor-Kove
+      link: https://www.linkedin.com/in/senagbe/
+    - name: Jason Reid
+      link: https://www.linkedin.com/in/jason-reid-1a12833/
+links:
+  web: https://www.joinself.com/
+  github: https://github.com/joinself
+  docs: https://docs.joinself.com/
+  twitter: https://x.com/futureoftrust
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  p2p: false
+privacy_policy:
+  defined: true
+  link: https://www.joinself.com/company/legal
+default_privacy: true
+tracebility:
+  kyc: false
+third_party_dependency: false
+compliance: false
+storage:
+  decentralized: true
+usecases:
+  - did
+have_token: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/self/logo.png
+ratings:
+  - type: openess
+    name: Openess
+    items:
+      - isValid: true
+        label: Team
+        positive: 3 Members
+        negative: Anonymous
+        value: 3
+      - isValid: true
+        label: Documentation
+        positive: Link
+        negative: Not available
+        value: https://docs.joinself.com/
+      - isValid: true
+        label: Github
+        positive: Link
+        negative: Not available
+        value: https://github.com/joinself
+      - isValid: true
+        label: Twitter
+        positive: Link
+        negative: Not available
+        value: https://x.com/futureoftrust
+      - isValid: false
+        label: Twitter
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Discord
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Lens
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Farcaster
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Whitepaper
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Funding
+        positive: Investment
+        negative: Not available
+    points: 31
+  - type: technology
+    name: Technology
+    items:
+      - isValid: false
+        label: Mainnet
+        positive: Yes
+        negative: No
+      - isValid: true
+        label: Open Source
+        positive: Yes
+        negative: No
+        value: true
+      - isValid: true
+        label: Non Custody
+        positive: None
+        negative: Custodial
+        value: non-custody
+      - isValid: false
+        label: Upgradability
+        positive: Disabled
+        negative: Enabled
+      - isValid: false
+        label: Audits
+        positive: Audit
+        negative: None
+    points: 30
+  - type: privacy
+    name: Privacy
+    items:
+      - isValid: true
+        label: Privacy Policy
+        positive: Link
+        negative: Not available
+        value: https://www.joinself.com/company/legal
+      - isValid: true
+        label: KYC
+        positive: No
+        negative: Yes
+        value: false
+      - isValid: false
+        label: Compliance
+        positive: No
+        negative: OFAC
+        value: false
+      - isValid: true
+        label: Default Privacy
+        positive: YES
+        negative: No
+        value: true
+    points: 30
+percentage: 61
+ecosystem:
+  - other
