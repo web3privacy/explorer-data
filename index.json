@@ -755,7 +755,7 @@
     },
     {
       "id": "presearch",
-      "name": "Preserch",
+      "name": "Presearch",
       "categories": [
         "applications"
       ],
@@ -854,7 +854,166 @@
       "usecases": [
         "browser"
       ],
-      "have_token": false
+      "have_token": false,
+      "ratings": [
+        {
+          "type": "openess",
+          "name": "Openess",
+          "items": [
+            {
+              "isValid": true,
+              "label": "Team",
+              "positive": "9 Members",
+              "negative": "Anonymous",
+              "value": 9
+            },
+            {
+              "isValid": true,
+              "label": "Documentation",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://docs.presearch.io/"
+            },
+            {
+              "isValid": true,
+              "label": "Github",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://github.com/presearchofficial"
+            },
+            {
+              "isValid": true,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://x.com/presearchnews"
+            },
+            {
+              "isValid": true,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://t.me/presearch"
+            },
+            {
+              "isValid": true,
+              "label": "Discord",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://discord.com/invite/KUpshRZz2n"
+            },
+            {
+              "isValid": false,
+              "label": "Lens",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Farcaster",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": true,
+              "label": "Whitepaper",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://presearch.io/vision.pdf"
+            },
+            {
+              "isValid": false,
+              "label": "Funding",
+              "positive": "Investment",
+              "negative": "Not available"
+            }
+          ],
+          "points": 43
+        },
+        {
+          "type": "technology",
+          "name": "Technology",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Mainnet",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": true,
+              "label": "Open Source",
+              "positive": "Yes",
+              "negative": "No",
+              "value": true
+            },
+            {
+              "isValid": true,
+              "label": "Non Custody",
+              "positive": "None",
+              "negative": "Custodial",
+              "value": "non-custody"
+            },
+            {
+              "isValid": false,
+              "label": "Upgradability",
+              "positive": "Disabled",
+              "negative": "Enabled"
+            },
+            {
+              "isValid": true,
+              "label": "Audits",
+              "positive": "1 Audit",
+              "negative": "None",
+              "value": 1
+            }
+          ],
+          "points": 40
+        },
+        {
+          "type": "privacy",
+          "name": "Privacy",
+          "items": [
+            {
+              "isValid": true,
+              "label": "Privacy Policy",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://presearch.com/privacy"
+            },
+            {
+              "isValid": true,
+              "label": "KYC",
+              "positive": "No",
+              "negative": "Yes",
+              "value": false
+            },
+            {
+              "isValid": false,
+              "label": "Compliance",
+              "positive": "No",
+              "negative": "OFAC",
+              "value": false
+            },
+            {
+              "isValid": true,
+              "label": "Default Privacy",
+              "positive": "YES",
+              "negative": "No",
+              "value": true
+            }
+          ],
+          "points": 30
+        }
+      ],
+      "percentage": 75,
+      "logos": [
+        {
+          "file": "logo.svg+xml",
+          "ext": "svg+xml",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/presearch/logo.svg+xml"
+        }
+      ]
     },
     {
       "id": "evolution",
