@@ -1,9 +1,10 @@
 id: swarm
 name: Swarm
 categories:
-- applications
-description: A decentralized data storage and distribution technology. Ready to power
-  the next generation of censorship-resistant, unstoppable, serverless dApps
+  - infrastructure
+description: A decentralized data storage and distribution technology. Ready to
+  power the next generation of censorship-resistant, unstoppable, serverless
+  dApps
 team:
   anonymous: true
 links:
@@ -22,10 +23,114 @@ project_status:
 have_token: false
 token_link: https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb
 tokens:
-- name: BZZToken
-  symbol: BZZ
-  network: Ethereum
-  contract_address: '0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb'
+  - name: BZZToken
+    symbol: BZZ
+    network: Ethereum
+    contract_address: "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb"
 usecases:
-- storage
+  - storage
 third_party_dependency: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/swarm/logo.png
+ratings:
+  - type: openess
+    name: Openess
+    items:
+      - isValid: false
+        label: Team
+        positive: Member
+        negative: Anonymous
+      - isValid: true
+        label: Documentation
+        positive: Link
+        negative: Not available
+        value: https://docs.ethswarm.org/
+      - isValid: true
+        label: Github
+        positive: Link
+        negative: Not available
+        value: https://github.com/ethersphere
+      - isValid: true
+        label: Twitter
+        positive: Link
+        negative: Not available
+        value: https://x.com/ethswarm
+      - isValid: false
+        label: Twitter
+        positive: Link
+        negative: Not available
+      - isValid: true
+        label: Discord
+        positive: Link
+        negative: Not available
+        value: https://discord.com/invite/hyCr9BMX9U
+      - isValid: false
+        label: Lens
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Farcaster
+        positive: Link
+        negative: Not available
+      - isValid: true
+        label: Whitepaper
+        positive: Link
+        negative: Not available
+        value: https://www.ethswarm.org/swarm-whitepaper.pdf
+      - isValid: false
+        label: Funding
+        positive: Investment
+        negative: Not available
+    points: 32
+  - type: technology
+    name: Technology
+    items:
+      - isValid: true
+        label: Mainnet
+        positive: Yes
+        negative: No
+        value: true
+      - isValid: false
+        label: Open Source
+        positive: Yes
+        negative: No
+      - isValid: false
+        label: Non Custody
+        positive: None
+        negative: Custodial
+      - isValid: false
+        label: Upgradability
+        positive: Disabled
+        negative: Enabled
+      - isValid: false
+        label: Audits
+        positive: Audit
+        negative: None
+    points: 10
+  - type: privacy
+    name: Privacy
+    items:
+      - isValid: false
+        label: Privacy Policy
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: KYC
+        positive: No
+        negative: Yes
+      - isValid: false
+        label: Compliance
+        positive: No
+        negative: OFAC
+      - isValid: false
+        label: Default Privacy
+        positive: YES
+        negative: No
+    points: 0
+percentage: 28
+ecosystem:
+  - ethereum
+product_launch_day: 2024-06-08T22:00:00.000Z
+sunset: false
