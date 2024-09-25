@@ -98,7 +98,6 @@ privacy_policy:
 tracebility:
   kyc: false
   sign_in_type_requirements: wallet
-compliance: none
 storage:
   decentralized: true
 third_party_dependency: false

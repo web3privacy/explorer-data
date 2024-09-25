@@ -32,7 +32,7 @@ tracebility:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: false
-compliance: false
+
 audits:
 - name: Zellic
   link: https://github.com/Zellic/publications/blob/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf

@@ -297,7 +297,7 @@ properties:
     required:
       - kyc
   compliance:
-    anyOf: [{ type: boolean }, { type: string }]
+    type: string
   storage:
     type: object
     properties:

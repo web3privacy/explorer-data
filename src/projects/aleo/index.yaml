@@ -39,7 +39,7 @@ client_diversability:
 default_privacy: true
 storage:
   decentralized: true
-compliance: false
+
 third_party_dependency: false
 usecases:
 - infrastructure

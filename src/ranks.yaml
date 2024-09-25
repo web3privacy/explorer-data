@@ -149,9 +149,9 @@
       label: 
         name: Compliance
         positive: No
-        negative: OFAC
+        negative: ...
       condition:
-        equals: true
+        exists: false
       points: 5
     - field: default_privacy
       label: 
