@@ -36,7 +36,7 @@ privacy_policy:
 default_privacy: true
 tracebility:
   kyc: false
-compliance: false
+
 storage:
   decentralized: true
 usecases:

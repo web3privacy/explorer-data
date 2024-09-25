@@ -52,7 +52,7 @@ tracebility:
   kyc: false
   sign_in_type_requirments: wallet
 third_party_dependency: true
-compliance: false
+
 social_trust: Slabs ( MRSINGER ), Contract operator ( Trivium )
 technical_spof: Can decrypt/fraud
 client_diversability:

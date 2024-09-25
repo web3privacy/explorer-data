@@ -39,7 +39,7 @@ default_privacy: true
 tracebility:
   kyc: false
 third_party_dependency: false
-compliance: false
+
 usecases:
 - currency
 have_token: false
