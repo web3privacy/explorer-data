@@ -1,31 +1,199 @@
 id: swarm
 name: Swarm
 categories:
-- applications
-description: A decentralized data storage and distribution technology. Ready to power
-  the next generation of censorship-resistant, unstoppable, serverless dApps
+  - applications
+description: A decentralized data storage and distribution technology. Ready to
+  power the next generation of censorship-resistant, unstoppable, serverless
+  dApps
 team:
-  anonymous: true
+  anonymous: false
+  teammembers:
+    - name: Viktor Trón
+      link: https://x.com/zeligf
 links:
   web: https://www.ethswarm.org
-  github: https://github.com/ethersphere
   blog: https://blog.ethswarm.org/
+  github: https://github.com/ethersphere
+  forum: https://warpcast.com/ethswarm
   docs: https://docs.ethswarm.org/
   whitepaper: https://www.ethswarm.org/swarm-whitepaper.pdf
+  block_explorer: https://swarmscan.io/
+  governance: https://snapshot.org/#/swarmfoundation.eth
   twitter: https://x.com/ethswarm
   discord: https://discord.com/invite/hyCr9BMX9U
+  telegram: ""
+  lens: ""
+  farcaster: https://warpcast.com/ethswarm
 project_status:
   live_status: true
   version: Mainnet
   testnet: true
   mainnet: true
-have_token: false
+have_token: true
 token_link: https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb
 tokens:
-- name: BZZToken
-  symbol: BZZ
-  network: Ethereum
-  contract_address: '0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb'
+  - name: BZZToken
+    symbol: BZZ
+    network: Ethereum
+    contract_address: "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb"
 usecases:
-- storage
-third_party_dependency: false
+  - storage
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/swarm/logo.png
+ratings:
+  - type: openess
+    name: Openess
+    items:
+      - isValid: false
+        label: Team
+        positive: Member
+        negative: Anonymous
+      - isValid: true
+        label: Documentation
+        positive: Link
+        negative: Not available
+        value: https://docs.ethswarm.org/
+      - isValid: true
+        label: Github
+        positive: Link
+        negative: Not available
+        value: https://github.com/ethersphere
+      - isValid: true
+        label: Twitter
+        positive: Link
+        negative: Not available
+        value: https://x.com/ethswarm
+      - isValid: false
+        label: Twitter
+        positive: Link
+        negative: Not available
+      - isValid: true
+        label: Discord
+        positive: Link
+        negative: Not available
+        value: https://discord.com/invite/hyCr9BMX9U
+      - isValid: false
+        label: Lens
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Farcaster
+        positive: Link
+        negative: Not available
+      - isValid: true
+        label: Whitepaper
+        positive: Link
+        negative: Not available
+        value: https://www.ethswarm.org/swarm-whitepaper.pdf
+      - isValid: false
+        label: Funding
+        positive: Investment
+        negative: Not available
+    points: 32
+  - type: technology
+    name: Technology
+    items:
+      - isValid: true
+        label: Mainnet
+        positive: Yes
+        negative: No
+        value: true
+      - isValid: false
+        label: Open Source
+        positive: Yes
+        negative: No
+      - isValid: false
+        label: Non Custody
+        positive: None
+        negative: Custodial
+      - isValid: false
+        label: Upgradability
+        positive: Disabled
+        negative: Enabled
+      - isValid: false
+        label: Audits
+        positive: Audit
+        negative: None
+    points: 10
+  - type: privacy
+    name: Privacy
+    items:
+      - isValid: false
+        label: Privacy Policy
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: KYC
+        positive: No
+        negative: Yes
+      - isValid: false
+        label: Compliance
+        positive: No
+        negative: OFAC
+      - isValid: false
+        label: Default Privacy
+        positive: YES
+        negative: No
+    points: 0
+percentage: 28
+ecosystem:
+  - ethereum
+product_launch_day: 2014-06-08T22:00:00.000Z
+sunset: false
+assets_used: []
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Keccak256
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+default_privacy: false
+audits: []
+social_trust: Swarm Foundation
+technical_spof: ""
+funding:
+  - name: Alphemy Capital
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: Bitscale Capital
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: Dynamic Fintech Group
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: KR1
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: HashKey Capital
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: NGC Ventures
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: LD Capital
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: P2P Capital
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: Waterdrip Capital
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: White Paper Capital
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+  - name: YBB Foundation
+    link: https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09
+history:
+  - title: Swarm Summit 2024
+    description: "'The Summit will lay the groundwork for exploring future features
+      and expanding the ecosystem, while also offering fresh insights from the
+      team behind Swarm, and opportunities to hear eminent speakers share their
+      views on the current state and the future of Web3.'"
+    link: https://blog.ethswarm.org/foundation/2024/swarm-summit-2024-upload-the-future/
+    time: Thu Jun 20 2024 00:00:00 GMT+0200 (Central European Summer Time)
