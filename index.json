@@ -420,10 +420,10 @@
           "label": {
             "name": "Compliance",
             "positive": "No",
-            "negative": "OFAC"
+            "negative": "..."
           },
           "condition": {
-            "equals": true
+            "exists": false
           },
           "points": 5
         },
@@ -840,7 +840,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "Mantisec Lab",
@@ -1585,7 +1584,6 @@
         "sign_in_type_requirments": "wallets"
       },
       "third_party_dependency": false,
-      "compliance": "none",
       "client_diversability": [
         {
           "name": "BasicSwap client",
@@ -2066,7 +2064,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "usecases": [
         "dapps"
       ],
@@ -2566,7 +2563,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "Trail of Bits",
@@ -3622,7 +3618,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "social_trust": "Shade Core team ( Secret Contract multisig )",
       "technical_spof": "Can decrypt",
       "project_status": {
@@ -3702,7 +3697,6 @@
       "storage": {
         "decentralized": true
       },
-      "compliance": false,
       "third_party_dependency": false,
       "usecases": [
         "infrastructure"
@@ -3957,7 +3951,6 @@
         "kyc": false
       },
       "third_party_dependency": false,
-      "compliance": false,
       "storage": {
         "decentralized": true
       },
@@ -4062,7 +4055,6 @@
         "kyc": false
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "Certik",
@@ -5887,7 +5879,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "storage": {
         "decentralized": true
       },
@@ -5975,7 +5966,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "Halborn and Certik",
@@ -6192,7 +6182,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "Zellic",
@@ -6301,7 +6290,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "usecases": [
         "ai"
       ],
@@ -6434,7 +6422,6 @@
         "kyc": false
       },
       "third_party_dependency": false,
-      "compliance": false,
       "usecases": [
         "currency"
       ],
@@ -6642,7 +6629,6 @@
         "kyc": false
       },
       "third_party_dependency": false,
-      "compliance": false,
       "storage": {
         "decentralized": true
       },
@@ -6792,7 +6778,6 @@
         "sign_in_type_requirments": "seed"
       },
       "third_party_dependency": false,
-      "compliance": "compliant",
       "history": [
         {
           "title": "Hackaton",
@@ -8600,7 +8585,6 @@
       },
       "default_privacy": true,
       "third_party_dependency": false,
-      "compliance": false,
       "storage": {
         "decentralized": true
       },
@@ -8907,7 +8891,6 @@
         "decentralized": true
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "NCC Group NU5 Review",
@@ -10572,7 +10555,6 @@
       "tracebility": {
         "kyc": false
       },
-      "compliance": false,
       "storage": {
         "decentralized": true
       },
@@ -10740,7 +10722,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "Railgun audit report",
@@ -11676,7 +11657,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "usecases": [
         "dapps"
       ],
@@ -11957,7 +11937,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "Jean-Philipee Aumasson",
@@ -12571,7 +12550,6 @@
         "kyc": false,
         "sign_in_type_requirements": "wallet"
       },
-      "compliance": "none",
       "storage": {
         "decentralized": true
       },
@@ -12723,7 +12701,6 @@
       "tracebility": {
         "kyc": false
       },
-      "compliance": "We will not comply",
       "social_trust": "Community",
       "default_privacy": true,
       "funding": {
@@ -13280,7 +13257,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "stkd-SCRT",
@@ -14158,7 +14134,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "social_trust": "Slabs ( MRSINGER )",
       "technical_spof": "Can decrypt",
       "history": [
@@ -15656,7 +15631,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
-      "compliance": false,
       "audits": [
         {
           "name": "BlockSec",
@@ -16823,7 +16797,6 @@
         "kyc": false
       },
       "third_party_dependency": false,
-      "compliance": false,
       "usecases": [
         "ai"
       ],
@@ -17728,7 +17701,6 @@
         "kyc": false
       },
       "third_party_dependency": false,
-      "compliance": false,
       "usecases": [
         "computing"
       ],
@@ -18465,7 +18437,6 @@
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": true,
-      "compliance": false,
       "social_trust": "Slabs ( MRSINGER ), Contract operator ( Trivium )",
       "technical_spof": "Can decrypt/fraud",
       "client_diversability": [
