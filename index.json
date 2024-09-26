@@ -419,11 +419,11 @@
           "field": "compliance",
           "label": {
             "name": "Compliance",
-            "positive": "No",
-            "negative": "..."
+            "positive": "...",
+            "negative": "No"
           },
           "condition": {
-            "exists": false
+            "exists": true
           },
           "points": 5
         },
