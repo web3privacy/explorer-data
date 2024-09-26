@@ -4084,7 +4084,17 @@
       "links": {
         "web": "https://www.leadingprivacy.com",
         "blog": "https://medium.com/hoprnet/hopr-co-founds-leading-privacy-alliance-of-web3-99e057722deb",
-        "twitter": "https://twitter.com/LeadingPrivacy"
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/LeadingPrivacy",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "alliances"
@@ -4097,7 +4107,175 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/leading-privacy-alliance/logo.png"
         }
-      ]
+      ],
+      "ratings": [
+        {
+          "type": "openess",
+          "name": "Openess",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Team",
+              "positive": "Member",
+              "negative": "Anonymous"
+            },
+            {
+              "isValid": false,
+              "label": "Documentation",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Github",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": true,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://twitter.com/LeadingPrivacy"
+            },
+            {
+              "isValid": false,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Discord",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Lens",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Farcaster",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Whitepaper",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Funding",
+              "positive": "Investment",
+              "negative": "Not available"
+            }
+          ],
+          "points": 1,
+          "percentagePoints": 1.8181818181818181
+        },
+        {
+          "type": "technology",
+          "name": "Technology",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Mainnet",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Open Source",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Non Custody",
+              "positive": "None",
+              "negative": "Custodial"
+            },
+            {
+              "isValid": false,
+              "label": "Upgradability",
+              "positive": "Disabled",
+              "negative": "Enabled"
+            },
+            {
+              "isValid": false,
+              "label": "Audits",
+              "positive": "Audit",
+              "negative": "None"
+            }
+          ],
+          "points": 0,
+          "percentagePoints": 0
+        },
+        {
+          "type": "privacy",
+          "name": "Privacy",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Privacy Policy",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "KYC",
+              "positive": "No",
+              "negative": "Yes"
+            },
+            {
+              "isValid": true,
+              "label": "Compliance",
+              "positive": "No",
+              "negative": "..."
+            },
+            {
+              "isValid": false,
+              "label": "Default Privacy",
+              "positive": "YES",
+              "negative": "No"
+            }
+          ],
+          "points": 5,
+          "percentagePoints": 14.285714285714285
+        }
+      ],
+      "percentage": 4,
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": true,
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": ""
+      },
+      "default_privacy": false,
+      "project_phase": "beta",
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "history": []
     },
     {
       "id": "divestos",
