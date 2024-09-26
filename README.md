@@ -22,7 +22,7 @@ To add or update your project's information to the explorer, please follow these
 3. In the upper-right corner, click on **"Create new file"**.
 4. At this point, GitHub will ask you to **fork the branch**. Confirm the fork.
 5. **Enter the name of your project** in the new directory you created. Make sure there is a slash before the name. This way you create the project folder. Example: /NAME 
-6. Inside your project directory, create an `index.yaml` file. Follow the template here: https://github.com/web3privacy/explorer-data/blob/main/src/projects/sample.yaml
+6. Inside your project directory, create an `index.yaml` file. Follow the template here: [sample](https://github.com/web3privacy/explorer-data/blob/main/sample-project.yaml)
 7. When you're ready to save, click **"Commit changes..."** in the top-right corner.
 8. Toggle the option for **"Create a new branch for this commit and start a pull request"**.
 9. Click **"Propose changes"**.
