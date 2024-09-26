@@ -736,20 +736,283 @@
       ],
       "links": {
         "web": "https://ethberlin.ooo/contributors/",
-        "github": "https://github.com/ethb3rlin/4",
         "blog": "https://blog.dod.ngo/",
-        "twitter": "https://x.com/ETHBerlin"
+        "github": "https://github.com/ethb3rlin/",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/ETHBerlin",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "events"
       ],
       "have_token": false,
-      "third_party_dependency": false,
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ethberlin/logo.png"
+        }
+      ],
+      "ratings": [
+        {
+          "type": "openess",
+          "name": "Openess",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Team",
+              "positive": "Member",
+              "negative": "Anonymous"
+            },
+            {
+              "isValid": false,
+              "label": "Documentation",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": true,
+              "label": "Github",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://github.com/ethb3rlin/4"
+            },
+            {
+              "isValid": true,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://x.com/ETHBerlin"
+            },
+            {
+              "isValid": false,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Discord",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Lens",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Farcaster",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Whitepaper",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Funding",
+              "positive": "Investment",
+              "negative": "Not available"
+            }
+          ],
+          "points": 11,
+          "percentagePoints": 20
+        },
+        {
+          "type": "technology",
+          "name": "Technology",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Mainnet",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Open Source",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Non Custody",
+              "positive": "None",
+              "negative": "Custodial"
+            },
+            {
+              "isValid": false,
+              "label": "Upgradability",
+              "positive": "Disabled",
+              "negative": "Enabled"
+            },
+            {
+              "isValid": false,
+              "label": "Audits",
+              "positive": "Audit",
+              "negative": "None"
+            }
+          ],
+          "points": 0,
+          "percentagePoints": 0
+        },
+        {
+          "type": "privacy",
+          "name": "Privacy",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Privacy Policy",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "KYC",
+              "positive": "No",
+              "negative": "Yes"
+            },
+            {
+              "isValid": true,
+              "label": "Compliance",
+              "positive": "No",
+              "negative": "..."
+            },
+            {
+              "isValid": false,
+              "label": "Default Privacy",
+              "positive": "YES",
+              "negative": "No"
+            }
+          ],
+          "points": 5,
+          "percentagePoints": 14.285714285714285
+        }
+      ],
+      "percentage": 11,
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://ethberlin.org/privacy-policy/",
+        "data_usage": "Organising of the event"
+      },
+      "compliance": "NaN",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": ""
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "The project is being managed by the DoD (Department of Decentralisation) ",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "All of them",
+            "link": "https://ethberlin.org/contributors/"
+          },
+          {
+            "name": "Stina",
+            "link": "https://x.com/stinalinneag"
+          },
+          {
+            "name": "Helena",
+            "link": "https://x.com/helsfoftroy"
+          },
+          {
+            "name": "Maria",
+            "link": "https://x.com/MPtherealmvp"
+          },
+          {
+            "name": "Jacob",
+            "link": "https://x.com/_czepluch"
+          },
+          {
+            "name": "Lea",
+            "link": "https://x.com/_schmitted"
+          },
+          {
+            "name": "Afri",
+            "link": "https://github.com/q9f"
+          },
+          {
+            "name": "Martin",
+            "link": "https://x.com/MartinBreiten"
+          },
+          {
+            "name": "Kaan",
+            "link": "https://x.com/kaanuzdogan"
+          },
+          {
+            "name": "Ligi",
+            "link": "https://x.com/mr_ligi"
+          },
+          {
+            "name": "Franzi",
+            "link": "https://x.com/_franzihei"
+          }
+        ]
+      },
+      "funding": [
+        {
+          "name": "General Sponsership through eventspartners ",
+          "link": ""
+        }
+      ],
+      "history": [
+        {
+          "title": "EthBerlin",
+          "description": "First hackathon",
+          "link": "ethberlin.ooo",
+          "time": "Fri Sep 07 2018 00:00:00 GMT+0200 (Central European Summer Time)"
+        },
+        {
+          "title": "Ethberlin Zwei",
+          "description": "Second Hackathon",
+          "link": "https://ethberlinzwei.com/",
+          "time": "Fri Aug 23 2019 00:00:00 GMT+0200 (Central European Summer Time)"
+        },
+        {
+          "title": "ETHB3RLIN",
+          "description": "Third hackathon",
+          "link": "https://ethberlin.ooo/",
+          "time": "Fri Sep 16 2022 00:00:00 GMT+0200 (Central European Summer Time)"
+        },
+        {
+          "title": "ETHBerlin04",
+          "description": "4rd Hackathon. Theme: Identity Crisis",
+          "link": "ethberlin.org",
+          "time": "Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
         }
       ]
     },
