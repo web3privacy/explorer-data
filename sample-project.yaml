@@ -1,27 +1,22 @@
-# Essential (minimum) project data ----------------------------------------------------------------------------------------------------------------
-# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples 
+# BASIC DATA ------------------------------------------------------------------------------------------------------------------------
+
 name: SampleProject
 categories: [ defi ]
-assets_used: [ BTC, ETH, USDC ] 
-ecosystem: [ Ethereum, Polkadot, Cosmos ] 
-
-project_type: All in one Privacy tool
+ecosystem: [ Ethereum, Polkadot, Cosmos ]
+usecases: [ Swap, Wallet, Yield ] # You can find the applicable usecas-es here: https://github.com/web3privacy/explorer-data/blob/main/src/usecases.yaml 
+#if your use-case  is not mentioned in above file, feel free to add it through a PR.
 description: 'Short description of project features and mission'
-product_readiness: live
 product_launch_day: "YYYY-MM-DD"
 
-# Team - focus on C-Level (CEO) personnel if information public available otherwise "anonymous: true"
+# TEAM - focus on C-Level (CEO) personnel if information public available otherwise "anonymous: true" -------------------------------
+
 team:
   anonymous: false
   teammembers:
-    - name: Samplic Samplist
-      role: CEO
-      link: https://twitter.com/samplesampler
     - name: Random Guy
-      role: CTO
       link: https://twitter.com/mostrandomguy
-      
-# LINKS - focus: web, github, docs, blog, whitepaper, twitter
+# LINKS - focus: Web, Github, Docs, Blog, Whitepaper, Twitter -----------------------------------------------------------------------
+
 links:
   web: https://sample-website.com
   github: https://github.com/sample_privacy_project
@@ -29,125 +24,85 @@ links:
   whitepaper: https://docs.sample-website.com/whitepaper.pdf
   blog: https://medium.com/@sample_privacy_project
   twitter: https://twitter.com/sample_privacy_project
-  
-# Details on live status + version
-# project_status:
-#   live_status: true
-#   version: Mainnet
-#   testnet: false
-#   mainnet: true
+  block_explorer: https://samplescan.io/
+  forum: https://forum.sample-website.com
+  governance: https://snapshot.org/sample-dao
+  discord: https://discord.com/invite/jgUQSAMPLE
+  telegram: https://t.me/sample_privacy_project
+  lens: https://hey.xyz/u/sample_privacy_project
+  farcaster: "@sampleprivacyproject"
+# PROJECT STATUS -------------------------------------------------------------------------------------------------------------------
 
-# Token ticker + contract address - if there is no token "have_token: false" 
+project_status:
+  version: MVP/Alpha/Mainnet/Testnet
+sunset: false
+
+# ASSETS AND NATIVE TOKENS - if there is no token "have_token: false" --------------------------------------------------------------
+
+assets_used: [ BTC, ETH, USDC ]
 have_token: true
-token_link: https://etherscan.io/address/0x148932fc33d97ae4f85443d2f6af25cacddd6062
 tokens:
   - name: SampleToken
     symbol: SAMPLE
-    network: Ethereum
     contract_address: "0xe6c83af64e4c60245d8c7de953df673a00000"
-    
-# Additional basic information --------------------------------------------------------------------------------------------------------------
-# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
+    token_link: https://etherscan.io/address/0x148932fc33d97ae4f85443d2f6af25cacddd6062
+# FUNDING ------------------------------------------------------------------------------------------------------------------------
 
 funding:
   - name: Private investors ICO
-    type: ICO
     link: https://investopedia.org/sample-ico-2022
-    value: $50.000.000
-    time: "YYYY-MM-DD"
-    
-history:
-  title: Sample Voyage
-  event_type: launch
-  description: Launched Sample Voyage on Mainnet
-  time: "YYYY-MM-DD"
-  link: https://infonewspage.com/sample-launch
 
-# more links
-# links:
-#   block_explorer: https://samplescan.io/
-#   forum: https://forum.sample-website.com
-#   changelog: https://changelog.sample-website.com
-#   snapshot: https://snapshot.org/sample-dao
-#   discord: https://discord.com/invite/jgUQSAMPLE
-#   facebook: https://facebook.com/sample-privacy-crypto
-#   telegram: https://t.me/sample_privacy_project
-#   lens: https://hey.xyz/u/sample_privacy_project
-#   farcaster: "@sampleprivacyproject"
-#   rss_feed: https://rss-feeds.com/sample_privacy_project
-#   education: https://twitter.com/random_user/status/12345678901234
-  
-# TECHNOLOGY - information -------------------------------------------------------------------------------------------------------------
-# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
-
-technology:
-  type: ZK-Snarks
-  features:
-   - Private wallet
-   - Shielded DeFi
-   - P2P Swaps
+# TECHNOLOGY ---------------------------------------------------------------------------------------------------------------------
 
 blockchain_features:
-  encryption: zksnark
   opensource: true
-
-  identity_integration: Gitcoin Passport
-  p2p: true
-  data_masking: Sample_mixer
-  viewing_key: true
-  dissapearing_tx: false
-  connected_tx: false
-  frontend_anonymity: Sample frontend dont work on Tor
-
   asset_custody_type: non-custody
   upgradability:
     enabled: true
-    type: DAO vote
-    admin_keys: 51% consensus by DAO
 
-project_status:
-  live_status: true
-  version: Mainnet
-  testnet: false
-  mainnet: true
-
-client_diversability: 
-  - name: Sample-wallet
-    link: https://sample-wallet-using-sample.com
-  - name: Sample-Defi_Swap
-    link: https://sample-swap.com
-    
-# Privacy - information ---------------------------------------------------------------------------------------------------------------
-# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
-
-licences: General Public License
+# PRIVACY ------------------------------------------------------------------------------------------------------------------------
 
 privacy_policy:
   defined: true
   link: https://app.shadeprotocol.io/use-terms
-  data_usage: tools you are making TXs on
 
-tracebility:
-  tracked_data: user SCRT adress
+default_privacy: True
+
+traceability:
   kyc: false
-  sign_in_type_requirments: EVM wallet
 
 compliance: OFAC, USA
-
-storage:
-  decentralized: true
-  
-# Security - information -------------------------------------------------------------------------------------------------------------
-# Please have a look at https://github.com/web3privacy/explorer-data for explanations + examples
-
-third_party_dependency: Chainlink oracle
-social_trust: Sample board multisig & DAO
-technical_spof: Uniswap hack
+# SECURITY -----------------------------------------------------------------------------------------------------------------------
 
 audits:
   - name: Privacy audit company - Sample security check
     link: https://pac.com/sample-security.pdf
     time: "YYYY-MM-DD"
-  - name: Competitive Audit - Code4rena
-    link: https://ca.com/audit-result.pdf
-    time: "YYYY-MM-DD"
+
+# ADDITIONAL INFORMATION --------------------------------------------------------------------------------------------------------
+
+history:
+  title: Sample Voyage
+  description: Launched Sample Voyage on Mainnet
+  time: "YYYY-MM-DD"
+  link: https://infonewspage.com/sample-launch
+ 
+privacy_policy:
+  data_usage: tools you are making TXs on
+
+traceability:
+  tracked_data: user SCRT adress
+  sign_in_type_requirments: EVM wallet
+
+storage:
+  decentralized: true
+
+technology:
+  type: ZK-Snarks
+
+blockchain_features:
+  p2p: true
+
+third_party_dependency: Chainlink oracle
+social_trust: Sample board multisig & DAO
+technical_spof: Uniswap hack
