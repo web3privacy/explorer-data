@@ -102,6 +102,8 @@ tracebility:
   kyc: false
   tracked_data: None
 compliance: none
+  sign_in_type_requirements: wallet
+
 storage:
   decentralized: true
 third_party_dependency: No

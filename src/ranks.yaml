@@ -148,14 +148,15 @@
     - field: compliance
       label: 
         name: Compliance
-        positive: No
-        negative: OFAC
+        positive: ...
+        negative: No
       condition:
-        equals: true
+        exists: true
       points: 5
     - field: default_privacy
       label: 
         name: Default Privacy
+
         positive: YES
         negative: No
       condition:

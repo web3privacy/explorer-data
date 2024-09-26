@@ -41,7 +41,7 @@ privacy_policy:
   defined: false
 default_privacy: true
 third_party_dependency: false
-compliance: false
+
 storage:
   decentralized: true
 usecases:
