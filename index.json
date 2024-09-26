@@ -8235,27 +8235,231 @@
       ],
       "description": "A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem",
       "ecosystem": [
-        "multichain"
+        "multichain",
+        "cosmos"
       ],
       "links": {
         "web": "https://starshell.net/",
-        "github": "https://github.com/SolarRepublic"
+        "blog": "https://medium.com/@starshellwallet",
+        "github": "https://github.com/SolarRepublic",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "https://www.mintscan.io/secret/",
+        "governance": "",
+        "twitter": "https://twitter.com/StarShellWallet",
+        "discord": "https://discord.com/invite/U8SSK7T4xh",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "team": {
-        "anonymous": false
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "blake.regalia",
+            "link": "https://blake-regalia.net/"
+          }
+        ]
       },
       "usecases": [
         "wallets"
       ],
       "have_token": false,
-      "third_party_dependency": false,
+      "third_party_dependency": "None",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/starshell/logo.png"
         }
-      ]
+      ],
+      "ratings": [
+        {
+          "type": "openess",
+          "name": "Openess",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Team",
+              "positive": "Member",
+              "negative": "Anonymous"
+            },
+            {
+              "isValid": false,
+              "label": "Documentation",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": true,
+              "label": "Github",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://github.com/SolarRepublic"
+            },
+            {
+              "isValid": false,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Discord",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Lens",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Farcaster",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Whitepaper",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Funding",
+              "positive": "Investment",
+              "negative": "Not available"
+            }
+          ],
+          "points": 10,
+          "percentagePoints": 18.181818181818183
+        },
+        {
+          "type": "technology",
+          "name": "Technology",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Mainnet",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Open Source",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Non Custody",
+              "positive": "None",
+              "negative": "Custodial"
+            },
+            {
+              "isValid": false,
+              "label": "Upgradability",
+              "positive": "Disabled",
+              "negative": "Enabled"
+            },
+            {
+              "isValid": false,
+              "label": "Audits",
+              "positive": "Audit",
+              "negative": "None"
+            }
+          ],
+          "points": 0,
+          "percentagePoints": 0
+        },
+        {
+          "type": "privacy",
+          "name": "Privacy",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Privacy Policy",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "KYC",
+              "positive": "No",
+              "negative": "Yes"
+            },
+            {
+              "isValid": true,
+              "label": "Compliance",
+              "positive": "No",
+              "negative": "..."
+            },
+            {
+              "isValid": false,
+              "label": "Default Privacy",
+              "positive": "YES",
+              "negative": "No"
+            }
+          ],
+          "points": 5,
+          "percentagePoints": 14.285714285714285
+        }
+      ],
+      "percentage": 10,
+      "product_launch_day": "2023-01-31T23:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "scrt"
+      ],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Local host",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": false
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://starshell.net/privacy-policy.html",
+        "data_usage": "Improve UX"
+      },
+      "compliance": "No",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "IP Adress"
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "None",
+      "technical_spof": "spyware",
+      "funding": [
+        {
+          "name": "NYM",
+          "link": "https://blog.nymtech.net/nym-announces-first-round-of-grants-from-nym-innovation-fund-c7811a095fb7"
+        },
+        {
+          "name": "Secret Labs",
+          "link": "https://github.com/scrtlabs/Grants/issues/148"
+        }
+      ],
+      "history": []
     },
     {
       "id": "espresso-systems",
