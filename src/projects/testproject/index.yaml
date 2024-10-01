@@ -1,0 +1,10 @@
+name: TestProject
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+description: Desc
+sunset: false
+id: testproject
