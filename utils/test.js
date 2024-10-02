@@ -61,6 +61,9 @@ const schemas = await loadSchemas();
 schemas.rank.properties.references.items.properties.field.enum = getDeepPropertiesKeys(schemas.project);
 schemas.project.properties.categories.items.enum = w3pd.data.categories.map((c) => c.id);
 schemas.project.properties.usecases.items.enum = w3pd.data.usecases.map((c) => c.id);
+schemas.project.properties.technology.properties.features.items.enum = w3pd.data.features.map((f) => f.id);
+schemas.project.properties.ecosystem.enum = w3pd.data.ecosystems.map((e) => e.id);
+schemas.project.properties.assets_used.items.enum = w3pd.data.assets.map((a) => a.id);
 
 for (const col of Object.keys(w3pd.data)) {
   const validator = ajv.compile(schemas[matrix[col]]);
@@ -88,8 +91,8 @@ for (const col of Object.keys(w3pd.data)) {
       Deno.test(testName + " (schema)", () => {
         if (!validator(item)) {
           const betterErrors = betterAjvErrors({ errors: validator.errors });
-          // throw betterErrors;
-          console.log(betterErrors);
+          throw betterErrors;
+          // console.log(betterErrors);
         }
       });
     }
