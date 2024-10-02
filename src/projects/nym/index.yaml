@@ -1,36 +1,204 @@
 id: nym
 name: NYM
 categories:
-- infrastructure
-description: Nym protects communication patterns, IP addresses and metadata for end-users,
-  enterprise and infrastructure operators
+  - infrastructure
+description: Nym protects communication patterns, IP addresses and metadata for
+  end-users, enterprise and infrastructure operators
 team:
   anonymous: false
   teammembers:
-  - name: Harry Halpin
-    role: CEO and Chairman of Scientific Board
-  - name: Mark Sinclair
-    role: Chief Technology Officer
-  - name: Claudia Diaz
-    role: Chief Scientist
-  - name: Alexis Roussel
-    role: Chief Operating Officer
-  - name: Jaya Klara Brekke
-    role: Chief Strategy Officer
+    - name: Harry Halpin
+      role: CEO and Chairman of Scientific Board
+    - name: Mark Sinclair
+      role: Chief Technology Officer
+    - name: Claudia Diaz
+      role: Chief Scientist
+    - name: Alexis Roussel
+      role: Chief Operating Officer
+    - name: Jaya Klara Brekke
+      role: Chief Strategy Officer
 links:
   web: https://nymtech.net
-  github: https://github.com/nymtech
-  whitepapers: https://nymtech.net/learn/papers
-  docs: https://nymtech.net/docs
   blog: https://blog.nymtech.net/
+  github: https://github.com/nymtech
+  forum: https://www.reddit.com/r/nym/
+  docs: https://nymtech.net/docs
+  whitepaper: https://nymtech.net/nym-whitepaper.pdf
+  block_explorer: https://www.mintscan.io/nyx/
+  governance: https://www.mintscan.io/nyx/proposals/
+  twitter: https://x.com/nymproject
+  discord: https://discord.com/invite/nym
+  telegram: https://t.me/nymchan/
+  lens: ""
+  farcaster: ""
 have_token: false
 tokens:
-- symbol: NYM
+  - symbol: NYM
 project_status:
   live_status: true
   version: Mainnet
   testnet: true
   mainnet: true
 usecases:
-- infrastructure
-third_party_dependency: false
+  - infrastructure
+third_party_dependency: None
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nym/logo.png
+ratings:
+  - type: openess
+    name: Openess
+    items:
+      - isValid: true
+        label: Team
+        positive: 5 Members
+        negative: Anonymous
+        value: 5
+      - isValid: true
+        label: Documentation
+        positive: Link
+        negative: Not available
+        value: https://nymtech.net/docs
+      - isValid: true
+        label: Github
+        positive: Link
+        negative: Not available
+        value: https://github.com/nymtech
+      - isValid: false
+        label: Twitter
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Twitter
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Discord
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Lens
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Farcaster
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Whitepaper
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: Funding
+        positive: Investment
+        negative: Not available
+    points: 30
+    percentagePoints: 54.54545454545454
+  - type: technology
+    name: Technology
+    items:
+      - isValid: true
+        label: Mainnet
+        positive: Yes
+        negative: No
+        value: true
+      - isValid: false
+        label: Open Source
+        positive: Yes
+        negative: No
+      - isValid: false
+        label: Non Custody
+        positive: None
+        negative: Custodial
+      - isValid: false
+        label: Upgradability
+        positive: Disabled
+        negative: Enabled
+      - isValid: false
+        label: Audits
+        positive: Audit
+        negative: None
+    points: 10
+    percentagePoints: 16.666666666666664
+  - type: privacy
+    name: Privacy
+    items:
+      - isValid: false
+        label: Privacy Policy
+        positive: Link
+        negative: Not available
+      - isValid: false
+        label: KYC
+        positive: No
+        negative: Yes
+      - isValid: false
+        label: Compliance
+        positive: ...
+        negative: No
+      - isValid: false
+        label: Default Privacy
+        positive: YES
+        negative: No
+    points: 0
+    percentagePoints: 0
+percentage: 27
+ecosystem:
+  - cosmos
+sunset: false
+assets_used: []
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Mixnet
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://nymtech.net/privacy-policy
+  data_usage: Developing and promoting decentralised and open source
+    privacy-enabling technologies.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: IP adress, cookies, Google Analytics
+default_privacy: true
+audits: []
+social_trust: Core team - Proof of Autority
+technical_spof: Mixnet hack
+funding:
+  - name: 1kx
+    link: https://icodrops.com/nym/
+  - name: Binance Labs
+    link: https://icodrops.com/nym/
+  - name: Lemniscap
+    link: https://icodrops.com/nym/
+  - name: Eden Block
+    link: https://icodrops.com/nym/
+  - name: NGC Ventures (NEO Global Capital)
+    link: https://icodrops.com/nym/
+  - name: OKX Ventures
+    link: https://icodrops.com/nym/
+  - name: Polychain Capital
+    link: https://icodrops.com/nym/
+  - name: " Greenfield One"
+    link: https://icodrops.com/nym/
+  - name: KR1 (Kryptonite1)
+    link: https://icodrops.com/nym/
+  - name: Maven 11 Capital
+    link: https://icodrops.com/nym/
+  - name: a16z (Andreessen Horowitz)
+    link: https://icodrops.com/nym/
+  - name: Digital Currency Group (DCG)
+    link: https://icodrops.com/nym/
+  - name: Fenbushi Capital
+    link: https://icodrops.com/nym/
+  - name: HashKey Capital
+    link: https://icodrops.com/nym/
+  - name: HTX Ventures
+    link: https://icodrops.com/nym/
+history: []
