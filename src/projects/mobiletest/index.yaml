@@ -1,0 +1,13 @@
+name: MobileTest
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: Tesing  do not merge
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+id: mobiletest
