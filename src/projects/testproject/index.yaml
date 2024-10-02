@@ -1,0 +1,27 @@
+name: TestProject
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: Desc
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: ""
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: testproject
