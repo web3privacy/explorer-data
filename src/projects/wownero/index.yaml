@@ -35,7 +35,6 @@ team:
 licences: MIT License
 tracebility:
   kyc: false
-compliance: We will not comply
 social_trust: Community
 default_privacy: true
 funding:

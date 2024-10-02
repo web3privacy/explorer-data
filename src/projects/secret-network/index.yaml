@@ -61,6 +61,11 @@ tracebility:
   tracked_data: user SCRT adress
 third_party_dependency: ""
 compliance: No
+
+  sign_in_type_requirments: wallet
+third_party_dependency: false
+
+
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:

@@ -7,10 +7,36 @@ ecosystem:
 - bitcoin
 links:
   web: https://wasabiwallet.io/
-  github: https://github.com/zkSNACKs/WalletWasabi
+  github: https://github.com/WalletWasabi
+  docs: https://docs.wasabiwallet.io/
+  blog: https://blog.wasabiwallet.io/
+  twitter: https://x.com/wasabiwallet
+  discord: https://discord.gg/nm7YHEZnJs
+  telegram: https://t.me/WasabiWallet
 team:
-  anonymous: true
+  anonymous: false
+  teammembers:
+    - name: Lucas Ontivero
+      link: https://github.com/lontivero
+    - name: Turbolay
+      link: https://github.com/turbolay
 usecases:
 - wallets
+project_phase: Mainnet
+sunset: false
+
 have_token: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: false
+default_privacy: true
+
+traceability:
+  kyc: false 
+  sign_in_type_requirments: wallet
 third_party_dependency: false

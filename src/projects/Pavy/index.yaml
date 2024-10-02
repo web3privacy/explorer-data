@@ -1,0 +1,59 @@
+name: Pavy
+categories: [ wallets ]
+ecosystem: [ Ethereum, Base, Solana]
+usecases: [ wallet, payment ]
+description: 'the first self-sovereign bank, built on a privacy blockchain with stablecoins. '
+product_launch_day: "2023"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Polybase Labs
+      link: https://polybaselabs.com/
+    - name: Calum Moore 
+      link: https://x.com/calummoore  
+    - name: Sid Gandhi
+      link: https://x.com/sidgandhi_xyz
+
+links:
+  web: https://payy.link/
+  github: https://github.com/polybase/payy
+  whitepaper: https://polybase.github.io/zk-rollup/whitepaper.pdf 
+  docs: https://docs.payy.network/ 
+  twitter: https://x.com/payy_link
+  telegram: https://t.me/+Cs2V5nlz4fA1ZTcx
+  
+project_phase: Mainnet
+sunset: false
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://payy.link/privacy
+
+default_privacy: true
+
+traceability:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: USDC stability
+compliance: OFAC
+
+audits:
+  - name: Kalos
+    link: https://github.com/polybase/payy/blob/main/audits/kalos_2024_02_23.pdf
+    time: 2024-02-23
+  - name: AuditOne
+    link: https://www.auditone.io/audit-report/payy-audit
+    time: 2024-09-24 
+
+assets_used: [ USDC ] 
+
+tecnology:
+ type: Zk proof, HyperPlonk, KZG 
+ 

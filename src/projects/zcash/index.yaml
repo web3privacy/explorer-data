@@ -42,7 +42,7 @@ privacy_policy:
 storage:
   decentralized: true
 third_party_dependency: false
-compliance: false
+
 audits:
 - name: NCC Group NU5 Review
   link: https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/

@@ -11,6 +11,38 @@ Upload project logo in root of project directory to be automatically included.
 
 https://data.web3privacy.info/
 
+# How to Add or Update Your Project's Information to the Explorer
+
+To add or update your project's information to the explorer, please follow these steps. **A GitHub account is required** to complete the process.
+
+### Steps:
+
+1. **Go to the GitHub repository** at the following URL: [www.github.com/web3privacy/explorer-data](<placeholder>)
+2. Navigate to the `src` directory, then go into the `projects` folder.
+3. In the upper-right corner, click on **"Create new file"**.
+4. At this point, GitHub will ask you to **fork the branch**. Confirm the fork.
+5. **Enter the name of your project** in the new directory you created. Make sure there is a slash before the name. This way you create the project folder. Example: /NAME 
+6. Inside your project directory, create an `index.yaml` file. Follow the template here: [sample](https://github.com/web3privacy/explorer-data/blob/main/sample-project.yaml)
+7. When you're ready to save, click **"Commit changes..."** in the top-right corner.
+8. Toggle the option for **"Create a new branch for this commit and start a pull request"**.
+9. Click **"Propose changes"**.
+10. GitHub will redirect you to the **"Open a pull request"** page.
+11. In the pull request title, add your title as such: `Create index.yaml <your_project_name>`.
+12. Finally, click **"Create pull request"**. Adding a description is optional.
+
+### Adding the Logo
+
+1. Now you will be able to add the logo (PNG format, 400x400 pixels). 
+2. Go to `www.github.com/explorer-data/tree/main/src/projects/(name of the file added)`.
+3. In the top-right corner, click on **"Add file"** and then **"Fork this Repository."**
+4. Navigate to your GitHub profile, find the forked repository, and open the project you're working on. The URL should look like this: `github.com/(your GitHub username)/explorer-data/tree/main/src/projects/(name of the file added)`.
+5. In the top-right corner, click on **"Add file"** and then **"Upload files."**
+6. A window will open where you can upload your logo (name the file just **"logo,"** without any other text).
+7. At the bottom, select **"Create a new branch for this commit and start a pull request."** Then press **"Propose changes."**
+8. The pull request page will open again. Add the file name and click on **"Create pull request."**
+
+🎉 **Congratulations!** Your project, including its logo, has now been submitted.
+
 # Project description
 
 

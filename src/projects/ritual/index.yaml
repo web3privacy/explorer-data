@@ -49,7 +49,7 @@ default_privacy: true
 tracebility:
   kyc: false
 third_party_dependency: false
-compliance: false
+
 usecases:
 - ai
 have_token: false
