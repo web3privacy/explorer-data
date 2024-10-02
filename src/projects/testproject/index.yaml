@@ -1,0 +1,13 @@
+name: TestProject
+assets_used: []
+have_token: false
+tokens: []
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: Desc
+sunset: false
+id: testproject
