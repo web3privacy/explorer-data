@@ -1,0 +1,17 @@
+name: TestProject
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - cosmos
+description: Desc
+sunset: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+id: testproject
