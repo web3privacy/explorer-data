@@ -35,7 +35,7 @@
       points: 1
     - field: links.telegram
       label: 
-        name: Twitter
+        name: Telegram
         positive: Link
         negative: Not available
       condition:
