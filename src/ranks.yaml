@@ -26,7 +26,7 @@
         exists: true
       points: 10
     - field: links.twitter
-      label: 
+      label:
         name: Twitter
         positive: Link
         negative: Not available
@@ -35,7 +35,7 @@
       points: 1
     - field: links.telegram
       label: 
-        name: Twitter
+        name: Telegram
         positive: Link
         negative: Not available
       condition:
