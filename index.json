@@ -250,7 +250,7 @@
         {
           "field": "links.telegram",
           "label": {
-            "name": "Twitter",
+            "name": "Telegram",
             "positive": "Link",
             "negative": "Not available"
           },
@@ -1919,7 +1919,7 @@
       "tracebility": {
         "tracked_data": "Chains activity",
         "kyc": false,
-        "sign_in_type_requirments": "wallets"
+        "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
       "client_diversability": [
@@ -4872,10 +4872,18 @@
       },
       "links": {
         "web": "https://nymtech.net",
+        "blog": "https://blog.nymtech.net/",
         "github": "https://github.com/nymtech",
-        "whitepapers": "https://nymtech.net/learn/papers",
+        "forum": "https://www.reddit.com/r/nym/",
         "docs": "https://nymtech.net/docs",
-        "blog": "https://blog.nymtech.net/"
+        "whitepaper": "https://nymtech.net/nym-whitepaper.pdf",
+        "block_explorer": "https://www.mintscan.io/nyx/",
+        "governance": "https://www.mintscan.io/nyx/proposals/",
+        "twitter": "https://x.com/nymproject",
+        "discord": "https://discord.com/invite/nym",
+        "telegram": "https://t.me/nymchan/",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
@@ -4892,14 +4900,254 @@
       "usecases": [
         "infrastructure"
       ],
-      "third_party_dependency": false,
+      "third_party_dependency": "None",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nym/logo.png"
         }
-      ]
+      ],
+      "ratings": [
+        {
+          "type": "openess",
+          "name": "Openess",
+          "items": [
+            {
+              "isValid": true,
+              "label": "Team",
+              "positive": "5 Members",
+              "negative": "Anonymous",
+              "value": 5
+            },
+            {
+              "isValid": true,
+              "label": "Documentation",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://nymtech.net/docs"
+            },
+            {
+              "isValid": true,
+              "label": "Github",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://github.com/nymtech"
+            },
+            {
+              "isValid": false,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Discord",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Lens",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Farcaster",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Whitepaper",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Funding",
+              "positive": "Investment",
+              "negative": "Not available"
+            }
+          ],
+          "points": 30,
+          "percentagePoints": 54.54545454545454
+        },
+        {
+          "type": "technology",
+          "name": "Technology",
+          "items": [
+            {
+              "isValid": true,
+              "label": "Mainnet",
+              "positive": "Yes",
+              "negative": "No",
+              "value": true
+            },
+            {
+              "isValid": false,
+              "label": "Open Source",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Non Custody",
+              "positive": "None",
+              "negative": "Custodial"
+            },
+            {
+              "isValid": false,
+              "label": "Upgradability",
+              "positive": "Disabled",
+              "negative": "Enabled"
+            },
+            {
+              "isValid": false,
+              "label": "Audits",
+              "positive": "Audit",
+              "negative": "None"
+            }
+          ],
+          "points": 10,
+          "percentagePoints": 16.666666666666664
+        },
+        {
+          "type": "privacy",
+          "name": "Privacy",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Privacy Policy",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "KYC",
+              "positive": "No",
+              "negative": "Yes"
+            },
+            {
+              "isValid": false,
+              "label": "Compliance",
+              "positive": "...",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Default Privacy",
+              "positive": "YES",
+              "negative": "No"
+            }
+          ],
+          "points": 0,
+          "percentagePoints": 0
+        }
+      ],
+      "percentage": 27,
+      "ecosystem": [
+        "cosmos"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Mixnet",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://nymtech.net/privacy-policy",
+        "data_usage": "Developing and promoting decentralised and open source privacy-enabling technologies."
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "IP adress, cookies, Google Analytics"
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "Core team - Proof of Autority",
+      "technical_spof": "Mixnet hack",
+      "funding": [
+        {
+          "name": "1kx",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "Binance Labs",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "Lemniscap",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "Eden Block",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "NGC Ventures (NEO Global Capital)",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "OKX Ventures",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "Polychain Capital",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": " Greenfield One",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "KR1 (Kryptonite1)",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "Maven 11 Capital",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "a16z (Andreessen Horowitz)",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "Digital Currency Group (DCG)",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "Fenbushi Capital",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "HashKey Capital",
+          "link": "https://icodrops.com/nym/"
+        },
+        {
+          "name": "HTX Ventures",
+          "link": "https://icodrops.com/nym/"
+        }
+      ],
+      "history": []
     },
     {
       "id": "dero",
@@ -15289,15 +15537,15 @@
       ],
       "tokens": [
         {
-          "name": "Secret",
           "symbol": "SCRT",
-          "network": "Secret Network",
-          "contract_address": "secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek"
+          "name": "Secret",
+          "contract_address": "",
+          "token_link": "https://www.mintscan.io/secret"
         }
       ],
       "description": "the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3",
       "project_type": "Infrastructure",
-      "product_launch_day": "2020-02-13",
+      "product_launch_day": "2020-02-01T23:00:00.000Z",
       "technology": {
         "type": "TEE",
         "name": "Trusted execution environment",
@@ -15310,43 +15558,45 @@
       },
       "links": {
         "web": "https://scrt.network",
-        "twitter": "https://twitter.com/SecretNetwork",
-        "telegram": "https://t.me/scrtCommunity",
-        "discord": "https://discord.com/invite/secret-network-360051864110235648",
         "blog": "https://scrt.network/blog",
-        "block_explorer": "https://www.mintscan.io/secret",
-        "whitepaper": "https://scrt.network/graypaper/",
         "github": "https://github.com/scrtlabs/SecretNetwork",
+        "forum": "https://forum.scrt.network/",
         "docs": "https://docs.scrt.network/secret-network-documentation/",
-        "forum": "https://forum.scrt.network/"
+        "whitepaper": "https://scrt.network/graypaper/",
+        "block_explorer": "https://www.mintscan.io/secret",
+        "governance": "https://wallet.keplr.app/chains/secret-network?tab=governance",
+        "twitter": "https://twitter.com/SecretNetwork",
+        "discord": "https://discord.com/invite/secret-network-360051864110235648",
+        "telegram": "https://t.me/scrtCommunity",
+        "lens": "",
+        "farcaster": ""
       },
       "blockchain_features": {
-        "p2p": false,
-        "encryption": "TEE",
         "opensource": true,
-        "viewing_key": true,
-        "dissapearing_tx": false,
-        "connected_tx": true,
-        "reversability_condition": "viewing key, hack",
-        "data_masking": "Secret Contracts",
-        "asset_custody_type": "non-custody"
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "TEE",
+        "p2p": false
       },
       "licences": "MIT License",
       "privacy_policy": {
-        "defined": false
+        "defined": false,
+        "link": "",
+        "data_usage": ""
       },
       "team": {
         "anonymous": false,
-        "company": {
-          "name": "Secret Labs",
-          "link": "https://www.scrtlabs.com/",
-          "contacts": "info@scrtlabs.com"
-        },
         "teammembers": [
           {
             "name": "Alex Zaidelson",
             "role": "SLabs CEO",
             "link": "https://twitter.com/azaidelson"
+          },
+          {
+            "name": "Lisa Loud",
+            "link": "https://x.com/lisaisloud"
           }
         ]
       },
@@ -15354,11 +15604,12 @@
         "decentralized": true
       },
       "tracebility": {
-        "tracked_data": "user SCRT adress",
         "kyc": false,
+        "tracked_data": "user SCRT adress",
         "sign_in_type_requirments": "wallet"
       },
       "third_party_dependency": false,
+      "compliance": "No",
       "social_trust": "Slabs ( MRSINGER )",
       "technical_spof": "Can decrypt",
       "history": [
@@ -15394,7 +15645,7 @@
         "testnet": true,
         "mainnet": true
       },
-      "have_token": true,
+      "have_token": false,
       "usecases": [
         "infrastructure"
       ],
@@ -15404,7 +15655,166 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/secret-network/logo.png"
         }
-      ]
+      ],
+      "ratings": [
+        {
+          "type": "openess",
+          "name": "Openess",
+          "items": [
+            {
+              "isValid": true,
+              "label": "Team",
+              "positive": "1 Member",
+              "negative": "Anonymous",
+              "value": 1
+            },
+            {
+              "isValid": true,
+              "label": "Documentation",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://docs.scrt.network/secret-network-documentation/"
+            },
+            {
+              "isValid": true,
+              "label": "Github",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://github.com/scrtlabs/SecretNetwork"
+            },
+            {
+              "isValid": true,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://twitter.com/SecretNetwork"
+            },
+            {
+              "isValid": true,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://t.me/scrtCommunity"
+            },
+            {
+              "isValid": true,
+              "label": "Discord",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://discord.com/invite/secret-network-360051864110235648"
+            },
+            {
+              "isValid": false,
+              "label": "Lens",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Farcaster",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": true,
+              "label": "Whitepaper",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://scrt.network/graypaper/"
+            },
+            {
+              "isValid": true,
+              "label": "Funding",
+              "positive": "Investment",
+              "negative": "Not available",
+              "value": "236.500.000 $"
+            }
+          ],
+          "points": 53
+        },
+        {
+          "type": "technology",
+          "name": "Technology",
+          "items": [
+            {
+              "isValid": true,
+              "label": "Mainnet",
+              "positive": "Yes",
+              "negative": "No",
+              "value": true
+            },
+            {
+              "isValid": true,
+              "label": "Open Source",
+              "positive": "Yes",
+              "negative": "No",
+              "value": true
+            },
+            {
+              "isValid": true,
+              "label": "Non Custody",
+              "positive": "None",
+              "negative": "Custodial",
+              "value": "non-custody"
+            },
+            {
+              "isValid": false,
+              "label": "Upgradability",
+              "positive": "Disabled",
+              "negative": "Enabled"
+            },
+            {
+              "isValid": false,
+              "label": "Audits",
+              "positive": "Audit",
+              "negative": "None"
+            }
+          ],
+          "points": 40
+        },
+        {
+          "type": "privacy",
+          "name": "Privacy",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Privacy Policy",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": true,
+              "label": "KYC",
+              "positive": "No",
+              "negative": "Yes",
+              "value": false
+            },
+            {
+              "isValid": false,
+              "label": "Compliance",
+              "positive": "No",
+              "negative": "OFAC",
+              "value": false
+            },
+            {
+              "isValid": false,
+              "label": "Default Privacy",
+              "positive": "YES",
+              "negative": "No",
+              "value": false
+            }
+          ],
+          "points": 10
+        }
+      ],
+      "percentage": 69,
+      "ecosystem": [
+        "cosmos"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "project_phase": "mainnet",
+      "audits": []
     },
     {
       "id": "zus",
@@ -16916,13 +17326,22 @@
       ],
       "links": {
         "web": "https://sentinel.co",
+        "blog": "https://www.dvpn.news/",
         "github": "https://github.com/sentinel-official",
-        "whitepaper": "https://docs.sentinel.co/getting-started/whitepaper",
+        "forum": "https://t.me/SentinelDVPN",
         "docs": "https://docs.sentinel.co/",
-        "twitter": "https://twitter.com/SentinelDVPN"
+        "whitepaper": "https://docs.sentinel.co/getting-started/whitepaper",
+        "block_explorer": "https://www.mintscan.io/sentinel/",
+        "governance": "https://wallet.keplr.app/chains/sentinel?tab=governance",
+        "twitter": "https://twitter.com/SentinelDVPN",
+        "discord": "https://discord.com/invite/mmAA8qF",
+        "telegram": "https://t.me/SentinelDVPN",
+        "lens": "",
+        "farcaster": ""
       },
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": []
       },
       "have_token": false,
       "token_link": "https://coinmarketcap.com/currencies/sentinel/",
@@ -16933,16 +17352,208 @@
         "mainnet": false
       },
       "usecases": [
-        "vpn"
+        "vpn",
+        "infrastructure",
+        "ai"
       ],
-      "third_party_dependency": false,
+      "third_party_dependency": "None",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/sentinel/logo.png"
         }
-      ]
+      ],
+      "ratings": [
+        {
+          "type": "openess",
+          "name": "Openess",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Team",
+              "positive": "Member",
+              "negative": "Anonymous"
+            },
+            {
+              "isValid": true,
+              "label": "Documentation",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://docs.sentinel.co/"
+            },
+            {
+              "isValid": true,
+              "label": "Github",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://github.com/sentinel-official"
+            },
+            {
+              "isValid": true,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://twitter.com/SentinelDVPN"
+            },
+            {
+              "isValid": false,
+              "label": "Twitter",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Discord",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Lens",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "Farcaster",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": true,
+              "label": "Whitepaper",
+              "positive": "Link",
+              "negative": "Not available",
+              "value": "https://docs.sentinel.co/getting-started/whitepaper"
+            },
+            {
+              "isValid": false,
+              "label": "Funding",
+              "positive": "Investment",
+              "negative": "Not available"
+            }
+          ],
+          "points": 31,
+          "percentagePoints": 56.36363636363636
+        },
+        {
+          "type": "technology",
+          "name": "Technology",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Mainnet",
+              "positive": "Yes",
+              "negative": "No",
+              "value": false
+            },
+            {
+              "isValid": false,
+              "label": "Open Source",
+              "positive": "Yes",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Non Custody",
+              "positive": "None",
+              "negative": "Custodial"
+            },
+            {
+              "isValid": false,
+              "label": "Upgradability",
+              "positive": "Disabled",
+              "negative": "Enabled"
+            },
+            {
+              "isValid": false,
+              "label": "Audits",
+              "positive": "Audit",
+              "negative": "None"
+            }
+          ],
+          "points": 0,
+          "percentagePoints": 0
+        },
+        {
+          "type": "privacy",
+          "name": "Privacy",
+          "items": [
+            {
+              "isValid": false,
+              "label": "Privacy Policy",
+              "positive": "Link",
+              "negative": "Not available"
+            },
+            {
+              "isValid": false,
+              "label": "KYC",
+              "positive": "No",
+              "negative": "Yes"
+            },
+            {
+              "isValid": false,
+              "label": "Compliance",
+              "positive": "...",
+              "negative": "No"
+            },
+            {
+              "isValid": false,
+              "label": "Default Privacy",
+              "positive": "YES",
+              "negative": "No"
+            }
+          ],
+          "points": 0,
+          "percentagePoints": 0
+        }
+      ],
+      "percentage": 21,
+      "product_launch_day": "2018-05-03T22:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "atom",
+        "scrt",
+        "other"
+      ],
+      "tokens": [
+        {
+          "symbol": "dVPN",
+          "name": "Sentinel",
+          "contract_address": "",
+          "token_link": "https://www.mintscan.io/sentinel/"
+        }
+      ],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Permission-less VPN",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://shield.sentinel.co/legal/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "Onchain data, VPN provider can see you IP adress ( depends on a provider you choose )"
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "None",
+      "technical_spof": "None",
+      "funding": [],
+      "history": []
     },
     {
       "id": "zano",
