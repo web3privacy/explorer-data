@@ -1,3 +1,4 @@
+id: call-test-project
 name: Call-test-project
 categories:
   - infrastructure
@@ -6,7 +7,7 @@ usecases:
 ecosystem:
   - ethereum
 description: Thi project is just testing stuff
-product_launch_day: 2023-01-31T23:00:00.000Z
+product_launch_day: 2023-02-02T23:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -71,4 +72,4 @@ history:
     description: Launch
     link: www.testtoken.com
     time: Wed Feb 01 2023 00:00:00 GMT+0100 (Central European Standard Time)
-id: call-test-project
+percentage: 65
