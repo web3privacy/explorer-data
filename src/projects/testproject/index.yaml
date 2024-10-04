@@ -1,0 +1,53 @@
+name: TestProject
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+  - bitcoin
+description: Desc
+product_launch_day: 2024-01-31T23:00:00.000Z
+sunset: true
+assets_used:
+  - eth
+  - btc
+have_token: false
+tokens: []
+links:
+  web: ""
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Tech name
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: dfg
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: dfg
+  sign_in_type_requirments:
+    - wallet
+    - email
+default_privacy: false
+id: testproject
