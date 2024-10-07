@@ -4168,13 +4168,18 @@
       "description": "Best in class privacy coin and confidential DeFi platform",
       "links": {
         "web": "https://beam.mw",
-        "github": "https://github.com/BeamMW/beam",
-        "docs": "https://beam.mw/docs",
-        "forum": "https://forum.beam.mw/",
         "blog": "https://medium.com/beam-mw",
+        "github": "https://github.com/BeamMW/beam",
+        "forum": "https://forum.beam.mw/",
+        "docs": "https://beam.mw/docs",
+        "whitepaper": "https://docs.beam.mw/BEAM_Position_Paper_0.3.pdf",
+        "block_explorer": "https://explorer.beam.mw",
+        "governance": "https://beamxdao.org",
         "twitter": "https://x.com/beamprivacy",
         "discord": "https://discord.com/invite/BHZvAhg",
-        "telegram": "https://t.me/BeamPrivacy"
+        "telegram": "https://t.me/BeamPrivacy",
+        "lens": "",
+        "farcaster": ""
       },
       "ecosystem": [
         "beam"
@@ -4186,18 +4191,109 @@
         "testnet": false
       },
       "team": {
-        "anonymous": false
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Alex Romanov",
+            "link": "https://x.com/BeamCTO"
+          },
+          {
+            "name": "Maxnflaxl",
+            "link": "https://x.com/maxnflaxl"
+          },
+          {
+            "name": "Vladislav Gelfer",
+            "link": "https://x.com/Vlad38604806"
+          },
+          {
+            "name": "Amir Aaronson",
+            "link": "https://x.com/RaFun88"
+          }
+        ]
       },
       "usecases": [
-        "currency"
+        "currency",
+        "defi",
+        "did",
+        "dao",
+        "bridge",
+        "messaging",
+        "dapps",
+        "nft-community"
       ],
       "have_token": false,
-      "third_party_dependency": false,
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/beam/logo.png"
+        }
+      ],
+      "percentage": 22,
+      "product_launch_day": "2019-02-02T23:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "LelantusMW",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://beam.mw/privacy-policy",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "none",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": [
+        {
+          "title": "Fifth Hard-Fork (and wallet v7.1)",
+          "description": "As discussed on the Beam Forum, this hard-fork reduced the issuance cost of Confidential Assets from 3000 to 10 BEAM only. The result can be seen in the CAs being created (or re-created) after the fork. The hard-fork also added smart contracts enhancements allowing them to verify fork heights (to support fork-dependent features). On the wallet side, DApp support for the BANS (Beam Anonymous Name System) was improved.",
+          "link": "https://medium.com/beam-mw/beam-hard-fork-announcement-3e999dfba178",
+          "time": "Fri Sep 02 2022 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)"
+        },
+        {
+          "title": "Fourth Hard-Fork (and wallet v7.0)",
+          "description": "This hard-fork introduced 'High-Frequency Transactions' (HFTX) on both node and wallet sides, and IPFS storage integration on the wallet side. HFTX improve resistance to MEV, front-running and sandwich attacks by defining strict inclusion rules for transactions, thus protecting users from unwanted outcomes (as the submitted transactions can only be included into a block in their exact specific sequence). On the wallet side, the IPFS integration allows storing data (such as NFTs) efficiently in a decentralized manner while reducing blockchain bloat. Thus, every Beam wallet today is at the same time a blockchain node (to submit transactions and verify blocks), an SBBS node (to allow secure communication between wallets), and an IPFS node (to allow decentralized storage, including for DApp front ends distribution). This Hard Fork went smoothly and the difficulty remained fairly stable.",
+          "link": "https://medium.com/beam-mw/beam-hard-fork-completed-903ce2b15b51",
+          "time": "Fri Jun 24 2022 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)"
+        },
+        {
+          "title": "Third Hard-Fork (and wallet v6.0)",
+          "description": "This hard-fork brought the addition of the Beam Virtual Machine (BVM) as an infrastructure to create Smart Contracts (a.k.a. 'Shaders'), thus making Beam the first privacy coin with smart contracts capabilities! BVM smart contracts can be written in any WebAssembly compatible language (such as C++, Rust, Go, etc.) and are composed of two elements: the blockchain side (running on Beam nodes) and the wallet side (running in Beam wallet, together with the DApp front ends). This separation of chain-side and client-side logics allows very powerful and flexible applications. Beam smart contracts are transparent by default, which means that we can see their state and their activity. Nevertheless, the users remain anonymous, as their interactions with the smart contracts are based on normal confidential Beam transactions. With this approach, Beam's DeFi manages to provide 'efficient' markets (e.g. where we can see what is bought and sold) while still protecting its users' privacy (e.g. we cannot see who buys and sells!). By allowing such privacy-preserving smart contract capabilities, this hard-fork opened the doors to Beam becoming not only a powerful 'Privacy DeFi' (PriFi) platform but indeed a general-purpose infrastructure for anything in Confidential Web3!",
+          "link": "https://medium.com/beam-mw/hard-fork-completed-1608eb5ce439",
+          "time": "Sun Jun 13 2021 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)"
+        },
+        {
+          "title": "Second Hard-Fork",
+          "description": "Beam's second hard-fork was performed as announced in the roadmap. The PoW algorithm was updated from BeamHash II to BeamHash III, which is the final version in the planned strategy to balance GPU and ASIC mining. This hard-fork also saw the activation of the Confidential Assets (sometimes also called 'Privacy Tokens', and which were introduced in the first hard-fork but kept inactive) and the release of the Lelantus-MW protocol and its associated one-side payments (also known as offline transactions).",
+          "link": "https://medium.com/beam-mw/hard-fork-completed-72e8f1edb10b",
+          "time": "Sun Jun 28 2020 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)"
+        },
+        {
+          "title": "First Hard-Fork",
+          "description": "Beam's first hard-fork was performed as announced in the roadmap. The PoW algorithm was updated from BeamHash I to BeamHash II, which are upgrades from the vanilla Equihash on which they are based. Beam's strategy with these planned changes of the mining algorithm was to give GPU miners a head start, and then allow cheap ASICs to join in without disrupting the mining ecosystem. After this hard-fork, a drop in difficulty was observed as not all miners performed a timely upgrade. However, after less than 24 hours, the hashrate had gone back to its pre-fork value.",
+          "link": "https://medium.com/beam-mw/mimblewimble-hard-fork-first-completed-1171f9642e51",
+          "time": "Thu Aug 15 2019 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)"
         }
       ]
     },
