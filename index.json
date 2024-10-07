@@ -18054,6 +18054,105 @@
       ]
     },
     {
+      "id": "buccaneer-v3",
+      "name": "Buccaneer V3",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "currency"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "The only private currency on Ethereum",
+      "product_launch_day": "2024-02-08T23:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "BUCC",
+          "name": "Buccaneer V3",
+          "contract_address": "0xe96938e0d086a241d03688dda697bf57859ee261",
+          "token_link": "https://etherscan.io/"
+        }
+      ],
+      "links": {
+        "web": "https://ethereumprivacy.org/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/buccaneerv3/",
+        "discord": "https://discord.gg/YhDDGp5wWV",
+        "telegram": "https://t.me/BuccaneerV3",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Custom encryption",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "Ethereum network.",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "Bucc",
+            "link": "https://x.com/buccaneerv3/"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "Token Launch",
+          "description": "BUCC has been released.",
+          "link": "",
+          "time": "Tue Jan 09 2024 00:00:00 GMT+0100 (Central European Standard Time)"
+        },
+        {
+          "title": "Tortuga Launch",
+          "description": "Launched Tortuga - the final piece of the protocol which allows Ethless swaps between BUCC and ETH. Tortuga enables full privacy workflow for everyone.",
+          "link": "",
+          "time": "Tue Sep 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/buccaneer-v3/logo.png"
+        }
+      ]
+    },
+    {
       "id": "whirlpool",
       "name": "Whirlpool",
       "categories": [
