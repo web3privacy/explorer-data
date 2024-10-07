@@ -14952,25 +14952,25 @@
       ],
       "project_type": "Confidential compute",
       "description": "A privacy-enabled blockchain platform for open finance and a responsible data economy",
-      "product_launch_day": "2020-11-18",
+      "product_launch_day": "2020-11-02T23:00:00.000Z",
       "team": {
-        "anonymous": true
+        "anonymous": false,
+        "teammembers": []
       },
       "links": {
         "web": "https://oasisprotocol.org",
-        "github": "https://github.com/oasisprotocol",
-        "docs": "https://docs.oasis.io/",
         "blog": "https://oasisprotocol.org/blog",
+        "github": "https://github.com/oasisprotocol",
+        "forum": "https://forum.oasis.io/",
+        "docs": "https://docs.oasis.io/",
+        "whitepaper": "https://docsend.com/view/aq86q2pckrut2yvq",
+        "block_explorer": "https://www.oasisscan.com/",
+        "governance": "",
         "twitter": "https://twitter.com/OasisProtocol",
         "discord": "https://discord.com/invite/BQCxwhT5wS",
         "telegram": "http://t.me/oasisprotocolcommunity",
-        "youtube": "https://www.youtube.com/@OasisFoundation",
-        "reddit": "https://www.reddit.com/r/oasisnetwork/",
-        "whitepaper": "https://docsend.com/view/aq86q2pckrut2yvq",
-        "forum": "https://forum.oasis.io/",
-        "linkedin": "https://www.linkedin.com/company/oasisprotocol/",
-        "block_explorer": "https://www.oasisscan.com/",
-        "facebook": "https://www.facebook.com/oasisprotocol"
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -14978,7 +14978,7 @@
         "testnet": true,
         "mainnet": true
       },
-      "have_token": false,
+      "have_token": true,
       "tokens": [
         {
           "symbol": "ROSE"
@@ -15001,8 +15001,14 @@
           "title": "Oasis Mainnet",
           "event_type": "launch",
           "description": "Oasis Mainnet: Ushering a New Era of Privacy and Scalability",
-          "time": "2020-11-18",
+          "time": "2020-11-18T00:00:00.000Z",
           "link": "https://oasisprotocol.org/blog/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability"
+        },
+        {
+          "title": "Oasis Sapphire Mainnet",
+          "description": "go-live of the Oasis Sapphire Mainnet",
+          "link": "https://docs.oasis.io/get-involved/run-node/paratime-node/",
+          "time": "Thu Dec 01 2022 00:00:00 GMT+0100 (Central European Standard Time)"
         }
       ],
       "technology": {
@@ -15014,19 +15020,54 @@
         ]
       },
       "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
         "encryption": "TEE",
-        "p2p": true,
-        "opensource": true
+        "p2p": true
       },
       "usecases": [
         "infrastructure"
       ],
-      "third_party_dependency": false,
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/oasis-network/logo.png"
+        }
+      ],
+      "percentage": 33,
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "project_phase": "mainnet",
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://oasisprotocol.org/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [
+        {
+          "name": "Binance Labs",
+          "link": "https://cointelegraph.com/news/binance-labs-backs-200m-oasis-ecosystem-fund"
         }
       ]
     },
