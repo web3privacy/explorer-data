@@ -42,7 +42,7 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/waku/logo.png
-percentage: 30
+percentage: 47
 sunset: false
 assets_used: []
 tokens: []
@@ -65,5 +65,7 @@ default_privacy: false
 audits: []
 social_trust: Institute of Free Technology
 technical_spof: ""
-funding: []
+funding:
+  - name: Institute of Free Technology
+    link: ""
 history: []
