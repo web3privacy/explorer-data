@@ -8544,7 +8544,7 @@
         "blog": "https://medium.com/@starshellwallet",
         "github": "https://github.com/SolarRepublic",
         "forum": "",
-        "docs": "",
+        "docs": "https://starshell.net/technology-profile.pdf",
         "whitepaper": "",
         "block_explorer": "https://www.mintscan.io/secret/",
         "governance": "",
@@ -8575,149 +8575,8 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/starshell/logo.png"
         }
       ],
-      "ratings": [
-        {
-          "type": "openess",
-          "name": "Openess",
-          "items": [
-            {
-              "isValid": false,
-              "label": "Team",
-              "positive": "Member",
-              "negative": "Anonymous"
-            },
-            {
-              "isValid": false,
-              "label": "Documentation",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": true,
-              "label": "Github",
-              "positive": "Link",
-              "negative": "Not available",
-              "value": "https://github.com/SolarRepublic"
-            },
-            {
-              "isValid": false,
-              "label": "Twitter",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": false,
-              "label": "Twitter",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": false,
-              "label": "Discord",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": false,
-              "label": "Lens",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": false,
-              "label": "Farcaster",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": false,
-              "label": "Whitepaper",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": false,
-              "label": "Funding",
-              "positive": "Investment",
-              "negative": "Not available"
-            }
-          ],
-          "points": 10,
-          "percentagePoints": 18.181818181818183
-        },
-        {
-          "type": "technology",
-          "name": "Technology",
-          "items": [
-            {
-              "isValid": false,
-              "label": "Mainnet",
-              "positive": "Yes",
-              "negative": "No"
-            },
-            {
-              "isValid": false,
-              "label": "Open Source",
-              "positive": "Yes",
-              "negative": "No"
-            },
-            {
-              "isValid": false,
-              "label": "Non Custody",
-              "positive": "None",
-              "negative": "Custodial"
-            },
-            {
-              "isValid": false,
-              "label": "Upgradability",
-              "positive": "Disabled",
-              "negative": "Enabled"
-            },
-            {
-              "isValid": false,
-              "label": "Audits",
-              "positive": "Audit",
-              "negative": "None"
-            }
-          ],
-          "points": 0,
-          "percentagePoints": 0
-        },
-        {
-          "type": "privacy",
-          "name": "Privacy",
-          "items": [
-            {
-              "isValid": false,
-              "label": "Privacy Policy",
-              "positive": "Link",
-              "negative": "Not available"
-            },
-            {
-              "isValid": false,
-              "label": "KYC",
-              "positive": "No",
-              "negative": "Yes"
-            },
-            {
-              "isValid": true,
-              "label": "Compliance",
-              "positive": "No",
-              "negative": "..."
-            },
-            {
-              "isValid": false,
-              "label": "Default Privacy",
-              "positive": "YES",
-              "negative": "No"
-            }
-          ],
-          "points": 5,
-          "percentagePoints": 14.285714285714285
-        }
-      ],
-      "percentage": 10,
-      "product_launch_day": "2023-01-31T23:00:00.000Z",
+      "percentage": 72,
+      "product_launch_day": "2023-02-02T23:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "scrt"
