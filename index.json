@@ -4891,27 +4891,43 @@
       },
       "links": {
         "web": "https://www.privy.io/",
-        "github": "https://github.com/privy-io",
-        "docs": "https://docs.privy.io/",
         "blog": "https://www.privy.io/blog",
-        "twitter": "https://x.com/privy_io"
+        "github": "https://github.com/privy-io",
+        "forum": "",
+        "docs": "https://docs.privy.io/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/privy_io",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "sunset": false,
       "blockchain_features": {
         "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
         "asset_custody_type": "non-custody",
+        "encryption": "",
         "p2p": true
       },
       "privacy_policy": {
         "defined": true,
-        "link": "https://www.privy.io/privacy-policy"
+        "link": "https://www.privy.io/privacy-policy",
+        "data_usage": "Service Providers, Analytics Providers, Payment Processing partners, Business Partners"
       },
-      "default_privacy": true,
+      "default_privacy": false,
       "tracebility": {
         "kyc": false,
-        "sign_in_type_requirments": "wallet"
+        "tracked_data": "Email, Phone number, Payment Card type, Full number of payment card, IP adress, type of device/operating system/browser, IP-adress-based location information",
+        "sign_in_type_requirments": [
+          "email"
+        ]
       },
-      "third_party_dependency": false,
+      "third_party_dependency": "",
       "audits": [
         {
           "name": "Zellic",
@@ -4929,7 +4945,15 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/privy/logo.png"
         }
-      ]
+      ],
+      "percentage": 76,
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "storage": {},
+      "compliance": "",
+      "social_trust": "",
+      "technical_spof": ""
     },
     {
       "id": "super-protocol",
