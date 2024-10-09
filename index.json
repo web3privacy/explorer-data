@@ -1388,15 +1388,27 @@
       "ecosystem": [
         "ethereum",
         "bnb",
-        "polygon"
+        "polygon",
+        "other"
       ],
       "links": {
         "web": "https://railway.xyz/",
+        "blog": "",
         "github": "https://github.com/Railway-Wallet/Railway-Wallet/",
-        "twitter": "https://twitter.com/Railway_xyz"
+        "forum": "",
+        "docs": "https://help.railway.xyz/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/Railway_xyz",
+        "discord": "",
+        "telegram": "https://t.me/railwaywallet",
+        "lens": "",
+        "farcaster": ""
       },
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": []
       },
       "project_status": {
         "live_status": true,
@@ -1408,14 +1420,50 @@
         "wallets"
       ],
       "have_token": false,
-      "third_party_dependency": false,
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/railway/logo.png"
         }
-      ]
+      ],
+      "percentage": 8,
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge (ZK)",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.railway.xyz/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": []
     },
     {
       "id": "umbra",
