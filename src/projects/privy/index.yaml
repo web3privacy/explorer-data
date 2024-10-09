@@ -1,42 +1,70 @@
 id: privy
 name: Privy
 categories:
-- applications
+  - applications
 ecosystem:
-- solana
-description: Privy builds authentication, authorization and data control tooling so
-  developers can deliver amazing products that keep users safe.
+  - solana
+description: Privy builds authentication, authorization and data control tooling
+  so developers can deliver amazing products that keep users safe.
 team:
   anonymous: false
   teammembers:
-  - name: Colfax
-    link: https://x.com/colfaxselby
-  - name: Jainil Sutaria
-    link: https://x.com/jainilsutaria1
+    - name: Colfax
+      link: https://x.com/colfaxselby
+    - name: Jainil Sutaria
+      link: https://x.com/jainilsutaria1
 links:
   web: https://www.privy.io/
-  github: https://github.com/privy-io
-  docs: https://docs.privy.io/
   blog: https://www.privy.io/blog
+  github: https://github.com/privy-io
+  forum: ""
+  docs: https://docs.privy.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/privy_io
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 sunset: false
 blockchain_features:
   opensource: true
+  upgradability:
+    enabled: false
   asset_custody_type: non-custody
+  encryption: ""
   p2p: true
 privacy_policy:
   defined: true
   link: https://www.privy.io/privacy-policy
-default_privacy: true
+  data_usage: Service Providers, Analytics Providers, Payment Processing partners,
+    Business Partners
+default_privacy: false
 tracebility:
   kyc: false
-  sign_in_type_requirments: wallet
-third_party_dependency: false
-
+  tracked_data: Email, Phone number, Payment Card type, Full number of payment
+    card, IP adress, type of device/operating system/browser, IP-adress-based
+    location information
+  sign_in_type_requirments:
+    - email
+third_party_dependency: ""
 audits:
-- name: Zellic
-  link: https://github.com/Zellic/publications/blob/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf
-  time: 2023-08
+  - name: Zellic
+    link: https://github.com/Zellic/publications/blob/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf
+    time: 2023-08
 usecases:
-- wallets
+  - wallets
 have_token: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/privy/logo.png
+percentage: 76
+assets_used: []
+tokens: []
+project_phase: mainnet
+storage: {}
+compliance: ""
+social_trust: ""
+technical_spof: ""
