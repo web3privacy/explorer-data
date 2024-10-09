@@ -1,0 +1,87 @@
+id: web3privacynow
+name: Web3PrivacyNow
+categories:
+  - social-and-communications
+  - applications
+usecases:
+  - other
+ecosystem:
+  - other
+description: >+
+  We are a think-and-Do tank of hundreds of people, projects, and organizations
+  committed to protecting and advancing civil liberties, decentralization, and
+  open-source software.
+
+
+  The ecosystem is a catalyst for change: we facilitate cross-stack and
+  cross-community collaboration with a poly-disciplinary approach to drive
+  meaningful impact.
+
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+links:
+  web: web3privacy.info
+  blog: ""
+  github: https://github.com/web3privacy
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: explorer.web3privacy.info
+  governance: ""
+  twitter: https://x.com/web3privacy
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: None
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments: []
+default_privacy: true
+audits:
+  - name: NaN
+    url: ""
+    time: ""
+third_party_dependency: ""
+social_trust: "There's a core collaboration group that is transparently managing
+  its affairs. "
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Mf
+      link: https://x.com/0x_m_f
+    - name: PG
+      link: https://x.com/PG_CDG
+    - name: Mykola
+      link: https://x.com/nicksvyaznoy
+funding:
+  - name: Donations & Memberships
+    link: https://web3privacy.info/membership/
+history:
+  - title: Meetup Rome
+    description: "​Shaping and Defending the Techno-Political Evolution: Open
+      Source, Public Goods, and Grassroots Movements"
+    link: https://web3privacy.info/event/m24rom/
+    time: Thu Oct 03 2024 00:00:00 GMT+0300 (Eastern European Summer Time)
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/web3privacynow/logo.png
+percentage: 66
+project_phase: mainnet
