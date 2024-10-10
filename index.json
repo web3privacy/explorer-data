@@ -411,7 +411,7 @@
           "points": 10
         },
         {
-          "field": "funding.value",
+          "field": "funding",
           "label": {
             "name": "Funding",
             "positive": "Investment",
