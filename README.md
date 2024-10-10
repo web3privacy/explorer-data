@@ -4,12 +4,12 @@ Upload project logo in root of project directory to be automatically included. C
 
 If you'd rather use our UI, you can also apply your changes through our editor. 
 
-How to:
-[Edit a project](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/yDbRRq8FjSogK7iUWdiRKkm54wvx6DgRt99gFuineuY)
-[Add a new project]([url](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2ZMIq6Os-ZKQyT_l6a5F1-gJURySvvwNRKzBvNpWM))
+How to: <p>
+[Edit a project](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/yDbRRq8FjSogK7iUWdiRKkm54wvx6DgRt99gFuineuY) <p>
+[Add a new project](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2ZMIq6Os-ZKQyT_l6a5F1-gJURySvvwNRKzBvNpWM)
 
-
-# How to Add or Update Your Project's Information to the Explorer
+Information on how our scoring mechanism works [can be found here](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/s9flkE6tMaJ4f2tzWu-FmDy7Zx_TRPe3jdXr2iYmYH0)
+# How to Add or Update Your Project's Information to the Explorer Through GitHub
 
 To add or update your project's information to the explorer, please follow these steps. **A GitHub account is required** to complete the process.
 
