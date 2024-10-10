@@ -133,6 +133,11 @@ tracebility:
   tracked_data: ""
 default_privacy: false
 project_phase: beta
+project_status:
+  live_status: true
+  version: beta
+  testnet: false
+  mainnet: false
 blockchain_features:
   opensource: false
   upgradability:

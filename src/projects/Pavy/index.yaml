@@ -24,6 +24,11 @@ links:
   telegram: https://t.me/+Cs2V5nlz4fA1ZTcx
   
 project_phase: Mainnet
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 
 blockchain_features:

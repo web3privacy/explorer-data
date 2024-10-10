@@ -67,11 +67,11 @@ client_diversability:
   link: https://www.metamask.io
 default_privacy: true
 funding:
-  name: LunarDAO
-  type: token sale
-  link: https://lunardao.net/firn_investment.html
-  value: 45.000 $
-  time: Jun 1, 2023
+  - name: LunarDAO
+    type: token sale
+    link: https://lunardao.net/firn_investment.html
+    value: 45.000 $
+    time: Jun 1, 2023
 project_status:
   live_status: true
   version: Mainnet

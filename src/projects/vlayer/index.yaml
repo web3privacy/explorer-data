@@ -35,6 +35,13 @@ links:
   discord: https://discord.com/invite/dRFRhgRH9P
 
 project_phase: testnet
+
+project_status:
+  live_status: true
+  version: testnet
+  testnet: true
+  mainnet: false
+
 sunset: false
 
 blockchain_features:

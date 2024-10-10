@@ -66,11 +66,11 @@ client_diversability:
   link: https://github.com/Zcash/zcash
 default_privacy: true
 funding:
-  name: DCG
-  type: Investments
-  link: https://zfnd.org/zebra/
-  value: ''
-  time: '2024-09-15'
+  - name: DCG
+    type: Investments
+    link: https://zfnd.org/zebra/
+    value: ''
+    time: '2024-09-15'
 project_status:
   live_status: true
   version: Mainnet

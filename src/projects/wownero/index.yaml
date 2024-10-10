@@ -38,8 +38,8 @@ tracebility:
 social_trust: Community
 default_privacy: true
 funding:
-  type: Crowdfunding
-  link: https://funding.wownero.com
+  - type: Crowdfunding
+    link: https://funding.wownero.com
 project_status:
   live_status: true
   version: v0.11.1.0

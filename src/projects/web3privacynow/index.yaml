@@ -85,3 +85,8 @@ logos:
     url: https://explorer-data.web3privacy.info/assets/projects/web3privacynow/logo.png
 percentage: 66
 project_phase: mainnet
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true

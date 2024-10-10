@@ -22,6 +22,11 @@ links:
   discord: https://discord.com/invite/Fx7m5cUcua
 
 project_phase: Mainnet
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 
 tokens:
