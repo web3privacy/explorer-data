@@ -77,11 +77,11 @@ client_diversability:
   link: https://starshell.net/
 default_privacy: true
 funding:
-  name: Public presale
-  type: ICO
-  link: https://icodrops.com/sienna-network/
-  value: 11.200.000
-  time: May 5, 2021
+  - name: Public presale
+    type: ICO
+    link: https://icodrops.com/sienna-network/
+    value: 11.200.000
+    time: May 5, 2021
 project_status:
   live_status: true
   version: Mainnet

@@ -64,6 +64,11 @@ percentage: 76
 assets_used: []
 tokens: []
 project_phase: mainnet
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true
 storage: {}
 compliance: ""
 social_trust: ""

@@ -31,8 +31,8 @@ links:
   discord: https://discord.com/invite/Qjm7krrFBf
 sunset: false
 funding:
-  name: Aragon grant 2021/2022
-  link: https://x.com/AragonProject
+  - name: Aragon grant 2021/2022
+    link: https://x.com/AragonProject
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody

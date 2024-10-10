@@ -22,7 +22,13 @@ team:
       link: https://github.com/turbolay
 usecases:
 - wallets
-project_phase: Mainnet
+project_phase: mainnet
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true
+
 sunset: false
 
 have_token: false
