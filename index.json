@@ -21206,36 +21206,93 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "The Secure Processing Layer of Web3",
+      "description": "Nillion is building Humanity's First Blind Computer – a secure computation and storage network that decentralizes trust for high-value data, similar to how blockchains decentralize transactions. \n\nNillion's vision is to make it easy for users and developers to leverage Privacy-Enhancing Technologies (PETs) without being an expert, giving them the power to build blind applications in AI, gaming, healthcare, data ownership, and beyond.\n\nDevelopers can start building today using Nillion’s Python-based DSL, Nada, to write programs that handle secret inputs from different users. There are also Nada libraries that make it simple to use for developers familiar with NumPy, scikit-learn, and PyTorch. ",
       "ecosystem": [
-        "multichain"
+        "multichain",
+        "ethereum",
+        "cosmos",
+        "other"
       ],
       "links": {
         "web": "https://www.nillion.com",
+        "blog": "http://nillion.com/news/",
         "github": "https://github.com/NillionNetwork",
+        "forum": "",
         "docs": "https://docs.nillion.com/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/nillionnetwork",
         "discord": "https://discord.com/invite/nillionnetwork",
-        "telegram": "https://t.me/nillionnetwork"
+        "telegram": "https://t.me/nillionnetwork",
+        "lens": "",
+        "farcaster": ""
       },
       "team": {
         "anonymous": false,
-        "company": {
-          "link": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU"
-        }
+        "teammembers": []
       },
       "usecases": [
-        "computing"
+        "computing",
+        "storage",
+        "data-management",
+        "ai"
       ],
       "have_token": false,
-      "third_party_dependency": false,
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nillion/logo.png"
         }
-      ]
+      ],
+      "percentage": 17,
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [
+        {
+          "symbol": "NIL",
+          "name": "",
+          "contract_address": "",
+          "token_link": ""
+        }
+      ],
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "MPC, LSSS"
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "Validators on the Coordination Layer and Clusters on the Petnet",
+      "technical_spof": "Coordination Layer Failure, Cluster Hack or Maliciousness over chosen threshold",
+      "funding": [],
+      "history": []
     },
     {
       "id": "mel",
