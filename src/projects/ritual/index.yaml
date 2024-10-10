@@ -37,8 +37,8 @@ links:
   discord: https://discord.com/invite/ritual-net
 sunset: false
 funding:
-  name: archetype
-  link: https://ritual.net/blog/introducing-ritual
+  - name: archetype
+    link: https://ritual.net/blog/introducing-ritual
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody

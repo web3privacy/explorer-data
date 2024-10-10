@@ -43,11 +43,11 @@ team:
     role: Web Developer
     link: https://deeponion.org/community/members/doglover.2258/
 funding:
-  name: Community Contributions
-  type: Community Support
-  link: https://deeponion.org/community
-  value: Not applicable
-  time: Ongoing
+  - name: Community Contributions
+    type: Community Support
+    link: https://deeponion.org/community
+    value: Not applicable
+    time: Ongoing
 sunset: false
 links:
   web: https://deeponion.org

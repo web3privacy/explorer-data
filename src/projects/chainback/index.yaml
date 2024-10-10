@@ -26,8 +26,8 @@ tokens:
   contract_address: '0xC7f950271d118A5bdF250dFfc39128DCCED8472C'
   token_link: https://etherscan.io/token/0xC7f950271d118A5bdF250dFfc39128DCCED8472C
 funding:
-  name: Summus Capital
-  link: https://summus.capital/
+  - name: Summus Capital
+    link: https://summus.capital/
 blockchain_features:
   opensource: false
   asset_custody_type: non-custody

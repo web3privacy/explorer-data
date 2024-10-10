@@ -88,11 +88,11 @@ client_diversability:
   link: https://starshell.net/
 default_privacy: true
 funding:
-  name: Private investors
-  type: ICO
-  link: https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested
-  value: 5.000.000 $
-  time: Feb 17, 2022
+  - name: Private investors
+    type: ICO
+    link: https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested
+    value: 5.000.000 $
+    time: Feb 17, 2022
 project_status:
   live_status: true
   version: Mainnet
