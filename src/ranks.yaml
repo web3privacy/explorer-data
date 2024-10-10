@@ -73,13 +73,13 @@
       condition:
         exists: true
       points: 10
-    - field: funding.value
+    - field: funding
       label: 
         name: Funding
         positive: Investment
         negative: Not available
       condition:
-        exists: true
+        minLength: 1
       points: 10
 
 - id: technology

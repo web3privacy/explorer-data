@@ -34,8 +34,8 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/starshell/logo.png
-percentage: 72
-product_launch_day: 2023-02-02T23:00:00.000Z
+percentage: 94
+product_launch_day: 2023-02-04T23:00:00.000Z
 sunset: false
 assets_used:
   - scrt
@@ -43,10 +43,9 @@ tokens: []
 project_phase: mainnet
 project_status:
   live_status: true
-  version: mainnet
-  testnet: false
   mainnet: true
-
+  testnet: false
+  version: mainnet
 blockchain_features:
   opensource: true
   upgradability:
@@ -64,6 +63,7 @@ compliance: No
 tracebility:
   kyc: false
   tracked_data: IP Adress
+  sign_in_type_requirments: []
 default_privacy: true
 audits: []
 social_trust: None
