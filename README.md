@@ -1,15 +1,13 @@
 # Web3Privacy Now Data Repository
-
-List of variables used for Privacy Explorer (https://explorer.web3privacy.info)
-Feel free to submit any suggestions or changes to this scheme.
-
 You can create/edit projects by making changes in index.yaml file, which you can find in project folder inside /src/projects/
-Upload project logo in root of project directory to be automatically included.
+Upload project logo in root of project directory to be automatically included. Check below for a short guide on how to do this
 
+If you'd rather use our UI, you can also apply your changes through our editor. 
 
-# Database
+How to:
+[Edit a project](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/yDbRRq8FjSogK7iUWdiRKkm54wvx6DgRt99gFuineuY)
+[Add a new project]([url](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2ZMIq6Os-ZKQyT_l6a5F1-gJURySvvwNRKzBvNpWM))
 
-https://data.web3privacy.info/
 
 # How to Add or Update Your Project's Information to the Explorer
 
@@ -43,7 +41,18 @@ To add or update your project's information to the explorer, please follow these
 
 🎉 **Congratulations!** Your project, including its logo, has now been submitted.
 
+# Docs
+
+There's an ongoing effort to upkeep our docs, [have a look here.](https://docs.web3privacy.info/projects/privacy-explorer/)
+
+# Database
+
+https://data.web3privacy.info/
+
 # Project description
+List of variables used for Privacy Explorer (https://explorer.web3privacy.info)
+Feel free to submit any suggestions or changes to this scheme.
+
 
 
 | Field                  | Type                  | Required | Description |
