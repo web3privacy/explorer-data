@@ -890,10 +890,12 @@
       },
       "social_trust": "Community",
       "default_privacy": true,
-      "funding": {
-        "type": "Crowdfunding",
-        "link": "https://funding.wownero.com"
-      },
+      "funding": [
+        {
+          "type": "Crowdfunding",
+          "link": "https://funding.wownero.com"
+        }
+      ],
       "project_status": {
         "live_status": true,
         "version": "v0.11.1.0",
@@ -1668,10 +1670,12 @@
         "discord": "https://discord.com/invite/Qjm7krrFBf"
       },
       "sunset": false,
-      "funding": {
-        "name": "Aragon grant 2021/2022",
-        "link": "https://x.com/AragonProject"
-      },
+      "funding": [
+        {
+          "name": "Aragon grant 2021/2022",
+          "link": "https://x.com/AragonProject"
+        }
+      ],
       "blockchain_features": {
         "opensource": true,
         "asset_custody_type": "non-custody",
@@ -2577,6 +2581,12 @@
         "discord": "https://discord.com/invite/dRFRhgRH9P"
       },
       "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "version": "testnet",
+        "testnet": true,
+        "mainnet": false
+      },
       "sunset": false,
       "blockchain_features": {
         "opensource": true,
@@ -2744,6 +2754,12 @@
         "farcaster": ""
       },
       "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "blockchain_features": {
         "opensource": false,
         "upgradability": {
@@ -3174,6 +3190,12 @@
         "telegram": "https://t.me/+Cs2V5nlz4fA1ZTcx"
       },
       "project_phase": "Mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "sunset": false,
       "blockchain_features": {
         "opensource": true,
@@ -3711,6 +3733,12 @@
         "discord": "https://discord.com/invite/Fx7m5cUcua"
       },
       "project_phase": "Mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "sunset": false,
       "tokens": [
         {
@@ -4635,13 +4663,15 @@
         }
       ],
       "default_privacy": false,
-      "funding": {
-        "name": "Private investors",
-        "type": "ICO",
-        "link": "https://icodrops.com/secret-network/",
-        "value": "236.500.000 $",
-        "time": "Jul 23, 2020"
-      },
+      "funding": [
+        {
+          "name": "Private investors",
+          "type": "ICO",
+          "link": "https://icodrops.com/secret-network/",
+          "value": "236.500.000 $",
+          "time": "Jul 23, 2020"
+        }
+      ],
       "project_status": {
         "live_status": true,
         "version": "Mainnet v1.12.1",
@@ -5639,10 +5669,12 @@
         "discord": "https://discord.com/invite/ritual-net"
       },
       "sunset": false,
-      "funding": {
-        "name": "archetype",
-        "link": "https://ritual.net/blog/introducing-ritual"
-      },
+      "funding": [
+        {
+          "name": "archetype",
+          "link": "https://ritual.net/blog/introducing-ritual"
+        }
+      ],
       "blockchain_features": {
         "opensource": true,
         "asset_custody_type": "non-custody",
@@ -5836,13 +5868,15 @@
         }
       ],
       "default_privacy": true,
-      "funding": {
-        "name": "DCG",
-        "type": "Investments",
-        "link": "https://zfnd.org/zebra/",
-        "value": "",
-        "time": "2024-09-15"
-      },
+      "funding": [
+        {
+          "name": "DCG",
+          "type": "Investments",
+          "link": "https://zfnd.org/zebra/",
+          "value": "",
+          "time": "2024-09-15"
+        }
+      ],
       "project_status": {
         "live_status": true,
         "version": "Mainnet",
@@ -6969,7 +7003,13 @@
         }
       ],
       "percentage": 66,
-      "project_phase": "mainnet"
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      }
     },
     {
       "id": "keep",
@@ -7208,10 +7248,12 @@
           "token_link": "https://etherscan.io/token/0xC7f950271d118A5bdF250dFfc39128DCCED8472C"
         }
       ],
-      "funding": {
-        "name": "Summus Capital",
-        "link": "https://summus.capital/"
-      },
+      "funding": [
+        {
+          "name": "Summus Capital",
+          "link": "https://summus.capital/"
+        }
+      ],
       "blockchain_features": {
         "opensource": false,
         "asset_custody_type": "non-custody",
@@ -8513,6 +8555,12 @@
       ],
       "tokens": [],
       "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
@@ -9618,13 +9666,15 @@
         }
       ],
       "default_privacy": true,
-      "funding": {
-        "name": "Public presale",
-        "type": "ICO",
-        "link": "https://icodrops.com/sienna-network/",
-        "value": "11.200.000",
-        "time": "May 5, 2021"
-      },
+      "funding": [
+        {
+          "name": "Public presale",
+          "type": "ICO",
+          "link": "https://icodrops.com/sienna-network/",
+          "value": "11.200.000",
+          "time": "May 5, 2021"
+        }
+      ],
       "project_status": {
         "live_status": true,
         "version": "Mainnet",
@@ -10520,6 +10570,12 @@
       ],
       "tokens": [],
       "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
@@ -11920,7 +11976,13 @@
       "usecases": [
         "wallets"
       ],
-      "project_phase": "Mainnet",
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "sunset": false,
       "have_token": false,
       "blockchain_features": {
@@ -16229,6 +16291,12 @@
       "assets_used": [],
       "tokens": [],
       "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
       "storage": {},
       "compliance": "",
       "social_trust": "",
@@ -16562,13 +16630,15 @@
         }
       ],
       "default_privacy": true,
-      "funding": {
-        "name": "LunarDAO",
-        "type": "token sale",
-        "link": "https://lunardao.net/firn_investment.html",
-        "value": "45.000 $",
-        "time": "Jun 1, 2023"
-      },
+      "funding": [
+        {
+          "name": "LunarDAO",
+          "type": "token sale",
+          "link": "https://lunardao.net/firn_investment.html",
+          "value": "45.000 $",
+          "time": "Jun 1, 2023"
+        }
+      ],
       "project_status": {
         "live_status": true,
         "version": "Mainnet",
@@ -16776,13 +16846,15 @@
         }
       ],
       "default_privacy": true,
-      "funding": {
-        "name": "DCG",
-        "type": "Investments",
-        "link": "https://www.coindesk.com/business/2022/01/26/railgun-aims-for-private-defi-with-10m-backing-from-dcg/",
-        "value": "10.000.000 $",
-        "time": "Jan 26, 2022"
-      },
+      "funding": [
+        {
+          "name": "DCG",
+          "type": "Investments",
+          "link": "https://www.coindesk.com/business/2022/01/26/railgun-aims-for-private-defi-with-10m-backing-from-dcg/",
+          "value": "10.000.000 $",
+          "time": "Jan 26, 2022"
+        }
+      ],
       "project_status": {
         "live_status": true,
         "version": "Mainnet",
@@ -16920,13 +16992,15 @@
         }
       ],
       "default_privacy": true,
-      "funding": {
-        "name": "Private investors",
-        "type": "ICO",
-        "link": "https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested",
-        "value": "5.000.000 $",
-        "time": "Feb 17, 2022"
-      },
+      "funding": [
+        {
+          "name": "Private investors",
+          "type": "ICO",
+          "link": "https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested",
+          "value": "5.000.000 $",
+          "time": "Feb 17, 2022"
+        }
+      ],
       "project_status": {
         "live_status": true,
         "version": "Mainnet",
@@ -17329,13 +17403,15 @@
           }
         ]
       },
-      "funding": {
-        "name": "Community Contributions",
-        "type": "Community Support",
-        "link": "https://deeponion.org/community",
-        "value": "Not applicable",
-        "time": "Ongoing"
-      },
+      "funding": [
+        {
+          "name": "Community Contributions",
+          "type": "Community Support",
+          "link": "https://deeponion.org/community",
+          "value": "Not applicable",
+          "time": "Ongoing"
+        }
+      ],
       "sunset": false,
       "links": {
         "web": "https://deeponion.org",
@@ -19448,6 +19524,12 @@
       },
       "default_privacy": false,
       "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "version": "beta",
+        "testnet": false,
+        "mainnet": false
+      },
       "blockchain_features": {
         "opensource": false,
         "upgradability": {
