@@ -1,20 +1,26 @@
 id: waku
 name: Waku
 categories:
-- applications
+  - infrastructure
 ecosystem:
-- ethereum
+  - ethereum
 description: the communication layer for Web3. Decentralized communication that scales
 team:
   anonymous: false
+  teammembers: []
 links:
   web: https://waku.org
-  github: https://github.com/waku-org
-  docs: https://docs.waku.org
-  forum: https://forum.vac.dev/
   blog: https://blog.waku.org
+  github: https://github.com/waku-org
+  forum: https://forum.vac.dev/
+  docs: https://docs.waku.org
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/waku_org
   discord: https://discord.waku.org
+  telegram: ""
+  lens: ""
   farcaster: https://farcaster/waku
 project_status:
   live_status: true
@@ -23,7 +29,43 @@ project_status:
   mainnet: false
 tracebility:
   kyc: false
+  tracked_data: None
+  sign_in_type_requirments: []
 usecases:
-- messaging
+  - messaging
+  - infrastructure
+  - research-and-development
+  - node
 have_token: false
-third_party_dependency: false
+third_party_dependency: Sepolia Testnet, libp2p
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/waku/logo.png
+percentage: 47
+sunset: false
+assets_used: []
+tokens: []
+project_phase: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: custodial
+  encryption: P2P, ZK, RLN, Anonymity, Gossip Network
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+default_privacy: false
+audits: []
+social_trust: Institute of Free Technology
+technical_spof: ""
+funding:
+  - name: Institute of Free Technology
+    link: ""
+history: []
