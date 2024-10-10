@@ -79,7 +79,7 @@
         positive: Investment
         negative: Not available
       condition:
-        exists: true
+        minLength: 1
       points: 10
 
 - id: technology
