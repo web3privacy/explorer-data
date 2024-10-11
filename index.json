@@ -14544,9 +14544,10 @@
     },
     {
       "id": "cheqd",
-      "name": "CheqD",
+      "name": "cheqd",
       "categories": [
-        "applications"
+        "applications",
+        "infrastructure"
       ],
       "description": "A secure network that enables individuals and organizations to fully control  their personal data. It allows self-sovereign identity (SSI) companies to build and deliver secure solutions to you",
       "links": {
@@ -14560,7 +14561,12 @@
         "telegram": "https://t.me/cheqd"
       },
       "usecases": [
-        "dapps"
+        "dapps",
+        "defi",
+        "infrastructure",
+        "did",
+        "kyc-solution",
+        "ai"
       ],
       "have_token": false,
       "third_party_dependency": false,
@@ -14570,7 +14576,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cheqd/logo.png"
         }
-      ]
+      ],
+      "percentage": 17,
+      "ecosystem": [
+        "cosmos"
+      ],
+      "product_launch_day": "2021-12-26T00:00:00.000Z",
+      "sunset": false
     },
     {
       "id": "ethbrno",
