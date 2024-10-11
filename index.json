@@ -5737,7 +5737,14 @@
       "usecases": [
         "ai"
       ],
-      "have_token": false
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ritual/logo.png"
+        }
+      ]
     },
     {
       "id": "demox-labs",
