@@ -31,5 +31,6 @@ logos:
 percentage: 17
 ecosystem:
   - cosmos
+  - ethereum
 product_launch_day: 2021-12-26T00:00:00.000Z
 sunset: false
