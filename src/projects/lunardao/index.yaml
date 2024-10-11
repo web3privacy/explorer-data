@@ -1,7 +1,7 @@
 id: lunardao
 name: LunarDAO
 categories:
-- applications
+  - applications
 description: DAO fostering R&D and investments within Lunarpunk movement
 links:
   web: https://lunardao.net
@@ -12,6 +12,17 @@ links:
   twitter: https://x.com/lunarpunksquad
   telegram: https://t.me/LunarDAO_Official
 usecases:
-- dao
+  - dao
 have_token: false
 third_party_dependency: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/lunardao/logo.png
+percentage: 17
+ecosystem:
+  - ethereum
+  - bitcoin
+  - monero
+  - other
+sunset: false
