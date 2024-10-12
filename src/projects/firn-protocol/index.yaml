@@ -13,7 +13,7 @@ tokens:
     network: Optimism
     contract_address: "0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4"
 project_type: DeFi
-product_launch_day: 2021-11-05T22:00:00.000Z
+product_launch_day: 2021-11-04T23:00:00.000Z
 technology:
   type: ZK
   name: Zero-knowledge
@@ -85,4 +85,4 @@ logos:
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/firn-protocol/logo.png
 percentage: 79
-sunset: true
+sunset: false
