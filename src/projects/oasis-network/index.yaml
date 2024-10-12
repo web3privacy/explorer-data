@@ -5,7 +5,7 @@ categories:
 project_type: Confidential compute
 description: A privacy-enabled blockchain platform for open finance and a
   responsible data economy
-product_launch_day: 2020-11-02T23:00:00.000Z
+product_launch_day: 2020-10-31T23:00:00.000Z
 team:
   anonymous: false
   teammembers: []
@@ -25,9 +25,9 @@ links:
   farcaster: ""
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: true
   mainnet: true
+  testnet: false
+  version: mainnet
 have_token: true
 tokens:
   - symbol: ROSE
@@ -43,7 +43,7 @@ history:
   - title: Oasis Mainnet
     event_type: launch
     description: "Oasis Mainnet: Ushering a New Era of Privacy and Scalability"
-    time: 2020-11-18
+    time: 2020-11-18T00:00:00.000Z
     link: https://oasisprotocol.org/blog/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability
   - title: Oasis Sapphire Mainnet
     description: go-live of the Oasis Sapphire Mainnet
@@ -64,12 +64,16 @@ blockchain_features:
   p2p: true
 usecases:
   - infrastructure
+  - ai
+  - dao
+  - defi
+  - wallets
 third_party_dependency: ""
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/oasis-network/logo.png
-percentage: 33
+percentage: 72
 ecosystem:
   - ethereum
 sunset: false
@@ -86,10 +90,18 @@ tracebility:
   tracked_data: ""
   sign_in_type_requirments:
     - wallet
-default_privacy: false
+default_privacy: true
 audits: []
 social_trust: ""
 technical_spof: ""
 funding:
   - name: Binance Labs
     link: https://cointelegraph.com/news/binance-labs-backs-200m-oasis-ecosystem-fund
+  - name: Andreessen Horowitz (a16z)
+    link: https://cryptorank.io/ico/oasis-network
+  - name: Polychain Capital
+    link: https://cryptorank.io/ico/oasis-network
+  - name: Pantera Capital
+    link: https://cryptorank.io/ico/oasis-network
+  - name: Electric Capital
+    link: https://cryptorank.io/ico/oasis-network
