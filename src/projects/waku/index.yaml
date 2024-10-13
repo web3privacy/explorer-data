@@ -7,7 +7,41 @@ ecosystem:
 description: the communication layer for Web3. Decentralized communication that scales
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+    - name: 'Alvaro R.'
+      link: 'https://github.com/alrevuelta'
+    - name: 'Arseniy'
+      link: 'https://github.com/adklempner'
+    - name: 'Danish'
+      link: 'https://github.com/danisharora099'
+    - name: 'Franck'
+      role: Lead
+      link: 'https://github.com/fryorcraken'
+    - name: 'Gabriel'
+      link: 'https://github.com/gabrielmer'
+    - name: 'Hanno'
+      role: Research Lead
+      link: 'https://github.com/jm-clius'
+    - name: 'Pedro'
+      role: Business Development Lead
+      link: 'https://discord.com/users/388306101327626240'
+    - name: 'Prem'
+      link: 'https://github.com/chaitanyaprem'
+    - name: 'Richard'
+      link: 'https://github.com/richard-ramos'
+    - name: 'Simon-Pierre'
+      link: 'https://github.com/SionoiS'
+    - name: 'Sasha'
+      link: 'https://github.com/weboko'
+    - name: 'Sergei'
+      link: 'https://github.com/s-tikhomirov'
+    - name: 'Tanya'
+      link: 'https://github.com/stubbsta'
+    - name: 'Václav'
+      role: Solutions Engineer
+      link: 'https://github.com/vpavlin'
+    - name: 'Zoltan'
+      link: 'https://github.com/NagyZoltanPeter'
 links:
   web: https://waku.org
   blog: https://blog.waku.org
