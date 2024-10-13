@@ -95,7 +95,7 @@ privacy_policy:
   link: ""
   data_usage: ""
 compliance: ""
-default_privacy: false
+default_privacy: true
 audits: []
 social_trust: Institute of Free Technology
 technical_spof: ""
