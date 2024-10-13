@@ -71,7 +71,7 @@ usecases:
   - research-and-development
   - node
 have_token: false
-third_party_dependency: Sepolia Testnet
+third_party_dependency:
 logos:
   - file: logo.png
     ext: png
