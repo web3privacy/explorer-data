@@ -5,14 +5,21 @@ categories:
 description: DAO fostering R&D and investments within Lunarpunk movement
 links:
   web: https://lunardao.net
-  github: https://github.com/lunardao
-  docs: https://wiki.lunardao.net/
-  forum: https://forum.lunardao.net/
   blog: https://lunardao.net/blog.html
+  github: https://github.com/lunardao
+  forum: https://forum.lunardao.net/
+  docs: https://wiki.lunardao.net/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/lunarpunksquad
+  discord: ""
   telegram: https://t.me/LunarDAO_Official
+  lens: ""
+  farcaster: ""
 usecases:
   - dao
+  - research-and-development
 have_token: false
 third_party_dependency: false
 logos:
@@ -26,3 +33,23 @@ ecosystem:
   - monero
   - other
 sunset: false
+product_launch_day: 2023-01-01T00:00:00.000Z
+sunset: false
+assets_used: []
+tokens: []
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
