@@ -23,13 +23,13 @@ links:
 team:
   anonymous: true
   teammembers: []
-have_token: false
+have_token: true
 token_link: https://coinmarketcap.com/currencies/sentinel/
 project_status:
   live_status: true
-  version: stable
+  mainnet: true
   testnet: false
-  mainnet: false
+  version: mainnet
 usecases:
   - vpn
   - infrastructure
@@ -39,105 +39,8 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/sentinel/logo.png
-ratings:
-  - type: openess
-    name: Openess
-    items:
-      - isValid: false
-        label: Team
-        positive: Member
-        negative: Anonymous
-      - isValid: true
-        label: Documentation
-        positive: Link
-        negative: Not available
-        value: https://docs.sentinel.co/
-      - isValid: true
-        label: Github
-        positive: Link
-        negative: Not available
-        value: https://github.com/sentinel-official
-      - isValid: true
-        label: Twitter
-        positive: Link
-        negative: Not available
-        value: https://twitter.com/SentinelDVPN
-      - isValid: false
-        label: Twitter
-        positive: Link
-        negative: Not available
-      - isValid: false
-        label: Discord
-        positive: Link
-        negative: Not available
-      - isValid: false
-        label: Lens
-        positive: Link
-        negative: Not available
-      - isValid: false
-        label: Farcaster
-        positive: Link
-        negative: Not available
-      - isValid: true
-        label: Whitepaper
-        positive: Link
-        negative: Not available
-        value: https://docs.sentinel.co/getting-started/whitepaper
-      - isValid: false
-        label: Funding
-        positive: Investment
-        negative: Not available
-    points: 31
-    percentagePoints: 56.36363636363636
-  - type: technology
-    name: Technology
-    items:
-      - isValid: false
-        label: Mainnet
-        positive: Yes
-        negative: No
-        value: false
-      - isValid: false
-        label: Open Source
-        positive: Yes
-        negative: No
-      - isValid: false
-        label: Non Custody
-        positive: None
-        negative: Custodial
-      - isValid: false
-        label: Upgradability
-        positive: Disabled
-        negative: Enabled
-      - isValid: false
-        label: Audits
-        positive: Audit
-        negative: None
-    points: 0
-    percentagePoints: 0
-  - type: privacy
-    name: Privacy
-    items:
-      - isValid: false
-        label: Privacy Policy
-        positive: Link
-        negative: Not available
-      - isValid: false
-        label: KYC
-        positive: No
-        negative: Yes
-      - isValid: false
-        label: Compliance
-        positive: ...
-        negative: No
-      - isValid: false
-        label: Default Privacy
-        positive: YES
-        negative: No
-    points: 0
-    percentagePoints: 0
-percentage: 21
-product_launch_day: 2018-05-03T22:00:00.000Z
+percentage: 52
+product_launch_day: 2018-05-03T23:00:00.000Z
 sunset: false
 assets_used:
   - atom
@@ -148,6 +51,10 @@ tokens:
     name: Sentinel
     contract_address: ""
     token_link: https://www.mintscan.io/sentinel/
+  - symbol: DVPN
+    name: DVPN
+    contract_address: ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84
+    token_link: https://www.mintscan.io/sentinel
 project_phase: mainnet
 blockchain_features:
   opensource: true
@@ -165,9 +72,9 @@ privacy_policy:
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: Onchain data, VPN provider can see you IP adress ( depends on a
-    provider you choose )
-default_privacy: false
+  tracked_data: "Onchain data, VPN provider CANNOT see you IP address "
+  sign_in_type_requirments: []
+default_privacy: true
 audits: []
 social_trust: None
 technical_spof: None
