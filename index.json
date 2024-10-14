@@ -11439,6 +11439,104 @@
       ]
     },
     {
+      "id": "labyrinth",
+      "name": "Labyrinth",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "defi"
+      ],
+      "usecases": [
+        "defi",
+        "wallets",
+        "infrastructure",
+        "dao",
+        "dapps"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Labyrinth is a multi-chain privacy platform that enables shielded (private) accounts on EVM chains, allowing users to conduct private transactions for all DeFi activities, such as transfers, swaps, staking, yield farming, lending, batch transactions for payroll, and token vesting, while ensuring compliance without KYC.\n\nIts plug-and-play SDK allows developers to easily integrate privacy into their dApps without the complexity of cryptography or ZKPs. Labyrinth ecosystem app offers a seamless experience for large and mid-volume users, as well as retail participants.\n\nLabyrinth empowers traders, whales, DAOs, and retail users to maintain control over their privacy with a compliance network built on selective disclosure and decentralized trust.",
+      "product_launch_day": "2024-01-31T18:30:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "usdt"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://labyrinth.technology/",
+        "blog": "https://labyrinth.technology/blog/",
+        "github": "",
+        "forum": "https://forum.labyrinth.technology/",
+        "docs": "https://labyrinth.gitbook.io/",
+        "whitepaper": "https://arxiv.org/pdf/2307.00521",
+        "block_explorer": "https://testnet.app.labyrinth.technology/discover",
+        "governance": "",
+        "twitter": "https://twitter.com/labyrinth_hq",
+        "discord": "",
+        "telegram": "https://discord.com/invite/GYTgBrq4mM",
+        "lens": "",
+        "farcaster": "https://warpcast.com/labyrinth-hq"
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero knowledge proofs, Cryptography, Circom",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": false
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "Decentralised compliance network with selective disclosure",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "Private testnet release",
+          "description": "Labyrinth V1 private beta testnet marks a significant milestone in the development of Labyrinth as a privacy-first solution for DeFi and on-chain transactions. It offers a comprehensive suite of features centered around privacy, compliance, and seamless user experience. Here's a breakdown of the features supported in this phase across the app, integrations, and compliance system. App Features: * Shielded Accounts: Create private accounts within existing wallets (MetaMask, Coinbase). * Private DeFi Transactions: Execute private transfers, swaps, staking, lending, LPing and yield farming. * ENS Integration, Gas Fees with Stablecoins: Pay fees using stablecoins for seamless transactions. * Bundler Transactions: User don’t have to pay fee using their public wallet. Integrations: * DeFi Protocols: Integrated with Uniswap, Aave, curve and Lido for anonymous activities * Cross-Wallet Support: Works with non-custodial wallets for seamless privacy. * SDK for Developers: DeFi adaptors enable privacy integration into other dApps. Compliance: * Decom Network: Decentralized compliance using Guardians and Revokers for selective de-anonymization. * Selective Disclosure: Users can share transaction details selectively for audits or legal compliance.",
+          "link": "https://labyrinthprotocol.notion.site/Labyrinth-v1-0-private-beta-release-c72c5cf4cbc74c1f8be8ce8a61bb6a50?pvs=73",
+          "time": "Tue Aug 27 2024 00:00:00 GMT+0530 (India Standard Time)"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/labyrinth/logo.png"
+        }
+      ]
+    },
+    {
       "id": "zkvalidator",
       "name": "ZKValidator",
       "categories": [
