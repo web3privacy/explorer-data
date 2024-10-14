@@ -37,7 +37,7 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/calimero-network/logo.png
-percentage: 1
+percentage: 55
 ecosystem:
   - other
 sunset: false
@@ -48,7 +48,7 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
+  asset_custody_type: custodial
   encryption: ""
   p2p: true
 storage:
