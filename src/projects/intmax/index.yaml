@@ -1,32 +1,69 @@
 id: intmax
 name: Intmax
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- ethereum
+  - ethereum
 project_type: Layer2 zk-rollup
-description: A zkRollup with a stateless architecture. Achieving hyper-scaling and
-  privacy at the same time.
+description: A zkRollup with a stateless architecture. Achieving hyper-scaling
+  and privacy at the same time.
 team:
   anonymous: false
   teammembers:
-  - name: Leona Hioki
-    role: Co-founder
-    link: https://x.com/HiokiLeona
+    - name: Leona Hioki
+      role: Co-founder
+      link: https://x.com/HiokiLeona
+    - name: " Mai Fujimoto"
+      link: https://x.com/missbitcoin_mai
 links:
   web: https://www.intmax.io/
-  github: https://github.com/InternetMaximalism
-  whitepaper: https://eprint.iacr.org/2023/1082.pdf
   blog: https://medium.com/intmax
+  github: https://github.com/InternetMaximalism
+  forum: ""
+  docs: ""
+  whitepaper: https://eprint.iacr.org/2023/1082.pdf
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/intmaxIO
   discord: https://discord.com/invite/N7kYGUPDEE
   telegram: https://t.me/QM1EbIzxACsxMDk1
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: testnet2
-  testnet: true
   mainnet: false
+  testnet: false
+  version: testnet2
 have_token: false
 usecases:
-- eth-layer-2
-third_party_dependency: false
+  - eth-layer-2
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/intmax/logo.png
+percentage: 17
+sunset: false
+assets_used: []
+tokens: []
+project_phase: testnet2
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
