@@ -1,13 +1,20 @@
-name: autoupdate
+name: Auto Update Pull Request Branches
 on:
-  push: {}
+  push:
+    branches:
+      - main
 jobs:
-  autoupdate:
-    name: autoupdate
-    runs-on: ubuntu-22.04
+  update-prs:
+    runs-on: ubuntu-latest
     steps:
-      - uses: docker://chinthakagodawita/autoupdate-action:v1
-        id: autoupdate
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_CONFLICT_ACTION: "FAIL"
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Auto-update PR branches
+        run: |
+          PRS=$(gh pr list --base main --state open --json number -q '.[].number')
+          for pr in $PRS; do
+            gh pr merge main --merge --auto --pr $pr || echo "PR #$pr couldn't be updated"
+          done
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
