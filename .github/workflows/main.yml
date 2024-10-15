@@ -1,0 +1,20 @@
+name: Auto Update Pull Request Branches
+on:
+  push:
+    branches:
+      - main
+jobs:
+  update-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Auto-update PR branches
+        run: |
+          PRS=$(gh pr list --base main --state open --json number -q '.[].number')
+          for pr in $PRS; do
+            gh pr merge main --merge --auto --pr $pr || echo "PR #$pr couldn't be updated"
+          done
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
