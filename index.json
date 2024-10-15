@@ -1519,7 +1519,7 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/calimero-network/logo.png"
         }
       ],
-      "percentage": 1,
+      "percentage": 55,
       "ecosystem": [
         "other"
       ],
@@ -1552,7 +1552,7 @@
           "wallet"
         ]
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
       "social_trust": "",
       "technical_spof": "",
