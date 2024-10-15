@@ -7475,7 +7475,7 @@
       ],
       "project_type": "Confidential compute",
       "description": "A privacy-enabled blockchain platform for open finance and a responsible data economy",
-      "product_launch_day": "2020-11-02T23:00:00.000Z",
+      "product_launch_day": "2020-11-01T23:00:00.000Z",
       "team": {
         "anonymous": false,
         "teammembers": []
@@ -7552,7 +7552,14 @@
         "p2p": true
       },
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "defi",
+        "wallets",
+        "computing",
+        "dao",
+        "bridge",
+        "dapps",
+        "ai"
       ],
       "third_party_dependency": "",
       "logos": [
@@ -7562,7 +7569,7 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/oasis-network/logo.png"
         }
       ],
-      "percentage": 33,
+      "percentage": 72,
       "ecosystem": [
         "ethereum"
       ],
