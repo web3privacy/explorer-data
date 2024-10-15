@@ -14417,7 +14417,6 @@
         "other"
       ],
       "product_launch_day": "2023-01-01T00:00:00.000Z",
-      "sunset": false,
       "assets_used": [],
       "tokens": [],
       "project_status": {
@@ -21394,7 +21393,7 @@
       "ecosystem": [
         "ethereum"
       ],
-      "description": "the communication layer for Web3. Decentralized communication that scales",
+      "description": "The communication layer for Web3. Decentralized communication that scales",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -21515,7 +21514,7 @@
         "upgradability": {
           "enabled": false
         },
-        "asset_custody_type": "none",
+        "asset_custody_type": "None",
         "encryption": "P2P, ZK, RLN, Anonymity, Gossip Network",
         "p2p": true
       },
