@@ -1,10 +1,15 @@
 id: zano
 name: Zano
 categories:
-- defi
-description: A scalable and secure coin, with confidential assets support
+  - defi
+  - infrastructure
+  - applications
+description: Zano is an open-source cryptocurrency and ecosystem with
+  enterprise-grade privacy, security, and scalability that operates as a robust
+  foundation for confidential assets and decentralised applications (dApps).
 ecosystem:
-- zano
+  - zano
+  - other
 project_status:
   live_status: true
   version: Mainnet
@@ -22,6 +27,21 @@ links:
 team:
   anonymous: false
 usecases:
-- currency
+  - currency
+  - defi
+  - wallets
+  - infrastructure
+  - bridge
+  - research-and-development
+  - dapps
 have_token: false
 third_party_dependency: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zano/logo.png
+percentage: 22
+product_launch_day: 2019-06-07T22:00:00.000Z
+sunset: false
+assets_used: []
+tokens: []
