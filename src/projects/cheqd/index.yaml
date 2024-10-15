@@ -31,5 +31,12 @@ logos:
 percentage: 17
 ecosystem:
   - cosmos
-product_launch_day: 2021-12-26T00:00:00.000Z
+  - ethereum
 sunset: false
+assets_used:
+  - other
+tokens:
+  - symbol: $CHEQ
+    name: CHEQ
+    contract_address: ""
+    token_link: https://explorer.cheqd.io/
