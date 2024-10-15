@@ -34,7 +34,6 @@ ecosystem:
   - monero
   - other
 product_launch_day: 2023-01-01T00:00:00.000Z
-sunset: false
 assets_used: []
 tokens: []
 project_status:
