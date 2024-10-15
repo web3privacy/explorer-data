@@ -2,7 +2,7 @@ id: lunardao
 name: LunarDAO
 categories:
   - applications
-description: DAO fostering R&D and investments within Lunarpunk movement
+description: DAO fostering R&D and investments within Lunarpunk movement.
 links:
   web: https://lunardao.net
   blog: https://lunardao.net/blog.html
@@ -20,6 +20,7 @@ links:
 usecases:
   - dao
   - research-and-development
+  - infrastructure
 have_token: false
 third_party_dependency: false
 logos:
@@ -32,7 +33,6 @@ ecosystem:
   - bitcoin
   - monero
   - other
-sunset: false
 product_launch_day: 2023-01-01T00:00:00.000Z
 sunset: false
 assets_used: []
