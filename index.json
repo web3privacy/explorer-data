@@ -5089,6 +5089,101 @@
       ]
     },
     {
+      "id": "adamantfi",
+      "name": "AdamantFi",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "cosmos"
+      ],
+      "description": "Privacy-preserving liquidity protocol",
+      "sunset": false,
+      "assets_used": [
+        "scrt",
+        "atom"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "symbol": "ADMT",
+          "name": "Adamant",
+          "contract_address": "",
+          "token_link": "https://www.mintscan.io/secret"
+        }
+      ],
+      "links": {
+        "web": "https://x.com/AdamantFi",
+        "blog": "https://x.com/AdamantFi/media",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "https://www.mintscan.io/secret",
+        "governance": "",
+        "twitter": "https://x.com/AdamantFi",
+        "discord": "",
+        "telegram": "https://t.me/+pqY7XQGMuXQwYmY0",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Secret Network TEE"
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "Nothing"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "AdamantWare multisig",
+      "technical_spof": "SGX/TEE hack",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Jiricepelka",
+            "link": "https://x.com/JiriCepelka"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/adamantfi/logo.png"
+        }
+      ]
+    },
+    {
       "id": "anonybit",
       "name": "Anonybit",
       "categories": [
