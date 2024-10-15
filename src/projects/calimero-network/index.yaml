@@ -1,22 +1,79 @@
 id: calimero-network
 name: Calimero network
 categories:
-- infrastructure
-description: Calimero Network is a decentralized peer-to-peer protocol for building
-  self-sovereign networks of applications and sharing data in a completely secure
-  and private way
+  - infrastructure
+description: Calimero Network is a decentralized peer-to-peer protocol for
+  building self-sovereign networks of applications and sharing data in a
+  completely secure and private way
 team:
   anonymous: true
+  teammembers:
+    - name: Sandi Fatić
+      link: https://x.com/chefsale
 links:
   web: https://www.calimero.network
   blog: https://www.calimero.network/blogs
+  github: https://github.com/calimero-network/core
+  forum: ""
+  docs: https://calimero-network.github.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/CalimeroNetwork
+  discord: https://discord.com/invite/kjP4GrafXj
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
-  live_status: false
-  version: ''
-  testnet: false
+  live_status: true
   mainnet: false
+  testnet: false
+  version: mvp
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
-third_party_dependency: false
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/calimero-network/logo.png
+percentage: 55
+ecosystem:
+  - other
+sunset: false
+assets_used: []
+tokens: []
+project_phase: mvp
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history:
+  - title: SDK Launch
+    description: The Calimero SDK empowers you to create Self-Sovereign Applications
+      (SSApps) that can operate privately off-chain and settle on-chain. Whether
+      you’re working within the NEAR Protocol , Starknet , or soon Dfinity 's
+      ICP ecosystems, our SDK enables you to build privacy-first SSApps that are
+      accessible across the entire Calimero Network.
+    link: https://x.com/CalimeroNetwork/status/1836738188733190355
+    time: Thu Sep 19 2024 00:00:00 GMT+0200 (Central European Summer Time)
