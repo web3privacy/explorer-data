@@ -1,0 +1,73 @@
+name: Haveno-reto
+categories:
+  - defi
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - bitcoin
+  - ethereum
+  - monero
+  - other
+description: Haveno-reto is a peer-to-peer and decentralized exchange to trade
+  Monero for FIAT and cryptocurrencies over Tor and without custody (using
+  multisig)
+sunset: false
+assets_used:
+  - xmr
+  - eth
+  - btc
+  - Litecoin
+  - BitcoinCash
+have_token: false
+tokens: []
+links:
+  web: https;//haveno-reto.com
+  blog: ""
+  github: https://github.com/retoaccess1/haveno-reto
+  forum: https://reddit.com/r/Monero
+  docs: ""
+  whitepaper: ""
+  block_explorer: https://xmrchain.net
+  governance: ""
+  twitter: x.com/haveno-reto
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Tor, Monero
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: Each trade is backed by multisig, the backbone is rant by lots of
+  anonymous people
+technical_spof: None.
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: haveno-reto
