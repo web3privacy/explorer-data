@@ -1,0 +1,102 @@
+name: Enclave
+categories:
+  - infrastructure
+  - defi
+  - applications
+usecases:
+  - defi
+  - infrastructure
+  - computing
+ecosystem:
+  - ethereum
+  - other
+description: >-
+  Enclave is an open-source protocol for Encrypted Execution Environments (E3)
+  that enables secure, verifiable computations on encrypted data using FHE,
+  ZKPs, and DTC (distributed threshold cryptography). 
+
+
+  Special Features:
+
+
+  * Full Data Privacy: Encrypted data is never exposed at any point.
+
+  * Multiple Encrypted Inputs: Securely compute over data from multiple
+  encrypted sources.
+
+  * Decoupled Execution and Security: Nodes responsible for key management are
+  separate from those handling execution, lowering hardware requirements.
+
+  * Single-Use Keys: Keyshares are generated per computation request and are
+  never reused, eliminating the need for key rotation even when nodes fail or
+  misbehave.
+
+  * Built-In Economic Incentives: MPC parties are bonded and subject to
+  penalties or slashing for misbehavior, ensuring the system’s security without
+  compromising overall operation.
+
+  * Developer Accessibility: Programs can be written in Rust, making the system
+  accessible to a broad developer base.
+
+  * Encryption Scheme Agnostic: Enclave's modular design allows it to support
+  various threshold FHE encryption schemes.
+
+
+  Enclave is applicable in industries like healthcare, finance, governance, and
+  collaborative efforts that require secure data processing with strong privacy
+  and compliance. It enables use cases such as secret voting, sealed-bid
+  auctions, and privacy-preserving collaborative analysis that are difficult or
+  impossible with traditional solutions.
+product_launch_day: 2024-06-15T05:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://enclave.gg
+  blog: https://blog.enclave.gg/
+  github: https://github.com/gnosisguild/enclave
+  forum: ""
+  docs: https://docs.enclave.gg
+  whitepaper: https://docs.enclave.gg/whitepaper
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/EnclaveE3
+  discord: ""
+  telegram: https://t.me/enclave_e3
+  lens: ""
+  farcaster: https://warpcast.com/enclavee3
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: FHE, ZKP, MPC
+storage:
+  decentralized: false
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: enclave
