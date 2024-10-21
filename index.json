@@ -20446,24 +20446,84 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "The first parallelized confidential computing network",
+      "description": "Arcium introduces a decentralized, global supercomputer that revolutionizes the internet by enabling the secure execution of any computation on fully encrypted data. Our technology creates a paradigm shift in how we approach computing and trustless interactions, allowing users to protect everything while computing anything.",
       "links": {
         "web": "https://arcium.com/",
-        "github": "https://github.com/elusiv-privacy",
+        "blog": "https://www.arcium.com/articles",
+        "github": "",
+        "forum": "",
         "docs": "https://docs.arcium.com/",
-        "blog": "https://blog.arcium.com/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/ArciumHQ",
-        "discord": "https://discord.com/invite/arcium"
+        "discord": "https://discord.com/invite/arcium",
+        "telegram": "https://t.me/c/2407672405/1",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
-      "third_party_dependency": false,
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/arcium/logo.png"
         }
-      ]
+      ],
+      "percentage": 17,
+      "usecases": [
+        "defi",
+        "infrastructure",
+        "computing",
+        "dao",
+        "ai"
+      ],
+      "ecosystem": [
+        "other",
+        "ethereum",
+        "solana"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "MPC"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "starkex",
