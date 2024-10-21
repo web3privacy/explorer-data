@@ -1,0 +1,63 @@
+name: Silent Swap
+categories:
+  - defi
+usecases:
+  - defi
+  - bridge
+ecosystem:
+  - ethereum
+  - cosmos
+description: The privacy cross-chain aggregator powered by Secret Network
+sunset: false
+assets_used:
+  - eth
+  - usdt
+  - atom
+  - scrt
+have_token: false
+tokens: []
+links:
+  web: https://www.silentswap.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: https://www.mintscan.io/secret/
+  governance: ""
+  twitter: https://x.com/SilentSwapcom
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Secret Network TEE
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
+id: silent-swap
