@@ -17783,7 +17783,8 @@
       "id": "monero",
       "name": "Monero",
       "categories": [
-        "defi"
+        "defi",
+        "infrastructure"
       ],
       "description": "Private, decentralized cryptocurrency that keeps your finances confidential and secure",
       "ecosystem": [
@@ -17791,23 +17792,38 @@
       ],
       "project_status": {
         "live_status": true,
-        "version": "Mainnet",
-        "testnet": true,
-        "mainnet": true
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
       },
       "links": {
         "web": "https://www.getmonero.org",
-        "github": "https://github.com/monero-ecosystem",
         "blog": "https://www.getmonero.org/blog/",
+        "github": "https://github.com/monero-ecosystem",
+        "forum": "https://monero.town",
+        "docs": "https://docs.getmonero.org/",
+        "whitepaper": "https://web.getmonero.org/resources/research-lab/pubs/whitepaper_annotated.pdf",
+        "block_explorer": "https://xmrchain.net",
+        "governance": "",
         "twitter": "https://x.com/monero",
-        "facebook": "https://www.facebook.com/monerocurrency/",
-        "telegram": "https://t.me/monero"
+        "discord": "",
+        "telegram": "https://t.me/monero",
+        "lens": "",
+        "farcaster": ""
       },
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "Monero-core contributors",
+            "link": "https://github.com/monero-project/monero/graphs/contributors"
+          }
+        ]
       },
       "usecases": [
-        "currency"
+        "currency",
+        "mixing-service",
+        "defi"
       ],
       "have_token": false,
       "third_party_dependency": false,
@@ -17816,6 +17832,75 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/monero/logo.png"
+        }
+      ],
+      "percentage": 14,
+      "product_launch_day": "2014-05-18T00:00:00.000Z",
+      "sunset": false,
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Blockchain, Ring Signatures, RingCT, Stealth addresses, Tor.",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "assets_used": [],
+      "tokens": [],
+      "funding": [],
+      "history": [
+        {
+          "title": "RingCT update",
+          "description": "Allowd confidential amounts",
+          "link": "https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades",
+          "time": "Thu Jan 05 2017 00:00:00 GMT+0000 (Greenwich Mean Time)"
+        },
+        {
+          "title": "RandomX PoW consensus",
+          "description": "Switches the mining algorithm",
+          "link": "https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades",
+          "time": "Mon Nov 11 2019 00:00:00 GMT+0000 (Greenwich Mean Time)"
+        },
+        {
+          "title": "Atomic Swaps released",
+          "description": "AtomicSwaps is a protocol to trade monero for bitcoin trustlessly",
+          "link": "https://www.getmonero.org/2021/08/20/atomic-swaps.html",
+          "time": "Fri Aug 20 2021 00:00:00 GMT+0000 (Greenwich Mean Time)"
+        },
+        {
+          "title": "P2Pool released",
+          "description": "P2Pool is a protocol for creating decentralized mining pools",
+          "link": "https://www.getmonero.org/2021/10/05/p2pool-released.html",
+          "time": "Tue Oct 05 2021 00:00:00 GMT+0000 (Greenwich Mean Time)"
+        },
+        {
+          "title": "v0.18 hardfork",
+          "description": "ringsize = 16, bulletproofs+, view tags, adjusted dynamic block weight algorithm.",
+          "link": "https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades",
+          "time": "Sat Aug 13 2022 00:00:00 GMT+0000 (Greenwich Mean Time)"
+        },
+        {
+          "title": "Haveno-reto DEX released",
+          "description": "Haveno-reto is a multisig DEX to trade monero for FIAT and cryptos",
+          "link": "https://monero.town/post/3135463",
+          "time": "Mon May 13 2024 00:00:00 GMT+0000 (Greenwich Mean Time)"
         }
       ]
     },
