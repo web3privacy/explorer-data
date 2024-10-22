@@ -1,22 +1,64 @@
 id: polygon-id
 name: Polygon ID
 categories:
-- applications
-description: a blockchain-native identity system with programmable privacy that empowers
-  people and enables the creation of trusted interactions with web3 services
+  - applications
+description: a blockchain-native identity system with programmable privacy that
+  empowers people and enables the creation of trusted interactions with web3
+  services
 ecosystem:
-- polygon
+  - polygon
 links:
   web: https://polygon.technology/polygon-id/
-  github: https://github.com/0xPolygonID
-  docs: https://devs.polygonid.com/docs/quick-start-demo/
   blog: https://www.polygonid.com/blog
+  github: https://github.com/0xPolygonID
+  forum: ""
+  docs: https://devs.polygonid.com/docs/quick-start-demo/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/0xPolygonID
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 team:
   anonymous: false
-  company:
-    link: https://github.com/orgs/0xPolygonID/people
+  teammembers: []
 have_token: false
 usecases:
-- did
-third_party_dependency: false
+  - did
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/polygon-id/logo.png
+percentage: 17
+sunset: false
+assets_used: []
+tokens: []
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
