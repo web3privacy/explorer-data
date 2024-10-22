@@ -2,6 +2,7 @@ id: railway
 name: Railway
 categories:
   - applications
+  - defi
 description: DeFi privacy wallet
 ecosystem:
   - ethereum
@@ -27,20 +28,22 @@ team:
   teammembers: []
 project_status:
   live_status: true
-  version: 5.16.8
+  mainnet: true
   testnet: false
-  mainnet: false
+  version: mainnet
 usecases:
   - wallets
+  - defi
 have_token: false
 third_party_dependency: ""
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/railway/logo.png
-percentage: 8
+percentage: 62
 sunset: false
-assets_used: []
+assets_used:
+  - eth
 tokens: []
 project_phase: mainnet
 blockchain_features:
