@@ -49,7 +49,7 @@ const matrix = {
   ecosystems: "ecosystem",
   features: "feature",
   usecases: "usecase",
-  ranks: "rank",
+  // ranks: "rank",
   custodys: "custody",
   phases: "phase",
   requirements: "requirement"
