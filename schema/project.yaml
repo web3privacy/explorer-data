@@ -4,8 +4,9 @@ required:
   - id
   - name
   - categories
-  - have_token
-  - third_party_dependency
+  - usecases
+  - ecosystem
+  - description
 
 properties:
   id:
@@ -183,6 +184,9 @@ properties:
       education:
         type: string
         format: uri
+      governance:
+        type: string
+        format: uri
   logos:
     type: array
     items:
@@ -207,9 +211,6 @@ properties:
         type: array
         items:
           type: string
-    required:
-      - type
-      - features
   blockchain_features:
     type: object
     required:
@@ -240,9 +241,6 @@ properties:
         type: object
         required:
           - enabled
-          - viewing_key
-          - dissapearing_tx
-          - connected_tx
         properties:
           enabled:
             type: boolean
@@ -293,7 +291,9 @@ properties:
       kyc:
         type: boolean
       sign_in_type_requirments:
-        type: string
+        type: array
+        items:
+          type: string
     required:
       - kyc
   compliance:
@@ -306,7 +306,7 @@ properties:
 
   # SECURITY ---------------------------------------------------------------------
   third_party_dependency:
-    type: boolean
+    type: string
   social_trust:
     type: string
   technical_spof:
@@ -318,23 +318,22 @@ properties:
       properties:
         name:
           type: string
-        company:
-          type: string
-        logo:
-          type: string
-        link:
+        url:
           type: string
           format: uri
         time:
           type: string
   default_privacy:
     type: boolean
+  project_phase:
+    type: string
   project_status:
     type: object
     required:
       - live_status
       - testnet
       - mainnet
+      - version
     properties:
       live_status:
         type: boolean
