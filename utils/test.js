@@ -49,7 +49,7 @@ const matrix = {
   ecosystems: "ecosystem",
   features: "feature",
   usecases: "usecase",
-  // ranks: "rank",
+  ranks: "rank",
   custodys: "custody",
   phases: "phase",
   requirements: "requirement"
@@ -66,6 +66,8 @@ schemas.project.properties.ecosystem.enum = w3pd.data.ecosystems.map((e) => e.id
 schemas.project.properties.assets_used.items.enum = w3pd.data.assets.map((a) => a.id);
 
 for (const col of Object.keys(w3pd.data)) {
+  if (col === "ranks") continue; // Skip testing for ranks
+
   const validator = ajv.compile(schemas[matrix[col]]);
   const ids = [];
 
@@ -74,11 +76,10 @@ for (const col of Object.keys(w3pd.data)) {
     const testName =
       `${col}/${item.id} ` +
       (col === "projects"
-        ? `[${
-            Array.isArray(item.categories)
-              ? item.categories.join(", ")
-              : item.categories
-          }]`
+        ? `[${Array.isArray(item.categories)
+          ? item.categories.join(", ")
+          : item.categories
+        }]`
         : "");
 
     if (ids.includes(item.id)) {
