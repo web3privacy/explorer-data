@@ -2,6 +2,8 @@ id: lunardao
 name: LunarDAO
 categories:
   - applications
+  - social-and-communications
+  - infrastructure
 description: DAO fostering R&D and investments within Lunarpunk movement.
 links:
   web: https://lunardao.net
@@ -9,9 +11,9 @@ links:
   github: https://github.com/lunardao
   forum: https://forum.lunardao.net/
   docs: https://wiki.lunardao.net/
-  whitepaper: ""
+  whitepaper: https://github.com/lunardao/dao
   block_explorer: ""
-  governance: ""
+  governance: https://dao.lunardao.net
   twitter: https://x.com/lunarpunksquad
   discord: ""
   telegram: https://t.me/LunarDAO_Official
@@ -22,30 +24,29 @@ usecases:
   - research-and-development
   - infrastructure
 have_token: false
-third_party_dependency: false
+third_party_dependency: ""
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/lunardao/logo.png
-percentage: 17
+percentage: 22
 ecosystem:
   - ethereum
   - bitcoin
   - monero
   - other
-product_launch_day: 2023-01-01T00:00:00.000Z
-sunset: false
 assets_used: []
 tokens: []
 project_status:
-  live_status: false
-  mainnet: false
+  live_status: true
+  mainnet: true
   testnet: false
+  version: mainnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
+  asset_custody_type: non-custody
   encryption: ""
 storage: {}
 team:
@@ -53,3 +54,18 @@ team:
   teammembers: []
 funding: []
 history: []
+sunset: false
+project_phase: mainnet
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
