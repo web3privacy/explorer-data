@@ -1,14 +1,75 @@
 id: wiremin
 name: WireMin
 categories:
-- applications
-description: A decentralized social network.
+  - applications
+description: >-
+  WireMin is a decentralized social network dedicated to providing complete
+  freedom over your Web3 digital life.
+
+
+  Experience absolutely private and secure communication with end-to-end
+  encryption, free from censorship. Enjoy instant, fee-free, and
+  multi-chain-supported crypto transfers, ensuring your transactions remain
+  untraceable and anonymous.
 links:
   web: https://wiremin.org/#/
   blog: https://wiremin.org/#/blog
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/WireMin
-  facebook: https://www.facebook.com/WireMinApp/
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- dapps
+  - messaging
+  - dapps
 have_token: false
-third_party_dependency: false
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/wiremin/logo.png
+percentage: 1
+ecosystem:
+  - other
+sunset: false
+assets_used: []
+tokens: []
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://wiremin.org/#/terms&privacy
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Sophie K
+      link: https://x.com/k2_sophie
+funding: []
+history: []
