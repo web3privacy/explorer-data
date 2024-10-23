@@ -127,116 +127,116 @@ properties:
 
   # LINKS ---------------------------------------------------------------------
 links:
-    type: object
-    properties:
-      web:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      github:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      block_explorer:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      docs:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      forum:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      whitepaper:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      changelog:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      snapshot:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      blog:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      twitter:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      discord:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      facebook:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      telegram:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      lens:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      farcaster:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      rss_feed:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      education:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
-      governance:
-        oneOf:
-          - type: string
-            format: uri
-          - type: string
-            enum: [""]
+  type: object
+  properties:
+    web:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    github:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    block_explorer:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    docs:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    forum:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    whitepaper:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    changelog:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    snapshot:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    blog:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    twitter:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    discord:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    facebook:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    telegram:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    lens:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    farcaster:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    rss_feed:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    education:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
+    governance:
+      oneOf:
+        - type: string
+          format: uri
+        - type: string
+          enum: [""]
   logos:
     type: array
     items:
