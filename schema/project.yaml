@@ -10,7 +10,6 @@ properties:
     title: ID
     description: |
       Unique project identifier
-    pattern: "^[a-z0-9-]+$"
   #PROJECT DESCRIPTION -------------------------------------------------------------
   name:
     type: string
@@ -18,17 +17,14 @@ properties:
     type: array
     items:
       type: string
-      pattern: "^[a-z0-9-]+$"
   assets_used:
     type: array
     items:
       type: string
-      pattern: "^[A-Z0-9-]+$"
   ecosystem:
     type: array
     items:
       type: string
-      pattern: "^[a-z0-9-]+$"
   project_type:
     type: string
   description:
@@ -342,4 +338,3 @@ properties:
     type: array
     items:
       type: string
-      pattern: "^[a-z0-9-]+$"
