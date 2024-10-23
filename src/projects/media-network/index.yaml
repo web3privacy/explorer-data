@@ -1,31 +1,29 @@
 id: media-network
 name: Media Network
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- ethereum
-- solana
-- base
-- bnb
-- optimist
+  - ethereum
+  - solana
+  - other
 description: The Web3 replacement for AWS and Google Cloud
 team:
   anonymous: true
 links:
-  web: https://www.media.network/
-  github: https://github.com/mediafoundation
-  docs: https://docs.media.network/
-  blog: https://www.media.network/blog
-  twitter: https://x.com/Media_FDN
-  telegram: https://t.me/Media_FDN
-  discord: https://discord.com/invite/nyCS7ePWzf
+  web: 'https://www.media.network/'
+  github: 'https://github.com/mediafoundation'
+  docs: 'https://docs.media.network/'
+  blog: 'https://www.media.network/blog'
+  twitter: 'https://x.com/Media_FDN'
+  telegram: 'https://t.me/Media_FDN'
+  discord: 'https://discord.com/invite/nyCS7ePWzf'
 sunset: false
 tokens:
-- name: Media Token
-  symbol: $MEDIA
-  network: Ethereum
-  contract_address: '0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1'
-  token_link: https://etherscan.io/token/0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1
+  - name: Media Token
+    symbol: $MEDIA
+    network: Ethereum
+    contract_address: '0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1'
+    token_link: 'https://etherscan.io/token/0xC7F3ec6e0259ce1E2BEAbAc42e2f0478CA8D74e1'
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
@@ -36,7 +34,6 @@ default_privacy: true
 tracebility:
   kyc: false
 third_party_dependency: none
-
 usecases:
-- computing
+  - computing
 have_token: false

@@ -1,26 +1,27 @@
 id: mullvad-vpn
 name: Mullvad VPN
 categories:
-- applications
-description: One of the most privacy-focused VPN providers (check their Privacy Policy
-  and history)
+  - applications
+description: >-
+  One of the most privacy-focused VPN providers (check their Privacy Policy and
+  history)
 ecosystem:
-- no-chain
+  - other
 links:
-  web: https://mullvad.net/
-  github: https://github.com/mullvad
-  blog: https://mullvad.net/en/blog
-  twitter: https://www.x.com/mullvadnet
+  web: 'https://mullvad.net/'
+  github: 'https://github.com/mullvad'
+  blog: 'https://mullvad.net/en/blog'
+  twitter: 'https://www.x.com/mullvadnet'
 team:
   anonymous: false
   company:
-    link: https://mullvad.net/en/about
+    link: 'https://mullvad.net/en/about'
 project_status:
   live_status: true
   version: '2024.3'
   testnet: false
   mainnet: false
 usecases:
-- vpn
+  - vpn
 have_token: false
 third_party_dependency: none

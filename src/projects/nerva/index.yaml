@@ -1,26 +1,26 @@
 id: nerva
 name: Nerva
 categories:
-- defi
+  - defi
 description: Private and secure cryptocurrency
 ecosystem:
-- nerva
+  - other
 links:
-  web: https://nerva.one/
-  docs: https://docs.nerva.one/
-  github: https://github.com/nerva-project/nerva
-  block_explorer: https://explorer.nerva.one/
-  blog: https://nerva.one/#blog
-  twitter: https://twitter.com/NervaCurrency
-  discord: https://discord.gg/ufysfvcFwe
-  telegram: https://t.me/NervaCrypto
+  web: 'https://nerva.one/'
+  docs: 'https://docs.nerva.one/'
+  github: 'https://github.com/nerva-project/nerva'
+  block_explorer: 'https://explorer.nerva.one/'
+  blog: 'https://nerva.one/#blog'
+  twitter: 'https://twitter.com/NervaCurrency'
+  discord: 'https://discord.gg/ufysfvcFwe'
+  telegram: 'https://t.me/NervaCrypto'
 team:
   anonymous: true
 technology:
   type: Monero
   features:
-  - Bulletproofs
-  - Ring signatures
+    - Bulletproofs
+    - Ring signatures
 blockchain_features:
   p2p: true
   encryption: Cryptonight
@@ -40,6 +40,6 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none

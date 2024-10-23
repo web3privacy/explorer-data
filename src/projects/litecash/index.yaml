@@ -1,20 +1,22 @@
 id: litecash
 name: Litecash
 categories:
-- defi
-description: The first fork of Beam. We removed the founders reward and are 100% community-funded
+  - defi
+description: >-
+  The first fork of Beam. We removed the founders reward and are 100%
+  community-funded
 ecosystem:
-- mimblewimble
+  - other
 links:
-  web: https://lite-cash.com
-  github: https://github.com/Litecash-Dev
-  whitepaper: https://lite-cash.com/LitecashWhitepaper.pdf
-  twitter: https://x.com/LitecashPR
-  discord: https://discord.com/invite/kga9sgg
-  telegram: https://t.me/litecashgroup
+  web: 'https://lite-cash.com'
+  github: 'https://github.com/Litecash-Dev'
+  whitepaper: 'https://lite-cash.com/LitecashWhitepaper.pdf'
+  twitter: 'https://x.com/LitecashPR'
+  discord: 'https://discord.com/invite/kga9sgg'
+  telegram: 'https://t.me/litecashgroup'
 team:
   anonymous: true
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none

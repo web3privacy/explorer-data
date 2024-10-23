@@ -1,69 +1,58 @@
 name: vlayer
-categories: [ infrastructure ]
-ecosystem: [ Ethereum ]
-usecases: [ data ]
-description: 'Trustless verifiable data infrastructure powered by zero-knowledge proofs'
-product_launch_day: "2024"
-
+categories:
+  - infrastructure
+ecosystem:
+  - other
+usecases:
+  - data
+description: Trustless verifiable data infrastructure powered by zero-knowledge proofs
+product_launch_day: '2024'
 team:
   anonymous: false
   teammembers:
     - name: Hubert Rachwalski von Rejchwald
-      link: https://x.com/HubertRvR_PL
+      link: 'https://x.com/HubertRvR_PL'
     - name: Marek Kirejczyk
-      link: https://x.com/zkMarek
+      link: 'https://x.com/zkMarek'
     - name: Namita Shenolikar
-      link: https://x.com/nam1ta
+      link: 'https://x.com/nam1ta'
     - name: Iweta Laskowska
-      link: https://x.com/iweta_web3
+      link: 'https://x.com/iweta_web3'
     - name: Natalia Kirejczyk
-      link: https://www.linkedin.com/in/nkirejczyk/
+      link: 'https://www.linkedin.com/in/nkirejczyk/'
     - name: Leonid Logvinov
-      link: https://x.com/logvinov_leon  
+      link: 'https://x.com/logvinov_leon'
     - name: Piotr Żelazko
-      link: https://x.com/pzelazko_eth
+      link: 'https://x.com/pzelazko_eth'
     - name: Artur Chmaro
-      link: https://x.com/ArtiChmaro
+      link: 'https://x.com/ArtiChmaro'
     - name: Natalia Kirejczyk
-      link: https://www.linkedin.com/in/nkirejczyk/               
-
+      link: 'https://www.linkedin.com/in/nkirejczyk/'
 links:
-  web: https://www.vlayer.xyz/
-  github: https://github.com/vlayer-xyz  
-  blog: https://www.vlayer.xyz/blog 
-  twitter: https://www.vlayer.xyz/blog 
-  discord: https://discord.com/invite/dRFRhgRH9P
-
+  web: 'https://www.vlayer.xyz/'
+  github: 'https://github.com/vlayer-xyz'
+  blog: 'https://www.vlayer.xyz/blog'
+  twitter: 'https://www.vlayer.xyz/blog'
+  discord: 'https://discord.com/invite/dRFRhgRH9P'
 project_phase: testnet
-
 project_status:
   live_status: true
   version: testnet
   testnet: true
   mainnet: false
-
 sunset: false
-
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
   upgradability:
     enabled: true
-
 privacy_policy:
   defined: false
-
 default_privacy: true
-
 traceability:
   kyc: false
 third_party_dependency: none
-
-
-
 storage:
   decentralized: true
-
 tecnology:
- type: zk proof  
-  
+  type: zk proof

@@ -1,23 +1,23 @@
 id: firo
 name: Firo
 categories:
-- defi
+  - defi
 description: A privacy-preserving cryptocurrency and ecosystem
 ecosystem:
-- firo
+  - other
 links:
-  web: https://firo.org
-  github: https://github.com/firoorg/firo
-  block_explorer: https://explorer.firo.org/
-  forum: https://forum.firo.org/
-  blog: https://firo.org/blog/
-  twitter: https://x.com/firoorg
-  discord: https://discord.com/invite/TGZPRbRT3Y
-  facebook: https://www.facebook.com/firoorg/
-  telegram: https://t.me/firoorg
+  web: 'https://firo.org'
+  github: 'https://github.com/firoorg/firo'
+  block_explorer: 'https://explorer.firo.org/'
+  forum: 'https://forum.firo.org/'
+  blog: 'https://firo.org/blog/'
+  twitter: 'https://x.com/firoorg'
+  discord: 'https://discord.com/invite/TGZPRbRT3Y'
+  facebook: 'https://www.facebook.com/firoorg/'
+  telegram: 'https://t.me/firoorg'
 team:
   anonymous: false
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none

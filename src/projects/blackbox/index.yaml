@@ -1,9 +1,9 @@
 id: blackbox
 name: Blackbox
 categories:
-- defi
+  - defi
 ecosystem:
-- secret
+  - other
 description: Collection of tools allowing you send & receive SCRT anonymously
 project_type: DeFi
 product_launch_day: '2021-15-02'
@@ -11,14 +11,14 @@ technology:
   type: TEE
   name: Trusted execution environment
   features:
-  - Privacy
-  - Payments
+    - Privacy
+    - Payments
 links:
-  web: https://blackbox.cash/
-  twitter: https://twitter.com/TriviumNode
-  telegram: https://t.me/TriviumNode
-  block_explorer: https://www.mintscan.io/secret
-  github: https://github.com/TriviumNode
+  web: 'https://blackbox.cash/'
+  twitter: 'https://twitter.com/TriviumNode'
+  telegram: 'https://t.me/TriviumNode'
+  block_explorer: 'https://www.mintscan.io/secret'
+  github: 'https://github.com/TriviumNode'
 blockchain_features:
   p2p: false
   encryption: TEE
@@ -40,27 +40,26 @@ team:
   anonymous: false
   company:
     name: Trivium Nodes
-    link: https://trivium.network/
+    link: 'https://trivium.network/'
     contacts: info@trivium.network
   teammembers:
-  - name: Xiphiar
-    role: rdeveloper
-    link: https://github.com/Xiphiar
+    - name: Xiphiar
+      role: rdeveloper
+      link: 'https://github.com/Xiphiar'
 storage:
   decentralized: true
 tracebility:
   kyc: false
-  sign_in_type_requirments: 
+  sign_in_type_requirments:
     - wallet
-third_party_dependency: yes
-
-social_trust: Slabs ( MRSINGER ), Contract operator ( Trivium )
+third_party_dependency: 'yes'
+social_trust: 'Slabs ( MRSINGER ), Contract operator ( Trivium )'
 technical_spof: Can decrypt/fraud
 client_diversability:
-- name: Keplr
-  link: https://www.keplr.app/
-- name: Starshell
-  link: https://starshell.net/
+  - name: Keplr
+    link: 'https://www.keplr.app/'
+  - name: Starshell
+    link: 'https://starshell.net/'
 default_privacy: true
 project_status:
   live_status: true
@@ -68,5 +67,5 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- defi
+  - defi
 have_token: false

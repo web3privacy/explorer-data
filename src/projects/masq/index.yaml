@@ -1,39 +1,40 @@
 id: masq
 name: MASQ
 categories:
-- infrastructure
-- applications
+  - infrastructure
+  - applications
 logos:
-- file: MASQ-token-v2.png
-  ext: png
-  url: MASQ-token-v2.png
+  - file: MASQ-token-v2.png
+    ext: png
+    url: MASQ-token-v2.png
 ecosystem:
-- ethereum
-- polygon
+  - ethereum
+  - other
 project_type: Decentralized privacy network protocol
-description: a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem
+description: >-
+  a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem
   that makes living in Web3 anonymous and private
 product_launch_day: '2019-10-20'
 team:
   anonymous: true
 links:
-  web: https://www.masqbrowser.com/
-  github: https://github.com/MASQ-Project
-  docs: https://docs.masq.ai/masq
-  blog: https://www.masqbrowser.com/blog
-  twitter: https://twitter.com/MASQ_ai
-  changelog: https://masq-network.canny.io/changelog
-  telegram: https://t.me/MASQ_ai
-  discord: https://discord.gg/masq
-  youtube: http://www.youtube.com/@MASQNetwork
-  education: https://docs.masq.ai/masq/getting-started/faqs
+  web: 'https://www.masqbrowser.com/'
+  github: 'https://github.com/MASQ-Project'
+  docs: 'https://docs.masq.ai/masq'
+  blog: 'https://www.masqbrowser.com/blog'
+  twitter: 'https://twitter.com/MASQ_ai'
+  changelog: 'https://masq-network.canny.io/changelog'
+  telegram: 'https://t.me/MASQ_ai'
+  discord: 'https://discord.gg/masq'
+  youtube: 'http://www.youtube.com/@MASQNetwork'
+  education: 'https://docs.masq.ai/masq/getting-started/faqs'
 technology:
   type: P2P networking
   name: dMeshVPN
   features:
-  - private
-  - encrypted
-  - incentivized
+    - private
+    - encrypted
+    - incentivized
 blockchain_features:
   opensource: true
   p2p: true
@@ -46,7 +47,8 @@ project_status:
 licences: GPLv3 License
 privacy_policy:
   defined: true
-  link: https://www.notion.so/MASQ-Network-Privacy-Practices-a58209dd0089404b80474da924015c03?pvs=4
+  link: >-
+    https://www.notion.so/MASQ-Network-Privacy-Practices-a58209dd0089404b80474da924015c03?pvs=4
   data_usage: Not Using
 default_privacy: true
 storage:
@@ -54,7 +56,7 @@ storage:
 third_party_dependency: none
 social_trust: Team Multisigs & Dune analytics
 usecases:
-- infrastructure
-- vpn
-- browser
+  - infrastructure
+  - vpn
+  - browser
 have_token: false

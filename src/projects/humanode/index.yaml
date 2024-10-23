@@ -1,38 +1,37 @@
 id: humanode
 name: Humanode
 categories:
-- applications
+  - applications
 ecosystem:
-- polkadot
-description: 1 Human = 1 Node = 1 Vote .Cryptobiometric Sybil-resistant layer for
-  the web
+  - other
+description: 1 Human = 1 Node = 1 Vote .Cryptobiometric Sybil-resistant layer for the web
 team:
   anonymous: false
   teammembers:
-  - name: Dato Kavazi
-    link: https://x.com/DatoKavazi
-  - name: Sasha Shilina
-    link: https://x.com/sshshln
-  - name: Andrei Kraciun
-    link: https://x.com/andreikraciun
-  - name: Victor
-    link: https://x.com/tech_mingler
+    - name: Dato Kavazi
+      link: 'https://x.com/DatoKavazi'
+    - name: Sasha Shilina
+      link: 'https://x.com/sshshln'
+    - name: Andrei Kraciun
+      link: 'https://x.com/andreikraciun'
+    - name: Victor
+      link: 'https://x.com/tech_mingler'
 links:
-  web: https://humanode.io/
-  github: https://github.com/humanode-network
-  whitepaper: https://papers.humanode.io/whitepaper.pdf
-  docs: https://gitbook.humanode.io/docs
-  block_explorer: https://humanode.subscan.io/
-  blog: https://blog.humanode.io/
-  twitter: https://x.com/humanode_io
-  telegram: https://t.me/humanode
-  discord: https://discord.com/invite/8my5gbgptx
+  web: 'https://humanode.io/'
+  github: 'https://github.com/humanode-network'
+  whitepaper: 'https://papers.humanode.io/whitepaper.pdf'
+  docs: 'https://gitbook.humanode.io/docs'
+  block_explorer: 'https://humanode.subscan.io/'
+  blog: 'https://blog.humanode.io/'
+  twitter: 'https://x.com/humanode_io'
+  telegram: 'https://t.me/humanode'
+  discord: 'https://discord.com/invite/8my5gbgptx'
 sunset: false
 tokens:
-- name: Humanode Token
-  symbol: $HMND
-  network: Humanodechain
-  token_link: https://coinmarketcap.com/currencies/humanode/
+  - name: Humanode Token
+    symbol: $HMND
+    network: Humanodechain
+    token_link: 'https://coinmarketcap.com/currencies/humanode/'
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
@@ -43,11 +42,10 @@ default_privacy: true
 tracebility:
   kyc: false
 third_party_dependency: none
-
 audits:
-- name: Certik
-  link: https://skynet.certik.com/projects/humanode
-  time: '2023-01-30'
+  - name: Certik
+    link: 'https://skynet.certik.com/projects/humanode'
+    time: '2023-01-30'
 usecases:
-- did
+  - did
 have_token: false

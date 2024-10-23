@@ -4,22 +4,22 @@ categories:
   - infrastructure
 description: Privacy-Enhanced Permissionless Computing Protocol.
 ecosystem:
-  - kusama
+  - other
   - other
 links:
-  web: https://www.phala.network/en/
-  blog: https://phala.network/blog
-  github: https://github.com/Phala-Network
-  forum: https://forum.phala.network/
-  docs: https://docs.phala.network/
-  whitepaper: https://www.phala.network/pdf/phala-paper.pdf
-  block_explorer: ""
-  governance: ""
-  twitter: https://x.com/PhalaNetwork
-  discord: https://discord.com/invite/phala-network
-  telegram: https://t.me/phalanetwork
-  lens: ""
-  farcaster: ""
+  web: 'https://www.phala.network/en/'
+  blog: 'https://phala.network/blog'
+  github: 'https://github.com/Phala-Network'
+  forum: 'https://forum.phala.network/'
+  docs: 'https://docs.phala.network/'
+  whitepaper: 'https://www.phala.network/pdf/phala-paper.pdf'
+  block_explorer: ''
+  governance: ''
+  twitter: 'https://x.com/PhalaNetwork'
+  discord: 'https://discord.com/invite/phala-network'
+  telegram: 'https://t.me/phalanetwork'
+  lens: ''
+  farcaster: ''
 team:
   anonymous: false
   teammembers: []
@@ -28,19 +28,20 @@ usecases:
   - defi
   - ai
 have_token: true
-third_party_dependency: ""
+third_party_dependency: ''
 logos:
   - file: logo.png
     ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/phala-network/logo.png
+    url: >-
+      https://explorer-data.web3privacy.info/assets/projects/phala-network/logo.png
 sunset: false
 assets_used:
   - dot
 tokens:
   - symbol: Pha
     name: Phala
-    contract_address: "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E"
-    token_link: https://app.phala.network/phala
+    contract_address: '0x6c5bA91642F10282b576d91922Ae6448C9d52f4E'
+    token_link: 'https://app.phala.network/phala'
 project_phase: mainnet
 project_status:
   live_status: true
@@ -51,21 +52,21 @@ blockchain_features:
   opensource: false
   upgradability:
     enabled: false
-  asset_custody_type: ""
-  encryption: ""
+  asset_custody_type: ''
+  encryption: ''
 storage: {}
 privacy_policy:
   defined: false
-  link: ""
-  data_usage: ""
-compliance: ""
+  link: ''
+  data_usage: ''
+compliance: ''
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: ''
   sign_in_type_requirments: []
 default_privacy: false
 audits: []
-social_trust: ""
-technical_spof: ""
+social_trust: ''
+technical_spof: ''
 funding: []
 history: []

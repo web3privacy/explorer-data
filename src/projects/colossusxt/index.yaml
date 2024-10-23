@@ -1,29 +1,30 @@
 id: colossusxt
 name: ColossusXT
 categories:
-- defi
-description: A community-orientated, energy efficient coin with a strong focus on
+  - defi
+description: >-
+  A community-orientated, energy efficient coin with a strong focus on
   decentralization, privacy, and real-world implementation
 ecosystem:
-- colossusxt
+  - other
 project_status:
   live_status: true
   version: Mainnet
   testnet: true
   mainnet: true
 links:
-  web: https://www.colossusxt.io
-  github: https://github.com/ColossusCoinXT
-  block_explorer: https://chainz.cryptoid.info/colx/
-  whitepaper: https://www.colossusxt.io/whitepaper/
-  forum: https://forum.colossusxt.io/
-  blog: https://colossusxt.medium.com/
-  twitter: https://x.com/ColossusCoinXT
-  discord: https://discord.com/invite/pRbDzPd
-  telegram: https://t.me/colossuscoin
+  web: 'https://www.colossusxt.io'
+  github: 'https://github.com/ColossusCoinXT'
+  block_explorer: 'https://chainz.cryptoid.info/colx/'
+  whitepaper: 'https://www.colossusxt.io/whitepaper/'
+  forum: 'https://forum.colossusxt.io/'
+  blog: 'https://colossusxt.medium.com/'
+  twitter: 'https://x.com/ColossusCoinXT'
+  discord: 'https://discord.com/invite/pRbDzPd'
+  telegram: 'https://t.me/colossuscoin'
 team:
   anonymous: false
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none

@@ -5,23 +5,22 @@ categories:
 description: DeFi privacy wallet
 ecosystem:
   - ethereum
-  - bnb
-  - polygon
+  - other
   - other
 links:
-  web: https://railway.xyz/
-  blog: ""
-  github: https://github.com/Railway-Wallet/Railway-Wallet/
-  forum: ""
-  docs: https://help.railway.xyz/
-  whitepaper: ""
-  block_explorer: ""
-  governance: ""
-  twitter: https://twitter.com/Railway_xyz
-  discord: ""
-  telegram: https://t.me/railwaywallet
-  lens: ""
-  farcaster: ""
+  web: 'https://railway.xyz/'
+  blog: ''
+  github: 'https://github.com/Railway-Wallet/Railway-Wallet/'
+  forum: ''
+  docs: 'https://help.railway.xyz/'
+  whitepaper: ''
+  block_explorer: ''
+  governance: ''
+  twitter: 'https://twitter.com/Railway_xyz'
+  discord: ''
+  telegram: 'https://t.me/railwaywallet'
+  lens: ''
+  farcaster: ''
 team:
   anonymous: true
   teammembers: []
@@ -33,11 +32,11 @@ project_status:
 usecases:
   - wallets
 have_token: false
-third_party_dependency: ""
+third_party_dependency: ''
 logos:
   - file: logo.png
     ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/railway/logo.png
+    url: 'https://explorer-data.web3privacy.info/assets/projects/railway/logo.png'
 sunset: false
 assets_used: []
 tokens: []
@@ -53,17 +52,17 @@ storage:
   decentralized: true
 privacy_policy:
   defined: true
-  link: https://www.railway.xyz/privacy-policy
-  data_usage: ""
-compliance: ""
+  link: 'https://www.railway.xyz/privacy-policy'
+  data_usage: ''
+compliance: ''
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: ''
   sign_in_type_requirments:
     - wallet
 default_privacy: true
 audits: []
-social_trust: ""
-technical_spof: ""
+social_trust: ''
+technical_spof: ''
 funding: []
 history: []

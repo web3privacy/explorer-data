@@ -1,16 +1,16 @@
 id: polygon-nightfall
 name: Polygon Miden
 categories:
-- infrastructure
+  - infrastructure
 description: a zero-knowledge rollup for high-throughput and private applications
 ecosystem:
-- polygon
+  - other
 links:
-  web: https://polygon.technology/polygon-miden
-  docs: https://0xpolygonmiden.github.io/miden-base/introduction.html
-  github: https://github.com/0xPolygonMiden
-  blog: https://polygon.technology/blog-tags/polygon-miden
-  twitter: https://twitter.com/0xPolygon
+  web: 'https://polygon.technology/polygon-miden'
+  docs: 'https://0xpolygonmiden.github.io/miden-base/introduction.html'
+  github: 'https://github.com/0xPolygonMiden'
+  blog: 'https://polygon.technology/blog-tags/polygon-miden'
+  twitter: 'https://twitter.com/0xPolygon'
 team:
   anonymous: false
 project_status:
@@ -19,6 +19,6 @@ project_status:
   testnet: true
   mainnet: false
 usecases:
-- eth-layer-2
+  - eth-layer-2
 have_token: false
 third_party_dependency: none

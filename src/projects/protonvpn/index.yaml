@@ -1,18 +1,18 @@
 id: protonvpn
 name: ProtonVPN
 categories:
-- applications
+  - applications
 description: Swiss VPN provider with encrypted email and online storage
 ecosystem:
-- no-chain
+  - other
 links:
-  web: https://protonvpn.com/
-  github: https://github.com/ProtonVPN
-  blog: https://protonvpn.com/blog
+  web: 'https://protonvpn.com/'
+  github: 'https://github.com/ProtonVPN'
+  blog: 'https://protonvpn.com/blog'
 team:
   anonymous: false
   company:
-    link: https://protonvpn.com/about
+    link: 'https://protonvpn.com/about'
 have_token: false
 project_status:
   live_status: true
@@ -20,5 +20,5 @@ project_status:
   testnet: false
   mainnet: false
 usecases:
-- vpn
+  - vpn
 third_party_dependency: none

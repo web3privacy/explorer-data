@@ -1,22 +1,23 @@
 id: epic-cash
 name: Epic Cash
 categories:
-- defi
-description: Decentralized privacy-enhanced cryptocurrency developed by a growing
-  volunteer community
+  - defi
+description: >-
+  Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer
+  community
 ecosystem:
-- mimblewimble
+  - other
 links:
-  web: https://epiccash.com/
-  github: https://github.com/orgs/EpicCash/repositories
-  block_explorer: https://explorer.epiccash.com/
-  whitepaper: https://epiccash.com/wp-content/uploads/2024/02/Epic-Cash-v7.1b.pdf
-  twitter: https://x.com/EpicCashTech
-  facebook: https://www.facebook.com/EpicCashTech/
-  telegram: https://t.me/epiccash/
+  web: 'https://epiccash.com/'
+  github: 'https://github.com/orgs/EpicCash/repositories'
+  block_explorer: 'https://explorer.epiccash.com/'
+  whitepaper: 'https://epiccash.com/wp-content/uploads/2024/02/Epic-Cash-v7.1b.pdf'
+  twitter: 'https://x.com/EpicCashTech'
+  facebook: 'https://www.facebook.com/EpicCashTech/'
+  telegram: 'https://t.me/epiccash/'
 team:
   anonymous: true
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none

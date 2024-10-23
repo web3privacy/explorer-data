@@ -1,25 +1,25 @@
 id: x-cash
 name: x-cash
 categories:
-- defi
-description: "Web3\u2019s Private Public Computing Platform"
+  - defi
+description: Web3’s Private Public Computing Platform
 ecosystem:
-- xcash
+  - other
 project_status:
   version: Mainnet
   live_status: true
   mainnet: true
   testnet: false
 links:
-  web: https://xcash.tech
-  github: https://github.com/X-CASH-official
-  blog: https://medium.com/x-cash
-  twitter: https://x.com/XCashCrypto
-  youtube: https://www.youtube.com/@x-cashcommunity1764
-  discord: https://discord.com/invite/4CAahnd
+  web: 'https://xcash.tech'
+  github: 'https://github.com/X-CASH-official'
+  blog: 'https://medium.com/x-cash'
+  twitter: 'https://x.com/XCashCrypto'
+  youtube: 'https://www.youtube.com/@x-cashcommunity1764'
+  discord: 'https://discord.com/invite/4CAahnd'
 team:
   anonymous: false
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none
