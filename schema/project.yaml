@@ -32,7 +32,7 @@ properties:
   product_readiness:
     type: string
   product_launch_day:
-    type: string
+    type: [string, date]
   have_token:
     type: boolean
 
@@ -324,7 +324,6 @@ properties:
       - live_status
       - testnet
       - mainnet
-      - version
     properties:
       live_status:
         type: boolean
