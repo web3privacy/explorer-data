@@ -55,7 +55,7 @@ traceability:
   sign_in_type_requirments: 
     - wallet or Email
 third_party_dependency: none
-compliance: false
+compliance: ""
 
 storage:
   decentralized: true
