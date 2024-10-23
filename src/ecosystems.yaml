@@ -15,3 +15,5 @@
   icon: https://assets.coingecko.com/coins/images/69/standard/monero_logo.png?1696501460
 - id: other
   name: Other
+- id: multichain
+  name: Multichain
