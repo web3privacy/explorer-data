@@ -3,10 +3,6 @@ additionalProperties: false
 required:
   - id
   - name
-  - categories
-  - usecases
-  - ecosystem
-  - description
 
 properties:
   id:
