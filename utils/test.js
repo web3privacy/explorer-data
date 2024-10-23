@@ -47,7 +47,6 @@ const matrix = {
   projects: "project",
   assets: "asset",
   ecosystems: "ecosystem",
-  features: "feature",
   usecases: "usecase",
   ranks: "rank",
   custodys: "custody",
