@@ -32,7 +32,9 @@ properties:
   product_readiness:
     type: string
   product_launch_day:
-    type: [string, date]
+    anyOf:
+      - type: string
+      - type: date
   have_token:
     type: boolean
 
