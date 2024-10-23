@@ -50,7 +50,8 @@ storage:
   decentralized: true
 tracebility:
   kyc: false
-  sign_in_type_requirments: wallet
+  sign_in_type_requirments: 
+    - wallet
 third_party_dependency: yes
 
 social_trust: Slabs ( MRSINGER ), Contract operator ( Trivium )

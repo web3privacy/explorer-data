@@ -50,7 +50,8 @@ storage:
 tracebility:
   tracked_dat: non
   kyc: false
-  sign_in_type_requirments: wallet
+  sign_in_type_requirments: 
+    - wallet
 third_party_dependency: none
 audits:
   - name: BlockSec

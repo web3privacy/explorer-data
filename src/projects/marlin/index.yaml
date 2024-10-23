@@ -32,7 +32,8 @@ blockchain_features:
   opensource: true
 tracebility:
   kyc: false
-  sign_in_type_requirments: wallet
+  sign_in_type_requirments: 
+    - wallet
 default_privacy: true
 storage:
   decentralized: true

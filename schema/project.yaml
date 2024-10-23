@@ -88,21 +88,23 @@ properties:
               type: string
             link:
               type: string
-              format: uri
+              # format: uri
   funding:
-    type: object
-    properties:
-      name:
-        type: string
-      type:
-        type: string
-      link:
-        type: string
-        format: uri
-      value:
-        type: string
-      time:
-        type: string
+    type: array
+    items:
+      type: object
+      properties:
+        name:
+          type: string
+        type:
+          type: string
+        link:
+          type: string
+          # format: uri
+        value:
+          type: string
+        time:
+          type: string
   history:
     type: array
     items:
@@ -118,7 +120,7 @@ properties:
           type: string
         link:
           type: string
-          format: uri
+          # format: uri
 
   sunset:
     type: boolean
@@ -209,9 +211,6 @@ properties:
           type: string
   blockchain_features:
     type: object
-    required:
-      - opensource
-      - p2p
     properties:
       encryption:
         type: string
@@ -226,7 +225,7 @@ properties:
             type: string
           link:
             type: string
-            format: uri
+            # format: uri
       p2p:
         type: boolean
       data_masking:
@@ -276,7 +275,7 @@ properties:
         type: boolean
       link:
         type: string
-        format: uri
+        # format: uri
       data_usage:
         type: string
   tracebility:
@@ -316,7 +315,7 @@ properties:
           type: string
         url:
           type: string
-          format: uri
+          # format: uri
         time:
           type: string
   default_privacy:

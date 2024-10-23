@@ -52,7 +52,8 @@ default_privacy: true
 
 traceability:
   kyc: false
-  sign_in_type_requirments: wallet or Email
+  sign_in_type_requirments: 
+    - wallet or Email
 third_party_dependency: none
 compliance: false
 

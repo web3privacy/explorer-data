@@ -59,7 +59,8 @@ storage:
 tracebility:
   kyc: false
   tracked_data: user SCRT adress
-  sign_in_type_requirments: wallet
+  sign_in_type_requirments: 
+    - wallet
 third_party_dependency: none
 compliance: No
 social_trust: Slabs ( MRSINGER )

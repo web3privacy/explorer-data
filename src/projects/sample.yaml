@@ -91,7 +91,8 @@ privacy_policy:
 
 traceability:
   tracked_data: user SCRT adress
-  sign_in_type_requirments: EVM wallet
+  sign_in_type_requirments: 
+    - EVM wallet
 
 storage:
   decentralized: true
