@@ -11,6 +11,16 @@ await w3pd.init();
 const ajv = new Ajv({ strict: false, allErrors: true });
 addFormats(ajv);
 
+
+// Custom format for date-time for validation to work
+ajv.addFormat('custom-date-time', function (dateTimeString) {
+  if (typeof dateTimeString === 'object') {
+    dateTimeString = dateTimeString.toISOString();
+  }
+
+  return !isNaN(Date.parse(dateTimeString));
+});
+
 async function loadSchemas() {
   const out = {};
   for await (const f of Deno.readDir(schemaDir)) {
@@ -20,36 +30,38 @@ async function loadSchemas() {
   return out;
 }
 
-function getDeepPropertiesKeys(obj, parentKey = '') {
-  let keys = [];
+// function getDeepPropertiesKeys(obj, parentKey = '') {
+//   let keys = [];
 
-  if (obj.hasOwnProperty('properties')) {
-    const properties = obj['properties'];
+//   if (obj.hasOwnProperty('properties')) {
+//     const properties = obj['properties'];
 
-    for (const key in properties) {
-      if (properties.hasOwnProperty(key)) {
-        const newKey = parentKey ? `${parentKey}.${key}` : key;
+//     for (const key in properties) {
+//       if (properties.hasOwnProperty(key)) {
+//         const newKey = parentKey ? `${parentKey}.${key}` : key;
 
-        if (properties[key].hasOwnProperty('properties')) {
-          keys = keys.concat(getDeepPropertiesKeys(properties[key], newKey));
-        } else {
-          keys.push(newKey);
-        }
-      }
-    }
-  }
+//         if (properties[key].hasOwnProperty('properties')) {
+//           keys = keys.concat(getDeepPropertiesKeys(properties[key], newKey));
+//         } else {
+//           keys.push(newKey);
+//         }
+//       }
+//     }
+//   }
 
-  return keys;
-}
+//   return keys;
+// }
 
 const matrix = {
   categories: "category",
   projects: "project",
   assets: "asset",
   ecosystems: "ecosystem",
+  // features schema is currently used only for filtering at the explorer
   // features: "feature",
   usecases: "usecase",
-  ranks: "rank",
+  // ranks are not save in the project data
+  // ranks: "rank",
   custodys: "custody",
   phases: "phase",
   requirements: "requirement"
@@ -58,7 +70,8 @@ const matrix = {
 const schemaDir = "./schema";
 const schemas = await loadSchemas();
 
-schemas.rank.properties.references.items.properties.field.enum = getDeepPropertiesKeys(schemas.project);
+
+// schemas.rank.properties.references.items.properties.field.enum = getDeepPropertiesKeys(schemas.project);
 schemas.project.properties.categories.items.enum = w3pd.data.categories.map((c) => c.id);
 schemas.project.properties.usecases.items.enum = w3pd.data.usecases.map((c) => c.id);
 // schemas.project.properties.technology.properties.features.items.enum = w3pd.data.features.map((f) => f.id);
@@ -67,6 +80,7 @@ schemas.project.properties.assets_used.items.enum = w3pd.data.assets.map((a) => 
 
 for (const col of Object.keys(w3pd.data)) {
   if (col === "ranks" || col === "features") continue; // Skip testing for ranks and features
+
 
   const validator = ajv.compile(schemas[matrix[col]]);
   const ids = [];

@@ -68,7 +68,7 @@ privacy_policy:
 
 default_privacy: True
 
-traceability:
+tracebility:
   kyc: false
 
 compliance: OFAC, USA
@@ -90,7 +90,7 @@ history:
 privacy_policy:
   data_usage: tools you are making TXs on
 
-traceability:
+tracebility:
   tracked_data: user SCRT adress
   sign_in_type_requirments: 
     - EVM wallet

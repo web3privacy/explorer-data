@@ -49,10 +49,10 @@ blockchain_features:
 privacy_policy:
   defined: false
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
 third_party_dependency: none
 storage:
   decentralized: true
-tecnology:
+technology:
   type: zk proof

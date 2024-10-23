@@ -47,7 +47,7 @@ privacy_policy:
   defined: true
   link: 'https://www.shutter.network/privacy-policy'
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments:
     - wallet or Email
@@ -55,5 +55,5 @@ third_party_dependency: none
 compliance: ''
 storage:
   decentralized: true
-tecnology:
+technology:
   type: encrypted mempool

@@ -42,7 +42,7 @@ privacy_policy:
   defined: true
   link: 'https://payy.link/privacy'
 default_privacy: true
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments:
     - wallet
@@ -57,5 +57,5 @@ audits:
     time: 2024-09-24T00:00:00.000Z
 assets_used:
   - USDC
-tecnology:
+technology:
   type: 'Zk proof, HyperPlonk, KZG'
