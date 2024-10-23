@@ -1,28 +1,102 @@
 id: iexec
 name: iExec
 categories:
-- applications
-description: Build, Own, and Monetize in Web3. Privacy & Choice for users
+  - applications
+description: >+
+  iExec is a Web3 platform for developers to build decentralized applications
+  that empower users with control over their data ownership, privacy, and
+  monetization.
+
+
+
+  Building with iExec means offering users applications where privacy comes
+  first. Users control what data they share and how they use their digital
+  assets, with the ability to securely monetize them through iExec's native RLC
+  tokens.
+
+
+
+  iExec developer tools make it seamless to integrate features like encrypted
+  data management with DataProtector, privacy-preserving communication with
+  Web3Mail, and real-world data integration using Oracle Factory. The iExec
+  protocol leverages Trusted Execution Environments (TEEs) to encrypt and
+  protect data in use, ensuring sensitive information is processed securely.
+  Blockchain acts as a governance layer, verifying the integrity of the data and
+  its processing. This powerful combination ensures that no unauthorized party
+  can access or tamper with data during execution, offering a robust solution
+  for privacy-focused applications. With iExec, developers can create dApps that
+  offer strong security, user-centric monetization, and true digital ownership
+  through NFTs.
+
 team:
   anonymous: false
+  teammembers: []
 links:
   web: https://iex.ec/
-  block_exporer: https://explorer.iex.ec/bellecour
-  docs: https://docs.iex.ec/
-  github: https://github.com/iExecBlockchainComputing
   blog: https://medium.com/iex-ec
+  github: https://github.com/iExecBlockchainComputing
+  forum: ""
+  docs: https://docs.iex.ec/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/iEx_ec
-  discord: https://discord.com/invite/pbt9m98wnU
-  facebook: https://www.facebook.com/iexecteam
+  discord: https://discord.gg/pbt9m98wnU
   telegram: https://discord.com/invite/pbt9m98wnU
-have_token: false
+  lens: ""
+  farcaster: https://warpcast.com/iexec
+have_token: true
 token_link: https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375
 tokens:
-- name: RLC
-  symbol: RLC
-  network: Ethereum
-  contract_address: '0x607F4C5BB672230e8672085532f7e901544a7375'
+  - name: RLC
+    symbol: RLC
+    network: Ethereum
+    contract_address: "0x607F4C5BB672230e8672085532f7e901544a7375"
+  - symbol: RLC
+    name: iExec RLC
+    contract_address: "0x607f4c5bb672230e8672085532f7e901544a7375"
+    token_link: https://etherscan.io/address/0x607f4c5bb672230e8672085532f7e901544a7375
 sunset: false
 usecases:
-- infrastructure
-third_party_dependency: false
+  - infrastructure
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/iexec/logo.png
+ecosystem:
+  - ethereum
+assets_used: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: "TEEs "
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history:
+  - title: ""
+    description: ""
+    link: ""
+    time: ""
