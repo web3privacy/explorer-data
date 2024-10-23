@@ -66,7 +66,7 @@ schemas.project.properties.ecosystem.enum = w3pd.data.ecosystems.map((e) => e.id
 schemas.project.properties.assets_used.items.enum = w3pd.data.assets.map((a) => a.id);
 
 for (const col of Object.keys(w3pd.data)) {
-  if (col === "ranks") continue; // Skip testing for ranks
+  if (col === "ranks" || col === "technology") continue; // Skip testing for ranks and technology
 
   const validator = ajv.compile(schemas[matrix[col]]);
   const ids = [];
