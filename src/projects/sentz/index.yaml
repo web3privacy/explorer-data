@@ -34,7 +34,7 @@ default_privacy: true
 tracebility:
   kyc: false
   sign_in_type_requirments: wallet
-third_party_dependency: false
+third_party_dependency: none
 
 audits:
 - name: Trail of Bits

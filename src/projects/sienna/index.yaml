@@ -56,7 +56,7 @@ tracebility:
   tracked_data: user SCRT adress
   kyc: false
   sign_in_type_requirments: wallet
-third_party_dependency: false
+third_party_dependency: none
 
 audits:
 - name: Halborn and Certik

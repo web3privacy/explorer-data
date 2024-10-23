@@ -51,7 +51,7 @@ privacy_policy:
 default_privacy: true
 storage:
   decentralized: true
-third_party_dependency: false
+third_party_dependency: none
 social_trust: Team Multisigs & Dune analytics
 usecases:
 - infrastructure

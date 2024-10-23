@@ -100,7 +100,7 @@ tracebility:
   sign_in_type_requirements: wallet
 storage:
   decentralized: true
-third_party_dependency: false
+third_party_dependency: none
 social_trust: DeepOnion uses a multisig system for governance decisions and has a
   DAO for community voting.
 usecases:

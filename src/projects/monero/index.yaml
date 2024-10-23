@@ -36,7 +36,7 @@ usecases:
   - mixing-service
   - defi
 have_token: false
-third_party_dependency: false
+third_party_dependency: none
 logos:
   - file: logo.png
     ext: png
