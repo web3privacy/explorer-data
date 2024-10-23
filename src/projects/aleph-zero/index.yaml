@@ -43,7 +43,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/aleph-zero/logo.png
-percentage: 22
 product_launch_day: 2021-12-09T23:00:00.000Z
 sunset: false
 assets_used:

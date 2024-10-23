@@ -41,7 +41,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/monero/logo.png
-percentage: 14
 product_launch_day: 2014-05-18T00:00:00.000Z
 sunset: false
 privacy_policy:

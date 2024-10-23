@@ -76,7 +76,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/oasis-network/logo.png
-percentage: 72
 ecosystem:
   - ethereum
 sunset: false

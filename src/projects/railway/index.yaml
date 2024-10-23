@@ -38,7 +38,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/railway/logo.png
-percentage: 8
 sunset: false
 assets_used: []
 tokens: []

@@ -28,7 +28,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/cheqd/logo.png
-percentage: 17
 ecosystem:
   - cosmos
   - ethereum

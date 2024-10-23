@@ -18,7 +18,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/shinobi/logo.png
-percentage: 17
 ecosystem:
   - cosmos
 description: Secret Network bridge for BTC

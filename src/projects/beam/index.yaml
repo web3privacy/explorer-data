@@ -50,7 +50,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/beam/logo.png
-percentage: 22
 product_launch_day: 2019-02-02T23:00:00.000Z
 sunset: false
 assets_used: []
