@@ -126,117 +126,63 @@ properties:
       - sunset
 
   # LINKS ---------------------------------------------------------------------
-links:
-  type: object
-  properties:
-    web:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    github:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    block_explorer:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    docs:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    forum:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    whitepaper:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    changelog:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    snapshot:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    blog:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    twitter:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    discord:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    facebook:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    telegram:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    lens:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    farcaster:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    rss_feed:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    education:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
-    governance:
-      oneOf:
-        - type: string
-          format: uri
-        - type: string
-          enum: [""]
+  links:
+    type: object
+    properties:
+      web:
+        type: string
+        # format: uri
+      github:
+        type: string
+        # format: uri
+      block_explorer:
+        type: string
+        # format: uri
+      docs:
+        type: string
+        # format: uri
+      forum:
+        type: string
+        # format: uri
+      whitepaper:
+        type: string
+        # format: uri
+      changelog:
+        type: string
+        # format: uri
+      snapshot:
+        type: string
+        # format: uri
+      blog:
+        type: string
+        # format: uri
+      twitter:
+        type: string
+        # format: uri
+      discord:
+        type: string
+        # format: uri
+      facebook:
+        type: string
+        # format: uri
+      telegram:
+        type: string
+        # format: uri
+      lens:
+        type: string
+        # format: uri
+      farcaster:
+        type: string
+        # format: uri
+      rss_feed:
+        type: string
+        # format: uri
+      education:
+        type: string
+        # format: uri
+      governance:
+        type: string
+        # format: uri
   logos:
     type: array
     items:
