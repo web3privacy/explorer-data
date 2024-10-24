@@ -88,7 +88,7 @@ history:
       heights (to support fork-dependent features). On the wallet side, DApp
       support for the BANS (Beam Anonymous Name System) was improved.
     link: 'https://medium.com/beam-mw/beam-hard-fork-announcement-3e999dfba178'
-    time: 'Fri Sep 02 2022 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)'
+    time: 2022-09-01T22:00:00.000Z
   - title: Fourth Hard-Fork (and wallet v7.0)
     description: >-
       This hard-fork introduced 'High-Frequency Transactions' (HFTX) on both
@@ -105,7 +105,7 @@ history:
       DApp front ends distribution). This Hard Fork went smoothly and the
       difficulty remained fairly stable.
     link: 'https://medium.com/beam-mw/beam-hard-fork-completed-903ce2b15b51'
-    time: 'Fri Jun 24 2022 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)'
+    time: 2022-06-23T22:00:00.000Z
   - title: Third Hard-Fork (and wallet v6.0)
     description: >-
       This hard-fork brought the addition of the Beam Virtual Machine (BVM) as
@@ -127,7 +127,7 @@ history:
       not only a powerful 'Privacy DeFi' (PriFi) platform but indeed a
       general-purpose infrastructure for anything in Confidential Web3!
     link: 'https://medium.com/beam-mw/hard-fork-completed-1608eb5ce439'
-    time: 'Sun Jun 13 2021 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)'
+    time: 2021-06-12T22:00:00.000Z
   - title: Second Hard-Fork
     description: >-
       Beam's second hard-fork was performed as announced in the roadmap. The PoW
@@ -138,7 +138,7 @@ history:
       hard-fork but kept inactive) and the release of the Lelantus-MW protocol
       and its associated one-side payments (also known as offline transactions).
     link: 'https://medium.com/beam-mw/hard-fork-completed-72e8f1edb10b'
-    time: 'Sun Jun 28 2020 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)'
+    time: 2020-06-27T22:00:00.000Z
   - title: First Hard-Fork
     description: >-
       Beam's first hard-fork was performed as announced in the roadmap. The PoW
@@ -151,4 +151,4 @@ history:
       hours, the hashrate had gone back to its pre-fork value.
     link: >-
       https://medium.com/beam-mw/mimblewimble-hard-fork-first-completed-1171f9642e51
-    time: 'Thu Aug 15 2019 00:00:00 GMT+0200 (Mitteleuropäische Sommerzeit)'
+    time: 2019-08-14T22:00:00.000Z

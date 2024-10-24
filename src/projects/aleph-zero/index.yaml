@@ -75,7 +75,7 @@ default_privacy: false
 audits:
   - name: Trail of Bits
     url: ''
-    time: 'Thu Jun 10 2021 00:00:00 GMT+0200 (Central European Summer Time)'
+    time: 2021-06-09T22:00:00.000Z
 social_trust: 'Multisig wallets, DAO, Foundation governance. '
 technical_spof: ''
 funding: []
