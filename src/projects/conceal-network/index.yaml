@@ -1,8 +1,101 @@
 id: conceal-network
 name: Conceal Network
 categories:
-- defi
+  - defi
+  - infrastructure
 usecases:
-- defi
+  - defi
+  - currency
+  - messaging
+  - infrastructure
+  - wallets
 have_token: false
-third_party_dependency: false
+third_party_dependency: No Third-Party Dependency.
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/conceal-network/logo.png
+ecosystem:
+  - other
+description: >-
+  Unstoppable P2P Network for Anonymous, Untraceable, Sovereign Money.
+
+
+  Based on the original Cryptonote 2.0 protocol, Conceal's unique implementation
+  renders chain analysis powerless and allows for truly untraceable
+  transactions. 
+product_launch_day: 2018-06-03T05:00:00.000Z
+sunset: false
+assets_used:
+  - other
+tokens:
+  - symbol: CCX
+    name: Conceal
+    contract_address: ""
+    token_link: https://explorer.conceal.network/index.html
+links:
+  web: https://conceal.network/
+  blog: https://concealnetwork.medium.com/
+  github: https://github.com/ConcealNetwork
+  forum: ""
+  docs: https://conceal.network/wiki/doku.php?id=about
+  whitepaper: https://github.com/ConcealNetwork/conceal-docs/blob/master/papers/cryptonote_v2.0.pdf
+  block_explorer: https://explorer.conceal.network/index.html
+  governance: ""
+  twitter: https://x.com/ConcealNetwork
+  discord: https://discord.com/invite/YbpHVSd
+  telegram: https://t.me/concealcommunity
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Cryptonote 2.0, Zero-Knowledge, P2P, Curve25519
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: N/A
+  data_usage: N/A
+compliance: No
+tracebility:
+  kyc: false
+  tracked_data: N/A
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+social_trust: DAO
+technical_spof: Worldwide Electricity Outage.
+team:
+  anonymous: true
+  teammembers:
+    - name: Krypt0x
+      link: https://x.com/Krypt0xChaos
+    - name: Taegus
+      link: https://x.com/Taegus1
+    - name: AxVultis
+      link: https://x.com/AxVultis
+    - name: Lollipop
+      link: ""
+    - name: Mannan
+      link: https://x.com/Mannan056
+    - name: Acktarius
+      link: https://x.com/xchaps
+    - name: Giomarx7
+      link: https://x.com/Giomarx7
+    - name: Bomb-on
+      link: ""
+    - name: ThrownLemon
+      link: ""
+funding: []
+history: []
