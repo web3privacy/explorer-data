@@ -1,30 +1,104 @@
 id: verida
 name: Verida
 categories:
-- infrastructure
-description: Verida is a multi-chain protocol for interoperable database storage and
-  messaging built on decentralized identity where personal data is owned and controlled
-  by users
+  - infrastructure
+description: >-
+  Verida is a secure, privacy-focused network that puts you in control of your
+  own data, enabling personalized AI experiences.
+
+
+  Verida Network provides safe and private storage for both individuals and
+  organizations, allowing them to own and manage personal and private data
+  securely with end-to-end privacy. This enables personalized and secure AI
+  experiences tailored just for you.
+
+
+  With Verida, you can gather your personal data from platforms like Google,
+  Slack, LinkedIn, and more via the Private Data Bridge and store it in your own
+  encrypted Vault (secure data wallet) on the Verida Network.
+
+
+  Verida’s Self-Sovereign Compute Network ensures that your encrypted data works
+  seamlessly with AI models while keeping your information private and protected
+  from AI service providers.
 team:
   anonymous: false
   teammembers:
-  - name: Chris Were
-    role: Co-Founder & CEO
-  - name: Ryan Kris
-    role: Co-Founder & COO
+    - name: Chris Were
+      role: Co-Founder & CEO
+    - name: Ryan Kris
+      role: Co-Founder & COO
 links:
   web: https://www.verida.io
-  github: https://github.com/verida/
-  whitepaper: https://docsend.com/view/hqd8d55nbucz83yf
-  docs: https://developers.verida.network/
   blog: https://news.verida.io
+  github: https://github.com/verida/
+  forum: ""
+  docs: https://developers.verida.network/
+  whitepaper: https://docsend.com/view/hqd8d55nbucz83yf
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/verida_io
+  discord: "https://discord.gg/9y7uKxeh6c "
+  telegram: "https://t.me/verida_community "
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: true
   mainnet: true
+  testnet: false
+  version: mainnet
 usecases:
-- infrastructure
+  - infrastructure
+  - wallets
+  - ai
+  - computing
+  - did
+  - bridge
+  - storage
 have_token: false
-third_party_dependency: false
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/verida/logo.png
+ecosystem:
+  - ethereum
+  - other
+sunset: false
+assets_used:
+  - other
+tokens: []
+project_phase: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Zero-Knowledge (ZK)
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits:
+  - name: Verida Protocol Audit by Hashlock
+    url: https://hashlock.com/audits/verida-protocol-audit
+    time: Sat Apr 01 2023 00:00:00 GMT+0300 (Moscow Standard Time)
+  - name: " Verida Architecture Audit by Chainsulting"
+    url: https://github.com/chainsulting/Smart-Contract-Security-Audits/blob/master/Verida/02_Architecture_Audit_Verida_PUBLIC_19112022.pdf
+    time: Sat Nov 19 2022 00:00:00 GMT+0300 (Moscow Standard Time)
+social_trust: "The Verida Foundation DAO:
+  https://news.verida.network/introducing-the-verida-foundation-dao-1faac425f39\
+  9"
+technical_spof: ""
+funding: []
+history: []
