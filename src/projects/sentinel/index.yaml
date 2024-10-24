@@ -39,7 +39,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/sentinel/logo.png
-percentage: 52
 product_launch_day: 2018-05-03T23:00:00.000Z
 sunset: false
 assets_used:

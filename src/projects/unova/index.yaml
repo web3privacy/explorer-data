@@ -19,4 +19,4 @@ project_status:
   mainnet: true
 usecases:
 - infrastructure
-third_party_dependency: false
+third_party_dependency: none

@@ -1,11 +1,11 @@
 id: silk
 name: SILK
 categories:
-- defi
+  - defi
 description: Private Over-Collateralized Anti-inflationary Stable Coin
 technology:
   features:
-  - ''
+    - ''
   type: TEE
   name: Trusted execution environment
 blockchain_features:
@@ -15,7 +15,7 @@ blockchain_features:
   viewing_key: true
   dissapearing_tx: false
   connected_tx: false
-  reversability_condition: viewing key, hack
+  reversability_condition: 'viewing key, hack'
   data_masking: Secret contracts
   asset_custody_type: non-custody
   revealed_recipient: false
@@ -26,9 +26,9 @@ storage:
   decentralized: true
 tracebility:
   kyc: false
-  sign_in_type_requirments: wallet
-third_party_dependency: false
-
+  sign_in_type_requirments:
+    - wallet
+third_party_dependency: none
 social_trust: Shade Core team ( Secret Contract multisig )
 technical_spof: Can decrypt
 project_status:
@@ -37,11 +37,11 @@ project_status:
   testnet: false
   mainnet: true
 ecosystem:
-- secret-network
+  - other
 links:
-  web: https://app.shadeprotocol.io/silk
-  github: https://github.com/securesecrets/shade
-  twitter: https://x.com/Silk_Stable
+  web: 'https://app.shadeprotocol.io/silk'
+  github: 'https://github.com/securesecrets/shade'
+  twitter: 'https://x.com/Silk_Stable'
 usecases:
-- currency
+  - currency
 have_token: false

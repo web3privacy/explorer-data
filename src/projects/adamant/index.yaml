@@ -26,4 +26,4 @@ tokens:
   network: Ethereum
 usecases:
 - messaging
-third_party_dependency: false
+third_party_dependency: none

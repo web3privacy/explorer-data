@@ -29,4 +29,4 @@ tokens:
   contract_address: '0xb9ef770b6a5e12e45983c5d80545258aa38f3b78'
 usecases:
 - storage
-third_party_dependency: false
+third_party_dependency: none

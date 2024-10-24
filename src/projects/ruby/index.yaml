@@ -15,4 +15,4 @@ tokens:
 - symbol: RUBY
 usecases:
 - infrastructure
-third_party_dependency: false
+third_party_dependency: none

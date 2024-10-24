@@ -41,8 +41,9 @@ storage:
 tracebility:
   tracked_data: Chains activity
   kyc: false
-  sign_in_type_requirments: wallet
-third_party_dependency: false
+  sign_in_type_requirments: 
+    - wallet
+third_party_dependency: none
 client_diversability:
 - name: BasicSwap client
   link: https://basicswapdex.com/

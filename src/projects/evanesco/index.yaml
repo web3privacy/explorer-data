@@ -1,14 +1,15 @@
 id: evanesco
 name: Evanesco
 categories:
-- defi
+  - defi
 ecosystem:
-- eva
-description: A financial protocol platform that combines Layer0 network infrastructure
-  with a private computing framework.
+  - other
+description: >-
+  A financial protocol platform that combines Layer0 network infrastructure with
+  a private computing framework.
 links:
-  web: https://evanesco.org/
-  github: https://github.com/Evanesco-Labs
+  web: 'https://evanesco.org/'
+  github: 'https://github.com/Evanesco-Labs'
 project_status:
   live_status: true
   mainnet: true
@@ -16,6 +17,6 @@ project_status:
 team:
   anonymous: true
 usecases:
-- defi
+  - defi
 have_token: false
-third_party_dependency: false
+third_party_dependency: none

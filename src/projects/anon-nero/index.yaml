@@ -8,4 +8,4 @@ links:
 usecases:
 - wallets
 have_token: false
-third_party_dependency: false
+third_party_dependency: none

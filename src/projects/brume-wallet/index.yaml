@@ -40,8 +40,9 @@ storage:
 tracebility:
   tracked_data: no ( Tor based )
   kyc: false
-  sign_in_type_requirments: seed
-third_party_dependency: false
+  sign_in_type_requirments: 
+    - seed
+third_party_dependency: none
 history:
 - title: Hackaton
   event_type: Hackaton

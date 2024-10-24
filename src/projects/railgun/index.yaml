@@ -111,7 +111,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/railgun/logo.png
-percentage: 79
 ecosystem:
   - ethereum
 sunset: false

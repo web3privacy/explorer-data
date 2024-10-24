@@ -29,7 +29,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/lunardao/logo.png
-percentage: 22
 ecosystem:
   - ethereum
   - bitcoin
