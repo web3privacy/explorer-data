@@ -9,7 +9,7 @@ ecosystem:
 description: >-
   We are building a way for any protocol, application, or smart contract to
   integrate AI models with a few lines of code.
-product_launch_day: '2023'
+product_launch_day: 2023-01-01T00:00:00.000Z
 team:
   anonymous: false
   teammembers:

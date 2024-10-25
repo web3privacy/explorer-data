@@ -14,7 +14,7 @@ addFormats(ajv);
 
 // Custom format for date-time for validation to work
 ajv.addFormat('custom-date-time', function (dateTimeString) {
-  if (!dateTimeString)
+  if (!dateTimeString || dateTimeString === "")
     return true
 
   return !isNaN(Date.parse(dateTimeString));

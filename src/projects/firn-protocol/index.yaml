@@ -56,12 +56,12 @@ third_party_dependency: none
 audits:
   - name: BlockSec
     link: https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf
-    time: Aug, 7. 2023
+    time: 2023-08-06T22:00:00.000Z
 history:
   - title: Github
     event_type: launch
     description: AGithub start
-    time: Nov 6, 2021
+    time: 2021-11-05T23:00:00.000Z
     link: https://github.com/firnprotocol
 client_diversability:
   - name: Metamask
@@ -72,7 +72,7 @@ funding:
     type: token sale
     link: https://lunardao.net/firn_investment.html
     value: 45.000 $
-    time: Jun 1, 2023
+    time: 2023-05-31T22:00:00.000Z
 project_status:
   live_status: true
   version: Mainnet

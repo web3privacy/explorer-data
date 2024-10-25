@@ -15,7 +15,7 @@ description: >-
   earliest cryptos to integrate the Tor network into the wallet, which has not
   leaked any IP addresses since its release on 12 July 2017.
 product_readiness: Mainnet
-product_launch_day: '2017-07-12'
+product_launch_day: 2017-07-12T00:00:00.000Z
 have_token: true
 tokens:
   - name: DeepOnion
@@ -48,7 +48,6 @@ funding:
     type: Community Support
     link: 'https://deeponion.org/community'
     value: Not applicable
-    time: Ongoing
 sunset: false
 links:
   web: 'https://deeponion.org'

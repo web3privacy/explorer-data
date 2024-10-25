@@ -6,7 +6,7 @@ ecosystem:
   - other
 description: Collection of tools allowing you send & receive SCRT anonymously
 project_type: DeFi
-product_launch_day: '2021-15-02'
+product_launch_day: 2021-02-15T00:00:00.000Z
 technology:
   type: TEE
   name: Trusted execution environment

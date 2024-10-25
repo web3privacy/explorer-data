@@ -46,18 +46,18 @@ third_party_dependency: none
 audits:
 - name: NCC Group NU5 Review
   link: https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/
-  time: Nov 2, 2021
+  time: 2021-11-01T23:00:00.000Z
 - name: NCC Group Zcash FROST Security Assesment
   link: https://research.nccgroup.com/2023/10/23/public-report-zcash-frost-security-assessment/
-  time: Oct 23, 2023
+  time: 2023-10-22T22:00:00.000Z
 - name: Sapling Implementation Audit
   link: https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf
-  time: Jan 30, 2019
+  time: 2019-01-29T23:00:00.000Z
 history:
 - title: Mainet
   event_type: launch
   description: Genesis block
-  time: Oct 28, 2016
+  time: 2016-10-27T22:00:00.000Z
   link: https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/
 client_diversability:
 - name: Zebra
@@ -70,7 +70,7 @@ funding:
     type: Investments
     link: https://zfnd.org/zebra/
     value: ''
-    time: '2024-09-15'
+    time: 2024-09-15T00:00:00.000Z
 project_status:
   live_status: true
   version: Mainnet

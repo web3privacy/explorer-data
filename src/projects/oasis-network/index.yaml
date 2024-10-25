@@ -48,7 +48,7 @@ history:
   - title: Oasis Sapphire Mainnet
     description: go-live of the Oasis Sapphire Mainnet
     link: https://docs.oasis.io/get-involved/run-node/paratime-node/
-    time: Thu Dec 01 2022 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2022-11-30T23:00:00.000Z
 technology:
   type: TEE
   features:

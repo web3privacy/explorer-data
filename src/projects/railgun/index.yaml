@@ -80,12 +80,12 @@ third_party_dependency: ""
 audits:
   - name: Railgun audit report
     link: https://assets.railgun.org/docs/audits/
-    time: July, 2021
+    time: 2021-07-01T00:00:00.000Z
 history:
   - title: Mainet
     event_type: launch
     description: Token Launch
-    time: Jul 3, 2021
+    time: 2021-07-03T00:00:00.000Z
     link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
 client_diversability:
   - name: Railway
@@ -98,7 +98,7 @@ funding:
     type: Investments
     link: https://www.coindesk.com/business/2022/01/26/railgun-aims-for-private-defi-with-10m-backing-from-dcg/
     value: 10.000.000 $
-    time: Jan 26, 2022
+    time: 2022-01-25T23:00:00.000Z
 project_status:
   live_status: true
   mainnet: true

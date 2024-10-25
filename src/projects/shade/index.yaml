@@ -11,7 +11,7 @@ tokens:
     contract_address: secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm
 description: Super app for private DeFi
 project_type: DeFi
-product_launch_day: '2022-02-21'
+product_launch_day: 2022-02-21T00:00:00.000Z
 technology:
   type: TEE
   name: Trusted execution environment
@@ -70,17 +70,17 @@ third_party_dependency: none
 audits:
   - name: stkd-SCRT
     link: 'https://docs.shadeprotocol.io/shade-protocol/research/audit-log'
-    time: 'March 29th, 2022'
+    time: 2022-03-28T22:00:00.000Z
   - name: Bonds
     link: 'https://docs.shadeprotocol.io/shade-protocol/research/audit-log'
-    time: 'August 2nd, 2022'
+    time: 2022-08-01T22:00:00.000Z
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
   - title: Mainet
     event_type: launch
     description: Airdrop
-    time: 'Feb 21, 2022'
+    time: 2022-02-21T23:00:00.000Z
     link: 'https://shadeprotocol.io/blog/shade-protocol-claim-tutorial'
 client_diversability:
   - name: Keplr
@@ -94,7 +94,7 @@ funding:
     link: >-
       https://shadeprotocol.io/blog/shade-protocol-raises-5m-20-key-partners-invested
     value: 5.000.000 $
-    time: 'Feb 17, 2022'
+    time: 2022-02-16T23:00:00.000Z
 project_status:
   live_status: true
   version: Mainnet

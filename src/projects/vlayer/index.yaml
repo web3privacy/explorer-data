@@ -6,7 +6,7 @@ ecosystem:
 usecases:
   - data
 description: Trustless verifiable data infrastructure powered by zero-knowledge proofs
-product_launch_day: '2024'
+product_launch_day: '2024-01-01T00:00:00.000Z'
 team:
   anonymous: false
   teammembers:

@@ -13,7 +13,7 @@ description: >-
   Privacy-first, cross-chain decentralized finance protocol powered by Secret
   Network in the Cosmos ecosystem.
 project_type: DeFi
-product_launch_day: '2022-04-27'
+product_launch_day: 2022-04-27T00:00:00.000Z
 technology:
   type: TEE
   name: Trusted execution environment
@@ -62,14 +62,14 @@ third_party_dependency: none
 audits:
   - name: Halborn and Certik
     link: 'https://sienna.network/audits/'
-    time: '2021-04-18'
+    time: 2021-04-18T00:00:00.000Z
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
   - title: Mainet
     event_type: launch
     description: V1
-    time: October 2021
+    time: 2021-09-30T22:00:00.000Z
     link: >-
       https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
 client_diversability:
@@ -83,7 +83,7 @@ funding:
     type: ICO
     link: 'https://icodrops.com/sienna-network/'
     value: 11.200.000
-    time: 'May 5, 2021'
+    time: 2021-05-04T22:00:00.000Z
 project_status:
   live_status: true
   version: Mainnet

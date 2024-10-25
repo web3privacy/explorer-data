@@ -69,7 +69,7 @@ history:
   - title: Mainnet
     event_type: launch
     description: Mainnet
-    time: Feb 13, 2020
+    time: 2020-02-12T23:00:00.000Z
     link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
 client_diversability:
   - name: Keplr
@@ -82,7 +82,7 @@ funding:
     type: ICO
     link: https://icodrops.com/secret-network/
     value: 236.500.000 $
-    time: Jul 23, 2020
+    time: 2020-07-22T22:00:00.000Z
 project_status:
   live_status: true
   version: Mainnet v1.12.1

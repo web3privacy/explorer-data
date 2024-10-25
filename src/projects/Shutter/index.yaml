@@ -8,7 +8,7 @@ usecases:
 description: >-
   Pioneering threshold encryption protocol protecting you against sandwich
   attacks & voting whales.
-product_launch_day: '2021'
+product_launch_day: 2021-01-01T00:00:00.000Z
 team:
   anonymous: false
   teammembers:

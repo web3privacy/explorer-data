@@ -32,7 +32,7 @@ properties:
   product_readiness:
     type: string
   product_launch_day:
-    type: string
+    type: object
     format: custom-date-time
   have_token:
     type: boolean
@@ -101,7 +101,7 @@ properties:
         value:
           type: string
         time:
-          type: string
+          type: object
           format: custom-date-time
   history:
     type: array
@@ -115,7 +115,7 @@ properties:
         description:
           type: string
         time:
-          type: string
+          type: object
           format: custom-date-time
         link:
           type: string
@@ -316,7 +316,7 @@ properties:
           type: string
           # format: uri
         time:
-          type: string
+          type: object
           format: custom-date-time
   default_privacy:
     type: boolean

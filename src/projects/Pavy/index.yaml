@@ -9,7 +9,7 @@ usecases:
 description: >-
   the first self-sovereign bank, built on a privacy blockchain with
   stablecoins. 
-product_launch_day: '2023'
+product_launch_day: 2023-01-01T00:00:00.000Z
 team:
   anonymous: false
   teammembers:
