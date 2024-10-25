@@ -316,7 +316,7 @@ properties:
           type: string
           # format: uri
         time:
-          type: object
+          type: string
           format: custom-date-time
   default_privacy:
     type: boolean
