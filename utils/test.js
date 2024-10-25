@@ -18,7 +18,7 @@ ajv.addFormat('custom-date-time', function (dateTimeString) {
     dateTimeString = dateTimeString.toISOString();
   }
 
-  return !isNaN(Date.parse(dateTimeString));
+  return dateTimeString === '' || !isNaN(Date.parse(dateTimeString));
 });
 
 async function loadSchemas() {
