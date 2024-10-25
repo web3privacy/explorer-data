@@ -1,6 +1,6 @@
 import Ajv from "https://esm.sh/ajv@8.17.1?pin=v58";
 import addFormats from "https://esm.sh/ajv-formats@2.1.1";
-import { betterAjvErrors } from 'https://esm.sh/@apideck/better-ajv-errors@0.3.6?pin=v58';
+// import { betterAjvErrors } from 'https://esm.sh/@apideck/better-ajv-errors@0.3.6?pin=v58';
 import yaml from "npm:js-yaml";
 
 import { W3PData } from "./w3pdata.js";
@@ -14,11 +14,14 @@ addFormats(ajv);
 
 // Custom format for date-time for validation to work
 ajv.addFormat('custom-date-time', function (dateTimeString) {
+  if (!dateTimeString)
+    return true
+
   if (typeof dateTimeString === 'object') {
     dateTimeString = dateTimeString.toISOString();
   }
 
-  return dateTimeString === '' || !isNaN(Date.parse(dateTimeString));
+  return !isNaN(Date.parse(dateTimeString));
 });
 
 async function loadSchemas() {
@@ -105,7 +108,7 @@ for (const col of Object.keys(w3pd.data)) {
     if (Object.keys(item).length > 1) {
       Deno.test(testName + " (schema)", () => {
         if (!validator(item)) {
-          const betterErrors = betterAjvErrors({ errors: validator.errors });
+          // const betterErrors = betterAjvErrors({ errors: validator.errors });
           throw betterErrors;
           // console.log(betterErrors);
         }
