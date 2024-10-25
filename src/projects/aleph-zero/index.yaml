@@ -4,7 +4,7 @@ categories:
   - infrastructure
 description: Privacy-enhancing public blockchain with instant finality.
 ecosystem:
-  - aleph
+  - other
   - other
 project_status:
   live_status: true
@@ -12,19 +12,19 @@ project_status:
   testnet: false
   version: mainnet
 links:
-  web: https://alephzero.org
-  blog: ""
-  github: https://github.com/aleph-zero-foundation
-  forum: ""
-  docs: https://docs.alephzero.org/aleph-zero
-  whitepaper: https://docs.alephzero.org/aleph-zero/explore/whitepapers
-  block_explorer: https://alephzero.subscan.io/
-  governance: https://gov.alephzero.org
-  twitter: https://x.com/Aleph__Zero
-  discord: https://discord.com/invite/alephzero
-  telegram: https://t.me/AlephZeroFoundation
-  lens: ""
-  farcaster: ""
+  web: 'https://alephzero.org'
+  blog: ''
+  github: 'https://github.com/aleph-zero-foundation'
+  forum: ''
+  docs: 'https://docs.alephzero.org/aleph-zero'
+  whitepaper: 'https://docs.alephzero.org/aleph-zero/explore/whitepapers'
+  block_explorer: 'https://alephzero.subscan.io/'
+  governance: 'https://gov.alephzero.org'
+  twitter: 'https://x.com/Aleph__Zero'
+  discord: 'https://discord.com/invite/alephzero'
+  telegram: 'https://t.me/AlephZeroFoundation'
+  lens: ''
+  farcaster: ''
 team:
   anonymous: false
   teammembers: []
@@ -38,46 +38,45 @@ usecases:
   - storage
   - other
 have_token: false
-third_party_dependency: ""
+third_party_dependency: ''
 logos:
   - file: logo.png
     ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/aleph-zero/logo.png
-percentage: 22
+    url: 'https://explorer-data.web3privacy.info/assets/projects/aleph-zero/logo.png'
 product_launch_day: 2021-12-09T23:00:00.000Z
 sunset: false
 assets_used:
-  - AZERO
+  - other
 tokens:
   - symbol: AZERO
     name: AZERO
-    contract_address: ""
-    token_link: https://alephzero.subscan.io/
+    contract_address: ''
+    token_link: 'https://alephzero.subscan.io/'
 project_phase: mainnet
 blockchain_features:
   opensource: false
   upgradability:
     enabled: false
-  asset_custody_type: ""
-  encryption: Zero-Knowledge (ZK), sMPC
+  asset_custody_type: ''
+  encryption: 'Zero-Knowledge (ZK), sMPC'
   p2p: true
 storage: {}
 privacy_policy:
   defined: false
-  link: ""
-  data_usage: ""
-compliance: ""
+  link: ''
+  data_usage: ''
+compliance: ''
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: ''
   sign_in_type_requirments:
     - wallet
 default_privacy: false
 audits:
   - name: Trail of Bits
-    url: ""
-    time: Thu Jun 10 2021 00:00:00 GMT+0200 (Central European Summer Time)
-social_trust: "Multisig wallets, DAO, Foundation governance. "
-technical_spof: ""
+    url: ''
+    time: 2021-06-09T22:00:00.000Z
+social_trust: 'Multisig wallets, DAO, Foundation governance. '
+technical_spof: ''
 funding: []
 history: []

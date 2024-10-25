@@ -4,11 +4,12 @@ categories:
   - defi
   - infrastructure
   - applications
-description: Zano is an open-source cryptocurrency and ecosystem with
-  enterprise-grade privacy, security, and scalability that operates as a robust
-  foundation for confidential assets and decentralised applications (dApps).
+description: >-
+  Zano is an open-source cryptocurrency and ecosystem with enterprise-grade
+  privacy, security, and scalability that operates as a robust foundation for
+  confidential assets and decentralised applications (dApps).
 ecosystem:
-  - zano
+  - other
   - other
 project_status:
   live_status: true
@@ -16,14 +17,14 @@ project_status:
   testnet: true
   mainnet: true
 links:
-  web: https://zano.org
-  github: https://github.com/hyle-team/zano
-  block_explorer: https://explorer.zano.org/
-  docs: https://docs.zano.org/
-  blog: https://blog.zano.org/
-  twitter: https://x.com/zano_project
-  discord: https://discord.com/invite/wE3rmYY
-  telegram: https://t.me/zanocoin
+  web: 'https://zano.org'
+  github: 'https://github.com/hyle-team/zano'
+  block_explorer: 'https://explorer.zano.org/'
+  docs: 'https://docs.zano.org/'
+  blog: 'https://blog.zano.org/'
+  twitter: 'https://x.com/zano_project'
+  discord: 'https://discord.com/invite/wE3rmYY'
+  telegram: 'https://t.me/zanocoin'
 team:
   anonymous: false
 usecases:
@@ -35,12 +36,11 @@ usecases:
   - research-and-development
   - dapps
 have_token: false
-third_party_dependency: false
+third_party_dependency: none
 logos:
   - file: logo.png
     ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/zano/logo.png
-percentage: 22
+    url: 'https://explorer-data.web3privacy.info/assets/projects/zano/logo.png'
 product_launch_day: 2019-06-07T22:00:00.000Z
 sunset: false
 assets_used: []

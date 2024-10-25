@@ -28,4 +28,4 @@ tokens:
   contract_address: '0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0'
 usecases:
 - messaging
-third_party_dependency: false
+third_party_dependency: none

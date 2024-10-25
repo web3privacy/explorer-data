@@ -71,12 +71,11 @@ usecases:
   - research-and-development
   - node
 have_token: false
-third_party_dependency:
+third_party_dependency: none
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/waku/logo.png
-percentage: 47
 sunset: false
 assets_used: []
 tokens: []

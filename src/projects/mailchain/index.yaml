@@ -50,8 +50,9 @@ privacy_policy:
 default_privacy: true
 tracebility:
   kyc: false
-  sign_in_type_requirments: wallet
-third_party_dependency: false
+  sign_in_type_requirments: 
+    - wallet
+third_party_dependency: none
 
 usecases:
 - dapps
