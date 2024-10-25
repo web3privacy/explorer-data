@@ -46,7 +46,7 @@ logos:
 product_launch_day: 2021-12-09T23:00:00.000Z
 sunset: false
 assets_used:
-  - AZERO
+  - other
 tokens:
   - symbol: AZERO
     name: AZERO

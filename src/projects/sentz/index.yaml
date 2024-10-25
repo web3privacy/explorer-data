@@ -41,7 +41,7 @@ audits:
 - name: Trail of Bits
   link: https://www.sentz.com/developers/audits
 assets_used:
-- EUSD
+- other
 usecases:
 - dapps
 have_token: false

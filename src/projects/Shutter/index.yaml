@@ -1,10 +1,10 @@
 name: Shutter
 categories:
-  - dapps
+  - applications
 ecosystem:
   - other
 usecases:
-  - voting
+  - other
 description: >-
   Pioneering threshold encryption protocol protecting you against sandwich
   attacks & voting whales.

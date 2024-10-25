@@ -3,8 +3,7 @@ name: DeepOnion
 categories:
   - applications
 assets_used:
-  - ZK-SNARKS
-  - TOR-NETWORK
+  - other
 ecosystem:
   - other
 project_type: Hybrid cryptocurrency

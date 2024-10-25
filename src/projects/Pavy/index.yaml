@@ -1,11 +1,8 @@
 name: Pavy
-categories:
-  - wallets
 ecosystem:
   - other
 usecases:
-  - wallet
-  - payment
+  - wallets
 description: >-
   the first self-sovereign bank, built on a privacy blockchain with
   stablecoins. 
@@ -56,6 +53,6 @@ audits:
     link: 'https://www.auditone.io/audit-report/payy-audit'
     time: 2024-09-24T00:00:00.000Z
 assets_used:
-  - USDC
+  - usdc
 technology:
   type: 'Zk proof, HyperPlonk, KZG'
