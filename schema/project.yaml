@@ -3,9 +3,6 @@ additionalProperties: false
 required:
   - id
   - name
-  - categories
-  - have_token
-  - third_party_dependency
 
 properties:
   id:
@@ -13,7 +10,6 @@ properties:
     title: ID
     description: |
       Unique project identifier
-    pattern: "^[a-z0-9-]+$"
   #PROJECT DESCRIPTION -------------------------------------------------------------
   name:
     type: string
@@ -21,17 +17,14 @@ properties:
     type: array
     items:
       type: string
-      pattern: "^[a-z0-9-]+$"
   assets_used:
     type: array
     items:
       type: string
-      pattern: "^[A-Z0-9-]+$"
   ecosystem:
     type: array
     items:
       type: string
-      pattern: "^[a-z0-9-]+$"
   project_type:
     type: string
   description:
@@ -39,7 +32,11 @@ properties:
   product_readiness:
     type: string
   product_launch_day:
-    type: string
+    oneOf:
+      - type: object
+        format: custom-date-time
+      - type: string
+        format: custom-date-time
   have_token:
     type: boolean
 
@@ -91,21 +88,27 @@ properties:
               type: string
             link:
               type: string
-              format: uri
+              # format: uri
   funding:
-    type: object
-    properties:
-      name:
-        type: string
-      type:
-        type: string
-      link:
-        type: string
-        format: uri
-      value:
-        type: string
-      time:
-        type: string
+    type: array
+    items:
+      type: object
+      properties:
+        name:
+          type: string
+        type:
+          type: string
+        link:
+          type: string
+          # format: uri
+        value:
+          type: string
+        time:
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
   history:
     type: array
     items:
@@ -118,10 +121,14 @@ properties:
         description:
           type: string
         time:
-          type: string
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
         link:
           type: string
-          format: uri
+          # format: uri
 
   sunset:
     type: boolean
@@ -134,55 +141,58 @@ properties:
     properties:
       web:
         type: string
-        format: uri
+        # format: uri
       github:
         type: string
-        format: uri
+        # format: uri
       block_explorer:
         type: string
-        format: uri
+        # format: uri
       docs:
         type: string
-        format: uri
+        # format: uri
       forum:
         type: string
-        format: uri
+        # format: uri
       whitepaper:
         type: string
-        format: uri
+        # format: uri
       changelog:
         type: string
-        format: uri
+        # format: uri
       snapshot:
         type: string
-        format: uri
+        # format: uri
       blog:
         type: string
-        format: uri
+        # format: uri
       twitter:
         type: string
-        format: uri
+        # format: uri
       discord:
         type: string
-        format: uri
+        # format: uri
       facebook:
         type: string
-        format: uri
+        # format: uri
       telegram:
         type: string
-        format: uri
+        # format: uri
       lens:
         type: string
-        format: uri
+        # format: uri
       farcaster:
         type: string
-        format: uri
+        # format: uri
       rss_feed:
         type: string
-        format: uri
+        # format: uri
       education:
         type: string
-        format: uri
+        # format: uri
+      governance:
+        type: string
+        # format: uri
   logos:
     type: array
     items:
@@ -207,14 +217,8 @@ properties:
         type: array
         items:
           type: string
-    required:
-      - type
-      - features
   blockchain_features:
     type: object
-    required:
-      - opensource
-      - p2p
     properties:
       encryption:
         type: string
@@ -229,7 +233,7 @@ properties:
             type: string
           link:
             type: string
-            format: uri
+            # format: uri
       p2p:
         type: boolean
       data_masking:
@@ -240,9 +244,6 @@ properties:
         type: object
         required:
           - enabled
-          - viewing_key
-          - dissapearing_tx
-          - connected_tx
         properties:
           enabled:
             type: boolean
@@ -282,7 +283,7 @@ properties:
         type: boolean
       link:
         type: string
-        format: uri
+        # format: uri
       data_usage:
         type: string
   tracebility:
@@ -293,7 +294,9 @@ properties:
       kyc:
         type: boolean
       sign_in_type_requirments:
-        type: string
+        type: array
+        items:
+          type: string
     required:
       - kyc
   compliance:
@@ -306,7 +309,7 @@ properties:
 
   # SECURITY ---------------------------------------------------------------------
   third_party_dependency:
-    type: boolean
+    type: string
   social_trust:
     type: string
   technical_spof:
@@ -318,17 +321,19 @@ properties:
       properties:
         name:
           type: string
-        company:
+        url:
           type: string
-        logo:
-          type: string
-        link:
-          type: string
-          format: uri
+          # format: uri
         time:
-          type: string
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
   default_privacy:
     type: boolean
+  project_phase:
+    type: string
   project_status:
     type: object
     required:
@@ -348,4 +353,3 @@ properties:
     type: array
     items:
       type: string
-      pattern: "^[a-z0-9-]+$"

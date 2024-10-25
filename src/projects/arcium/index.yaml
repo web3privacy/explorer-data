@@ -27,7 +27,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/arcium/logo.png
-percentage: 17
 usecases:
   - defi
   - infrastructure

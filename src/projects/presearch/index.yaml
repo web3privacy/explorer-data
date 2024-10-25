@@ -53,8 +53,10 @@ privacy_policy:
 default_privacy: true
 tracebility:
   kyc: false
-  sign_in_type_requirments: wallet
-third_party_dependency: false
+  sign_in_type_requirments: 
+    - wallet
+third_party_dependency: none
+
 audits:
   - name: Mantisec Lab
     link: https://github.com/PresearchOfficial/audit/blob/main/Final%20Presearch%20SCA.Code%20Audit.pdf
@@ -65,9 +67,6 @@ usecases:
   - browser
 have_token: false
 logos:
-  - file: logo.svg+xml
-    ext: svg+xml
-    url: https://explorer-data.web3privacy.info/assets/projects/presearch/logo.svg+xml
   - file: logo.svg
     ext: svg
     url: https://explorer-data.web3privacy.info/assets/projects/presearch/logo.svg

@@ -36,12 +36,11 @@ usecases:
   - mixing-service
   - defi
 have_token: false
-third_party_dependency: false
+third_party_dependency: none
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/monero/logo.png
-percentage: 14
 product_launch_day: 2014-05-18T00:00:00.000Z
 sunset: false
 privacy_policy:
@@ -71,25 +70,25 @@ history:
   - title: RingCT update
     description: Allowd confidential amounts
     link: https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades
-    time: Thu Jan 05 2017 00:00:00 GMT+0000 (Greenwich Mean Time)
+    time: 2017-01-05T00:00:00.000Z
   - title: RandomX PoW consensus
     description: Switches the mining algorithm
     link: https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades
-    time: Mon Nov 11 2019 00:00:00 GMT+0000 (Greenwich Mean Time)
+    time: 2019-11-11T00:00:00.000Z
   - title: Atomic Swaps released
     description: AtomicSwaps is a protocol to trade monero for bitcoin trustlessly
     link: https://www.getmonero.org/2021/08/20/atomic-swaps.html
-    time: Fri Aug 20 2021 00:00:00 GMT+0000 (Greenwich Mean Time)
+    time: 2021-08-20T00:00:00.000Z
   - title: P2Pool released
     description: P2Pool is a protocol for creating decentralized mining pools
     link: https://www.getmonero.org/2021/10/05/p2pool-released.html
-    time: Tue Oct 05 2021 00:00:00 GMT+0000 (Greenwich Mean Time)
+    time: 2021-10-05T00:00:00.000Z
   - title: v0.18 hardfork
     description: ringsize = 16, bulletproofs+, view tags, adjusted dynamic block
       weight algorithm.
     link: https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades
-    time: Sat Aug 13 2022 00:00:00 GMT+0000 (Greenwich Mean Time)
+    time: 2022-08-13T00:00:00.000Z
   - title: Haveno-reto DEX released
     description: Haveno-reto is a multisig DEX to trade monero for FIAT and cryptos
     link: https://monero.town/post/3135463
-    time: Mon May 13 2024 00:00:00 GMT+0000 (Greenwich Mean Time)
+    time: 2024-05-13T00:00:00.000Z

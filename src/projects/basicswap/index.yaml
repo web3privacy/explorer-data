@@ -6,7 +6,7 @@ ecosystem:
 - multichain
 description: A private and cross-chain DEX
 project_type: DeFi
-product_launch_day: '2022-12-08'
+product_launch_day: 2022-12-08T00:00:00.000Z
 technology:
   type: P2P
   name: peer to peer
@@ -41,8 +41,9 @@ storage:
 tracebility:
   tracked_data: Chains activity
   kyc: false
-  sign_in_type_requirments: wallet
-third_party_dependency: false
+  sign_in_type_requirments: 
+    - wallet
+third_party_dependency: none
 client_diversability:
 - name: BasicSwap client
   link: https://basicswapdex.com/

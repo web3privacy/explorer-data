@@ -1,44 +1,45 @@
 id: ritual
 name: Ritual
 categories:
-- applications
+  - applications
 ecosystem:
-- ethereum
-- solana
-- polygon
-description: We are building a way for any protocol, application, or smart contract
-  to integrate AI models with a few lines of code.
-product_launch_day: '2023'
+  - ethereum
+  - solana
+  - other
+description: >-
+  We are building a way for any protocol, application, or smart contract to
+  integrate AI models with a few lines of code.
+product_launch_day: 2023-01-01T00:00:00.000Z
 team:
   anonymous: false
   teammembers:
-  - name: Niraj Pant
-    link: https://x.com/niraj
-  - name: Akilesh Potti
-    link: https://x.com/akileshpotti
-  - name: Anish Agnihotri
-    link: https://x.com/_anishagnihotri
-  - name: Eva Zhang
-    link: https://www.linkedin.com/in/evazhang612/
-  - name: Saneel Sreeni
-    link: https://x.com/sanlsrni
-  - name: Maryam Bahrani
-    link: https://www.mbahrani.net/
-  - name: Yahya Hassanzadeh
-    link: https://www.linkedin.com/in/yhassanzadeh/
-  - name: Praveen Palanisamy
-    link: https://www.linkedin.com/in/praveenpalanisamy/
+    - name: Niraj Pant
+      link: 'https://x.com/niraj'
+    - name: Akilesh Potti
+      link: 'https://x.com/akileshpotti'
+    - name: Anish Agnihotri
+      link: 'https://x.com/_anishagnihotri'
+    - name: Eva Zhang
+      link: 'https://www.linkedin.com/in/evazhang612/'
+    - name: Saneel Sreeni
+      link: 'https://x.com/sanlsrni'
+    - name: Maryam Bahrani
+      link: 'https://www.mbahrani.net/'
+    - name: Yahya Hassanzadeh
+      link: 'https://www.linkedin.com/in/yhassanzadeh/'
+    - name: Praveen Palanisamy
+      link: 'https://www.linkedin.com/in/praveenpalanisamy/'
 links:
-  web: https://ritual.net/
-  github: https://github.com/ritual-net
-  docs: https://docs.ritual.net/
-  blog: https://ritual.net/blog
-  twitter: https://x.com/ritualnet
-  discord: https://discord.com/invite/ritual-net
+  web: 'https://ritual.net/'
+  github: 'https://github.com/ritual-net'
+  docs: 'https://docs.ritual.net/'
+  blog: 'https://ritual.net/blog'
+  twitter: 'https://x.com/ritualnet'
+  discord: 'https://discord.com/invite/ritual-net'
 sunset: false
 funding:
   - name: archetype
-    link: https://ritual.net/blog/introducing-ritual
+    link: 'https://ritual.net/blog/introducing-ritual'
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
@@ -48,8 +49,7 @@ privacy_policy:
 default_privacy: true
 tracebility:
   kyc: false
-third_party_dependency: false
-
+third_party_dependency: none
 usecases:
-- ai
+  - ai
 have_token: false

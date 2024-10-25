@@ -13,12 +13,11 @@ links:
 usecases:
   - bridge
 have_token: false
-third_party_dependency: false
+third_party_dependency: none
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/shinobi/logo.png
-percentage: 17
 ecosystem:
   - cosmos
 description: Secret Network bridge for BTC
