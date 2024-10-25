@@ -78,12 +78,11 @@ history:
     description: "​Shaping and Defending the Techno-Political Evolution: Open
       Source, Public Goods, and Grassroots Movements"
     link: https://web3privacy.info/event/m24rom/
-    time: Thu Oct 03 2024 00:00:00 GMT+0300 (Eastern European Summer Time)
+    time: 2024-10-02T21:00:00.000Z
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/web3privacynow/logo.png
-percentage: 66
 project_phase: mainnet
 project_status:
   live_status: true

@@ -17,8 +17,7 @@ assets_used:
   - xmr
   - eth
   - btc
-  - Litecoin
-  - BitcoinCash
+  - other
 have_token: false
 tokens: []
 links:

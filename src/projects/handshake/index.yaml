@@ -147,76 +147,76 @@ history:
   - title: Handshake mainnet launch
     description: Handshake's Uncensorable Web Domains Go Live on Mainnet
     link: https://www.coindesk.com/markets/2020/02/04/handshakes-uncensorable-web-domains-go-live-on-mainnet/
-    time: Mon Feb 03 2020 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2020-02-02T23:00:00.000Z
   - title: "ENS claims .eth "
     description: "The reserved TLD .eth and 136,503.51 HNS coins (worth ~$14,000 at
       the time) were claimed by the https://ethereum.org/ & https://ens.domains/
       community. "
     link: https://hns.cymon.de/name/eth
-    time: Mon Feb 17 2020 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2020-02-16T23:00:00.000Z
   - title: Brave.com claims .brave
     description: "Brave.com claimed its reserved TLD .brave and 3,400,503.43 HNS
       coins (worth ~$530,000 at the time). "
     link: https://hns.cymon.de/name/brave
-    time: Tue Mar 24 2020 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2020-03-23T23:00:00.000Z
   - title: hnsd release
     description: This is the first version of hnsd released for Handshake mainnet by
       Matthew Zipkin.
     link: https://github.com/handshake-org/hnsd/releases/tag/v1.0.0
-    time: Sat Jul 25 2020 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2020-07-24T22:00:00.000Z
   - title: Product of the Day
     description: "Handshake won Product of the Day on Producthunt.com. "
     link: https://producthunt.com/products/handshake-hns#handshake-hns
-    time: Sat Oct 31 2020 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2020-10-30T23:00:00.000Z
   - title: .nft sold for $84,000
     description: The Handshake TLD .nft sold for $84,000
     link: https://decrypt.co/56388/nft-domain-handshake
-    time: Tue Feb 02 2021 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2021-02-01T23:00:00.000Z
   - title: Impervious.com launched .badass domains
     description: Impervious.com launched .badass domains, truly decentralized
       2nd-level domains built on Handshake.
     link: https://x.com/impervious/status/1366115556496191497
-    time: Sun Feb 28 2021 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2021-02-27T23:00:00.000Z
   - title: Handycon 1
     description: The first edition from Handycon.xyz, the Handshake conference.
     link: https://www.youtube.com/playlist?list=PL6Bh0D6ukftFGoiFwxLghtRIlscRB_8CM
-    time: Wed Mar 10 2021 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2021-03-09T23:00:00.000Z
   - title: Namecheap.com claims .namecheap
     description: "Namecheap.com claimed its reserved TLD and 2,720,503 HNS "
     link: https://hns.cymon.de/name/namecheap
-    time: Thu Apr 08 2021 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2021-04-07T22:00:00.000Z
   - title: Fingertip release
     description: Impervious.com launched the Fingertip resolver
     link: https://x.com/impervious/status/1421181384291463176
-    time: Fri Jul 30 2021 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2021-07-29T22:00:00.000Z
   - title: IPFS support HNS
     description: ipfs.com added support for Handshake
     link: https://docs.ipfs.tech/how-to/websites-on-ipfs/link-a-domain/#handshake
-    time: Sun Oct 31 2021 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2021-10-30T22:00:00.000Z
   - title: Handycon 2
     description: The 2nd edition from Handycon.xyz, the online Handshake conference.
     link: https://www.youtube.com/watch?v=0apAhCeJIPk&list=PL6Bh0D6ukftERGXJ1U6YB3YH-bwafvaWA
-    time: Wed Mar 16 2022 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2022-03-15T23:00:00.000Z
   - title: .s TLD sold for $750k
     description: Richard Kirkendall acquired the Handshake TLD .s/ for $750,000
       during https://www.handycon.xyz/
     link: https://domainnamewire.com/2022/03/18/a-handshake-domain-apparently-just-sold-for-750k/
-    time: Fri Mar 18 2022 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2022-03-17T23:00:00.000Z
   - title: Aloha Browser integrates HNS
     description: Alohabrowser.com, with 28 million monthly active users, integrates
       Handshake
     link: https://news.bitcoin.com/aloha-browser-paves-the-way-towards-web3-with-recent-hns-integration/
-    time: Tue May 10 2022 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2022-05-09T22:00:00.000Z
   - title: Palau claims .pw
     description: The nation of Palau 🇵🇼 claims its TLD .pw on Handshake
     link: https://x.com/hnsclaims/status/1529870742124482563
-    time: Thu May 26 2022 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2022-05-25T22:00:00.000Z
   - title: HNS SLDs on Namecheap
     description: https://namecheap.com lists community-owned Handshake TLDs on its
       platform. Users can now buy Handshake domains on the second largest domain
       registrar in the world
     link: https://namecheap.com/domains/handshake-domains/
-    time: Fri Jul 15 2022 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2022-07-14T22:00:00.000Z
   - title: Keybase.io claims .keybase
     description: Keybase.io claims its reserved name .keybase/ and reward (worth
       ~$204,000 at the time)
@@ -227,47 +227,47 @@ history:
       the list of claimed ICANN TLDs on Handshake: .wiki, .gay, .tattoo, .pw,
       .ink"
     link: https://hns.cymon.de/name/tattoo
-    time: Thu Aug 11 2022 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2022-08-10T22:00:00.000Z
   - title: Bitmain HS3 miner
     description: Bitmain.com announces Antminer HS3, a new Handshake ASIC miner,
       with @AntPoolofficial mining pool support. Inventory sells out in 27
       seconds.
     link: https://x.com/BITMAINtech/status/1605404203542728704
-    time: Tue Dec 21 2021 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2021-12-20T23:00:00.000Z
   - title: Handycon 3
     description: The 3rd edition from Handycon.xyz, the Handshake conference.
     link: https://www.youtube.com/watch?v=KZczbT4V394&list=PL6Bh0D6ukftFFk_ySlD9StZyZ-q51yg0H
-    time: Wed Mar 08 2023 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2023-03-07T23:00:00.000Z
   - title: HNS Halving
     description: "Handshake completes its first halving:"
     link: https://theshake.substack.com/p/halving-complete
-    time: Fri Apr 28 2023 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2023-04-27T22:00:00.000Z
   - title: Launch Shakestation
     description: Eskimo.dev launches Shakestation
     link: https://x.com/Shake_Station/status/1660630704877707264
-    time: Mon May 22 2023 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2023-05-21T22:00:00.000Z
   - title: Launch HNS.ID
     description: Namebase.io launches HNS.ID, a decentralized SLD solution on Optimism
     link: https://x.com/HNS_ID/status/1696956479704805659
-    time: Wed Aug 30 2023 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2023-08-29T22:00:00.000Z
   - title: Soft Fork
     description: Handshake’s first fork is locked in (taking effect ~Feb 3, 2024)
     link: https://x.com/HNS/status/1725022206525349944
-    time: Thu Nov 16 2023 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2023-11-15T23:00:00.000Z
   - title: Carbon Browser integrates HNS
     description: Carbon Browser  integrates Handshake
     link: https://x.com/trycarbonio/status/1734145838828396943
-    time: Mon Dec 11 2023 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2023-12-10T23:00:00.000Z
   - title: Masq Browser integrates HNS
     description: Native access to Handshake domains for the MASQ browser
     link: https://x.com/MASQ_ai/status/1753857221329633756
-    time: Sat Feb 03 2024 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2024-02-02T23:00:00.000Z
   - title: Handycon 4
     description: The 4rd edition from Handycon.xyz, the Handshake conference.
     link: https://www.youtube.com/watch?v=-IhYBWvm0mM&list=PL6Bh0D6ukftG0_Ihk2816kqhrSj2iMBjZ
-    time: Wed Mar 13 2024 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2024-03-12T23:00:00.000Z
   - title: "SANE: Stateless DANE"
     description: "Stateless DANE operational. By Alexander Shevtsov  "
     link: https://x.com/hnsbroker/status/1831421004368998822
-    time: Wed Sep 04 2024 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2024-09-03T22:00:00.000Z
 id: handshake

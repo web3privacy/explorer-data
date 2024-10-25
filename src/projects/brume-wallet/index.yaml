@@ -6,7 +6,7 @@ ecosystem:
 - ethereum
 description: Tor based wallet for Ethereum
 project_type: Wallets
-product_launch_day: '2022-11-13'
+product_launch_day: 2022-11-13T00:00:00.000Z
 technology:
   type: Tor
   name: Tor project
@@ -40,13 +40,14 @@ storage:
 tracebility:
   tracked_data: no ( Tor based )
   kyc: false
-  sign_in_type_requirments: seed
-third_party_dependency: false
+  sign_in_type_requirments: 
+    - seed
+third_party_dependency: none
 history:
 - title: Hackaton
   event_type: Hackaton
   description: Hackaton project
-  time: Nov 13, 2022
+  time: 2022-11-12T23:00:00.000Z
 default_privacy: true
 project_status:
   live_status: true

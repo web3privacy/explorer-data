@@ -1,24 +1,25 @@
 id: decred
 name: Decred
 categories:
-- defi
-description: A blockchain-based cryptocurrency with a strong focus on community input,
-  open governance, and sustainable funding for development
+  - defi
+description: >-
+  A blockchain-based cryptocurrency with a strong focus on community input, open
+  governance, and sustainable funding for development
 ecosystem:
-- lighting-network
+  - other
 links:
-  web: https://decred.org
-  github: https://docs.decred.org
-  block_explorer: https://dcrdata.decred.org/
-  docs: https://docs.decred.org/
-  blog: https://medium.com/decred
-  twitter: https://x.com/decredproject
-  discord: https://discord.com/invite/dXSmwvYury
-  facebook: https://www.facebook.com/decredproject
-  telegram: https://t.me/Decred
+  web: 'https://decred.org'
+  github: 'https://docs.decred.org'
+  block_explorer: 'https://dcrdata.decred.org/'
+  docs: 'https://docs.decred.org/'
+  blog: 'https://medium.com/decred'
+  twitter: 'https://x.com/decredproject'
+  discord: 'https://discord.com/invite/dXSmwvYury'
+  facebook: 'https://www.facebook.com/decredproject'
+  telegram: 'https://t.me/Decred'
 team:
   anonymous: false
 usecases:
-- currency
+  - currency
 have_token: false
-third_party_dependency: false
+third_party_dependency: none

@@ -1,36 +1,37 @@
 id: sienna
 name: Sienna Network
 categories:
-- defi
+  - defi
 ecosystem:
-- cecret
+  - other
 tokens:
-- name: Sienna Network
-  symbol: SIENNA
-  network: Secret Network
-  contract_address: secret1rgm2m5t530tdzyd99775n6vzumxa5luxcllml4
-description: Privacy-first, cross-chain decentralized finance protocol powered by
-  Secret Network in the Cosmos ecosystem.
+  - name: Sienna Network
+    symbol: SIENNA
+    network: Secret Network
+    contract_address: secret1rgm2m5t530tdzyd99775n6vzumxa5luxcllml4
+description: >-
+  Privacy-first, cross-chain decentralized finance protocol powered by Secret
+  Network in the Cosmos ecosystem.
 project_type: DeFi
-product_launch_day: '2022-04-27'
+product_launch_day: 2022-04-27T00:00:00.000Z
 technology:
   type: TEE
   name: Trusted execution environment
   features:
-  - private
-  - DeFi
+    - private
+    - DeFi
 links:
-  web: https://sienna.network/
-  twitter: https://twitter.com/sienna_network
-  telegram: https://t.me/GoSiennaNetwork
-  discord: https://discord.com/invite/jZk8ggm7XP
-  blog: https://medium.com/@cm_77528
-  block_explorer: https://www.mintscan.io/secret
-  whitepaper: https://sienna.network/whitepaper/
-  github: https://github.com/SiennaNetwork
-  docs: https://docs.sienna.network/main/
-  changelog: https://medium.com/@cm_77528
-  forum: https://commonwealth.im/siennanetwork/discussions
+  web: 'https://sienna.network/'
+  twitter: 'https://twitter.com/sienna_network'
+  telegram: 'https://t.me/GoSiennaNetwork'
+  discord: 'https://discord.com/invite/jZk8ggm7XP'
+  blog: 'https://medium.com/@cm_77528'
+  block_explorer: 'https://www.mintscan.io/secret'
+  whitepaper: 'https://sienna.network/whitepaper/'
+  github: 'https://github.com/SiennaNetwork'
+  docs: 'https://docs.sienna.network/main/'
+  changelog: 'https://medium.com/@cm_77528'
+  forum: 'https://commonwealth.im/siennanetwork/discussions'
 blockchain_features:
   p2p: false
   encryption: TEE
@@ -42,7 +43,7 @@ blockchain_features:
   revealed_recipient: false
   revealed_sender: false
   revealed_ammount: false
-  reversability_condition: viewing key, hack
+  reversability_condition: 'viewing key, hack'
   data_masking: SNIP-20 token
   asset_custody_type: non-custody
 licences: General Public License
@@ -55,38 +56,39 @@ storage:
 tracebility:
   tracked_data: user SCRT adress
   kyc: false
-  sign_in_type_requirments: wallet
-third_party_dependency: false
-
+  sign_in_type_requirments:
+    - wallet
+third_party_dependency: none
 audits:
-- name: Halborn and Certik
-  link: https://sienna.network/audits/
-  time: '2021-04-18'
+  - name: Halborn and Certik
+    link: 'https://sienna.network/audits/'
+    time: 2021-04-18T00:00:00.000Z
 social_trust: Slabs ( MRSINGER )
 technical_spof: Can decrypt
 history:
-- title: Mainet
-  event_type: launch
-  description: V1
-  time: October 2021
-  link: https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
+  - title: Mainet
+    event_type: launch
+    description: V1
+    time: 2021-09-30T22:00:00.000Z
+    link: >-
+      https://docs.scrt.network/secret-network-documentation/overview-ecosystem-and-technology/secret-network-overview/history
 client_diversability:
-- name: Keplr
-  link: https://www.keplr.app/
-- name: Starshell
-  link: https://starshell.net/
+  - name: Keplr
+    link: 'https://www.keplr.app/'
+  - name: Starshell
+    link: 'https://starshell.net/'
 default_privacy: true
 funding:
   - name: Public presale
     type: ICO
-    link: https://icodrops.com/sienna-network/
+    link: 'https://icodrops.com/sienna-network/'
     value: 11.200.000
-    time: May 5, 2021
+    time: 2021-05-04T22:00:00.000Z
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
 usecases:
-- defi
+  - defi
 have_token: false

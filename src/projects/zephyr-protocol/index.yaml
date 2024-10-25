@@ -1,26 +1,27 @@
 id: zephyr-protocol
 name: Zephyr Protocol
 categories:
-- defi
+  - defi
 description: The Untraceable Stablecoin Protocol
 ecosystem:
-- zephyr
+  - other
 links:
-  web: https://zephyrprotocol.com/
-  github: https://github.com/monero-ecosystem
-  block_explorer: https://explorer.zephyrprotocol.com/
-  whitepaper: https://static1.squarespace.com/static/64707f0b29789a5633c33117/t/6486fe5a300eb9556ff3f54b/1686568545016/Zephyr_Whitepaper_v1.pdf
-  blog: https://medium.com/@zephyrcurrencyprotocol
-  twitter: https://twitter.com/zephyr_org
-  discord: https://discord.gg/y4mzbDYSqQ
-  telegram: https://t.me/zephyrprotocol
+  web: 'https://zephyrprotocol.com/'
+  github: 'https://github.com/monero-ecosystem'
+  block_explorer: 'https://explorer.zephyrprotocol.com/'
+  whitepaper: >-
+    https://static1.squarespace.com/static/64707f0b29789a5633c33117/t/6486fe5a300eb9556ff3f54b/1686568545016/Zephyr_Whitepaper_v1.pdf
+  blog: 'https://medium.com/@zephyrcurrencyprotocol'
+  twitter: 'https://twitter.com/zephyr_org'
+  discord: 'https://discord.gg/y4mzbDYSqQ'
+  telegram: 'https://t.me/zephyrprotocol'
 team:
   anonymous: true
 technology:
   type: Monero
   features:
-  - Bulletproofs
-  - Ring signatures
+    - Bulletproofs
+    - Ring signatures
 blockchain_features:
   p2p: true
   opensource: false
@@ -40,10 +41,10 @@ project_status:
   testnet: false
   mainnet: true
 audits:
-- name: Cyberscope
-  link: https://www.cyberscope.io/audits/coin-zephyr-protocol
-  time: Apr. 2024
+  - name: Cyberscope
+    link: 'https://www.cyberscope.io/audits/coin-zephyr-protocol'
+    time: Apr. 2024
 usecases:
-- currency
+  - currency
 have_token: false
-third_party_dependency: false
+third_party_dependency: none

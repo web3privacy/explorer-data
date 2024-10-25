@@ -3,7 +3,7 @@ name: CULT DAO
 categories:
 - applications
 assets_used:
-- CULT
+- other
 ecosystem:
 - ethereum
 description: Investment DAO that fight against centralization and further decentralization
@@ -45,4 +45,4 @@ audits:
   time: '2022-11-11'
 usecases:
 - dao
-third_party_dependency: false
+third_party_dependency: none

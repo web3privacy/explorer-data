@@ -67,11 +67,11 @@ history:
   - title: Token Launch
     description: BUCC has been released.
     link: ""
-    time: Tue Jan 09 2024 00:00:00 GMT+0100 (Central European Standard Time)
+    time: 2024-01-08T23:00:00.000Z
   - title: Tortuga Launch
     description: Launched Tortuga - the final piece of the protocol which allows
       Ethless swaps between BUCC and ETH. Tortuga enables full privacy workflow
       for everyone.
     link: ""
-    time: Tue Sep 24 2024 00:00:00 GMT+0200 (Central European Summer Time)
+    time: 2024-09-23T22:00:00.000Z
 id: buccaneer-v3
