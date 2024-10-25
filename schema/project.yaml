@@ -32,8 +32,11 @@ properties:
   product_readiness:
     type: string
   product_launch_day:
-    type: object
-    format: custom-date-time
+    oneOf:
+      - type: object
+        format: custom-date-time
+      - type: string
+        format: custom-date-time
   have_token:
     type: boolean
 
@@ -101,8 +104,11 @@ properties:
         value:
           type: string
         time:
-          type: object
-          format: custom-date-time
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
   history:
     type: array
     items:
@@ -115,8 +121,11 @@ properties:
         description:
           type: string
         time:
-          type: object
-          format: custom-date-time
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
         link:
           type: string
           # format: uri
@@ -316,8 +325,11 @@ properties:
           type: string
           # format: uri
         time:
-          type: object
-          format: custom-date-time
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
   default_privacy:
     type: boolean
   project_phase:
