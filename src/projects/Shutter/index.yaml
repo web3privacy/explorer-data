@@ -1,59 +1,81 @@
+id: Shutter
 name: Shutter
 categories:
   - applications
+  - infrastructure
+  - defi
 ecosystem:
   - other
+  - ethereum
 usecases:
   - other
-description: >-
-  Pioneering threshold encryption protocol protecting you against sandwich
-  attacks & voting whales.
-product_launch_day: 2021-01-01T00:00:00.000Z
+  - defi
+  - infrastructure
+  - eth-layer-2
+  - dao
+description: Pioneering threshold encryption protocol protecting you against
+  sandwich attacks & voting whales.
+product_launch_day: 2021-04-25T21:00:00.000Z
 team:
   anonymous: false
   teammembers:
     - name: Luis Bezzenberger
-      link: 'https://x.com/bezzenberger'
+      link: https://x.com/bezzenberger
     - name: Loring Harkness
-      link: 'https://x.com/LoringHarkness'
+      link: https://x.com/LoringHarkness
 links:
-  web: 'https://www.shutter.network/'
-  github: 'https://github.com/shutter-network'
-  blog: 'https://blog.shutter.network/'
-  forum: 'https://shutternetwork.discourse.group/'
-  twitter: 'https://x.com/ShutterNetwork'
-  discord: 'https://discord.com/invite/Fx7m5cUcua'
-project_phase: Mainnet
+  web: https://www.shutter.network/
+  blog: https://blog.shutter.network/
+  github: https://github.com/shutter-network
+  forum: https://shutternetwork.discourse.group/
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ShutterNetwork
+  discord: https://discord.com/invite/Fx7m5cUcua
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
 project_status:
   live_status: true
-  version: mainnet
-  testnet: false
   mainnet: true
+  testnet: false
+  version: mainnet
 sunset: false
 tokens:
   - name: Shutter Token
     symbol: $SHU
     network: Ethereum
-    contract_address: '0xe485E2f1bab389C08721B291f6b59780feC83Fd7'
-    token_link: 'https://etherscan.io/token/0xe485E2f1bab389C08721B291f6b59780feC83Fd7'
+    contract_address: "0xe485E2f1bab389C08721B291f6b59780feC83Fd7"
+    token_link: https://etherscan.io/token/0xe485E2f1bab389C08721B291f6b59780feC83Fd7
 blockchain_features:
   opensource: true
-  asset_custody_type: DAO Multisig
   upgradability:
     enabled: true
-    type: DAO Governance
-    admin_keys: 51% vote
+  asset_custody_type: dao multisig
+  encryption: ""
 privacy_policy:
   defined: true
-  link: 'https://www.shutter.network/privacy-policy'
+  link: https://www.shutter.network/privacy-policy
+  data_usage: ""
 default_privacy: true
 tracebility:
   kyc: false
+  tracked_data: ""
   sign_in_type_requirments:
-    - wallet or Email
+    - wallet or email
 third_party_dependency: none
-compliance: ''
+compliance: ""
 storage:
   decentralized: true
 technology:
   type: encrypted mempool
+assets_used: []
+have_token: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
