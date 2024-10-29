@@ -84,7 +84,7 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: None
+  asset_custody_type: non-custody
   encryption: P2P, ZK, RLN, Anonymity, Gossip Network
   p2p: true
 storage:
