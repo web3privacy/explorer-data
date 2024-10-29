@@ -38,7 +38,7 @@ tokens:
     token_link: 'https://etherscan.io/token/0xe485E2f1bab389C08721B291f6b59780feC83Fd7'
 blockchain_features:
   opensource: true
-  asset_custody_type: DAO Multisig
+  asset_custody_type: custodial
   upgradability:
     enabled: true
     type: DAO Governance

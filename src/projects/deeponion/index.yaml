@@ -80,7 +80,7 @@ blockchain_features:
   opensource: true
   data_masking: DeepSend
   frontend_anonymity: TOR addresses
-  asset_custody_type: non-custodial
+  asset_custody_type: non-custody
   p2p: true
 project_status:
   live_status: true
