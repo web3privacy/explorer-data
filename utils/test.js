@@ -76,6 +76,7 @@ schemas.project.properties.usecases.items.enum = w3pd.data.usecases.map((c) => c
 // schemas.project.properties.technology.properties.features.items.enum = w3pd.data.features.map((f) => f.id);
 schemas.project.properties.ecosystem.items.enum = w3pd.data.ecosystems.map((e) => e.id);
 schemas.project.properties.assets_used.items.enum = w3pd.data.assets.map((a) => a.id);
+schemas.project.properties.blockchain_features.properties.asset_custody_type.enum = ["", ...w3pd.data.custodys.map((c) => c.id)];
 
 for (const col of Object.keys(w3pd.data)) {
   if (col === "ranks" || col === "features") continue; // Skip testing for ranks and features
