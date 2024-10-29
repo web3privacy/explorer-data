@@ -3858,7 +3858,7 @@
         "opensource": true,
         "data_masking": "DeepSend",
         "frontend_anonymity": "TOR addresses",
-        "asset_custody_type": "non-custodial",
+        "asset_custody_type": "non-custody",
         "p2p": true
       },
       "project_status": {
@@ -4809,7 +4809,7 @@
       ],
       "blockchain_features": {
         "opensource": true,
-        "asset_custody_type": "DAO Multisig",
+        "asset_custody_type": "custodial",
         "upgradability": {
           "enabled": true,
           "type": "DAO Governance",
@@ -13378,7 +13378,7 @@
         "upgradability": {
           "enabled": false
         },
-        "asset_custody_type": "None",
+        "asset_custody_type": "non-custody",
         "encryption": "P2P, ZK, RLN, Anonymity, Gossip Network",
         "p2p": true
       },
@@ -18045,7 +18045,7 @@
       "blockchain_features": {
         "opensource": true,
         "p2p": true,
-        "asset_custody_type": "Non-custodial"
+        "asset_custody_type": "non-custody"
       },
       "project_status": {
         "version": "v0.9",
