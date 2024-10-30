@@ -21,7 +21,7 @@ assets_used:
 have_token: false
 tokens: []
 links:
-  web: https;//haveno-reto.com
+  web: https://haveno-reto.com
   blog: ""
   github: https://github.com/retoaccess1/haveno-reto
   forum: https://reddit.com/r/Monero
@@ -29,7 +29,7 @@ links:
   whitepaper: ""
   block_explorer: https://xmrchain.net
   governance: ""
-  twitter: x.com/haveno-reto
+  twitter: x.com/haveno_reto
   discord: ""
   telegram: ""
   lens: ""
