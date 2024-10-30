@@ -38,7 +38,7 @@ technology:
 blockchain_features:
   opensource: true
   p2p: true
-  asset_custody_type: Non-custodial
+  asset_custody_type: non-custody
 project_status:
   version: v0.9
   live_status: true
