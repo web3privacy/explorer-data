@@ -1,3 +1,4 @@
+id: enclave
 name: Enclave
 categories:
   - infrastructure
@@ -13,8 +14,9 @@ ecosystem:
 description: >-
   Enclave is an open-source protocol for Encrypted Execution Environments (E3)
   that enables secure, verifiable computations on encrypted data using FHE,
-  ZKPs, and DTC (distributed threshold cryptography). 
+  ZKPs, and DTC (distributed threshold cryptography). <br />
 
+  <br />
 
   Special Features:
 
@@ -47,7 +49,7 @@ description: >-
   and compliance. It enables use cases such as secret voting, sealed-bid
   auctions, and privacy-preserving collaborative analysis that are difficult or
   impossible with traditional solutions.
-product_launch_day: 2024-06-15T05:00:00.000Z
+product_launch_day: 2024-06-06T05:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -99,4 +101,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: enclave
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/enclave/logo.png
