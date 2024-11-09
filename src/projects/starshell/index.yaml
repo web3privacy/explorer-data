@@ -3,7 +3,7 @@ name: Starshell
 categories:
   - applications
 description: A privacy-preserving, free and open-source Web3 wallet built for
-  the Secret Network and Cosmos ecosystem
+  the Secret Network and Cosmos ecosystem.
 ecosystem:
   - multichain
   - cosmos
@@ -34,7 +34,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/starshell/logo.png
-product_launch_day: 2023-02-04T23:00:00.000Z
 sunset: false
 assets_used:
   - scrt
