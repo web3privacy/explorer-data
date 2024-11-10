@@ -1,0 +1,10 @@
+name: test
+categories:
+  - social-and-communications
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: test
+sunset: false
+id: test
