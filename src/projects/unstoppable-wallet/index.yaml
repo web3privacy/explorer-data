@@ -1,0 +1,66 @@
+name: Unstoppable Wallet
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - multichain
+description: Unstoppable is the first multi-coin wallet that supports Bitcoin,
+  Ethereum, and fully shielded Zcash
+product_launch_day: 2019-07-18T18:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - sol
+  - zcash
+  - usdt
+have_token: false
+tokens: []
+links:
+  web: https://unstoppable.money/
+  blog: ""
+  github: https://github.com/horizontalsystems
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/unstoppablebyhs
+  discord: ""
+  telegram: https://t.me/unstoppable_announcements
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: unstoppable-wallet
