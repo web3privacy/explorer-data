@@ -17447,6 +17447,97 @@
       ]
     },
     {
+      "id": "zksafe",
+      "name": "zkSafe",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "wallets",
+        "infrastructure",
+        "dao",
+        "dapps"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "zkSafe is a tool that enables better privacy for Safe multisig signing. Using zkSafe, Safe owners can collectively sign transactions without revealing who has signed the transaction. Privacy-forward crypto organizations, foundations, DAOs, and funds requiring robust security controls for asset management will find zkSafe valuable.",
+      "product_launch_day": "2024-11-02T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "zksafe.1kx.io",
+        "blog": "https://medium.com/1kxnetwork/today-1kx-proudly-unveils-zksafe-a-module-designed-to-enhance-privacy-for-safe-multisig-signing-ec83c45d497b",
+        "github": "github.com/1kx-network/zksafe",
+        "forum": "",
+        "docs": "https://github.com/1kx-network/zksafe/blob/main/README.md",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Aztec Noir"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [
+        {
+          "name": "Halborn",
+          "url": "https://www.halborn.com/audits/1kx/zk-sync-matter-labs-zk-safe-sca",
+          "time": "2024-05-30T17:00:00.000Z"
+        }
+      ],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "valeryz",
+            "link": "https://x.com/valeryz"
+          }
+        ]
+      },
+      "funding": [
+        {
+          "name": "1kx",
+          "link": ""
+        }
+      ],
+      "history": []
+    },
+    {
       "id": "skiff-drive",
       "name": "Skiff Drive",
       "categories": [
