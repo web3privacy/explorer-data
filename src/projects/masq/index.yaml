@@ -4,30 +4,36 @@ categories:
   - infrastructure
   - applications
 logos:
-  - file: MASQ-token-v2.png
+  - file: logo.png
     ext: png
-    url: MASQ-token-v2.png
+    url: https://explorer-data.web3privacy.info/assets/projects/masq/logo.png
 ecosystem:
   - ethereum
   - other
 project_type: Decentralized privacy network protocol
-description: >-
-  a web3-native browser, dMeshVPN, dApp Store, protocol, and earning ecosystem
-  that makes living in Web3 anonymous and private
-product_launch_day: '2019-10-20T00:00:00.000Z'
+description: MASQ is a , dMeshVPN, web3-native privacy browser, dApp Store,
+  protocol, and earning ecosystem that makes living in Web3 anonymous and
+  private
+product_launch_day: 2019-11-18T11:00:00.000Z
 team:
   anonymous: true
+  teammembers:
+    - name: KauriHero
+      link: https://x.com/KauriHero
 links:
-  web: 'https://www.masqbrowser.com/'
-  github: 'https://github.com/MASQ-Project'
-  docs: 'https://docs.masq.ai/masq'
-  blog: 'https://www.masqbrowser.com/blog'
-  twitter: 'https://twitter.com/MASQ_ai'
-  changelog: 'https://masq-network.canny.io/changelog'
-  telegram: 'https://t.me/MASQ_ai'
-  discord: 'https://discord.gg/masq'
-  youtube: 'http://www.youtube.com/@MASQNetwork'
-  education: 'https://docs.masq.ai/masq/getting-started/faqs'
+  web: https://www.masqbrowser.com/
+  blog: https://www.masqbrowser.com/blog
+  github: https://github.com/MASQ-Project
+  forum: ""
+  docs: https://docs.masq.ai/masq
+  whitepaper: ""
+  block_explorer: https://dune.com/masq_network/masq-network-dashboard
+  governance: ""
+  twitter: https://twitter.com/MASQ_ai
+  discord: https://discord.gg/masq
+  telegram: https://t.me/MASQ_ai
+  lens: ""
+  farcaster: ""
 technology:
   type: P2P networking
   name: dMeshVPN
@@ -37,26 +43,57 @@ technology:
     - incentivized
 blockchain_features:
   opensource: true
-  p2p: true
+  upgradability:
+    enabled: false
   asset_custody_type: non-custody
+  encryption: E2EE Networking with TLS across TCP, multihop encryption routing
+    without packet distinguishment
+  p2p: true
 project_status:
-  version: v0.9
   live_status: true
-  testnet: true
   mainnet: false
+  testnet: true
+  version: testnet
 licences: GPLv3 License
 privacy_policy:
   defined: true
-  link: >-
-    https://www.notion.so/MASQ-Network-Privacy-Practices-a58209dd0089404b80474da924015c03?pvs=4
-  data_usage: Not Using
+  link: https://www.notion.so/MASQ-Network-Privacy-Practices-a58209dd0089404b80474da924015c03?pvs=4
+  data_usage: If user provides email, used for newsletters and tech updates
 default_privacy: true
 storage:
   decentralized: true
-third_party_dependency: none
-social_trust: Team Multisigs & Dune analytics
+third_party_dependency: Open Source libraries, reliance on blockchain RPC
+  services on client side, DEX pools
+social_trust: Snapshot, Team Multisigs, Dune analytics
 usecases:
   - infrastructure
   - vpn
   - browser
-have_token: false
+have_token: true
+sunset: false
+assets_used: []
+tokens:
+  - symbol: MASQ
+    name: MASQ (Base bridged)
+    contract_address: "0x45d9c101a3870ca5024582fd788f4e1e8f7971c3"
+    token_link: https://basescan.org/token/0x45d9c101a3870ca5024582fd788f4e1e8f7971c3
+  - symbol: MASQ
+    name: MASQ PoS
+    contract_address: "0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35"
+    token_link: https://polygonscan.com/token/0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35
+  - symbol: MASQ
+    name: MASQ
+    contract_address: "0x06F3C323f0238c72BF35011071f2b5B7F43A054c"
+    token_link: https://etherscan.io/token/0x06F3C323f0238c72BF35011071f2b5B7F43A054c
+project_phase: testnet
+compliance: No
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments:
+    - wallet
+audits: []
+technical_spof: ISP-led wide-spread blocking of external IPs (country-wide or
+  Great-Firewall style), Quantum Computing breaking HTTPS/TLS
+funding: []
+history: []
