@@ -1,0 +1,73 @@
+name: illumineX
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+  - ethereum
+  - multichain
+description: Non-custodial and private cross-chain wallet with integrated swaps.
+  Deposit your BTC, ETH and other assets to instantly make them private, and
+  break the link between depositing and receiving addresses. Web-based, no
+  downloads or registration needed. No KYC.
+sunset: false
+assets_used:
+  - btc
+  - eth
+  - usdt
+  - other
+have_token: true
+tokens:
+  - symbol: IX
+    name: illumineX
+    contract_address: "0x45e82579792dddf08cb3a037086604c262d78065"
+    token_link: https://etherscan.io/token/0x45e82579792dddf08cb3a037086604c262d78065
+links:
+  web: https://illuminex.xyz/
+  blog: https://illuminex.medium.com/
+  github: https://github.com/illuminexwallet
+  forum: ""
+  docs: https://docs.illuminex.xyz/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/illumineXwallet
+  discord: https://discord.com/invite/3GJ5cYurYK
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: OPL (Oasis Privacy Layer), TEE
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://docs.illuminex.xyz/illuminex-terms-and-conditions/privacy-policy
+  data_usage: ""
+compliance: OFAC
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: illuminex
