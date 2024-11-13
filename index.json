@@ -12429,9 +12429,10 @@
       "id": "coti",
       "name": "Coti",
       "categories": [
-        "infrastructure"
+        "infrastructure",
+        "applications"
       ],
-      "description": "EVM L2 solving blockchain privacy with Garbled Circuits",
+      "description": "COTI V2 is a privacy-centric Ethereum L2. Powered by the breakthrough cryptographic protocol Garbled Circuits and secured by Ethereum, COTI V2 offers the most advanced solution for data protection on public blockchains. ",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -12449,32 +12450,42 @@
       },
       "links": {
         "web": "https://coti.io/",
+        "blog": "https://coti.io/blog",
         "github": "https://github.com/coti-io",
+        "forum": "",
         "docs": "https://docs.coti.io/coti-v2-documentation",
         "whitepaper": "https://coti.io/files/coti_v2_whitepaper.pdf",
-        "blog": "https://coti.io/blog",
+        "block_explorer": "https://testnet.cotiscan.io",
+        "governance": "",
         "twitter": "https://x.com/COTInetwork",
         "discord": "https://discord.com/invite/wfAQfbc3Df",
-        "telegram": "https://t.me/COTInetwork"
+        "telegram": "https://t.me/COTInetwork",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
-        "version": "Testnet",
+        "mainnet": false,
         "testnet": true,
-        "mainnet": false
+        "version": "testnet"
       },
-      "have_token": false,
+      "have_token": true,
       "token_link": "https://etherscan.io/token/0xddb3422497e61e13543bea06989c0789117555c5",
       "tokens": [
         {
-          "name": "CotiToken",
-          "symbol": "$COTI",
-          "network": "Ethereum",
-          "contract_address": "0xDDB3422497E61e13543BeA06989C0789117555c5"
+          "symbol": "COTI",
+          "name": "COTI",
+          "contract_address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+          "token_link": "https://testnet.cotiscan.io"
         }
       ],
       "usecases": [
-        "eth-layer-2"
+        "eth-layer-2",
+        "defi",
+        "computing",
+        "did",
+        "ai",
+        "other"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -12483,7 +12494,45 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/coti/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "solana",
+        "cosmos",
+        "multichain"
+      ],
+      "product_launch_day": "2024-01-13T05:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "project_phase": "testnet",
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Garbled Circuits"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://coti.io/terms",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": []
     },
     {
       "id": "web3privacynow",
