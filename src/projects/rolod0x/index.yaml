@@ -1,0 +1,86 @@
+name: rolod0x
+categories:
+  - applications
+usecases:
+  - wallets
+  - defi
+  - infrastructure
+  - browser
+  - dapps
+  - research-and-development
+ecosystem:
+  - ethereum
+description: >-
+  rolod0x is a free privacy-preserving address book which gives you a much
+  smoother experience when browsing sites onchain.
+
+
+  Instead of having to keep track of long hexadecimal addresses, simply
+  right-click an address and give it a memorable label.  Now when you go to any
+  web page, the extension automatically replaces that address wherever it
+  appears with the label you provided.  This makes understanding onchain
+  activity way easier, and it works on any website and any blockchain.
+
+
+  You can also quickly look up any address by pressing a hotkey, and then just
+  type part of what you're looking for.
+product_launch_day: 2024-04-23T23:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://rolod0x.io
+  blog: ""
+  github: https://github.com/rolod0x/rolod0x/
+  forum: https://github.com/rolod0x/rolod0x/discussions
+  docs: https://rolod0x.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/rolod0x
+  discord: ""
+  telegram: https://t.me/rolod0x
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Browser extension with local storage
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://rolod0x.io/docs/privacy-policy.html
+  data_usage: "The user's address book is used locally on the user's device to
+    ease their interactions with dApps and web3 sites. "
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: No data is collected outside of the user's device.
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: It is dependent on various npm modules which are listed
+  in the package.json file.
+social_trust: It's an open source browser extension, so has the same trust
+  assumptions as using any other open source browser extension, i.e. that the
+  code does not contain malware, and if installing from an app store or
+  precompiled release that it has been built from the published sources.
+technical_spof: There is no single point of failure.  Anyone can fork the
+  repository and build it themselves.
+team:
+  anonymous: false
+  teammembers:
+    - name: Adam Spiers
+      link: https://www.linkedin.com/in/adamspiers/
+funding: []
+history: []
+id: rolod0x
