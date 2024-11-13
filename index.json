@@ -773,8 +773,8 @@
         "ethereum",
         "other"
       ],
-      "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3) that enables secure, verifiable computations on encrypted data using FHE, ZKPs, and DTC (distributed threshold cryptography). <br />\n<br />\nSpecial Features:\n\n* Full Data Privacy: Encrypted data is never exposed at any point.\n* Multiple Encrypted Inputs: Securely compute over data from multiple encrypted sources.\n* Decoupled Execution and Security: Nodes responsible for key management are separate from those handling execution, lowering hardware requirements.\n* Single-Use Keys: Keyshares are generated per computation request and are never reused, eliminating the need for key rotation even when nodes fail or misbehave.\n* Built-In Economic Incentives: MPC parties are bonded and subject to penalties or slashing for misbehavior, ensuring the system’s security without compromising overall operation.\n* Developer Accessibility: Programs can be written in Rust, making the system accessible to a broad developer base.\n* Encryption Scheme Agnostic: Enclave's modular design allows it to support various threshold FHE encryption schemes.\n\nEnclave is applicable in industries like healthcare, finance, governance, and collaborative efforts that require secure data processing with strong privacy and compliance. It enables use cases such as secret voting, sealed-bid auctions, and privacy-preserving collaborative analysis that are difficult or impossible with traditional solutions.",
-      "product_launch_day": "2024-06-06T05:00:00.000Z",
+      "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3) that enables secure, verifiable computations on encrypted data using FHE, ZKPs, and DTC (distributed threshold cryptography).\n<br >\n<br>\nSpecial Features:\n<br>\n* Full Data Privacy: Encrypted data is never exposed at any point.\n<br>\n* Multiple Encrypted Inputs: Securely compute over data from multiple encrypted sources.\n<br>\n* Decoupled Execution and Security: Nodes responsible for key management are separate from those handling execution, lowering hardware requirements.\n<br>\n* Single-Use Keys: Keyshares are generated per computation request and are never reused, eliminating the need for key rotation even when nodes fail or misbehave.\n<br>\n* Built-In Economic Incentives: MPC parties are bonded and subject to penalties or slashing for misbehavior, ensuring the system’s security without compromising overall operation.\n<br>\n* Developer Accessibility: Programs can be written in Rust, making the system accessible to a broad developer base.\n<br>\n* Encryption Scheme Agnostic: Enclave's modular design allows it to support various threshold FHE encryption schemes.\n<br>\n<br>\nEnclave is applicable in industries like healthcare, finance, governance, and collaborative efforts that require secure data processing with strong privacy and compliance. It enables use cases such as secret voting, sealed-bid auctions, and privacy-preserving collaborative analysis that are difficult or impossible with traditional solutions.",
+      "product_launch_day": "2024-06-04T04:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -798,20 +798,22 @@
         "farcaster": "https://warpcast.com/enclavee3"
       },
       "project_status": {
-        "live_status": false,
+        "live_status": true,
         "mainnet": false,
-        "testnet": false
+        "testnet": true,
+        "version": "testnet"
       },
       "blockchain_features": {
-        "opensource": false,
+        "opensource": true,
         "upgradability": {
           "enabled": false
         },
-        "asset_custody_type": "",
-        "encryption": "FHE, ZKP, MPC"
+        "asset_custody_type": "non-custody",
+        "encryption": "FHE, ZKP, MPC",
+        "p2p": true
       },
       "storage": {
-        "decentralized": false
+        "decentralized": true
       },
       "privacy_policy": {
         "defined": false,
@@ -824,14 +826,19 @@
         "tracked_data": "",
         "sign_in_type_requirments": []
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
       "third_party_dependency": "",
-      "social_trust": "",
+      "social_trust": "Enclave DAO Treasury and Enclave Foundation (future entities).",
       "technical_spof": "",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Gnosis Guild",
+            "link": "https://x.com/GnosisGuild"
+          }
+        ]
       },
       "funding": [],
       "history": [],
@@ -841,7 +848,8 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/enclave/logo.png"
         }
-      ]
+      ],
+      "project_phase": "testnet"
     },
     {
       "id": "payy",
