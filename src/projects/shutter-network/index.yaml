@@ -19,7 +19,7 @@ assets_used:
   - other
 have_token: true
 tokens:
-  - symbol: SHU
+  - symbol: $SHU
     name: Shutter Token
     contract_address: "0xe485E2f1bab389C08721B291f6b59780feC83Fd7"
     token_link: https://etherscan.io/token/0xe485E2f1bab389C08721B291f6b59780feC83Fd7
@@ -47,9 +47,12 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: true
-  asset_custody_type: ""
+    type: DAO Governance
+    admin_keys: 51% vote
+  asset_custody_type: custodial
   encryption: Threshold Encryption, Distributed Key Generation. Encrypted Mempool
-storage: {}
+storage: 
+  decentralized: true
 privacy_policy:
   defined: true
   link: https://www.shutter.network/privacy-policy
@@ -58,15 +61,22 @@ compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
-  sign_in_type_requirments: []
+  sign_in_type_requirments: 
+     - wallet or Email
 default_privacy: true
 audits: []
-third_party_dependency: ""
+third_party_dependency: none
 social_trust: ""
 technical_spof: ""
+technology:
+  type: encrypted mempool
 team:
   anonymous: false
-  teammembers: []
+  teammembers: 
+     - name: Luis Bezzenberger
+      link: 'https://x.com/bezzenberger'
+    - name: Loring Harkness
+      link: 'https://x.com/LoringHarkness'
 funding: []
 history: []
 id: shutter-network
