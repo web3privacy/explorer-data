@@ -14786,15 +14786,35 @@
       },
       "links": {
         "web": "https://minaprotocol.com",
+        "blog": "",
         "github": "https://github.com/MinaProtocol/mina",
-        "whitepaper": "https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf",
+        "forum": "",
         "docs": "https://docs.minaprotocol.com/",
-        "twitter": "https://twitter.com/minaprotocol"
+        "whitepaper": "https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/minaprotocol",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
         {
           "symbol": "MINA"
+        },
+        {
+          "symbol": "MINA",
+          "name": "MINA",
+          "contract_address": "",
+          "token_link": "https://minaexplorer.com/"
+        },
+        {
+          "symbol": "",
+          "name": "",
+          "contract_address": "",
+          "token_link": ""
         }
       ],
       "project_status": {
@@ -14813,7 +14833,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mina/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false,
+      "assets_used": []
     },
     {
       "id": "swarm",
