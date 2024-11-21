@@ -50,10 +50,10 @@ project_status:
   testnet: false
   version: mainnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
+  asset_custody_type: non-custody
   encryption: Browser extension with local storage
 storage: {}
 privacy_policy:
@@ -81,6 +81,11 @@ team:
   teammembers:
     - name: Adam Spiers
       link: https://www.linkedin.com/in/adamspiers/
-funding: []
+funding:
+  - name: Gitcoin Grants
+    type: GG20 OSS Program
+    link: https://explorer.gitcoin.co/#/projects/0x9d8a7504b0b9f0f0cb9284796a85fdc8164164117e22f1cd087f252c3ae993c1
+    value: 514.00 $
+    time: 2024-05-08T00:00:00.000Z
 history: []
 id: rolod0x
