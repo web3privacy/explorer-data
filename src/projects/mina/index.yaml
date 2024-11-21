@@ -1,25 +1,49 @@
 id: mina
 name: Mina
 categories:
-- infrastructure
-description: "The world\u2019s lightest blockchain, powered by participants. Using\
-  \ zero knowledge technology"
+  - infrastructure
+description: The world’s lightest blockchain, powered by participants. Using
+  zero knowledge technology
 team:
   anonymous: true
 links:
   web: https://minaprotocol.com
+  blog: ""
   github: https://github.com/MinaProtocol/mina
-  whitepaper: https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf
+  forum: ""
   docs: https://docs.minaprotocol.com/
+  whitepaper: https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/minaprotocol
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 tokens:
-- symbol: MINA
+  - symbol: MINA
+  - symbol: MINA
+    name: MINA
+    contract_address: ""
+    token_link: https://minaexplorer.com/
+  - symbol: ""
+    name: ""
+    contract_address: ""
+    token_link: ""
 project_status:
   live_status: true
   version: Mainnet
   testnet: true
   mainnet: true
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mina/logo.png
+ecosystem:
+  - other
+sunset: false
+assets_used: []
