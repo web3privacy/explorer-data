@@ -1,0 +1,96 @@
+id: enchifer
+name: Enchifer
+categories:
+  - FHE
+ecosystem: 
+  - Bitcoin
+have_token: false
+tokens:
+  - name: ""
+    symbol: ""
+    network: ""
+    contract_address: ""
+description: World's most trusted privacy-based solution for DeFi on Bitcoin using verifiable FHE.
+project_type: ""
+technology:
+  type: FHE
+  features:
+    - private
+links:
+  web: https://encifher.io/
+  blog: https://encifher.io/blog
+  github: https://github.com/RizeLabs
+  forum: ""
+  docs: https://docs.encifher.io/docs/intro
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/encifherio
+  discord: 
+  telegram: https://t.me/encifher
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: ""
+  asset_custody_type: non-custody
+  encryption: FHE
+  p2p: 
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: RizeLabs
+      role: ""
+      link: https://github.com/RizeLabs
+    - name: ""
+      role: ""
+    - name: ""
+      role: ""
+    
+storage:
+  decentralized: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: wallet
+third_party_dependency: ""
+audits:
+  - name: ""
+    link: ""
+    time: ""
+history:
+  - title: ""
+    event_type: ""
+    description: ""
+    time: ""
+    link: ""
+client_diversability:
+  - name: ""
+    link: ""
+  - name: ""
+    link: ""
+default_privacy: true
+funding:
+  - name: ""
+    type: ""
+    link: ""
+    value: "" 
+    time: ""
+project_status: 
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: ""
+usecases: 
+  - swap
+sunset: false
+assets_used: []
+project_phase: Testnet
+compliance: 
+social_trust: ""
+technical_spof: ""
