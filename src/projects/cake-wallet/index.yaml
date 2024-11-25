@@ -1,23 +1,85 @@
 id: cake-wallet
 name: Cake Wallet
 categories:
-- applications
-description: Cake Wallet allows you to safely store, send, receive, and exchange your
-  XMR, BTC, LTC, and XHV and exchange other currencies
+  - applications
+description: >-
+  Cake Wallet allows you to safely store, send, receive, and exchange your XMR,
+  BTC, LTC, ETH, SOL, WOW, and exchange other currencies.
+
+
+  All your favorite crypto in one wallet, with the best privacy for every chain.
 ecosystem:
-- monero
+  - monero
+  - bitcoin
+  - ethereum
+  - solana
 links:
-  web: https://monero.com/wallets
+  web: https://cakewallet.com
+  blog: https://blog.cakewallet.com
   github: https://github.com/cake-tech/cake_wallet
+  forum: https://forum.cakewallet.com
   docs: https://guides.cakewallet.com/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/cakewallet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: ''
+  mainnet: true
   testnet: false
-  mainnet: false
+  version: mainnet
 team:
-  anonymous: true
+  anonymous: false
+  teammembers:
+    - name: Seth For Privacy
+      link: https://x.com/sethforprivacy
+    - name: Vik Sharma
+      link: https://x.com/vikrantnyc
+    - name: Tuxsudo
+      link: https://x.com/tuxpizza
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/cake-wallet/logo.png
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdt
+  - dai
+  - sol
+  - xmr
+tokens: []
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Absolutely nothing.
+  sign_in_type_requirments:
+    - seed
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
