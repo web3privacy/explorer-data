@@ -1,29 +1,71 @@
 id: taceo
 name: Taceo
 categories:
-- infrastructure
+  - infrastructure
 description: Encrypted Computation Layer; MPC + ZK
 team:
   anonymous: false
   teammembers:
-  - name: Roman Walch
-    role: Co-founder
-    link: https://x.com/rw0x0
-  - name: Lukas Helminger
-    role: CEO
-    link: https://x.com/luhelminger
+    - name: Roman Walch
+      role: Co-founder
+      link: https://x.com/rw0x0
+    - name: Lukas Helminger
+      role: CEO
+      link: https://x.com/luhelminger
 links:
   web: https://taceo.io/
-  github: https://github.com/TaceoLabs
-  docs: https://docs.taceo.io/
   blog: https://blog.taceo.io/
+  github: https://github.com/TaceoLabs
+  forum: ""
+  docs: https://docs.taceo.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/TACEO_IO
   discord: https://discord.com/invite/gWZW2TANpk
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  mainnet: true
-  testnet: true
+  mainnet: false
+  testnet: false
+  version: alpha
 have_token: false
 usecases:
-- computing
+  - computing
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/taceo/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+sunset: false
+assets_used: []
+tokens: []
+project_phase: alpha
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ZK, SNARKs, MPC
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
