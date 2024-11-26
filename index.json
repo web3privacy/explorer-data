@@ -4724,7 +4724,7 @@
         "link": "https://rolod0x.io/docs/privacy-policy.html",
         "data_usage": "The user's address book is used locally on the user's device to ease their interactions with dApps and web3 sites. "
       },
-      "compliance": "",
+      "compliance": "No",
       "tracebility": {
         "kyc": false,
         "tracked_data": "No data is collected outside of the user's device.",
