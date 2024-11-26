@@ -1,0 +1,71 @@
+name: Aztec
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - defi
+  - eth-layer-2
+  - bridge
+  - storage
+  - node
+ecosystem:
+  - ethereum
+description: A privacy-first L2 on Ethereum that has a hybrid privacy model - it
+  allows private execution and private state as well as public execution &
+  state. Aztec also enables private interactions with Ethereum.  It uses
+  zero-knowledge proofs that are generated locally on the user's machine to
+  prove a legal transaction. Private state is encrypted and stored in a UTXO
+  tree.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://aztec.network/
+  blog: https://aztec.network/blog
+  github: https://github.com/AztecProtocol/aztec-packages
+  forum: https://forum.aztec.network/
+  docs: https://docs.aztec.network/
+  whitepaper: https://docs.aztec.network/protocol-specs/intro
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/aztecnetwork
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge (HONK), Encryption (multiple eg SHA256, AES128), UTXOs
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://aztec.network/privacy-policy
+  data_usage: ""
+compliance: nFADP (Switzerland)
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: aztec
