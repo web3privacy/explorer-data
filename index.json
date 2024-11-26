@@ -12391,10 +12391,6 @@
         "anonymous": false,
         "teammembers": [
           {
-            "name": "Joan Arus",
-            "link": "https://x.com/Joan_Arus"
-          },
-          {
             "name": "Jordi Aulet",
             "link": "https://x.com/jp_aulet"
           },
@@ -12404,10 +12400,6 @@
           },
           {
             "name": "Jordi Pinyana"
-          },
-          {
-            "name": "Marta Sancho",
-            "link": "https://x.com/MartaMordis"
           },
           {
             "name": "Guido Iribarren",
@@ -12421,12 +12413,18 @@
       },
       "links": {
         "web": "https://www.vocdoni.io/",
-        "github": "https://github.com/vocdoni",
-        "docs": "https://docs.vocdoni.io/about-us/how-we-work.html",
-        "block_explorer": "https://explorer.vote/",
         "blog": "https://blog.vocdoni.io/",
+        "github": "https://github.com/vocdoni",
+        "forum": "",
+        "docs": "https://docs.vocdoni.io/about-us/how-we-work.html",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.vote/",
+        "governance": "",
         "twitter": "https://x.com/vocdoni",
-        "discord": "https://discord.com/invite/Qjm7krrFBf"
+        "discord": "https://discord.com/invite/Qjm7krrFBf",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "sunset": false,
       "funding": [
@@ -12437,11 +12435,17 @@
       ],
       "blockchain_features": {
         "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
         "asset_custody_type": "non-custody",
-        "p2p": false
+        "encryption": "Zero-Knowledge",
+        "p2p": true
       },
       "privacy_policy": {
-        "defined": false
+        "defined": false,
+        "link": "",
+        "data_usage": "None"
       },
       "default_privacy": true,
       "third_party_dependency": "none",
@@ -12458,7 +12462,29 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/vocdoni/logo.png"
         }
-      ]
+      ],
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet",
+          "email"
+        ]
+      },
+      "audits": [],
+      "social_trust": "Non profit association",
+      "technical_spof": "",
+      "history": []
     },
     {
       "id": "quadrata",
