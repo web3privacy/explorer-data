@@ -1128,8 +1128,17 @@
       "links": {
         "web": "https://anon-aadhaar.pse.dev/",
         "blog": "https://anon-aadhaar-documentation.vercel.app/blog",
-        "docs": "https://anon-aadhaar-documentation.vercel.app/docs/intro",
-        "github": "https://github.com/anon-aadhaar/anon-aadhaar"
+        "github": "https://github.com/anon-aadhaar/anon-aadhaar",
+        "forum": "",
+        "docs": "https://documentation.anon-aadhaar.pse.dev/docs/intro",
+        "whitepaper": "",
+        "block_explorer": "https://anon-aadhaar.pse.dev/projects",
+        "governance": "",
+        "twitter": "https://x.com/AnonAadhaar",
+        "discord": "",
+        "telegram": "https://t.me/anon_aadhaar",
+        "lens": "",
+        "farcaster": ""
       },
       "technology": {
         "type": "zk, circom, rsa",
@@ -1148,7 +1157,16 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/anon-aadhaar/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "product_launch_day": "2023-10-21T06:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "tokens": []
     },
     {
       "id": "brace",
