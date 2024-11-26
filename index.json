@@ -651,7 +651,7 @@
     },
     {
       "id": "taceo",
-      "name": "Taceo",
+      "name": "TACEO",
       "categories": [
         "infrastructure"
       ],
@@ -673,16 +673,24 @@
       },
       "links": {
         "web": "https://taceo.io/",
-        "github": "https://github.com/TaceoLabs",
-        "docs": "https://docs.taceo.io/",
         "blog": "https://blog.taceo.io/",
+        "github": "https://github.com/TaceoLabs",
+        "forum": "",
+        "docs": "https://docs.taceo.io/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/TACEO_IO",
-        "discord": "https://discord.com/invite/gWZW2TANpk"
+        "discord": "https://discord.com/invite/gWZW2TANpk",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
-        "mainnet": true,
-        "testnet": true
+        "mainnet": false,
+        "testnet": false,
+        "version": "alpha"
       },
       "have_token": false,
       "usecases": [
@@ -694,6 +702,50 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/taceo/logo.png"
+        }
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other",
+        "multichain"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "alpha",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "",
+        "encryption": "ZK, SNARKs, MPC"
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": [
+        {
+          "title": "Alphanet Launch",
+          "description": "First coSNARKs generated on MPC network at Devcon7",
+          "link": "https://blog.taceo.io/devcon-demo/",
+          "time": "2024-11-11T23:00:00.000Z"
         }
       ]
     },
