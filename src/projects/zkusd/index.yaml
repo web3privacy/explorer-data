@@ -1,8 +1,31 @@
 id: zkusd
 name: zkUSD
 categories:
-- defi
+  - defi
 usecases:
-- defi
+  - defi
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zkusd/logo.png
+ecosystem:
+  - other
+description: The zkUSD protocol is a cutting-edge decentralized finance (DeFi)
+  solution focusing on privacy and cross-chain accessibility.
+sunset: false
+links:
+  web: ""
+  blog: ""
+  github: https://github.com/ZKTNetwork/zkusd-protocol
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
