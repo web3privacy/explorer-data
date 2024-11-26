@@ -1,0 +1,62 @@
+name: Encifher
+categories:
+  - defi
+usecases:
+  - bridge
+  - defi
+ecosystem:
+  - bitcoin
+description: World's most trusted privacy-based solution for DeFi on Bitcoin
+  using verifiable FHE.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://encifher.io/
+  blog: https://encifher.io/blog
+  github: https://github.com/RizeLabs
+  forum: ""
+  docs: https://docs.encifher.io/docs/intro
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/encifherio
+  discord: ""
+  telegram: https://t.me/encifher
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: encifher
