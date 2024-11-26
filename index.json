@@ -9041,7 +9041,7 @@
         "wallets"
       ],
       "have_token": false,
-      "third_party_dependency": "none",
+      "third_party_dependency": "None",
       "logos": [
         {
           "file": "logo.png",
@@ -9071,8 +9071,8 @@
       },
       "storage": {},
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://raw.githubusercontent.com/cake-tech/cake_wallet/main/PRIVACY.md",
         "data_usage": ""
       },
       "compliance": "",
@@ -9083,11 +9083,16 @@
           "seed"
         ]
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
       "social_trust": "",
       "technical_spof": "",
-      "funding": [],
+      "funding": [
+        {
+          "name": "Self-funded, no external investors, VC funding, etc.",
+          "link": ""
+        }
+      ],
       "history": []
     },
     {
