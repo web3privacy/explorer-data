@@ -19154,7 +19154,16 @@
       "technical_spof": "",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Amir Taaki",
+            "link": "https://x.com/Narodism"
+          },
+          {
+            "name": "Rachel-Rose O'Leary",
+            "link": "https://x.com/lunar_mining"
+          }
+        ]
       },
       "funding": [],
       "history": []
