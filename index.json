@@ -18127,17 +18127,27 @@
       "id": "aztec-connect",
       "name": "Aztec Connect",
       "categories": [
-        "applications"
+        "applications",
+        "defi"
       ],
       "links": {
-        "github": "https://github.com/AztecProtocol/aztec-connect-bridges",
-        "docs": "https://docs.aztec.network/misc/aztec_connect_sunset",
+        "web": "",
         "blog": "https://aztec.network/blog/private-defi-with-the-aztec-connect-bridge/",
+        "github": "https://github.com/AztecProtocol/aztec-connect-bridges",
+        "forum": "",
+        "docs": "https://docs.aztec.network/misc/aztec_connect_sunset",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
         "discord": "https://discord.com/invite/aztec",
-        "education": "https://twitter.com/aztecnetwork/status/1575662728395358208"
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
-        "bridge"
+        "bridge",
+        "dapps"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -18147,7 +18157,49 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/aztec-connect/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Interact privately with Ethereum DeFi using ZK proofs on Aztec L2. Sunsetted 2024",
+      "sunset": true,
+      "assets_used": [],
+      "tokens": [],
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "polyhedra-zk-nft-container",
