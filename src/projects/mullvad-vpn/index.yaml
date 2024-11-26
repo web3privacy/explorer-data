@@ -2,26 +2,69 @@ id: mullvad-vpn
 name: Mullvad VPN
 categories:
   - applications
-description: >-
-  One of the most privacy-focused VPN providers (check their Privacy Policy and
-  history)
+description: One of the most privacy-focused VPN providers (check their Privacy
+  Policy and history)
 ecosystem:
   - other
 links:
-  web: 'https://mullvad.net/'
-  github: 'https://github.com/mullvad'
-  blog: 'https://mullvad.net/en/blog'
-  twitter: 'https://www.x.com/mullvadnet'
+  web: https://mullvad.net/
+  blog: https://mullvad.net/en/blog
+  github: https://github.com/mullvad
+  forum: ""
+  docs: https://github.com/mullvad
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://www.x.com/mullvadnet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 team:
   anonymous: false
-  company:
-    link: 'https://mullvad.net/en/about'
+  teammembers: []
 project_status:
   live_status: true
-  version: '2024.3'
-  testnet: false
   mainnet: false
+  testnet: false
+  version: "2024.3"
 usecases:
   - vpn
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mullvad-vpn/logo.png
+sunset: false
+assets_used: []
+tokens: []
+project_phase: "2024.3"
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://mullvad.net/en/help/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits:
+  - name: Cure53
+    url: https://cure53.de/pentest-report_mullvad_2020_v2.pdf
+    time: 2020-06-12T05:00:00.000Z
+  - name: Atredis Partners
+    url: https://static1.squarespace.com/static/576323cfd482e984e113fe9c/t/635053e31bf41d56a97a920d/1666208739842/Atredis+Partners+-+Mullvad+VPN+Platform+Security+Assessment+-+Report+v1.0.pdf
+    time: 2022-10-14T05:00:00.000Z
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
