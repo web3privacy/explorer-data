@@ -979,6 +979,11 @@
           "file": "logo.webp",
           "ext": "webp",
           "url": "https://explorer-data.web3privacy.info/assets/projects/payy/logo.webp"
+        },
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/payy/logo.png"
         }
       ]
     },
