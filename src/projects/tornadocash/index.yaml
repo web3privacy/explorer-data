@@ -1,24 +1,75 @@
 id: tornadocash
 name: TornadoCash
 categories:
-- applications
-description: an open source, non-custodial, fully decentralized cryptocurrency tumbler
-  that runs on Ethereum Virtual Machine-compatible networks
+  - applications
+description: an open source, non-custodial, fully decentralized cryptocurrency
+  tumbler that runs on Ethereum Virtual Machine-compatible networks
 team:
-  anonymous: true
+  anonymous: false
+  teammembers:
+    - name: Alexey Pertsev
+      link: https://x.com/alex_pertsev?lang=cs
 links:
   web: https://tornado.dev/
-  docs: https://docs.tornado.dev/
-  github: https://github.com/tornadocashdev
   blog: https://tornado-cash.medium.com/
+  github: https://github.com/tornadocashdev
+  forum: ""
+  docs: https://docs.tornado.dev/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/tornadocash
+  discord: ""
   telegram: https://t.me/TornadoCash
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: true
   mainnet: true
+  testnet: false
+  version: mainnet
 usecases:
-- mixing-service
-have_token: false
+  - mixing-service
+have_token: true
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/tornadocash/logo.png
+ecosystem:
+  - ethereum
+sunset: false
+assets_used:
+  - eth
+tokens:
+  - symbol: TORN
+    name: Tornado Cash
+    contract_address: "0x77777feddddffc19ff86db637967013e6c6a116c"
+    token_link: https://etherscan.io/token/0x77777feddddffc19ff86db637967013e6c6a116c
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ZKPs
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: Depends on a frontend provider
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Depends on a frontend provider
+  sign_in_type_requirments:
+    - wallet
+    - seed
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
