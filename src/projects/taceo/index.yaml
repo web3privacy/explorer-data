@@ -34,6 +34,10 @@ project_status:
 have_token: false
 usecases:
   - computing
+  - infrastructure
+  - dapps
+  - research-and-development
+  - node
 third_party_dependency: none
 logos:
   - file: logo.png
@@ -50,11 +54,11 @@ project_phase: alpha
 blockchain_features:
   opensource: true
   upgradability:
-    enabled: true
+    enabled: false
   asset_custody_type: ""
   encryption: ZK, SNARKs, MPC
 storage:
-  decentralized: true
+  decentralized: false
 privacy_policy:
   defined: false
   link: ""
