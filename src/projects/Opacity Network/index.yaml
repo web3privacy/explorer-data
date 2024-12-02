@@ -1,0 +1,51 @@
+id: opacity network
+name: Opacity Network
+categories:
+  - applications
+ecosystem: 
+  - ethereum  
+have_token: false
+description: Opacity s Verified Data Network (VDN) leverages zkTLS, MPC, and economic security from EigenLayer to allow users to privately share data across web2 and web3
+technology:
+  type: zkTLS
+
+links:
+  web: https://www.opacity.network/
+  blog: https://www.opacity.network/blog
+  github: https://github.com/OpacityLabs
+  twitter: https://x.com/OpacityNetwork
+  telegram: https://t.me/+Xgj5vWoYTM84ZmQ5
+  farcaster: https://warpcast.com/~/channel/opacity
+blockchain_features:
+  opensource: true
+  encryption: zkTLS 
+privacy_policy: 
+  defined: true
+  link: https://www.opacity.network/blog/privacy-policy
+team:
+  anonymous: false
+  teammembers:
+    - name: EulerLagrange
+      link: https://x.com/Euler__Lagrange
+      role: Founder
+    - name: Steve Schellhase
+      link: https://www.linkedin.com/in/steve-schellhase-616a72212?trk=org-employees
+      role: dev
+    - name: Ron Turetzky
+      link: https://x.com/RonTuretzky
+      role: dev
+    
+tracebility:
+  kyc: false
+  sign_in_type_requirments: wallet
+
+default_privacy: true
+
+project_status: 
+  live_status: true
+  mainnet: true
+  testnet: false
+usecases: 
+  - dapps
+sunset: false
+project_phase: mainnet
