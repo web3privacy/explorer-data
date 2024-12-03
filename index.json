@@ -7083,7 +7083,6 @@
       ],
       "description": "the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3",
       "project_type": "Infrastructure",
-      "product_launch_day": "2020-02-01T23:00:00.000Z",
       "technology": {
         "type": "TEE",
         "name": "Trusted execution environment",
@@ -7192,6 +7191,11 @@
         "infrastructure"
       ],
       "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/secret-network/logo.jpeg"
+        },
         {
           "file": "logo.png",
           "ext": "png",
