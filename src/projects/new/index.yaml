@@ -1,0 +1,21 @@
+name: new
+categories:
+  - social-and-communications
+usecases:
+  - defi
+ecosystem:
+  - bitcoin
+description: asdf
+sunset: false
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+id: new
