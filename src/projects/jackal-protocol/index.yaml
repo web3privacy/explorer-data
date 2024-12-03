@@ -1,0 +1,70 @@
+name: Jackal Protocol
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - infrastructure
+  - storage
+ecosystem:
+  - cosmos
+description: Jackal is a blockchain that delivers decentralized data storage to
+  individuals, businesses, and other blockchains.
+sunset: false
+assets_used: []
+have_token: false
+tokens:
+  - symbol: JKL
+    name: Jackal token
+    contract_address: ""
+    token_link: https://ping.pub/jackal
+links:
+  web: https://www.jackalprotocol.com/
+  blog: https://www.jackalprotocol.com/blog
+  github: https://github.com/JackalLabs
+  forum: ""
+  docs: https://docs.jackalprotocol.com/
+  whitepaper: https://www.jackalprotocol.com/papers
+  block_explorer: https://ping.pub/jackal
+  governance: https://daodao.zone/dao/jackal/proposals
+  twitter: https://x.com/Jackal_Protocol
+  discord: https://discord.com/invite/5GKym3p6rj
+  telegram: https://t.me/+rtuZnbTlHaIzNjVh
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Wallet adress
+  sign_in_type_requirments:
+    - wallet
+    - seed
+default_privacy: true
+audits: []
+third_party_dependency: Jackal L1 validators
+social_trust: ""
+technical_spof: Hack
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: jackal-protocol
