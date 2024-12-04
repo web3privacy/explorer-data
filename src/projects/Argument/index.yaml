@@ -1,0 +1,78 @@
+id: argument
+name: Argument
+categories: 
+ - computing 
+ecosystem: 
+ - ethereum 
+usecases: 
+ - applications
+description: Accelerate Verifiable Computing
+product_launch_day: "2022"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: John Burnham
+      link: https://x.com/zkjcb
+    - name: Francois Garillot
+      link: https://x.com/huitseeker
+    - name: Chhi’mèd Künzang
+    - name: Nicolas Ramsrud
+      link: https://x.com/NicolasRamsrud
+    - name: Sam Burnham
+      link: https://github.com/samuelburnham
+    - name: Gabriel Barreto
+      link: https://github.com/gabriel-barrett
+    - name: Gustavo Caparica 
+    - name: Arthur Paulino
+      link: https://github.com/arthurpaulino
+    - name: Artem Storozhuk
+      link: https://github.com/storojs72
+    - name: Winston Zhang
+      link: https://github.com/winston-h-zhang                 
+
+links:
+  web: https://argument.xyz/
+  github: https://github.com/argumentcomputer
+  docs: https://docs.argument.xyz/ 
+  blog: https://argument.xyz/blog/
+  forum: https://zulip.argument.xyz/
+  twitter: https://x.com/argumentxyz 
+
+project_phase: beta
+sunset: false
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+
+have_token: false
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: false 
+
+default_privacy: true
+audits:
+  - name: Inference
+    link: https://argument.xyz/inference-security-assessment-3-2023.pdf
+    time: 2023-03-29
+
+traceability:
+  kyc: false
+third_party_dependency: ""
+compliance: false
+client_diversability:
+  - name: wormhole
+    link: https://wormhole.foundation/
+  - name: Kadena
+    link: https://www.kadena.io/
+
+
+tecnology:
+  type: ZkProof   
