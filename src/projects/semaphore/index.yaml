@@ -1,28 +1,86 @@
 id: semaphore
 name: semaphore
 categories:
-- applications
-description: Semaphore is a protocol that allows users to prove their membership in
-  a group and transmit anonymous data, such as votes or feedback, without revealing
-  their identities.
+  - applications
+description: Semaphore is a protocol that allows users to prove their membership
+  in a group and transmit anonymous data, such as votes or feedback, without
+  revealing their identities.
 project_status:
-  version: V4-beta
   live_status: true
-  mainnet: false
-  testnet: true
+  mainnet: true
+  testnet: false
+  version: mainnet
 team:
   anonymous: true
+  teammembers:
+    - name: Vivian
+      link: https://x.com/ViviPlasenciaC
+    - name: Andy
+      link: https://x.com/AndyGuzmanEth
 links:
-  github: https://github.com/semaphore-protocol
   web: https://semaphore.pse.dev
-  discord: https://semaphore.pse.dev/discord
-  twitter: https://semaphore.pse.dev/twitter
+  blog: https://mirror.xyz/privacy-scaling-explorations.eth/Yi4muh-vzDZmIqJIcM9Mawu2e7jw8MRnwxvhFcyfns8
+  github: https://github.com/semaphore-protocol
+  forum: ""
   docs: https://docs.semaphore.pse.dev
+  whitepaper: https://semaphore.pse.dev/whitepaper-v1.pdf
+  block_explorer: https://explorer.semaphore.pse.dev/
+  governance: https://github.com/orgs/semaphore-protocol/discussions
+  twitter: https://semaphore.pse.dev/twitter
+  discord: https://semaphore.pse.dev/discord
+  telegram: https://t.me/semaphore_community
+  lens: ""
+  farcaster: ""
 technology:
   type: zk-kit, circom, snarkjs
   features:
-  - ''
+    - ""
 usecases:
-- did
+  - did
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/semaphore/logo.png
+ecosystem:
+  - ethereum
+  - other
+product_launch_day: 2019-06-09T06:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - other
+tokens: []
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ZK, Sha256, Poseidon, EdDSA
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Identity Commitment
+  sign_in_type_requirments: []
+default_privacy: true
+audits:
+  - name: Semaphore Audit 2.0.0
+    url: https://github.com/semaphore-protocol/semaphore/blob/main/apps/website/public/Semaphore_2.0.0_Audit.pdf
+    time: ""
+  - name: Semaphore Audit 2.5.0
+    url: https://github.com/semaphore-protocol/semaphore/blob/main/apps/website/public/Semaphore_2.5.0_Audit.pdf
+    time: ""
+  - name: Semaphore Audit 3.0.0
+    url: https://github.com/semaphore-protocol/semaphore/blob/main/apps/website/public/Semaphore_3.0.0_Audit.pdf
+    time: ""
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
