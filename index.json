@@ -14598,10 +14598,27 @@
       ],
       "links": {
         "web": "https://mymonero.com/",
-        "github": "https://github.com/mymonero"
+        "blog": "",
+        "github": "https://github.com/mymonero",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "https://localmonero.co/blocks/",
+        "governance": "",
+        "twitter": "https://x.com/MyMonero",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "Riccardo Spagni ( fluffypony ) Founder",
+            "link": "https://x.com/fluffypony"
+          }
+        ]
       },
       "usecases": [
         "wallets"
@@ -14614,7 +14631,48 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mymonero/logo.png"
         }
-      ]
+      ],
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "custodial",
+        "encryption": "Viewkeys",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://mymonero.com/privacy",
+        "data_usage": "Improvements"
+      },
+      "compliance": "No",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "Wallet public adress and viewkey",
+        "sign_in_type_requirments": [
+          "seed"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "MyMonero Team",
+      "technical_spof": "My Monero team sharing viewkey ( data leak )",
+      "funding": [],
+      "history": []
     },
     {
       "id": "xx-messenger",
