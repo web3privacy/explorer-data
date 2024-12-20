@@ -1,0 +1,11 @@
+name: Test nickn
+categories:
+  - social-and-communications
+usecases:
+  - currency
+ecosystem:
+  - cosmos
+description: Njjbb
+nickname: Tester
+sunset: false
+id: test-nickn
