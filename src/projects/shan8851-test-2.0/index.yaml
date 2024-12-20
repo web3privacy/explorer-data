@@ -1,0 +1,11 @@
+name: shan8851 test 2.0
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: test description shan8851
+nickname: shan8851 2.0 nick
+sunset: false
+id: shan8851-test-2.0
