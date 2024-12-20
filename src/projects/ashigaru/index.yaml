@@ -1,3 +1,4 @@
+id: ashigaru
 name: Ashigaru
 categories:
   - applications
@@ -6,8 +7,7 @@ usecases:
 ecosystem:
   - bitcoin
 description: Test
-product_launch_day: 2024-10-19T16:00:00.000Z
-nickname: 0xHiro
+product_launch_day: 2024-10-05T21:00:00.000Z
 sunset: false
 assets_used:
   - btc
@@ -59,4 +59,3 @@ team:
   teammembers: []
 funding: []
 history: []
-id: ashigaru
