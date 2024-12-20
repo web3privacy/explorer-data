@@ -1,3 +1,4 @@
+id: ashigaru
 name: Ashigaru
 categories:
   - applications
@@ -5,9 +6,7 @@ usecases:
   - wallets
 ecosystem:
   - bitcoin
-description: Test
-product_launch_day: 2024-10-19T16:00:00.000Z
-nickname: 0xHiro
+description: https://explorer.web3privacy.info/project/undefined
 sunset: false
 assets_used:
   - btc
@@ -59,4 +58,3 @@ team:
   teammembers: []
 funding: []
 history: []
-id: ashigaru
