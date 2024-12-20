@@ -2072,13 +2072,17 @@
         "ethereum",
         "cosmos"
       ],
-      "description": "The privacy cross-chain aggregator powered by Secret Network",
+      "description": "The non-custodial privacy cross-chain aggregator powered by Secret Network.",
+      "product_launch_day": "2025-01-08T23:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
+        "usdc",
         "usdt",
+        "dai",
         "atom",
-        "scrt"
+        "scrt",
+        "other"
       ],
       "have_token": false,
       "tokens": [],
@@ -2089,7 +2093,7 @@
         "forum": "",
         "docs": "",
         "whitepaper": "",
-        "block_explorer": "https://www.mintscan.io/secret/",
+        "block_explorer": "",
         "governance": "",
         "twitter": "https://x.com/SilentSwapcom",
         "discord": "",
@@ -2097,33 +2101,35 @@
         "lens": "",
         "farcaster": ""
       },
-      "project_phase": "beta",
+      "project_phase": "mainnet",
       "project_status": {
         "live_status": true,
-        "mainnet": false,
+        "mainnet": true,
         "testnet": false,
-        "version": "beta"
+        "version": "mainnet"
       },
       "blockchain_features": {
-        "opensource": true,
+        "opensource": false,
         "upgradability": {
           "enabled": true
         },
         "asset_custody_type": "non-custody",
-        "encryption": "Secret Network TEE"
+        "encryption": "TEE",
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://app.silentswap.com/?terms",
         "data_usage": ""
       },
-      "compliance": "",
+      "compliance": "No",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
         "sign_in_type_requirments": [
-          "wallet"
+          "wallet",
+          "seed"
         ]
       },
       "default_privacy": true,
@@ -2131,6 +2137,10 @@
       "third_party_dependency": "",
       "social_trust": "",
       "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
       "funding": [],
       "history": [],
       "logos": [
