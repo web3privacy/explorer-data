@@ -1,0 +1,62 @@
+name: Ashigaru
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+description: Test
+product_launch_day: 2024-10-19T16:00:00.000Z
+nickname: 0xHiro
+sunset: false
+assets_used:
+  - btc
+have_token: false
+tokens: []
+links:
+  web: ""
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: ashigaru
