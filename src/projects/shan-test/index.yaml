@@ -1,0 +1,11 @@
+name: Shan test
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: shan8851 test description
+nickname: shan8851
+sunset: false
+id: shan-test
