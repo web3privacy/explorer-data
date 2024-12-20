@@ -353,3 +353,10 @@ properties:
     type: array
     items:
       type: string
+
+
+#Gamefication
+  nickname:
+    type: string
+    description: |
+      A short identifier or alias for the project, used for tracking and rewards.
