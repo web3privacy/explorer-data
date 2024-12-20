@@ -6594,6 +6594,72 @@
       ]
     },
     {
+      "id": "alien",
+      "name": "Alien",
+      "categories": [
+        "social-and-communications"
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "ethereum",
+        "solana",
+        "other"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "description": "A simple-to-use, end-to-end encrypted instant messaging software for all users to experience encrypted message transmission, achieving free communication.",
+      "product_launch_day": "2023",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Nikita Ermakov"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://alien-chat.com/#/HOME",
+        "docs": "https://alien-3.gitbook.io/alien-2",
+        "blog": "https://medium.com/@alienweb3",
+        "twitter": "https://x.com/Alien_SocialFi",
+        "telegram": "https://t.me/AlienAnnouncement",
+        "type": "End-to-End Encryption, did",
+        "features": [
+          ""
+        ]
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true,
+          "type": "DAO vote"
+        }
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://res.alien-chat.com/other/AlienChat%20Privacy%20Policy.htm"
+      },
+      "tracebility": {
+        "kyc": false,
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true
+      },
+      "project_phase": "beta",
+      "sunset": false
+    },
+    {
       "id": "zkmaps",
       "name": "ZkMaps",
       "categories": [
