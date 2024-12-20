@@ -23,7 +23,6 @@ links:
   blog: https://medium.com/@alienweb3
   twitter: https://x.com/Alien_SocialFi
   telegram: https://t.me/AlienAnnouncement
-tecnology:
   type: End-to-End Encryption, did
   features:
     - ""
@@ -40,7 +39,7 @@ privacy_policy:
   defined: true
   link: https://res.alien-chat.com/other/AlienChat%20Privacy%20Policy.htm
 
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments: 
     - wallet
