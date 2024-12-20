@@ -1,0 +1,10 @@
+name: TestPublish
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: Test
+sunset: false
+id: testpublish
