@@ -1,5 +1,5 @@
 id: argument
-name: Argument
+name: rgument
 categories: 
  - applications 
 ecosystem: 
@@ -7,7 +7,7 @@ ecosystem:
 usecases: 
  - computing  
 description: Accelerate Verifiable Computing
-tecnology:
+technology:
   type: zkProof
   features: []
 product_launch_day: "2022"
@@ -67,7 +67,7 @@ audits:
     link: https://argument.xyz/inference-security-assessment-3-2023.pdf
     time: 2023-03-29
 
-traceability:
+tracebility:
   kyc: false
   sign_in_type_requirments: []
 
