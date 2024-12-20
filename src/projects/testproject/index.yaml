@@ -1,0 +1,11 @@
+name: TestProject
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: Desc
+nickname: DomWane
+sunset: false
+id: testproject
