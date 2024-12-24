@@ -1,0 +1,63 @@
+name: Ohmni
+categories:
+  - hardware
+usecases:
+  - other
+ecosystem:
+  - other
+description: OHMNI is your last frontier at preserving your privacy, autonomy,
+  and rights over your body and your data.
+nickname: 0xhiro
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://ohmni.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Faraday cage to block or shield against electrical signals,
+    electromagnetic radiation (EMR), and radio frequency interference (RFI).
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://ohmni.com/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: ohmni
