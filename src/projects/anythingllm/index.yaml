@@ -1,0 +1,64 @@
+name: AnythingLLM
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - other
+description: >+
+  AnythingLLM is an open-source, private, chat with your documents AI chatbot
+  that enables your business to unlock more of its potential by having all of
+  your written documents made available via a chat-like interface. SOPs,
+  Reports, Audits, and more all now become a simple Q&A session instead of
+  pouring over hundreds of documents trying to find the right detail.
+
+nickname: 0xhiro
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://anythingllm.com/
+  blog: ""
+  github: https://github.com/Mintplex-Labs/anything-llm
+  forum: ""
+  docs: https://docs.anythingllm.com/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: https://discord.com/invite/YCtUYD5vBf
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: anythingllm
