@@ -23279,6 +23279,88 @@
       ]
     },
     {
+      "id": "cryptpad",
+      "name": "Cryptpad",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "other"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "CryptPad is a collaborative office suite that is end-to-end encrypted and open-source.\n\nCryptPad provides a full-fledged office suite with all the tools necessary for productive collaboration. Applications include: Rich Text, Spreadsheets, Code/Markdown, Kanban, Slides, Whiteboard and Forms.\n\n",
+      "product_launch_day": "2017-03-23T16:00:00.000Z",
+      "nickname": "0xHiro",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://cryptpad.fr/",
+        "blog": "https://blog.cryptpad.org/",
+        "github": "https://github.com/cryptpad/cryptpad",
+        "forum": "https://forum.cryptpad.org/",
+        "docs": "https://docs.cryptpad.org/en/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://cryptpad.fr/pad/#/2/pad/view/GcNjAWmK6YDB3EO2IipRZ0fUe89j43Ryqeb4fjkjehE/",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cryptpad/logo.svg"
+        }
+      ]
+    },
+    {
       "id": "kinto",
       "name": "Kinto",
       "categories": [
