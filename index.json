@@ -20005,6 +20005,76 @@
       }
     },
     {
+      "id": "stack-wallet",
+      "name": "Stack Wallet",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "description": "A open-source, non-custodial, privacy-preserving cryptocurrency wallet for all crypto fans. Stack Wallet is a fully open source cryptocurrency wallet. With an easy to use user interface and quick and speedy transactions, this wallet is ideal for anyone no matter how much they know about the cryptocurrency space. \n\n\n\n\n\n\n",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "xmr",
+        "eth",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://stackwallet.com/index.html",
+        "blog": "https://stackwallet.com/blog/index.html",
+        "github": "https://github.com/cypherstack/stack_wallet",
+        "forum": "",
+        "docs": "https://stackwallet.com/2023/04/28/coin-control-guide-for-stack-wallet.html",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/stack_wallet",
+        "discord": "https://discord.gg/mRPZuXx3At",
+        "telegram": "https://t.me/stackwallet",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
+    },
+    {
       "id": "fairy",
       "name": "Fairy",
       "categories": [
