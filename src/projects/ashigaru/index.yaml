@@ -1,3 +1,4 @@
+id: ashigaru
 name: Ashigaru
 categories:
   - applications
@@ -5,20 +6,28 @@ usecases:
   - wallets
 ecosystem:
   - bitcoin
-description: Test
+description: >
+  Ashigaru Wallet is a new, privacy-focused Bitcoin wallet aimed at enhancing
+  user privacy and decentralization in cryptocurrency transactions.
+
+
+  Ashigaru is designed to be self-custodial, meaning users retain control over
+  their funds without relying on third-party services. It is open-source,
+  allowing for community verification of its code, which enhances trust among
+  users
 product_launch_day: 2024-10-19T16:00:00.000Z
-nickname: 0xHiro
+nickname: 0xhiro
 sunset: false
 assets_used:
   - btc
 have_token: false
 tokens: []
 links:
-  web: ""
+  web: https://ashigaru.rs/
   blog: ""
   github: ""
   forum: ""
-  docs: ""
+  docs: https://ashigaru.rs/docs/
   whitepaper: ""
   block_explorer: ""
   governance: ""
@@ -38,25 +47,29 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: ""
+  encryption: SHA 256
+  p2p: true
 storage: {}
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://ashigaru.rs/privacy-policy/
   data_usage: ""
 compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
   sign_in_type_requirments: []
-default_privacy: false
+default_privacy: true
 audits: []
-third_party_dependency: ""
+third_party_dependency: TOR Browser
 social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
   teammembers: []
 funding: []
-history: []
-id: ashigaru
+history:
+  - title: Relase Mobile Wallet v 1.0.0
+    description: The first release of the Ashigaru Open Source Project's mobile wallet.
+    link: https://ashigaru.rs/news/release-wallet-v1-0-0/
+    time: 2024-09-19T16:00:00.000Z
