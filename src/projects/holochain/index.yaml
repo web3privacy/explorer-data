@@ -1,0 +1,91 @@
+name: Holochain
+categories:
+  - infrastructure
+usecases:
+  - defi
+  - currency
+  - infrastructure
+  - dao
+  - bridge
+  - messaging
+  - dapps
+  - nft-community
+  - ai
+  - other
+ecosystem:
+  - multichain
+description: >
+  Holochain is a protocol for local first truly distributed applications that
+  have no servers. Holochain applications run on the users' computers. Because
+  Holochain is a protocol there is no built in fee for data exchanges between
+  Holochain nodes. Just like you don’t pay for using SMTP the email protocol.
+  You just use it.
+
+  Apps built on Holochain are infinitely scaleable. Each app brings its own
+  resources, compute and storage, and then shares a bit of those resources for
+  holographic back up across the network.
+
+  Every Holochain app runs in a private encrypted network. Nobody except the
+  users of that specific instance of the app even know it exists. Any hacker or
+  government seeing the data stream would not know what it's for.
+
+  Holochain is perfectly suited for DePIN projects beause it doesn't have the
+  storage and computational overhead of blockchain. While at the same time
+  Holochain apps can work with blockchain projects filling in the gaps where
+  blockchain is lacking.
+nickname: steven@lifesmyth.net
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+links:
+  web: www.hololchain.org
+  blog: https://blog.holochain.org/
+  github: https://github.com/holochain/
+  forum: https://forum.holochain.org/
+  docs: https://developer.holochain.org/
+  whitepaper: https://www.holochain.org/documents/holochain-white-paper-2.0.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/holochain
+  discord: https://discord.gg/zuqQsRQGqQ
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: This is a data protocol. We have nothing to do with your data.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Nothing.
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: This project open source code for building distributed
+  applications. Anyone can use or fork the Holochain code.
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: holochain
