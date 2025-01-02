@@ -1,0 +1,52 @@
+id: PrivadoID
+name: PrivadoID
+categories:
+  - applications
+usecases:
+  - did  
+  - wallets
+ecosystem:
+  - other  
+description: Privado ID provides privacy tools to put users in control of their identity.
+links:
+  web: https://www.privado.id/
+  blog: https://www.privado.id/blog?category=View+all
+  github: https://github.com/0xPolygonID
+  docs: https://docs.privado.id/
+  twitter: https://x.com/PrivadoID
+  telegram: https://t.me/PrivadoID_Official
+
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+privacy_policy:
+  defined: true
+  link: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.prod.website-files.com/66055572a54252a3dc38c652/666ac0a358d52a5da9d231b3_terms-of-use.pdf
+team:
+  anonymous: false
+  teammembers:
+    - name: Evin
+      link: https://x.com/provenauthority
+    - name: Ram
+      link: https://x.com/iamramxyz
+
+storage:
+  decentralized: true
+technology:
+  type: zkproof
+    
+have_token: false
+tracebility:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: ""
+default_privacy: true
+compliance: Proof of Humanity, Proof of Uniqueness
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+project_phase: mainnet
+sunset: false  
