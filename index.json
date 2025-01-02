@@ -4452,13 +4452,18 @@
       ],
       "links": {
         "web": "https://getsession.org",
-        "github": "https://github.com/oxen-io",
-        "docs": "https://docs.oxen.io/oxen-docs/products-built-on-oxen/session",
-        "block_explorer": "https://oxen.observer/",
-        "whitepaper": "https://arxiv.org/pdf/2002.04609",
         "blog": "https://getsession.org/blog",
+        "github": "https://github.com/oxen-io",
+        "forum": "",
+        "docs": "https://docs.oxen.io/oxen-docs/products-built-on-oxen/session",
+        "whitepaper": "https://arxiv.org/pdf/2002.04609",
+        "block_explorer": "https://oxen.observer/",
+        "governance": "",
         "twitter": "https://x.com/session_app",
-        "facebook": "https://www.facebook.com/SessionMessenger/"
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "team": {
         "anonymous": false,
@@ -4477,7 +4482,24 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/session/logo.png"
         }
-      ]
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {}
     },
     {
       "id": "trocador-app",
