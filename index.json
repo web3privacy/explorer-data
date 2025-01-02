@@ -20385,7 +20385,14 @@
       "compliance": "",
       "storage": {
         "decentralized": true
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ghostdrive/logo.png"
+        }
+      ]
     },
     {
       "id": "Pavy",
@@ -20750,7 +20757,14 @@
       },
       "technology": {
         "type": "FHE, PRE, TEE"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/gateway/logo.png"
+        }
+      ]
     },
     {
       "id": "p0tion",
