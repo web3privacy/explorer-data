@@ -22512,18 +22512,24 @@
       },
       "links": {
         "web": "https://grapheneos.org",
+        "blog": "",
         "github": "https://github.com/GrapheneOS",
-        "docs": "https://grapheneos.org/usage",
-        "twitter": "https://x.com/GrapheneOS",
         "forum": "https://discuss.grapheneos.org/",
+        "docs": "https://grapheneos.org/usage",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/GrapheneOS",
         "discord": "https://discord.com/invite/grapheneos",
-        "telegram": "https://t.me/GrapheneOS"
+        "telegram": "https://t.me/GrapheneOS",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
-        "version": "2024051500",
+        "mainnet": false,
         "testnet": false,
-        "mainnet": true
+        "version": "2024051500"
       },
       "usecases": [
         "operation-systems"
@@ -22536,7 +22542,23 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/graphene-os/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "2024051500",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {}
     },
     {
       "id": "vault1317",
