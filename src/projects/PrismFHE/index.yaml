@@ -1,0 +1,29 @@
+id: PrismFHE
+name: PrismFHE
+categories:
+  - applications
+usecases:
+  - dapps  
+ecosystem:
+  - other  
+description: Prism Protocol unlocks new markets using agent-driven mediation and programmable cryptography.
+links:
+  twitter: https://x.com/PrismFHE
+ 
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+privacy_policy:
+  defined: false
+team:
+  anonymous: false
+  teammembers:
+    - name: prof bearington
+      link: https://x.com/prof_bearington
+
+have_token: false
+project_status:
+  live_status: false
+sunset: false  
