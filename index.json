@@ -6747,7 +6747,14 @@
         "testnet": true
       },
       "project_phase": "beta",
-      "sunset": false
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/alien/logo.png"
+        }
+      ]
     },
     {
       "id": "zkmaps",
