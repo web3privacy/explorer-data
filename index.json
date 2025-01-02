@@ -20095,6 +20095,110 @@
       ]
     },
     {
+      "id": "ghostdrive",
+      "name": "GhostDrive",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "usecases": [
+        "storage",
+        "node"
+      ],
+      "description": "Privacy-first, secure decentralized smart storage | Full data control | Pioneering DePIN with hot satellite nodes",
+      "product_launch_day": "2018",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Karim Tarakji",
+            "link": "https://www.linkedin.com/in/karimtrj/"
+          },
+          {
+            "name": "Roma Nebo",
+            "link": "https://www.linkedin.com/in/romanebo/"
+          },
+          {
+            "name": "Simran Kaur",
+            "link": "https://www.linkedin.com/in/simran-kaur-2a99601a0/"
+          },
+          {
+            "name": "Vadym Vitenko",
+            "link": "https://www.linkedin.com/in/vadym-vitenko-600824164/"
+          },
+          {
+            "name": "Max B.",
+            "link": "https://www.linkedin.com/in/maxb/"
+          },
+          {
+            "name": "Oleksandr Balbus",
+            "link": "https://www.linkedin.com/in/alexbalbus/"
+          },
+          {
+            "name": "Paul Conrad",
+            "link": "https://www.linkedin.com/in/melorix/"
+          },
+          {
+            "name": "Alena Belos",
+            "link": "https://www.linkedin.com/in/alena-belos-%F0%9F%87%BA%F0%9F%87%A6-a52783233/"
+          },
+          {
+            "name": "Hashim Shah",
+            "link": "https://www.linkedin.com/in/hashim-shah-b92796146/"
+          },
+          {
+            "name": "Eugene Vivdich",
+            "link": "https://www.linkedin.com/in/eugenevivdich/"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.ghostdrive.com/",
+        "github": "https://github.com/Ghost-Drive",
+        "docs": "https://docs.ghostdrive.com/",
+        "blog": "https://medium.com/@ghostdrive2019",
+        "twitter": "https://x.com/GhostDrive_Web3",
+        "telegram": "https://t.me/ghostdrive_web3"
+      },
+      "project_phase": "Mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "sunset": false,
+      "tokens": [
+        {
+          "name": "Ghost Drive Token",
+          "symbol": "$GD",
+          "network": "Ton"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "default_privacy": true,
+      "tracebility": {
+        "kyc": false
+      },
+      "third_party_dependency": "none",
+      "social_trust": "wallet multisig",
+      "compliance": "",
+      "storage": {
+        "decentralized": true
+      }
+    },
+    {
       "id": "Pavy",
       "name": "Pavy",
       "ecosystem": [
