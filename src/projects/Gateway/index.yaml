@@ -1,0 +1,93 @@
+id: gateway
+name: Gateway 
+categories: 
+  - infrastructure 
+ecosystem: 
+  - ethereum
+  - solana 
+usecases:  
+  - storage 
+  - computing
+  - did 
+description: Gateway is an integrated protocol to encrypt, store, manage, and compute private data.
+product_launch_day: "2021"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Ayyan Rahman
+      link: https://x.com/AyyanERahman
+    - name: Andrew Hemingway
+      link: https://x.com/andrewhemingway
+    - name: Harisson Santos
+      link: https://ca.linkedin.com/in/harissonsantos
+    - name: Rafa Gomes
+      link: https://br.linkedin.com/in/rafagomesdev
+    - name: João C Junior
+      link: https://br.linkedin.com/in/joao-conserva   
+    - name: Sanket Jain
+      link: https://www.linkedin.com/in/sanket-jain-240017158/
+    - name: Tullio Cunha
+      link: https://www.linkedin.com/in/tulliocunha/
+    - name: Nuno Carvalho
+      link: https://www.linkedin.com/in/nmcarv/      
+
+links:
+  web: https://mygateway.xyz/
+  github: https://github.com/GatewayLabs
+  docs: https://docs.mygateway.xyz/introduction
+  block_explorer: https://mygateway.xyz/explorer
+  blog: https://mygateway.xyz/blog
+  twitter: https://x.com/Gateway_xyz
+  discord: https://discord.com/invite/tgt3KjcHGs
+
+project_phase: Mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+sunset: false
+
+have_token: false
+funding:
+  - name: Reciprocal Ventures
+    link: https://www.recvc.com/    
+  - name: HannaGray
+    link: https://www.hannahgrey.com/
+  - name: Spartan
+    link: https://www.spartangroup.io/
+  - name: Redbeard ventures
+    link: https://redbeard.ventures/
+  - name: Figment Capital
+    link: https://www.figmentcapital.io/
+  - name: 6thman ventures
+    link: https://6thman.ventures/
+  - name: Visary Capital
+    link: https://visary.capital/
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://mygateway.xyz/terms-of-service
+default_privacy: true
+
+tracebility:
+  kyc: false
+  sign_in_type_requirments: 
+    - wallet
+    - email
+third_party_dependency: none
+compliance: none
+
+storage:
+  decentralized: true
+
+technology:
+ type: FHE, PRE, TEE
+   
