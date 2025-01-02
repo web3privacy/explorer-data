@@ -1,0 +1,71 @@
+id: Primus-Labs
+name: Primus-Labs
+categories: 
+  - applications 
+ecosystem: 
+  - ethereum 
+usecases:  
+  - data-mangement
+  - dapps 
+description: Primus (formerly PADO) is a decentralized verification and computation network based on advanced cryptography like zkTLS and zkFHE
+product_launch_day: "2022"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Xiang Xie
+      link: https://x.com/xxiang_xie
+    - name: Vicky
+      link: https://x.com/bitvkphil
+    - name: Xavier
+      link: https://x.com/Xavier_bham 
+    
+links:
+  web: https://www.primuslabs.xyz/
+  github: https://github.com/primus-labs
+  docs: https://docs.primuslabs.xyz/
+  blog: https://www.primuslabs.xyz/blog 
+  twitter: https://x.com/primus_labs 
+  discord: https://discord.com/invite/pdrNxRrApX
+
+have_token: false
+
+project_phase: Mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+sunset: false
+
+funding:
+  - name: Amber
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  encryption: zkFHE, zkTLS
+  p2p: true
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: true
+  link: https://docs.primuslabs.xyz/privacy-policy/
+
+default_privacy: true
+
+tracebility:
+  kyc: false
+  sign_in_type_requirments: 
+    - wallet 
+third_party_dependency: AO & Arweave network
+compliance: none
+
+storage:
+  decentralized: true
+
+technology:
+ type: FHE, zkTLS   
+ 
+  
