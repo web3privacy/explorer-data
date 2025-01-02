@@ -1071,6 +1071,145 @@
       ]
     },
     {
+      "id": "massa-network",
+      "name": "Massa Network",
+      "categories": [
+        "infrastructure",
+        "defi"
+      ],
+      "usecases": [
+        "defi",
+        "currency",
+        "infrastructure",
+        "nft-community",
+        "node"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Massa is the L1 blockchain striving to be the Host for Internet Freedom. Thanks to its infrastructure layer for contract automation, hack & censorship frontends and parralel block technology Massa allows projects and users to stay autonomous and safe.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [
+        {
+          "symbol": "MAS",
+          "name": "Massa",
+          "contract_address": "",
+          "token_link": "https://explorer.massa.net/mainnet"
+        }
+      ],
+      "links": {
+        "web": "https://massa.net/",
+        "blog": "https://massalabs.medium.com/",
+        "github": "https://github.com/massalabs/massa",
+        "forum": "https://forum.massa.community/",
+        "docs": "https://docs.massa.net/",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.massa.net/mainnet",
+        "governance": "",
+        "twitter": "https://x.com/MassaLabs",
+        "discord": "https://discord.com/invite/massa",
+        "telegram": "https://t.me/massanetwork",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "Parallel Block, Autonomous Smart Contracts, Decentralized Web Hosting"
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://massa.net/More/PrivacyPolicy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet",
+          "seed"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [
+        {
+          "name": "Certik",
+          "url": "https://skynet.certik.com/projects/massa",
+          "time": "2023-06-26T21:00:00.000Z"
+        }
+      ],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Daniel Morosan",
+            "link": "https://x.com/danielgmorosan"
+          }
+        ]
+      },
+      "funding": [
+        {
+          "name": "BlueYard",
+          "link": "https://cryptorank.io/ico/massa"
+        },
+        {
+          "name": "ZBS Capital",
+          "link": "https://cryptorank.io/ico/massa"
+        },
+        {
+          "name": "Numeus",
+          "link": "https://cryptorank.io/ico/massa"
+        },
+        {
+          "name": "BPI France",
+          "link": "https://cryptorank.io/ico/massa"
+        },
+        {
+          "name": "Aussie Capital",
+          "link": "https://cryptorank.io/ico/massa"
+        },
+        {
+          "name": "1NVST",
+          "link": "https://cryptorank.io/ico/massa"
+        },
+        {
+          "name": "Alpha Capital",
+          "link": "https://cryptorank.io/ico/massa"
+        },
+        {
+          "name": "Andurance Ventures",
+          "link": "https://cryptorank.io/ico/massa"
+        }
+      ],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/massa-network/logo.png"
+        }
+      ]
+    },
+    {
       "id": "humanode",
       "name": "Humanode",
       "categories": [
