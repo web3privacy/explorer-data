@@ -1,0 +1,68 @@
+id: punkpool
+name: Punkpool
+categories: 
+  - social-and-communications 
+ecosystem: 
+  - other
+usecases: 
+  - other 
+description: PUNKPOLL is a decentralized platform for voting and public opinion surveys that anyone, anywhere in the world, can easily participate in and create. 
+product_launch_day: "2022"
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Peter Baek
+      link: https://x.com/peterbaek
+
+links:
+  web: https://explore.punkpoll.com/ 
+  whitepaper: https://www.punkpoll.io/
+  block_explorer: https://minascan.io/mainnet/txs/zk-txs 
+  blog: https://explore.punkpoll.com/press
+  twitter: https://x.com/punkpoll
+  telegram: https://t.me/PunkpollBot
+  
+
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: beta
+sunset: false
+
+tokens:
+  - name: Punk Token
+    symbol: $PUNK
+    network: Mina network
+    contract_address: "xBxjFpJkbWpbGua7Lf36S1NLhffFoEChyP3pz6SYKnx7dFCTwg"
+    token_link: https://minascan.io/mainnet/token/xBxjFpJkbWpbGua7Lf36S1NLhffFoEChyP3pz6SYKnx7dFCTwg/zk-txs
+ 
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+    type: DAO governance
+
+privacy_policy:
+  defined: false
+  
+default_privacy: true
+
+tracebility:
+  kyc: false
+  sign_in_type_requirments: 
+    - account telegram
+third_party_dependency: none
+compliance: none
+
+
+storage:
+  decentralized: true
+
+technology:
+ type: Zk, FHE  
+  
