@@ -2,26 +2,48 @@ id: session
 name: Session
 categories:
   - applications
-description: >-
-  An end-to-end encrypted messenger that minimizes sensitive metadata, designed
-  and built for people who want absolute privacy and freedom from any form of
-  surveillance
+description: An end-to-end encrypted messenger that minimizes sensitive
+  metadata, designed and built for people who want absolute privacy and freedom
+  from any form of surveillance
 ecosystem:
   - other
 links:
-  web: 'https://getsession.org'
-  github: 'https://github.com/oxen-io'
-  docs: 'https://docs.oxen.io/oxen-docs/products-built-on-oxen/session'
-  block_explorer: 'https://oxen.observer/'
-  whitepaper: 'https://arxiv.org/pdf/2002.04609'
-  blog: 'https://getsession.org/blog'
-  twitter: 'https://x.com/session_app'
-  facebook: 'https://www.facebook.com/SessionMessenger/'
+  web: https://getsession.org
+  blog: https://getsession.org/blog
+  github: https://github.com/oxen-io
+  forum: ""
+  docs: https://docs.oxen.io/oxen-docs/products-built-on-oxen/session
+  whitepaper: https://arxiv.org/pdf/2002.04609
+  block_explorer: https://oxen.observer/
+  governance: ""
+  twitter: https://x.com/session_app
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 team:
   anonymous: false
   company:
-    link: 'https://www.linkedin.com/company/sessionmessenger/people/'
+    link: https://www.linkedin.com/company/sessionmessenger/people/
 usecases:
   - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/session/logo.png
+sunset: false
+assets_used: []
+tokens: []
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
