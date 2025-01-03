@@ -20816,7 +20816,14 @@
         "teammembers": []
       },
       "funding": [],
-      "history": []
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/stack-wallet/logo.svg"
+        }
+      ]
     },
     {
       "id": "fairy",
