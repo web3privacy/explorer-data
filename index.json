@@ -8109,6 +8109,74 @@
       ]
     },
     {
+      "id": "Fambam",
+      "name": "FamBam",
+      "categories": [
+        "applications"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "usecases": [
+        "dapps"
+      ],
+      "description": "Creating a decentralized platform for the verification of all Web3 on-chain and off-chain activities and experiences.",
+      "product_launch_day": "2021",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Peter Gabriel M.",
+            "link": "https://www.linkedin.com/in/peterinprojects/"
+          },
+          {
+            "name": "Jenny Yang",
+            "link": "https://hk.linkedin.com/in/jenny-yang-56640890?trk=org-employees"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://www.fambam.com/",
+        "github": "https://github.com/fambam-com",
+        "blog": "https://fambam-com.medium.com/",
+        "twitter": "https://x.com/Fambam_com",
+        "telegram": "https://t.me/+6PbhAfz1EhJiZTNh",
+        "discord": "https://discord.com/invite/FfbDtBJMuZ"
+      },
+      "project_phase": "Testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true
+      },
+      "sunset": false,
+      "have_token": false,
+      "funding": [
+        {
+          "name": "OKX venture"
+        }
+      ],
+      "blockchain_features": {
+        "opensource": false,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://docs.google.com/document/d/1-REOyDj-9kMtA8RW_L1APrvc_G35ASlZ_0KIiklAzSs/edit?tab=t.0"
+      },
+      "default_privacy": true,
+      "tracebility": {
+        "kyc": false
+      },
+      "compliance": "none",
+      "storage": {
+        "decentralized": true
+      }
+    },
+    {
       "id": "anagolay",
       "name": "Anagolay",
       "categories": [
