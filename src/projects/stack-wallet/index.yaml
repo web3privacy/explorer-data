@@ -1,3 +1,4 @@
+id: stack-wallet
 name: Stack Wallet
 categories:
   - applications
@@ -65,4 +66,3 @@ team:
   teammembers: []
 funding: []
 history: []
-id: stack-wallet
