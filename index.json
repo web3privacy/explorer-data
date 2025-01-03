@@ -15587,6 +15587,52 @@
       ]
     },
     {
+      "id": "Bitsky",
+      "name": "Bitsky",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "dapps"
+      ],
+      "description": "A blend of social media features and blockchain technology to create a decentralized Web3 ecosystem, with a DAO-driven credit system for transparency and trust",
+      "ecosystem": [
+        "other"
+      ],
+      "links": {
+        "web": "https://bitsky.im/",
+        "twitter": "https://x.com/BitSkyOfficial"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody"
+      },
+      "privacy_policy": {
+        "defined": false
+      },
+      "default_privacy": true,
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "kyc": false,
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "third_party_dependency": "",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "sunset": false
+    },
+    {
       "id": "damus",
       "name": "Damus",
       "categories": [
