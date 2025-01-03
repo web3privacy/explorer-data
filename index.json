@@ -20739,7 +20739,14 @@
       ],
       "technology": {
         "type": "Zk proof, HyperPlonk, KZG"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Pavy/logo.png"
+        }
+      ]
     },
     {
       "id": "stack-wallet",
