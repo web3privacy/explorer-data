@@ -1,0 +1,66 @@
+name: Monero Nodo
+categories:
+  - infrastructure
+  - hardware
+usecases:
+  - infrastructure
+ecosystem:
+  - monero
+description: >
+  Monero Nodo was envisaged from the start as a portable, fast, reliable and
+  dedicated Monero Node that requires low power and could run 24/7. This Monero
+  Daemon is running natively on Linux CLI, which allowed us to optimise and
+  streamline the application with our hardware.
+nickname: 0xhiro
+sunset: false
+assets_used:
+  - xmr
+have_token: false
+tokens: []
+links:
+  web: https://moneronodo.com/
+  blog: ""
+  github: https://github.com/MoneroNodo/Nodo
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/MoneroNodo
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://moneronodo.com/privacy/
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: monero-nodo
