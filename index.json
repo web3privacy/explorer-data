@@ -7110,7 +7110,14 @@
       },
       "technology": {
         "type": "FHE, zkTLS"
-      }
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Primus-Labs/logo.png"
+        }
+      ]
     },
     {
       "id": "pomp",
@@ -8508,7 +8515,14 @@
         "mainnet": false,
         "testnet": true
       },
-      "sunset": false
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/PrismFHE/logo.png"
+        }
+      ]
     },
     {
       "id": "raspiblitz",
