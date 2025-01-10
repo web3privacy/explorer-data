@@ -19726,6 +19726,89 @@
       ]
     },
     {
+      "id": "xmr-bazaar",
+      "name": "XMR Bazaar",
+      "categories": [
+        "social-and-communications",
+        "applications"
+      ],
+      "usecases": [
+        "other"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "description": "Buy and sell products and services peer-to-peer with Monero\n",
+      "nickname": "0xHIRO",
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://xmrbazaar.com/faq/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://xmrbazaar.com/faq/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/xmrbazaar",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Monero",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/xmr-bazaar/logo.png"
+        }
+      ]
+    },
+    {
       "id": "p0x-labs",
       "name": "P0X labs",
       "categories": [
