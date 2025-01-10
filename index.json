@@ -17609,6 +17609,103 @@
       ]
     },
     {
+      "id": "noones",
+      "name": "Noones",
+      "categories": [
+        "applications",
+        "social-and-communications"
+      ],
+      "usecases": [
+        "other"
+      ],
+      "ecosystem": [
+        "solana",
+        "bitcoin",
+        "ethereum",
+        "monero",
+        "other"
+      ],
+      "description": "NoOnes is a financial communication super app that brings empowerment by connecting people to the world's financial system. The people of the Global South will now have the ability to trade with all forms of payment on its marketplace, and make payments peer-to-peer—all with a Bitcoin wallet that acts as a store of value.\n\n",
+      "nickname": "0xhiro",
+      "sunset": false,
+      "assets_used": [
+        "xmr",
+        "eth",
+        "btc",
+        "usdt",
+        "sol",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://noones.com/",
+        "blog": "https://noones.com/blog",
+        "github": "",
+        "forum": "",
+        "docs": "https://dev.noones.com/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/noonesapp",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://noones.com/privacy-notice",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Ran Youseff",
+            "link": "https://www.linkedin.com/in/ray-youssef-683b20a1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABWzecMB_XLw-zNEcWWbDxRen_XgCihMlgk&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BKjJQkq3XRqGNFSZ10jG4JA%3D%3D"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.webp",
+          "ext": "webp",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/noones/logo.webp"
+        }
+      ]
+    },
+    {
       "id": "coti",
       "name": "Coti",
       "categories": [
