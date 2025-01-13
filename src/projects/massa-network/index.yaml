@@ -1,3 +1,4 @@
+id: massa-network
 name: Massa Network
 categories:
   - infrastructure
@@ -43,10 +44,10 @@ project_status:
   testnet: false
   version: mainnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
+  asset_custody_type: non-custody
   encryption: Parallel Block, Autonomous Smart Contracts, Decentralized Web Hosting
 storage:
   decentralized: true
@@ -92,4 +93,7 @@ funding:
   - name: Andurance Ventures
     link: https://cryptorank.io/ico/massa
 history: []
-id: massa-network
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/massa-network/logo.png
