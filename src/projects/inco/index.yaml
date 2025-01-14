@@ -1,19 +1,70 @@
 id: inco
 name: Inco
 categories:
-- infrastructure
-description: 'Universal confidentiality layer for Web3, enabling the development of
-  next-generation dApps, providing confidentiality to existing blockchains '
+  - infrastructure
+description: "Universal confidentiality layer for Web3, enabling the development
+  of next-generation dApps, providing confidentiality to existing blockchains "
 team:
   anonymous: false
+  teammembers: []
 links:
   web: https://www.inco.org/
-  github: https://github.com/Inco-fhevm
-  block_explorer: https://explorer.testnet.inco.org/
-  docs: https://docs.inco.org/
   blog: https://www.inco.org/blog/
+  github: https://github.com/Inco-fhevm
+  forum: ""
+  docs: https://docs.inco.org/
+  whitepaper: ""
+  block_explorer: https://explorer.testnet.inco.org/
+  governance: ""
   twitter: https://x.com/inconetwork
-  discord: https://discord.com/invite/fnKZp2qHPQ
-  telgram: https://t.me/inconetwork
+  discord: https://discord.com/invite/inco
+  telegram: https://t.me/inconetwork
+  lens: ""
+  farcaster: ""
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/inco/logo.png
+usecases:
+  - computing
+  - infrastructure
+  - storage
+ecosystem:
+  - ethereum
+  - multichain
+  - solana
+sunset: false
+assets_used: []
+tokens: []
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Fully Homomorphic Encryption/ Trusted Execution Environment
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding:
+  - name: 1kx
+    link: https://www.inco.org/blog/inco-raises-4-5-million-to-build-the-universal-confidentiality-layer
+history: []
