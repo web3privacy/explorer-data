@@ -1,3 +1,4 @@
+id: massa-network
 name: Massa Network
 categories:
   - infrastructure
@@ -43,10 +44,10 @@ project_status:
   testnet: false
   version: mainnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
+  asset_custody_type: non-custody
   encryption: Parallel Block, Autonomous Smart Contracts, Decentralized Web Hosting
 storage:
   decentralized: true
@@ -54,7 +55,7 @@ privacy_policy:
   defined: true
   link: https://massa.net/More/PrivacyPolicy
   data_usage: ""
-compliance: ""
+compliance: Yes
 tracebility:
   kyc: false
   tracked_data: ""
@@ -63,9 +64,18 @@ tracebility:
     - seed
 default_privacy: false
 audits:
-  - name: Certik
+  - name: EVM Bridge
     url: https://skynet.certik.com/projects/massa
-    time: 2023-06-26T21:00:00.000Z
+    time: 2024-04-07T22:00:00.000Z
+  - name: Wallet audit
+    url: https://skynet.certik.com/projects/massa#skynet
+    time: ""
+  - name: Security Assessment
+    url: https://skynet.certik.com/projects/massa#skynet
+    time: 2023-06-19T22:00:00.000Z
+  - name: Node audit
+    url: https://skynet.certik.com/projects/massa#skynet
+    time: ""
 third_party_dependency: ""
 social_trust: ""
 technical_spof: ""
@@ -92,4 +102,7 @@ funding:
   - name: Andurance Ventures
     link: https://cryptorank.io/ico/massa
 history: []
-id: massa-network
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/massa-network/logo.png
