@@ -18098,6 +18098,11 @@
       "third_party_dependency": "None",
       "logos": [
         {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nym/logo.jpeg"
+        },
+        {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nym/logo.png"
