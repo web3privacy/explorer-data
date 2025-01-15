@@ -55,7 +55,7 @@ privacy_policy:
   defined: true
   link: https://massa.net/More/PrivacyPolicy
   data_usage: ""
-compliance: ""
+compliance: FINMA is the main entity checking for financial compliance
 tracebility:
   kyc: false
   tracked_data: ""
