@@ -231,6 +231,14 @@
     {
       "id": "other",
       "name": "Other"
+    },
+    {
+      "id": "tee",
+      "name": "Trusted Execution Environment"
+    },
+    {
+      "id": "fhe",
+      "name": "Fully Homomorphic Encryption"
     }
   ],
   "projects": [
@@ -25082,6 +25090,8 @@
         "computing",
         "storage",
         "data-management",
+        "TEE",
+        "FHE",
         "other"
       ]
     },
@@ -25103,6 +25113,8 @@
       "usecases": [
         "wallets",
         "node",
+        "TEE",
+        "FHE",
         "other"
       ]
     },
@@ -25118,6 +25130,8 @@
         "wallets",
         "ai",
         "kyc-solution",
+        "TEE",
+        "FHE",
         "other"
       ]
     },
@@ -25130,6 +25144,8 @@
         "mixing-service",
         "mixing-management",
         "currency",
+        "TEE",
+        "FHE",
         "other"
       ]
     },
