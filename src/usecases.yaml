@@ -58,3 +58,7 @@
   name: Sunset
 - id: other
   name: Other
+- id: tee
+  name: Trusted Execution Environment
+- id: fhe
+  name: Fully Homomorphic Encryption
