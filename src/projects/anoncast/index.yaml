@@ -1,0 +1,10 @@
+name: Anoncast
+categories:
+  - social-and-communications
+usecases:
+  - dapps
+ecosystem:
+  - ethereum
+description: "Anon social media: post anonymously, powered by zk proofs"
+sunset: false
+id: anoncast
