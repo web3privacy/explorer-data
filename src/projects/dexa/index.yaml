@@ -1,0 +1,25 @@
+name: Dexa
+categories:
+  - social-and-communications
+usecases:
+  - messaging
+ecosystem:
+  - other
+description: A social messenger platform that emphasizes on your privacy with
+  Crypto Payment Capabilities.
+sunset: false
+links:
+  web: https://dexacoin.net
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: dexa
