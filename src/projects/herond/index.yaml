@@ -1,0 +1,25 @@
+name: Herond
+categories:
+  - applications
+usecases:
+  - browser
+ecosystem:
+  - other
+description: A Web3 browser that aims at revolutionizing the Web and data
+  privacy for the people
+sunset: false
+links:
+  web: https://herond.org
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: herond
