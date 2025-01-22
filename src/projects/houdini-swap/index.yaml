@@ -1,0 +1,24 @@
+name: Houdini Swap
+categories:
+  - applications
+usecases:
+  - mixing-service
+ecosystem:
+  - other
+description: Transact across any blockchain with optional privacy.
+sunset: false
+links:
+  web: https://houdiniswap.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: houdini-swap
