@@ -1,0 +1,24 @@
+name: Chameleon Network
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - other
+description: The Privacy Layer of Crypto
+sunset: false
+links:
+  web: https://chml.network
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: chameleon-network
