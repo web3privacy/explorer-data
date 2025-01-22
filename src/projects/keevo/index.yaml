@@ -1,0 +1,27 @@
+name: Keevo
+categories:
+  - hardware
+usecases:
+  - wallets
+ecosystem:
+  - other
+  - bitcoin
+  - ethereum
+description: Next gen crypto wallet. The ultimate in privacy, safety, and
+  simplicity without compromise.
+sunset: false
+links:
+  web: https://www.keevowallet.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: keevo
