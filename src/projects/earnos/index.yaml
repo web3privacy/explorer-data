@@ -1,0 +1,24 @@
+name: EarnOS
+categories:
+  - applications
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: Loyalty program for web3 powered by zkTLS
+sunset: false
+links:
+  web: https://www.earnos.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: earnos
