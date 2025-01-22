@@ -1,0 +1,10 @@
+name: Veil.Cash
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - other
+description: a privacy protocol on Base using zk-SNARKS
+sunset: false
+id: veil.cash
