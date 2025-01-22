@@ -1,0 +1,25 @@
+name: Confidential Layer
+categories:
+  - applications
+usecases:
+  - infrastructure
+  - bridge
+ecosystem:
+  - other
+description: The First bridge to privacy blockchains.
+sunset: false
+links:
+  web: https://confidentiallayer.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: confidential-layer
