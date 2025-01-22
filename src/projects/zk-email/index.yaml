@@ -1,0 +1,11 @@
+name: ZK Email
+categories:
+  - applications
+usecases:
+  - dapps
+ecosystem:
+  - ethereum
+description: "ZK Email allows to verify emails according to DKIM protocol using
+  zero-knowledge proofs. "
+sunset: false
+id: zk-email
