@@ -1,0 +1,24 @@
+name: Leksis
+categories:
+  - social-and-communications
+usecases:
+  - messaging
+ecosystem:
+  - other
+description: Secure messenger app
+sunset: false
+links:
+  web: https://lecksis.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: leksis
