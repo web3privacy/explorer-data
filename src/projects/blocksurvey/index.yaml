@@ -1,0 +1,24 @@
+name: BlockSurvey
+categories:
+  - applications
+usecases:
+  - other
+ecosystem:
+  - other
+description: Aa secure, privacy-centric alternative to SurveyMonkey and Typeform.
+sunset: false
+links:
+  web: https://blocksurvey.io/web3
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: blocksurvey
