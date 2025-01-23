@@ -16726,6 +16726,43 @@
       ]
     },
     {
+      "id": "converse",
+      "name": "Converse",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "a decentralized & secure messaging app built for crypto.",
+      "sunset": false,
+      "links": {
+        "web": "https://converse.xyz",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/converse/logo.png"
+        }
+      ]
+    },
+    {
       "id": "aztec",
       "name": "Aztec",
       "categories": [
@@ -22154,6 +22191,43 @@
           "file": "logo.jpg",
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/freechat/logo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dexa",
+      "name": "Dexa",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "A social messenger platform that emphasizes on your privacy with Crypto Payment Capabilities.",
+      "sunset": false,
+      "links": {
+        "web": "https://dexacoin.net",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/dexa/logo.png"
         }
       ]
     },
