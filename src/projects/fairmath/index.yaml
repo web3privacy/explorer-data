@@ -1,13 +1,69 @@
 id: fairmath
 name: FairMath
 categories:
-- applications
-description: Building Privacy Preserving Future Rooted in Fully Homomorphic Encryption
-  (FHE)
+  - applications
+description: Building Privacy Preserving Future Rooted in Fully Homomorphic Encryption (FHE)
 links:
   web: https://fairmath.xyz/
+  blog: ""
   github: https://github.com/fairmath
+  forum: ""
+  docs: https://docs.fairmath.xyz
+  whitepaper: https://eprint.iacr.org/2024/1917
+  block_explorer: https://computer.fairmath.xyz
+  governance: ""
   twitter: https://x.com/FairMath
   discord: https://discord.com/invite/NfhXwyr9M5
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.png
+usecases:
+  - ai
+  - defi
+  - research-and-development
+ecosystem:
+  - ethereum
+  - solana
+  - cosmos
+product_launch_day: 2023-04-30T22:00:00.000Z
+sunset: false
+assets_used:
+  - other
+tokens: []
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: FHE
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
