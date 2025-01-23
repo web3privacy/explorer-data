@@ -1,0 +1,25 @@
+name: Airchains
+categories:
+  - infrastructure
+usecases:
+  - fhe
+ecosystem:
+  - other
+description: Airchains is redefining how confidentiality and transparency
+  coexist onchain with its robust framework that brings zk and FHE together.
+sunset: false
+links:
+  web: https://www.airchains.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: airchains
