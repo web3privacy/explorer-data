@@ -11337,6 +11337,43 @@
       ]
     },
     {
+      "id": "ice-open-network",
+      "name": "Ice Open Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "ultra-fast L1 blockchain, empowering anyone to build scalable, privacy-focused decentralized apps.",
+      "sunset": false,
+      "links": {
+        "web": "https://ice.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ice-open-network/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "synx",
       "name": "Synx",
       "categories": [
