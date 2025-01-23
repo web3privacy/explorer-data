@@ -1,0 +1,24 @@
+name: Rarimo
+categories:
+  - infrastructure
+usecases:
+  - did
+ecosystem:
+  - ethereum
+description: A ZK identity protocol
+sunset: false
+links:
+  web: https://rarimo.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: rarimo
