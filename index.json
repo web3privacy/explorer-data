@@ -7097,13 +7097,13 @@
         "ethereum"
       ],
       "description": "zkSafe is a tool that enables better privacy for Safe multisig signing. Using zkSafe, Safe owners can collectively sign transactions without revealing who has signed the transaction. Privacy-forward crypto organizations, foundations, DAOs, and funds requiring robust security controls for asset management will find zkSafe valuable.",
-      "product_launch_day": "2024-11-02T17:00:00.000Z",
+      "product_launch_day": "2024-11-05T23:00:00.000Z",
       "sunset": false,
       "assets_used": [],
       "have_token": false,
       "tokens": [],
       "links": {
-        "web": "zksafe.1kx.io",
+        "web": "https://zksafe.1kx.io",
         "blog": "https://medium.com/1kxnetwork/today-1kx-proudly-unveils-zksafe-a-module-designed-to-enhance-privacy-for-safe-multisig-signing-ec83c45d497b",
         "github": "github.com/1kx-network/zksafe",
         "forum": "",
@@ -7170,7 +7170,14 @@
           "link": ""
         }
       ],
-      "history": []
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zksafe/logo.png"
+        }
+      ]
     },
     {
       "id": "tlsnotary",
