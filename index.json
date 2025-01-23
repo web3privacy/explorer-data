@@ -12936,6 +12936,43 @@
       ]
     },
     {
+      "id": "zkgpt",
+      "name": "ZKGPT",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "LLM Based Web3 search engine",
+      "sunset": false,
+      "links": {
+        "web": "https://info.zkgpt.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zkgpt/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "oasis-network",
       "name": "Oasis Network",
       "categories": [
