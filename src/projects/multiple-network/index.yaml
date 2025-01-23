@@ -1,0 +1,26 @@
+name: Multiple Network
+categories:
+  - applications
+usecases:
+  - storage
+ecosystem:
+  - other
+description: |-
+  Providing data storage and data transmission services to billions of users
+  around the world through DSD-WAN technology architecture
+sunset: false
+links:
+  web: https://multiple.cc
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: multiple-network
