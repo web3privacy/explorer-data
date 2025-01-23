@@ -25676,6 +25676,44 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/anonybit/logo.png"
         }
       ]
+    },
+    {
+      "id": "bubble-protocol",
+      "name": "Bubble Protocol",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "defi",
+        "storage"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Bubble Protocol brings private off-chain data to #dApps",
+      "sunset": false,
+      "links": {
+        "web": "https://bubbleprotocol.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/bubble-protocol/logo.png"
+        }
+      ]
     }
   ],
   "phases": [
