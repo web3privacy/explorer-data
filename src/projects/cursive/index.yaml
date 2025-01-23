@@ -1,7 +1,7 @@
 id: cursive
 name: Cursive
 categories:
-- applications
+  - applications
 description: A cryptography lab focused on human-first applications of signed data.
 links:
   web: https://www.cursive.team/
@@ -11,3 +11,12 @@ links:
   telegram: https://t.me/+z5REVOBXp_hmNDIx
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/cursive/logo.png
+usecases:
+  - fhe
+ecosystem:
+  - ethereum
+sunset: false
