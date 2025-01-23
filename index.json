@@ -6382,7 +6382,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/privasea/logo.png"
         }
-      ]
+      ],
+      "usecases": [
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "shutter-network",
