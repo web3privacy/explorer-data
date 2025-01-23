@@ -1,0 +1,26 @@
+name: Fluton
+categories:
+  - infrastructure
+usecases:
+  - fhe
+  - defi
+ecosystem:
+  - other
+description: the intent-centric, fast and low-cost gateway enabling instant
+  swaps and bridges across EVM and non-EVM networks.
+sunset: false
+links:
+  web: https://fluton.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: fluton
