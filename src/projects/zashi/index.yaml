@@ -1,0 +1,10 @@
+name: Zashi
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - other
+description: "The most user-friendly Zcash wallet. "
+sunset: false
+id: zashi
