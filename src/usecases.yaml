@@ -54,6 +54,10 @@
   name: Events
 - id: ai
   name: AI (Artificial Inteligence)
+- id: tee
+  name: Trusted Execution Environment
+- id: fhe
+  name: Fully Homomorphic Encryption
 - id: sunset
   name: Sunset
 - id: other

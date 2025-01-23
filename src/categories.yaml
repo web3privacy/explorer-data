@@ -9,6 +9,8 @@
     - computing
     - storage
     - data-management
+    - tee
+    - fhe 
     - other
 - id: social-and-communications
   name: Social & Communications
@@ -24,6 +26,8 @@
   usecases:
     - wallets
     - node
+    - tee
+    - fhe 
     - other
 - id: applications
   name: Applications
@@ -36,6 +40,8 @@
     - wallets
     - ai
     - kyc-solution
+    - tee
+    - fhe 
     - other
 - id: defi
   name: Defi
@@ -44,6 +50,8 @@
     - defi
     - mixing-service
     - mixing-management
+    - tee
+    - fhe 
     - currency
     - other
 - id: archived-projects

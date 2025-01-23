@@ -10,3 +10,7 @@
   name: Opensource
 - id: live-on-mainnet
   name: Live on Mainnet
+- id : fhe
+  name: Fully Homomorphic Encryption
+- id: tee
+  name: Trusted Execution Environment
