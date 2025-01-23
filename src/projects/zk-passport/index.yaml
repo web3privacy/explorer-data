@@ -1,0 +1,10 @@
+name: ZK Passport
+categories:
+  - social-and-communications
+usecases:
+  - did
+ecosystem:
+  - ethereum
+description: Privacy-preserving self-custodial unforgeable proof of identity.
+sunset: false
+id: zk-passport
