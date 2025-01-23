@@ -1,24 +1,77 @@
 id: penumbra
 name: Penumbra
 categories:
-- infrastructure
-description: A shielded, cross-chain network allowing anyone to securely transact,
-  stake, swap, or marketmake without broadcasting their personal information to the
-  world
+  - infrastructure
+  - defi
+description: Penumbra is a fully private, proof-of-stake network and
+  decentralized exchange built on the Cosmos technical stack, utilizing the
+  CometBFT consensus engine and the IBC interoperability protocol. It enables
+  end-to-end encrypted transactions for staking, swapping, market making, and
+  acting as a shielded pool for the IBC ecosystem and beyond.
 team:
   anonymous: true
+  teammembers: []
 links:
   web: https://penumbra.zone
-  github: https://github.com/penumbra-zone
   blog: https://penumbra.zone/blog
-  docs: https://protocol.penumbra.zone/main/index.html
+  github: https://github.com/penumbra-zone
+  forum: https://forum.penumbra.zone/
+  docs: https://guide.penumbra.zone/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/penumbrazone
+  discord: https://discord.gg/penumbrazone
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: Penumbra Summoning Testnet
-  testnet: true
-  mainnet: false
+  mainnet: true
+  testnet: false
+  version: mainnet
 usecases:
-- infrastructure
+  - infrastructure
+  - defi
+  - wallets
+  - currency
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/penumbra/logo.png
+ecosystem:
+  - cosmos
+sunset: false
+assets_used: []
+tokens: []
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (zk-SNARKs)
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.coincenter.org/electronic-cash-decentralized-exchange-and-the-constitution/
+  data_usage: No data is tracked
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: No data is tracked
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history:
+  - title: ""
+    description: ""
+    link: ""
+    time: ""
