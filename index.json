@@ -11578,6 +11578,44 @@
       ]
     },
     {
+      "id": "confidential-layer",
+      "name": "Confidential Layer",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "infrastructure",
+        "bridge"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The First bridge to privacy blockchains.",
+      "sunset": false,
+      "links": {
+        "web": "https://confidentiallayer.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/confidential-layer/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "coti",
       "name": "Coti",
       "categories": [
