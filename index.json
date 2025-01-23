@@ -23,7 +23,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/octra/logo.png"
         }
-      ]
+      ],
+      "usecases": [
+        "fhe"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "rln-anonymous-chat",
@@ -13745,7 +13752,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cursive/logo.png"
         }
-      ]
+      ],
+      "usecases": [
+        "fhe"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "summa",
