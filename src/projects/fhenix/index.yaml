@@ -36,6 +36,7 @@ usecases:
   - bridge
   - messaging
   - dapps
+  - fhe
 ecosystem:
   - ethereum
 sunset: false
