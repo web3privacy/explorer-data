@@ -1,0 +1,24 @@
+name: aizzy.ai
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - other
+description: The AI-powered Web3 platform
+sunset: false
+links:
+  web: https://aizzy.ai
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: aizzy.ai
