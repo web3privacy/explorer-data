@@ -8582,6 +8582,43 @@
       ]
     },
     {
+      "id": "chainswap",
+      "name": "ChainSwap",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Shaping the future of crypto transactions with ChainSwap cross-chain swap & privacy solutions, built upon cutting-edge CCTP & CCIP technology.",
+      "sunset": false,
+      "links": {
+        "web": "https://www.chainswap.tech",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/chainswap/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "coinomize",
       "name": "Coinomize",
       "categories": [
@@ -9493,6 +9530,43 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/tails-os/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "myst-privacy",
+      "name": "Myst Privacy",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Empowering Privacy With The Precision Of AI https://",
+      "sunset": false,
+      "links": {
+        "web": "https://www.mystprivacy.xyz",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/myst-privacy/logo.jpeg"
         }
       ]
     },
