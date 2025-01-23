@@ -1,9 +1,11 @@
+id: encifher
 name: Encifher
 categories:
   - defi
 usecases:
   - bridge
   - defi
+  - fhe
 ecosystem:
   - bitcoin
 description: World's most trusted privacy-based solution for DeFi on Bitcoin
@@ -59,4 +61,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: encifher
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/encifher/logo.png
