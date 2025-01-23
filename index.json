@@ -4740,6 +4740,43 @@
       ]
     },
     {
+      "id": "airchains",
+      "name": "Airchains",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "fhe"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Airchains is redefining how confidentiality and transparency coexist onchain with its robust framework that brings zk and FHE together.",
+      "sunset": false,
+      "links": {
+        "web": "https://www.airchains.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/airchains/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "synaps",
       "name": "Synaps",
       "categories": [
@@ -21584,6 +21621,44 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/brume-wallet/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "sight-ai",
+      "name": "Sight AI",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "fhe",
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Decentralized Data Network for AI ",
+      "sunset": false,
+      "links": {
+        "web": "https://sightai.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sight-ai/logo.jpeg"
         }
       ]
     },
