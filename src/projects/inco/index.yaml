@@ -31,6 +31,7 @@ usecases:
   - computing
   - infrastructure
   - storage
+  - fhe
 ecosystem:
   - ethereum
   - multichain
