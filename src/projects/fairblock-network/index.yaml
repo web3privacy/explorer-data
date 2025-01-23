@@ -1,0 +1,26 @@
+name: Fairblock Network
+categories:
+  - infrastructure
+  - defi
+usecases:
+  - infrastructure
+  - defi
+ecosystem:
+  - other
+description: Unlocking Credible DeFi and AI Economies with Dynamic MPC.
+sunset: false
+links:
+  web: https://x.com/0xfairblock
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: fairblock-network
