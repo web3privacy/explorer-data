@@ -22844,6 +22844,28 @@
       ]
     },
     {
+      "id": "zk-passport",
+      "name": "ZK Passport",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "did"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Privacy-preserving self-custodial unforgeable proof of identity.",
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zk-passport/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "adamant",
       "name": "Adamant",
       "categories": [
