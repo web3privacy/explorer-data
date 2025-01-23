@@ -25896,6 +25896,14 @@
       "name": "AI (Artificial Inteligence)"
     },
     {
+      "id": "tee",
+      "name": "Trusted Execution Environment"
+    },
+    {
+      "id": "fhe",
+      "name": "Fully Homomorphic Encryption"
+    },
+    {
       "id": "sunset",
       "name": "Sunset"
     },
@@ -25981,6 +25989,8 @@
         "computing",
         "storage",
         "data-management",
+        "tee",
+        "fhe",
         "other"
       ]
     },
@@ -26002,6 +26012,8 @@
       "usecases": [
         "wallets",
         "node",
+        "tee",
+        "fhe",
         "other"
       ]
     },
@@ -26017,6 +26029,8 @@
         "wallets",
         "ai",
         "kyc-solution",
+        "tee",
+        "fhe",
         "other"
       ]
     },
@@ -26028,6 +26042,8 @@
         "defi",
         "mixing-service",
         "mixing-management",
+        "tee",
+        "fhe",
         "currency",
         "other"
       ]
@@ -26323,6 +26339,14 @@
     {
       "id": "live-on-mainnet",
       "name": "Live on Mainnet"
+    },
+    {
+      "id": "fhe",
+      "name": "Fully Homomorphic Encryption"
+    },
+    {
+      "id": "tee",
+      "name": "Trusted Execution Environment"
     }
   ],
   "ecosystems": [
