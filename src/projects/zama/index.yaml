@@ -1,9 +1,9 @@
 id: zama
 name: Zama
 categories:
-- infrastructure
-description: an open source cryptography company building FHE solutions for blockchain
-  and AI.
+  - infrastructure
+description: an open source cryptography company building FHE solutions for
+  blockchain and AI.
 team:
   anonymous: false
 links:
@@ -11,3 +11,12 @@ links:
   docs: https://docs.zama.ai/
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zama/logo.png
+usecases:
+  - fhe
+ecosystem:
+  - other
+sunset: false
