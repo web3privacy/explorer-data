@@ -1,7 +1,7 @@
 id: privasea
 name: Privasea
 categories:
-- infrastructure
+  - infrastructure
 description: An AI + DePIN Network enabled through FHEML
 links:
   web: https://www.privasea.ai/
@@ -14,3 +14,12 @@ links:
   telegram: https://t.me/Privasea_ai
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/privasea/logo.png
+usecases:
+  - ai
+ecosystem:
+  - other
+sunset: false
