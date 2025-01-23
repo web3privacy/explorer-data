@@ -467,7 +467,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zama/logo.png"
         }
-      ]
+      ],
+      "usecases": [
+        "fhe"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "zecrey-wallet",
