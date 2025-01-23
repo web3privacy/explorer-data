@@ -1,7 +1,7 @@
 id: octra
 name: Octra
 categories:
-- infrastructure
+  - infrastructure
 description: general purpose FHE network enabling economies of the future
 links:
   web: https://octra.org/
@@ -12,3 +12,12 @@ links:
   telegram: https://t.me/octranetwork
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/octra/logo.png
+usecases:
+  - fhe
+ecosystem:
+  - other
+sunset: false
