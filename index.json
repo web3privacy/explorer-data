@@ -4433,6 +4433,28 @@
       ]
     },
     {
+      "id": "zashi",
+      "name": "Zashi",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The most user-friendly Zcash wallet. ",
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zashi/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "dragonx",
       "name": "DragonX",
       "categories": [
