@@ -7004,7 +7004,8 @@
       "usecases": [
         "computing",
         "infrastructure",
-        "storage"
+        "storage",
+        "fhe"
       ],
       "ecosystem": [
         "ethereum",
