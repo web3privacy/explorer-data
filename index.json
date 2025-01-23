@@ -4267,6 +4267,43 @@
       ]
     },
     {
+      "id": "rarimo",
+      "name": "Rarimo",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "did"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "A ZK identity protocol",
+      "sunset": false,
+      "links": {
+        "web": "https://rarimo.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/rarimo/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "gateway",
       "name": "Gateway",
       "categories": [
@@ -6768,6 +6805,43 @@
       ]
     },
     {
+      "id": "fluidkey",
+      "name": "Fluidkey",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Receive and manage funds onchain without publicly linking them to you via stealth addresses. ",
+      "sunset": false,
+      "links": {
+        "web": "https://www.fluidkey.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/fluidkey/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "verusid",
       "name": "VerusID",
       "categories": [
@@ -7451,6 +7525,43 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/boring-protocol/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "nym-vpn",
+      "name": "Nym VPN",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "vpn"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Advanced privacy built for the age of AI",
+      "sunset": false,
+      "links": {
+        "web": "https://nym.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nym-vpn/logo.png"
         }
       ]
     },
