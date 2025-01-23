@@ -1,0 +1,25 @@
+name: Sight AI
+categories:
+  - infrastructure
+usecases:
+  - fhe
+  - ai
+ecosystem:
+  - other
+description: "Decentralized Data Network for AI "
+sunset: false
+links:
+  web: https://sightai.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: sight-ai
