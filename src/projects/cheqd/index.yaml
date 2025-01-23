@@ -3,18 +3,26 @@ name: cheqd
 categories:
   - applications
   - infrastructure
-description: A secure network that enables individuals and organizations to
-  fully control  their personal data. It allows self-sovereign identity (SSI)
-  companies to build and deliver secure solutions to you
+description: cheqd is the Payment and Trust Infrastructure for Credentials and
+  Verifiable AI. We enable the development of personalised AI, eID, digital
+  credential businesses, and trust ecosystems. By enabling privacy-preserving
+  payments for data, we incentivise its release from siloes, unlocking limitless
+  data combinations to create new user experiences and personalised AI
+  solutions.
 links:
   web: https://cheqd.io
-  github: https://github.com/cheqd
-  block_explorer: https://bigdipper.live/cheqd/it
-  docs: https://docs.cheqd.io/identity
   blog: https://cheqd.io/blog/
+  github: https://github.com/cheqd
+  forum: https://forum.cheqd.io/
+  docs: https://docs.cheqd.io/identity
+  whitepaper: https://learn.cheqd.io/cheq/tokenomics
+  block_explorer: https://bigdipper.live/cheqd/it
+  governance: https://explorer.cheqd.io/proposals
   twitter: https://x.com/cheqd_io
   discord: https://discord.com/invite/4VZszdE7HH
   telegram: https://t.me/cheqd
+  lens: ""
+  farcaster: https://warpcast.com/cheqd
 usecases:
   - dapps
   - defi
@@ -23,7 +31,7 @@ usecases:
   - kyc-solution
   - ai
 have_token: false
-third_party_dependency: none
+third_party_dependency: No.
 logos:
   - file: logo.png
     ext: png
@@ -39,3 +47,55 @@ tokens:
     name: CHEQ
     contract_address: ""
     token_link: https://explorer.cheqd.io/
+  - symbol: $CHEQ
+    name: CHEQ
+    contract_address: ""
+    token_link: https://explorer.cheqd.io/
+product_launch_day: 2021-04-30T23:00:00.000Z
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge (ZK), Selective Disclosure, Decentralised
+    Identifiers, Trust Registries
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://cheqd.io/privacy/
+  data_usage: We don't keep user data.
+compliance: eIDAS 2.0, W3C
+tracebility:
+  kyc: false
+  tracked_data: No data is collected.
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Fraser Edwards
+      link: https://twitter.com/fraser_again,
+        https://www.linkedin.com/in/edwardsfraser/
+    - name: Ankur Banerjee
+      link: https://www.linkedin.com/in/banerjeeankur/
+    - name: Javed Khattak
+      link: https://www.linkedin.com/in/javedkhattak/
+    - name: Eduardo Hotta
+      link: https://www.linkedin.com/in/hotta/
+funding:
+  - name: Outlier Ventures
+    link: https://www.uktech.news/news/london-digital-id-startup-cheqd-funding-20210923
+  - name: Evernym
+    link: https://www.uktech.news/news/london-digital-id-startup-cheqd-funding-20210923
+history: []
