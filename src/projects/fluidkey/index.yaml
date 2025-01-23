@@ -1,0 +1,25 @@
+name: Fluidkey
+categories:
+  - applications
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: "Receive and manage funds onchain without publicly linking them to
+  you via stealth addresses. "
+sunset: false
+links:
+  web: https://www.fluidkey.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: fluidkey
