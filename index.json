@@ -11390,6 +11390,28 @@
       ]
     },
     {
+      "id": "zk-email",
+      "name": "ZK Email",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "ZK Email allows to verify emails according to DKIM protocol using zero-knowledge proofs. ",
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zk-email/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "sons-of-crypto",
       "name": "Sons of Crypto",
       "categories": [
