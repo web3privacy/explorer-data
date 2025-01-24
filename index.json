@@ -12144,12 +12144,9 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "Builders of apps, wallets, protocols, and AI agents use the Lit network for decentralized signing, encryption, and compute.",
+      "description": "Lit is a decentralized key management network providing programmable accounts and encryption tools for developers building agents and protocols. The protocol runs programmable MPC TSS within a network for TEEs",
       "team": {
         "anonymous": false,
-        "company": {
-          "link": "https://example-company.com"
-        },
         "teammembers": [
           {
             "name": "David Sneider",
@@ -12165,11 +12162,18 @@
       },
       "links": {
         "web": "https://litprotocol.com",
+        "blog": "https://spark.litprotocol.com/",
         "github": "https://github.com/LIT-Protocol/",
+        "forum": "",
         "docs": "https://developer.litprotocol.com/",
         "whitepaper": "https://github.com/LIT-Protocol/whitepaper?ref=spark.litprotocol.com",
-        "blog": "https://spark.litprotocol.com/",
-        "twitter": "https://twitter.com/litprotocol"
+        "block_explorer": "https://yellowstone-explorer.litprotocol.com/",
+        "governance": "",
+        "twitter": "https://twitter.com/litprotocol",
+        "discord": "getlit.dev/chat",
+        "telegram": "https://t.me/+uk-quqSkt3k3Zjgx",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
@@ -12179,9 +12183,9 @@
       ],
       "project_status": {
         "live_status": true,
-        "version": "Mainnet (beta v0)",
-        "testnet": true,
-        "mainnet": true
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
       },
       "audits": [
         {
@@ -12191,7 +12195,11 @@
       ],
       "usecases": [
         "infrastructure",
-        "mpc"
+        "mpc",
+        "wallets",
+        "computing",
+        "tee",
+        "ai"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -12202,9 +12210,59 @@
         }
       ],
       "ecosystem": [
-        "ethereum"
+        "ethereum",
+        "bitcoin",
+        "solana",
+        "cosmos",
+        "monero",
+        "other",
+        "multichain"
       ],
-      "sunset": false
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "btc",
+        "usdc",
+        "usdt",
+        "dai",
+        "atom",
+        "scrt",
+        "dot",
+        "sol",
+        "zcash",
+        "xmr",
+        "other"
+      ],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "MPC TSS in TEE Network"
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": []
     },
     {
       "id": "pigeon-communicator",
