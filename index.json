@@ -2144,6 +2144,11 @@
       "third_party_dependency": "none",
       "logos": [
         {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.jpeg"
+        },
+        {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.png"
@@ -2152,7 +2157,8 @@
       "usecases": [
         "ai",
         "defi",
-        "research-and-development"
+        "research-and-development",
+        "fhe"
       ],
       "ecosystem": [
         "ethereum",
