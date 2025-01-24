@@ -549,7 +549,8 @@
         "infrastructure",
         "computing",
         "dao",
-        "ai"
+        "ai",
+        "mpc"
       ],
       "ecosystem": [
         "other",
@@ -19885,7 +19886,8 @@
         "computing",
         "storage",
         "data-management",
-        "ai"
+        "ai",
+        "mpc"
       ],
       "have_token": false,
       "third_party_dependency": "",
