@@ -1,9 +1,9 @@
 id: mind-network
 name: Mind Network
 categories:
-- infrastructure
-description: Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading towards
-  to the era of HTTPZ, an end-to-end encryption internet
+  - infrastructure
+description: Mind Network is a Fully Homomorphic Encryption (FHE) Layer leading
+  towards to the era of HTTPZ, an end-to-end encryption internet
 team:
   anonymous: true
 links:
@@ -18,5 +18,13 @@ project_status:
   testnet: true
   mainnet: false
 usecases:
-- infrastructure
+  - infrastructure
+  - fhe
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mind-network/logo.png
+ecosystem:
+  - other
+sunset: false
