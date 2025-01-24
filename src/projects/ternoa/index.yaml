@@ -1,10 +1,15 @@
+id: ternoa
 name: Ternoa
 categories:
   - infrastructure
 usecases:
   - tee
+  - eth-layer-2
+  - defi
+  - data-management
 ecosystem:
   - other
+  - ethereum
 description: Decentralized TEE Network powered by SGX
 sunset: false
 links:
@@ -21,4 +26,28 @@ links:
   telegram: ""
   lens: ""
   farcaster: ""
-id: ternoa
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.png
+assets_used: []
+have_token: true
+tokens:
+  - symbol: $CAPS
+    name: CAPS
+    contract_address: "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2"
+    token_link: https://explorer-mainnet.zkevm.ternoa.network/
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
