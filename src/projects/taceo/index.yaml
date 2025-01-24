@@ -12,6 +12,8 @@ team:
     - name: Lukas Helminger
       role: CEO
       link: https://x.com/luhelminger
+    - name: Aisling Connolly
+      link: x.com/aisconnolly
 links:
   web: https://taceo.io/
   blog: https://blog.taceo.io/
@@ -23,7 +25,7 @@ links:
   governance: ""
   twitter: https://x.com/TACEO_IO
   discord: https://discord.com/invite/gWZW2TANpk
-  telegram: ""
+  telegram: https://t.me/collaborativeSNARK
   lens: ""
   farcaster: ""
 project_status:
