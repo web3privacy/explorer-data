@@ -51,7 +51,7 @@ blockchain_features:
   opensource: false
   upgradability:
     enabled: false
-  asset_custody_type: ""
+  asset_custody_type: non-custody
   encryption: MPC
 storage: {}
 privacy_policy:
