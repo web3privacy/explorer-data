@@ -523,7 +523,7 @@
       "links": {
         "web": "https://arcium.com/",
         "blog": "https://www.arcium.com/articles",
-        "github": "",
+        "github": "https://github.com/arcium-hq",
         "forum": "",
         "docs": "https://docs.arcium.com/",
         "whitepaper": "",
@@ -593,9 +593,31 @@
       "technical_spof": "",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Yannik Schrade",
+            "link": "https://x.com/yrschrade"
+          },
+          {
+            "name": "Julian Deschler",
+            "link": "https://x.com/julian_arcium"
+          },
+          {
+            "name": "Lukas Steiner",
+            "link": "https://x.com/manzgoeggel"
+          },
+          {
+            "name": "Nicolas Schapeler",
+            "link": "https://x.com/cryptopapi997"
+          }
+        ]
       },
-      "funding": [],
+      "funding": [
+        {
+          "name": "Greenfield Capital",
+          "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
+        }
+      ],
       "history": []
     },
     {
