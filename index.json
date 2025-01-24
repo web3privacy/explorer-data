@@ -26037,6 +26037,10 @@
       "name": "Trusted Execution Environment"
     },
     {
+      "id": "mpc",
+      "name": "Multi-Party Computation"
+    },
+    {
       "id": "fhe",
       "name": "Fully Homomorphic Encryption"
     },
