@@ -33,6 +33,7 @@ usecases:
   - computing
   - dao
   - ai
+  - mpc
 ecosystem:
   - other
   - ethereum
