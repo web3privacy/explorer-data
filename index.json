@@ -8102,7 +8102,8 @@
       ],
       "usecases": [
         "infrastructure",
-        "defi"
+        "defi",
+        "mpc"
       ],
       "ecosystem": [
         "other"
@@ -11896,7 +11897,8 @@
         }
       ],
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "mpc"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -11905,7 +11907,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/lit/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "pigeon-communicator",
@@ -21513,7 +21519,8 @@
         "mainnet": true
       },
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "mpc"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -21522,7 +21529,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/partisia-blockchain/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "secure-rpc",
