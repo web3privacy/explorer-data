@@ -1,0 +1,24 @@
+name: Ternoa
+categories:
+  - infrastructure
+usecases:
+  - tee
+ecosystem:
+  - other
+description: Decentralized TEE Network powered by SGX
+sunset: false
+links:
+  web: https://www.ternoa.network
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: ternoa
