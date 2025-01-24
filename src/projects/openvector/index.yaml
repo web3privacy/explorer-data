@@ -1,0 +1,24 @@
+name: OpenVector
+categories:
+  - infrastructure
+usecases:
+  - fhe
+ecosystem:
+  - other
+description: Decentralized & Privacy Preserving AGI
+sunset: false
+links:
+  web: https://openvector.ai
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: openvector
