@@ -1,3 +1,4 @@
+id: ternoa
 name: Ternoa
 categories:
   - infrastructure
@@ -16,9 +17,42 @@ links:
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: ""
+  twitter: https://x.com/Ternoa_
   discord: ""
   telegram: ""
   lens: ""
   farcaster: ""
-id: ternoa
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.png
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
