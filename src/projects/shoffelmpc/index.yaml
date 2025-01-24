@@ -1,0 +1,24 @@
+name: ShoffelMPC
+categories:
+  - infrastructure
+usecases:
+  - mpc
+ecosystem:
+  - other
+description: Secure Multiparty Computation Made Simple
+sunset: false
+links:
+  web: https://stoffelmpc.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: shoffelmpc
