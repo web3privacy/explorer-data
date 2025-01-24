@@ -1,3 +1,4 @@
+id: fairblock-network
 name: Fairblock Network
 categories:
   - infrastructure
@@ -5,6 +6,7 @@ categories:
 usecases:
   - infrastructure
   - defi
+  - mpc
 ecosystem:
   - other
 description: Unlocking Credible DeFi and AI Economies with Dynamic MPC.
@@ -23,4 +25,7 @@ links:
   telegram: ""
   lens: ""
   farcaster: ""
-id: fairblock-network
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/fairblock-network/logo.jpeg
