@@ -21509,6 +21509,11 @@
           "file": "logo.jpeg",
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/phala-network/logo.jpeg"
+        },
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/phala-network/logo.png"
         }
       ],
       "sunset": false,
