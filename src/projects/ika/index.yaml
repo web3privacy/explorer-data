@@ -1,0 +1,25 @@
+name: Ika
+categories:
+  - infrastructure
+usecases:
+  - mpc
+ecosystem:
+  - other
+description: |
+  The fastest parallel MPC network, launching on  SuiNetwork
+sunset: false
+links:
+  web: https://ika.xyz
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: ika
