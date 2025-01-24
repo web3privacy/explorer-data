@@ -1597,7 +1597,8 @@
       },
       "have_token": false,
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "tee"
       ],
       "logos": [
         {
@@ -5323,7 +5324,8 @@
         "mainnet": false
       },
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "tee"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -5332,7 +5334,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/automata-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "earnos",
