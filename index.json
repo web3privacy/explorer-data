@@ -20956,14 +20956,15 @@
       "usecases": [
         "defi",
         "infrastructure",
-        "computing"
+        "computing",
+        "fhe"
       ],
       "ecosystem": [
         "ethereum",
         "other"
       ],
       "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3) that enables secure, privacy-preserving, and verifiable computations on encrypted data using FHE, ZKPs, and DTC (distributed threshold cryptography). Use cases include secret voting, sealed-bid auctions, and privacy-preserving collaborative analysis that are difficult or impossible with traditional solutions.",
-      "product_launch_day": "2024-06-01T05:00:00.000Z",
+      "product_launch_day": "2024-06-05T22:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -21032,6 +21033,11 @@
       "funding": [],
       "history": [],
       "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/enclave/logo.jpeg"
+        },
         {
           "file": "logo.png",
           "ext": "png",
