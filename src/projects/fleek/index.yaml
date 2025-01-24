@@ -1,0 +1,24 @@
+name: Fleek
+categories:
+  - infrastructure
+usecases:
+  - tee
+ecosystem:
+  - other
+description: The Autonomous Cloud. Seamlessly build & deploy apps & AI agents.
+sunset: false
+links:
+  web: https://fleek.xyz
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: fleek
