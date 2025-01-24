@@ -45,6 +45,7 @@ usecases:
   - storage
   - data-management
   - ai
+  - mpc
 have_token: false
 third_party_dependency: ""
 logos:
