@@ -3,29 +3,108 @@ name: Fairblock Network
 categories:
   - infrastructure
   - defi
+  - applications
 usecases:
-  - infrastructure
   - defi
+  - ai
   - mpc
+  - fhe
 ecosystem:
-  - other
+  - cosmos
+  - ethereum
+  - solana
 description: Unlocking Credible DeFi and AI Economies with Dynamic MPC.
 sunset: false
 links:
-  web: https://x.com/0xfairblock
-  blog: ""
-  github: ""
+  web: https://fairblock.network
+  blog: https://www.fairblock.network/articles
+  github: https://github.com/Fairblock
   forum: ""
-  docs: ""
-  whitepaper: ""
+  docs: docs.fairblock.network
+  whitepaper: https://uwspace.uwaterloo.ca/bitstreams/50734237-93f0-4a43-b46b-1e871022487f/download
   block_explorer: ""
   governance: ""
-  twitter: ""
-  discord: ""
-  telegram: ""
+  twitter: https://x.com/0xfairblock
+  discord: https://discord.gg/jy6VEWzhd7
+  telegram: "@pememoni"
   lens: ""
   farcaster: ""
 logos:
   - file: logo.jpeg
     ext: jpeg
     url: https://explorer-data.web3privacy.info/assets/projects/fairblock-network/logo.jpeg
+product_launch_day: 2022-12-06T05:00:00.000Z
+assets_used: []
+have_token: false
+tokens: []
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: MPC, Threshold IBE, CKKS (FHE + MPC)
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: No data collected.
+compliance: Fully Compliant with pre-execution privacy and post execution audits
+tracebility:
+  kyc: false
+  tracked_data: Nothing
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits:
+  - name: Zellic
+    url: https://github.com/Zellic/publications/blob/master/Fairyring%20-%20Zellic%20Audit%20Report.pdf
+    time: 2024-12-16T05:00:00.000Z
+  - name: Oak Security
+    url: https://github.com/oak-security/audit-reports/blob/70571c511e961cf6194b5c39757735a6549a9f4f/Fairblock/2023-10-02%20Audit%20Report%20-%20FairBlock%20fairyring%20v1.0.pdf
+    time: 2024-03-20T04:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Peyman Momeni
+      link: https://www.linkedin.com/in/peyman-m-b0681b128/
+funding:
+  - name: Anagram
+    link: ""
+  - name: Galileo
+    link: ""
+  - name: GSR
+    link: ""
+  - name: Dialectic
+    link: ""
+  - name: Lemniscap
+    link: ""
+  - name: Robot Ventures
+    link: ""
+  - name: Reverie
+    link: ""
+  - name: Dora Hacks
+    link: ""
+  - name: Axelar
+    link: ""
+  - name: Arbitrum Foundation
+    link: ""
+  - name: Chorus One
+    link: ""
+history:
+  - title: Unlock EthCC
+    description: ""
+    link: https://lu.ma/ylvdbgey
+    time: ""
+  - title: Encryption Day
+    description: ""
+    link: https://www.youtube.com/watch?v=payuQR87qb8
+    time: ""
