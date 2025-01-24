@@ -90,7 +90,11 @@ project_status:
 have_token: false
 usecases:
   - infrastructure
+  - tee
 logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/secret-network/logo.jpeg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/secret-network/logo.png
