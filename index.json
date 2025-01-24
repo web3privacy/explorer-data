@@ -6473,13 +6473,19 @@
       "third_party_dependency": "none",
       "logos": [
         {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/privasea/logo.jpeg"
+        },
+        {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/privasea/logo.png"
         }
       ],
       "usecases": [
-        "ai"
+        "ai",
+        "fhe"
       ],
       "ecosystem": [
         "other"
@@ -21451,6 +21457,11 @@
       "have_token": true,
       "third_party_dependency": "",
       "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/phala-network/logo.jpeg"
+        },
         {
           "file": "logo.png",
           "ext": "png",
