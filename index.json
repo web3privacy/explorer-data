@@ -26163,6 +26163,43 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/bubble-protocol/logo.png"
         }
       ]
+    },
+    {
+      "id": "redacted",
+      "name": "Redacted",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Private Banking for DeFi — on-chain, private, compliant.",
+      "sunset": false,
+      "links": {
+        "web": "https://www.redacted.gg",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/redacted/logo.jpeg"
+        }
+      ]
     }
   ],
   "phases": [
