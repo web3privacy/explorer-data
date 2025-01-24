@@ -12033,6 +12033,43 @@
       ]
     },
     {
+      "id": "quilibrium",
+      "name": "Quilibrium",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "mpc"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Quilibrium, the decentralized MPC platform as a service",
+      "sunset": false,
+      "links": {
+        "web": "https://quilibriium.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/quilibrium/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "bluum",
       "name": "Bluum",
       "categories": [
@@ -22550,6 +22587,43 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/justnote/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "ika",
+      "name": "Ika",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "mpc"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The fastest parallel MPC network, launching on  SuiNetwork\n",
+      "sunset": false,
+      "links": {
+        "web": "https://ika.xyz",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ika/logo.png"
         }
       ]
     },
