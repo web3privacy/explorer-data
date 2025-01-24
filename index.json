@@ -16721,6 +16721,43 @@
       ]
     },
     {
+      "id": "openvector",
+      "name": "OpenVector",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "fhe"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Decentralized & Privacy Preserving AGI",
+      "sunset": false,
+      "links": {
+        "web": "https://openvector.ai",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/openvector/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "PrivadoID",
       "name": "PrivadoID",
       "categories": [
