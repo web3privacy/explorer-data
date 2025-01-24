@@ -1,0 +1,25 @@
+name: Aleph Cloud
+categories:
+  - infrastructure
+usecases:
+  - tee
+ecosystem:
+  - other
+description: Open source DePIN powering  @twentysixcloud  (confidential VMs,
+  indexing, web hosting, storage, databases, compute, AI)
+sunset: false
+links:
+  web: https://aleph.im
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: aleph-cloud
