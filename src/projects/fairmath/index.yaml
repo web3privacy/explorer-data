@@ -27,6 +27,7 @@ usecases:
   - ai
   - defi
   - research-and-development
+  - fhe
 ecosystem:
   - ethereum
   - solana
