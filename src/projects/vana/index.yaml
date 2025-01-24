@@ -1,0 +1,24 @@
+name: Vana
+categories:
+  - infrastructure
+usecases:
+  - ai
+ecosystem:
+  - other
+description: the first network for user-owned data
+sunset: false
+links:
+  web: https://www.vana.org
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: vana
