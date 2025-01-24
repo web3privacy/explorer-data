@@ -5,7 +5,7 @@ categories:
 project_type: Confidential compute
 description: A privacy-enabled blockchain platform for open finance and a
   responsible data economy
-product_launch_day: 2020-11-01T23:00:00.000Z
+product_launch_day: 2020-10-31T23:00:00.000Z
 team:
   anonymous: false
   teammembers: []
@@ -71,6 +71,7 @@ usecases:
   - bridge
   - dapps
   - ai
+  - tee
 third_party_dependency: ""
 logos:
   - file: logo.png
