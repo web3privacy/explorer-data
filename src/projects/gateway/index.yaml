@@ -1,17 +1,17 @@
 id: gateway
-name: Gateway 
-categories: 
-  - infrastructure 
-ecosystem: 
+name: Gateway
+categories:
+  - infrastructure
+ecosystem:
   - ethereum
-  - solana 
-usecases:  
-  - storage 
+  - solana
+usecases:
+  - storage
   - computing
-  - did 
-description: Gateway is an integrated protocol to encrypt, store, manage, and compute private data.
-product_launch_day: "2021"
-
+  - did
+  - mpc
+description: Gateway is an integrated protocol to encrypt, store, manage, and
+  compute private data.
 team:
   anonymous: false
   teammembers:
@@ -24,14 +24,13 @@ team:
     - name: Rafa Gomes
       link: https://br.linkedin.com/in/rafagomesdev
     - name: João C Junior
-      link: https://br.linkedin.com/in/joao-conserva   
+      link: https://br.linkedin.com/in/joao-conserva
     - name: Sanket Jain
       link: https://www.linkedin.com/in/sanket-jain-240017158/
     - name: Tullio Cunha
       link: https://www.linkedin.com/in/tulliocunha/
     - name: Nuno Carvalho
-      link: https://www.linkedin.com/in/nmcarv/      
-
+      link: https://www.linkedin.com/in/nmcarv/
 links:
   web: https://mygateway.xyz/
   github: https://github.com/GatewayLabs
@@ -40,7 +39,6 @@ links:
   blog: https://mygateway.xyz/blog
   twitter: https://x.com/Gateway_xyz
   discord: https://discord.com/invite/tgt3KjcHGs
-
 project_phase: Mainnet
 project_status:
   live_status: true
@@ -48,11 +46,10 @@ project_status:
   testnet: false
   version: mainnet
 sunset: false
-
 have_token: false
 funding:
   - name: Reciprocal Ventures
-    link: https://www.recvc.com/    
+    link: https://www.recvc.com/
   - name: HannaGray
     link: https://www.hannahgrey.com/
   - name: Spartan
@@ -65,29 +62,27 @@ funding:
     link: https://6thman.ventures/
   - name: Visary Capital
     link: https://visary.capital/
-
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
   upgradability:
     enabled: true
-
 privacy_policy:
   defined: true
   link: https://mygateway.xyz/terms-of-service
 default_privacy: true
-
 tracebility:
   kyc: false
-  sign_in_type_requirments: 
+  sign_in_type_requirments:
     - wallet
     - email
 third_party_dependency: none
 compliance: none
-
 storage:
   decentralized: true
-
 technology:
- type: FHE, PRE, TEE
-   
+  type: FHE, PRE, TEE
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/gateway/logo.png
