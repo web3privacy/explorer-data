@@ -21685,10 +21685,11 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "Privacy-Enhanced Permissionless Computing Protocol.",
+      "description": "Phala Network is a decentralized cloud computing platform leveraging Trusted Execution Environments (TEEs) to deliver secure and scalable solutions for AI applications, blockchain infrastructure, and privacy-focused systems.",
       "ecosystem": [
         "other",
-        "other"
+        "other",
+        "ethereum"
       ],
       "links": {
         "web": "https://www.phala.network/en/",
@@ -21697,8 +21698,8 @@
         "forum": "https://forum.phala.network/",
         "docs": "https://docs.phala.network/",
         "whitepaper": "https://www.phala.network/pdf/phala-paper.pdf",
-        "block_explorer": "",
-        "governance": "",
+        "block_explorer": "https://phala.subscan.io/",
+        "governance": "https://phala.subsquare.io/",
         "twitter": "https://x.com/PhalaNetwork",
         "discord": "https://discord.com/invite/phala-network",
         "telegram": "https://t.me/phalanetwork",
@@ -21707,7 +21708,28 @@
       },
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Marvin Tong",
+            "link": "https://x.com/marvin_tong"
+          },
+          {
+            "name": "Hang Yin",
+            "link": "https://x.com/bgmshana"
+          },
+          {
+            "name": "Shelven Zhou",
+            "link": "https://x.com/zhou49"
+          },
+          {
+            "name": "Joshua",
+            "link": "https://x.com/hashwarlock"
+          },
+          {
+            "name": "Wenfeng Wang",
+            "link": "https://x.com/tolak_eth"
+          }
+        ]
       },
       "usecases": [
         "computing",
@@ -21726,7 +21748,8 @@
       ],
       "sunset": false,
       "assets_used": [
-        "dot"
+        "dot",
+        "eth"
       ],
       "tokens": [
         {
@@ -21734,6 +21757,12 @@
           "name": "Phala",
           "contract_address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
           "token_link": "https://app.phala.network/phala"
+        },
+        {
+          "symbol": "PHA",
+          "name": "Phala",
+          "contract_address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+          "token_link": "https://etherscan.io/token/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E"
         }
       ],
       "project_phase": "mainnet",
@@ -21744,12 +21773,13 @@
         "version": "mainnet"
       },
       "blockchain_features": {
-        "opensource": false,
+        "opensource": true,
         "upgradability": {
           "enabled": false
         },
-        "asset_custody_type": "",
-        "encryption": ""
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
@@ -21761,14 +21791,18 @@
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
       "social_trust": "",
       "technical_spof": "",
       "funding": [],
-      "history": []
+      "history": [],
+      "product_launch_day": "2020-09-30T22:00:00.000Z",
+      "nickname": "cryptocappex on X"
     },
     {
       "id": "anydao",
