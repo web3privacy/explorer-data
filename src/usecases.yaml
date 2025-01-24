@@ -58,6 +58,8 @@
   name: Trusted Execution Environment
 - id: fhe
   name: Fully Homomorphic Encryption
+- id: mpc
+  name: Multi-Party Computation
 - id: sunset
   name: Sunset
 - id: other
