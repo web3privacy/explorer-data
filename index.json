@@ -8287,7 +8287,8 @@
         "mainnet": false
       },
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "fhe"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -8296,7 +8297,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mind-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "zkusd",
