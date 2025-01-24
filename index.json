@@ -15246,7 +15246,8 @@
         "decentralized": true
       },
       "usecases": [
-        "computing"
+        "computing",
+        "tee"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -15256,7 +15257,8 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/marlin/logo.png"
         }
-      ]
+      ],
+      "sunset": false
     },
     {
       "id": "diva",
