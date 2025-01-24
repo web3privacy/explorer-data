@@ -4457,6 +4457,43 @@
       ]
     },
     {
+      "id": "fleek",
+      "name": "Fleek",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "tee"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The Autonomous Cloud. Seamlessly build & deploy apps & AI agents.",
+      "sunset": false,
+      "links": {
+        "web": "https://fleek.xyz",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/fleek/logo.png"
+        }
+      ]
+    },
+    {
       "id": "zkpass",
       "name": "zkPass",
       "categories": [
