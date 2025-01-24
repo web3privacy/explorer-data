@@ -533,10 +533,10 @@
         "discord": "https://discord.com/invite/arcium",
         "telegram": "https://t.me/c/2407672405/1",
         "lens": "",
-        "farcaster": ""
+        "farcaster": "https://warpcast.com/arcium"
       },
       "have_token": false,
-      "third_party_dependency": "",
+      "third_party_dependency": "No.",
       "logos": [
         {
           "file": "logo.png",
@@ -545,16 +545,21 @@
         }
       ],
       "usecases": [
-        "defi",
         "infrastructure",
         "computing",
-        "dao",
+        "mpc",
+        "defi",
         "ai",
-        "mpc"
+        "data-management",
+        "did",
+        "dapps",
+        "dao",
+        "bridge",
+        "messaging",
+        "other"
       ],
       "ecosystem": [
         "other",
-        "ethereum",
         "solana"
       ],
       "sunset": false,
@@ -568,29 +573,34 @@
         "version": "testnet"
       },
       "blockchain_features": {
-        "opensource": false,
+        "opensource": true,
         "upgradability": {
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "MPC"
+        "encryption": "MPC",
+        "p2p": true
       },
-      "storage": {},
+      "storage": {
+        "decentralized": true
+      },
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://www.arcium.com/privacy",
         "data_usage": ""
       },
       "compliance": "",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
-      "social_trust": "",
-      "technical_spof": "",
+      "social_trust": "DAO",
+      "technical_spof": "Breaking the information-theoretic security or collusion in our MPC protocols is highly unlikely. Our dishonest majority protocol, Cerberus, is designed to be secure against malicious adversaries, while our honest majority protocol, Manticore, ensures security against semi-honest adversaries. To further enhance defense-in-depth, we plan to integrate Trusted Execution Environments (TEEs) into our protocols, significantly reducing the already minimal chances of data leakage.",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -618,7 +628,15 @@
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         },
         {
-          "name": "Coinbase Ventures",
+          "name": "Coinbase",
+          "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
+        },
+        {
+          "name": "Heartcore Capital",
+          "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
+        },
+        {
+          "name": "L2 Iterative Ventures",
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         },
         {
@@ -626,27 +644,32 @@
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         },
         {
-          "name": "Longhash Ventures",
+          "name": "Smape Capital",
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         },
         {
-          "name": "Heartcore",
+          "name": "Everstake",
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         },
         {
-          "name": "L2IV",
+          "name": "Anatoly Yakovenko",
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         },
         {
-          "name": "smape",
+          "name": "Keone Han",
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         },
         {
-          "name": "everstake",
+          "name": "Mert Mumtaz",
+          "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
+        },
+        {
+          "name": "Santiago R Santos",
           "link": "https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network"
         }
       ],
-      "history": []
+      "history": [],
+      "product_launch_day": "2024-06-06T22:00:00.000Z"
     },
     {
       "id": "keep",
