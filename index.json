@@ -1136,10 +1136,10 @@
       "usecases": [
         "storage",
         "computing",
-        "did"
+        "did",
+        "mpc"
       ],
       "description": "Gateway is an integrated protocol to encrypt, store, manage, and compute private data.",
-      "product_launch_day": "2021",
       "team": {
         "anonymous": false,
         "teammembers": [
