@@ -20,23 +20,28 @@ links:
   discord: https://discord.com/invite/arcium
   telegram: https://t.me/c/2407672405/1
   lens: ""
-  farcaster: ""
+  farcaster: https://warpcast.com/arcium
 have_token: false
-third_party_dependency: ""
+third_party_dependency: No.
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/arcium/logo.png
 usecases:
-  - defi
   - infrastructure
   - computing
-  - dao
-  - ai
   - mpc
+  - defi
+  - ai
+  - data-management
+  - did
+  - dapps
+  - dao
+  - bridge
+  - messaging
+  - other
 ecosystem:
   - other
-  - ethereum
   - solana
 sunset: false
 assets_used: []
@@ -48,25 +53,34 @@ project_status:
   testnet: true
   version: testnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
   asset_custody_type: non-custody
   encryption: MPC
-storage: {}
+  p2p: true
+storage:
+  decentralized: true
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://www.arcium.com/privacy
   data_usage: ""
 compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
-  sign_in_type_requirments: []
-default_privacy: false
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
 audits: []
-social_trust: ""
-technical_spof: ""
+social_trust: DAO
+technical_spof: Breaking the information-theoretic security or collusion in our
+  MPC protocols is highly unlikely. Our dishonest majority protocol, Cerberus,
+  is designed to be secure against malicious adversaries, while our honest
+  majority protocol, Manticore, ensures security against semi-honest
+  adversaries. To further enhance defense-in-depth, we plan to integrate Trusted
+  Execution Environments (TEEs) into our protocols, significantly reducing the
+  already minimal chances of data leakage.
 team:
   anonymous: false
   teammembers:
@@ -81,18 +95,25 @@ team:
 funding:
   - name: Greenfield Capital
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
-  - name: Coinbase Ventures
+  - name: Coinbase
+    link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
+  - name: Heartcore Capital
+    link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
+  - name: L2 Iterative Ventures
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
   - name: Staking Facilities
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
-  - name: Longhash Ventures
+  - name: Smape Capital
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
-  - name: Heartcore
+  - name: Everstake
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
-  - name: L2IV
+  - name: Anatoly Yakovenko
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
-  - name: smape
+  - name: Keone Han
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
-  - name: everstake
+  - name: Mert Mumtaz
+    link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
+  - name: Santiago R Santos
     link: https://www.arcium.com/articles/arcium-raises-a-5-5m-strategic-funding-round-to-launch-the-first-parallelized-confidential-computing-network
 history: []
+product_launch_day: 2024-06-06T22:00:00.000Z
