@@ -22225,7 +22225,7 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "Phala Network is a decentralized cloud computing platform leveraging Trusted Execution Environments (TEEs) to deliver secure and scalable solutions for AI applications, blockchain infrastructure, and privacy-focused systems.",
+      "description": "Phala Network is a decentralized cloud computing platform utilizing Trusted Execution Environments (TEEs) to provide secure and scalable solutions for AI, blockchain infrastructure, and privacy-focused systems. Phala's core product, Phala Cloud, simplifies TEE deployment to just a few clicks, enabling developers to create privacy-preserving AI and Web3 applications with ease. In 2025, Phala launched Phala Network 2.0, the first Op-Succinct Layer 2 on Ethereum, combining ZK and Optimistic Rollups for exceptional scalability and security. This launch empowers Ethereum developers to leverage Phala's trusted TEE and cryptographic computing solutions for privacy-preserving AI and decentralized applications.",
       "ecosystem": [
         "other",
         "other",
