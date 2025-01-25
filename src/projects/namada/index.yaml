@@ -1,24 +1,148 @@
 id: namada
 name: Namada
 categories:
-- infrastructure
-description: Proof-of-Stake L1 for interchain asset-agnostic privacy. Namada uses
-  CometBFT consensus and enables multi-asset shielded transfers for any native or
-  non-native asset.
+  - infrastructure
+description: Proof-of-Stake L1 for interchain asset-agnostic privacy. Namada
+  uses CometBFT consensus and enables multi-asset shielded transfers for any
+  native or non-native asset.
 team:
-  anonymous: true
+  anonymous: false
+  teammembers:
+    - name: Adrian Brink
+      link: https://www.linkedin.com/in/adrianbrink/details/experience/
+    - name: Awa Sun Yin
+      link: https://www.linkedin.com/in/awasunyin/
+    - name: Christopher Goes
+      link: https://x.com/cwgoes
+    - name: Heliax
+      link: https://heliax.dev/
+    - name: Knowable
+      link: https://x.com/vKnowable
+    - name: Luminara
+      link: https://x.com/_luminara
 links:
   web: https://namada.net
-  github: https://github.com/anoma/namada
-  docs: https://docs.namada.net/
   blog: https://namada.net/blog
+  github: https://github.com/anoma/namada
+  forum: https://forum.namada.net/
+  docs: https://docs.namada.net/
+  whitepaper: https://specs.namada.net/
+  block_explorer: https://namada.valopers.com/
+  governance: https://namada.net/governance
   twitter: https://twitter.com/namada
+  discord: https://discord.com/invite/namada
+  telegram: https://t.me/namadaprotocol
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: Testnet v.034.0
-  testnet: true
-  mainnet: false
+  mainnet: true
+  testnet: false
+  version: mainnet
 usecases:
-- infrastructure
-have_token: false
+  - infrastructure
+have_token: true
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/namada/logo.png
+ecosystem:
+  - cosmos
+product_launch_day: 2022-06-05T22:00:00.000Z
+sunset: false
+assets_used:
+  - Namada
+tokens:
+  - symbol: NAM
+    name: Namada
+    contract_address: tnam1q9gr66cvu4hrzm0sd5kmlnjje82gs3xlfg3v6nu7
+    token_link: https://shielded.live/
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ZK-SNARK MASP
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - seed
+    - wallet
+default_privacy: false
+audits:
+  - name: MASP Circuits Review
+    url: https://github.com/anoma/namada/blob/main/audits/report-anoma-inference.pdf
+    time: 2022-06-01T22:00:00.000Z
+  - name: Namada's Proof-of-stake Quint Specification
+    url: https://github.com/informalsystems/partnership-heliax/tree/trunk/PoS-quint
+    time: ""
+  - name: Namada's Proof-of-Stake TLA+ Specification
+    url: https://github.com/informalsystems/partnership-heliax/tree/trunk/PoS-tla
+    time: ""
+  - name: Model Based Testing for Namada's Proof of Stake Module
+    url: https://github.com/informalsystems/partnership-heliax/tree/trunk/PoS-mbt
+    time: ""
+  - name: Model Based Testing for Namada's Proof of Stake Module
+    url: https://github.com/informalsystems/partnership-heliax/tree/trunk/PoS-mbt
+    time: ""
+  - name: Namada ABCI Application
+    url: https://github.com/informalsystems/audits/blob/main/Anoma/2024-04-30%20Namada%20ABCI%2C%20Replay%20Protection%2C%20Fee%20And%20Gas%20Metering%20Final%20Report.pdf
+    time: 2024-04-29T22:00:00.000Z
+  - name: Namada IBC & MASP Integrations
+    url: https://github.com/informalsystems/audits/blob/main/Anoma/2024-08-16%20IBC%20and%20MASP%20integrations%20Final%20Report.pdf
+    time: 2024-08-15T22:00:00.000Z
+  - name: Namada Governance and PGF
+    url: https://github.com/informalsystems/audits/blob/main/Anoma/2024-12-11%20Namada%20Governance%20%26%20PGF.pdf
+    time: 2024-12-10T23:00:00.000Z
+  - name: Namada Interface
+    url: https://github.com/anoma/namada-interface/blob/main/audits/LeastAuthority-03-07-2023.pdf
+    time: 2023-07-02T22:00:00.000Z
+  - name: Ethereum IBC
+    url: https://github.com/oak-security/audit-reports/blob/master/Anoma/2023-03-28%20Audit%20Report%20-%20Namada%20Ethereum%20Bridge%20v1.0.pdf
+    time: 2023-03-27T22:00:00.000Z
+social_trust: "Namada is designed to be a decentralized and community-governed
+  protocol. Consensus is formed on off-chain communication channels and ratified
+  through on-chain governance proposals, which can include changes to
+  parameters, protocol upgrades, treasury management, voted on directly by the
+  community, using a staking-based system. Token holders are able to delegate
+  their voting power to validators if they do not want to participate directly.
+  "
+technical_spof: ""
+funding: []
+history:
+  - title: Namada Trusted Setup
+    description: Multi-party computation ceremony to generate the final zk-SNARK
+      parameters for the MASP circuit
+    link: https://namada.net/blog/announcing-the-namada-trusted-setup-ceremony
+    time: 2022-11-14T23:00:00.000Z
+  - title: Public Testnets
+    description: Namada's first public testnet
+    link: https://namada.net/blog/announcing-namada-public-testnets
+    time: 2022-12-19T23:00:00.000Z
+  - title: Shielded Expedition
+    description: A massively multiplayer role-playing incentivized testnet
+    link: https://namada.net/blog/the-namada-shielded-expedition
+    time: 2024-01-07T23:00:00.000Z
+  - title: Shielding Summit
+    description: A 1-day event held in Brussels during EthCC2024
+    link: https://namada.net/blog/shielding-summit-recap
+    time: 2024-07-09T22:00:00.000Z
+  - title: Namada Mainnet is Live!
+    description: The Namada community made history by successfully launching mainnet
+      in a fully decentralized way.
+    link: https://namada.net/blog/namada-mainnet-is-live
+    time: 2024-12-02T23:00:00.000Z
+  - title: "The World’s First Donor Drop: Namada Public Goods Funding"
+    description: Within 30 minutes the community collectively sent 30 ETH to public
+      policy advocacy organization Coin Center.
+    link: https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop
+    time: 2025-01-17T23:00:00.000Z
