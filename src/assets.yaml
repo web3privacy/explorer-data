@@ -20,6 +20,8 @@
   name: Zcash
 - id: xmr
   name: Monero
+- id: aleph
+  name: Aleph Cloud Token
 - id: other
   name: Other
 
