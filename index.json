@@ -12471,19 +12471,19 @@
       "description": "Quilibrium, the decentralized MPC platform as a service",
       "sunset": false,
       "links": {
-        "web": "https://quilibriium.com",
+        "web": "https://quilibrium.com",
         "blog": "",
-        "github": "",
+        "github": "https://github.com/quilibriumnetwork",
         "forum": "",
-        "docs": "",
-        "whitepaper": "",
-        "block_explorer": "",
+        "docs": "https://docs.quilibrium.com",
+        "whitepaper": "https://www.quilibrium.com/quilibrium.pdf",
+        "block_explorer": "https://dashboard.quilibrium.com",
         "governance": "",
-        "twitter": "",
-        "discord": "",
+        "twitter": "https://twitter.com/QuilibriumInc",
+        "discord": "discord.gg/quilibrium",
         "telegram": "",
         "lens": "",
-        "farcaster": ""
+        "farcaster": "https://warpcast.com/quilibrium"
       },
       "logos": [
         {
@@ -12491,7 +12491,64 @@
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/quilibrium/logo.jpeg"
         }
-      ]
+      ],
+      "assets_used": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "QUIL",
+          "name": "QUIL",
+          "contract_address": "",
+          "token_link": "https://dashboard.quilibrium.com/"
+        },
+        {
+          "symbol": "wQUIL",
+          "name": "Wrapped QUIL",
+          "contract_address": "0x8143182a775c54578c8b7b3ef77982498866945d",
+          "token_link": "https://etherscan.io/token/0x8143182a775c54578c8b7b3ef77982498866945d"
+        }
+      ],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "ZK, MPC, E2EE",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "bluum",
