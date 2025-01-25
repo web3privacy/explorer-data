@@ -24258,7 +24258,7 @@
         "live_status": true,
         "mainnet": false,
         "testnet": false,
-        "version": "mvp"
+        "version": "beta"
       },
       "usecases": [
         "infrastructure"
@@ -24278,7 +24278,7 @@
       "sunset": false,
       "assets_used": [],
       "tokens": [],
-      "project_phase": "mvp",
+      "project_phase": "beta",
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
