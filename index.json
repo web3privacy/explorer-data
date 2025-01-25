@@ -4901,12 +4901,16 @@
         "infrastructure"
       ],
       "usecases": [
-        "tee"
+        "tee",
+        "eth-layer-2",
+        "defi",
+        "data-management"
       ],
       "ecosystem": [
-        "other"
+        "other",
+        "ethereum"
       ],
-      "description": "Decentralized TEE Network powered by SGX for a secure and trustless future 🌐",
+      "description": "Decentralized TEE Network powered by SGX",
       "sunset": false,
       "links": {
         "web": "https://www.ternoa.network",
