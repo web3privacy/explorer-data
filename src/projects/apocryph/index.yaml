@@ -1,0 +1,81 @@
+name: Apocryph
+categories:
+  - infrastructure
+  - hardware
+  - applications
+  - social-and-communications
+usecases:
+  - computing
+  - infrastructure
+  - vpn
+  - browser
+  - bridge
+  - storage
+  - data-management
+  - ai
+  - tee
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+description: Autonomous Internet for the Autonomous Era. TEE toolkits with an
+  embedded autonomous cloud for autonomous applications. Helping TEE builders
+  focus on their apps and not managing TEEs.
+product_launch_day: 2021-06-30T23:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://apocryph.network/
+  blog: ""
+  github: https://github.com/comrade-coop/aapp-toolkit
+  forum: ""
+  docs: https://github.com/comrade-coop/aapp-toolkit
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/apocryphcloud
+  discord: https://discord.gg/fWwMSZdBF2
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Sankalp
+      link: https://x.com/sankalp8i
+funding: []
+history:
+  - title: ""
+    description: ""
+    link: ""
+    time: ""
+id: apocryph

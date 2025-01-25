@@ -5,10 +5,11 @@ categories:
 project_type: Confidential compute
 description: A privacy-enabled blockchain platform for open finance and a
   responsible data economy
-product_launch_day: 2020-10-31T23:00:00.000Z
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+    - name: Jernej Kos
+      link: https://x.com/JernejKos
 links:
   web: https://oasisprotocol.org
   blog: https://oasisprotocol.org/blog
@@ -25,9 +26,9 @@ links:
   farcaster: ""
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: true
   mainnet: true
+  testnet: false
+  version: mainnet
 have_token: true
 tokens:
   - symbol: ROSE
@@ -93,8 +94,14 @@ tracebility:
   tracked_data: ""
   sign_in_type_requirments:
     - wallet
-default_privacy: false
-audits: []
+default_privacy: true
+audits:
+  - name: NCC Group
+    url: ""
+    time: ""
+  - name: Trail of Bits
+    url: ""
+    time: ""
 social_trust: ""
 technical_spof: ""
 funding:
