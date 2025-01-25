@@ -4,9 +4,13 @@ categories:
   - infrastructure
 usecases:
   - tee
+  - eth-layer-2
+  - defi
+  - data-management
 ecosystem:
   - other
-description: Decentralized TEE Network powered by SGX for a secure and trustless future 🌐
+  - ethereum
+description: Decentralized TEE Network powered by SGX
 sunset: false
 links:
   web: https://www.ternoa.network
