@@ -1,25 +1,115 @@
+id: aleph-cloud
 name: Aleph Cloud
 categories:
   - infrastructure
 usecases:
   - tee
+  - computing
+  - storage
+  - ai
 ecosystem:
-  - other
-description: Open source DePIN powering  @twentysixcloud  (confidential VMs,
-  indexing, web hosting, storage, databases, compute, AI)
+  - ethereum
+  - solana
+  - cosmos
+  - multichain
+description: Aleph Cloud is a supercloud (commonly a DePIN), relying on hundreds
+  of distributed nodes across the globe which offers developers access to
+  storage, databases, compute, and AI. It ensures operational resilience for
+  applications, particularly in DeFi, AI and Gaming industries. Since 2020, its
+  marketplace has provided scalable, high-performance Instances and
+  Micro-Virtual Machines resources on several networks such as Ethereum (and its
+  L2s), Solana, BNB Chain, Avalanche, Cosmos or Tezos.
 sunset: false
 links:
   web: https://aleph.im
-  blog: ""
-  github: ""
-  forum: ""
-  docs: ""
+  blog: https://www.twentysix.cloud/blog/
+  github: https://github.com/aleph-im
+  forum: https://community.aleph.im/
+  docs: https://docs.aleph.im/
   whitepaper: ""
-  block_explorer: ""
+  block_explorer: https://explorer.aleph.im/
   governance: ""
-  twitter: ""
+  twitter: https://x.com/aleph_im
   discord: ""
-  telegram: ""
+  telegram: https://t.me/clementfd
   lens: ""
   farcaster: ""
-id: aleph-cloud
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/aleph-cloud/logo.jpeg
+assets_used:
+  - aleph
+have_token: false
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Trusted Execution Environment
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Jonathan Schemoul
+      link: https://x.com/MosheMalawach
+    - name: Claudio Pascariello
+      link: https://x.com/claudioALEPH
+    - name: Clément Fermaud
+      link: https://x.com/3615crypto
+    - name: Hugo Herter
+      link: https://www.linkedin.com/in/herter/
+    - name: Ali El Broudi
+      link: https://www.linkedin.com/in/ali-59151259/
+    - name: Andres Molins
+      link: https://www.linkedin.com/in/andresmolins/
+    - name: Angel Alcaraz
+      link: https://www.linkedin.com/in/angel-manzano-alcaraz-90b18ba8/
+    - name: Gerard Molina
+      link: https://www.linkedin.com/in/gerard-molina-casanova/
+    - name: Olivier Le Thanh
+      link: https://www.linkedin.com/in/olivier-le-thanh?originalSubdomain=be
+    - name: Arnaud Soulier
+      link: https://www.linkedin.com/in/arnaud-soulier-fr-ro/
+    - name: Lyam Gomès
+      link: https://www.linkedin.com/in/lyam-gom%C3%A8s-59107226a/
+funding:
+  - name: Stratos
+    link: https://www.stratos.xyz/venture
+  - name: NOIA Capital
+    link: https://noiacapital.com/
+  - name: Ubisoft
+    link: https://www.ubisoft.com/en-us/company/about-us/innovation/startup-programs/lab
+  - name: TRGC
+    link: https://www.trgc.io/
+  - name: Rarestone
+    link: https://www.rarestone.ventures/
+  - name: Zee Prime Capital
+    link: https://zeeprime.capital/
+  - name: Token Ventures
+    link: https://www.token-ventures.com/
+history: []
