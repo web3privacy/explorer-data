@@ -8,5 +8,6 @@ links:
   web: https://0xmonero.com/mixer
 usecases:
 - mixing-service
+- fhe
 have_token: false
 third_party_dependency: none

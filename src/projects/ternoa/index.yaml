@@ -6,16 +6,16 @@ usecases:
   - tee
 ecosystem:
   - other
-description: Decentralized TEE Network powered by SGX
+description: Decentralized TEE Network powered by SGX for a secure and trustless future 🌐
 sunset: false
 links:
   web: https://www.ternoa.network
   blog: ""
-  github: ""
+  github: https://github.com/capsule-corp-ternoa
   forum: ""
-  docs: ""
+  docs: https://docs.ternoa.network/
   whitepaper: ""
-  block_explorer: ""
+  block_explorer: https://explorer-mainnet.zkevm.ternoa.network/
   governance: ""
   twitter: https://x.com/Ternoa_
   discord: ""
@@ -26,16 +26,26 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.png
+product_launch_day: 2021-01-31T20:00:00.000Z
+assets_used: []
+have_token: true
+tokens:
+  - symbol: $CAPS
+    name: CAPS
+    contract_address: "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2"
+    token_link: https://explorer-mainnet.zkevm.ternoa.network/
+project_phase: mainnet
 project_status:
-  live_status: false
-  mainnet: false
+  live_status: true
+  mainnet: true
   testnet: false
+  version: mainnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
-  encryption: ""
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge, Shamir secret Algorithm, Tee
 storage: {}
 privacy_policy:
   defined: false
@@ -47,12 +57,21 @@ tracebility:
   tracked_data: ""
   sign_in_type_requirments: []
 default_privacy: false
-audits: []
+audits:
+  - name: Certik
+    url: https://skynet.certik.com/projects/ternoa
+    time: 2022-01-02T20:00:00.000Z
 third_party_dependency: ""
 social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+    - name: Mickael Canu
+      link: https://www.linkedin.com/in/mickaelcanu/
 funding: []
-history: []
+history:
+  - title: ""
+    description: ""
+    link: ""
+    time: ""

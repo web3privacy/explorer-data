@@ -1,11 +1,17 @@
+id: fluton
 name: Fluton
 categories:
   - infrastructure
+  - defi
+  - applications
 usecases:
   - fhe
   - defi
 ecosystem:
   - other
+  - solana
+  - cosmos
+  - ethereum
 description: the intent-centric, fast and low-cost gateway enabling instant
   swaps and bridges across EVM and non-EVM networks.
 sunset: false
@@ -18,9 +24,15 @@ links:
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: ""
+  twitter: https://x.com/flutonio
   discord: ""
   telegram: ""
   lens: ""
   farcaster: ""
-id: fluton
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/fluton/logo.jpeg
+assets_used: []
+have_token: false
+tokens: []
