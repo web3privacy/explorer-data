@@ -14637,14 +14637,19 @@
       "id": "fluton",
       "name": "Fluton",
       "categories": [
-        "infrastructure"
+        "infrastructure",
+        "defi",
+        "applications"
       ],
       "usecases": [
         "fhe",
         "defi"
       ],
       "ecosystem": [
-        "other"
+        "other",
+        "solana",
+        "cosmos",
+        "ethereum"
       ],
       "description": "the intent-centric, fast and low-cost gateway enabling instant swaps and bridges across EVM and non-EVM networks.",
       "sunset": false,
@@ -14657,7 +14662,7 @@
         "whitepaper": "",
         "block_explorer": "",
         "governance": "",
-        "twitter": "",
+        "twitter": "https://x.com/flutonio",
         "discord": "",
         "telegram": "",
         "lens": "",
@@ -14669,7 +14674,10 @@
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fluton/logo.jpeg"
         }
-      ]
+      ],
+      "assets_used": [],
+      "have_token": false,
+      "tokens": []
     },
     {
       "id": "sentz",
