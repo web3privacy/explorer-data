@@ -17831,7 +17831,8 @@
         "infrastructure",
         "dapps",
         "research-and-development",
-        "node"
+        "node",
+        "mpc"
       ],
       "third_party_dependency": "none",
       "logos": [
