@@ -39,7 +39,7 @@ logos:
     ext: jpeg
     url: https://explorer-data.web3privacy.info/assets/projects/aleph-cloud/logo.jpeg
 assets_used:
-  - ALEPH
+  - aleph
 have_token: false
 tokens: []
 project_phase: mainnet
