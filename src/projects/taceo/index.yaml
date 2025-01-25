@@ -40,6 +40,7 @@ usecases:
   - dapps
   - research-and-development
   - node
+  - mpc
 third_party_dependency: none
 logos:
   - file: logo.png
