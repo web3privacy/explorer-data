@@ -22,6 +22,8 @@
   name: Monero
 - id: aleph
   name: Aleph Cloud Token
+- id: nam
+  name: Namada
 - id: other
   name: Other
 
