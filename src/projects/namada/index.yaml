@@ -52,7 +52,7 @@ ecosystem:
 product_launch_day: 2022-06-05T22:00:00.000Z
 sunset: false
 assets_used:
-  - Namada
+  - nam
 tokens:
   - symbol: NAM
     name: Namada
