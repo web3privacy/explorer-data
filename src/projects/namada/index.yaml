@@ -1,24 +1,85 @@
 id: namada
 name: Namada
 categories:
-- infrastructure
-description: Proof-of-Stake L1 for interchain asset-agnostic privacy. Namada uses
-  CometBFT consensus and enables multi-asset shielded transfers for any native or
-  non-native asset.
+  - infrastructure
+description: Proof-of-Stake L1 for interchain asset-agnostic privacy. Namada
+  uses CometBFT consensus and enables multi-asset shielded transfers for any
+  native or non-native asset.
 team:
-  anonymous: true
+  anonymous: false
+  teammembers:
+    - name: Adrian Brink
+      link: https://x.com/adrianbrink
+    - name: Christopher Goes
+      link: https://x.com/cwgoes
+    - name: Awa Sun Yin
+      link: https://x.com/awasunyin
 links:
   web: https://namada.net
-  github: https://github.com/anoma/namada
-  docs: https://docs.namada.net/
   blog: https://namada.net/blog
+  github: https://github.com/anoma/namada
+  forum: https://forum.namada.net/
+  docs: https://docs.namada.net/
+  whitepaper: ""
+  block_explorer: https://namada.valopers.com/
+  governance: ""
   twitter: https://twitter.com/namada
+  discord: https://discord.com/invite/namada
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: Testnet v.034.0
-  testnet: true
-  mainnet: false
+  mainnet: true
+  testnet: false
+  version: mainnet
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/namada/logo.png
+ecosystem:
+  - cosmos
+product_launch_day: 2025-01-02T21:00:00.000Z
+nickname: https://owl-genesis.com/
+sunset: false
+assets_used: []
+tokens:
+  - symbol: ""
+    name: NAM
+    contract_address: ""
+    token_link: https://namada.valopers.com/
+project_phase: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history:
+  - title: Namada Mainnet Launch
+    description: "The network’s mainnet rollout began at 3 Dec 2024 15:00 UTC, and
+      shortly after Namada started successfully producing its very first blocks.
+      The launch of Namada mainnet marks a new era for data protection in the
+      blockchain space, a major win for the mission to give users the freedom to
+      control their own personal data. "
+    link: https://namada.net/blog/namada-mainnet-is-live
+    time: 2024-12-02T21:00:00.000Z
