@@ -1,19 +1,92 @@
 id: dmail-network
 name: Dmail Network
 categories:
-- applications
-description: Construct DID in Web3.0, Not Just an Email.
+  - applications
+  - social-and-communications
+  - infrastructure
+description: Dmail Network is an AI-powered decentralized communication
+  infrastructure built to provide encrypted emails, unified notifications, and
+  targeted marketing across multiple chains and dApps for users, developers,
+  marketers and influencers.
 ecosystem:
-- multichain
+  - multichain
 links:
   web: https://dmail.ai
-  github: https://github.com/dmailofficial/dmail
-  docs: https://dmailnetwork.gitbook.io/dmail-network
   blog: https://blog.dmail.ai/
-  twitter: https://x.com/dmailofficial?ref=blog.dmail.ai
+  github: https://github.com/dmailofficial/dmail
+  forum: ""
+  docs: https://dmailnetwork.gitbook.io/dmail-network
+  whitepaper: ""
+  block_explorer: https://bscscan.com/address/0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192
+  governance: ""
+  twitter: https://x.com/Dmailofficial
   discord: https://discord.com/invite/RyYNmdqjF9?ref=blog.dmail.ai
   telegram: https://t.me/dmailofficial
-have_token: false
+  lens: ""
+  farcaster: ""
+have_token: true
 usecases:
-- did
+  - did
+  - messaging
+  - dapps
+  - storage
+  - tee
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/dmail-network/logo.png
+product_launch_day: 2021-09-30T16:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - other
+tokens:
+  - symbol: DMAIL
+    name: DMAIL
+    contract_address: "0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192"
+    token_link: https://bscscan.com/address/0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://dmailnetwork.gitbook.io/dmail-network/resources/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+    - email
+default_privacy: false
+audits:
+  - name: Secure3
+    url: https://drive.google.com/file/d/1fjhOHA4rBz8dlxfIBiMwylbtqEybnbHc/view
+    time: 2024-01-23T16:00:00.000Z
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Daniel James
+      link: https://www.linkedin.com/in/daniel-james-dmail/
+funding:
+  - name: HashKey Capital, KuCoin Labs, Draper Dragon, OIG VC, DWF Labs, etc.
+    link: https://www.coinspeaker.com/multi-chain-web3-infrastructure-dmail-closes-pre-a-round/
+history:
+  - title: Mainnet Launch
+    description: The Dmail Network mainnet is going on live.
+    link: https://x.com/Dmailofficial/status/1861714464585990573
+    time: 2024-11-26T16:00:00.000Z
