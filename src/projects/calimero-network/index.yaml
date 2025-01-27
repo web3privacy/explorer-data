@@ -46,8 +46,8 @@ project_phase: beta
 blockchain_features:
   opensource: true
   upgradability:
-    enabled: false
-  asset_custody_type: ""
+    enabled: true
+  asset_custody_type: non-custody
   encryption: ""
   p2p: true
 storage:
@@ -62,17 +62,11 @@ tracebility:
   tracked_data: ""
   sign_in_type_requirments:
     - wallet
+    - seed
 default_privacy: true
 audits: []
 social_trust: ""
 technical_spof: ""
 funding: []
-history:
-  - title: SDK Launch
-    description: The Calimero SDK empowers you to create Self-Sovereign Applications
-      (SSApps) that can operate privately off-chain and settle on-chain. Whether
-      you’re working within the NEAR Protocol , Starknet , or soon Dfinity 's
-      ICP ecosystems, our SDK enables you to build privacy-first SSApps that are
-      accessible across the entire Calimero Network.
-    link: https://x.com/CalimeroNetwork/status/1836738188733190355
-    time: 2024-09-18T22:00:00.000Z
+history: []
+product_launch_day: 2022-06-13T22:00:00.000Z
