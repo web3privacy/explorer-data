@@ -1,3 +1,4 @@
+id: shutter-network
 name: Shutter Network
 categories:
   - infrastructure
@@ -10,10 +11,10 @@ usecases:
   - other
 ecosystem:
   - ethereum
+  - other
 description: "Shutter is a threshold encryption protocol with a wide variety of
   applications, including: malicious MEV prevention, censorship resistance,
   voting integrity, and gaming fairness."
-product_launch_day: 2021-04-25
 sunset: false
 assets_used:
   - other
@@ -30,7 +31,7 @@ links:
   forum: https://shutternetwork.discourse.group/
   docs: ""
   whitepaper: https://blog.shutter.network/shutter-in-depth-explanation-of-how-we-prevent-frontrunning/
-  block_explorer: ""
+  block_explorer: https://explorer.shutter.network/
   governance: ""
   twitter: https://x.com/ShutterNetwork
   discord: https://discord.gg/Fx7m5cUcua
@@ -47,11 +48,9 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: true
-    type: DAO Governance
-    admin_keys: 51% vote
-  asset_custody_type: custodial
+  asset_custody_type: non-custody
   encryption: Threshold Encryption, Distributed Key Generation. Encrypted Mempool
-storage: 
+storage:
   decentralized: true
 privacy_policy:
   defined: true
@@ -61,20 +60,23 @@ compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
-  sign_in_type_requirments: 
-     - wallet or Email
+  sign_in_type_requirments:
+    - wallet or email
 default_privacy: true
 audits: []
 third_party_dependency: none
-social_trust: ""
+social_trust: Shutter DAO 0x36
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: 
+  teammembers:
     - name: Luis Bezzenberger
       link: https://x.com/bezzenberger
     - name: Loring Harkness
-      link: https://x.com/LoringHarkness  
+      link: https://x.com/LoringHarkness
 funding: []
 history: []
-id: shutter-network
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/shutter-network/logo.png
