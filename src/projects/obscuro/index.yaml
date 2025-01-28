@@ -1,18 +1,64 @@
 id: obscuro
-name: TEN (formerly Obscuro)
+name: TEN Protocol
 categories:
 - infrastructure
-description: a layer 2 solution for Ethereum that brings privacy and scale
+tokens:
+  - symbol: TEN
+    name: TEN
+    contract_address: ""
+    token_link: ""
+description: The only layer 2 solution for Ethereum that brings programmable cryptography and scale using Trusted Execution Environments (TEEs). TEN allows developers to build next-generation DeFi, AI, Gaming and Institutional solutions on Ethereum.
 ecosystem:
 - ethereum
-team:
-  anonymous: false
 links:
-  web: https://ten.xyz/
+  web: https://www.ten.xyz
+  blog: https://medium.com/obscuro-labs
+  github: https://github.com/ten-protocol
+  forum: ""
+  docs: https://docs.ten.xyz/
   whitepaper: https://whitepaper.ten.xyz/
+  block_explorer: https://tenscan.io/
+  governance: https://whitepaper.ten.xyz/obscuro-whitepaper/governance.html
   twitter: https://x.com/tenprotocol
   discord: https://discord.com/invite/tenprotocol
   telegram: https://t.me/tenprotocol
+  lens: ""
+  farcaster: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Cais Manai
+      link: https://x.com/0xCais
+    - name: Gavin Thomas
+      link: https://x.com/gavin_chain
+    - name: Tudor Malene
+      link: https://www.linkedin.com/in/tudormalene/
+    - name: James Carlyle
+      link: https://www.linkedin.com/in/jamescarlyle/
+    - name: Moray Grieve
+      link: https://www.linkedin.com/in/moraygrieve/
+    - name: Stefan Iliev
+      link: https://www.linkedin.com/in/stefan-iliev-3762abb8/
+    - name: Will Hester 
+      link: https://www.linkedin.com/in/willhester11359/
+    - name: Matt Curtis
+      link: https://www.linkedin.com/in/matt-curtis-4252973a/
+    - name: Jobin Ayathil
+      link: https://www.linkedin.com/in/0xjba/
+    - name: Bhavya Bakhda
+      link: https://www.linkedin.com/in/bhavya-bakhda/
+    - name: Ziga Kokelj
+      link: https://www.linkedin.com/in/ziga-kokelj/
+    - name: Anthony Nixon
+      link: https://www.linkedin.com/in/anixon604/
+    - name: Liam Quinn
+      link: https://uk.linkedin.com/in/liamencrypted
+    - name: Peter Bienek
+      link: https://uk.linkedin.com/in/peter-bienek
+    - name: Krish Poolo
+      link: https://www.linkedin.com/in/krishnath/
+    - name: Rosie Sargsian
+      link: https://www.linkedin.com/in/rosiesargsian/      
 project_status:
   live_status: true
   version: Testnet
@@ -20,5 +66,46 @@ project_status:
   mainnet: false
 usecases:
 - eth-layer-2
+- infrastructure
+- defi
+- ai
+- tee
 have_token: false
 third_party_dependency: none
+project_phase: testnet
+storage: {}
+assets_used:
+  - eth
+privacy_policy:
+  defined: true
+  link: https://www.ten.xyz/privacy-policy/
+  data_usage: ""
+technology:
+  type: TEE
+  features:
+    - Data Privacy
+    - Encrypted Transactions
+    - Encryption
+    - Confidential Compute
+    - Programmable Cryptography
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: TEE
+  p2p: false
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits:
+  - name: Least Authority
+    url: ""
+    time: ""
+funding:
+  - name: R3, KuCoin Labs, Big Brain Holdings, Republic Capital
+    link: https://hackernoon.com/ten-raises-$9-million-from-r3-and-others-to-pioneer-the-next-gen-encrypted-ethereum-network
+nickname: 0xCais on X
