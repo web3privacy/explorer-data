@@ -22031,7 +22031,7 @@
         "other"
       ],
       "description": "Autonomous Internet for the Autonomous Era. TEE toolkits with an embedded autonomous cloud for autonomous applications. Helping TEE builders focus on their apps and not managing TEEs.",
-      "product_launch_day": "2021-06-30T23:00:00.000Z",
+      "product_launch_day": "2021-07-03T22:00:00.000Z",
       "sunset": false,
       "assets_used": [],
       "have_token": false,
@@ -22102,6 +22102,11 @@
         }
       ],
       "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/apocryph/logo.jpeg"
+        },
         {
           "file": "logo.png",
           "ext": "png",
