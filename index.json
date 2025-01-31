@@ -8710,6 +8710,43 @@
       ]
     },
     {
+      "id": "zenrock",
+      "name": "Zenrock",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "mpc"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Decentralized MPC-as-a-Service",
+      "sunset": false,
+      "links": {
+        "web": "https://www.zenrockfoundation.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/OfficialZenrock",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zenrock/logo.png"
+        }
+      ]
+    },
+    {
       "id": "opera-crypto-browser",
       "name": "Opera Crypto Browser",
       "categories": [
