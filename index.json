@@ -24999,6 +24999,43 @@
       ]
     },
     {
+      "id": "rena",
+      "name": "Rena",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "tee"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The First TEE Abstraction Middleware Supercharging Verifiable AI Use Cases.",
+      "sunset": false,
+      "links": {
+        "web": "https://renalabs.xyz",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Rena_labs",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/rena/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "herond",
       "name": "Herond",
       "categories": [
