@@ -1,16 +1,66 @@
 id: speak-app
 name: Speak app
 categories:
-- applications
-description: No phone number. No email address. Speakapp is a simple, and secure web3
-  messenger
+  - applications
+description: No phone number. No email address. Speakapp is a simple, and secure
+  web3 messenger
 team:
   anonymous: true
+  teammembers: []
 links:
   web: https://speakapp.me
   blog: https://blog.speakapp.me/
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/speakappme
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/speak-app/logo.png
+ecosystem:
+  - multichain
+sunset: false
+audits: []
+social_trust: ""
+technical_spof: ""
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+assets_used: []
+tokens: []
+funding: []
+history: []
