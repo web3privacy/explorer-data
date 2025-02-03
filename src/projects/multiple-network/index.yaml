@@ -1,13 +1,12 @@
 name: Multiple Network
 categories:
-  - applications
+  - infrastructure
 usecases:
-  - storage
+  - ai
 ecosystem:
   - other
-description: |-
-  Providing data storage and data transmission services to billions of users
-  around the world through DSD-WAN technology architecture
+description: "a #Web3 privacy acceleration solution for #AI based on #P2P and
+  #SD-WAN technologies."
 sunset: false
 links:
   web: https://multiple.cc
