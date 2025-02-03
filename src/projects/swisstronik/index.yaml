@@ -1,0 +1,25 @@
+name: Swisstronik
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - other
+description: blockchain platform for compliant dApps & asset tokenization with
+  enhanced user privacy
+sunset: false
+links:
+  web: https://swisstronik.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: swisstronik
