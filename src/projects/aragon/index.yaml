@@ -1,74 +1,26 @@
 name: Aragon
 categories:
   - applications
-  - infrastructure
+  - defi
 usecases:
-  - dao
+  - defi
 ecosystem:
-  - ethereum
-description: Launch your DAO on a secure and modular tech stack. Govern your
-  protocol and assets onchain.
-product_launch_day: 2016-12-01T00:00:00.000Z
+  - other
+description: "Private Swap, Anti-FrontRun DEX, SafeGuard VPN, Privacy EVM and
+  Reloadable Card Services. "
 sunset: false
-assets_used:
-  - eth
-have_token: false
-tokens: []
 links:
-  web: https://aragon.org/
-  blog: https://blog.aragon.org/
-  github: https://github.com/aragon
-  forum: https://forum.aragon.org/
-  docs: https://devs.aragon.org/
-  whitepaper: https://github.com/aragon/whitepaper
+  web: https://aragon-protocol.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: https://x.com/AragonProject
-  discord: https://discord.gg/aragonorg
+  twitter: ""
+  discord: ""
   telegram: ""
   lens: ""
-  farcaster: https://warpcast.com/aragon
-project_phase: mainnet
-project_status:
-  live_status: true
-  mainnet: true
-  testnet: false
-  version: mainnet
-blockchain_features:
-  opensource: true
-  upgradability:
-    enabled: false
-  asset_custody_type: non-custody
-  encryption: ""
-storage:
-  decentralized: true
-privacy_policy:
-  defined: true
-  link: https://aragon.org/privacy-policy
-  data_usage: ""
-compliance: ""
-tracebility:
-  kyc: false
-  tracked_data: ""
-  sign_in_type_requirments:
-    - wallet
-default_privacy: true
-audits:
-  - name: Halborn
-    url: https://github.com/aragon/osx/blob/develop/audits/Halborn_AragonOSx_2023-06-13.pdf
-    time: 2023-06-13T00:00:00.000Z
-  - name: Halborn
-    url: https://github.com/aragon/osx/blob/develop/audits/Halborn_AragonOSx_2023-02-24.pdf
-    time: 2023-02-24T00:00:00.000Z
-  - name: code4arena
-    url: https://github.com/aragon/osx/blob/develop/audits/Code4rena_AragonOSx_2023-12-12.pdf
-    time: 2023-12-12T00:00:00.000Z
-third_party_dependency: ""
-social_trust: ""
-technical_spof: ""
-team:
-  anonymous: false
-  teammembers: []
-funding: []
-history: []
+  farcaster: ""
 id: aragon
