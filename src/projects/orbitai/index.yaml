@@ -1,0 +1,24 @@
+name: OrbitAI
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - other
+description: INTELLIGENT AGENTS MEETS PRIVACY
+sunset: false
+links:
+  web: https://orbitai.org
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: orbitai
