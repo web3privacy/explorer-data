@@ -1,0 +1,24 @@
+name: Shadow Node
+categories:
+  - applications
+usecases:
+  - vpn
+ecosystem:
+  - other
+description: decentralized VPN
+sunset: false
+links:
+  web: https://shadownode.org
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: shadow-node
