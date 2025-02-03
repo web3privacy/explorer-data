@@ -1,0 +1,24 @@
+name: PinAI
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - other
+description: Personalized AI, Powered by Your Data
+sunset: false
+links:
+  web: https://www.pinai.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: pinai
