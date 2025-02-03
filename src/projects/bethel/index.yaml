@@ -1,0 +1,25 @@
+name: Bethel
+categories:
+  - applications
+usecases:
+  - storage
+ecosystem:
+  - other
+description: |
+  ZKP Storage-RWA Blockchain Data Encryption
+sunset: false
+links:
+  web: https://bethelnet.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: bethel
