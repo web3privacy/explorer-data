@@ -12,7 +12,6 @@ links:
   discord: https://discord.com/invite/MxZYtzzFmJ
 usecases:
   - dapps
-  - sunset
 have_token: false
 third_party_dependency: none
 logos:
@@ -21,4 +20,4 @@ logos:
     url: https://explorer-data.web3privacy.info/assets/projects/nocturne/logo.jpg
 ecosystem:
   - ethereum
-sunset: false
+sunset: true
