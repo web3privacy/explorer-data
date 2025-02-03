@@ -1,0 +1,25 @@
+name: Ghost Drive
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - other
+description: AI framework for privacy-focused agents, enabling secure data
+  computing, labeling, and learning while prioritizing confidentiality.
+sunset: false
+links:
+  web: https://ghostdrive.com/cgai
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: ghost-drive
