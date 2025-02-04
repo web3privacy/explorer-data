@@ -1,0 +1,24 @@
+name: Lunul
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - other
+description: " privacy-enhanced blockchain"
+sunset: false
+links:
+  web: https://lunul.org
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: lunul
