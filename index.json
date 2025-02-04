@@ -453,6 +453,43 @@
       ]
     },
     {
+      "id": "openchat",
+      "name": "OpenChat",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": " chat application running end-to-end on the Internet Computer blockchain.",
+      "sunset": false,
+      "links": {
+        "web": "https://oc.app",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/openchat/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "zama",
       "name": "Zama",
       "categories": [
@@ -3938,6 +3975,43 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hackers-congress-paralelni-polis/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "pinai",
+      "name": "PinAI",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Personalized AI, Powered by Your Data",
+      "sunset": false,
+      "links": {
+        "web": "https://www.pinai.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/pinai/logo.jpeg"
         }
       ]
     },
