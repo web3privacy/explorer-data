@@ -17189,6 +17189,43 @@
       ]
     },
     {
+      "id": "swisstronik",
+      "name": "Swisstronik",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "blockchain platform for compliant dApps & asset tokenization with enhanced user privacy",
+      "sunset": false,
+      "links": {
+        "web": "https://swisstronik.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/swisstronik/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "fade-wtf",
       "name": "Fade WTF",
       "categories": [
@@ -19547,15 +19584,15 @@
       "id": "multiple-network",
       "name": "Multiple Network",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
       "usecases": [
-        "storage"
+        "ai"
       ],
       "ecosystem": [
         "other"
       ],
-      "description": "Providing data storage and data transmission services to billions of users\naround the world through DSD-WAN technology architecture",
+      "description": "a #Web3 privacy acceleration solution for #AI based on #P2P and #SD-WAN technologies.",
       "sunset": false,
       "links": {
         "web": "https://multiple.cc",
