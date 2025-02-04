@@ -1,0 +1,24 @@
+name: CoolWallet
+categories:
+  - hardware
+usecases:
+  - wallets
+ecosystem:
+  - other
+description: Cold Wallet
+sunset: false
+links:
+  web: https://www.coolwallet.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: coolwallet
