@@ -10046,6 +10046,43 @@
       ]
     },
     {
+      "id": "zkcrypt-ai",
+      "name": "ZKCrypt AI",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "decentralized machine learning and zero-knowledge protocols, to prevent unintended data exposure and ensure user privacy and data integrity while using Autonomous AI agents and general-purpose AI applications.",
+      "sunset": false,
+      "links": {
+        "web": "https://zkcryptai.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zkcrypt-ai/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "obscuro",
       "name": "TEN Protocol",
       "categories": [
