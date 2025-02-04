@@ -19,9 +19,9 @@ jobs:
         with:
            fetch-depth: 0
 
-      - uses: denoland/setup-deno@v1
+      - uses: denoland/setup-deno@v2
         with:
-          deno-version: v1.x
+          deno-version: v2.x
 
       - uses: szenius/set-timezone@v2.0
         with:
