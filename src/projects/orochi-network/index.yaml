@@ -1,0 +1,24 @@
+name: Orochi Network
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - ethereum
+description: Verifiable Data Infrastructure
+sunset: false
+links:
+  web: https://orochi.network
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: orochi-network
