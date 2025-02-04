@@ -7092,6 +7092,43 @@
       ]
     },
     {
+      "id": "purple-swap",
+      "name": "Purple Swap",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Crypto Exchange",
+      "sunset": false,
+      "links": {
+        "web": "https://purpleswap.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/purple-swap/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "arcana",
       "name": "Arcana",
       "categories": [
@@ -18996,6 +19033,43 @@
           "file": "logo.jpeg",
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cosmic-network/logo.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "coolwallet",
+      "name": "CoolWallet",
+      "categories": [
+        "hardware"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Cold Wallet",
+      "sunset": false,
+      "links": {
+        "web": "https://www.coolwallet.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/coolwallet/logo.jpeg"
         }
       ]
     },
