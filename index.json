@@ -9834,6 +9834,44 @@
       ]
     },
     {
+      "id": "kava",
+      "name": "Kava",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "cosmos",
+        "ethereum"
+      ],
+      "description": "blockchain that combines the speed and interoperability of Cosmos with the developer power of Ethereum",
+      "sunset": false,
+      "links": {
+        "web": "https://www.kava.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/kava/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "chainswap",
       "name": "ChainSwap",
       "categories": [
@@ -18869,6 +18907,43 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/vup/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "cosmic-network",
+      "name": "Cosmic Network",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "vpn"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Accessible and Affordable Decentralized VPN",
+      "sunset": false,
+      "links": {
+        "web": "https://cosmicnetwork.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cosmic-network/logo.jpeg"
         }
       ]
     },
