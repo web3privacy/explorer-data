@@ -16036,6 +16036,43 @@
       ]
     },
     {
+      "id": "myst",
+      "name": "Myst",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": " AI-Privacy DEX and Aggregator",
+      "sunset": false,
+      "links": {
+        "web": "https://www.mystprivacy.xyz",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/myst/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "waku",
       "name": "Waku",
       "categories": [
@@ -16607,6 +16644,43 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/platon-network/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "lunul",
+      "name": "Lunul",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": " privacy-enhanced blockchain",
+      "sunset": false,
+      "links": {
+        "web": "https://lunul.org",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/lunul/logo.png"
         }
       ]
     },
