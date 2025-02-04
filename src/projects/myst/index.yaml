@@ -1,0 +1,24 @@
+name: Myst
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - other
+description: " AI-Privacy DEX and Aggregator"
+sunset: false
+links:
+  web: https://www.mystprivacy.xyz
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: myst
