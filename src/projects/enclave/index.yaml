@@ -18,7 +18,7 @@ description: Enclave is an open-source protocol for Encrypted Execution
   cryptography). Use cases include secret voting, sealed-bid auctions, and
   privacy-preserving collaborative analysis that are difficult or impossible
   with traditional solutions.
-product_launch_day: 2024-06-05T22:00:00.000Z
+product_launch_day: 2024-06-03T05:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -66,15 +66,20 @@ default_privacy: true
 audits: []
 third_party_dependency: ""
 social_trust: Enclave DAO Treasury and Enclave Foundation (future entities).
-technical_spof: ""
+technical_spof: None. Enclave is designed to eliminate single points of failure.
 team:
   anonymous: false
   teammembers:
     - name: Gnosis Guild
       link: https://x.com/GnosisGuild
+    - name: Auryn Macmillan
+      link: https://x.com/auryn_macmillan
 funding: []
 history: []
 logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/enclave/logo.jpeg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/enclave/logo.png
