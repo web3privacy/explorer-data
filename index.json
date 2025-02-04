@@ -15491,6 +15491,43 @@
       ]
     },
     {
+      "id": "lazai",
+      "name": "LazAI",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Solving AI’s data alignment problem with unique and novel solutions, starting with Data Anchoring Tokens (DAT) serving as blocks in our blockchain.",
+      "sunset": false,
+      "links": {
+        "web": "https://lazai.network",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/lazai/logo.png"
+        }
+      ]
+    },
+    {
       "id": "fluton",
       "name": "Fluton",
       "categories": [
