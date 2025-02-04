@@ -1,0 +1,26 @@
+name: Banza
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - data-management
+ecosystem:
+  - other
+description: Verifiably compute & consume private user data and distribute
+  liquid, tokenised rewards for incentivised data sharing economy
+sunset: false
+links:
+  web: https://banza.xyz
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: banza
