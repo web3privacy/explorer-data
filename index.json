@@ -11689,6 +11689,44 @@
       ]
     },
     {
+      "id": "dwinity",
+      "name": "Dwinity",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "ai",
+        "storage"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "decentralized storage & predictive AI ",
+      "sunset": false,
+      "links": {
+        "web": "https://dwinity.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/dwinity/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "lokinet",
       "name": "Lokinet",
       "categories": [
