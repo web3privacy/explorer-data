@@ -1396,6 +1396,44 @@
       ]
     },
     {
+      "id": "net3",
+      "name": "Net3",
+      "categories": [
+        "infrastructure",
+        "social-and-communications"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The Third Generation Privacy Communication Network Infrastructure",
+      "sunset": false,
+      "links": {
+        "web": "https://net3.org/home",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/net3/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "seven-seas",
       "name": "Seven Seas",
       "categories": [
