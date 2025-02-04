@@ -1,0 +1,24 @@
+name: "Humanity Protocol "
+categories:
+  - applications
+usecases:
+  - did
+ecosystem:
+  - other
+description: Secure, private digital identity that puts you in charge
+sunset: false
+links:
+  web: https://www.humanity.org
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: humanity-protocol-
