@@ -1,0 +1,24 @@
+name: StorX
+categories:
+  - infrastructure
+usecases:
+  - storage
+ecosystem:
+  - other
+description: Distributed Cloud Storage Powered by XinFin Blockchain Network
+sunset: false
+links:
+  web: https://storx.tech
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: storx
