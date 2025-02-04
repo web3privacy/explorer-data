@@ -27438,6 +27438,43 @@
       ]
     },
     {
+      "id": "camo-wallet",
+      "name": "Camo Wallet",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "self-custodial and multi-chain privacy wallet. ",
+      "sunset": false,
+      "links": {
+        "web": "https://camowallet.app",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/camo-wallet/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "stereum",
       "name": "Stereum",
       "categories": [
