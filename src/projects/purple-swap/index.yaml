@@ -1,0 +1,24 @@
+name: Purple Swap
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - other
+description: Crypto Exchange
+sunset: false
+links:
+  web: https://purpleswap.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: purple-swap
