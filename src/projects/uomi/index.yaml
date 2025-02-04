@@ -1,0 +1,25 @@
+name: Uomi
+categories:
+  - infrastructure
+usecases:
+  - ai
+ecosystem:
+  - other
+description: "L1 enabling true AI Agents on-chain: owning wallets, transacting
+  autonomously and more"
+sunset: false
+links:
+  web: https://uomi.ai
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: uomi
