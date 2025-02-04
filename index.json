@@ -9072,6 +9072,43 @@
       ]
     },
     {
+      "id": "shadow-node",
+      "name": "Shadow Node",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "vpn"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "decentralized VPN",
+      "sunset": false,
+      "links": {
+        "web": "https://shadownode.org",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/shadow-node/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "pastenym",
       "name": "Pastenym",
       "categories": [
