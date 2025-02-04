@@ -1,0 +1,24 @@
+name: Geggle
+categories:
+  - applications
+usecases:
+  - other
+ecosystem:
+  - other
+description: A Decentralized Search Engine
+sunset: false
+links:
+  web: https://geggle.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: geggle
