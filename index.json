@@ -6309,6 +6309,43 @@
       "storage": {}
     },
     {
+      "id": "storx",
+      "name": "StorX",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "storage"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Distributed Cloud Storage Powered by XinFin Blockchain Network",
+      "sunset": false,
+      "links": {
+        "web": "https://storx.tech",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/storx/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "crust",
       "name": "Crust",
       "categories": [
@@ -8817,6 +8854,44 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zenrock/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "nimbus-ai",
+      "name": "Nimbus AI",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging",
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Decentralized, Private AI Powered Messaging",
+      "sunset": false,
+      "links": {
+        "web": "https://nimbuschat.ai",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nimbus-ai/logo.jpeg"
         }
       ]
     },
@@ -14712,6 +14787,43 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/grin/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "bethel",
+      "name": "Bethel",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "storage"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "ZKP Storage-RWA Blockchain Data Encryption\n",
+      "sunset": false,
+      "links": {
+        "web": "https://bethelnet.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/bethel/logo.jpeg"
         }
       ]
     },
