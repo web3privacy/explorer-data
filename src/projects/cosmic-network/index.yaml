@@ -1,0 +1,24 @@
+name: Cosmic Network
+categories:
+  - applications
+usecases:
+  - vpn
+ecosystem:
+  - other
+description: Accessible and Affordable Decentralized VPN
+sunset: false
+links:
+  web: https://cosmicnetwork.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: cosmic-network
