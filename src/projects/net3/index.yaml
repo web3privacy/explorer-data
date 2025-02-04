@@ -1,0 +1,25 @@
+name: Net3
+categories:
+  - infrastructure
+  - social-and-communications
+usecases:
+  - infrastructure
+ecosystem:
+  - other
+description: The Third Generation Privacy Communication Network Infrastructure
+sunset: false
+links:
+  web: https://net3.org/home
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: net3
