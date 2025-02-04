@@ -1,0 +1,26 @@
+name: Kava
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - cosmos
+  - ethereum
+description: blockchain that combines the speed and interoperability of Cosmos
+  with the developer power of Ethereum
+sunset: false
+links:
+  web: https://www.kava.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: kava
