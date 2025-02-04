@@ -1,0 +1,24 @@
+name: OpenChat
+categories:
+  - social-and-communications
+usecases:
+  - messaging
+ecosystem:
+  - other
+description: " chat application running end-to-end on the Internet Computer blockchain."
+sunset: false
+links:
+  web: https://oc.app
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: openchat
