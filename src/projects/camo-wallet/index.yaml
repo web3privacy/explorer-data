@@ -1,0 +1,24 @@
+name: Camo Wallet
+categories:
+  - defi
+usecases:
+  - wallets
+ecosystem:
+  - other
+description: "self-custodial and multi-chain privacy wallet. "
+sunset: false
+links:
+  web: https://camowallet.app
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: camo-wallet
