@@ -9415,6 +9415,43 @@
       "history": []
     },
     {
+      "id": "spheron-network",
+      "name": "Spheron Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "programmable compute for autonomous agents",
+      "sunset": false,
+      "links": {
+        "web": "https://www.spheron.network",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/spheron-network/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "intmax",
       "name": "Intmax",
       "categories": [
