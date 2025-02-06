@@ -1,8 +1,96 @@
 id: hinkal
 name: Hinkal
 categories:
-- defi
+  - defi
+  - infrastructure
 usecases:
-- defi
+  - defi
+  - infrastructure
+  - dapps
+  - tee
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/hinkal/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+description: >-
+  Hinkal is an infrastructure company that enables invisible transactions
+  on-chain.
+
+
+  The Hinkal team has built a suite of solutions:
+
+
+  1) Invisible wallet  — enables any on-chain activity without exposing wallet
+  data and the history of transactions - releasing next month. 
+
+
+  2) dApp - proxy for any wallet, enabling invisible transactions without
+  changing wallets.
+
+
+  3) SDK for private payments. Integrated with Request Network  and other
+  solutions. 
+
+
+  Hinkal uses zk, stealth addresses, and TEE under the hood. 
+product_launch_day: 2024-02-10T08:00:00.000Z
+nickname: gegelz
+sunset: false
+assets_used: []
+tokens: []
+links:
+  web: https://hinkal.pro/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: https://hinkal-team.gitbook.io/hinkal
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/hinkal_protocol
+  discord: https://discord.gg/ZEd7W8dX
+  telegram: https://t.me/hinkal_protocol
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ZK
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://hinkal.pro/privacy-policy
+  data_usage: ""
+compliance: OFAC
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Georgi Koreli
+      link: https://x.com/gegelz01
+    - name: Nika Koreli
+      link: https://x.com/n_koreli
+funding: []
+history: []
