@@ -15058,7 +15058,12 @@
       "description": "Penumbra is a fully private, proof-of-stake network and decentralized exchange built on the Cosmos technical stack, utilizing the CometBFT consensus engine and the IBC interoperability protocol. It enables end-to-end encrypted transactions for staking, swapping, market making, and acting as a shielded pool for the IBC ecosystem and beyond.",
       "team": {
         "anonymous": true,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Henry De Valence",
+            "link": "https://x.com/hdevalence"
+          }
+        ]
       },
       "links": {
         "web": "https://penumbra.zone",
@@ -15087,7 +15092,7 @@
         "wallets",
         "currency"
       ],
-      "have_token": false,
+      "have_token": true,
       "third_party_dependency": "none",
       "logos": [
         {
@@ -15100,8 +15105,25 @@
         "cosmos"
       ],
       "sunset": false,
-      "assets_used": [],
-      "tokens": [],
+      "assets_used": [
+        "atom",
+        "other",
+        "eth",
+        "btc",
+        "usdc",
+        "usdt",
+        "dai",
+        "dot",
+        "sol"
+      ],
+      "tokens": [
+        {
+          "symbol": "UM",
+          "name": "UM",
+          "contract_address": "ibc/0FA9232B262B89E77D1335D54FB1E1F506A92A7E4B51524B400DC69C68D28372",
+          "token_link": ""
+        }
+      ],
       "project_phase": "mainnet",
       "blockchain_features": {
         "opensource": true,
@@ -15131,14 +15153,7 @@
       "social_trust": "",
       "technical_spof": "",
       "funding": [],
-      "history": [
-        {
-          "title": "",
-          "description": "",
-          "link": "",
-          "time": ""
-        }
-      ]
+      "history": []
     },
     {
       "id": "grin",
