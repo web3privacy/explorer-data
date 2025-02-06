@@ -4703,7 +4703,7 @@
       "ecosystem": [
         "other"
       ],
-      "description": "The most user-friendly Zcash wallet. ",
+      "description": "The most user-friendly Zcash wallet. Built for private payments by the privacy-obsessed Electric Coin Company, developers of the Zcash protocol. \n\nZashi is a self-custody, shielded wallet that gives you a way to send, receive, & spend $ZEC. \n\nIntegrations: Buy with Coinbase Onramp, Spend with Flexa, & Cold Storage with Keystone HW wallet. ",
       "sunset": false,
       "logos": [
         {
@@ -4711,7 +4711,79 @@
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zashi/logo.jpeg"
         }
-      ]
+      ],
+      "product_launch_day": "2024-04-28T05:00:00.000Z",
+      "assets_used": [
+        "zcash"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "symbol": "ZEC",
+          "name": "Zcash",
+          "contract_address": "",
+          "token_link": "https://mainnet.zcashexplorer.app"
+        }
+      ],
+      "links": {
+        "web": "https://electriccoin.co/zashi/",
+        "blog": "https://electriccoin.co/blog/",
+        "github": "https://github.com/Electric-Coin-Company",
+        "forum": "https://forum.zcashcommunity.com/c/zcash-apps/zashi/51",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/zashi_app",
+        "discord": "https://discord.gg/Huzg9C7EHP",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero Knowledge(ZK)",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://electriccoin.co/zashi-privacy-policy/",
+        "data_usage": "ECC does not sell, rent, or monetize user data in any way. "
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Electric Coin Company ",
+            "link": "https://x.com/electriccoinco"
+          }
+        ]
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "dragonx",
