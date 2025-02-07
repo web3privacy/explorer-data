@@ -8198,8 +8198,8 @@
         "docs": "",
         "whitepaper": "",
         "block_explorer": "",
-        "governance": "",
-        "twitter": "",
+        "governance": "https://forum.nym.com",
+        "twitter": "https://x.com/nymproject",
         "discord": "",
         "telegram": "",
         "lens": "",
@@ -8211,7 +8211,60 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nym-vpn/logo.png"
         }
-      ]
+      ],
+      "assets_used": [
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "symbol": "Nym",
+          "name": "NYM",
+          "contract_address": "",
+          "token_link": ""
+        }
+      ],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "seed"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "evolution",
