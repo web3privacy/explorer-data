@@ -9,16 +9,22 @@ usecases:
   - infrastructure
   - computing
   - fhe
+  - data-management
+  - ai
+  - tee
+  - mpc
+  - node
+  - research-and-development
 ecosystem:
   - ethereum
   - other
 description: Enclave is an open-source protocol for Encrypted Execution
-  Environments (E3) that enables secure, privacy-preserving, and verifiable
-  computations on encrypted data using FHE, ZKPs, and DTC (distributed threshold
-  cryptography). Use cases include secret voting, sealed-bid auctions, and
-  privacy-preserving collaborative analysis that are difficult or impossible
-  with traditional solutions.
-product_launch_day: 2024-06-05T22:00:00.000Z
+  Environments (E3s). E3s enable secure, private, and verifiable computations on
+  multiple inputs of encrypted data, using programmable cryptography (FHE, ZKPs,
+  and MPC) and blockchain. As a complement to or alternative for TEEs, E3s
+  unlock use cases like secret voting, sealed-bid auctions, and confidential
+  data pools.
+product_launch_day: 2024-06-06T05:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -49,7 +55,7 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: FHE, ZKP, MPC
+  encryption: FHE, ZKP, MPC, DTC
   p2p: true
 storage:
   decentralized: true
@@ -57,7 +63,7 @@ privacy_policy:
   defined: false
   link: ""
   data_usage: ""
-compliance: ""
+compliance: GDPR, HIPAA, CCPA, non-custodial by design
 tracebility:
   kyc: false
   tracked_data: ""
@@ -66,16 +72,27 @@ default_privacy: true
 audits: []
 third_party_dependency: ""
 social_trust: Enclave DAO Treasury and Enclave Foundation (future entities).
-technical_spof: ""
+technical_spof: Enclave is designed to eliminate single points of failure by
+  leveraging decentralized cryptographic systems and distributed infrastructure.
 team:
   anonymous: false
   teammembers:
     - name: Gnosis Guild
       link: https://x.com/GnosisGuild
-funding: []
+    - name: Auryn Macmillan
+      link: https://x.com/auryn_macmillan
+    - name: Alex Espina
+      link: https://x.com/espinaxyz
+funding:
+  - name: Legion
+    link: https://x.com/legiondotcc/status/1879526685944512728
 history: []
 logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/enclave/logo.jpeg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/enclave/logo.png
 project_phase: testnet
+nickname: comms@gnosisguild.org
