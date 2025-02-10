@@ -30,7 +30,6 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.png
-product_launch_day: 2021-01-31T20:00:00.000Z
 assets_used: []
 have_token: true
 tokens:
@@ -60,7 +59,7 @@ tracebility:
   kyc: false
   tracked_data: ""
   sign_in_type_requirments: []
-default_privacy: false
+default_privacy: true
 audits:
   - name: Certik
     url: https://skynet.certik.com/projects/ternoa
@@ -73,7 +72,11 @@ team:
   teammembers:
     - name: Mickael Canu
       link: https://www.linkedin.com/in/mickaelcanu/
-funding: []
+funding:
+  - name: jsquare
+    link: https://www.jsquare.co/about
+  - name: DFG
+    link: https://www.dfg.group
 history:
   - title: ""
     description: ""
