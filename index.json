@@ -23381,14 +23381,20 @@
         "defi",
         "infrastructure",
         "computing",
-        "fhe"
+        "fhe",
+        "data-management",
+        "ai",
+        "tee",
+        "mpc",
+        "node",
+        "research-and-development"
       ],
       "ecosystem": [
         "ethereum",
         "other"
       ],
-      "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3) that enables secure, privacy-preserving, and verifiable computations on encrypted data using FHE, ZKPs, and DTC (distributed threshold cryptography). Use cases include secret voting, sealed-bid auctions, and privacy-preserving collaborative analysis that are difficult or impossible with traditional solutions.",
-      "product_launch_day": "2024-06-05T22:00:00.000Z",
+      "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3s). E3s enable secure, private, and verifiable computations on multiple inputs of encrypted data, using programmable cryptography (FHE, ZKPs, and MPC) and blockchain. As a complement to or alternative for TEEs, E3s unlock use cases like secret voting, sealed-bid auctions, and confidential data pools.",
+      "product_launch_day": "2024-06-06T05:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -23423,7 +23429,7 @@
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "FHE, ZKP, MPC",
+        "encryption": "FHE, ZKP, MPC, DTC",
         "p2p": true
       },
       "storage": {
@@ -23434,7 +23440,7 @@
         "link": "",
         "data_usage": ""
       },
-      "compliance": "",
+      "compliance": "GDPR, HIPAA, CCPA, non-custodial by design",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
@@ -23444,17 +23450,30 @@
       "audits": [],
       "third_party_dependency": "",
       "social_trust": "Enclave DAO Treasury and Enclave Foundation (future entities).",
-      "technical_spof": "",
+      "technical_spof": "Enclave is designed to eliminate single points of failure by leveraging decentralized cryptographic systems and distributed infrastructure.",
       "team": {
         "anonymous": false,
         "teammembers": [
           {
             "name": "Gnosis Guild",
             "link": "https://x.com/GnosisGuild"
+          },
+          {
+            "name": "Auryn Macmillan",
+            "link": "https://x.com/auryn_macmillan"
+          },
+          {
+            "name": "Alex Espina",
+            "link": "https://x.com/espinaxyz"
           }
         ]
       },
-      "funding": [],
+      "funding": [
+        {
+          "name": "Legion",
+          "link": "https://x.com/legiondotcc/status/1879526685944512728"
+        }
+      ],
       "history": [],
       "logos": [
         {
@@ -23468,7 +23487,8 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/enclave/logo.png"
         }
       ],
-      "project_phase": "testnet"
+      "project_phase": "testnet",
+      "nickname": "comms@gnosisguild.org"
     },
     {
       "id": "zoci",
