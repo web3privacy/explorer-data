@@ -21734,9 +21734,9 @@
       ],
       "usecases": [
         "defi",
+        "wallets",
         "infrastructure",
-        "dapps",
-        "tee"
+        "dapps"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -21749,18 +21749,20 @@
       ],
       "ecosystem": [
         "ethereum",
-        "multichain",
+        "multichain"
+      ],
+      "description": "Hinkal is building infrastructure for invisible transactions that consists of: \n1) Invisible wallet  — enables any on-chain activity without exposing wallet data and the history of transactions. \n\n2) dApp - a proxy for any wallet, enabling invisible transactions without changing wallets.\n\n3) SDK for private payments. Integrated with Request Network and other solutions. \n\nHinkal has become the leader in the category with >$250m in transactions in 2024. \n\nIncubated at Stanford and Binance MVB, Hinkal has raised $5.7M from Draper Associates, Stanford, SALT, Re7, and SNZ. In 2024, it became the largest privacy infrastructure, achieving $250M in transaction volume.",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "usdc",
+        "usdt",
         "other"
       ],
-      "description": "Hinkal is an infrastructure company that enables invisible transactions on-chain.\n\nThe Hinkal team has built a suite of solutions:\n\n1) Invisible wallet  — enables any on-chain activity without exposing wallet data and the history of transactions - releasing next month. \n\n2) dApp - proxy for any wallet, enabling invisible transactions without changing wallets.\n\n3) SDK for private payments. Integrated with Request Network  and other solutions. \n\nHinkal uses zk, stealth addresses, and TEE under the hood. ",
-      "product_launch_day": "2024-02-10T08:00:00.000Z",
-      "nickname": "gegelz",
-      "sunset": false,
-      "assets_used": [],
       "tokens": [],
       "links": {
-        "web": "https://hinkal.pro/",
-        "blog": "",
+        "web": "https://hinkal.pro",
+        "blog": "https://x.com/hinkal_protocol/articles",
         "github": "",
         "forum": "",
         "docs": "",
@@ -21768,7 +21770,7 @@
         "block_explorer": "",
         "governance": "",
         "twitter": "https://x.com/hinkal_protocol",
-        "discord": "https://discord.gg/ZEd7W8dX",
+        "discord": "https://discord.com/invite/hinkalofficial",
         "telegram": "https://t.me/hinkal_protocol",
         "lens": "",
         "farcaster": ""
@@ -21781,7 +21783,7 @@
         "version": "mainnet"
       },
       "blockchain_features": {
-        "opensource": true,
+        "opensource": false,
         "upgradability": {
           "enabled": false
         },
@@ -21792,18 +21794,40 @@
       "privacy_policy": {
         "defined": true,
         "link": "https://hinkal.pro/privacy-policy",
-        "data_usage": ""
+        "data_usage": "Website usage"
       },
       "compliance": "OFAC",
       "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
+        "kyc": true,
+        "tracked_data": "Location, web analytics",
         "sign_in_type_requirments": [
-          "wallet"
+          "wallet",
+          "seed"
         ]
       },
       "default_privacy": true,
-      "audits": [],
+      "audits": [
+        {
+          "name": "zkSecurity",
+          "url": "https://www.zksecurity.xyz/reports/hinkal-audit",
+          "time": "2024-09-06T07:00:00.000Z"
+        },
+        {
+          "name": "Zokyo",
+          "url": "https://github.com/zokyo-sec/audit-reports/blob/main/Hinkal/Hinkal_Zokyo_Feb20th_2024.pdf",
+          "time": "2024-02-20T08:00:00.000Z"
+        },
+        {
+          "name": "Quantstamp ",
+          "url": "https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html",
+          "time": "2023-08-23T07:00:00.000Z"
+        },
+        {
+          "name": "Secure3",
+          "url": "https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Hinkal",
+          "time": "2023-02-15T08:00:00.000Z"
+        }
+      ],
       "social_trust": "",
       "technical_spof": "",
       "team": {
