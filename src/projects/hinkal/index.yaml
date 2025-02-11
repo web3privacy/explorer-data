@@ -8,6 +8,7 @@ usecases:
   - wallets
   - infrastructure
   - dapps
+
 have_token: false
 third_party_dependency: none
 logos:
@@ -106,5 +107,8 @@ team:
   teammembers:
     - name: Georgi Koreli
       link: https://x.com/gegelz01
+    - name: Nika Koreli
+      link: https://x.com/n_koreli
+
 funding: []
 history: []
