@@ -26162,8 +26162,8 @@
         "decentralized": true
       },
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://calimero.network/privacy-policy",
         "data_usage": "none"
       },
       "compliance": "",
