@@ -1,0 +1,83 @@
+id: human-passport
+name: human-passport
+categories:
+  - applications
+ecosystem: 
+  - ethereum  
+  - other
+have_token: false
+tokens: 
+  - name: ""
+    symbol: ""
+    network: ""
+    contract_address: ""
+
+description: Passport XYZ is an identity verification application and Sybil resistance protocol. It enables users to collect verifiable credentials, or Stamps
+project_type: ""
+technology:
+  type: ""
+links:
+  web: https://passport.human.tech/
+  blog: https://passport.human.tech/blog
+  github: https://github.com/passportxyz
+  forum: ""
+  docs: https://docs.passport.xyz/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/humnpassport
+  discord: ""
+  telegram: https://t.me/humantechofficial
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  asset_custody_type: ""
+  encryption: ""
+privacy_policy: 
+  defined: true
+  link: https://passport.human.tech/policy
+ 
+team:
+  anonymous: false
+  teammembers:
+    - name: Daniel lebraat
+      link: https://x.com/lebraat
+    - name: ""
+      link: ""
+    - name: ""
+      link: ""
+    
+storage: 
+  decentralized: false
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: 
+    - wallet
+third_party_dependency: ""
+audits: 
+  - name: holonym
+    link: https://x.com/HumnPassport/status/1888974521845334159
+    
+history: []
+  
+client_diversability: []
+ 
+default_privacy: false
+funding: 
+  - name: Holonym
+    link: https://x.com/HumnPassport/status/1888974521845334159
+    
+project_status: 
+  live_status: true
+  mainnet: true
+  testnet: false
+usecases: 
+  - did
+sunset: false
+assets_used: []
+project_phase: ""
+compliance: ""
+social_trust: ""
+technical_spof: ""
