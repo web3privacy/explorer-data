@@ -1,0 +1,91 @@
+id: libertAI
+name: libertAI
+categories:
+  - applications
+ecosystem: 
+  - solana
+  - other 
+have_token: true
+tokens: 
+  - name: LTAI Token
+    symbol: $LTAI
+    network: base
+    contract_address: "0xF8B1b47AA748F5C7b5D0e80C726a843913EB573a"
+  
+description: Confidential AI for blockchain apps. Built on http://Aleph.im DePIN
+project_type: ""
+links:
+  web: https://libertai.io/
+  blog: ""
+  github: https://github.com/libertai
+  forum: ""
+  docs: https://docs.libertai.io/
+  whitepaper: https://libertai.io/Litepaper_0624_v2.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Libertai_DAI
+  discord: ""
+  telegram: https://t.me/liberchat_bot
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: ""
+  asset_custody_type: ""
+  encryption: TEE, Depin
+  p2p: 
+privacy_policy: 
+  defined: false
+  link: ""
+  
+team:
+  anonymous: false
+  teammembers:
+    - name: RezaRahemtola
+      link: https://github.com/RezaRahemtola
+    - name: Jonathan Schemoul
+      link: https://x.com/jon1012
+    - name: Shane P.
+          
+storage: 
+  decentralized: ""
+tracebility:
+  kyc: false
+  sign_in_type_requirments: wallet
+third_party_dependency: ""
+audits: []
+  - name: ""
+    link: ""
+    time: ""
+history: []
+  - title: ""
+    event_type: ""
+    description: ""
+    time: ""
+    link: ""
+client_diversability: []
+  - name: ""
+    link: ""
+  - name: ""
+    link: ""
+default_privacy: ""
+funding: []
+  - name: ""
+    type: ""
+    link: ""
+    value: "" 
+    time: ""
+project_status: 
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: ""
+usecases: 
+  - ai
+sunset: false
+assets_used: []
+project_phase: ""
+compliance: ""
+social_trust: ""
+technical_spof: ""
