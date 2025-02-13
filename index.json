@@ -23958,6 +23958,92 @@
       ]
     },
     {
+      "id": "obscura",
+      "name": "obscura",
+      "categories": [
+        "applications"
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "name": "",
+          "symbol": "",
+          "network": "",
+          "contract_address": ""
+        }
+      ],
+      "description": "The first VPN that CAN T log your activity and outsmarts internet censorship.",
+      "project_type": "",
+      "technology": {
+        "type": ""
+      },
+      "links": {
+        "web": "https://obscura.net/",
+        "blog": "https://obscura.net/blog/bootstrapping-trust/",
+        "github": "https://github.com/Sovereign-Engineering/obscuravpn-client",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/obscuravpn",
+        "discord": "https://discord.com/invite/xsP2Fp7s6r",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "",
+        "encryption": "the 2-party relay architecture and QUIC's unreliable transport"
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://obscura.net/legal/",
+        "data_usage": ""
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Carl Dong",
+            "link": "https://x.com/carl_dong"
+          }
+        ]
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": ""
+      },
+      "third_party_dependency": "Mullvad, Wireguard",
+      "audits": [],
+      "history": [],
+      "client_diversability": [],
+      "default_privacy": true,
+      "funding": [],
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "Obscura VPN v1.97"
+      },
+      "usecases": [
+        "vpn"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "project_phase": "",
+      "compliance": "",
+      "social_trust": "",
+      "technical_spof": ""
+    },
+    {
       "id": "sirius-sync",
       "name": "Sirius Sync",
       "categories": [
