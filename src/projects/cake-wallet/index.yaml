@@ -2,12 +2,7 @@ id: cake-wallet
 name: Cake Wallet
 categories:
   - applications
-description: >-
-  Cake Wallet allows you to safely store, send, receive, and exchange your XMR,
-  BTC, LTC, ETH, SOL, WOW, and exchange other currencies.
-
-
-  All your favorite crypto in one wallet, with the best privacy for every chain.
+description: Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, ETH, SOL, WOW, and exchange other currencies. All your favorite crypto in one wallet, with the best privacy for every chain.
 ecosystem:
   - monero
   - bitcoin
