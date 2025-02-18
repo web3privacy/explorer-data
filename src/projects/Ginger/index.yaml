@@ -1,0 +1,89 @@
+id: ginger
+name: ginger
+categories:
+  - applications
+ecosystem: 
+  - bitcoin  
+have_token: false
+tokens: 
+  - name: ""
+    symbol: ""
+    network: ""
+    contract_address: ""
+  
+description:  A Bitcoin privacy solution with an active coinjoin service
+project_type: ""
+
+links:
+  web: https://gingerwallet.io/
+  blog: https://medium.com/@martin.rimoczi
+  github: https://github.com/GingerPrivacy
+  forum: ""
+  docs: https://docs.gingerwallet.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/GingerWallet
+  discord: ""
+  telegram: https://t.me/GingerWallet
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: ""
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: ""
+privacy_policy: 
+  defined: true
+  link: https://github.com/GingerPrivacy/GingerWallet/tree/master/WalletWasabi/Legal/Assets
+ 
+team:
+  anonymous: true
+  teammembers:
+    - name: ""
+      role: ""
+    - name: ""
+      role: ""
+    - name: ""
+      role: ""
+    
+storage: 
+  decentralized: true
+tracebility:
+  kyc: false
+  sign_in_type_requirments: ""
+third_party_dependency: ""
+audits: []  
+history: []
+  - title: ""
+    event_type: ""
+    description: ""
+    time: ""
+    link: ""
+client_diversability: []
+  - name: ""
+    link: ""
+  - name: ""
+    link: ""
+default_privacy: true
+funding: []
+  - name: ""
+    type: ""
+    link: ""
+    value: "" 
+    time: ""
+project_status: 
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: ""
+usecases: 
+  - wallets 
+sunset: false
+assets_used: []
+project_phase: mainnet
+compliance: ""
+social_trust: ""
+technical_spof: ""
