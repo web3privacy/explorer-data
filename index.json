@@ -22832,7 +22832,6 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.png"
         }
       ],
-      "product_launch_day": "2021-01-31T20:00:00.000Z",
       "assets_used": [],
       "have_token": true,
       "tokens": [
@@ -22870,7 +22869,7 @@
         "tracked_data": "",
         "sign_in_type_requirments": []
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [
         {
           "name": "Certik",
@@ -22890,7 +22889,16 @@
           }
         ]
       },
-      "funding": [],
+      "funding": [
+        {
+          "name": "jsquare",
+          "link": "https://www.jsquare.co/about"
+        },
+        {
+          "name": "DFG",
+          "link": "https://www.dfg.group"
+        }
+      ],
       "history": [
         {
           "title": "",
