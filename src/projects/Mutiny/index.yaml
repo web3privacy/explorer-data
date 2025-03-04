@@ -1,0 +1,73 @@
+id: mutiny
+name: mutiny
+categories:
+  - applications
+ecosystem: 
+  - bitcoin
+have_token: false
+tokens: 
+  - name: ""
+    symbol: ""
+    network: ""
+    contract_address: ""
+  
+description: Mutiny is a self-custodial lightning wallet that runs everywhere
+project_type: ""
+    
+links:
+  web: https://www.mutinywallet.com/
+  blog: https://blog.mutinywallet.com/
+  github: https://github.com/MutinyWallet/
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/MutinyWallet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  
+  asset_custody_type: non-custody
+  encryption: ""
+privacy_policy: 
+  defined: true
+  link: https://www.mutinywallet.com/legal/privacy
+  
+team:
+  anonymous: false
+  teammembers:
+    - name: Marks
+      link: https://x.com/markskram
+    - name: Tony Giorgio
+      link: https://twitter.com/tonygiorgio_
+    - name: Paul Miller
+      link: https://twitter.com/futurepaul
+    
+storage: {}
+tracebility:
+  kyc: false
+  tracked_data: ""
+third_party_dependency: ""
+audits: []
+history: []
+client_diversability: []
+default_privacy: true
+funding: []
+ 
+project_status: 
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: ""
+usecases: 
+  - wallets
+sunset: false
+assets_used: []
+project_phase: mainnet
+compliance: ""
+social_trust: ""
+technical_spof: ""
