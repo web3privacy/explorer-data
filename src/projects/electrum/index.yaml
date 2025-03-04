@@ -1,0 +1,63 @@
+name: Electrum
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+description: Lightweight Bitcoin Wallet
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://electrum.org/
+  blog: ""
+  github: https://github.com/spesmilo/electrum
+  forum: ""
+  docs: " https://electrum.readthedocs.io/en/latest/"
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/ElectrumWallet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Thomas Voegtlin
+      link: https://github.com/ecdsa
+    - name: SomberNight
+      link: https://github.com/SomberNight
+funding: []
+history: []
+id: electrum
