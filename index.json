@@ -5613,20 +5613,30 @@
       ],
       "description": "Build, Own, and Monetize in Web3. Privacy & Choice for users",
       "team": {
-        "anonymous": false
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Gille Fedak",
+            "link": ""
+          }
+        ]
       },
       "links": {
         "web": "https://iex.ec/",
-        "block_exporer": "https://explorer.iex.ec/bellecour",
-        "docs": "https://docs.iex.ec/",
-        "github": "https://github.com/iExecBlockchainComputing",
         "blog": "https://medium.com/iex-ec",
+        "github": "https://github.com/iExecBlockchainComputing",
+        "forum": "",
+        "docs": "https://docs.iex.ec/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/iEx_ec",
         "discord": "https://discord.com/invite/pbt9m98wnU",
-        "facebook": "https://www.facebook.com/iexecteam",
-        "telegram": "https://discord.com/invite/pbt9m98wnU"
+        "telegram": "https://discord.com/invite/pbt9m98wnU",
+        "lens": "",
+        "farcaster": "https://warpcast.com/iexec"
       },
-      "have_token": false,
+      "have_token": true,
       "token_link": "https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375",
       "tokens": [
         {
@@ -5634,6 +5644,12 @@
           "symbol": "RLC",
           "network": "Ethereum",
           "contract_address": "0x607F4C5BB672230e8672085532f7e901544a7375"
+        },
+        {
+          "symbol": "RLC",
+          "name": "IEXEC RLC",
+          "contract_address": "https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375",
+          "token_link": "https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375"
         }
       ],
       "sunset": false,
@@ -5646,6 +5662,61 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/iexec/logo.png"
+        }
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "product_launch_day": "2017-05-08T22:00:00.000Z",
+      "assets_used": [],
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Confidential Computing",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "Governance over all parameters via use of TEEs"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [
+        {
+          "name": "Consensys Diligence",
+          "url": "https://www.iex.ec/academy/iexec-poco-audit-consensys-diligence",
+          "time": "2019-12-31T23:00:00.000Z"
+        }
+      ],
+      "social_trust": "No DAO",
+      "technical_spof": "N/A",
+      "funding": [],
+      "history": [
+        {
+          "title": "",
+          "description": "",
+          "link": "",
+          "time": ""
         }
       ]
     },
