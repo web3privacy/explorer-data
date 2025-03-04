@@ -5051,7 +5051,8 @@
       "id": "speak-app",
       "name": "Speak app",
       "categories": [
-        "applications"
+        "applications",
+        "social-and-communications"
       ],
       "description": "No phone number. No email address. Speakapp is a simple, and secure web3 messenger",
       "team": {
@@ -5074,7 +5075,8 @@
         "farcaster": ""
       },
       "usecases": [
-        "messaging"
+        "messaging",
+        "storage"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -5101,7 +5103,9 @@
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "seed"
+        ]
       },
       "default_privacy": true,
       "project_phase": "alpha",
@@ -5117,7 +5121,7 @@
           "enabled": false
         },
         "asset_custody_type": "",
-        "encryption": "",
+        "encryption": "Zero-Knowledge encryption, Reed-Solomon Algorithm, AES-GCM 256, HMAC-SHA256, ",
         "p2p": true
       },
       "storage": {
