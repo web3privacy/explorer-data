@@ -28256,6 +28256,103 @@
       ]
     },
     {
+      "id": "cashu",
+      "name": "cashu",
+      "categories": [
+        "applications"
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "name": "",
+          "symbol": "",
+          "network": "",
+          "contract_address": ""
+        }
+      ],
+      "description": "Open-source Chaumian Ecash protocol for Bitcoin",
+      "project_type": "",
+      "technology": {
+        "type": "",
+        "features": []
+      },
+      "links": {
+        "web": "https://cashu.space/",
+        "blog": "https://blog.cashu.space/",
+        "github": "https://github.com/cashubtc",
+        "forum": "",
+        "docs": "https://docs.cashu.space/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/cashubtc",
+        "discord": "",
+        "telegram": "https://t.me/CashuBTC",
+        "lens": "",
+        "farcaster": ""
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "",
+            "role": ""
+          },
+          {
+            "name": "",
+            "role": ""
+          },
+          {
+            "name": "",
+            "role": ""
+          }
+        ]
+      },
+      "storage": {},
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "third_party_dependency": "",
+      "audits": [],
+      "history": [],
+      "client_diversability": [],
+      "funding": [],
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": ""
+      },
+      "usecases": [
+        "wallets"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "project_phase": "",
+      "compliance": "",
+      "social_trust": "",
+      "technical_spof": ""
+    },
+    {
       "id": "sphereon",
       "name": "Sphereon",
       "categories": [
