@@ -1,43 +1,49 @@
+id: wiremin
 name: WireMin
 categories:
   - social-and-communications
 usecases:
-  - messaging
   - wallets
   - did
-  - kyc-solution
   - donate-charity
+  - messaging
+  - dapps
 ecosystem:
   - multichain
   - ethereum
   - bitcoin
-  - solana
+  - other
 description: >-
-  WireMin is a tool for online communication that creates a social network for
-  the people, by the people and of the people. 
+  WireMin is a decentralized social network that puts power back in the hands of
+  the people, not any central authority. 
 
 
-  This network is purely based on users’ devices, so each peer is a user device
-  acting as a node to join the network and connect each other to the Internet,
-  without relying on any cloud services of giant companies like the
-  server-client platforms in Web 2.0, such as Facebook, X.
+  It is built for complete freedom and privacy: no central servers, no metadata
+  collection. All messages are end-to-end encrypted and stored on people’s
+  device so no data could be collected or breached. The network is united by
+  peers with equal rights, so no one can monitor the network for surveillance or
+  censorship, or for the sale of ads. 
 
 
-  Core features:
+  Features:
 
-  1. Anonymous ID: No Email/Phone #. Needed
+  1. Anonymity: No Email/Phone number needed.
 
-  2. Private Chat: No Central Server & E2EE Protection
+  2. Private chat: All messages are end-to-end encrypted, with optional
+  self-disappearance
 
-  3. Crypto Wallet: Instant & Free In-App Crypto Transfers
+  3. Rich Media: Send files of any size, or long videos
 
-  4. Global Connection: Chat/Feed Spaces, Voice/Video Calls, File/Video Sharing.
+  4. Global Connection: Chat/Feed Spaces, Voice/Video Calls, Large File/Video
+  Sharing.
+
+  5. In-app Crypto Wallet: Instant, fee-free crypto transfers with
+  self-custodial ID.
 sunset: false
 assets_used:
   - btc
   - eth
   - usdt
-  - sol
   - other
 have_token: false
 tokens:
@@ -46,11 +52,11 @@ tokens:
     contract_address: ""
     token_link: ""
 links:
-  web: wiremin.org
-  blog: ""
-  github: ""
-  forum: ""
-  docs: ""
+  web: https://wiremin.org/
+  blog: https://wiremin.org/#/blog
+  github: https://github.com/up4w/up4w-core
+  forum: https://i.wiremin.com/invite/?g=k100345655390
+  docs: https://github.com/up4w/up4w-core
   whitepaper: ""
   block_explorer: ""
   governance: ""
@@ -60,13 +66,14 @@ links:
   lens: ""
   farcaster: ""
 project_status:
-  live_status: false
-  mainnet: false
+  live_status: true
+  mainnet: true
   testnet: false
+  version: mainnet
 blockchain_features:
   opensource: false
   upgradability:
-    enabled: true
+    enabled: false
   asset_custody_type: non-custody
   encryption: "SHA256, IPv4 broadcast, 256-bit AES encryption, RocksDB Lite, PoW,
     UDP, datagram protocol "
@@ -74,22 +81,25 @@ blockchain_features:
 storage:
   decentralized: true
 privacy_policy:
-  defined: false
-  link: ""
-  data_usage: ""
+  defined: true
+  link: https://wiremin.org/#/terms&privacy
+  data_usage: None
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
-  sign_in_type_requirments: []
+  tracked_data: None
+  sign_in_type_requirments:
+    - seed
 default_privacy: true
 audits: []
 third_party_dependency: ""
 social_trust: ""
-technical_spof: ""
+technical_spof: No single point of failure
 team:
-  anonymous: false
-  teammembers: []
+  anonymous: true
+  teammembers:
+    - name: Sophie
+      link: https://x.com/k2_sophie
 funding: []
 history:
   - title: Global Encryption Coalition
@@ -99,4 +109,8 @@ history:
       companies to offer encrypted services to their users.
     link: https://www.globalencryption.org/
     time: ""
-id: wiremin
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/wiremin/logo.png
+project_phase: mainnet
