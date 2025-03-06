@@ -14,7 +14,7 @@ project_type: Decentralized privacy network protocol
 description: MASQ is a , dMeshVPN, web3-native privacy browser, dApp Store,
   protocol, and earning ecosystem that makes living in Web3 anonymous and
   private
-product_launch_day: 2019-11-18T11:00:00.000Z
+product_launch_day: 2019-11-01T11:00:00.000Z
 team:
   anonymous: true
   teammembers:
@@ -25,7 +25,7 @@ links:
   blog: https://www.masqbrowser.com/blog
   github: https://github.com/MASQ-Project
   forum: ""
-  docs: https://docs.masq.ai/masq
+  docs: https://docs.masqbrowser.com
   whitepaper: ""
   block_explorer: https://dune.com/masq_network/masq-network-dashboard
   governance: ""
@@ -92,8 +92,17 @@ tracebility:
   tracked_data: None
   sign_in_type_requirments:
     - wallet
-audits: []
+audits:
+  - name: Metatrust
+    url: https://github.com/MASQ-Project/MASQ-contract/blob/master/Metatrust_MASQ%20V2%20Token.pdf
+    time: 2024-09-12T12:00:00.000Z
 technical_spof: ISP-led wide-spread blocking of external IPs (country-wide or
   Great-Firewall style), Quantum Computing breaking HTTPS/TLS
-funding: []
+funding:
+  - name: No ICO
+    link: https://docs.masqbrowser.com/masq/core-concepts/token-economy
+  - name: No VC
+    link: https://docs.masqbrowser.com/masq/core-concepts/token-economy
+  - name: No Angel Investors
+    link: https://docs.masqbrowser.com/masq/core-concepts/token-economy
 history: []
