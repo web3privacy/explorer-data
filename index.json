@@ -6260,7 +6260,7 @@
         "ethereum"
       ],
       "description": "Labyrinth is a multi-chain privacy platform that enables shielded (private) accounts on EVM chains, allowing users to conduct private transactions for all DeFi activities, such as transfers, swaps, staking, yield farming, lending, batch transactions for payroll, and token vesting, while ensuring compliance without KYC.\n\nIts plug-and-play SDK allows developers to easily integrate privacy into their dApps without the complexity of cryptography or ZKPs. Labyrinth ecosystem app offers a seamless experience for large and mid-volume users, as well as retail participants.\n\nLabyrinth empowers traders, whales, DAOs, and retail users to maintain control over their privacy with a compliance network built on selective disclosure and decentralized trust.",
-      "product_launch_day": "2024-01-31T18:30:00.000Z",
+      "product_launch_day": "2024-02-03T18:30:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -6269,17 +6269,17 @@
       "have_token": false,
       "tokens": [],
       "links": {
-        "web": "https://labyrinth.technology/",
-        "blog": "https://labyrinth.technology/blog/",
+        "web": "https://labyrinth.ac/",
+        "blog": "https://labyrinth.ac/blog/",
         "github": "",
-        "forum": "https://forum.labyrinth.technology/",
+        "forum": "https://forum.labyrinth.ac/",
         "docs": "https://labyrinth.gitbook.io/",
         "whitepaper": "https://arxiv.org/pdf/2307.00521",
-        "block_explorer": "https://testnet.app.labyrinth.technology/discover",
+        "block_explorer": "https://testnet.app.labyrinth.ac/",
         "governance": "",
         "twitter": "https://twitter.com/labyrinth_hq",
-        "discord": "",
-        "telegram": "https://discord.com/invite/GYTgBrq4mM",
+        "discord": "https://discord.gg/39qrKKxt",
+        "telegram": "",
         "lens": "",
         "farcaster": "https://warpcast.com/labyrinth-hq"
       },
