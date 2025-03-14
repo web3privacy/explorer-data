@@ -1,3 +1,4 @@
+id: labyrinth
 name: Labyrinth
 categories:
   - infrastructure
@@ -28,7 +29,7 @@ description: >-
   Labyrinth empowers traders, whales, DAOs, and retail users to maintain control
   over their privacy with a compliance network built on selective disclosure and
   decentralized trust.
-product_launch_day: 2024-01-31T18:30:00.000Z
+product_launch_day: 2024-02-03T18:30:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -36,17 +37,17 @@ assets_used:
 have_token: false
 tokens: []
 links:
-  web: https://labyrinth.technology/
-  blog: https://labyrinth.technology/blog/
+  web: https://labyrinth.ac/
+  blog: https://labyrinth.ac/blog/
   github: ""
-  forum: https://forum.labyrinth.technology/
+  forum: https://forum.labyrinth.ac/
   docs: https://labyrinth.gitbook.io/
   whitepaper: https://arxiv.org/pdf/2307.00521
-  block_explorer: https://testnet.app.labyrinth.technology/discover
+  block_explorer: https://testnet.app.labyrinth.ac/
   governance: ""
   twitter: https://twitter.com/labyrinth_hq
-  discord: ""
-  telegram: https://discord.com/invite/GYTgBrq4mM
+  discord: https://discord.gg/39qrKKxt
+  telegram: ""
   lens: ""
   farcaster: https://warpcast.com/labyrinth-hq
 project_status:
@@ -103,4 +104,7 @@ history:
       transaction details selectively for audits or legal compliance."
     link: https://labyrinthprotocol.notion.site/Labyrinth-v1-0-private-beta-release-c72c5cf4cbc74c1f8be8ce8a61bb6a50?pvs=73
     time: 2024-08-26T18:30:00.000Z
-id: labyrinth
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/labyrinth/logo.png
