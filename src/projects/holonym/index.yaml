@@ -1,17 +1,85 @@
 id: holonym
 name: Holonym
 categories:
-- applications
+  - applications
 description: ZK-identity protocol for anonymous KYC, sybil resistance, and compliance.
 team:
   anonymous: true
+  teammembers:
+    - name: Yan Ketelers
+      link: https://www.linkedin.com/in/yan-ketelers/
+    - name: Caleb Tuttle
+      link: https://www.linkedin.com/in/caleb-tuttle-20bbb2126/
+    - name: Bruno Bouwman
+      link: https://www.linkedin.com/in/bruno-bouwman/
+    - name: Jeremy Dillingham
+      link: https://www.linkedin.com/in/jeremydillingham/
+    - name: Louis Tajan
+      link: https://www.linkedin.com/in/louis-tajan-477b4a19b/
+    - name: Shady El Damaty
+      link: https://www.linkedin.com/in/shadyeldamaty/
+    - name: Nanak Nihal Khalsa
+      link: https://www.linkedin.com/in/nanaknihal-khalsa/
+    - name: Anmol Bansal
+      link: https://www.linkedin.com/in/anmol-bansal02/
+    - name: Ton Navarro
+      link: https://www.linkedin.com/in/ton95/
+    - name: Arun S
+      link: https://www.linkedin.com/in/arun-s-31340bba/
 links:
   web: https://holonym.id
-  github: https://github.com/holonym-foundation
-  docs: https://docs.holonym.id/
   blog: https://medium.com/holonym
+  github: https://github.com/holonym-foundation
+  forum: ""
+  docs: https://docs.holonym.id/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/0xHolonym
+  discord: https://discord.com/invite/zfGqjA5pxU
+  telegram: https://t.me/humantechofficial
+  lens: ""
+  farcaster: ""
 have_token: false
 usecases:
-- kyc-solution
+  - kyc-solution
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/holonym/logo.png
+ecosystem:
+  - multichain
+sunset: false
+assets_used: []
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: " Proof of Clean Hands"
+tracebility:
+  kyc: true
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding:
+  - name: Finality Capital and Paper Ventures
+    link: https://human.tech/blog/raise-seed-round
+history: []
