@@ -1,16 +1,87 @@
 id: status-web3-browser
 name: Status Web3 Browser
 categories:
-- applications
-description: Access the latest defi dapps, exchanges, marketplaces, games and more
-  with the Web3 Browser
+  - applications
+description: Status is the privacy-preserving superapp for secure and
+  confidential communication and financial coordination with friends and
+  business partners. Offering an anonymous, peer-to-peer privacy messenger that
+  makes it easy to communicate and coordinate your financial transactions and
+  interactions with friends and business partners in one place, a secure and
+  self-custodial multi-chain crypto wallet, and censorship-resistant,
+  decentralized communities that value privacy, freedom, and autonomy in their
+  digital interactions.
 links:
   web: https://status.im/web-three-browser/
-  github: https://github.com/status-im
   blog: https://status.app/blog
+  github: https://github.com/status-im
+  forum: https://status.app/
+  docs: ""
+  whitepaper: https://status.app/
+  block_explorer: https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e
+  governance: ""
   twitter: https://twitter.com/ethstatus
-  facebook: https://www.facebook.com/ethstatus/about
+  discord: https://discord.gg/kexupMwqNT
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- browser
-have_token: false
-third_party_dependency: none
+  - browser
+have_token: true
+third_party_dependency: Wallet facilities such as rpc providers, token price
+  providers, block explorers, on ramp providers etc, see our privacy policy for
+  more details
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/status-web3-browser/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+product_launch_day: 2020-03-04T23:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+tokens:
+  - symbol: SNT
+    name: Status
+    contract_address: "0x744d70fdbe2ba4cf95131626614a1763df805b9e"
+    token_link: https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: custodial
+  encryption: Double ratchet PFS 1-1 message encryption. Hash ratched secured
+    community message encryption. Waku p2p message transport.  Wallet. Multi EVM
+    chain support. Defi swaps support.
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://status.app/legal/privacy-policy
+  data_usage: Metrics
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Some limited opt-in anonymous usage metrics. See the privacy policy.
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: >-
+  20% of SNT created during the ICO was allocated to Status
+
+  Core Dev; the Founders and Team, locked in a smart contract with a 24 month
+  vesting period, and 6 month cliff. These periods have since expired in light
+  of the ICO taking place in 2017.
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
