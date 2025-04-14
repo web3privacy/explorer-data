@@ -6,6 +6,7 @@ description: The world’s lightest blockchain, powered by participants. Using
   zero knowledge technology
 team:
   anonymous: true
+  teammembers: []
 links:
   web: https://minaprotocol.com
   blog: ""
@@ -38,7 +39,7 @@ project_status:
   mainnet: true
 usecases:
   - infrastructure
-third_party_dependency: none
+third_party_dependency: ""
 logos:
   - file: logo.png
     ext: png
@@ -47,3 +48,8 @@ ecosystem:
   - other
 sunset: false
 assets_used: []
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
