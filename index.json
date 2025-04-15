@@ -9460,11 +9460,18 @@
       "description": "A protocol enabling usable on-chain privacy",
       "links": {
         "web": "https://nocturnelabs.xyz",
-        "github": "https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager",
-        "docs": "https://nocturne-xyz.gitbook.io/nocturne",
         "blog": "https://mirror.xyz/nocturnelabs.eth",
+        "github": "https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager",
+        "forum": "",
+        "docs": "https://nocturne-xyz.gitbook.io/nocturne",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/nocturne_xyz",
-        "discord": "https://discord.com/invite/MxZYtzzFmJ"
+        "discord": "https://discord.com/invite/MxZYtzzFmJ",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "dapps"
@@ -9481,7 +9488,53 @@
       "ecosystem": [
         "ethereum"
       ],
-      "sunset": true
+      "sunset": true,
+      "history": [],
+      "assets_used": [],
+      "tokens": [],
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Sebastian Luca",
+            "link": "https://x.com/sebastienladuca"
+          },
+          {
+            "name": "Luke Tchang",
+            "link": "https://x.com/luketchang"
+          }
+        ]
+      },
+      "funding": []
     },
     {
       "id": "natix-network",
@@ -9992,18 +10045,28 @@
       "id": "status",
       "name": "Status",
       "categories": [
-        "social-and-communications"
+        "social-and-communications",
+        "applications"
       ],
-      "description": "Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology",
+      "description": "Status is a secure messaging app and crypto wallet built with state of the art technology",
       "team": {
-        "anonymous": false
+        "anonymous": false,
+        "teammembers": []
       },
       "links": {
         "web": "https://status.im",
-        "github": "https://github.com/status-im/",
-        "docs": "https://status.app/specs",
         "blog": "https://status.app/blog",
-        "twitter": "https://twitter.com/ethstatus"
+        "github": "https://github.com/status-im/",
+        "forum": "https://discuss.status.app/",
+        "docs": "https://status.app/help/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/ethstatus",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "messaging"
@@ -10016,7 +10079,54 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/status/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false,
+      "assets_used": [
+        "eth"
+      ],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "",
+        "encryption": "Waku",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "Opt-in"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "Opt-in",
+        "sign_in_type_requirments": [
+          "wallet",
+          "seed"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": []
     },
     {
       "id": "zus",
