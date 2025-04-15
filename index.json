@@ -1177,7 +1177,14 @@
       "project_phase": "mainnet",
       "compliance": "",
       "social_trust": "",
-      "technical_spof": ""
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mutiny/logo.png"
+        }
+      ]
     },
     {
       "id": "arcana-s-private-nft",
