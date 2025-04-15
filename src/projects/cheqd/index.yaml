@@ -51,7 +51,7 @@ tokens:
     name: CHEQ
     contract_address: ""
     token_link: https://explorer.cheqd.io/
-product_launch_day: 2021-04-30T23:00:00.000Z
+product_launch_day: 2021-05-05T22:00:00.000Z
 project_phase: mainnet
 project_status:
   live_status: true
