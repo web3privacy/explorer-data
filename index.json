@@ -16323,7 +16323,8 @@
       ],
       "description": "The world’s lightest blockchain, powered by participants. Using zero knowledge technology",
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": []
       },
       "links": {
         "web": "https://minaprotocol.com",
@@ -16367,7 +16368,7 @@
       "usecases": [
         "infrastructure"
       ],
-      "third_party_dependency": "none",
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
@@ -16379,7 +16380,12 @@
         "other"
       ],
       "sunset": false,
-      "assets_used": []
+      "assets_used": [],
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": []
     },
     {
       "id": "haveno-reto",
