@@ -5537,7 +5537,14 @@
       "project_phase": "",
       "compliance": "",
       "social_trust": "",
-      "technical_spof": ""
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/human-passport/logo.png"
+        }
+      ]
     },
     {
       "id": "bermuda",
@@ -28720,7 +28727,14 @@
       "project_phase": "",
       "compliance": "",
       "social_trust": "",
-      "technical_spof": ""
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cashu/logo.png"
+        }
+      ]
     },
     {
       "id": "sphereon",
