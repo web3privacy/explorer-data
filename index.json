@@ -27654,6 +27654,124 @@
       ]
     },
     {
+      "id": "horizon-messier",
+      "name": "horizon messier",
+      "categories": [
+        "defi"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "name": "M87",
+          "symbol": "$M87",
+          "network": "ethereum",
+          "contract_address": "0x80122c6a83C8202Ea365233363d3f4837D13e888"
+        }
+      ],
+      "description": "Innovating DeFi with a complete utility ecosystem of AI-powered solutions and decentralized services.",
+      "project_type": "",
+      "links": {
+        "web": "https://messier.app/main#horizon",
+        "blog": "https://medium.com/@MessierM87",
+        "github": "https://github.com/MessierM87",
+        "forum": "",
+        "docs": "https://medium.com/@MessierM87",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/MessierM87",
+        "discord": "https://discord.com/invite/2AmWzNrQAR",
+        "telegram": "https://t.me/MHorizonBot",
+        "lens": "",
+        "farcaster": ""
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": ""
+      },
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "",
+            "role": ""
+          },
+          {
+            "name": "",
+            "role": ""
+          },
+          {
+            "name": "",
+            "role": ""
+          }
+        ]
+      },
+      "storage": {},
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "third_party_dependency": "",
+      "audits": [
+        {
+          "name": "hashex",
+          "link": "https://hashex.org/audits/messier/",
+          "time": "08-05-2023"
+        },
+        {
+          "name": "solidproof",
+          "link": "https://app.solidproof.io/projects/openhatch",
+          "time": "11-18-2022"
+        },
+        {
+          "name": "beosin",
+          "link": "https://beosin.com/audits/Horizon_202308111401.pdf",
+          "time": "08-11-2023"
+        },
+        {
+          "name": "Certik",
+          "link": "https://skynet.certik.com/projects/messier",
+          "time": "05-18-2023"
+        },
+        {
+          "name": "beosin",
+          "link": "https://beosin.com/audits/Virgo_202401081447.pdf",
+          "time": "01-08-2024"
+        }
+      ],
+      "history": [],
+      "client_diversability": [],
+      "default_privacy": true,
+      "funding": [],
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": ""
+      },
+      "usecases": [
+        "defi"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "project_phase": "",
+      "compliance": "",
+      "social_trust": "",
+      "technical_spof": ""
+    },
+    {
       "id": "raze-network",
       "name": "Raze Network",
       "categories": [
