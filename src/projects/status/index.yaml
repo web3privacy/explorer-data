@@ -1,18 +1,70 @@
 id: status
 name: Status
 categories:
-- social-and-communications
-description: Status is a secure messaging app, crypto wallet, and Web3 browser built
-  with state of the art technology
+  - social-and-communications
+  - applications
+description: Status is a secure messaging app and crypto wallet built with state
+  of the art technology
 team:
   anonymous: false
+  teammembers: []
 links:
   web: https://status.im
-  github: https://github.com/status-im/
-  docs: https://status.app/specs
   blog: https://status.app/blog
+  github: https://github.com/status-im/
+  forum: https://discuss.status.app/
+  docs: https://status.app/help/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/ethstatus
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/status/logo.png
+ecosystem:
+  - ethereum
+sunset: false
+assets_used:
+  - eth
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: ""
+  encryption: Waku
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: Opt-in
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Opt-in
+  sign_in_type_requirments:
+    - wallet
+    - seed
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
