@@ -20924,7 +20924,8 @@
       "id": "shutter-network",
       "name": "Shutter Network",
       "categories": [
-        "infrastructure"
+        "infrastructure",
+        "defi"
       ],
       "usecases": [
         "defi",
@@ -20932,11 +20933,17 @@
         "eth-layer-2",
         "dao",
         "node",
-        "other"
+        "other",
+        "dapps",
+        "research-and-development",
+        "tee",
+        "mpc",
+        "fhe"
       ],
       "ecosystem": [
         "ethereum",
-        "other"
+        "other",
+        "multichain"
       ],
       "description": "Shutter is a threshold encryption protocol with a wide variety of applications, including: malicious MEV prevention, censorship resistance, voting integrity, and gaming fairness.",
       "sunset": false,
@@ -20957,13 +20964,13 @@
         "blog": "https://blog.shutter.network/",
         "github": "https://github.com/shutter-network/",
         "forum": "https://shutternetwork.discourse.group/",
-        "docs": "",
+        "docs": "https://docs.shutter.network",
         "whitepaper": "https://blog.shutter.network/shutter-in-depth-explanation-of-how-we-prevent-frontrunning/",
         "block_explorer": "https://explorer.shutter.network/",
-        "governance": "",
+        "governance": "https://shutternetwork.discourse.group/",
         "twitter": "https://x.com/ShutterNetwork",
         "discord": "https://discord.gg/Fx7m5cUcua",
-        "telegram": "",
+        "telegram": "https://t.me/shutter_network",
         "lens": "",
         "farcaster": "https://warpcast.com/shutter"
       },
@@ -20980,10 +20987,10 @@
           "enabled": true
         },
         "asset_custody_type": "non-custody",
-        "encryption": "Threshold Encryption, Distributed Key Generation. Encrypted Mempool"
+        "encryption": "Threshold Encryption, Distributed Key Generation. Encrypted Mempool, Commit-Reveal"
       },
       "storage": {
-        "decentralized": true
+        "decentralized": false
       },
       "privacy_policy": {
         "defined": true,
@@ -21024,7 +21031,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/shutter-network/logo.png"
         }
-      ]
+      ],
+      "product_launch_day": "2021-04-20T21:00:00.000Z",
+      "nickname": "https://x.com/Smokyish"
     },
     {
       "id": "maci",
