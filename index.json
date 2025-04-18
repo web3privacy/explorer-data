@@ -16361,9 +16361,9 @@
       ],
       "project_status": {
         "live_status": true,
-        "version": "Mainnet",
-        "testnet": true,
-        "mainnet": true
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
       },
       "usecases": [
         "infrastructure"
@@ -16385,7 +16385,31 @@
       "social_trust": "",
       "technical_spof": "",
       "funding": [],
-      "history": []
+      "history": [],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "seed"
+        ]
+      },
+      "default_privacy": true
     },
     {
       "id": "haveno-reto",
