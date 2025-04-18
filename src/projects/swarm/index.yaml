@@ -45,7 +45,7 @@ logos:
     url: https://explorer-data.web3privacy.info/assets/projects/swarm/logo.png
 ecosystem:
   - ethereum
-product_launch_day: 2014-06-08T22:00:00.000Z
+product_launch_day: 2014-05-31T22:00:00.000Z
 sunset: false
 assets_used: []
 project_phase: mainnet
@@ -59,14 +59,15 @@ blockchain_features:
 storage:
   decentralized: true
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://www.ethswarm.org/privacy
   data_usage: ""
 compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
-default_privacy: false
+  sign_in_type_requirments: []
+default_privacy: true
 audits: []
 social_trust: Swarm Foundation
 technical_spof: ""
