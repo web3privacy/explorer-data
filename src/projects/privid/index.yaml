@@ -1,0 +1,75 @@
+name: PrivID
+categories:
+  - infrastructure
+  - applications
+  - social-and-communications
+usecases:
+  - infrastructure
+ecosystem:
+  - ethereum
+description: >-
+  PrivID is an open-source protocol for cryptographically verified identity,
+  starting with integration into the AT Protocol and Bluesky. 
+
+
+  Built with privacy at its core, PrivID allows users to confirm that an account
+  is backed by a real human identity without exposing personal data, using
+  zero-knowledge proofs via Holonym. 
+
+
+  PrivID focuses on cryptographic trust, ensuring identity confidence without
+  centralized data collection or invasive tracking systems.
+product_launch_day: 2025-07-01T04:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://prividapp.com/
+  blog: ""
+  github: https://github.com/elephant-dog-org
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: "@prividapp"
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Zero knowledge
+storage: {}
+privacy_policy:
+  defined: true
+  link: TBD
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Rodolfo Cova
+      link: https://www.linkedin.com/in/rodolfo-cova-607255204/
+    - name: "David Liendo       "
+      link: https://github.com/DavLiendoProgramming
+funding: []
+history: []
+id: privid
