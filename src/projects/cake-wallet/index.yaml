@@ -2,24 +2,43 @@ id: cake-wallet
 name: Cake Wallet
 categories:
   - applications
-description: Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, ETH, SOL, WOW, and exchange other currencies. All your favorite crypto in one wallet, with the best privacy for every chain.
+description: >-
+  Cake Wallet was founded in 2018 by Vikrant Sharma, our founder and CEO, with a
+  mission
+
+  to expand access to financial privacy for everyone. We started as the first
+  Monero wallet
+
+  for iOS, embracing open-source development and self-custody. Since then, we've
+
+  continued to push the boundaries of what's possible—pioneering the integration
+  of
+
+  Bitcoin Silent Payments, Monero background sync, hardware wallets, and
+  becoming
+
+  the first mobile app to Feature Litecoin's MWEB privacy network, among many
+  other
+
+  cutting-edge privacy and security tools.
 ecosystem:
   - monero
   - bitcoin
   - ethereum
   - solana
+  - multichain
 links:
   web: https://cakewallet.com
   blog: https://blog.cakewallet.com
   github: https://github.com/cake-tech/cake_wallet
   forum: https://forum.cakewallet.com
-  docs: https://guides.cakewallet.com/
+  docs: https://docs.cakewallet.com/
   whitepaper: ""
   block_explorer: ""
   governance: ""
   twitter: https://x.com/cakewallet
-  discord: ""
-  telegram: ""
+  discord: https://discord.gg/Srr3me5A
+  telegram: https://t.me/cakewalletannouncements
   lens: ""
   farcaster: ""
 project_status:
@@ -36,6 +55,8 @@ team:
       link: https://x.com/vikrantnyc
     - name: Tuxsudo
       link: https://x.com/tuxpizza
+    - name: Henry Fisher
+      link: https://henryfisher.tech/
 usecases:
   - wallets
 have_token: false
@@ -52,6 +73,8 @@ assets_used:
   - dai
   - sol
   - xmr
+  - usdc
+  - other
 tokens: []
 project_phase: mainnet
 blockchain_features:
@@ -59,12 +82,12 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: ""
+  encryption: Bitcoin Silent Payments, Payjoin v2, Litecoin MWEB
   p2p: true
 storage: {}
 privacy_policy:
   defined: true
-  link: https://raw.githubusercontent.com/cake-tech/cake_wallet/main/PRIVACY.md
+  link: https://cakewallet.com/privacy/
   data_usage: ""
 compliance: ""
 tracebility:
