@@ -1,0 +1,81 @@
+name: Sarcophagus
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - dapps
+  - storage
+ecosystem:
+  - ethereum
+  - other
+description: Autonomous and decentralized dead man's switch built on Ethereum and Arweave.
+product_launch_day: 2021-05-06T00:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - other
+have_token: true
+tokens:
+  - symbol: SARCO
+    name: Sarcophagus BASE
+    contract_address: "0xf3907bc0fff5ff5acf1e3dd7987005779c7bf57d"
+    token_link: https://basescan.org/token/0xf3907bc0fff5ff5acf1e3dd7987005779c7bf57d
+  - symbol: SARCO
+    name: Sarcophagus ETH
+    contract_address: "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a"
+    token_link: https://etherscan.io/token/0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a
+links:
+  web: https://sarcophagus.io/
+  blog: ""
+  github: https://github.com/sarcophagus-org
+  forum: ""
+  docs: https://sarcophagus.notion.site/Sarcophagus-Documentation-9d9044719669401a8738a1b9059333cf
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/sarcophagusio
+  discord: https://discord.gg/5XkvsEmMab
+  telegram: https://t.me/sarcophagusio
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: None
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: DAO
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding:
+  - name: Placeholder, Green Field One, Inflection, Lattice, Blockchain.com, 4SV,
+      Blockchange, Decent Labs, Coral Defi, 3SE Holdings, Compound, Arweave,
+      Nxgen, Horizons, Infinite, LD Capital, Open Web Collective, Lo
+      Enterprises, Andres Solanot, Clayton Menzel, Jason Stone, Kain Warwick,
+      Luis Cuende
+    link: https://sarcophagus.io/
+history: []
+id: sarcophagus
