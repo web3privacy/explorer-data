@@ -9,33 +9,32 @@ team:
   anonymous: false
   teammembers:
     - name: Gerlof van Ek
-      link: 'https://x.com/gerlof'
+      link: https://x.com/gerlof
     - name: Henk Swardt
-      link: 'https://www.linkedin.com/in/hswardt/'
+      link: https://www.linkedin.com/in/hswardt/
 links:
-  web: 'https://particl.io/marketplace'
-  github: 'https://github.com/particl'
-  whitepaper: 'https://github.com/particl/whitepaper'
-  docs: 'https://particl.wiki/'
-  block_explorer: 'https://explorer.particl.io/'
-  blog: 'https://particl.news/'
-  twitter: 'https://x.com/particlproject'
-  telegram: 'https://t.me/particltg'
-  discord: 'https://discord.me/particl'
+  web: https://particl.io/marketplace
+  github: https://github.com/particl
+  whitepaper: https://github.com/particl/whitepaper
+  docs: https://particl.wiki/
+  block_explorer: https://explorer.particl.io/
+  blog: https://particl.news/
+  twitter: https://x.com/particlproject
+  telegram: https://t.me/particltg
+  discord: https://discord.me/particl
 sunset: false
 tokens:
   - name: Particl Part
     symbol: Part
     network: Particl Blockchain
-    token_link: 'https://explorer.particl.io/'
+    token_link: https://explorer.particl.io/
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
   p2p: true
 privacy_policy:
   defined: true
-  link: >-
-    https://academy.particl.io/en/latest/particl-blockchain/blockchain_privacy.html
+  link: https://academy.particl.io/en/latest/particl-blockchain/blockchain_privacy.html
 default_privacy: true
 tracebility:
   kyc: false
@@ -43,3 +42,10 @@ third_party_dependency: none
 usecases:
   - currency
 have_token: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/particl/logo.png
+assets_used:
+  - PArt
+  - part
