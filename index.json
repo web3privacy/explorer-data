@@ -9248,7 +9248,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/grin/logo.png"
         }
-      ]
+      ],
+      "product_launch_day": "2019-02-15T08:00:00.000Z",
+      "sunset": false
     },
     {
       "id": "mix-btc",
