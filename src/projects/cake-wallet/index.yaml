@@ -38,6 +38,8 @@ team:
       link: https://x.com/vikrantnyc
     - name: Tuxsudo
       link: https://x.com/tuxpizza
+    - name: Henry Fisher
+      link: https://henryfisher.tech/
 usecases:
   - wallets
 have_token: false
@@ -66,7 +68,7 @@ blockchain_features:
 storage: {}
 privacy_policy:
   defined: true
-  link: https://raw.githubusercontent.com/cake-tech/cake_wallet/main/PRIVACY.md
+  link: https://cakewallet.com/privacy/
   data_usage: ""
 compliance: ""
 tracebility:
