@@ -21273,13 +21273,22 @@
       "id": "status",
       "name": "Status",
       "categories": [
-        "social-and-communications",
-        "applications"
+        "applications",
+        "social-and-communications"
       ],
       "description": "Status is a secure messaging app and crypto wallet built with state of the art technology",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Carl Bennetts",
+            "link": ""
+          },
+          {
+            "name": "Jarrad Hope",
+            "link": "x.com/jarradhope_"
+          }
+        ]
       },
       "links": {
         "web": "https://status.im",
@@ -21300,7 +21309,7 @@
         "messaging"
       ],
       "have_token": false,
-      "third_party_dependency": "none",
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
@@ -21328,7 +21337,7 @@
         "upgradability": {
           "enabled": true
         },
-        "asset_custody_type": "",
+        "asset_custody_type": "non-custody",
         "encryption": "Waku",
         "p2p": true
       },
@@ -21336,8 +21345,8 @@
         "decentralized": true
       },
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://github.com/status-im/status-software-legal-documents/blob/144f64af0d13a97f793120f589b9d9297653a2a8/privacy-policy.md",
         "data_usage": "Opt-in"
       },
       "compliance": "",
@@ -21353,7 +21362,12 @@
       "audits": [],
       "social_trust": "",
       "technical_spof": "",
-      "funding": [],
+      "funding": [
+        {
+          "name": "ICO",
+          "link": ""
+        }
+      ],
       "history": []
     },
     {
