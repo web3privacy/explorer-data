@@ -17,7 +17,7 @@ links:
   block_explorer: https://minascan.io/
   governance: ""
   twitter: https://twitter.com/minaprotocol
-  discord: https://minascan.io/
+  discord: https://discord.com/invite/minaprotocol
   telegram: ""
   lens: ""
   farcaster: ""
@@ -48,7 +48,7 @@ ecosystem:
   - other
 sunset: false
 assets_used:
-  - mina
+  - other
 product_launch_day: 2021-03-01T23:00:00.000Z
 project_phase: mainnet
 blockchain_features:
