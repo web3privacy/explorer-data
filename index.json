@@ -20441,7 +20441,7 @@
       "ecosystem": [
         "other"
       ],
-      "description": "The only marketplace for private and unrestricted e-commerce",
+      "description": "Particl is a privacy-first, pro-liberty dApp platform that completely eliminates the need for middlemen. By harnessing the power of blockchain, peer-to-peer, and privacy technologies, you can now enjoy the benefits of decentralized and free alternatives to apps that are essential to our daily lives. \n\nPARTICL MARKETPLACE\nOnline Marketplace.\nBuy and sell anything online in complete privacy, without restrictions using Particl Marketplace - a decentralized, two-sided online marketplace with no intermediaries.",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -20452,45 +20452,71 @@
           {
             "name": "Henk Swardt",
             "link": "https://www.linkedin.com/in/hswardt/"
+          },
+          {
+            "name": "Crypt0Guard",
+            "link": "https://x.com/crypt0guard"
+          },
+          {
+            "name": "tecnovert",
+            "link": "https://github.com/tecnovert"
+          },
+          {
+            "name": "Kewde",
+            "link": "https://github.com/kewde"
           }
         ]
       },
       "links": {
         "web": "https://particl.io/marketplace",
-        "github": "https://github.com/particl",
-        "whitepaper": "https://github.com/particl/whitepaper",
-        "docs": "https://particl.wiki/",
-        "block_explorer": "https://explorer.particl.io/",
         "blog": "https://particl.news/",
+        "github": "https://github.com/particl",
+        "forum": "",
+        "docs": "https://particl.wiki/",
+        "whitepaper": "https://github.com/particl/whitepaper",
+        "block_explorer": "https://explorer.particl.io/",
+        "governance": "",
         "twitter": "https://x.com/particlproject",
+        "discord": "https://discord.me/particl",
         "telegram": "https://t.me/particltg",
-        "discord": "https://discord.me/particl"
+        "lens": "",
+        "farcaster": ""
       },
       "sunset": false,
       "tokens": [
         {
-          "name": "Particl Part",
-          "symbol": "Part",
-          "network": "Particl Blockchain",
+          "symbol": "PART",
+          "name": "Particl",
+          "contract_address": "",
           "token_link": "https://explorer.particl.io/"
         }
       ],
       "blockchain_features": {
         "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
         "asset_custody_type": "non-custody",
+        "encryption": "",
         "p2p": true
       },
       "privacy_policy": {
         "defined": true,
-        "link": "https://academy.particl.io/en/latest/particl-blockchain/blockchain_privacy.html"
+        "link": "https://academy.particl.io/en/latest/particl-blockchain/blockchain_privacy.html",
+        "data_usage": "NO DATA"
       },
       "default_privacy": true,
       "tracebility": {
-        "kyc": false
+        "kyc": false,
+        "tracked_data": "NONE",
+        "sign_in_type_requirments": []
       },
       "third_party_dependency": "none",
       "usecases": [
-        "currency"
+        "currency",
+        "dao",
+        "dapps",
+        "other"
       ],
       "have_token": false,
       "logos": [
@@ -20499,7 +20525,22 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/particl/logo.png"
         }
-      ]
+      ],
+      "assets_used": [
+        "other"
+      ],
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "storage": {},
+      "compliance": "",
+      "audits": [],
+      "social_trust": "DAO",
+      "technical_spof": "NONE",
+      "funding": [],
+      "history": []
     },
     {
       "id": "ritual",
