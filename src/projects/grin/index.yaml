@@ -6,18 +6,24 @@ description: Electronic transactions for all. Without censorship or restrictions
 ecosystem:
   - other
 links:
-  web: 'https://grin.mw'
-  github: 'https://github.com/mimblewimble/grin'
-  docs: 'https://docs.grin.mw/'
-  forum: 'https://forum.grin.mw/'
-  whitepaper: 'https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt'
-  blog: 'https://grin.mw/blog/'
-  twitter: 'https://x.com/grin_privacy'
-  discord: 'https://discord.com/invite/5p4vCQY9km'
-  telegram: 'https://t.me/grinprivacy'
+  web: https://grin.mw
+  github: https://github.com/mimblewimble/grin
+  docs: https://docs.grin.mw/
+  forum: https://forum.grin.mw/
+  whitepaper: https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt
+  blog: https://grin.mw/blog/
+  twitter: https://x.com/grin_privacy
+  discord: https://discord.com/invite/5p4vCQY9km
+  telegram: https://t.me/grinprivacy
 team:
   anonymous: true
 usecases:
   - currency
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.png
+product_launch_day: 2019-02-15T08:00:00.000Z
+sunset: false
