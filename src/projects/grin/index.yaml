@@ -1,5 +1,5 @@
 id: grin
-name: GRin
+name: Grin
 categories:
   - defi
 description: Electronic transactions for all. Without censorship or restrictions
@@ -17,6 +17,7 @@ links:
   telegram: https://t.me/grinprivacy
 team:
   anonymous: true
+  teammembers: []
 usecases:
   - currency
 have_token: false
@@ -25,5 +26,34 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.png
-product_launch_day: 2019-02-15T08:00:00.000Z
+product_launch_day: 2019-02-05T08:00:00.000Z
 sunset: false
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ECC
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: "Grin Community Council "
+technical_spof: None
+funding: []
+history: []
