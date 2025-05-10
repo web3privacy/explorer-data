@@ -1,29 +1,65 @@
 id: grin
-name: GRin
+name: Grin
 categories:
-  - defi
+  - infrastructure
 description: Electronic transactions for all. Without censorship or restrictions
 ecosystem:
   - other
 links:
   web: https://grin.mw
-  github: https://github.com/mimblewimble/grin
-  docs: https://docs.grin.mw/
-  forum: https://forum.grin.mw/
-  whitepaper: https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt
   blog: https://grin.mw/blog/
+  github: https://github.com/mimblewimble/grin
+  forum: https://forum.grin.mw/
+  docs: https://docs.grin.mw/
+  whitepaper: https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/grin_privacy
   discord: https://discord.com/invite/5p4vCQY9km
   telegram: https://t.me/grinprivacy
+  lens: ""
+  farcaster: ""
 team:
   anonymous: true
+  teammembers: []
 usecases:
   - currency
 have_token: false
-third_party_dependency: none
+third_party_dependency: No
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.png
-product_launch_day: 2019-02-15T08:00:00.000Z
+product_launch_day: 2019-02-06T00:00:00.000Z
 sunset: false
+assets_used: []
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
