@@ -1,0 +1,65 @@
+name: feather
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - monero
+description: " Feather is a free, open-source Monero wallet for Linux, Tails,
+  Windows and macOS. "
+sunset: false
+assets_used:
+  - xmr
+have_token: false
+tokens: []
+links:
+  web: https://featherwallet.org/
+  blog: https://featherwallet.org/changelog/
+  github: https://github.com/feather-wallet/feather
+  forum: ""
+  docs: https://docs.featherwallet.org/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments:
+    - seed
+default_privacy: true
+audits: []
+third_party_dependency: none
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers:
+    - name: tobtoht
+      link: https://github.com/tobtoht
+funding: []
+history: []
+id: feather
