@@ -1,5 +1,5 @@
-id: Feather
-name: Feather
+id: feather
+name: feather
 categories:
   - applications
 ecosystem:
@@ -36,15 +36,14 @@ blockchain_features:
     enabled: false
   asset_custody_type: non-custody
   encryption: ""
+  p2p: true
 privacy_policy:
   defined: false
   link: ""
   data_usage: ""
 team:
   anonymous: true
-  teammembers:
-    - name: tobtoht
-      link: https://github.com/tobtoht
+  teammembers: []
 storage: {}
 tracebility:
   kyc: false
@@ -64,8 +63,7 @@ project_status:
 usecases:
   - wallets
 sunset: false
-assets_used:
-  - xmr
+assets_used: []
 project_phase: mainnet
 compliance: ""
 social_trust: ""
