@@ -1,0 +1,78 @@
+id: feather
+name: feather
+categories:
+  - applications
+ecosystem:
+  - monero
+have_token: false
+tokens:
+  - name: ""
+    symbol: ""
+    network: ""
+    contract_address: ""
+description: Feather is a free, open-source Monero wallet for Linux, Tails,
+  Windows and macOS.
+project_type: ""
+technology:
+  type: ""
+  features: []
+links:
+  web: https://featherwallet.org/
+  blog: ""
+  github: https://github.com/feather-wallet/feather
+  forum: ""
+  docs: https://docs.featherwallet.org/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: None
+team:
+  anonymous: true
+  teammembers:
+    - name: tobtoht
+      link: https://github.com/tobtoht
+storage: {}
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments:
+    - wallet
+third_party_dependency: ""
+audits: []
+history: []
+client_diversability: []
+default_privacy: true
+funding: []
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+usecases:
+  - wallets
+sunset: false
+assets_used:
+  - xmr
+project_phase: mainnet
+compliance: ""
+social_trust: ""
+technical_spof: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/feather/logo.png
