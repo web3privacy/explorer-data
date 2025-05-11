@@ -30,7 +30,7 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.png
-product_launch_day: 2019-02-06T00:00:00.000Z
+product_launch_day: 2019-02-15T00:00:00.000Z
 sunset: false
 assets_used: []
 tokens: []
@@ -61,5 +61,7 @@ default_privacy: false
 audits: []
 social_trust: ""
 technical_spof: ""
-funding: []
+funding:
+  - name: Anonymous
+    link: https://grin.mw/friends.html
 history: []
