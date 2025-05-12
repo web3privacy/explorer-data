@@ -2,7 +2,14 @@ id: grin
 name: Grin
 categories:
   - infrastructure
-description: Electronic transactions for all. Without censorship or restrictions
+description: >-
+  Grin is the minimal implementation of the MimbleWimble protocol.
+
+
+  MimbleWimble is a simple, privacy-focused, scalable digital cash blockchain
+  architecture. It does not use addresses, and transactions are fully
+  confidential. MimbleWimble leverages cryptography to allow past transaction
+  data to be removed with no compromise on security. 
 ecosystem:
   - other
 links:
@@ -25,12 +32,15 @@ team:
 usecases:
   - currency
 have_token: false
-third_party_dependency: No
+third_party_dependency: ""
 logos:
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.svg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.png
-product_launch_day: 2019-02-15T00:00:00.000Z
+product_launch_day: 2019-02-06T00:00:00.000Z
 sunset: false
 assets_used: []
 tokens: []
@@ -51,13 +61,13 @@ storage: {}
 privacy_policy:
   defined: false
   link: ""
-  data_usage: ""
+  data_usage: none
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: none
   sign_in_type_requirments: []
-default_privacy: false
+default_privacy: true
 audits: []
 social_trust: ""
 technical_spof: ""
