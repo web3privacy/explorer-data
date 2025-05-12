@@ -9303,7 +9303,7 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "Electronic transactions for all. Without censorship or restrictions",
+      "description": "Grin is the minimal implementation of the MimbleWimble protocol.\n\nMimbleWimble is a simple, privacy-focused, scalable digital cash blockchain architecture. It does not use addresses, and transactions are fully confidential. MimbleWimble leverages cryptography to allow past transaction data to be removed with no compromise on security. ",
       "ecosystem": [
         "other"
       ],
@@ -9330,7 +9330,7 @@
         "currency"
       ],
       "have_token": false,
-      "third_party_dependency": "No",
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.svg",
@@ -9343,7 +9343,7 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/grin/logo.png"
         }
       ],
-      "product_launch_day": "2019-02-15T00:00:00.000Z",
+      "product_launch_day": "2019-01-15T00:00:00.000Z",
       "sunset": false,
       "assets_used": [],
       "tokens": [],
@@ -9367,15 +9367,15 @@
       "privacy_policy": {
         "defined": false,
         "link": "",
-        "data_usage": ""
+        "data_usage": "none"
       },
       "compliance": "",
       "tracebility": {
         "kyc": false,
-        "tracked_data": "",
+        "tracked_data": "none",
         "sign_in_type_requirments": []
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
       "social_trust": "",
       "technical_spof": "",
@@ -26091,6 +26091,104 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nomos/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "Feather",
+      "name": "Feather",
+      "categories": [
+        "applications"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "name": "",
+          "symbol": "",
+          "network": "",
+          "contract_address": ""
+        }
+      ],
+      "description": "Feather is a free, open-source Monero wallet for Linux, Tails, Windows and macOS.",
+      "project_type": "",
+      "technology": {
+        "type": "",
+        "features": []
+      },
+      "links": {
+        "web": "https://featherwallet.org/",
+        "blog": "",
+        "github": "https://github.com/feather-wallet/feather",
+        "forum": "",
+        "docs": "https://docs.featherwallet.org/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "tobtoht",
+            "link": "https://github.com/tobtoht"
+          }
+        ]
+      },
+      "storage": {},
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "third_party_dependency": "",
+      "audits": [],
+      "history": [],
+      "client_diversability": [],
+      "default_privacy": true,
+      "funding": [],
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "usecases": [
+        "wallets"
+      ],
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "project_phase": "mainnet",
+      "compliance": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/Feather/logo.png"
         }
       ]
     },
