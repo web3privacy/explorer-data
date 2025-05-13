@@ -26,9 +26,9 @@ links:
   farcaster: ""
 project_status:
   live_status: true
-  mainnet: false
+  mainnet: true
   testnet: false
-  version: beta
+  version: mainnet
 usecases:
   - infrastructure
 have_token: false
@@ -42,12 +42,12 @@ ecosystem:
 sunset: false
 assets_used: []
 tokens: []
-project_phase: beta
+project_phase: mainnet
 blockchain_features:
   opensource: true
   upgradability:
-    enabled: false
-  asset_custody_type: ""
+    enabled: true
+  asset_custody_type: non-custody
   encryption: ""
   p2p: true
 storage:
