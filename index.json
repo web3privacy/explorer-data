@@ -30240,9 +30240,9 @@
       },
       "project_status": {
         "live_status": true,
-        "version": "Mainnet",
-        "testnet": true,
-        "mainnet": true
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
       },
       "have_token": true,
       "token_link": "https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
@@ -30268,17 +30268,17 @@
       "ecosystem": [
         "ethereum"
       ],
-      "product_launch_day": "2014-05-31T22:00:00.000Z",
+      "product_launch_day": "2014-05-05T23:00:00.000Z",
       "sunset": false,
       "assets_used": [],
       "project_phase": "mainnet",
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": true
+          "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "Keccak256",
+        "encryption": "Forwarding Kademlia, Keccak256, libp2p",
         "p2p": true
       },
       "storage": {
