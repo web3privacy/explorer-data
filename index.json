@@ -24131,9 +24131,9 @@
       },
       "project_status": {
         "live_status": true,
-        "mainnet": false,
+        "mainnet": true,
         "testnet": false,
-        "version": "beta"
+        "version": "mainnet"
       },
       "usecases": [
         "infrastructure"
@@ -24153,13 +24153,13 @@
       "sunset": false,
       "assets_used": [],
       "tokens": [],
-      "project_phase": "beta",
+      "project_phase": "mainnet",
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": false
+          "enabled": true
         },
-        "asset_custody_type": "",
+        "asset_custody_type": "non-custody",
         "encryption": "",
         "p2p": true
       },
