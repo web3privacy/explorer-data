@@ -6971,6 +6971,112 @@
       ]
     },
     {
+      "id": "rehide",
+      "name": "Rehide",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "messaging",
+        "storage",
+        "dapps",
+        "nft-community",
+        "data-management"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain"
+      ],
+      "description": "Rehide is a web3-powered, self-custodial password manager that combines zero-knowledge encryption with innovative tools for managing and sharing sensitive data.\n\nFrom securing passwords to monetizing content, Rehide is transforming how users control, protect and profit from their data.",
+      "product_launch_day": "2023-10-04T13:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "usdc",
+        "usdt"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://rehide.io/",
+        "blog": "https://blog.rehide.io/",
+        "github": "https://github.com/RehideApp/",
+        "forum": "https://www.reddit.com/r/rehide/",
+        "docs": "https://docs.rehide.io/user-guide/encrypt",
+        "whitepaper": "https://docs.rehide.io/",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/rehideIO",
+        "discord": "https://discord.com/invite/XaXnhau65s",
+        "telegram": "https://t.me/rehideofficial",
+        "lens": "",
+        "farcaster": "https://warpcast.com/rehide"
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": " AES-256-GCM, Argon2id,  PBKDF2",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://docs.rehide.io/resources/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "F.I.G.",
+          "url": "https://github.com/RehideApp/rehide-core/blob/main/audits/20230623-FigSec-Rehide.pdf",
+          "time": "2023-06-20T14:00:00.000Z"
+        }
+      ],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "Oasis Foundation Approves Rehide Grant for Secure Web3 Data Management",
+          "description": "The Oasis Foundation is thrilled to announce that Rehide, a non-custodial, web3 password manager offering zero-knowledge encryption, has been approved as a grant recipient to expand its decentralized and non-custodial password management services. In late January, the Oasis Foundation completed a $20,000 grant for Rehide, and the team is already beginning work on their objectives. With this collaboration comes access for all of Web3 to Rehide’s revolutionary password manager integrated with Oasis Sapphire for encrypted notes and password storage. ",
+          "link": "https://oasis.net/blog/rehide-grant-security-web3-data-passwords-management",
+          "time": "2024-02-22T13:00:00.000Z"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/rehide/logo.png"
+        }
+      ]
+    },
+    {
       "id": "omnia",
       "name": "Omnia",
       "categories": [
