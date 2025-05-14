@@ -46,10 +46,8 @@ assets_used:
   - usdt
   - eth
   - usdc
-  - arbitrum
-  - aleph zero
-  - Aleph Zero
-  - USDC
+  - aleph
+  - other
 tokens: []
 links:
   web: https://common.fi
