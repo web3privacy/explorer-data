@@ -66,7 +66,27 @@ default_privacy: true
 audits: []
 social_trust: ""
 technical_spof: ""
-funding: []
+funding:
+  - name: Khosla Ventures
+    link: https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million
+  - name: NEAR Foundation
+    link: https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million
+  - name: Lyrik Ventures
+    link: https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million
+  - name: Eniac VC
+    link: https://calimero.network/
+  - name: "GSR "
+    link: https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million
+  - name: Daedallus Angels
+    link: https://calimero.network/
+  - name: Hypersphere Ventures
+    link: https://calimero.network/
+  - name: FJ Labs
+    link: https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million
+  - name: Metaweb Ventures
+    link: https://calimero.network/
+  - name: Warburg Serres
+    link: https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million
 history:
   - title: SDK Launch
     description: The Calimero SDK empowers you to create Self-Sovereign Applications
