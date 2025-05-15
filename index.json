@@ -30786,9 +30786,9 @@
       "id": "swarm",
       "name": "Swarm",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "A decentralized data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dApps",
+      "description": "Go fullstack web3: Swarm completes the vision of consensual computation, decentralised infrastructure, and private messaging, powering open, serverless, and permissionless dapps.",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -30802,10 +30802,10 @@
         "web": "https://www.ethswarm.org",
         "blog": "https://blog.ethswarm.org/",
         "github": "https://github.com/ethersphere",
-        "forum": "https://warpcast.com/ethswarm",
+        "forum": "https://discord.ethswarm.org/",
         "docs": "https://docs.ethswarm.org/",
         "whitepaper": "https://www.ethswarm.org/swarm-whitepaper.pdf",
-        "block_explorer": "https://swarmscan.io/",
+        "block_explorer": "https://gateway.ethswarm.org/",
         "governance": "https://snapshot.org/#/swarmfoundation.eth",
         "twitter": "https://x.com/ethswarm",
         "discord": "https://discord.com/invite/hyCr9BMX9U",
@@ -30823,14 +30823,22 @@
       "token_link": "https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
       "tokens": [
         {
-          "name": "BZZToken",
           "symbol": "BZZ",
-          "network": "Ethereum",
-          "contract_address": "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb"
+          "name": "BZZ",
+          "contract_address": "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb",
+          "token_link": "https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb"
+        },
+        {
+          "symbol": "xBZZ",
+          "name": "BZZ",
+          "contract_address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+          "token_link": "https://gnosisscan.io/address/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da"
         }
       ],
       "usecases": [
-        "storage"
+        "storage",
+        "messaging",
+        "infrastructure"
       ],
       "third_party_dependency": "",
       "logos": [
@@ -30841,11 +30849,15 @@
         }
       ],
       "ecosystem": [
-        "ethereum"
+        "ethereum",
+        "other"
       ],
-      "product_launch_day": "2014-05-05T23:00:00.000Z",
+      "product_launch_day": "2014-05-31T22:00:00.000Z",
       "sunset": false,
-      "assets_used": [],
+      "assets_used": [
+        "eth",
+        "other"
+      ],
       "project_phase": "mainnet",
       "blockchain_features": {
         "opensource": true,
@@ -30870,8 +30882,24 @@
         "tracked_data": "",
         "sign_in_type_requirments": []
       },
-      "default_privacy": true,
-      "audits": [],
+      "default_privacy": false,
+      "audits": [
+        {
+          "name": "Swarm Token - Quantstamp",
+          "url": "https://github.com/tonytony32/Swarm/blob/ceb8bd6776f49a4241da4f90976d7d0846b0b372/Audits/Swarm%20Token%20-%20Quantstamp.pdf",
+          "time": "2020-09-21T22:00:00.000Z"
+        },
+        {
+          "name": "Bee + Bee Clef - Least Authority",
+          "url": "https://github.com/tonytony32/Swarm/blob/ceb8bd6776f49a4241da4f90976d7d0846b0b372/Audits/Least%20Authority%20-%20Swarm%20Association%20Bee%20%2B%20Bee%20Clef%20Initial%20Audit%20Report.pdf",
+          "time": "2021-06-10T22:00:00.000Z"
+        },
+        {
+          "name": "Pentest & Audit - Cure53",
+          "url": "https://github.com/tonytony32/Swarm/blob/ceb8bd6776f49a4241da4f90976d7d0846b0b372/Audits/cure53-SWA-01-report.pdf",
+          "time": "2021-04-02T22:00:00.000Z"
+        }
+      ],
       "social_trust": "Swarm Foundation",
       "technical_spof": "",
       "funding": [
@@ -30927,7 +30955,8 @@
           "link": "https://blog.ethswarm.org/foundation/2024/swarm-summit-2024-upload-the-future/",
           "time": "2024-06-19T22:00:00.000Z"
         }
-      ]
+      ],
+      "nickname": "antonio@ethswarm.org"
     },
     {
       "id": "pigeon-communicator",
