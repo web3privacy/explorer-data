@@ -24128,6 +24128,88 @@
       ]
     },
     {
+      "id": "xmrchat",
+      "name": "XMRChat",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging",
+        "donate-charity"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "description": "Tip your favorite streamer in Monero",
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://xmrchat.com/",
+        "blog": "",
+        "github": "https://github.com/sa8ab/xmrchat",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/xmr_chat",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/xmrchat/logo.png"
+        }
+      ]
+    },
+    {
       "id": "railgun",
       "name": "RAILGUN",
       "categories": [
