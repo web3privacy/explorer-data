@@ -17433,6 +17433,89 @@
       ]
     },
     {
+      "id": "kuno",
+      "name": "Kuno",
+      "categories": [
+        "social-and-communications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "donate-charity"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "description": "Raise money or donate to a good cause with Monero\nEasy fundraising for everyone\nStart a kuno for free\nReceive Monero (which you can exchange to cash)\nZero fees, works globally, no bank account required\n\n\nThe fair alternative to GoFundMe and Kickstarter\n",
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://kuno.anne.media/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://kuno.anne.media/",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/kuno/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "payy",
       "name": "Payy",
       "categories": [
