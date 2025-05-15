@@ -1,0 +1,83 @@
+name: Monerotopia
+categories:
+  - social-and-communications
+  - infrastructure
+usecases:
+  - events
+  - infrastructure
+ecosystem:
+  - monero
+  - other
+description: A Monero-focused event where builders, developers, and community
+  members come together to discuss XMR in a relaxing social atmosphere.
+  Organized by the MoneroTalk team.
+sunset: false
+assets_used:
+  - xmr
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://monerotopia.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/monerotopia
+  discord: ""
+  telegram: https://t.me/monerotopia
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers:
+    - name: Douglas Tuman
+      link: https://x.com/DouglasTuman
+    - name: Sunita
+      link: https://x.com/Sunchakr
+funding: []
+history:
+  - title: Monerotopia 2022
+    description: Monerotopia event held in Miami in 2022.
+    link: https://monerotopia.com/miami2022/
+    time: 2022-04-07T00:00:00.000Z
+  - title: Monerotopia 2023
+    description: Monerotopia event held in Mexico City in May of 2023
+    link: https://monerotopia.com/mexicocity23/
+    time: 2023-05-06T00:00:00.000Z
+  - title: Monerotopia 2024
+    description: Monerotopia event held in Mexico City for a second year in a row
+      from November 14th to November 17th, 2024.
+    link: https://monerotopia.com/monerotopia2024/
+    time: 2024-11-14T00:00:00.000Z
+id: monerotopia
