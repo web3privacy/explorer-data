@@ -1,15 +1,19 @@
 id: status
 name: Status
 categories:
-  - social-and-communications
   - applications
+  - social-and-communications
 description: Status is a secure messaging app and crypto wallet built with state
   of the art technology
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+    - name: Carl Bennetts
+      link: ""
+    - name: Jarrad Hope
+      link: x.com/jarradhope_
 links:
-  web: https://status.im
+  web: https://status.app
   blog: https://status.app/blog
   github: https://github.com/status-im/
   forum: https://discuss.status.app/
@@ -25,7 +29,7 @@ links:
 usecases:
   - messaging
 have_token: false
-third_party_dependency: none
+third_party_dependency: ""
 logos:
   - file: logo.png
     ext: png
@@ -46,14 +50,14 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: true
-  asset_custody_type: ""
+  asset_custody_type: non-custody
   encryption: Waku
   p2p: true
 storage:
   decentralized: true
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://github.com/status-im/status-software-legal-documents/blob/144f64af0d13a97f793120f589b9d9297653a2a8/privacy-policy.md
   data_usage: Opt-in
 compliance: ""
 tracebility:
@@ -66,5 +70,9 @@ default_privacy: true
 audits: []
 social_trust: ""
 technical_spof: ""
-funding: []
+funding:
+  - name: ICO
+    link: ""
 history: []
+product_launch_day: 2018-01-19T23:00:00.000Z
+nickname: "@alisher"

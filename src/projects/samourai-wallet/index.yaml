@@ -1,18 +1,66 @@
 id: samourai-wallet
 name: Samourai Wallet
 categories:
-- applications
-description: A modern bitcoin wallet hand forged to keep your transactions private
-  your identity masked and your funds secured
+  - applications
+description: A modern bitcoin wallet hand forged to keep your transactions
+  private your identity masked and your funds secured
 ecosystem:
-- bitcoin
+  - bitcoin
 links:
   web: https://samouraiwallet.com/products
+  blog: ""
+  github: ""
+  forum: ""
   docs: https://docs.samourai.io/wallet/start
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: t.me/SamouraiWallet
+  lens: ""
+  farcaster: ""
 team:
   anonymous: true
+  teammembers: []
 sunset: true
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/samourai-wallet/logo.png
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
+assets_used:
+  - btc
+tokens: []

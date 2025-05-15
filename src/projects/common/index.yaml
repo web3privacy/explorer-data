@@ -1,8 +1,110 @@
 id: common
 name: Common
 categories:
-- defi
+  - defi
 usecases:
-- defi
+  - defi
+  - wallets
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/common/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+description: >-
+  Common makes web3 privacy easy and well-integrated with the existing DeFi
+  ecosystem.
+
+
+  It comes as a Web App that allows you to shield with your current wallets and
+  as a Mobile App for the full, easy privacy experience in DeFi.
+
+
+  Key features:
+
+  – Available on multiple chains (initially Aleph Zero EVM & Arbitrum)
+
+  – Client-side ZK with subsecond proving times–it's one of the fastest in the
+  space
+
+  – Shielded yield – earn yield from protocols like Aave or Curve while staying
+  private
+
+  – Smart yield – advanced auto balancing strategies for Shielded yield
+
+  – Private connections with existing DeFi apps through automatic temp accounts
+
+
+  Built by the team behind Aleph Zero.
+product_launch_day: 2025-05-04T22:00:00.000Z
+sunset: false
+assets_used:
+  - usdt
+  - eth
+  - usdc
+  - aleph
+  - other
+tokens: []
+links:
+  web: https://common.fi
+  blog: https://common.fi/blog
+  github: https://github.com/Cardinal-Cryptography
+  forum: ""
+  docs: https://docs.common.fi/knowledge-base
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Common__App
+  discord: ""
+  telegram: https://t.me/common_fi
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Zero Knowledge
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://common.fi/privacy-policy-apps
+  data_usage: Improving the product's features & UX
+compliance: GDPR, Fraud-protection mechanisms
+tracebility:
+  kyc: false
+  tracked_data: "Anonymized: IP addresses, Location data, User hardware and
+    software data, App user information (statistics about user journeys) "
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits:
+  - name: Common Mobile audit by Kudelski Security
+    url: https://common.fi/blog/common-mobile-security-audit/
+    time: 2025-04-06T22:00:00.000Z
+  - name: Shielder audit by ZK Security
+    url: https://alephzero.org/blog/shielder-audit-by-zksecurity-complete/
+    time: 2025-04-15T22:00:00.000Z
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history:
+  - title: Web App Launch
+    description: Common Web App has been launched first on Arbitrum and Aleph Zero
+      EVM with more chains to come.
+    link: https://common.fi/blog/common-web-app-live-on-arbitrum-one-and-aleph-zero-evm/
+    time: 2025-04-28T22:00:00.000Z
