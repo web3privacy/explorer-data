@@ -1,0 +1,75 @@
+name: Monfluo
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - monero
+description: >
+  A no-bullshit, pure Monero wallet suitable for both newcomers and experienced
+  users.
+
+      Coin control (UTXO/enote management)
+      Seed passphrases/offsets
+      Polyseed
+      OpenAlias
+      Multi wallet & multi account
+      Select your own node
+      NO support for other coins
+      NO integrations (exchange rates, swapping services, fiat on/off-ramps, etc.)
+sunset: false
+assets_used:
+  - xmr
+have_token: false
+tokens: []
+links:
+  web: https://monfluo.org
+  blog: ""
+  github: https://codeberg.org/acx/monfluo
+  forum: https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FA89PUHNXaCYLa48cSAWH5k8orgG1ebbt%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAVG3M3jjFAELlA2zJtOMq--p1V0yfN252oglNp4ZR1wM%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22groupLinkId%22%3A%22aSaW9b7I_yHrzvsstF-hYA%3D%3D%22%7D
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments:
+    - seed
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers:
+    - name: acx
+      link: https://codeberg.org/acx
+funding: []
+history: []
+id: monfluo
