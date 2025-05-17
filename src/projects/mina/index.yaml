@@ -58,7 +58,8 @@ blockchain_features:
   asset_custody_type: non-custody
   encryption: Zero-knowledge, Ouroboros, Succint blockchain, L1
   p2p: true
-storage: {}
+storage:
+  decentralized: true
 privacy_policy:
   defined: true
   link: https://minaprotocol.com/privacy
