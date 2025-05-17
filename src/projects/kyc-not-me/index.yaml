@@ -1,17 +1,86 @@
 id: kyc-not-me
 name: KYC not me
 categories:
-- applications
-description: buy, exchange, trade and use cryptos without needing to identify themselves,
-  and preserving the decentralized and self-governed essence of Cryptocurrencies (only
-  BTC & XMR)
+  - applications
+description: >-
+  Cryptocurrencies were created to revolutionize the way we pay for goods and
+  services, aiming to eliminate reliance on centralized entities such as banks
+  and governments that control our economy.
+
+
+  Exchanges that enforce KYC (Know Your Customer) operate similarly to
+  traditional banks. Users are required to provide identification, such as a
+  photo of their ID, to use these exchanges. Moreover, most of these exchanges
+  are centralized, meaning that users do not own their keys. In short, this
+  implies that the cryptocurrencies belong to the exchange and not the user.
+  These requirements go against the decentralized and self-sovereign nature of
+  cryptocurrencies.
+
+
+  With KYCNOT.ME, I hope to provide people with trustworthy alternatives for
+  buying, exchanging, trading, and using cryptocurrencies without having to
+  disclose their identity, thus preserving the right to privacy. I want to help
+  preserve the original ethos of cryptocurrencies.
 team:
   anonymous: true
+  teammembers:
+    - name: pluja
+      link: https://codeberg.org/pluja
 links:
   web: https://kycnot.me/
+  blog: https://blog.kycnot.me/
   github: https://codeberg.org/pluja/kycnot.me
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/kycnot
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- kyc-solution
+  - research-and-development
 have_token: false
-third_party_dependency: none
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/kyc-not-me/logo.png
+ecosystem:
+  - bitcoin
+  - monero
+sunset: false
+assets_used:
+  - btc
+  - xmr
+tokens: []
+privacy_policy:
+  defined: true
+  link: https://kycnot.me/about#privacy
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments: []
+default_privacy: true
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []

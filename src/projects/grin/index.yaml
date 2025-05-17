@@ -1,23 +1,77 @@
 id: grin
-name: GRin
+name: Grin
 categories:
-  - defi
-description: Electronic transactions for all. Without censorship or restrictions
+  - infrastructure
+description: >-
+  Grin is the minimal implementation of the MimbleWimble protocol.
+
+
+  MimbleWimble is a simple, privacy-focused, scalable digital cash blockchain
+  architecture. It does not use addresses, and transactions are fully
+  confidential. MimbleWimble leverages cryptography to allow past transaction
+  data to be removed with no compromise on security. 
 ecosystem:
   - other
 links:
-  web: 'https://grin.mw'
-  github: 'https://github.com/mimblewimble/grin'
-  docs: 'https://docs.grin.mw/'
-  forum: 'https://forum.grin.mw/'
-  whitepaper: 'https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt'
-  blog: 'https://grin.mw/blog/'
-  twitter: 'https://x.com/grin_privacy'
-  discord: 'https://discord.com/invite/5p4vCQY9km'
-  telegram: 'https://t.me/grinprivacy'
+  web: https://grin.mw
+  blog: https://grin.mw/blog/
+  github: https://github.com/mimblewimble/grin
+  forum: https://forum.grin.mw/
+  docs: https://docs.grin.mw/
+  whitepaper: https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/grin_privacy
+  discord: https://discord.com/invite/5p4vCQY9km
+  telegram: https://t.me/grinprivacy
+  lens: ""
+  farcaster: ""
 team:
   anonymous: true
+  teammembers: []
 usecases:
   - currency
 have_token: false
-third_party_dependency: none
+third_party_dependency: ""
+logos:
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.svg
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/grin/logo.png
+product_launch_day: 2019-01-15T00:00:00.000Z
+sunset: false
+assets_used: []
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding:
+  - name: Anonymous
+    link: https://grin.mw/friends.html
+history: []
