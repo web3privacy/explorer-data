@@ -1,0 +1,68 @@
+name: "Sentinel "
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+description: Sentinel is a mobile ‘watch only’ wallet that allows you to track
+  the balances and transactions of your offline, cold storage or just about any
+  of your bitcoin wallets. Sentinel tracks all types of addresses or extended
+  public keys and can also generate new addresses to enable you to receive
+  bitcoin into your offline wallets on the move. Sentinel never has access to
+  your private keys, so never has the power to spend your funds. You can however
+  pass Sentinel a pre-signed hex formatted transaction from a device that holds
+  your private keys and then use Sentinel to broadcast to the Bitcoin network.
+sunset: false
+assets_used:
+  - btc
+have_token: false
+tokens: []
+links:
+  web: ""
+  blog: ""
+  github: https://github.com/wanderingking072/sentinel-android
+  forum: ""
+  docs: https://bitcoiner.guide/sentinel/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: wanderingKing072
+      link: https://x.com/wanderinKing072
+id: sentinel-

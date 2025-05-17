@@ -2,24 +2,27 @@ id: cake-wallet
 name: Cake Wallet
 categories:
   - applications
-description: Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, ETH, SOL, WOW, and exchange other currencies. All your favorite crypto in one wallet, with the best privacy for every chain.
+description: Cake Wallet allows you to safely store, send, receive, and exchange
+  your XMR, BTC, LTC, ETH, SOL, WOW, and exchange other currencies. All
+  your  favorite crypto in one wallet, with the best privacy for every chain.
 ecosystem:
   - monero
   - bitcoin
   - ethereum
   - solana
+  - multichain
 links:
   web: https://cakewallet.com
   blog: https://blog.cakewallet.com
   github: https://github.com/cake-tech/cake_wallet
   forum: https://forum.cakewallet.com
-  docs: https://guides.cakewallet.com/
+  docs: https://docs.cakewallet.com/
   whitepaper: ""
-  block_explorer: ""
+  block_explorer: https://mempool.cakewallet.com/
   governance: ""
   twitter: https://x.com/cakewallet
-  discord: ""
-  telegram: ""
+  discord: https://discord.gg/tvBV9j24
+  telegram: https://t.me/cakewallet
   lens: ""
   farcaster: ""
 project_status:
@@ -36,6 +39,8 @@ team:
       link: https://x.com/vikrantnyc
     - name: Tuxsudo
       link: https://x.com/tuxpizza
+    - name: Henry Fisher
+      link: https://henryfisher.tech/
 usecases:
   - wallets
 have_token: false
@@ -52,6 +57,7 @@ assets_used:
   - dai
   - sol
   - xmr
+  - other
 tokens: []
 project_phase: mainnet
 blockchain_features:
@@ -64,7 +70,7 @@ blockchain_features:
 storage: {}
 privacy_policy:
   defined: true
-  link: https://raw.githubusercontent.com/cake-tech/cake_wallet/main/PRIVACY.md
+  link: https://cakewallet.com/privacy/
   data_usage: ""
 compliance: ""
 tracebility:

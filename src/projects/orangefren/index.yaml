@@ -1,0 +1,109 @@
+name: OrangeFren
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - events
+  - bridge
+ecosystem:
+  - ethereum
+  - bitcoin
+  - solana
+  - cosmos
+  - monero
+  - other
+  - multichain
+description: Swap aggregator used  to check many KYC-free services and find the
+  one with the best offer.
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdc
+  - usdt
+  - dai
+  - atom
+  - dot
+  - sol
+  - zcash
+  - xmr
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://orangefren.com
+  blog: https://blog.orangefren.com/
+  github: ""
+  forum: https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2F6NNydd1b6LUipCKHKDHk2Zbd2He98JX7%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_IIQ8aiopmvj4ZpTlRKvESD20TYIKNtKmtCPzQujdXM%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22qei_DO94SsiIiY_OHSmgbg%3D%3D%22%7D
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/orangefren
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: custodial
+  encryption: Instant swap aggregator
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: reliant on swap services
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history:
+  - title: Lisbon meet-up sponsored by FixedFloat
+    description: The event is taking place on Friday the 9th of May 2025 at The
+      Block, R. Latino Coelho 63 1er Andar, 1050-133 Lisboa. The meet-up begins
+      at 18:30 local time.  The tickets are free  All attendees will get FREE
+      pizza and a FixedFloat key chain!
+    link: https://orangefren.com/event/23
+    time: 2025-05-09T00:00:00.000Z
+  - title: Neuchâtel meet-up sponsored by FixedFloat
+    description: " OrangeFren.com is organizing a meet-up in Neuchâtel, Switzerland,
+      thanks to FixedFloat.com.  The event is taking place on Thursday the 8th
+      of May 2025 at Coworking Neuchâtel, Pl. Numa-Droz 2, 2000 Neuchâtel. The
+      meet-up begins at 18:00 local time.  The tickets are free  All attendees
+      will get a FixedFloat key chain!"
+    link: https://orangefren.com/event/22
+    time: 2025-05-08T00:00:00.000Z
+  - title: Vienna meet-up sponsored by WizardSwap
+    description: "OrangeFren.com is organizing a meet-up in Vienna, Austria 🇦🇹,
+      thanks to WizardSwap.io.  The event is taking place on Friday the 21th of
+      February 2025 at District Working & Event Venue, Donau-City-Straße 3, 1220
+      Wien. The meet-up begins at 18:00 local time.  The tickets are free. "
+    link: https://orangefren.com/event/21
+    time: 2025-02-21T00:00:00.000Z
+  - title: Istanbul meet-up sponsored by WizardSwap
+    description: OrangeFren.com is organizing a meet-up in Istanbul, Türkiye 🇹🇷,
+      thanks to WizardSwap.io.  The event is taking place on Friday the 20th of
+      December 2024 at CoBAC Workshop, Sarıdemir, Ragıp Gümüşpala Cd. No:29,
+      34116 Fatih/İstanbul. The meet-up begins at 18:00 local time.  The tickets
+      are free.
+    link: https://orangefren.com/event/20
+    time: 2024-12-20T00:00:00.000Z
+id: orangefren

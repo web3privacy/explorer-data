@@ -1,0 +1,71 @@
+name: Kuno
+categories:
+  - social-and-communications
+  - infrastructure
+usecases:
+  - infrastructure
+  - donate-charity
+ecosystem:
+  - monero
+description: |
+  Raise money or donate to a good cause with Monero
+  Easy fundraising for everyone
+  Start a kuno for free
+  Receive Monero (which you can exchange to cash)
+  Zero fees, works globally, no bank account required
+
+
+  The fair alternative to GoFundMe and Kickstarter
+sunset: false
+assets_used:
+  - xmr
+have_token: false
+tokens: []
+links:
+  web: https://kuno.anne.media/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+privacy_policy:
+  defined: true
+  link: https://kuno.anne.media/
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: kuno

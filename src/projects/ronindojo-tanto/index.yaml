@@ -1,19 +1,63 @@
 id: ronindojo-tanto
 name: RoninDojo Tanto
 categories:
-- hardware
+  - hardware
 description: Fully validating Bitcoin full node. Served over a Tor hidden service
 ecosystem:
-- bitcoin
+  - bitcoin
 links:
   web: https://ronindojo.io/
-  docs: https://docs.samourai.io/
   blog: https://blog.ronindojo.io/tag/news/
+  github: ""
+  forum: ""
+  docs: https://wiki.ronindojo.io
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/RoninDojoNode
+  discord: ""
   telegram: https://t.me/RoninDojoNode
+  lens: ""
+  farcaster: ""
 team:
   anonymous: true
+  teammembers: []
 usecases:
-- hardware
+  - hardware
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ronindojo-tanto/logo.png
+sunset: false
+assets_used:
+  - btc
+tokens: []
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []

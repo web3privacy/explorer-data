@@ -5,19 +5,19 @@ categories:
 description: The world’s lightest blockchain, powered by participants. Using
   zero knowledge technology
 team:
-  anonymous: true
+  anonymous: false
   teammembers: []
 links:
   web: https://minaprotocol.com
-  blog: ""
+  blog: https://minaprotocol.com/blog
   github: https://github.com/MinaProtocol/mina
-  forum: ""
+  forum: https://forums.minaprotocol.com/
   docs: https://docs.minaprotocol.com/
   whitepaper: https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf
-  block_explorer: ""
+  block_explorer: https://minascan.io/
   governance: ""
   twitter: https://twitter.com/minaprotocol
-  discord: ""
+  discord: https://discord.com/invite/minaprotocol
   telegram: ""
   lens: ""
   farcaster: ""
@@ -34,9 +34,9 @@ tokens:
     token_link: ""
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: true
   mainnet: true
+  testnet: false
+  version: mainnet
 usecases:
   - infrastructure
 third_party_dependency: ""
@@ -47,10 +47,26 @@ logos:
 ecosystem:
   - other
 sunset: false
-assets_used: []
-audits: []
-social_trust: ""
-technical_spof: ""
-funding: []
-history: []
-product_launch_day: 2021-04-22T22:00:00.000Z
+assets_used:
+  - other
+product_launch_day: 2021-03-01T23:00:00.000Z
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Zero-knowledge, Ouroboros, Succint blockchain, L1
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://minaprotocol.com/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - seed
+default_privacy: true

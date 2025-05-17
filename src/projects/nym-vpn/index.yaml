@@ -10,16 +10,16 @@ description: Advanced privacy built for the age of AI
 sunset: false
 links:
   web: https://nym.com
-  blog: ""
-  github: ""
-  forum: ""
-  docs: ""
-  whitepaper: ""
-  block_explorer: ""
-  governance: https://forum.nym.com
+  blog: https://nym.com/blog
+  github: https://github.com/nymtech/
+  forum: https://forum.nym.com
+  docs: https://nym.com/docs
+  whitepaper: https://nym.com/nym-whitepaper.pdf
+  block_explorer: https://nym.explorers.guru/
+  governance: ""
   twitter: https://x.com/nymproject
-  discord: ""
-  telegram: ""
+  discord: https://discord.com/invite/nym
+  telegram: https://t.me/nymchan/
   lens: ""
   farcaster: ""
 logos:
@@ -49,22 +49,24 @@ blockchain_features:
   p2p: true
 storage: {}
 privacy_policy:
-  defined: false
-  link: ""
-  data_usage: ""
+  defined: true
+  link: https://nym.com/vpn-privacy-statement
+  data_usage: none
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: none
   sign_in_type_requirments:
     - seed
-default_privacy: false
+default_privacy: true
 audits: []
 third_party_dependency: ""
 social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+    - name: Harry Halpin
+      link: https://x.com/harryhalpin
 funding: []
 history: []
