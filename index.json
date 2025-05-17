@@ -20384,7 +20384,9 @@
         "encryption": "Zero-knowledge, Ouroboros, Succint blockchain, L1",
         "p2p": true
       },
-      "storage": {},
+      "storage": {
+        "decentralized": true
+      },
       "privacy_policy": {
         "defined": true,
         "link": "https://minaprotocol.com/privacy",
