@@ -1,0 +1,73 @@
+id: litewallet  
+name: litewallet
+categories:
+  - applications
+ecosystem: 
+  - other  
+have_token: false
+tokens: 
+  - name: ""
+    symbol: ""
+    network: ""
+    contract_address: ""
+ 
+description: The Original self-hosted mobile wallet to manage your Litecoin
+project_type: ""
+
+links:
+  web: https://litewallet.io/
+  blog: ""
+  github: https://github.com/litecoin-foundation/litewallet-ios
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/Litewallet_App
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  encryption: ""
+  
+privacy_policy: 
+  defined: true
+  link: https://litewallet.io/privacy.html
+  
+team:
+  anonymous: false
+  teammembers:
+    - name: Ante Matijaca
+      link: https://ca.linkedin.com/in/antematijaca?trk=org-employees
+    - name: Kerry Washington
+      link: https://uk.linkedin.com/in/kerry-washington-382987257?trk=org-employees
+    
+    
+storage: 
+  decentralized: false
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+third_party_dependency: ""
+audits: [] 
+history: []
+client_diversability: []
+default_privacy: false
+funding: []
+project_status: 
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: ""
+usecases: 
+  - wallets
+sunset: false
+assets_used: []
+project_phase: ""
+compliance: ""
+social_trust: ""
+technical_spof: ""

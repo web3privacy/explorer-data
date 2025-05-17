@@ -5,11 +5,18 @@ categories:
 description: A protocol enabling usable on-chain privacy
 links:
   web: https://nocturnelabs.xyz
-  github: https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager
-  docs: https://nocturne-xyz.gitbook.io/nocturne
   blog: https://mirror.xyz/nocturnelabs.eth
+  github: https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager
+  forum: ""
+  docs: https://nocturne-xyz.gitbook.io/nocturne
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/nocturne_xyz
   discord: https://discord.com/invite/MxZYtzzFmJ
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
   - dapps
 have_token: false
@@ -21,3 +28,38 @@ logos:
 ecosystem:
   - ethereum
 sunset: true
+history: []
+assets_used: []
+tokens: []
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Sebastian Luca
+      link: https://x.com/sebastienladuca
+    - name: Luke Tchang
+      link: https://x.com/luketchang
+funding: []

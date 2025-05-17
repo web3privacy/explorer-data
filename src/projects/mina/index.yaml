@@ -39,7 +39,7 @@ project_status:
   version: mainnet
 usecases:
   - infrastructure
-third_party_dependency: none
+third_party_dependency: ""
 logos:
   - file: logo.png
     ext: png
@@ -61,7 +61,7 @@ blockchain_features:
 storage: {}
 privacy_policy:
   defined: true
-  link: https://minaprotocol.com/
+  link: https://minaprotocol.com/privacy
   data_usage: ""
 compliance: ""
 tracebility:
@@ -69,9 +69,4 @@ tracebility:
   tracked_data: ""
   sign_in_type_requirments:
     - seed
-default_privacy: false
-audits: []
-social_trust: ""
-technical_spof: ""
-funding: []
-history: []
+default_privacy: true
