@@ -29929,6 +29929,106 @@
       "tokens": []
     },
     {
+      "id": "robosats",
+      "name": "Robosats",
+      "categories": [
+        "infrastructure",
+        "defi",
+        "applications",
+        "social-and-communications"
+      ],
+      "usecases": [
+        "bridge",
+        "currency",
+        "infrastructure",
+        "defi",
+        "wallets"
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "multichain"
+      ],
+      "description": "A simple and private way to exchange bitcoin for national currencies.",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "xmr",
+        "other",
+        "usdt"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://robosats.org",
+        "blog": "https://robosats.org/blog/",
+        "github": "https://github.com/RoboSats/robosats",
+        "forum": "",
+        "docs": "https://robosats.org/docs/quick-start/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "https://t.me/robosats",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "seed",
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "counterparty gets banking info if you choose to buy/sell with banking payment option.",
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "Reckless Satoshi",
+            "link": "https://github.com/Reckless-Satoshi"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/robosats/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "nonkyc",
       "name": "NonKYC",
       "categories": [
