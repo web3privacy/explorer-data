@@ -20324,7 +20324,7 @@
         "docs": "https://docs.minaprotocol.com/",
         "whitepaper": "https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf",
         "block_explorer": "https://minascan.io/",
-        "governance": "",
+        "governance": "https://ocv.minaprotocol.com",
         "twitter": "https://twitter.com/minaprotocol",
         "discord": "https://discord.com/invite/minaprotocol",
         "telegram": "",
@@ -20373,7 +20373,7 @@
       "assets_used": [
         "other"
       ],
-      "product_launch_day": "2021-03-01T23:00:00.000Z",
+      "product_launch_day": "2021-03-01T00:00:00.000Z",
       "project_phase": "mainnet",
       "blockchain_features": {
         "opensource": true,
@@ -20400,7 +20400,33 @@
           "seed"
         ]
       },
-      "default_privacy": true
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Least Authority Concludes Security Audit of Pickles",
+          "url": "https://minaprotocol.com/blog/pickles-security-audit",
+          "time": "2023-12-13T00:00:00.000Z"
+        },
+        {
+          "name": "The o1js Audit by Veridise",
+          "url": "https://www.o1labs.org/blog/the-o1js-audit",
+          "time": "2024-09-26T23:00:00.000Z"
+        },
+        {
+          "name": "Mina NFT Standard Audit by Veridise",
+          "url": "https://minaprotocol.com/wp-content/uploads/mina-nft-standard-audit.pdf",
+          "time": "2025-03-30T23:00:00.000Z"
+        },
+        {
+          "name": "Mina Fungible Token Standard Audit by Veridise",
+          "url": "https://veridise.com/wp-content/uploads/2024/08/VAR_Mina_Foundation_240624_Mina_Fungible_Token_Standard-V3.pdf",
+          "time": "2024-08-04T23:00:00.000Z"
+        }
+      ],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": []
     },
     {
       "id": "cerebrum",
