@@ -2843,6 +2843,104 @@
       ]
     },
     {
+      "id": "bisq",
+      "name": "Bisq",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "defi",
+        "social-and-communications"
+      ],
+      "usecases": [
+        "bridge",
+        "wallets",
+        "defi",
+        "currency",
+        "infrastructure",
+        "dapps"
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "multichain",
+        "other"
+      ],
+      "description": "Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required. ",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "other",
+        "xmr",
+        "dai",
+        "zcash",
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://bisq.network/",
+        "blog": "https://bisq.network/blog",
+        "github": "https://github.com/bisq-network",
+        "forum": "https://bisq.community/",
+        "docs": "https://bisq.wiki/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/bisq_network",
+        "discord": "",
+        "telegram": "https://t.me/bisq_p2p",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://bisq.network/blog/privacy-in-bitsquare/",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "none",
+        "sign_in_type_requirments": [
+          "seed"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "counterparty gets banking info if using bank payment option",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/bisq/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "foundation",
       "name": "Foundation",
       "categories": [
