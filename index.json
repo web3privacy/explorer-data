@@ -21289,6 +21289,89 @@
       ]
     },
     {
+      "id": "peach-bitcoin",
+      "name": "Peach Bitcoin",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "infrastructure",
+        "currency",
+        "wallets"
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together. Buy or sell bitcoin peer-to-peer, anywhere, at anytime, with the payment method of your choice.",
+      "sunset": false,
+      "assets_used": [
+        "btc"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://peachbitcoin.com/",
+        "blog": "https://peachbitcoin.com/blog/",
+        "github": "https://github.com/Peach2Peach",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/peachbitcoin",
+        "discord": "https://discord.gg/ypeHz3SW54",
+        "telegram": "https://t.me/peachtopeach",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://github.com/Peach2Peach",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "counterparty gets banking info if using banking payment options.",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/peach-bitcoin/logo.svg"
+        }
+      ]
+    },
+    {
       "id": "shinobi",
       "name": "Shinobi",
       "categories": [
