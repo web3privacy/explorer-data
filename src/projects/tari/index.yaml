@@ -1,0 +1,81 @@
+name: Tari
+categories:
+  - infrastructure
+usecases:
+  - currency
+ecosystem:
+  - other
+description: Tari is a revolutionary blockchain protocol powered by you. Proof
+  of work. Default confidential.
+product_launch_day: 2025-06-06T00:00:00.000Z
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://www.tari.com/
+  blog: https://tari.com/updates
+  github: https://github.com/tari-project
+  forum: https://reddit.com/r/tari
+  docs: https://rfc.tari.com/
+  whitepaper: ""
+  block_explorer: https://explore.tari.com/
+  governance: ""
+  twitter: https://x.com/tari
+  discord: https://discord.gg/tari
+  telegram: https://t.me/tariproject
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: MimbleWimble
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Riccardo Spagni
+      link: https://twitter.com/fluffypony
+    - name: Naveen Jain
+      link: https://x.com/NaveenSpark
+funding:
+  - name: Lil' Wayne
+    link: https://www.tari.com/
+  - name: Blockchain Capital
+    link: https://www.tari.com/
+  - name: Paris Hilton
+    link: https://www.tari.com/
+  - name: "@loomdart"
+    link: https://www.tari.com/
+  - name: "@gmoney"
+    link: https://www.tari.com/
+  - name: G-Eazy
+    link: https://www.tari.com/
+  - name: CMT Digital
+    link: https://www.tari.com/
+history: []
+id: tari
