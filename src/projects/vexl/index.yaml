@@ -1,0 +1,68 @@
+name: Vexl
+categories:
+  - social-and-communications
+  - applications
+usecases:
+  - currency
+  - infrastructure
+  - dapps
+ecosystem:
+  - bitcoin
+  - other
+description: "Vexl is a mobile app giving its users a simple, accessible and
+  safe way to trade bitcoin as it was intended - peer-to-peer and without KYC. "
+sunset: false
+assets_used:
+  - btc
+have_token: false
+tokens: []
+links:
+  web: https://vexl.it/
+  blog: https://vexl.it/blog
+  github: https://github.com/vexl-it
+  forum: ""
+  docs: https://vexl.it/faq/app
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/vexl
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: custodial
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://vexl.it/terms-privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Pavol Rusnack
+      link: https://x.com/PavolRusnak
+funding: []
+history: []
+id: vexl
