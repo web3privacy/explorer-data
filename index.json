@@ -20615,7 +20615,12 @@
       "description": "The world’s lightest blockchain, powered by participants. Using zero knowledge technology",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Brandon Kase",
+            "link": "https://x.com/bkase_"
+          }
+        ]
       },
       "links": {
         "web": "https://minaprotocol.com",
@@ -20635,19 +20640,16 @@
       "have_token": false,
       "tokens": [
         {
-          "symbol": "MINA"
-        },
-        {
-          "symbol": "MINA",
-          "name": "MINA",
-          "contract_address": "",
-          "token_link": "https://minaexplorer.com/"
-        },
-        {
           "symbol": "",
           "name": "",
           "contract_address": "",
           "token_link": ""
+        },
+        {
+          "symbol": "MINA",
+          "name": "Mina",
+          "contract_address": "",
+          "token_link": "https://minascan.io/mainnet/analytics/network"
         }
       ],
       "project_status": {
@@ -20726,8 +20728,44 @@
       ],
       "social_trust": "",
       "technical_spof": "",
-      "funding": [],
-      "history": []
+      "funding": [
+        {
+          "name": "Paradigm",
+          "link": "https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019"
+        },
+        {
+          "name": "Coinbase Ventures",
+          "link": "https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019"
+        },
+        {
+          "name": "Electric Capital",
+          "link": "https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019"
+        },
+        {
+          "name": "Accomplice",
+          "link": "https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019"
+        },
+        {
+          "name": "General Catalyst",
+          "link": "https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019"
+        },
+        {
+          "name": "PolyChain",
+          "link": "https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019"
+        },
+        {
+          "name": "MetaStable",
+          "link": "https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019"
+        }
+      ],
+      "history": [
+        {
+          "title": "Mina Community Call: Strategic Changes and Ecosystem Updates",
+          "description": "CEOs of o1Labs and Mina Foundation, Brandon Kase and Josh Cincinnati, joined an X space to discuss the recent strategic changes and share their vision for the future of the Mina ecosystem. ",
+          "link": "https://minaprotocol.com/blog/mina-community-call-recap",
+          "time": "2025-04-16T23:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "cerebrum",
