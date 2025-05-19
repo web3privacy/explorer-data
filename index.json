@@ -23368,6 +23368,105 @@
       "sunset": true
     },
     {
+      "id": "unstoppable-swap",
+      "name": "Unstoppable Swap",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "infrastructure",
+        "bridge"
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "monero"
+      ],
+      "description": "Exchange Bitcoin for Monero peer-to-peer, trustlessly, securely, without risk, reliably, and freely.\nPowered by atomic swaps. Zero trust required. No middlemen. Pure peer-to-peer exchange through the Tor network. Complete privacy. Built by the community, for everyone\n\nUnstoppableSwap is a protocol and desktop application. When you run the app, you can connect to and swap with different makers. Makers are users who run the UnstoppableSwap protocol on their own computer or server to provide liquidity. They buy your Bitcoin and in return give you Monero. Each maker can set their own prices and fees.",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "xmr"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://unstoppableswap.net/",
+        "blog": "",
+        "github": "https://github.com/UnstoppableSwap/",
+        "forum": "https://matrix.to/#/#unstoppableswap-core:matrix.org",
+        "docs": "https://docs.unstoppableswap.net/",
+        "whitepaper": "https://arxiv.org/pdf/2101.12332",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/UnstoppableSwap",
+        "discord": "https://discord.com/invite/Wpkffvbt",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Atomic Swaps",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "Binary Baron",
+            "link": "https://github.com/binarybaron"
+          }
+        ]
+      },
+      "funding": [
+        {
+          "name": "Community Crowd Funding",
+          "link": "https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html"
+        },
+        {
+          "name": "Community Crowd Funding",
+          "link": "https://ccs.getmonero.org/proposals/binarybaron-unstoppableswap.html"
+        }
+      ],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/unstoppable-swap/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "aizzy.ai",
       "name": "aizzy.ai",
       "categories": [
