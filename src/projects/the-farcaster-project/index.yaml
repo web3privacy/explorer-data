@@ -1,15 +1,27 @@
 id: the-farcaster-project
 name: The Farcaster Project
 categories:
-- infrastructure
-description: A cross-chain atomic swap protocol and implementation who allows to exchange
-  Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node
+  - infrastructure
+description: A cross-chain atomic swap protocol and implementation who allows to
+  exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a
+  Farcaster node
 team:
   anonymous: true
 links:
   web: https://farcaster.dev/
   github: https://github.com/farcaster-project
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/the-farcaster-project/logo.png
+ecosystem:
+  - monero
+  - bitcoin
+sunset: false
+funding:
+  - name: Monero CCS
+    link: https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html
