@@ -14792,7 +14792,7 @@
         "other"
       ],
       "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3s). E3s enable secure, private, and verifiable computations on multiple inputs of encrypted data, using programmable cryptography (FHE, ZKPs, and MPC) and blockchain. As a complement to or alternative for TEEs, E3s unlock use cases like secret voting, sealed-bid auctions, and confidential data pools.",
-      "product_launch_day": "2024-06-06T05:00:00.000Z",
+      "product_launch_day": "2024-06-04T00:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -14885,8 +14885,7 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/enclave/logo.png"
         }
       ],
-      "project_phase": "testnet",
-      "nickname": "comms@gnosisguild.org"
+      "project_phase": "testnet"
     },
     {
       "id": "zashi",
