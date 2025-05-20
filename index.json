@@ -27916,6 +27916,95 @@
       ]
     },
     {
+      "id": "majestic-bank",
+      "name": "Majestic Bank",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "currency",
+        "infrastructure",
+        "bridge"
+      ],
+      "ecosystem": [
+        "monero",
+        "bitcoin",
+        "other",
+        "multichain"
+      ],
+      "description": "Anonymous exchange: Exchange between Bitcoin, Monero, Litecoin, Firo and Bitcoin Cash",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "xmr",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://majesticbank.sc/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "https://t.me/Majesticsupport",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "custodial",
+        "encryption": "Instant Swap",
+        "p2p": false
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "You trust majestic bank to provide the instant swap.",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/majestic-bank/logo.png"
+        }
+      ]
+    },
+    {
       "id": "utopia",
       "name": "Utopia",
       "categories": [
