@@ -25499,6 +25499,105 @@
       ]
     },
     {
+      "id": "intercambio",
+      "name": "Intercambio",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "bridge",
+        "infrastructure",
+        "wallets"
+      ],
+      "ecosystem": [
+        "multichain",
+        "ethereum",
+        "bitcoin",
+        "solana",
+        "cosmos",
+        "monero",
+        "other"
+      ],
+      "description": "Intercambio is an aggregator focused on privacy to anonymously swap cryptos with the cheapest rates.",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "btc",
+        "usdc",
+        "usdt",
+        "dai",
+        "atom",
+        "zcash",
+        "xmr",
+        "sol",
+        "dot",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://intercambio.app/",
+        "blog": "",
+        "github": "",
+        "forum": "https://www.reddit.com/user/Intercambio_app",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Instant swaps"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://intercambio.app/",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "We have absolute respect for our users privacy, no logs are kept and exchange data is deleted after two weeks or per request.",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "Dependent on Instant Swap partners",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/intercambio/logo.png"
+        }
+      ]
+    },
+    {
       "id": "cursive",
       "name": "Cursive",
       "categories": [
