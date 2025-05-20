@@ -8642,6 +8642,106 @@
       "history": []
     },
     {
+      "id": "tradeogre",
+      "name": "TradeOgre",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "wallets",
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "monero",
+        "bitcoin",
+        "other",
+        "multichain",
+        "solana",
+        "cosmos",
+        "ethereum"
+      ],
+      "description": "Exchange focused especially on privacy coins. Deposits and withdrawals are done without identity verification.",
+      "sunset": false,
+      "assets_used": [
+        "xmr",
+        "btc",
+        "eth",
+        "usdc",
+        "usdt",
+        "dai",
+        "atom",
+        "dot",
+        "sol",
+        "zcash",
+        "aleph",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://tradeogre.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/tradeogre",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "custodial",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "email"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "Centralized Exchange",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/tradeogre/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "personae-labs",
       "name": "Personae Labs",
       "categories": [
