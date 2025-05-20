@@ -20312,6 +20312,102 @@
       ]
     },
     {
+      "id": "cyphergoat",
+      "name": "CypherGoat",
+      "categories": [
+        "applications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "bridge"
+      ],
+      "ecosystem": [
+        "multichain",
+        "bitcoin",
+        "solana",
+        "ethereum",
+        "monero",
+        "other"
+      ],
+      "description": "CypherGoat is a platform that provides the best rates for crypto swaps. We find the best rate from our partnered exchanges.",
+      "product_launch_day": "2025-04-13T00:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "btc",
+        "usdc",
+        "usdt",
+        "dai",
+        "dot",
+        "xmr",
+        "sol",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://cyphergoat.com",
+        "blog": "https://cyphergoat.com/blog",
+        "github": "https://github.com/cyphergoat",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/cyphergoatcom",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "instant swap aggregator"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://cyphergoat.com/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "    IP Address     User Agent     Language Preferences",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "instant swap providers",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cyphergoat/logo.svg"
+        }
+      ]
+    },
+    {
       "id": "literully",
       "name": "Literully",
       "categories": [
