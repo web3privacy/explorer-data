@@ -9,7 +9,7 @@ usecases:
   - dapps
 description: Primus (formerly "PADO") is a decentralized verification and
   computation network based on advanced cryptography like zkTLS and zkFHE
-product_launch_day: 2022-02-01T00:00:00.000Z
+product_launch_day: 2022-01-01T00:00:00.000Z
 team:
   anonymous: false
   teammembers:
