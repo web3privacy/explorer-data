@@ -30684,28 +30684,96 @@
       "id": "the-farcaster-project",
       "name": "The Farcaster Project",
       "categories": [
-        "infrastructure"
+        "infrastructure",
+        "applications"
       ],
       "description": "A cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node",
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "h4sh3d",
+            "link": "https://github.com/h4sh3d"
+          }
+        ]
       },
       "links": {
         "web": "https://farcaster.dev/",
-        "github": "https://github.com/farcaster-project"
+        "blog": "",
+        "github": "https://github.com/farcaster-project",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "bridge"
       ],
       "have_token": false,
-      "third_party_dependency": "none",
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/the-farcaster-project/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "monero",
+        "bitcoin"
+      ],
+      "sunset": false,
+      "assets_used": [
+        "xmr",
+        "btc"
+      ],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Atomic Swap",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [
+        {
+          "name": "Monero CCS",
+          "link": "https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html"
+        }
+      ],
+      "history": []
     },
     {
       "id": "rolod0x",
