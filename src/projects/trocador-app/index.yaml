@@ -1,15 +1,88 @@
 id: trocador-app
 name: Trocador App
 categories:
-- infrastructure
-description: A privacy-focused exchange aggregator. Anonymous service, no Java, no
-  registration, onion site and I2P available
+  - infrastructure
+  - applications
+description: A privacy-focused exchange aggregator. Anonymous service, no Java,
+  no registration, onion site and I2P available
 team:
   anonymous: true
+  teammembers: []
 links:
   web: https://trocador.app
+  blog: ""
+  github: ""
+  forum: ""
   docs: https://trocador.app/en/docs/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/trocadorapp
+  discord: ""
+  telegram: https://t.me/TrocadorSupportBot
+  lens: ""
+  farcaster: ""
 usecases:
-- infrastructure
+  - infrastructure
+  - bridge
 have_token: false
-third_party_dependency: none
+third_party_dependency: instant swap counterparties
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/trocador-app/logo.png
+ecosystem:
+  - monero
+  - ethereum
+  - solana
+  - cosmos
+  - bitcoin
+  - multichain
+  - other
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdc
+  - usdt
+  - dai
+  - atom
+  - dot
+  - sol
+  - zcash
+  - xmr
+  - aleph
+  - other
+  - scrt
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: custodial
+  encryption: instant swap
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://trocador.app/en/privacypolicy/
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: " -UserAgent and AcceptLanguage of your device's request.   -Your
+    IP address.  -Correspondence you send us by email or another support method,
+    and if the issue is still open. We delete emails and messages if we perceive
+    that the support request is closed."
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
