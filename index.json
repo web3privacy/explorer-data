@@ -10237,7 +10237,10 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/Primus-Labs/logo.png"
         }
-      ]
+      ],
+      "product_launch_day": "2022-01-01T00:00:00.000Z",
+      "assets_used": [],
+      "tokens": []
     },
     {
       "id": "xmtp-x-lens",
