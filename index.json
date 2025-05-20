@@ -6672,6 +6672,11 @@
       "have_token": false,
       "logos": [
         {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/privy/logo.jpeg"
+        },
+        {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/privy/logo.png"
