@@ -1,3 +1,4 @@
+id: cupcake
 name: Cupcake
 categories:
   - applications
@@ -11,7 +12,7 @@ description: >-
 
   It works similarly to a hardware wallet, separating the private keys from the
   main wallet app and becoming a dedicated transaction signer.
-product_launch_day: 2024-12-18T00:00:00.000Z
+product_launch_day: 2024-11-18T00:00:00.000Z
 sunset: false
 assets_used:
   - xmr
@@ -71,6 +72,8 @@ team:
       link: https://x.com/sethforprivacy
     - name: Tuxsudo
       link: https://x.com/tuxpizza
+    - name: Omar Hartem
+      link: https://github.com/OmarHatem28
 funding: []
 history:
   - title: Berlin meet-up sponsored by Cake Wallet
@@ -81,4 +84,7 @@ history:
       will receive a FREE Cake Wallet jacket. "
     link: https://orangefren.com/event/17
     time: 2024-06-29T00:00:00.000Z
-id: cupcake
+logos:
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/cupcake/logo.svg
