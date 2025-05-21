@@ -1,0 +1,76 @@
+name: Monero Bounties
+categories:
+  - infrastructure
+usecases:
+  - donate-charity
+  - research-and-development
+  - infrastructure
+ecosystem:
+  - monero
+description: >-
+  Monero Bounties is a website designed to foster community feedback from users,
+  developers and community stakeholders. It is supplemental / complementary to
+  the existing Monero CCS (Community Crowdfunding System). Users can post
+  bounties for suggested improvements in the monero community. Example bounties
+  could be (but not limited) to the following:
+
+      Feature reqeusts to existing software
+      New software creation
+      Research funding into new crypographic requirements
+      Art projects that promote Monero
+      Translations of documentation or explainer videos
+      Website or service that should exist (FOSS)
+sunset: false
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+links:
+  web: https://bounties.monero.social/
+  blog: ""
+  github: ""
+  forum: https://matrix.to/#/%23monero-bounties:monero.social
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+assets_used:
+  - xmr
+have_token: false
+tokens: []
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - email
+default_privacy: true
+audits: []
+third_party_dependency: funds are held in escrow, and funds are released once
+  consensus is reached on the bounty.
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: monero-bounties
