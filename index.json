@@ -3547,6 +3547,89 @@
       ]
     },
     {
+      "id": "monerica",
+      "name": "Monerica",
+      "categories": [
+        "social-and-communications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "other",
+        "events"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "description": "Directory of services that support and accept monero at their storefronts.",
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://monerica.com/",
+        "blog": "https://blog.monerica.com/",
+        "github": "https://github.com/Monerica-project",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/MonericaProject",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Marketplace directory"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "none"
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "none",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/monerica/logo.png"
+        }
+      ]
+    },
+    {
       "id": "tonnel-network",
       "name": "Tonnel Network",
       "categories": [
