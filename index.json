@@ -27039,6 +27039,87 @@
       "history": []
     },
     {
+      "id": "atoma",
+      "name": "Atoma",
+      "categories": [
+        "hardware",
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "ai",
+        "tee"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Atoma is a decentralized private and verifiable AI execution network. It provides the infrastructure for developers and enterprises to use open-source AI models and build AI applications with full privacy.",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://atoma.network/",
+        "blog": "https://atomanetwork.medium.com/",
+        "github": "https://github.com/atoma-network",
+        "forum": "",
+        "docs": "https://docs.atoma.network/documentation/get-started/overview",
+        "whitepaper": "https://github.com/atoma-network/atoma-docs/blob/main/papers/atoma_whitepaper.pdf",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Atoma_Network",
+        "discord": "https://discord.gg/atoma",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Trusted Execution Environments"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://atoma.network/terms_of_service",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/atoma/logo.png"
+        }
+      ]
+    },
+    {
       "id": "sociogram",
       "name": "Sociogram",
       "categories": [
