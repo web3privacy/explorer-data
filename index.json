@@ -20920,23 +20920,83 @@
       ],
       "description": "Allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that",
       "links": {
-        "web": "https://privacy-pools-v1-demo.netlify.app/",
-        "github": "https://github.com/ameensol/privacy-pools",
-        "docs": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364",
-        "education": "https://x.com/0xArhat/status/1699812440614035944"
+        "web": "https://x.com/0xprivacypools",
+        "blog": "",
+        "github": "https://github.com/0xbow-io/privacy-pools-core",
+        "forum": "",
+        "docs": "https://docs.privacypools.com/",
+        "whitepaper": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/0xbowio",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "dapps"
       ],
       "have_token": false,
-      "third_party_dependency": "none",
+      "third_party_dependency": "",
       "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/privacy-pools/logo.svg"
+        },
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/privacy-pools/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false,
+      "assets_used": [
+        "eth"
+      ],
+      "tokens": [],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "bubble-protocol",
