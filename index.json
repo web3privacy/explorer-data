@@ -9282,7 +9282,7 @@
         "monero"
       ],
       "description": "Cupcake is an air-gapped wallet using live QR codes.\n\nIt works similarly to a hardware wallet, separating the private keys from the main wallet app and becoming a dedicated transaction signer.",
-      "product_launch_day": "2024-12-18T00:00:00.000Z",
+      "product_launch_day": "2024-11-18T00:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "xmr"
@@ -9357,6 +9357,10 @@
           {
             "name": "Tuxsudo",
             "link": "https://x.com/tuxpizza"
+          },
+          {
+            "name": "Omar Hartem",
+            "link": "https://github.com/OmarHatem28"
           }
         ]
       },
