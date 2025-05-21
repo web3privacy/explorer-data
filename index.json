@@ -17494,13 +17494,18 @@
       "description": "An AI + DePIN Network enabled through FHEML",
       "links": {
         "web": "https://www.privasea.ai/",
+        "blog": "https://www.privasea.ai/blog",
         "github": "https://github.com/Privasea",
+        "forum": "",
         "docs": "https://docs.privasea.ai/",
         "whitepaper": "https://drive.google.com/file/d/1jbxWMgEziupt119gvM1n0Mu8sDdM7VWF/view",
-        "blog": "https://www.privasea.ai/blog",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/Privasea_ai",
         "discord": "https://discord.com/invite/yRtQGvWkvG",
-        "telegram": "https://t.me/Privasea_ai"
+        "telegram": "https://t.me/Privasea_ai",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "third_party_dependency": "none",
