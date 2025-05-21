@@ -9270,6 +9270,114 @@
       ]
     },
     {
+      "id": "cupcake",
+      "name": "Cupcake",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "description": "Cupcake is an air-gapped wallet using live QR codes.\n\nIt works similarly to a hardware wallet, separating the private keys from the main wallet app and becoming a dedicated transaction signer.",
+      "product_launch_day": "2024-12-18T00:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://cakewallet.com/",
+        "blog": "https://blog.cakewallet.com/",
+        "github": "https://github.com/cake-tech/cupcake",
+        "forum": "https://forum.cakewallet.com/",
+        "docs": "https://docs.cakewallet.com/cupcake/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/cakewallet",
+        "discord": "",
+        "telegram": "https://t.me/cakewalletannouncements",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Cold Storage"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://cakewallet.com/privacy/",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "seed",
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Vik Sharma",
+            "link": "https://x.com/vikrantnyc"
+          },
+          {
+            "name": "konstiullrich",
+            "link": "https://x.com/konstiullrich"
+          },
+          {
+            "name": "Seth for Privacy",
+            "link": "https://x.com/sethforprivacy"
+          },
+          {
+            "name": "Tuxsudo",
+            "link": "https://x.com/tuxpizza"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "Berlin meet-up sponsored by Cake Wallet",
+          "description": "OrangeFren.com is organizing a meet-up in Berlin, Germany 🇩🇪, thanks to Cake Wallet.  The event is taking place on Saturday the 29th of June 2024 at betahaus, Rudi-Dutschke-Straße 23, 10969 Berlin, Germany. The meet-up begins at 15:00 local time.  The tickets are free.  All attendees will receive a FREE Cake Wallet jacket. ",
+          "link": "https://orangefren.com/event/17",
+          "time": "2024-06-29T00:00:00.000Z"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cupcake/logo.svg"
+        }
+      ]
+    },
+    {
       "id": "no-trust-verify",
       "name": "No Trust Verify",
       "categories": [
