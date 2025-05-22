@@ -4,6 +4,8 @@ categories:
   - social-and-communications
 usecases:
   - other
+  - events
+  - research-and-development
 ecosystem:
   - other
 description: >+
@@ -23,10 +25,10 @@ have_token: false
 tokens: []
 links:
   web: web3privacy.info
-  blog: ""
+  blog: https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073
   github: https://github.com/web3privacy
-  forum: ""
-  docs: ""
+  forum: https://matrix.to/#/#web3privacy:gwei.cz
+  docs: https://docs.web3privacy.info/
   whitepaper: ""
   block_explorer: explorer.web3privacy.info
   governance: ""
@@ -85,6 +87,6 @@ logos:
 project_phase: mainnet
 project_status:
   live_status: true
-  version: mainnet
-  testnet: false
   mainnet: true
+  testnet: false
+  version: mainnet
