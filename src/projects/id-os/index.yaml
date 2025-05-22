@@ -1,0 +1,79 @@
+name: id OS
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - did
+  - operation-systems
+ecosystem:
+  - other
+description: Open-source, composable and chain-agnostic decentralized storage
+  and economy network to enable true decentralized identity across the internet.
+  idOS (identity operating system) is a decentralized storage and access
+  management network specifically designed to store user data.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.idos.network/
+  blog: https://www.idos.network/blog
+  github: https://github.com/idos-network
+  forum: ""
+  docs: https://docs.idos.network/idos-docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/idos_network
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://www.idos.network/legal/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: true
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding:
+  - name: Arbitrum Foundation
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+  - name: Circle Ventures
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+  - name: Ripple
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+  - name: Gnosis
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+  - name: NEAR foundation
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+  - name: Aleph Zero Foundation
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+  - name: Radix
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+  - name: Tezos Foundation
+    link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
+history: []
+id: id-os
