@@ -1,0 +1,74 @@
+name: Sidekick
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - monero
+description: Sidekick is a new companion app that you can install on a secondary
+  phone to authorize access to your Monero wallets in Monerujo. That way, as
+  long as you keep that phone offline, it works as a do-it-yourself
+  Bluetooth-powered hardware wallet.
+product_launch_day: 2024-10-03T00:00:00.000Z
+sunset: false
+assets_used:
+  - xmr
+have_token: false
+tokens: []
+links:
+  web: https://sidekick.monerujo.app/
+  blog: ""
+  github: https://github.com/m2049r/sidekick
+  forum: ""
+  docs: https://github.com/m2049r/sidekick/blob/master/README.md
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/monerujowallet
+  discord: ""
+  telegram: t.me/monerujo
+  lens: ""
+  farcaster: ""
+privacy_policy:
+  defined: true
+  link: https://github.com/m2049r/sidekick/blob/master/privacy-policy.md
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: m2049r
+      link: https://github.com/m2049r
+    - name: Baltsar
+      link: https://github.com/Baltsar
+    - name: anhhdres
+      link: https://github.com/anhdres
+funding:
+  - name: Community Crowdfunding System
+    link: https://funding.monerujo.app/
+history: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: cold storage, bluetooth
+  p2p: true
+storage: {}
+id: sidekick
