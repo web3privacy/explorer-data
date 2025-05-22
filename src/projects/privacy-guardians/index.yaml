@@ -1,0 +1,98 @@
+name: Privacy Guardians
+categories:
+  - social-and-communications
+usecases:
+  - events
+ecosystem:
+  - multichain
+  - monero
+  - bitcoin
+  - ethereum
+  - cosmos
+  - other
+description: Privacy Guardians is a community and accelerator dedicated to
+  privacy tech. Connecting communities to the best privacy protocols out there.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://shieldingsummit.org/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: https://lu.ma/user/privacyguardia
+  twitter: https://x.com/privacyguardia
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history:
+  - title: Shielding Summit 2024
+    description: "​Discover the latest tech and meet the community of founders,
+      builders, and policy advocates advancing the future of privacy, data
+      protection, and public goods funding in decentralized systems Join
+      founders, privacy advocates, contributors to public policy, and funders of
+      public goods in discussing t  he state of privacy in decentralized systems
+      today and how to take it further.  More on:
+      shieldingsummit.org  PROGRAM:  12:00- 13:00 - Reception + Lunch  ​  ​13:00
+      - 13:30 - Welcome to the Shielding Summit  ​Awa Sun Yin - Namada &
+      Anoma  ​  ​13:35 - 14:35 - Building and funding privacy as a public
+      good  ​Moderator:  ​Gavin Birch - Knowable  ​Panelists:  ​Althea Allen -
+      Ethereum  ​Scott Moore- Gitcoin  ​Meg Lister - Gitcoin  ​Mykola -
+      Web3Privacy  ​Lasha Antatze - Distributed Labs, Freedomtool.org  ​  ​14:45
+      - 15:45 - Bridging the gap between advocacy, policy, and
+      tech  ​Moderator:  ​Adrian Brink - Namada & Anoma  ​Panelists:  ​Marina
+      Markezic - EUCI  ​Alexis Roussel - NYM  ​Andreas Glarner - MME  ​Amit
+      Chaudary - Labyrinth  ​Fatemeh Fannizadeh - Heliax  ​  ​15:45 - 16:00 -
+      Coffee + Snacks  ​  ​16:00 - 16:50 - The frontiers of privacy: evolution
+      of protocols, communities, and ecosystems  ​Moderator:  ​Awa Sun Yin -
+      Namada & Anoma  ​Panelists:  ​Zooko Wilcox - Zcash  ​Christopher Goes -
+      Namada & Anoma  ​Matthias Tarasiewicz - Monero  ​Vitalik Buterin -
+      Ethereum Foundation  ​Alex G. - ZKSync  ​  ​17:00 - 18:00 - Building
+      self-sovereign infrastructure and WWIII resilient
+      societies  ​Moderator:  ​Michelle Lai - Electric Coin
+      Co  ​Panelists:  ​Zachary Williamson - Aztec  ​Ameen Soleimani - Privacy
+      Pools  ​Ryan Lackey - Evertas Insurance  ​Ian Miers - University of
+      Maryland, Aleo  ​Adrian Brink - Namada & Anoma  ​  ​17:00 -
+      18:00  ​Closing Ceremony  ​Awa Sun Yin - Namada & Anoma"
+    link: https://lu.ma/5bljdmq2
+    time: 2024-07-10T00:00:00.000Z
+  - title: Privacy Guardians Event Calendar
+    description: Privacy Guardians Event Calendar
+    link: https://lu.ma/user/privacyguardia
+    time: ""
+id: privacy-guardians
