@@ -23821,6 +23821,100 @@
       ]
     },
     {
+      "id": "cryptocanal",
+      "name": "CryptoCanal",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "alliances",
+        "events"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "We organise ETHDam and monthly meetups in Amsterdam, Rotterdam and Zurich 🦦",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://lu.ma/cryptocanal",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/CryptoCanal",
+        "discord": "",
+        "telegram": "https://t.me/CryptoCanalCommunity",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "blockblanc",
+            "link": "https://xcancel.com/blockblanc"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "ETHDam III",
+          "description": "ETHDam is a conference and hackathon hosted for the 3d time in Amsterdam, at Pakhuis de Zwijger on the 9-11 of May 2025! This edition is dedicated to Privacy, Security and AI. We look forward to welcome you as a hacker or as a conference guest!",
+          "link": "https://www.ethdam.com/",
+          "time": "2025-05-10T00:00:00.000Z"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cryptocanal/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "sons-of-crypto",
       "name": "Sons of Crypto",
       "categories": [
