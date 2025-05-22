@@ -1,93 +1,76 @@
-id: zano
 name: Zano
 categories:
-  - defi
   - infrastructure
-  - applications
-description: Zano is an open-source cryptocurrency and ecosystem with
-  enterprise-grade privacy, security, and scalability that operates as a robust
-  foundation for confidential assets and decentralised applications (dApps).
+usecases:
+  - currency
 ecosystem:
   - other
+description: >
+  Zano is an open-source cryptocurrency and ecosystem with enterprise-grade
+  privacy, security, and scalability that operates as a robust foundation for
+  confidential assets and decentralised applications. 
+
+  Ring Signatures
+
+  Stealth Addresses
+
+  Confidential Assets
+
+  Hybrid PoW/PoS setup
+sunset: false
+assets_used:
   - other
+have_token: false
+tokens: []
+links:
+  web: https://zano.org/
+  blog: https://blog.zano.org/
+  github: https://github.com/hyle-team/zano
+  forum: https://www.reddit.com/r/Zano
+  docs: https://docs.zano.org/
+  whitepaper: https://github.com/hyle-team/docs/blob/master/zano/Zano_WP_latest.pdf
+  block_explorer: https://explorer.zano.org/
+  governance: ""
+  twitter: https://twitter.com/zano_project
+  discord: https://discord.gg/zano
+  telegram: https://t.me/zanocoin
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
 project_status:
   live_status: true
   mainnet: true
   testnet: false
   version: mainnet
-links:
-  web: https://zano.org
-  blog: https://blog.zano.org/
-  github: https://github.com/hyle-team/zano
-  forum: ""
-  docs: https://docs.zano.org/
-  whitepaper: https://docs.zano.org/docs/learn/whitepaper
-  block_explorer: https://explorer.zano.org/
-  governance: ""
-  twitter: https://x.com/zano_project
-  discord: https://discord.gg/zano
-  telegram: https://t.me/zanocoin
-  lens: ""
-  farcaster: ""
-team:
-  anonymous: false
-  teammembers:
-    - name: "Quinten van Welzen "
-      link: https://x.com/Mr_Kwibs
-    - name: Pavel Nikienkov
-      link: https://x.com/pavelravaga
-    - name: "Andrey Sabelnikov "
-      link: https://x.com/_cryptozoidberg
-    - name: Valeriy Pisarkov
-      link: https://x.com/crypto_sowle
-usecases:
-  - currency
-  - defi
-  - wallets
-  - infrastructure
-  - bridge
-  - research-and-development
-  - dapps
-have_token: false
-third_party_dependency: No
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/zano/logo.png
-product_launch_day: 2019-06-05T22:00:00.000Z
-sunset: false
-assets_used: []
-tokens:
-  - symbol: ZANO
-    name: Zano
-    contract_address: ""
-    token_link: https://explorer.zano.org/
-project_phase: mainnet
 blockchain_features:
   opensource: true
   upgradability:
-    enabled: true
+    enabled: false
   asset_custody_type: non-custody
-  encryption: CryptoNote
+  encryption: Ring Signatures, Stealth Addresses, Bulletproof +
   p2p: true
 storage: {}
 privacy_policy:
   defined: true
   link: https://zano.org/privacy-policy
-  data_usage: ""
+  data_usage: none
 compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
   sign_in_type_requirments: []
 default_privacy: true
-audits:
-  - name: Zarcanum Review by Cypher Stack (Aaron Feickert)
-    url: https://github.com/cypherstack/zarcanum-review/releases/tag/final
-    time: 2021-12-20T23:00:00.000Z
-  - name: Zano d/v-CLSAG Review by Cypher Stack (Aaron Feickert)
-    url: https://github.com/cypherstack/zano-clsag-review/releases/tag/final
-    time: 2024-03-07T23:00:00.000Z
-social_trust: The Zano core team
+audits: []
+third_party_dependency: ""
+social_trust: ""
 technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Crypto Zoidberg
+      link: https://github.com/cryptozoidberg
+    - name: Ravaga
+      link: https://github.com/PRavaga
 funding: []
+history: []
+id: zano
