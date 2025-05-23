@@ -1,3 +1,4 @@
+id: privacy-guardians
 name: Privacy Guardians
 categories:
   - social-and-communications
@@ -18,7 +19,7 @@ have_token: false
 tokens: []
 links:
   web: https://shieldingsummit.org/
-  blog: ""
+  blog: https://mirror.xyz/0xcc76348c5830cDE17efE1Ffd7c7025D33e85487D
   github: ""
   forum: ""
   docs: ""
@@ -95,4 +96,7 @@ history:
     description: Privacy Guardians Event Calendar
     link: https://lu.ma/user/privacyguardia
     time: ""
-id: privacy-guardians
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/privacy-guardians/logo.jpeg
