@@ -1,3 +1,4 @@
+id: cryptocanal
 name: CryptoCanal
 categories:
   - social-and-communications
@@ -59,6 +60,8 @@ team:
   teammembers:
     - name: blockblanc
       link: https://xcancel.com/blockblanc
+    - name: YD
+      link: https://x.com/CryptoYDao
 funding: []
 history:
   - title: ETHDam III
@@ -68,4 +71,7 @@ history:
       hacker or as a conference guest!
     link: https://www.ethdam.com/
     time: 2025-05-10T00:00:00.000Z
-id: cryptocanal
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/cryptocanal/logo.jpeg
