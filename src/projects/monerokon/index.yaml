@@ -1,0 +1,78 @@
+name: MoneroKon
+categories:
+  - social-and-communications
+usecases:
+  - events
+ecosystem:
+  - monero
+description: "Monero Konferenco (“MoneroKon”) is an annual meeting of privacy
+  advocates, cypherpunks, researchers, and developers and is designed to
+  disseminate scientific and technical results in privacy-enhancing technologies
+  and distributed systems. "
+product_launch_day: 2019-07-22T00:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.monerokon.org/
+  blog: https://www.monerokon.org/blog/mk25-press-release.html
+  github: https://github.com/MoneroKon
+  forum: https://matrix.to/#/#monerokon:matrix.org
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/MoneroKon
+  discord: ""
+  telegram: https://t.me/monerokon
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Annual Event
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.monerokon.org/policies/privacy_policy.html
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: Event is run by Monero community members
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history:
+  - title: MoneroKon
+    description: MoneroKon Denver
+    link: https://www.monerokon.org/past_events/2019.html
+    time: 2019-06-22T00:00:00.000Z
+  - title: MoneroKon 2
+    description: MoneroKon Lisbon
+    link: https://www.monerokon.org/past_events/2022.html
+    time: 2022-06-18T00:00:00.000Z
+  - title: MoneroKon 3
+    description: MoneroKon 3 Prague
+    link: https://www.monerokon.org/past_events/2023.html
+    time: 2023-06-23T00:00:00.000Z
+  - title: MoneroKon 4
+    description: MoneroKon 4 Prague
+    link: https://www.monerokon.org/past_events/2024.html
+    time: 2024-06-07T00:00:00.000Z
+id: monerokon
