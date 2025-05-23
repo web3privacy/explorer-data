@@ -16044,6 +16044,123 @@
       ]
     },
     {
+      "id": "wizardswap",
+      "name": "WizardSwap",
+      "categories": [
+        "applications",
+        "defi",
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "dapps",
+        "other"
+      ],
+      "ecosystem": [
+        "monero",
+        "bitcoin",
+        "ethereum",
+        "other",
+        "multichain"
+      ],
+      "description": "WizardSwap is an instant swap exchange run by LocalParticl.com - Supports many privacy coins.",
+      "sunset": false,
+      "assets_used": [
+        "xmr",
+        "eth",
+        "btc",
+        "zcash",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.wizardswap.io/",
+        "blog": "",
+        "github": "",
+        "forum": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2F1QGW_KDAM_QAFHcPNiMLc2wb_vjO2dz3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAHIZaGuyknd6X53Lm_2SiU1Ep5I5lbu3g7x5AdxKcdxQ%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion",
+        "docs": "https://www.wizardswap.io/faq",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/WizardSwap_io",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "custodial",
+        "encryption": "instant swap"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "custodial platform",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "Vienna meet-up sponsored by WizardSwap",
+          "description": " OrangeFren.com is organizing a meet-up in Vienna, Austria 🇦🇹, thanks to WizardSwap.io.  The event is taking place on Friday the 21th of February 2025 at District Working & Event Venue, Donau-City-Straße 3, 1220 Wien. The meet-up begins at 18:00 local time.  The tickets are free.  WizardSwap is inviting attendees to join their invite-only liquidity-pool system. It allows you to earn part of their trading fees or swap between coins with 0 fee.  Here's how you can join:      Sign up with invite code VIENNA: https://www.wizardswap.io/page=signup&invite_code=VIENNA     Log in: http://wizardswap.io/login     Click on the cryptocurrency row for the coin you want to deposit     Send to the deposit address     Enable swapping for each of the pairs that you wish to let WizardSwap 🧙‍♂️ use your coins for    For instance, say you deposited XMR and want to earn money on XMR🔁BTC trades only:      After depositing your XMR enable swapping for it, then select BTC in the list of currencies you wish to exchange XMR for and tap Save     Now open BTC's settings, enable swapping of BTC and select XMR as the currency you'll want to exchange BTC to and tap Save    From now on, whenever there's a trade on WizardSwap 🧙‍♂️between XMR and BTC, your coins will be used to make it happen and you'll earn the trading fee💸. Sometimes as high as 5% for Monero 😳  🤔 This means, if you're not in a hurry, it's possible to swap coins on WizardSwap with 0 fee, by simply only enabling swapping in one direction and let other users make the trades to move your liquidity from one coin to the other 🥳  🧙‍♂️ The magic isn't limited to just Bitcoin and Monero either. WizardSwap supports also ETH, LTC, DOGE, ZANO, DASH, FIRO, ONION, PIVX and PART 💁  Of course remember not to deposit your life's savings. Not your keys, not your coins.",
+          "link": "https://orangefren.com/event/21",
+          "time": "2025-02-21T00:00:00.000Z"
+        },
+        {
+          "title": "Istanbul meet-up sponsored by WizardSwap",
+          "description": " OrangeFren.com is organizing a meet-up in Istanbul, Türkiye 🇹🇷, thanks to WizardSwap.io.  The event is taking place on Friday the 20th of December 2024 at CoBAC Workshop, Sarıdemir, Ragıp Gümüşpala Cd. No:29, 34116 Fatih/İstanbul. The meet-up begins at 18:00 local time.  The tickets are free.  WizardSwap is inviting attendees to join their invite-only liquidity-pool system. It allows you to earn part of their trading fees or swap between coins with 0 fee.  Here's how you can join:      Sign up with invite code ISTANBUL: https://www.wizardswap.io/page=signup&invite_code=ISTANBUL     Log in: http://wizardswap.io/login     Click on the cryptocurrency row for the coin you want to deposit     Send to the deposit address     Enable swapping for each of the pairs that you wish to let WizardSwap 🧙‍♂️ use your coins for    For instance, say you deposited XMR and want to earn money on XMR🔁BTC trades only:      After depositing your XMR enable swapping for it, then select BTC in the list of currencies you wish to exchange XMR for and tap Save     Now open BTC's settings, enable swapping of BTC and select XMR as the currency you'll want to exchange BTC to and tap Save    From now on, whenever there's a trade on WizardSwap 🧙‍♂️between XMR and BTC, your coins will be used to make it happen and you'll earn the trading fee💸. Sometimes as high as 5% for Monero 😳  🤔 This means, if you're not in a hurry, it's possible to swap coins on WizardSwap with 0 fee, by simply only enabling swapping in one direction and let other users make the trades to move your liquidity from one coin to the other 🥳  🧙‍♂️ The magic isn't limited to just Bitcoin and Monero either. WizardSwap supports also ETH, LTC, DOGE, ZANO, DASH, FIRO, ONION, PIVX and PART 💁  Of course remember not to deposit your life's savings. Not your keys, not your coins.",
+          "link": "https://orangefren.com/event/20",
+          "time": "2024-12-20T00:00:00.000Z"
+        },
+        {
+          "title": "Nicosia meet-up sponsored by WizardSwap",
+          "description": "OrangeFren.com is organizing a meet-up in Nicosia, Cyprus 🇨🇾, thanks to WizardSwap.io.  The event is taking place on Friday the 1st of November 2024 at Axess Workspace, 28, Konstantinou Palaiologou 1015, Nicosia, Cyprus. The meet-up begins at 18:00 local time.  The tickets are free. ",
+          "link": "https://orangefren.com/event/19",
+          "time": "2024-11-01T00:00:00.000Z"
+        },
+        {
+          "title": "Tbilisi meet-up sponsored by WizardSwap",
+          "description": "OrangeFren.com is organizing a meet-up in Tbilisi, Georgia 🇬🇪, thanks to WizardSwap.io.  The event is taking place on Friday the 27th of September 2024 at 1tab, 0162, 6 N Ilia Chavchavadze, 1st lane, Tbilisi 0162, Georgia. The meet-up begins at 18:00 local time.  The tickets are free. ",
+          "link": "https://orangefren.com/event/18",
+          "time": "2024-09-27T00:00:00.000Z"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/wizardswap/logo.png"
+        }
+      ]
+    },
+    {
       "id": "kelvpn",
       "name": "KelVPN",
       "categories": [
