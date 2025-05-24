@@ -1,3 +1,4 @@
+id: ryo-currency
 name: Ryo Currency
 categories:
   - infrastructure
@@ -19,7 +20,6 @@ description: "Ryo Currency is a privacy coin based on a proof-of-work consensus
   wallets; Working with payment gateways to make Ryo widely accepted among
   merchants; Improving coin security, untraceability, privacy and speed;
   Spreading awareness about Ryo."
-product_launch_day: 2017-04-30T18:30:00.000Z
 sunset: false
 assets_used: []
 have_token: false
@@ -80,4 +80,3 @@ team:
       link: https://x.com/fireice_uk
 funding: []
 history: []
-id: ryo-currency
