@@ -12303,7 +12303,14 @@
         ]
       },
       "funding": [],
-      "history": []
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ryo-currency/logo.jpeg"
+        }
+      ]
     },
     {
       "id": "zero",
