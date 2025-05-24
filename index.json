@@ -12212,6 +12212,100 @@
       ]
     },
     {
+      "id": "ryo-currency",
+      "name": "Ryo Currency",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "defi"
+      ],
+      "usecases": [
+        "wallets",
+        "currency",
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Ryo Currency is a privacy coin based on a proof-of-work consensus mechanism. It is similar to other privacy coins like Monero (XMR) or Z-Cash (ZEC), since it is actually a fork of Monero. Ryo aims to be a privacy-focused cryptocurrency that can be easily used by average users. Its high privacy setting makes Ryo suitable for all high confidential transactions as well as for storage of value without being traced, monitored or identified. To achieve this goal, it focuses on several key areas: Developing and maintaining the Ryo wallets; Working with payment gateways to make Ryo widely accepted among merchants; Improving coin security, untraceability, privacy and speed; Spreading awareness about Ryo.",
+      "product_launch_day": "2017-04-30T18:30:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [
+        {
+          "symbol": "Ryo Currency",
+          "name": "RYO",
+          "contract_address": "",
+          "token_link": "https://explorer.ryo-currency.com"
+        }
+      ],
+      "links": {
+        "web": "https://ryo-currency.com",
+        "blog": "",
+        "github": "https://github.com/ryo-currency",
+        "forum": "",
+        "docs": "https://ryo-currency.com/library/",
+        "whitepaper": "https://ryo-currency.com",
+        "block_explorer": "https://explorer.ryo-currency.com",
+        "governance": "",
+        "twitter": "https://x.com/RyocurrencyO",
+        "discord": "https://discord.com/invite/t2pdmsSa9P",
+        "telegram": "https://t.me/RyoCurrency",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Ring Signatures, Stealth Addresses",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "seed",
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "FireIce_UK",
+            "link": "https://x.com/fireice_uk"
+          }
+        ]
+      },
+      "funding": [],
+      "history": []
+    },
+    {
       "id": "zero",
       "name": "Zero",
       "categories": [
