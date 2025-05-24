@@ -20,6 +20,9 @@ links:
 have_token: false
 third_party_dependency: none
 logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.jpeg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.png
@@ -32,7 +35,6 @@ ecosystem:
   - ethereum
   - solana
   - cosmos
-product_launch_day: 2023-04-30T22:00:00.000Z
 sunset: false
 assets_used:
   - other
