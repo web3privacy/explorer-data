@@ -1,3 +1,4 @@
+id: ryo-currency
 name: Ryo Currency
 categories:
   - infrastructure
@@ -80,4 +81,3 @@ team:
       link: https://x.com/fireice_uk
 funding: []
 history: []
-id: ryo-currency
