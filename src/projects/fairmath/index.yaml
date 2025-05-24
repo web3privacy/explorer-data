@@ -35,6 +35,7 @@ ecosystem:
   - ethereum
   - solana
   - cosmos
+product_launch_day: 2023-04-30T22:00:00.000Z
 sunset: false
 assets_used:
   - other
