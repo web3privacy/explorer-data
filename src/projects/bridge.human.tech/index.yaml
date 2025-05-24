@@ -1,0 +1,65 @@
+name: Bridge.Human.tech
+categories:
+  - infrastructure
+  - applications
+  - defi
+usecases:
+  - eth-layer-2
+  - bridge
+ecosystem:
+  - ethereum
+  - other
+description: Ethereum <> Aztec bridge for moving between Aztec and Ethereum.
+sunset: false
+assets_used:
+  - eth
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://bridge.human.tech/
+  blog: https://blog.human.tech/
+  github: ""
+  forum: ""
+  docs: https://docs.human.tech/
+  whitepaper: https://drive.google.com/file/d/1TALP8sGn1n7VZgexq6ihSuw7wSOwc65J/view
+  block_explorer: https://aztecscan.xyz/
+  governance: ""
+  twitter: https://x.com/0xHolonym
+  discord: https://discord.com/invite/zfGqjA5pxU
+  telegram: https://t.me/humantechofficial
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: bridge.human.tech
