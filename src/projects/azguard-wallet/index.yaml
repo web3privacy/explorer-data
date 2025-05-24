@@ -1,0 +1,63 @@
+name: Azguard Wallet
+categories:
+  - applications
+usecases:
+  - wallets
+  - eth-layer-2
+ecosystem:
+  - other
+description: User-friendly self-custody wallet for Aztec network, preserving
+  your privacy and revealing the power of account abstraction.
+sunset: false
+assets_used:
+  - eth
+have_token: false
+tokens: []
+links:
+  web: https://azguardwallet.io/
+  blog: https://azguardwallet.io/blog
+  github: https://github.com/AzguardWallet
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/azguardwallet
+  discord: ""
+  telegram: https://t.me/azguardwallet
+  lens: ""
+  farcaster: ""
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://azguardwallet.io/privacy/
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - seed
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: azguard-wallet
