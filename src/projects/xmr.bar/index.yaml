@@ -1,0 +1,63 @@
+name: XMR.BAR
+categories:
+  - social-and-communications
+usecases:
+  - other
+ecosystem:
+  - monero
+description: Roll the dice privately with XMR.BAR
+product_launch_day: 2025-03-31T22:00:00.000Z
+sunset: false
+assets_used:
+  - xmr
+have_token: false
+tokens: []
+links:
+  web: https//xmr.bar/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: "@xmrbar"
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Bet informations, the bare minimum to function.
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Elusive
+      link: "@elusiveprivacy on X"
+funding: []
+history: []
+id: xmr.bar
