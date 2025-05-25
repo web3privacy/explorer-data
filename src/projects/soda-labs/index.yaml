@@ -1,0 +1,65 @@
+name: Soda Labs
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - mpc
+ecosystem:
+  - multichain
+description: |-
+  Revolutionizing Web3 Security:
+  On-Chain End-to-End Encryption with a Trustless MPC Network
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://www.sodalabs.xyz/
+  blog: https://www.sodalabs.xyz/blog/
+  github: https://github.com/soda-mpc
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/sodabubblelabs
+  discord: ""
+  telegram: https://t.me/+93Z0VYlfsWgzMmE0
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Multi-party computation
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Avishay Yanai
+      link: https://www.sodalabs.xyz/
+    - name: Meital Levy
+      link: https://www.sodalabs.xyz/
+funding: []
+history: []
+id: soda-labs
