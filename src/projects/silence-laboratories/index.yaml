@@ -1,0 +1,69 @@
+name: Silence Laboratories
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - mpc
+ecosystem:
+  - multichain
+description: The versatile toolkit for MPC-TSS and Privacy-Preserving Compute.
+sunset: false
+assets_used:
+  - eth
+  - usdc
+  - usdt
+  - dai
+have_token: false
+tokens: []
+links:
+  web: https://silencelaboratories.com/
+  blog: https://silencelaboratories.com/blog
+  github: https://github.com/silence-laboratories
+  forum: https://medium.com/silence-laboratories
+  docs: https://docs.silencelaboratories.com/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/silencelabs_sl
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Multi-party computation, threshold Signature Scheme
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://silencelaboratories.com/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Jay Prakash
+      link: https://silencelaboratories.com/team
+    - name: Andrei Bytes
+      link: https://silencelaboratories.com/team
+    - name: Tony Quek
+      link: https://silencelaboratories.com/team
+funding: []
+history: []
+id: silence-laboratories
