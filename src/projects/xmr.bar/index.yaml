@@ -6,8 +6,8 @@ usecases:
   - other
 ecosystem:
   - monero
-description: Roll the dice privately with XMR.BAR
-product_launch_day: 2025-03-01T00:00:00.000Z
+description: Roll the dice privately with XMR.BAR. Game of chance with Monero.
+product_launch_day: 2025-03-31T00:00:00.000Z
 sunset: false
 assets_used:
   - xmr
