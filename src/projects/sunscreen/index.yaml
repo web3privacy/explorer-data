@@ -20,6 +20,9 @@ links:
 have_token: false
 third_party_dependency: none
 logos:
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/sunscreen/logo.svg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/sunscreen/logo.png
