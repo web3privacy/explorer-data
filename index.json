@@ -242,6 +242,86 @@
       ]
     },
     {
+      "id": "aizel-network",
+      "name": "Aizel Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "mpc",
+        "tee",
+        "ai",
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "description": " The Fastest and most scalable on-chain AI platform based on TEE & MPC.\nAizel delivers trustless, private AI on-chain in the most performant way, revolutionizing the future of blockchain automation and scalability. ",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://aizelnetwork.com/",
+        "blog": "https://medium.com/@aizel_network",
+        "github": "https://github.com/AizelNetwork/",
+        "forum": "",
+        "docs": "https://aizel-dosc.pages.dev/docs/Development/resource",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/aizel_network",
+        "discord": "https://discord.gg/UV6NDtYpAC",
+        "telegram": "https://t.me/aizel_network",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://aizelnetwork.com/privicy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/aizel-network/logo.png"
+        }
+      ]
+    },
+    {
       "id": "ashigaru",
       "name": "Ashigaru",
       "categories": [
