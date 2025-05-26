@@ -23,6 +23,9 @@ logos:
   - file: logo.jpeg
     ext: jpeg
     url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.jpeg
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.svg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.png
