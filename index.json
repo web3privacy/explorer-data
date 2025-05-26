@@ -6646,7 +6646,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Build, Own, and Monetize in Web3. Privacy & Choice for users",
+      "description": "Build, Own, and Monetize in Web3. Privacy & Choice for users. iExec is the trust layer for AI—securing the AI pipeline, enabling monetization, and adding trust to AI agents.",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -6689,7 +6689,9 @@
       ],
       "sunset": false,
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "ai",
+        "tee"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -6703,7 +6705,7 @@
         "ethereum",
         "other"
       ],
-      "product_launch_day": "2017-05-08T22:00:00.000Z",
+      "product_launch_day": "2017-05-08T00:00:00.000Z",
       "assets_used": [],
       "project_status": {
         "live_status": false,
