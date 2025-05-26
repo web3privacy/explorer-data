@@ -1,3 +1,4 @@
+id: xmr.bar
 name: XMR.BAR
 categories:
   - social-and-communications
@@ -6,7 +7,7 @@ usecases:
 ecosystem:
   - monero
 description: Roll the dice privately with XMR.BAR
-product_launch_day: 2025-03-31T22:00:00.000Z
+product_launch_day: 2025-03-01T00:00:00.000Z
 sunset: false
 assets_used:
   - xmr
@@ -57,7 +58,6 @@ team:
   anonymous: false
   teammembers:
     - name: Elusive
-      link: "https://x.com/elusiveprivacy"
+      link: https://x.com/elusiveprivacy
 funding: []
 history: []
-id: xmr.bar
