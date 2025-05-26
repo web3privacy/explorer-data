@@ -21272,6 +21272,11 @@
       },
       "logos": [
         {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.jpeg"
+        },
+        {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.png"
@@ -21342,6 +21347,30 @@
         {
           "name": "DFG",
           "link": "https://www.dfg.group"
+        },
+        {
+          "name": "Mr. Beast",
+          "link": "https://www.ternoa.network/"
+        },
+        {
+          "name": "ArkStream Capital",
+          "link": "https://www.ternoa.network/"
+        },
+        {
+          "name": "SevenX",
+          "link": "https://www.ternoa.network/"
+        },
+        {
+          "name": "Waterdrip Capital",
+          "link": "https://www.ternoa.network/"
+        },
+        {
+          "name": "Avail",
+          "link": "https://www.ternoa.network/"
+        },
+        {
+          "name": "Crust",
+          "link": "https://www.ternoa.network/"
         }
       ],
       "history": [
