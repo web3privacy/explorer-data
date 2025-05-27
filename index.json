@@ -9827,6 +9827,107 @@
       ]
     },
     {
+      "id": "anyone",
+      "name": "Anyone",
+      "categories": [
+        "infrastructure",
+        "hardware"
+      ],
+      "usecases": [
+        "infrastructure",
+        "hardware"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Anyone is building the largest internet-routing DePIN in the world: a modular privacy layer for any application to use seamlessly.\nThe protocol is centred around its DePIN privacy layer - a traffic-routing network where all traffic is forwarded through multi-hop VPN tunnels. \n",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "ANYONE",
+          "name": "ANYONE",
+          "contract_address": "0xFeAc2Eae96899709a43E252B6B92971D32F9C0F9",
+          "token_link": "https://etherscan.io/token/0xfeac2eae96899709a43e252b6b92971d32f9c0f9"
+        }
+      ],
+      "links": {
+        "web": "https://www.anyone.io/",
+        "blog": "https://medium.com/@anyone-protocol",
+        "github": "https://github.com/anyone-protocol",
+        "forum": "",
+        "docs": "https://docs.anyone.io/",
+        "whitepaper": "htps://anyone.io/whitepaper",
+        "block_explorer": "https://depinhub.io/explorer/anyone",
+        "governance": "",
+        "twitter": "https://x.com/AnyoneFDN",
+        "discord": "https://discord.com/invite/anyoneprotocol",
+        "telegram": "https://t.me/anyoneprotocol",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Anon Morpho",
+            "link": "https://www.anyone.io/about-us"
+          },
+          {
+            "name": "Glenn Kennedy",
+            "link": "https://www.anyone.io/about-us"
+          },
+          {
+            "name": "Neuratic",
+            "link": "https://www.anyone.io/about-us"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anyone/logo.png"
+        }
+      ]
+    },
+    {
       "id": "mullvad-vpn",
       "name": "Mullvad VPN",
       "categories": [
