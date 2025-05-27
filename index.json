@@ -12558,6 +12558,101 @@
       ]
     },
     {
+      "id": "aztecscan",
+      "name": "Aztecscan",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "other"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "description": "A block explorer for the Aztec Network. Explore the power of privacy on Aztec",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://aztecscan.xyz/",
+        "blog": "",
+        "github": "https://github.com/aztec-scan/chicmoz",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "https://aztecscan.xyz/",
+        "governance": "",
+        "twitter": "",
+        "discord": "https://discord.gg/xnw7fVXB7m",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://aztecscan.xyz/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Filip Harald",
+            "link": "https://x.com/filip_harald"
+          },
+          {
+            "name": "Mauro Eijsenring",
+            "link": "https://github.com/Mautjee"
+          },
+          {
+            "name": "Nikolay Kostadinov ",
+            "link": "https://github.com/NikolayKostadinov21"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/aztecscan/logo.png"
+        }
+      ]
+    },
+    {
       "id": "arcana-s-private-nft",
       "name": "Arcana's Private NFT",
       "categories": [
