@@ -1,0 +1,61 @@
+name: Aztec Explorer
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - eth-layer-2
+ecosystem:
+  - ethereum
+  - other
+description: "A block explorer for the Aztec Network. "
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://aztecexplorer.xyz/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: aztec-explorer
