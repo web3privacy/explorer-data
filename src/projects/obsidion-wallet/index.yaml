@@ -1,0 +1,77 @@
+name: Obsidion Wallet
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - wallets
+  - eth-layer-2
+ecosystem:
+  - ethereum
+  - other
+description: >
+  A user-friendly wallet for Aztec where privacy is the default. Obsidion Wallet
+  is a wallet built ontop of the Aztec Network Ethereum Layer 2 with privacy as
+  the default. 
+
+
+  Key Features
+
+  - Modular Accounts Powered by Passkeys.
+
+  - Identity Registry for verifying identity.
+
+  - Email Registry for ease of sending assets.
+
+  - Pay to Social accounts ie, email where the user does not need to have an
+  account yet.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://obsidion.xyz/
+  blog: ""
+  github: https://github.com/obsidionlabs/
+  forum: ""
+  docs: https://docs.obsidion.xyz/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ObsidionWallet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: obsidion-wallet
