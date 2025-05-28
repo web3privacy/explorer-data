@@ -1,3 +1,4 @@
+id: unstoppable-wallet
 name: Unstoppable Wallet
 categories:
   - applications
@@ -7,7 +8,7 @@ ecosystem:
   - multichain
 description: Unstoppable is the first multi-coin wallet that supports Bitcoin,
   Ethereum, and fully shielded Zcash
-product_launch_day: 2019-07-18T18:00:00.000Z
+product_launch_day: 2019-07-04T18:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -51,8 +52,9 @@ privacy_policy:
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
-  sign_in_type_requirments: []
+  tracked_data: Absolutely nothing
+  sign_in_type_requirments:
+    - seed
 default_privacy: false
 audits: []
 third_party_dependency: ""
@@ -60,7 +62,14 @@ social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: []
-funding: []
+  teammembers:
+    - name: Dan Dadybayo
+      link: https://x.com/ddadybayo
+funding:
+  - name: Self-funded, no external investors, VC funding, etc.
+    link: ""
 history: []
-id: unstoppable-wallet
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/unstoppable-wallet/logo.png
