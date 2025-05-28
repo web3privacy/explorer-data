@@ -25,7 +25,7 @@ project_status:
   testnet: false
   version: "2024051500"
 usecases:
-  - operation-systems
+  - operating-systems
 have_token: false
 third_party_dependency: none
 logos:

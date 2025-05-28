@@ -10,7 +10,7 @@
     - storage
     - data-management
     - tee
-    - fhe 
+    - fhe
     - other
 - id: social-and-communications
   name: Social & Communications
@@ -27,7 +27,7 @@
     - wallets
     - node
     - tee
-    - fhe 
+    - fhe
     - other
 - id: applications
   name: Applications
@@ -35,13 +35,13 @@
     - browser
     - vpn
     - did
-    - operation-systems
+    - operating-systems
     - dapps
     - wallets
     - ai
     - kyc-solution
     - tee
-    - fhe 
+    - fhe
     - other
 - id: defi
   name: Defi
@@ -51,7 +51,7 @@
     - mixing-service
     - mixing-management
     - tee
-    - fhe 
+    - fhe
     - currency
     - other
 - id: archived-projects
