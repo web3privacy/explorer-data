@@ -2693,7 +2693,7 @@
         "mainnet": true
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -7417,7 +7417,7 @@
         "mainnet": false
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -8523,7 +8523,7 @@
         "version": "2024051500"
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -10772,7 +10772,7 @@
         "mainnet": true
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -18647,7 +18647,7 @@
         "mainnet": true
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -19843,7 +19843,7 @@
         "mainnet": true
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -25170,7 +25170,7 @@
         "mainnet": false
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -26649,7 +26649,7 @@
         "mainnet": false
       },
       "usecases": [
-        "operation-systems"
+        "operating-systems"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -29914,7 +29914,7 @@
       ],
       "usecases": [
         "did",
-        "operation-systems"
+        "operating-systems"
       ],
       "ecosystem": [
         "other"
@@ -35593,8 +35593,8 @@
       "name": "Dapps"
     },
     {
-      "id": "operation-systems",
-      "name": "Operation systems"
+      "id": "operating-systems",
+      "name": "Operating systems"
     },
     {
       "id": "nft-community",
@@ -35739,7 +35739,7 @@
         "browser",
         "vpn",
         "did",
-        "operation-systems",
+        "operating-systems",
         "dapps",
         "wallets",
         "ai",
