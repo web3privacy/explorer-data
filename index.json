@@ -28554,6 +28554,90 @@
       ]
     },
     {
+      "id": "somethinghappened",
+      "name": "SomethingHappened",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "eth-layer-2",
+        "research-and-development",
+        "other"
+      ],
+      "ecosystem": [
+        "other",
+        "ethereum"
+      ],
+      "description": " Fun block explorer for Aztec. This is an Aztec blockchain explorer that\ndisplays real transactions on the Aztec network. The transactions, blocks, and data shown here reflect actual network activity. \nPurpose of This Explorer\n\n1 Understand the concept of private transactions\n2 Understand how zero-knowledge technology works in practice\n3 Appreciate why transaction details aren't publicly visible in privacy-focused networks",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.somethinghappened.wtf/",
+        "blog": "",
+        "github": "https://github.com/raven-house/azwildexplorer",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "https://www.somethinghappened.wtf/",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/somethinghappened/logo.png"
+        }
+      ]
+    },
+    {
       "id": "xmrchat",
       "name": "XMRChat",
       "categories": [
