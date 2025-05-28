@@ -1,3 +1,4 @@
+id: zk-email
 name: ZK Email
 categories:
   - applications
@@ -8,4 +9,26 @@ ecosystem:
 description: "ZK Email allows to verify emails according to DKIM protocol using
   zero-knowledge proofs. "
 sunset: false
-id: zk-email
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/zk-email/logo.jpeg
+audits:
+  - name: 2024 zk-regex and ZKsync update by Matter Labs
+    url: https://docs.zk.email/files/matterlabs-zkemail-audit-report.pdf
+    time: 2024-10-25T00:00:00.000Z
+  - name: 2024 Email Transaction Builder Audit by Zellic
+    url: https://docs.zk.email/files/zkemail-zellic-audit-report.pdf
+    time: 2024-08-30T00:00:00.000Z
+  - name: 2024 Account Recovery Smart Contract Audit by Ackee
+    url: https://docs.zk.email/files/ackee-blockchain-zkemail-email-recovery-report.pdf
+    time: 2024-08-05T00:00:00.000Z
+  - name: 2024 Audit by zksecurity
+    url: https://docs.zk.email/files/zk_email_zksecurity_audit.pdf
+    time: 2024-05-27T00:00:00.000Z
+  - name: 2023 Audit by Y Academy
+    url: https://docs.zk.email/files/yacademy-zkemail-audit-report.pdf
+    time: 2023-09-23T00:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
