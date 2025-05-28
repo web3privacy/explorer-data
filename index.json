@@ -21144,7 +21144,7 @@
         "multichain"
       ],
       "description": "Unstoppable is the first multi-coin wallet that supports Bitcoin, Ethereum, and fully shielded Zcash",
-      "product_launch_day": "2019-07-18T18:00:00.000Z",
+      "product_launch_day": "2019-07-04T18:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -21194,8 +21194,10 @@
       "compliance": "",
       "tracebility": {
         "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": []
+        "tracked_data": "Absolutely nothing",
+        "sign_in_type_requirments": [
+          "seed"
+        ]
       },
       "default_privacy": false,
       "audits": [],
@@ -21204,9 +21206,19 @@
       "technical_spof": "",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Dan Dadybayo",
+            "link": "https://x.com/ddadybayo"
+          }
+        ]
       },
-      "funding": [],
+      "funding": [
+        {
+          "name": "Self-funded, no external investors, VC funding, etc.",
+          "link": ""
+        }
+      ],
       "history": [],
       "logos": [
         {
