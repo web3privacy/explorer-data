@@ -32,8 +32,8 @@
   name: Storage
 - id: dapps
   name: Dapps
-- id: operation-systems
-  name: Operation systems
+- id: operating-systems
+  name: Operating systems
 - id: nft-community
   name: NFT community
 - id: alliances
