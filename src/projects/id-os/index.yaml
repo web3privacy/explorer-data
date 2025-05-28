@@ -4,7 +4,7 @@ categories:
   - infrastructure
 usecases:
   - did
-  - operation-systems
+  - operating-systems
 ecosystem:
   - other
 description: Open-source, composable and chain-agnostic decentralized storage

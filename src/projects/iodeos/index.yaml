@@ -18,6 +18,6 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- operation-systems
+- operating-systems
 have_token: false
 third_party_dependency: none
