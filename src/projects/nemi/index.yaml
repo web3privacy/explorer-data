@@ -1,0 +1,34 @@
+name: Nemi
+categories:
+  - defi
+  - applications
+usecases:
+  - defi
+  - dapps
+ecosystem:
+  - ethereum
+description: "A private exchange on Aztec chain. Transactions are protected using ZK. "
+product_launch_day: 2025-05-31T22:00:00.000Z
+nickname: oleh.blockchain@gmail.com
+sunset: false
+assets_used:
+  - eth
+  - usdt
+  - usdc
+have_token: false
+tokens: []
+links:
+  web: https://nemi.fi
+  blog: ""
+  github: https://github.com/nemi-fi
+  forum: https://discord.nemi.fi
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/nemi_fi
+  discord: https://discord.nemi.fi
+  telegram: https://t.me/nemi_fi
+  lens: ""
+  farcaster: ""
+id: nemi
