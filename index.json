@@ -8335,6 +8335,112 @@
       ]
     },
     {
+      "id": "neptune",
+      "name": "Neptune",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "currency"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Neptune Cash is a Layer-1 peer-to-peer anonymous cash protocol featuring privacy, scalability, and post-quantum security.  Neptune is a peer-to-peer anonymous cash protocol featuring privacy, scalability, and post-quantum security. It is the first blockchain protocol to feature mutator sets, a novel solution for achieving privacy without sacrificing scalability. As a cherry on top, Neptune also supports arbitrary logic; together with privacy, this support makes Neptune a private smart contract platform in addition to a competitor for the world's best possible money.",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://neptune.cash/",
+        "blog": "https://neptune.cash/blog/",
+        "github": "https://github.com/Neptune-Crypto",
+        "forum": "https://talk.neptune.cash/",
+        "docs": "",
+        "whitepaper": "https://neptune.cash/whitepaper/",
+        "block_explorer": "https://explorer.neptune.cash/",
+        "governance": "",
+        "twitter": "https://x.com/seagodcrypto",
+        "discord": "",
+        "telegram": "https://t.me/neptune_project",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "funding": [
+        {
+          "name": "Niko Kipouros",
+          "link": "https://neptune.cash/about/"
+        },
+        {
+          "name": "Zachary Williamson",
+          "link": "https://neptune.cash/about/"
+        },
+        {
+          "name": "Jan Xie",
+          "link": "https://neptune.cash/about/"
+        },
+        {
+          "name": "Ergodic Capital",
+          "link": "https://neptune.cash/about/"
+        },
+        {
+          "name": "Inacta Ventures",
+          "link": "https://neptune.cash/about/"
+        }
+      ],
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Thorkil Værge",
+            "link": "https://github.com/Sword-Smith"
+          },
+          {
+            "name": "Alan Szepieniec",
+            "link": "https://github.com/aszepieniec"
+          }
+        ]
+      },
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/neptune/logo.png"
+        }
+      ]
+    },
+    {
       "id": "vexl",
       "name": "Vexl",
       "categories": [
