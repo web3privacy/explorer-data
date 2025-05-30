@@ -1,0 +1,64 @@
+name: terminal wallet
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: TERMINAL WALLET is an open source, free & non-profit Command Line
+  Interface wallet app featuring secure transactions & RAILGUN privacy across 0x
+  and 0zk addresses
+sunset: false
+assets_used:
+  - eth
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://terminal-wallet.com/
+  blog: ""
+  github: https://github.com/Terminal-Wallet
+  forum: ""
+  docs: https://terminalwallet-cli.gitbook.io/terminal-wallet
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - email
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: terminal-wallet
