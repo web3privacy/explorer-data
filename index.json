@@ -28108,7 +28108,9 @@
       ],
       "description": "Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc",
       "ecosystem": [
-        "multichain"
+        "multichain",
+        "other",
+        "ethereum"
       ],
       "links": {
         "web": "https://dappnode.io/",
@@ -28136,7 +28138,26 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/dappnode/logo.png"
         }
-      ]
+      ],
+      "sunset": false,
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "assets_used": [],
+      "tokens": []
     },
     {
       "id": "fedi",
