@@ -1,0 +1,62 @@
+name: Psy Protocol
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - currency
+ecosystem:
+  - other
+  - multichain
+description: Psy is a revolutionary blockchain delivering internet-scale
+  performance, radical user privacy, and an agentic, programmable future.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://psy.xyz/
+  blog: https://psy.xyz/blog
+  github: https://github.com/PsyProtocol
+  forum: ""
+  docs: https://psy.xyz/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/PsyProtocol
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers:
+    - name: https://github.com/cf
+      link: Carter Feldman
+funding: []
+history: []
+id: psy-protocol
