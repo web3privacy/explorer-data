@@ -1,0 +1,26 @@
+name: test eth project
+categories:
+  - hardware
+  - social-and-communications
+  - infrastructure
+usecases:
+  - currency
+  - computing
+ecosystem:
+  - ethereum
+description: test solo eth
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+privacy_policy:
+  defined: true
+  link: policy.yourproject.com
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+id: test-eth-project
