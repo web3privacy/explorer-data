@@ -1,0 +1,41 @@
+name: test project
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - cosmos
+  - monero
+description: test
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: yourproject.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: docs.yourproject.com
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+id: test-project
