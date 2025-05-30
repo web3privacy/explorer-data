@@ -1,0 +1,29 @@
+name: test eth + others
+categories:
+  - hardware
+usecases:
+  - currency
+ecosystem:
+  - ethereum
+  - bitcoin
+  - other
+description: description
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+privacy_policy:
+  defined: true
+  link: policy.yourproject.com
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+id: test-eth-+-others
