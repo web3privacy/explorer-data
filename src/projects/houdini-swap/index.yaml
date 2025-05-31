@@ -1,3 +1,4 @@
+id: houdini-swap
 name: Houdini Swap
 categories:
   - applications
@@ -9,16 +10,19 @@ description: Transact across any blockchain with optional privacy.
 sunset: false
 links:
   web: https://houdiniswap.com
-  blog: ""
+  blog: https://blog.houdiniswap.com/
   github: ""
   forum: ""
-  docs: ""
+  docs: https://docs.houdiniswap.com/houdini-swap
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: ""
+  twitter: https://x.com/houdiniswap
   discord: ""
-  telegram: ""
+  telegram: https://t.me/houdiniswap
   lens: ""
   farcaster: ""
-id: houdini-swap
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/houdini-swap/logo.jpeg
