@@ -1,0 +1,42 @@
+name: Umbra wallet
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - solana
+description: |-
+  Building transactional privacy on Solana.
+  Powered by @ArciumHQ
+  Solana Privacy wallet
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.umbraprivacy.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/UmbraPrivacy
+  discord: ""
+  telegram: https://t.me/+jXfD2lUW76Y2ZDhl
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+history: []
+id: umbra-wallet
