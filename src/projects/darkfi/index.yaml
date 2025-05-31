@@ -15,7 +15,7 @@ links:
   forum: ""
   docs: https://darkrenaissance.github.io/darkfi/
   whitepaper: ""
-  block_explorer: ""
+  block_explorer: https://explorer.testnet.dark.fi/
   governance: ""
   twitter: https://x.com/DarkFiSquad
   discord: ""
@@ -25,8 +25,8 @@ links:
 project_status:
   live_status: true
   mainnet: false
-  testnet: false
-  version: testnet v.1
+  testnet: true
+  version: testnet
 usecases:
   - infrastructure
   - dao
@@ -45,7 +45,7 @@ ecosystem:
 sunset: false
 assets_used: []
 tokens: []
-project_phase: testnet v.1
+project_phase: testnet
 blockchain_features:
   opensource: true
   upgradability:
@@ -63,7 +63,7 @@ tracebility:
   kyc: false
   tracked_data: ""
   sign_in_type_requirments: []
-default_privacy: false
+default_privacy: true
 audits:
   - name: Audit of DarkFi Contracts
     url: https://www.zksecurity.xyz/blog/2024-darkfi-report.pdf
@@ -77,5 +77,7 @@ team:
       link: https://x.com/Narodism
     - name: Rachel-Rose O'Leary
       link: https://x.com/lunar_mining
-funding: []
+funding:
+  - name: LunarDAO
+    link: https://dekanbro.github.io/nft-raider/#/molochv3/0xa4b1/0xaff8f43727e6cc9aa8e961de0473253d5d607869/0xc08f9633f8031c2754a5740f49a92ad9254eec69
 history: []
