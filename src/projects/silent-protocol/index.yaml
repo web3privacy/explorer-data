@@ -1,16 +1,46 @@
 id: silent-protocol
 name: Silent protocol
 categories:
-- defi
+  - defi
 ecosystem:
-- ethereum
-description: Silent Protocol is the first protocol enabling compliant full-stack privacy
-  for smart contract assets and web3 applications at scale.
+  - ethereum
+description: Silent Protocol is the first protocol enabling compliant full-stack
+  privacy for smart contract assets and web3 applications at scale.
 links:
   web: https://www.silentprotocol.org/
+  blog: https://www.silentprotocol.org/blog
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/silentdao_
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 team:
   anonymous: true
+  teammembers: []
 usecases:
-- defi
+  - defi
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/silent-protocol/logo.png
+sunset: false
+assets_used:
+  - eth
+tokens: []
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history:
+  - title: ETH CC
+    description: ""
+    link: https://www.silentprotocol.org/community
+    time: 2023-07-21T00:00:00.000Z
