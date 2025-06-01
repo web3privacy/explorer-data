@@ -27510,6 +27510,87 @@
       ]
     },
     {
+      "id": "cairo",
+      "name": "Cairo",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "other"
+      ],
+      "ecosystem": [
+        "multichain",
+        "other",
+        "ethereum"
+      ],
+      "description": "The Rust-inspired language that makes it easy to build scalable dApps with the power of validity proofs. Cairo is the first Turing-complete language for creating provable programs for general computation. Cairo lets you write provable programs without requiring a deep understanding of the underlying ZK concepts. From onchain gaming to provable ML, Cairo makes building trustless applications possible.\n\nCairo is also the smart-contract language of Starknet, an L2 blockchain that is verified over Ethereum.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.cairo-lang.org/",
+        "blog": "https://www.cairo-lang.org/blog/",
+        "github": "https://github.com/starkware-libs/cairo",
+        "forum": "",
+        "docs": "https://book.cairo-lang.org/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/CairoLang",
+        "discord": "https://starknet.io/discord",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "zkVM, STARK"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cairo/logo.png"
+        }
+      ]
+    },
+    {
       "id": "ethbrno",
       "name": "ETHBrno",
       "description": "An annual independent & open community hackathon for supporters of decentralised finance, smart contracts and Web3 happening in Brno, Czech Republic. 13 projects",
