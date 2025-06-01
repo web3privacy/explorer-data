@@ -1,0 +1,87 @@
+name: Noir
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - other
+ecosystem:
+  - multichain
+  - other
+description: Noir is a language for private and verifiable computing. It enables
+  creating succinct proofs of successful program execution. More technically,
+  Noir is a Domain Specific Language for SNARK proving systems. It has been
+  designed to use any ACIR compatible proving system. Its design choices are
+  influenced heavily by Rust and focuses on a simple, familiar syntax.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://noir-lang.org/
+  blog: ""
+  github: https://github.com/noir-lang
+  forum: https://forum.aztec.network/c/noir/7
+  docs: https://github.com/noir-lang/noir/tree/master/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/NoirLang
+  discord: https://discord.gg/JtqzkdeQ6G
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history:
+  - title: NoirCon 0
+    description: "This event is set to spotlight Noir, the universal language of
+      zero-knowledge designed for two things: writing zero-knowledge (ZK)
+      circuits, and smart contracts for the Aztec blockchain.  ​Prepare for a
+      deep dive into technical content through expert-led talks, hands-on
+      workshops, and discussions. Connect and network with other developers,
+      researchers, and privacy advocates."
+    link: https://lu.ma/99uvs30z
+    time: 2024-11-11T00:00:00.000Z
+  - title: NoirCon 1
+    description: "Following the success of NoirCon 0 in Bangkok, which featured
+      talks from Vitalik and leading privacy researchers, we're bringing the
+      community together again in Denver to focus on practical application
+      building. Hands-on workshops from teams actively building with Noir,
+      including technical deep-dives on AI x privacy applications and real-world
+      case studies of privacy-first development.  ​Interactive sessions with the
+      broader ZK community, focused on helping developers build actual
+      applications—not just theory.  ​Talks and workshops on key topics such as
+      (but are not limited to):      ​The State of Privacy for
+      Builders      ​zkVMs vs zkDSLs      ​Privacy-Preserving Agents and Models"
+    link: https://lu.ma/38g79n99
+    time: 2025-02-24T00:00:00.000Z
+id: noir
