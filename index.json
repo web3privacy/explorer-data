@@ -21201,6 +21201,80 @@
       ]
     },
     {
+      "id": "garaga",
+      "name": "Garaga",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "eth-layer-2"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "State-of-the-art Elliptic Curve tooling and SNARKS verification for Cairo & Starknet.\nGaraga enables efficient elliptic curve operations on Starknet. It achieves state of the art performance by\n\n  - using a dedicated builtin made by Starkware for emulated modular arithmetic\n  - using a suite of non-deterministic techniques for extension field multiplication, pairings, and multi scalar multiplication to reduce the number of steps to verify results.\n\nGaraga currently supports:\n\n  - Scalar & Multi-scalar multiplication for any Weirstrass curve, including BN254, BLS12_381, SECP256/R1, and ED25519. You can add the one you need by specifying the curve parameters.\n  - Pairing operations for BN254 and BLS12_381.\n  - Groth16 smart contract verifiers generators for BN254 and BLS12_381.\n  - Noir smart contract verifiers generators for ultra keccak honk flavour.\n\n",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://garaga.gitbook.io/garaga",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://github.com/keep-starknet-strange/garaga",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/GaragaStarknet",
+        "discord": "",
+        "telegram": "https://t.me/GaragaStarknet",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "SNARKS"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/garaga/logo.png"
+        }
+      ]
+    },
+    {
       "id": "minado",
       "name": "Minado",
       "categories": [
