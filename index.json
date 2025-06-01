@@ -17449,6 +17449,76 @@
       ]
     },
     {
+      "id": "gnosis-vpn",
+      "name": "Gnosis VPN",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "vpn"
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "description": "Gnosis VPN is a decentralized, trustless, uncensorable VPN for the web3 age. Fully anonymous browsing over a decentralized mixnet. Run a relay or exit node and get rewarded for supporting global private connectivity.\nGnosis VPN is developed by HOPR, and runs over the HOPR mixnet.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://gnosisvpn.com/",
+        "blog": "",
+        "github": "https://github.com/gnosis/gnosis_vpn-client/",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Gnosis_VPN",
+        "discord": "https://discord.gg/gnosis",
+        "telegram": "",
+        "lens": "",
+        "farcaster": "https://warpcast.com/gnosisvpn"
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "VPN, Mixnet",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/gnosis-vpn/logo.png"
+        }
+      ]
+    },
+    {
       "id": "btcpay-server",
       "name": "BTCPay Server",
       "categories": [
