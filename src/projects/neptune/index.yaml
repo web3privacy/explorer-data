@@ -1,8 +1,11 @@
+id: neptune
 name: Neptune
 categories:
   - infrastructure
 usecases:
   - currency
+  - defi
+  - infrastructure
 ecosystem:
   - other
 description: Neptune Cash is a Layer-1 peer-to-peer anonymous cash protocol
@@ -17,13 +20,17 @@ sunset: false
 assets_used:
   - other
 have_token: false
-tokens: []
+tokens:
+  - symbol: NPT
+    name: Neptune Coins
+    contract_address: ""
+    token_link: explorer.neptune.cash
 links:
   web: https://neptune.cash/
   blog: https://neptune.cash/blog/
   github: https://github.com/Neptune-Crypto
   forum: https://talk.neptune.cash/
-  docs: ""
+  docs: docs.neptune.cash
   whitepaper: https://neptune.cash/whitepaper/
   block_explorer: https://explorer.neptune.cash/
   governance: ""
@@ -44,6 +51,7 @@ blockchain_features:
     enabled: false
   asset_custody_type: non-custody
   encryption: ""
+  p2p: true
 storage: {}
 privacy_policy:
   defined: false
@@ -74,4 +82,13 @@ team:
     - name: Alan Szepieniec
       link: https://github.com/aszepieniec
 history: []
-id: neptune
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/neptune/logo.png
+product_launch_day: 2025-03-10T23:00:00.000Z
+nickname: aszepieniec
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
