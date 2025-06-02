@@ -8498,7 +8498,7 @@
         "tracked_data": "",
         "sign_in_type_requirments": []
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "funding": [
         {
           "name": "Niko Kipouros",
