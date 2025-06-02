@@ -1,0 +1,80 @@
+name: Serai
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - bridge
+  - defi
+  - infrastructure
+ecosystem:
+  - ethereum
+  - bitcoin
+  - monero
+  - multichain
+  - other
+description: Serai is a new DEX, built from the ground up, initially planning on
+  listing Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based
+  trading experience. Funds are stored in an economically secured
+  threshold-multisig wallet.
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - dai
+  - xmr
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://serai.exchange/
+  blog: https://serai.exchange/blog/index.html
+  github: https://github.com/serai-dex/serai
+  forum: https://matrix.to/#/#serai:matrix.org
+  docs: https://github.com/serai-dex/serai/tree/develop/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/SeraiDEX
+  discord: https://discord.gg/mpEUtJR3vz
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Decentralized Exchange, Threshold Signature Scheme
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits:
+  - name: cypherstack-serai-bitcoin-audit
+    url: https://github.com/serai-dex/cypherstack-serai-bitcoin-audit
+    time: 2023-08-18T00:00:00.000Z
+  - name: Serai code audit
+    url: https://raw.githubusercontent.com/serai-dex/serai/e1bb2c191b7123fd260d008e31656d090d559d21/audits/Cypher%20Stack%20crypto%20March%202023/Audit.pdf
+    time: 2023-03-16T00:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers:
+    - name: kayabaNerve
+      link: https://github.com/kayabaNerve
+funding: []
+history: []
+id: serai
