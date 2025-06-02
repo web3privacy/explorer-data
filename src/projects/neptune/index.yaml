@@ -1,3 +1,4 @@
+id: neptune
 name: Neptune
 categories:
   - infrastructure
@@ -54,7 +55,7 @@ tracebility:
   kyc: false
   tracked_data: ""
   sign_in_type_requirments: []
-default_privacy: false
+default_privacy: true
 funding:
   - name: Niko Kipouros
     link: https://neptune.cash/about/
@@ -74,4 +75,7 @@ team:
     - name: Alan Szepieniec
       link: https://github.com/aszepieniec
 history: []
-id: neptune
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/neptune/logo.png
