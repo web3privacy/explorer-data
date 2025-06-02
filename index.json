@@ -8434,7 +8434,9 @@
         "infrastructure"
       ],
       "usecases": [
-        "currency"
+        "currency",
+        "defi",
+        "infrastructure"
       ],
       "ecosystem": [
         "other"
@@ -8445,13 +8447,20 @@
         "other"
       ],
       "have_token": false,
-      "tokens": [],
+      "tokens": [
+        {
+          "symbol": "NPT",
+          "name": "Neptune Coins",
+          "contract_address": "",
+          "token_link": "explorer.neptune.cash"
+        }
+      ],
       "links": {
         "web": "https://neptune.cash/",
         "blog": "https://neptune.cash/blog/",
         "github": "https://github.com/Neptune-Crypto",
         "forum": "https://talk.neptune.cash/",
-        "docs": "",
+        "docs": "docs.neptune.cash",
         "whitepaper": "https://neptune.cash/whitepaper/",
         "block_explorer": "https://explorer.neptune.cash/",
         "governance": "",
@@ -8474,7 +8483,8 @@
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": ""
+        "encryption": "",
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
@@ -8531,7 +8541,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/neptune/logo.png"
         }
-      ]
+      ],
+      "product_launch_day": "2025-03-10T23:00:00.000Z",
+      "nickname": "aszepieniec",
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": ""
     },
     {
       "id": "vexl",
