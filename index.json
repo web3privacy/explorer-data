@@ -21515,15 +21515,15 @@
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": false
+          "enabled": true
         },
         "asset_custody_type": "non-custody",
         "encryption": ""
       },
       "storage": {},
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://unstoppable.money/privacy-policy",
         "data_usage": ""
       },
       "compliance": "",
@@ -21535,7 +21535,13 @@
         ]
       },
       "default_privacy": false,
-      "audits": [],
+      "audits": [
+        {
+          "name": "Certik",
+          "url": "https://skynet.certik.com/wallets/unstoppable.money",
+          "time": "2021-01-27T18:00:00.000Z"
+        }
+      ],
       "third_party_dependency": "",
       "social_trust": "",
       "technical_spof": "",
