@@ -1,0 +1,75 @@
+name: Midnight
+categories:
+  - infrastructure
+usecases:
+  - currency
+  - infrastructure
+ecosystem:
+  - other
+description: >-
+  Midnight is a fourth-generation blockchain – empowering organizations to
+  deliver regulation-friendly, data-protecting applications that keep users in
+  control of their own information.
+
+
+  Harnessing the power of zero-knowledge cryptography, Midnight provides a
+  platform for creating new business models that offer a radically different
+  approach to handling data.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://midnight.network/
+  blog: https://midnight.network/blog
+  github: ""
+  forum: ""
+  docs: https://docs.midnight.network/
+  whitepaper: https://midnight.network/whitepaper
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/MidnightNtwrk
+  discord: https://discord.com/invite/midnightnetwork
+  telegram: https://t.me/Midnight_Network_Official
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://midnight.network/static/privacy-policy.pdf
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history:
+  - title: Money 20/20 VIP Brunch with Midnight Foundation
+    description: This is an exclusive brunch hosted by the Midnight Foundation – an
+      organization supporting the growth of Midnight, a fourth-generation
+      blockchain enabling compliant, privacy-enhancing decentralized
+      applications
+    link: https://lu.ma/d8swo3j1
+    time: 2025-06-04T00:00:00.000Z
+id: midnight
