@@ -1,3 +1,4 @@
+id: token-shielder
 name: Token Shielder
 categories:
   - applications
@@ -27,7 +28,7 @@ links:
   forum: ""
   docs: ""
   whitepaper: ""
-  block_explorer: https://railgun-explorer.com/
+  block_explorer: ""
   governance: ""
   twitter: ""
   discord: ""
@@ -66,4 +67,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: token-shielder
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/token-shielder/logo.png
