@@ -1165,6 +1165,84 @@
       ]
     },
     {
+      "id": "token-shielder",
+      "name": "Token Shielder",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "🛡️ A simple frontend for shielding tokens in RAILGUN.\nUse your crypto wallet of choice to transfer tokens directly into a RAILGUN Private 0zk balance.\n\nFrontend for shielding assets from any Ethereum/EVM wallet. Simply connect your browser wallet like MetaMask, enter in any 0zk address and shield away. Useful for receiving payments directly to your RAILGUN private balance from the wide world of Ethereum/EVM.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://tokenshielder.com/",
+        "blog": "",
+        "github": "https://github.com/ScopeLift/token-shielder",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "https://railgun-explorer.com/",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/token-shielder/logo.png"
+        }
+      ]
+    },
+    {
       "id": "universal-privacy-alliance",
       "name": "Universal Privacy Alliance",
       "categories": [
