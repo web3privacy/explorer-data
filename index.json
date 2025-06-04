@@ -15910,8 +15910,7 @@
         "ethereum"
       ],
       "description": "A private exchange on Aztec chain. Transactions are protected using ZK. ",
-      "product_launch_day": "2025-05-31T22:00:00.000Z",
-      "nickname": "oleh.blockchain@gmail.com",
+      "product_launch_day": "2025-05-06T00:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -15934,7 +15933,18 @@
         "telegram": "https://t.me/nemi_fi",
         "lens": "",
         "farcaster": ""
-      }
+      },
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nemi/logo.svg"
+        }
+      ]
     },
     {
       "id": "wownero",
