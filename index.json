@@ -7180,6 +7180,84 @@
       "history": []
     },
     {
+      "id": "miden-wallet",
+      "name": "Miden Wallet",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "A privacy-preserving wallet built for the Miden blockchain — combining client-side ZK proving, self-custodied state, and edge execution.\n\nMiden Wallet is a non-custodial, privacy-first crypto wallet designed for the Miden blockchain. It uses local ZK proving to protect your data.",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://miden.fi/",
+        "blog": "",
+        "github": "https://github.com/demox-labs/miden-wallet-demo",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/DemoxLabs",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://miden.fi/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/miden-wallet/logo.svg"
+        }
+      ]
+    },
+    {
       "id": "origin-trail",
       "name": "OriginTrail",
       "categories": [
