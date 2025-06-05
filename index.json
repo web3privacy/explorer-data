@@ -22616,6 +22616,107 @@
       ]
     },
     {
+      "id": "succint",
+      "name": "Succint",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "other"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "description": "Succinct is a protocol on Ethereum that proves the world's software. It coordinates hardware teams, infrastructure operators, and application developers to facilitate the generation of zero knowledge proofs. Application developers send programs in normal code that are wrapped with SP1 to the Succinct Network. This allows the infrastructure layer and hardware teams, who we jointly call provers, to compete to generate proofs of the programs' execution.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.succinct.xyz",
+        "blog": "https://blog.succinct.xyz/",
+        "github": "https://github.com/succinctlabs",
+        "forum": "",
+        "docs": "https://docs.succinct.xyz/",
+        "whitepaper": "https://www.provewith.us/",
+        "block_explorer": "https://explorer.succinct.xyz/",
+        "governance": "",
+        "twitter": "https://x.com/succinctlabs",
+        "discord": "https://discord.com/invite/succinctlabs",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "zkVM, proving network"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [
+        {
+          "name": "Paradigm",
+          "link": "https://www.succinct.xyz/"
+        },
+        {
+          "name": "Bankless Ventures",
+          "link": "https://www.succinct.xyz/"
+        },
+        {
+          "name": "geometry",
+          "link": "https://www.succinct.xyz/"
+        },
+        {
+          "name": "Robot Ventures",
+          "link": "https://www.succinct.xyz/"
+        },
+        {
+          "name": "ZKV",
+          "link": "https://www.succinct.xyz/"
+        }
+      ],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/succint/logo.png"
+        }
+      ]
+    },
+    {
       "id": "hackers-congress-paralelni-polis",
       "name": "Hackers Congress Paralelní Polis",
       "description": "the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.",
