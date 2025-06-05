@@ -7461,6 +7461,86 @@
       ]
     },
     {
+      "id": "self-protocol",
+      "name": "Self Protocol",
+      "categories": [
+        "applications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "did"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "description": "Self is an identity wallet that lets users generate privacy-preserving proofs from government-issued IDs such as passports. By scanning the NFC chip in their ID document, users can prove their validity while only revealing specific attributes such as age, nationality or simply humanity. Under the hood, Self uses zk-SNARKs to make sure personal data is redacted, but the document is verified.\n\nUse cases unlocked include:\n\n  - Airdrop protection: Protect a token distribution from bots\n  - Social media: Add humanity checks to user's profiles\n  - Quadratic funding: Prevent farmers from skewing rewards\n  - Wallet recovery: Safeguard assets using IDs as recovery sources\n  - Compliance: Check a user is not part of a sanctioned entity list\n",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://self.xyz",
+        "blog": "https://self.xyz/blog",
+        "github": "https://github.com/selfxyz/self",
+        "forum": "",
+        "docs": "https://docs.self.xyz/",
+        "whitepaper": "",
+        "block_explorer": "http://map.self.xyz/",
+        "governance": "",
+        "twitter": "https://x.com/selfprotocol",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "zk-SNARKs"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://self.xyz/privacy",
+        "data_usage": ""
+      },
+      "compliance": "International Civil Aviation Organization (ICAO)",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/self-protocol/logo.png"
+        }
+      ]
+    },
+    {
       "id": "mysterium",
       "name": "Mysterium",
       "categories": [
@@ -31780,6 +31860,90 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/exabits/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "zkp2p",
+      "name": "ZKP2P",
+      "categories": [
+        "applications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "currency"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "solana",
+        "other",
+        "multichain"
+      ],
+      "description": "ZKP2P is the first trustless P2P on/offramping bulletin board. This enables a new buying and selling crypto experience that is fast, cheap and composable with DeFi.\n\nUsing cryptographic proofs of transfer, ZKP2P allows buyers to authenticate that they have transferred the correct value to sellers.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.zkp2p.xyz/",
+        "blog": "",
+        "github": "https://github.com/zkp2p",
+        "forum": "",
+        "docs": "https://docs.zkp2p.xyz/",
+        "whitepaper": "",
+        "block_explorer": "https://dune.com/zkp2p/zkp2p",
+        "governance": "",
+        "twitter": "https://x.com/zkp2p",
+        "discord": "",
+        "telegram": "https://t.me/+XDj9FNnW-xs5ODNl",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "",
+        "p2p": false
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.zkp2p.xyz/pp",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zkp2p/logo.png"
         }
       ]
     },
