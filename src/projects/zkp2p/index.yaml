@@ -1,0 +1,72 @@
+name: ZKP2P
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - infrastructure
+  - currency
+ecosystem:
+  - ethereum
+  - solana
+  - other
+  - multichain
+description: >-
+  ZKP2P is the first trustless P2P on/offramping bulletin board. This enables a
+  new buying and selling crypto experience that is fast, cheap and composable
+  with DeFi.
+
+
+  Using cryptographic proofs of transfer, ZKP2P allows buyers to authenticate
+  that they have transferred the correct value to sellers.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.zkp2p.xyz/
+  blog: ""
+  github: https://github.com/zkp2p
+  forum: ""
+  docs: https://docs.zkp2p.xyz/
+  whitepaper: ""
+  block_explorer: https://dune.com/zkp2p/zkp2p
+  governance: ""
+  twitter: https://x.com/zkp2p
+  discord: ""
+  telegram: https://t.me/+XDj9FNnW-xs5ODNl
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+  p2p: false
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.zkp2p.xyz/pp
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: zkp2p
