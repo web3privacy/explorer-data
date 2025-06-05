@@ -1,7 +1,7 @@
 id: skiff
 name: Skiff
 categories:
-- applications
+  - applications
 description: Web3 email, drive, and docs
 links:
   web: https://skiff.com/crypto
@@ -10,6 +10,13 @@ links:
   docs: https://skiff.com/skiff-crypto/
   twitter: https://x.com/skiffprivacy
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/skiff/logo.png
+ecosystem:
+  - other
+sunset: true
