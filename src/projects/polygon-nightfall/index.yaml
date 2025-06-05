@@ -2,7 +2,7 @@ id: polygon-nightfall
 name: Miden
 categories:
   - infrastructure
-description: Miden is the Edge Blockchain: it grants applications the power to scale with public and private transactions. By pushing execution and state to the edge, on the client side, Miden overcomes the limitations of scalability, privacy and safety that hold back traditional blockchains.
+description: Miden is the Edge Blockchain, it grants applications the power to scale with public and private transactions. By pushing execution and state to the edge, on the client side, Miden overcomes the limitations of scalability, privacy and safety that hold back traditional blockchains.
 ecosystem:
   - other
 links:
