@@ -24302,27 +24302,27 @@
     },
     {
       "id": "polygon-nightfall",
-      "name": "Polygon Miden",
+      "name": "Miden",
       "categories": [
         "infrastructure"
       ],
-      "description": "a zero-knowledge rollup for high-throughput and private applications",
+      "description": "Miden is the Edge Blockchain, it grants applications the power to scale with public and private transactions. By pushing execution and state to the edge, on the client side, Miden overcomes the limitations of scalability, privacy and safety that hold back traditional blockchains.",
       "ecosystem": [
         "other"
       ],
       "links": {
-        "web": "https://polygon.technology/polygon-miden",
-        "docs": "https://0xpolygonmiden.github.io/miden-base/introduction.html",
-        "github": "https://github.com/0xPolygonMiden",
-        "blog": "https://polygon.technology/blog-tags/polygon-miden",
-        "twitter": "https://twitter.com/0xPolygon"
+        "web": "https://miden.xyz/",
+        "docs": "https://0xmiden.github.io/miden-docs/index.html",
+        "github": "https://github.com/0xMiden",
+        "blog": "https://miden.xyz/resources",
+        "twitter": "https://x.com/0xMiden"
       },
       "team": {
         "anonymous": false
       },
       "project_status": {
         "live_status": true,
-        "version": "testnet",
+        "version": "alpha",
         "testnet": true,
         "mainnet": false
       },
