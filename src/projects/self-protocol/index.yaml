@@ -1,0 +1,76 @@
+name: Self Protocol
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - did
+ecosystem:
+  - ethereum
+  - other
+description: >
+  Self is an identity wallet that lets users generate privacy-preserving proofs
+  from government-issued IDs such as passports. By scanning the NFC chip in
+  their ID document, users can prove their validity while only revealing
+  specific attributes such as age, nationality or simply humanity. Under the
+  hood, Self uses zk-SNARKs to make sure personal data is redacted, but the
+  document is verified.
+
+
+  Use cases unlocked include:
+
+    - Airdrop protection: Protect a token distribution from bots
+    - Social media: Add humanity checks to user's profiles
+    - Quadratic funding: Prevent farmers from skewing rewards
+    - Wallet recovery: Safeguard assets using IDs as recovery sources
+    - Compliance: Check a user is not part of a sanctioned entity list
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://self.xyz
+  blog: https://self.xyz/blog
+  github: https://github.com/selfxyz/self
+  forum: ""
+  docs: https://docs.self.xyz/
+  whitepaper: ""
+  block_explorer: http://map.self.xyz/
+  governance: ""
+  twitter: https://x.com/selfprotocol
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: zk-SNARKs
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://self.xyz/privacy
+  data_usage: ""
+compliance: International Civil Aviation Organization (ICAO)
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: self-protocol
