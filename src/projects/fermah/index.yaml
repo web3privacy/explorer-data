@@ -1,0 +1,63 @@
+name: Fermah
+categories:
+  - infrastructure
+usecases:
+  - other
+ecosystem:
+  - multichain
+  - other
+  - ethereum
+description: >-
+  Fermah is the universal proof generation layer. It functions as a marketplace,
+  where the supply side consists of machines such as GPUs and FPGAs. On the
+  demand side, Fermah can generate proofs for any instance in which ZK is used.
+
+
+  Fermah is optimized for cheap, fast, and reliable ZK-proof generation.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.fermah.xyz/
+  blog: https://www.fermah.xyz/blog
+  github: https://github.com/fermah-xyz
+  forum: ""
+  docs: https://docs.fermah.xyz/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/fermah_xyz
+  discord: https://discord.gg/fermah
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: proving systems
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: fermah
