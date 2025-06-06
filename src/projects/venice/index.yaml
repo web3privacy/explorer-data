@@ -1,14 +1,119 @@
 id: venice
 name: Venice
 categories:
-- applications
-description: a generative AI app focused on privacy
+  - applications
+  - infrastructure
+description: >-
+  Venice.ai is a private, censorship-resistant generative AI platform for text
+  conversations, image and code generation, and AI Character interaction, built
+  on open-source models and powered by decentralized infrastructure. 
+
+
+  The Venice token (VVV) is designed to minimize friction and reduce costs for
+  AI agents and developers to access private, reliable, on-demand and perpetual
+  AI inference via Venice.ai's API. Users who stake VVV are eligible to receive
+  an ongoing share of Venice.ai's inference capacity through the Venice API. VVV
+  allows autonomous agents and developers to access private, uncensored and
+  decentralized inference, without relying on a human intermediary, which
+  reduces costs and friction for both AI agents and developers, untethering them
+  from the bias and censorship inherent within closed-source incumbent AI
+  platforms.
 links:
   web: https://venice.ai
   blog: https://venice.ai/blog
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/askvenice
+  discord: https://discord.gg/askvenice
+  telegram: ""
+  lens: ""
   farcaster: https://forecaster.com/venice-ai
 usecases:
-- ai
-have_token: false
+  - ai
+have_token: true
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/venice/logo.png
+ecosystem:
+  - other
+product_launch_day: 2024-06-09T23:00:00.000Z
+sunset: false
+assets_used:
+  - other
+tokens:
+  - symbol: VVV
+    name: Venice Token
+    contract_address: "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf"
+    token_link: https://basescan.org/address/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://venice.ai/legal/privacy-policy
+  data_usage: Venice sees and retains no user data
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Email, IP address
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Erik Voorhees
+      link: https://x.com/ErikVoorhees
+    - name: Teana Baker-Taylor
+      link: https://x.com/TeanaTaylor
+    - name: Jesse Proudman
+      link: https://x.com/jesseproudman
+funding: []
+history:
+  - title: VVV Token Burn
+    description: "The unclaimed airdrop supply of Venice Tokens - a third of total
+      VVV supply, worth roughly $100,000,000—was
+      burned.  Transaction:  https://basescan.org/tx/0xf5a19b79b13274faf19c46b4\
+      04a36699990cad18e907aece0ab26671ff4a37af"
+    link: https://venice.ai/blog/venice-is-burning
+    time: 2025-03-12T00:00:00.000Z
+  - title: VVV Buyback and Token Burn
+    description: "Venice bought back the 1% of VVV sold by the team at launch
+      (1,030,000.555 VVV), burned
+      them.  Transaction:  https://basescan.org/tx/0x9d0007242ccdd4ad12c5aa293e\
+      92a304eea202f55e0b437d9fa1ac6286aa8147"
+    link: https://venice.ai/blog/venice-is-burning
+    time: 2025-03-12T00:00:00.000Z
+  - title: Venice Incentive Fund
+    description: Venice launched $27M Incentive Fund to Advance Private, Uncensored
+      AI Apps, Agents & Infrastructure
+    link: https://venice.ai/blog/venice-launches-27m-incentive-fund-to-advance-private-uncensored-ai-apps-agents-infrastructure
+    time: 2025-05-21T23:00:00.000Z
+  - title: Venice VVV Token TGE & Airdrop
+    description: The Venice Token (VVV) enables a new model for accessing AI
+      infrastructure inference
+    link: https://venice.ai/blog/introducing-the-venice-token-vvv
+    time: 2025-01-27T00:00:00.000Z
+  - title: Venice Launch
+    description: Venice Platform Live
+    link: https://venice.ai/blog/welcome-to-venice
+    time: 2024-05-09T23:00:00.000Z
