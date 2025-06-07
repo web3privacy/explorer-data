@@ -16226,7 +16226,7 @@
         "ethereum"
       ],
       "description": "A private exchange on Aztec chain. Transactions are protected using ZK. ",
-      "product_launch_day": "2025-05-06T00:00:00.000Z",
+      "product_launch_day": "2025-05-01T22:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -16260,7 +16260,52 @@
           "ext": "svg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nemi/logo.svg"
         }
-      ]
+      ],
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "ZK, MPC"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://nemi.fi/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "oleh",
+            "link": "https://x.com/oleh_bc"
+          },
+          {
+            "name": "Danyil",
+            "link": "https://x.com/husacov"
+          }
+        ]
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "wownero",
