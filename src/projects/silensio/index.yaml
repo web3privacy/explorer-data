@@ -1,0 +1,75 @@
+name: silensio
+categories:
+  - infrastructure
+  - social-and-communications
+  - defi
+  - applications
+usecases:
+  - mixing-service
+  - wallets
+  - defi
+  - messaging
+  - browser
+  - did
+ecosystem:
+  - ethereum
+description: Silensio is a modular, zero-knowledge-native privacy infrastructure
+  built for Web3. It enables programmable privacy across asset transfers,
+  identity, and communication—empowering users to interact onchain without
+  exposing sensitive data. Designed to be chain-agnostic and fully auditable,
+  Silensio brings privacy by default to the decentralized internet.
+product_launch_day: 2025-07-03T17:00:00.000Z
+sunset: true
+assets_used:
+  - eth
+have_token: false
+tokens: []
+links:
+  web: https://silensio.xyz/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://silensio.gitbook.io/silensio-docs
+  whitepaper: https://silensio.gitbook.io/silensio-docs
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/silensio_xyz
+  discord: ""
+  telegram: https://t.me/silensio_xyz
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: custodial
+  encryption: Zero-Knowledge Proofs (ZKPs), End-to-End Encryption (E2EE),
+    Homomorphic Hashing, Geo-hashing, Modular zk Infrastructure
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: silensio
