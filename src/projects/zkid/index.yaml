@@ -1,0 +1,77 @@
+name: zkID
+categories:
+  - infrastructure
+usecases:
+  - research-and-development
+ecosystem:
+  - ethereum
+description: >-
+  zkID is a strategic initiative of the Ethereum Foundation, in collaboration
+  with Privacy and Scaling Explorations (PSE), focused on advancing the use of
+  Zero Knowledge Proofs (ZKPs) in digital identity systems. We contribute to PSE
+  by leading research, coordination, education, and development efforts that
+  enable privacy-preserving, interoperable, and standards-aligned identity
+  infrastructure.
+
+
+  Our team works and distributes grants across the identity ecosystem to draft
+  technical standards, maintain open-source resources, and prototype
+  infrastructure that aligns with evolving regulatory frameworks. By stewarding
+  collaboration between researchers, developers, governments, and institutions,
+  zkID bridges foundational cryptographic research with real-world deployment
+  and impact.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+funding: []
+links:
+  web: https://pse.dev/en/projects/zk-id
+  blog: https://pse.dev/en/blog
+  github: https://github.com/privacy-scaling-explorations/zkID
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: "zero-knowledge proofs, "
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://ethereum.org/en/privacy-policy/
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: zulu0echo
+      link: https://github.com/zulu0echo
+    - name: ntampakas
+      link: https://github.com/ntampakas
+    - name: 0xVikasRushi
+      link: https://github.com/0xVikasRushi
+history: []
+id: zkid
