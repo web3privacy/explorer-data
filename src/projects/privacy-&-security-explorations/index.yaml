@@ -1,0 +1,37 @@
+id: privacy-&-security-explorations
+name: Privacy & Security explorations
+categories:
+  - infrastructure
+description: >-
+  We explore new use cases for zero-knowledge proofs and other cryptographic
+  primitives through research and proof-of-concepts.
+
+
+  PSE is an Ethereum Foundation supported research and development lab dedicated
+  to expanding the use cases of cryptographic primitives.
+team:
+  anonymous: false
+  teammembers:
+    - name: Andy Guzman
+      link: https://x.com/AndyGuzmanEth
+    - name: Sam Richards
+      link: https://x.com/samonchain
+    - name: Enrico Bottazzi
+      link: https://x.com/backaes
+links:
+  web: https://appliedzkp.org
+  github: https://github.com/privacy-scaling-explorations
+  blog: https://mirror.xyz/privacy-scaling-explorations.eth
+  twitter: https://x.com/privacyscaling
+  discord: https://discord.com/invite/sF5CT5rzrR
+usecases:
+  - research-and-development
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/privacy-security-explorations/logo.png
+ecosystem:
+  - ethereum
+sunset: false
