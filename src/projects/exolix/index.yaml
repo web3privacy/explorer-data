@@ -1,0 +1,83 @@
+name: Exolix
+categories:
+  - defi
+usecases:
+  - wallets
+  - defi
+  - hardware
+  - dapps
+ecosystem:
+  - monero
+  - bitcoin
+  - ethereum
+  - solana
+  - cosmos
+  - other
+  - multichain
+description: Exolix is a trusted and efficient non-custodial crypto swap
+  service, serving both users and B2B partners. It offers a reliable platform
+  for swift, private cross-chain exchanges, allowing users to effortlessly swap
+  2,000+ assets across 200+ blockchains without KYC, with high limits and
+  competitive rates.
+product_launch_day: 2018-10-31T23:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+  - zcash
+  - dot
+  - scrt
+  - atom
+  - usdt
+  - btc
+  - eth
+  - xmr
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://exolix.com/
+  blog: https://exolix.com/blog
+  github: ""
+  forum: ""
+  docs: https://exolix.com/developers
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/exolix_com
+  discord: ""
+  telegram: https://t.me/exolixcom
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://exolix.com/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: exolix
