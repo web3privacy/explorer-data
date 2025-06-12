@@ -22888,6 +22888,89 @@
       "history": []
     },
     {
+      "id": "anon.world",
+      "name": "Anon.world",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "An anonymous social network for browsing and creating anonymous posts with verified credentials.\n\nWe use zero-knowledge (zk) proofs to generate anonymous credentials. These credentials are stored locally in your browser. When you create a post, you can attach as many credentials as you'd like to your post.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://anon.world/",
+        "blog": "",
+        "github": "https://github.com/anondotworld",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "ZK proofs"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Kartik",
+            "link": "https://x.com/slokh"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anon.world/logo.png"
+        }
+      ]
+    },
+    {
       "id": "purple-swap",
       "name": "Purple Swap",
       "categories": [
