@@ -1,0 +1,61 @@
+name: DarkSafe
+categories:
+  - applications
+  - defi
+usecases:
+  - dapps
+ecosystem:
+  - ethereum
+description: A zodiac-compatible Safe module that shields the ethereum addresses
+  of up to 8 authorized "dark signers".
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: ""
+  blog: ""
+  github: https://github.com/colinnielsen/dark-safe
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: darksafe
