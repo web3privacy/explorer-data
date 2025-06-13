@@ -1,0 +1,65 @@
+name: 0xBOW
+categories:
+  - applications
+usecases:
+  - research-and-development
+ecosystem:
+  - ethereum
+description: >-
+  Enabling Compliant
+
+  Onchain Privacy
+
+  0xbow’s infrastructure excludes illicit actors while preserving privacy for
+  legitimate users.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://0xbow.io/
+  blog: https://0xbow.io/blog/the-reality-of-kyc
+  github: https://github.com/0xbow-io/
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/0xbowio
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Ameen Soleimani
+      link: https://xcancel.com/ameensol
+funding: []
+history: []
+id: 0xbow
