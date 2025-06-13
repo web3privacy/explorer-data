@@ -1,0 +1,79 @@
+name: zkMe
+categories:
+  - infrastructure
+usecases:
+  - did
+ecosystem:
+  - ethereum
+  - solana
+  - multichain
+description: >-
+  The Web3 zk-Credential Layer.
+
+
+  zkMe is a technology created by a network of developers, researchers, and
+  users to improve the blockchain system. Join the community and help develop
+  the most reliable decentralized identity oracle network in the world. 
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.zk.me/
+  blog: https://blog.zk.me/
+  github: https://github.com/zkMeLabs
+  forum: ""
+  docs: https://docs.zk.me/zkme-dochub
+  whitepaper: https://www.zk.me/zkMe_The%20Web3%20zk-Credential%20Network.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/zkme_
+  discord: https://discord.com/invite/SJ2RDs9NGM
+  telegram: https://t.me/zkme_official
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ZKP, FHE, MPC and zkTLS
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding:
+  - name: Multicoin Capital
+    link: https://www.zk.me/
+  - name: ArkStream Capital
+    link: https://www.zk.me/
+  - name: OKX Ventures
+    link: https://www.zk.me/
+  - name: Robot Venture
+    link: https://www.zk.me/
+  - name: Fenbushi Capital
+    link: https://www.zk.me/
+  - name: NGC Ventures
+    link: https://www.zk.me/
+  - name: Circle
+    link: https://www.zk.me/
+history: []
+id: zkme
