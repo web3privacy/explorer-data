@@ -10017,6 +10017,85 @@
       ]
     },
     {
+      "id": "comfy",
+      "name": "Comfy",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "solana",
+        "other",
+        "multichain"
+      ],
+      "description": "Comfy is an interface for encrypting your onchain balance to keep it confidential.",
+      "sunset": false,
+      "links": {
+        "web": "https://comfy.inco.org/",
+        "blog": "",
+        "github": "https://github.com/Inco-fhevm/comfy-consumer",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/inconetwork",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/comfy/logo.png"
+        }
+      ]
+    },
+    {
       "id": "dero",
       "name": "Dero",
       "categories": [
