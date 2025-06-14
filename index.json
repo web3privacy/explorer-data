@@ -10873,7 +10873,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/skiff-pages/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "stealthpay",
