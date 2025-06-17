@@ -37824,20 +37824,29 @@
       ],
       "description": "Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting",
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": []
       },
       "links": {
         "web": "https://maci.pse.dev/",
-        "github": "https://github.com/privacy-scaling-explorations/maci",
-        "docs": "https://maci.pse.dev/docs/introduction",
         "blog": "https://maci.pse.dev/blog",
-        "twitter": "https://twitter.com/zkMACI"
+        "github": "https://github.com/privacy-scaling-explorations/maci",
+        "forum": "",
+        "docs": "https://maci.pse.dev/docs/introduction",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/zkMACI",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
-        "version": "v1.3 alpha",
+        "mainnet": false,
         "testnet": false,
-        "mainnet": true
+        "version": "alpha"
       },
       "audits": [
         {
@@ -37850,14 +37859,46 @@
         "infrastructure"
       ],
       "have_token": false,
-      "third_party_dependency": "none",
+      "third_party_dependency": "",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/maci/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_phase": "alpha",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "social_trust": "",
+      "technical_spof": "Trusted coordinator - they can decrypt votes and share them with bribers. However they cannot produce false tally nor censor users. ",
+      "funding": [],
+      "history": []
     },
     {
       "id": "phoenix-network",
