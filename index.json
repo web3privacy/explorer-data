@@ -19488,6 +19488,85 @@
       ]
     },
     {
+      "id": "zkmonk",
+      "name": "zkMonk",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "events"
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "description": "Our end goal is to see a world where digital privacy / privacy on transaction on internet is by default. We believe the only way possible is if there are more innovation in implementation of privacy tech. \nMore innovation can happen when more bright minds/engineers work on this. \n\nWe try to make more ground level impact to onboard developers to Web3/ZK and other implementation of cryptographic primitives by providing opportunities to learn, collaborate and work on these technologies. ",
+      "product_launch_day": "2024-01-01T05:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://zkmonk.org",
+        "blog": "",
+        "github": "github.com/zkmonk",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/zk_monk",
+        "discord": "https://discord.gg/fGgbucKfaQ",
+        "telegram": "https://tr.ee/_ckjESVQIg",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zkmonk/logo.svg"
+        }
+      ]
+    },
+    {
       "id": "bisq",
       "name": "Bisq",
       "categories": [
