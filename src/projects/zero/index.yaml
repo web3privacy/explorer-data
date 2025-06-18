@@ -1,8 +1,22 @@
 id: zero
 name: Zero
 categories:
-- defi
-description: Private transactions
+  - defi
+description: >-
+  ZERO is a revolutionary cryptocurrency and transaction platform based on
+  Zcash.
+
+
+  ZERO offers total payment confidentiality, while still maintaining a
+  decentralised network using a public blockchain.
+
+
+  ZERO combines Bitcoin’s security with Zcash’s anonymity and privacy.
+
+
+  ZERO stands out from the competition as a fully working product that has
+  already implemented a set of special features not found in any other
+  cryptocurrency.
 links:
   web: https://zero.directory
   github: https://github.com/zerocurrencycoin
@@ -14,6 +28,13 @@ links:
 team:
   anonymous: true
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zero/logo.png
+ecosystem:
+  - other
+sunset: false
