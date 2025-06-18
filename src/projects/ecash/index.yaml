@@ -1,9 +1,9 @@
 id: ecash
 name: eCash
 categories:
-- defi
-description: Simple. Instant. Secure. Experience the revolutionary new money powered
-  by Avalanche
+  - defi
+description: Simple. Instant. Secure. Experience the revolutionary new money
+  powered by Avalanche
 links:
   web: https://e.cash
   github: https://github.com/bitcoin-abc/bitcoin-abc/
@@ -15,6 +15,13 @@ links:
 team:
   anonymous: true
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ecash/logo.png
+ecosystem:
+  - other
+sunset: false
