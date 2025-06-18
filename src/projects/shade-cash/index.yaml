@@ -1,8 +1,16 @@
 id: shade-cash
 name: Shade Cash
 categories:
-- defi
+  - defi
 usecases:
-- defi
+  - defi
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/shade-cash/logo.png
+ecosystem:
+  - other
+description: Decentralized protocol for private transactions on the Fantom Opera.
+sunset: true
