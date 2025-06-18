@@ -1,8 +1,0 @@
-id: diva
-name: Diva
-categories:
-- defi
-usecases:
-- defi
-have_token: false
-third_party_dependency: none
