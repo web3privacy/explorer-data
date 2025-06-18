@@ -1,9 +1,9 @@
 id: xmtp-x-lens
 name: XMTP x Lens
 categories:
-- social-and-communications
-description: Lens Protocol has adopted XMTP to provide a secure and private direct
-  messaging layer for the entire Lens ecosystem
+  - social-and-communications
+description: Lens Protocol has adopted XMTP to provide a secure and private
+  direct messaging layer for the entire Lens ecosystem
 team:
   anonymous: true
 links:
@@ -20,6 +20,13 @@ project_status:
   testnet: true
   mainnet: true
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/xmtp-x-lens/logo.png
+ecosystem:
+  - other
+sunset: false
