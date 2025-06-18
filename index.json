@@ -33323,25 +33323,6 @@
       ]
     },
     {
-      "id": "diva",
-      "name": "Diva",
-      "categories": [
-        "defi"
-      ],
-      "usecases": [
-        "defi"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/diva/logo.png"
-        }
-      ]
-    },
-    {
       "id": "zk-kit",
       "name": "zk-kit",
       "categories": [
