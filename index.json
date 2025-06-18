@@ -29288,7 +29288,27 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/spiral-finance/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "description": "A non-custodial privacy solution based on Zk-Sync ERA, 100% of the platform fees go to token holders!!",
+      "sunset": false,
+      "links": {
+        "web": "https://www.spiralfi.io/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      }
     },
     {
       "id": "anydao",
