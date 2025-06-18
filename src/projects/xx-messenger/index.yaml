@@ -1,9 +1,9 @@
 id: xx-messenger
 name: xx messenger
 categories:
-- social-and-communications
-description: An ultra-private messaging app, powered by the quantum-resistant and
-  decentralized xx network
+  - social-and-communications
+description: An ultra-private messaging app, powered by the quantum-resistant
+  and decentralized xx network
 team:
   anonymous: false
 links:
@@ -21,6 +21,13 @@ project_status:
   testnet: true
   mainnet: true
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/xx-messenger/logo.png
+ecosystem:
+  - other
+sunset: false
