@@ -1,18 +1,18 @@
 id: mejhool
 name: Mejhool
 categories:
-- social-and-communications
-description: A decentralized web and mobile app with peer-to-peer text messaging,
-  decentralized file transfer, and voice-over-IP service
+  - social-and-communications
+description: A decentralized web and mobile app with peer-to-peer text
+  messaging, decentralized file transfer, and voice-over-IP service
 team:
   anonymous: false
   teammembers:
-  - name: Dr. Mohamed Al Arab
-    role: Founder - CEO
-  - name: Yusuf Haji
-    role: Founder
-  - name: Fahad Faqeeh
-    role: Founder
+    - name: Dr. Mohamed Al Arab
+      role: Founder - CEO
+    - name: Yusuf Haji
+      role: Founder
+    - name: Fahad Faqeeh
+      role: Founder
 links:
   web: https://hzmcoin.com/mejhool/
   whitepaper: https://hzmcoin.com/wp-content/uploads/whitepaper.pdf
@@ -20,7 +20,15 @@ links:
   twitter: https://x.com/Mejhool_app
 have_token: false
 tokens:
-- symbol: HZM
+  - symbol: HZM
 usecases:
-- messaging
+  - messaging
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mejhool/logo.png
+ecosystem:
+  - ethereum
+sunset: false
+assets_used: []
