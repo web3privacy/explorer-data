@@ -12924,7 +12924,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/pigeon-communicator/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "calyxos",
