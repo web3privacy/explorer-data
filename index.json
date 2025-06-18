@@ -13958,7 +13958,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/universal-privacy-alliance/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "zephyr-protocol",
