@@ -15783,7 +15783,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/beepo/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "tonnel-network",
