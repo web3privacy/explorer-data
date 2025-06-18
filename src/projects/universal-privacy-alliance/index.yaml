@@ -1,14 +1,21 @@
 id: universal-privacy-alliance
 name: Universal Privacy Alliance
 categories:
-- social-and-communications
-description: seeks to advance the understanding of privacy as the very basis of free
-  and flourishing digital societies
+  - social-and-communications
+description: seeks to advance the understanding of privacy as the very basis of
+  free and flourishing digital societies
 links:
   web: https://privacyalliance.com
   blog: https://nymtech.medium.com/press-release-universal-privacy-alliance-launches-privacy-legal-defence-fund-at-devcon-c80af393ab11
   twitter: https://twitter.com/priv_alliance
 usecases:
-- alliances
+  - alliances
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/universal-privacy-alliance/logo.png
+ecosystem:
+  - multichain
+sunset: false
