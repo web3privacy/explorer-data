@@ -1,17 +1,17 @@
 id: beepo
 name: Beepo
 categories:
-- social-and-communications
-description: A social networking application integrated with a multichain chain crypto
-  wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and
-  a sales catalog section for business accounts
+  - social-and-communications
+description: A social networking application integrated with a multichain chain
+  crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce
+  store, and a sales catalog section for business accounts
 team:
   anonymous: false
   teammembers:
-  - name: Michael Jimoh
-    role: Co-Founder & CEO
-  - name: Clement Hochart
-    role: Co-Founder
+    - name: Michael Jimoh
+      role: Co-Founder & CEO
+    - name: Clement Hochart
+      role: Co-Founder
 links:
   web: https://beepoapp.net/#features
   github: https://github.com/beepo-app
@@ -20,6 +20,13 @@ links:
   discord: https://discord.com/invite/DhYJGgAVzR
   telegram: https://t.me/beepoapp
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/beepo/logo.png
+ecosystem:
+  - other
+sunset: false
