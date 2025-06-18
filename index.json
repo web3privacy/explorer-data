@@ -13618,7 +13618,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/crypviser-secure-messenger/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": true
     },
     {
       "id": "hinkal",
