@@ -1,7 +1,7 @@
 id: deeper-network
 name: Deeper Network
 categories:
-- hardware
+  - hardware
 description: Web 3.0 infrastructure of the users, by the users, for the users.
 project_status:
   version: Mainet
@@ -18,6 +18,13 @@ links:
 team:
   anonymous: true
 usecases:
-- hardware
+  - hardware
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/deeper-network/logo.png
+ecosystem:
+  - other
+sunset: false
