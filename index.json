@@ -25842,7 +25842,7 @@
       "categories": [
         "defi"
       ],
-      "description": "Privacy first, account-free crypto exchange",
+      "description": "Boltz is a non-custodial Bitcoin bridge built to swap between different Bitcoin layers like the Liquid and Lightning Network. Boltz Swaps are non-custodial, which means users can always rest assured to be in full control of their bitcoin throughout the entire flow of a swap.",
       "links": {
         "web": "https://boltz.exchange",
         "github": "https://github.com/BoltzExchange/",
@@ -25856,7 +25856,7 @@
         "anonymous": true
       },
       "usecases": [
-        "currency"
+        "bridge"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -25866,7 +25866,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/boltz/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "fairy",
