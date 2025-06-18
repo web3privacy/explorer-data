@@ -17094,7 +17094,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ecash/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "parami",
