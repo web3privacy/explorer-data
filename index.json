@@ -30656,25 +30656,6 @@
       "history": []
     },
     {
-      "id": "light-shield",
-      "name": "Light Shield",
-      "categories": [
-        "defi"
-      ],
-      "usecases": [
-        "defi"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/light-shield/logo.png"
-        }
-      ]
-    },
-    {
       "id": "web3id",
       "name": "Web3ID",
       "categories": [
