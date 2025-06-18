@@ -1,8 +1,20 @@
 id: cia-protocol
 name: CIA protocol
 categories:
-- defi
+  - defi
 usecases:
-- defi
+  - defi
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/cia-protocol/logo.png
+ecosystem:
+  - other
+description: CIA Protocol (CIA) is a privacy centric portal into DeFi by
+  integrating ZK-SNARKs with an AMM. CIA aims to diversify trading options for
+  the DeFi community on the leading blockchains by offering a privacy DEX with
+  additional featurs such as private lending/borrowing, yield farming & rewards
+  for active network participants via the native token
+sunset: true
