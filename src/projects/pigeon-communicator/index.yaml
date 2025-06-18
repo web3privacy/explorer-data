@@ -1,7 +1,7 @@
 id: pigeon-communicator
 name: Pigeon Communicator
 categories:
-- social-and-communications
+  - social-and-communications
 description: Blockchain-based, trustless, censorship-resistant decentralized messaging
 team:
   anonymous: true
@@ -14,12 +14,19 @@ links:
   telegram: https://t.me/Pigeoncoin
 have_token: false
 tokens:
-- symbol: PGN
+  - symbol: PGN
 project_status:
   live_status: true
   version: Testnet
   testnet: true
   mainnet: false
 usecases:
-- messaging
+  - messaging
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/pigeon-communicator/logo.png
+ecosystem:
+  - other
+sunset: false
