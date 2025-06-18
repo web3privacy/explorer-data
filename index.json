@@ -32776,7 +32776,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/shade-cash/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Decentralized protocol for private transactions on the Fantom Opera.",
+      "sunset": true
     },
     {
       "id": "swisstronik",
