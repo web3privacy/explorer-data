@@ -11981,7 +11981,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/deeper-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "renegade",
