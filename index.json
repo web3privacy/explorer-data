@@ -20298,7 +20298,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/the-4th-pillar/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "zeropool",
