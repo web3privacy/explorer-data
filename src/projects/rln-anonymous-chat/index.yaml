@@ -1,12 +1,61 @@
 id: rln-anonymous-chat
 name: RLN Anonymous Chat
 categories:
-- social-and-communications
-description: A spam-resistant instant messaging application for private and anonymous
-  communication
+  - social-and-communications
+description: A spam-resistant instant messaging application for private and
+  anonymous communication
 links:
   web: https://github.com/njofce/zk-chat
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- messaging
+  - messaging
 have_token: false
-third_party_dependency: none
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/rln-anonymous-chat/logo.png
+ecosystem:
+  - other
+sunset: false
+assets_used: []
+tokens: []
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+audits: []
+social_trust: ""
+technical_spof: ""
