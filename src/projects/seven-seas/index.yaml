@@ -1,8 +1,30 @@
 id: seven-seas
 name: Seven Seas
 categories:
-- defi
+  - defi
 usecases:
-- defi
+  - defi
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/seven-seas/logo.png
+ecosystem:
+  - multichain
+description: No KYC | Privacy Focused | Crypto Exchange
+sunset: false
+links:
+  web: https://www.sevenseas.exchange/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
