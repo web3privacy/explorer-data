@@ -1,7 +1,7 @@
 id: dragonx
 name: DragonX
 categories:
-- defi
+  - defi
 description: a Z2Z private by default crypto + messenging
 links:
   web: https://dragonx.is/
@@ -15,9 +15,9 @@ team:
 technology:
   type: ZCash
   features:
-  - zk-SNARKs
-  - RandomX proof
-  - Sietch
+    - zk-SNARKs
+    - RandomX proof
+    - Sietch
 blockchain_features:
   p2p: true
   opensource: true
@@ -32,6 +32,13 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/dragonx/logo.png
+ecosystem:
+  - other
+sunset: false
