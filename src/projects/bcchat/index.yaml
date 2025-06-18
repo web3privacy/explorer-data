@@ -1,7 +1,7 @@
 id: bcchat
 name: BCchat
 categories:
-- social-and-communications
+  - social-and-communications
 description: A decentralized, privacy messenger built over the Beldex blockchain.
 team:
   anonymous: true
@@ -19,6 +19,13 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/bcchat/logo.png
+ecosystem:
+  - other
+sunset: false
