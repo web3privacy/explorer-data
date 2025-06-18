@@ -34912,7 +34912,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/xmtp-x-lens/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "anonzk-incognito",
