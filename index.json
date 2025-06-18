@@ -5486,7 +5486,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mejhool/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false,
+      "assets_used": []
     },
     {
       "id": "shoffelmpc",
