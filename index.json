@@ -19522,7 +19522,31 @@
           "ext": "svg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/sahara/logo.svg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "ethereum",
+        "solana"
+      ],
+      "description": "The first dedicated privacy protocol ecosystem that enables\non-platform trade between volatile and stable assets",
+      "sunset": true,
+      "assets_used": [],
+      "tokens": [],
+      "links": {
+        "web": "https://sahara.network/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/SaharaProtocol",
+        "discord": "",
+        "telegram": "https://t.me/SaharaProtocol",
+        "lens": "",
+        "farcaster": ""
+      }
     },
     {
       "id": "zkmonk",
