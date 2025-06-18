@@ -2298,7 +2298,7 @@
       "categories": [
         "defi"
       ],
-      "description": "Private transactions",
+      "description": "ZERO is a revolutionary cryptocurrency and transaction platform based on Zcash.\n\nZERO offers total payment confidentiality, while still maintaining a decentralised network using a public blockchain.\n\nZERO combines Bitcoin’s security with Zcash’s anonymity and privacy.\n\nZERO stands out from the competition as a fully working product that has already implemented a set of special features not found in any other cryptocurrency.",
       "links": {
         "web": "https://zero.directory",
         "github": "https://github.com/zerocurrencycoin",
@@ -2322,7 +2322,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zero/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "Feather",
