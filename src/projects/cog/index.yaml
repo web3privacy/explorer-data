@@ -1,14 +1,21 @@
 id: cog
 name: COG
 categories:
-- defi
-description: A new private digital currency that leverages the power of Web3 and DeFi  without
-  compromising the privacy and security of its users
+  - defi
+description: A new private digital currency that leverages the power of Web3 and
+  DeFi  without compromising the privacy and security of its users
 links:
   web: https://cogfi.org
 team:
   anonymous: false
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/cog/logo.png
+ecosystem:
+  - other
+sunset: false
