@@ -1,7 +1,7 @@
 id: hush
 name: Hush
 categories:
-- defi
+  - defi
 description: Private cryptocurrency using zero knowledge mathematics
 links:
   web: https://hush.is
@@ -14,6 +14,13 @@ links:
 team:
   anonymous: false
 usecases:
-- currency
+  - currency
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/hush/logo.png
+ecosystem:
+  - other
+sunset: false
