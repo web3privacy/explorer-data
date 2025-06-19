@@ -13131,7 +13131,41 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/conceal-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Conceal is a decentralized privacy-protected network designed for De-Fi and encrypted communications. It offers protocol-level private transactions, blockchain deposits and on-chain encrypted messages without a central authority.",
+      "sunset": false,
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "links": {
+        "web": "https://conceal.network",
+        "blog": "https://medium.com/@ConcealNetwork",
+        "github": "https://github.com/ConcealNetwork",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/ConcealNetwork",
+        "discord": "http://discord.conceal.network/",
+        "telegram": "https://t.me/concealcommunity",
+        "lens": "",
+        "farcaster": ""
+      }
     },
     {
       "id": "ronindojo-tanto",
