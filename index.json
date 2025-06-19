@@ -4932,7 +4932,30 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/definer/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "description": "DeFiner is a permissionless and configurable decentralized lending protocol with 100% protected privacy. ",
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "links": {
+        "web": "https://definer.org",
+        "blog": "",
+        "github": "https://github.com/DeFinerOrg",
+        "forum": "",
+        "docs": "https://docs.definer.org/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/definerorg",
+        "discord": "https://discord.gg/rUCBdTp",
+        "telegram": "https://t.me/DeFiner",
+        "lens": "",
+        "farcaster": ""
+      }
     },
     {
       "id": "stealthdrop",
