@@ -1,9 +1,9 @@
 id: anoma
 name: Anoma
 categories:
-- infrastructure
-description: An intent-centric, privacy-preserving protocol for decentralized counterparty
-  discovery, solving, and multi-chain atomic settlement
+  - infrastructure
+description: An intent-centric, privacy-preserving protocol for decentralized
+  counterparty discovery, solving, and multi-chain atomic settlement
 project_status:
   version: testnet
   testnet: true
@@ -12,12 +12,12 @@ project_status:
 team:
   anonymous: false
   teammembers:
-  - name: Christopher Goes
-    role: CTO
-  - name: Adrian Brink
-    role: Co-founder
-  - name: Awa Sun Yin
-    role: CEO
+    - name: Christopher Goes
+      role: CTO
+    - name: Adrian Brink
+      role: Co-founder
+    - name: Awa Sun Yin
+      role: CEO
 links:
   web: https://anoma.net
   docs: https://github.com/anoma/anoma-archive/tree/main/docs
@@ -28,13 +28,20 @@ links:
 technology:
   type: ZK, FHE
   features:
-  - privacy for content
+    - privacy for content
 blockchain_features:
   p2p: true
   opensource: true
 storage:
   decentralized: true
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/anoma/logo.png
+ecosystem:
+  - other
+sunset: false
