@@ -10905,7 +10905,27 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/stealthpay/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "StealthPay is an online service which lets you move money anonymously anywhere across the globe. It is a gate to your financial privacy. StealthPay is a place where people can buy and sell Stealth (XST) – anonymous digital currency. With its Send Money and Request Money functions StealthPay also allows you to pay anyone anonymously and to receive payments from anyone in an anonymous mode. ",
+      "sunset": false,
+      "links": {
+        "web": "https://www.stealthpay.com/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/StealthPay",
+        "discord": "",
+        "telegram": "http://t.me/StealthPay",
+        "lens": "",
+        "farcaster": ""
+      }
     },
     {
       "id": "tuumio",
