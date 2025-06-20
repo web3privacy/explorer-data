@@ -1,30 +1,39 @@
 id: hopr
 name: HOPR
 categories:
-- infrastructure
-description: The HOPR network is a decentralized incentivized mixnet, ensuring complete
-  data and metadata privacy for everyone who uses it. Data is sent via multiple hops,
-  so no-one but the sender and receiver know the origin, destination, or content of
-  a data transfer.
+  - infrastructure
+description: The HOPR network is a decentralized incentivized mixnet, ensuring
+  complete data and metadata privacy for everyone who uses it. Data is sent via
+  multiple hops, so no-one but the sender and receiver know the origin,
+  destination, or content of a data transfer.
 team:
   anonymous: false
   teammembers:
-  - name: "Dr. Sebastian B\xFCrgel"
-    role: President
-  - name: Rik Krieger
-    role: Co-Founder
+    - name: Dr. Sebastian Bürgel
+      role: President
+    - name: Rik Krieger
+      role: Co-Founder
 links:
   web: https://hoprnet.org/protocol
   github: https://github.com/hoprnet
   docs: https://docs.hoprnet.org/
 have_token: false
 tokens:
-- symbol: HOPR
+  - symbol: HOPR
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/hopr/logo.png
+ecosystem:
+  - other
+  - ethereum
+  - multichain
+sunset: false
