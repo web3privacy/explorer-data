@@ -1,30 +1,45 @@
 id: verida
 name: Verida
 categories:
-- infrastructure
-description: Verida is a multi-chain protocol for interoperable database storage and
-  messaging built on decentralized identity where personal data is owned and controlled
-  by users
+  - infrastructure
+description: Verida is a multi-chain protocol for interoperable database storage
+  and messaging built on decentralized identity where personal data is owned and
+  controlled by users
 team:
   anonymous: false
   teammembers:
-  - name: Chris Were
-    role: Co-Founder & CEO
-  - name: Ryan Kris
-    role: Co-Founder & COO
+    - name: Chris Were
+      role: Co-Founder & CEO
+    - name: Ryan Kris
+      role: Co-Founder & COO
 links:
-  web: https://www.verida.io
+  web: https://verida.ai/
+  blog: https://news.verida.network/
   github: https://github.com/verida/
+  forum: ""
+  docs: https://docs.verida.ai/
   whitepaper: https://docsend.com/view/hqd8d55nbucz83yf
-  docs: https://developers.verida.network/
-  blog: https://news.verida.io
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/verida_io
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
   version: Mainnet
   testnet: true
   mainnet: true
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/verida/logo.png
+ecosystem:
+  - other
+  - multichain
+sunset: false
