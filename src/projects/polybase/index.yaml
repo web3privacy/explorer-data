@@ -1,16 +1,16 @@
 id: polybase
 name: Polybase
 categories:
-- infrastructure
-description: a public L2 blockchain with private transactions and MEV-resistance powered
-  by zero-knowledge proofs
+  - infrastructure
+description: a public L2 blockchain with private transactions and MEV-resistance
+  powered by zero-knowledge proofs
 team:
   anonymous: false
   teammembers:
-  - name: Sid Gandhi
-    role: Co-Founder & CEO
-  - name: Calum Moore
-    role: Co-Founder & CTO
+    - name: Sid Gandhi
+      role: Co-Founder & CEO
+    - name: Calum Moore
+      role: Co-Founder & CTO
 links:
   web: https://polybase.xyz
   docs: https://payy.network/docs
@@ -22,6 +22,13 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- eth-layer-2
+  - eth-layer-2
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/polybase/logo.png
+ecosystem:
+  - multichain
+sunset: false
