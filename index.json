@@ -22919,7 +22919,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/omnia/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "lecksis",
