@@ -23671,12 +23671,19 @@
         ]
       },
       "links": {
-        "web": "https://www.verida.io",
+        "web": "https://verida.ai/",
+        "blog": "https://news.verida.network/",
         "github": "https://github.com/verida/",
+        "forum": "",
+        "docs": "https://docs.verida.ai/",
         "whitepaper": "https://docsend.com/view/hqd8d55nbucz83yf",
-        "docs": "https://developers.verida.network/",
-        "blog": "https://news.verida.io",
-        "twitter": "https://twitter.com/verida_io"
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/verida_io",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -23695,7 +23702,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/verida/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "ethrome",
