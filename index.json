@@ -6861,10 +6861,18 @@
       },
       "links": {
         "web": "https://scalaproject.io",
-        "github": "https://github.com/scala-network/",
-        "docs": "https://wiki.scalaproject.io/",
         "blog": "https://scala.network/blog/",
-        "twitter": "https://twitter.com/scalahq"
+        "github": "https://github.com/scala-network/",
+        "forum": "",
+        "docs": "https://wiki.scalaproject.io/",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.scalaproject.io/",
+        "governance": "",
+        "twitter": "https://twitter.com/scalahq",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
@@ -6888,7 +6896,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/scala/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "nerva",
