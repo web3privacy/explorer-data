@@ -32273,7 +32273,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/aleo/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "hashcloak",
