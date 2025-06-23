@@ -6371,7 +6371,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hopr/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "ethereum",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "litentry",
