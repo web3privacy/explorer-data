@@ -24330,7 +24330,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/polybase/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "monerotopia",
