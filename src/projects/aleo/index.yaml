@@ -1,10 +1,10 @@
 id: aleo
 name: Aleo
 categories:
-- infrastructure
-description: An all-in-one Zero-Knowledge platform. On Aleo you can code, deploy,
-  and run your apps in a single place. Build full-stack, private applications with
-  ZK on layer 1.
+  - infrastructure
+description: An all-in-one Zero-Knowledge platform. On Aleo you can code,
+  deploy, and run your apps in a single place. Build full-stack, private
+  applications with ZK on layer 1.
 team:
   anonymous: true
 links:
@@ -25,8 +25,8 @@ project_status:
 technology:
   type: zk-SNARKs
   features:
-  - ZK circuit programming
-  - SNARK validator network
+    - ZK circuit programming
+    - SNARK validator network
 blockchain_features:
   opensource: true
   p2p: true
@@ -34,13 +34,19 @@ blockchain_features:
   dissapearing_tx: true
   connected_tx: true
 client_diversability:
-- name: address
-  link: https://explorer.aleo.org/validators
+  - name: address
+    link: https://explorer.aleo.org/validators
 default_privacy: true
 storage:
   decentralized: true
-
 third_party_dependency: none
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/aleo/logo.png
+ecosystem:
+  - other
+sunset: false
