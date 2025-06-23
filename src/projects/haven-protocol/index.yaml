@@ -1,7 +1,7 @@
 id: haven-protocol
 name: Haven Protocol
 categories:
-- infrastructure
+  - infrastructure
 description: an open source, community-led network of private digital assets
 team:
   anonymous: true
@@ -14,15 +14,22 @@ links:
   twitter: https://twitter.com/HavenXHV
 have_token: false
 tokens:
-- symbol: XHV
+  - symbol: XHV
 audits:
-- name: no audit reports attached
-  link: https://github.com/haven-protocol-org/security-audits/
+  - name: no audit reports attached
+    link: https://github.com/haven-protocol-org/security-audits/
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/haven-protocol/logo.png
+ecosystem:
+  - other
+sunset: true
