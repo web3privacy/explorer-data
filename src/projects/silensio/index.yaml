@@ -1,0 +1,107 @@
+name: silensio
+categories:
+  - infrastructure
+  - applications
+  - social-and-communications
+  - defi
+usecases:
+  - wallets
+  - defi
+  - currency
+  - messaging
+ecosystem:
+  - ethereum
+description: >-
+  Silensio is a privacy-first protocol on Ethereum designed to keep your onchain
+  activity will be more private.
+
+
+  SilenMixer : you can swap without a trace. 
+
+  SilenWallet: protects your assets without exposure. 
+
+  SilenPay : enables anonymous payments. 
+
+  SilenMesh : keeps your dApp interactions private.
+
+
+  All built for one purpose: full control over your privacy.
+product_launch_day: 2025-07-17T17:00:00.000Z
+nickname: t.me/rugmes
+sunset: false
+assets_used:
+  - eth
+have_token: true
+tokens:
+  - symbol: silen
+    name: silensio
+    contract_address: "-"
+    token_link: "-"
+links:
+  web: http://silensio.xyz/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://silensio.gitbook.io/silensio-docs
+  whitepaper: https://silensio.gitbook.io/silensio-docs
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/silensio_xyz
+  discord: ""
+  telegram: https://t.me/silensio_xyz
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Zero-Knowledge Proofs (zk-SNARKs), stealth addresses, and end-to-end
+    encryption for onchain messaging. All components are fully onchain and
+    Ethereum-compatible, with no centralized servers or offchain dependencies
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: Silensio doesn’t collect or store any user information — so there's
+    nothing to use.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Silensio collects no personal data
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: Silensio runs independently on Ethereum
+social_trust: >-
+  Silensio is currently governed by a core team using a multisig wallet for key
+  operations and contract management.
+
+  In the future, governance will gradually transition to a DAO structure,
+  allowing the community to vote on upgrades, fees, and ecosystem decisions
+  using the $SILEN token.
+technical_spof: >-
+  Silensio is built fully onchain and doesn’t store user data, so there’s
+  nothing to leak.
+
+  A shutdown or exploit would require a critical smart contract vulnerability or
+  compromise of the multisig wallet managing upgrades.
+
+  We don’t use centralized servers, and there are no admin backdoors.
+team:
+  anonymous: false
+  teammembers:
+    - name: suya
+      link: https://t.me/rugmes
+    - name: aidan
+      link: https://t.me/aidanwalsh
+funding: []
+history: []
+id: silensio
