@@ -8111,7 +8111,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/kinto/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "grin",
