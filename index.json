@@ -27302,7 +27302,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nodl-one/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "self",
