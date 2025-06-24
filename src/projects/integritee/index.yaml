@@ -1,9 +1,9 @@
 id: integritee
 name: Integritee
 categories:
-- infrastructure
-description: Integritee is a highly scalable, privacy-enabling network in the Polkadot
-  ecosystem with parachains on Polkadot and Kusama
+  - infrastructure
+description: Integritee is a highly scalable, privacy-enabling network in the
+  Polkadot ecosystem with parachains on Polkadot and Kusama
 team:
   anonymous: true
 links:
@@ -15,12 +15,19 @@ links:
   twitter: https://twitter.com/integri_t_e_e
 have_token: false
 tokens:
-- symbol: TEER
+  - symbol: TEER
 project_status:
   live_status: true
   version: testnet
   testnet: true
   mainnet: true
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/integritee/logo.png
+ecosystem:
+  - other
+sunset: false
