@@ -142,7 +142,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ethereum-portal-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "dmail-network",
