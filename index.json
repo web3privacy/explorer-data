@@ -26335,7 +26335,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/1984/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "pomp",
