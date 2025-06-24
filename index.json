@@ -29047,6 +29047,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/monero-pocketnode/logo.png"
         }
+      ],
+      "ecosystem": [
+        "monero"
       ]
     },
     {
