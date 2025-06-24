@@ -6165,9 +6165,18 @@
       },
       "links": {
         "web": "https://www.espressosys.com",
+        "blog": "",
         "github": "https://github.com/EspressoSystems/",
+        "forum": "",
+        "docs": "https://docs.espressosys.com/",
         "whitepaper": "https://github.com/EspressoSystems/HotShot/blob/main/docs/espresso-sequencer-paper.pdf",
-        "docs": "https://docs.espressosys.com/"
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -6186,7 +6195,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/espresso-systems/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "plugin-io",
