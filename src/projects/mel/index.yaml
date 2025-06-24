@@ -1,24 +1,48 @@
 id: mel
 name: Mel
 categories:
-- infrastructure
-description: A clean-slate L1 for a decentralized, secure, and private internet beyond
-  blockchains - a vibrant ecosystem of full-stack decentralized apps freed from the
-  current on-chain smart contract model, yet still ultimately secured by blockchain
-  consensus
+  - infrastructure
+description: A clean-slate L1 for a decentralized, secure, and private internet
+  beyond blockchains - a vibrant ecosystem of full-stack decentralized apps
+  freed from the current on-chain smart contract model, yet still ultimately
+  secured by blockchain consensus
 team:
   anonymous: false
   teammembers:
-  - name: Eric Tung
-    role: Founder CEO & CTO
+    - name: Eric Tung
+      role: Founder CEO & CTO
 links:
   web: https://melproject.org/en/
+  blog: ""
   github: https://github.com/mel-project
-  docs: https://docs.melproject.org
   forum: https://forum.melproject.org/
-  yellow-paper: https://docs.themelio.org/specifications/yellow/
-  Twitter: https://twitter.com/melproject_org
+  docs: https://docs.melproject.org
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/melproject_org
+  discord: https://discord.gg/qfg35paESn
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mel/logo.png
+ecosystem:
+  - other
+sunset: false
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
