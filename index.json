@@ -10689,6 +10689,84 @@
       ]
     },
     {
+      "id": "mystiko.network",
+      "name": "Mystiko.Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "description": "The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://expandzk.com/",
+        "blog": "https://medium.com/@Expandzk",
+        "github": "https://github.com/mystikonetwork",
+        "forum": "",
+        "docs": "https://docs.mystiko.network/",
+        "whitepaper": "https://mystiko.network/whitepaper.pdf",
+        "block_explorer": "https://explorer.mystiko.network/",
+        "governance": "",
+        "twitter": "https://x.com/MystikoNetwork",
+        "discord": "https://discord.gg/expandzk",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mystiko.network/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "zkgpt",
       "name": "ZKGPT",
       "categories": [
