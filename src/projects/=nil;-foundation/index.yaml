@@ -1,0 +1,27 @@
+id: =nil;-foundation
+name: =nil; Foundation
+categories:
+  - infrastructure
+description: Foundation intends to create a tightly integrated set of
+  technologies becoming a basis for secure data storages operating in insecure
+  environments
+links:
+  web: https://nil.foundation
+  github: https://github.com/nilfoundation
+  docs: https://docs.nil.foundation/
+  blog: https://nil.foundation/blog
+  twitter: https://x.com/nil_foundation
+  discord: https://discord.com/invite/KmTAEjbmM3
+  telegram: https://t.me/nilfoundation
+usecases:
+  - research-and-development
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nil-foundation/logo.png
+ecosystem:
+  - ethereum
+  - other
+sunset: false
