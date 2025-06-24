@@ -8447,7 +8447,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mysterium/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "comit-network",
