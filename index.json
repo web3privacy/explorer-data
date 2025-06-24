@@ -13583,8 +13583,18 @@
       },
       "links": {
         "web": "https://concordium.com",
+        "blog": "",
         "github": "https://github.com/Concordium",
-        "whitepaper": "https://www.concordium.com/technology#whitepapers"
+        "forum": "",
+        "docs": "",
+        "whitepaper": "https://www.concordium.com/technology#whitepapers",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
@@ -13593,10 +13603,9 @@
         }
       ],
       "project_status": {
-        "live_status": true,
-        "version": "",
-        "testnet": false,
-        "mainnet": true
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
       },
       "usecases": [
         "infrastructure"
@@ -13608,7 +13617,20 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/concordium/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {}
     },
     {
       "id": "ghostdrive",
