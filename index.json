@@ -21268,7 +21268,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/raspiblitz/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "geniish",
