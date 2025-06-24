@@ -1,7 +1,7 @@
 id: manta-network
 name: Manta Network
 categories:
-- infrastructure
+  - infrastructure
 description: the multi-modular ecosystem for zero-knowledge (ZK) applications
 team:
   anonymous: true
@@ -12,12 +12,19 @@ links:
   twitter: https://twitter.com/mantanetwork
 have_token: false
 tokens:
-- symbol: MANTA
+  - symbol: MANTA
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/manta-network/logo.png
+ecosystem:
+  - multichain
+sunset: false
