@@ -1,7 +1,7 @@
 id: nata-network
 name: Nata network
 categories:
-- infrastructure
+  - infrastructure
 description: Nata Network is your portal to private cross-chain transactions.
 team:
   anonymous: true
@@ -20,5 +20,13 @@ project_status:
   mainnet: true
 have_token: false
 usecases:
-- bridge
+  - bridge
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nata-network/logo.png
+ecosystem:
+  - other
+  - multichain
+sunset: true
