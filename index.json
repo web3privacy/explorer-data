@@ -13987,7 +13987,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/manta-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "zcash",
