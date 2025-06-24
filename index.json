@@ -36382,7 +36382,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/start9/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "media-network",
