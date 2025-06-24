@@ -22631,7 +22631,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nata-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "sunset": true
     },
     {
       "id": "private-finance-syndicate",
