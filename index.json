@@ -29450,14 +29450,18 @@
       },
       "links": {
         "web": "https://arcana.network",
+        "blog": "https://arcana.network/blog",
         "github": "https://docs.beta.arcana.network",
+        "forum": "",
+        "docs": "https://docs.arcana.network/",
+        "whitepaper": "https://www.notion.so/arcananetwork/Arcana-Technical-Docs-a1d7fd0d2970452586c693e4fee14d08",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://twitter.com/ArcanaNetwork",
         "discord": "https://discord.com/invite/6g7fQvEpdy",
-        "youtube": "https://www.youtube.com/@ArcanaNetwork",
         "telegram": "https://t.me/ArcanaNetwork",
-        "docs": "https://docs.arcana.network/",
-        "blog": "https://arcana.network/blog",
-        "whitepaper": "https://www.notion.so/arcananetwork/Arcana-Technical-Docs-a1d7fd0d2970452586c693e4fee14d08"
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
@@ -29475,7 +29479,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/arcana/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "anon-aadhaar",
