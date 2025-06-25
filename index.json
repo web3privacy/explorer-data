@@ -31796,11 +31796,19 @@
         ]
       },
       "links": {
-        "web": "https://nym.notrustverify.ch",
-        "github": "https://github.com/notrustverify",
+        "web": "https://notrustverify.ch",
         "blog": "https://blog.notrustverify.ch/",
+        "github": "https://github.com/notrustverify",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/notrustverif",
-        "telegram": "https://t.me/notrustverify"
+        "discord": "",
+        "telegram": "https://t.me/notrustverify",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "research-and-development"
@@ -31813,7 +31821,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/no-trust-verify/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "ohmni",
