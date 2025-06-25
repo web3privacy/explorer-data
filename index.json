@@ -37315,6 +37315,108 @@
       ]
     },
     {
+      "id": "shielded-labs",
+      "name": "Shielded Labs",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "research-and-development"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Shielded Labs is an independent, donation-funded Zcash support organization based in Switzerland. It is the first organization in the Zcash ecosystem that has never received direct or indirect funding from the Development Fund or block rewards.",
+      "sunset": false,
+      "assets_used": [
+        "zcash"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://shieldedlabs.net/",
+        "blog": "https://shieldedlabs.net/blog/",
+        "github": "https://github.com/ShieldedLabs/",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/ShieldedLabs",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Jason ``McGee`` Stramaglia",
+            "link": "https://shieldedlabs.net/team/"
+          },
+          {
+            "name": "Zooko Wilcox",
+            "link": "https://shieldedlabs.net/team/"
+          },
+          {
+            "name": "Nate Wilcox",
+            "link": "https://shieldedlabs.net/team/"
+          },
+          {
+            "name": "Mark Henderson",
+            "link": "https://shieldedlabs.net/team/"
+          },
+          {
+            "name": "Sam Smith",
+            "link": "https://shieldedlabs.net/team/"
+          },
+          {
+            "name": "Andrew Reece",
+            "link": "https://shieldedlabs.net/team/"
+          }
+        ]
+      },
+      "funding": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/shielded-labs/logo.png"
+        }
+      ]
+    },
+    {
       "id": "bcchat",
       "name": "BCchat",
       "categories": [
