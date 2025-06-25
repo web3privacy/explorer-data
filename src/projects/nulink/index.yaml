@@ -1,7 +1,7 @@
 id: nulink
 name: Nulink
 categories:
-- infrastructure
+  - infrastructure
 description: ZK Provable Data Privacy Solution for Decentralized Applications
 team:
   anonymous: true
@@ -14,12 +14,19 @@ links:
   twitter: https://twitter.com/NuLink_
 have_token: false
 tokens:
-- symbol: NLINK
+  - symbol: NLINK
 project_status:
   live_status: true
   version: Testnet Horus2.0
   testnet: true
   mainnet: false
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nulink/logo.png
+ecosystem:
+  - other
+sunset: false
