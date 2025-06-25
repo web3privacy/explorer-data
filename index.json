@@ -16057,7 +16057,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/light-protocol/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "sunset": false
     },
     {
       "id": "asterizm",
