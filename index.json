@@ -14766,7 +14766,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/gotabit/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "umbra-wallet",
