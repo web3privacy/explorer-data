@@ -32550,7 +32550,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/anytype/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "zoker",
