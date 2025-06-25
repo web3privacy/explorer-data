@@ -24402,7 +24402,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/tusima/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "rarimo",
