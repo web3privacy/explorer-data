@@ -12144,7 +12144,8 @@
         "mainnet": false
       },
       "usecases": [
-        "eth-layer-2"
+        "eth-layer-2",
+        "infrastructure"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -12154,7 +12155,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ola/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "deeper-network",
