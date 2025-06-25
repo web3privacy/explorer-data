@@ -27503,7 +27503,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/vault1317/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "aztec",
