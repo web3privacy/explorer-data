@@ -1,7 +1,7 @@
 id: ruby
 name: RUBY
 categories:
-- infrastructure
+  - infrastructure
 description: The Decentralized Privacy-Centric Protocol for Web3
 team:
   anonymous: true
@@ -12,7 +12,14 @@ links:
   Twitter: https://twitter.com/RubyProtocol
 have_token: false
 tokens:
-- symbol: RUBY
+  - symbol: RUBY
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ruby/logo.png
+ecosystem:
+  - multichain
+sunset: false
