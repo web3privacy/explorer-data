@@ -1,7 +1,7 @@
 id: tusima
 name: Tusima
 categories:
-- infrastructure
+  - infrastructure
 description: Privacy Financial Infrastructure For Blockchain
 links:
   web: https://tusima.network
@@ -12,6 +12,14 @@ links:
   discord: https://discord.com/invite/tusimanetwork
   telegram: https://t.me/tusimaofficial
 usecases:
-- eth-layer-2
+  - eth-layer-2
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/tusima/logo.png
+ecosystem:
+  - ethereum
+  - other
+sunset: false
