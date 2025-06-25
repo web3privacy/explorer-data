@@ -19607,7 +19607,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nulink/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "p0tion",
