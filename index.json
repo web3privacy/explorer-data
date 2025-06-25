@@ -32763,7 +32763,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hashcloak/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "nodl-dojo",
