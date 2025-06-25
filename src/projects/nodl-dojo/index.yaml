@@ -1,9 +1,14 @@
 id: nodl-dojo
 name: nodl Dojo
 categories:
-- infrastructure
-description: A collaboration between nodl and the Samourai Wallet team. The nodl Dojo
-  is a full Bitcoin and Lightning Network node
+  - infrastructure
+description: >-
+  The nodl Dojo is a full Bitcoin and Lightning Network node.
+
+  We are creating the infrastructure of the Bitcoin standard.
+
+  nodl builds tools and operates network infrastructure that let people reclaim
+  ownership of their life’s narrative. Tools to empower and liberate.
 links:
   web: https://www.nodl.eu/
   docs: https://docs.nodl.it/
@@ -13,6 +18,13 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- node
+  - node
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nodl-dojo/logo.png
+ecosystem:
+  - bitcoin
+sunset: false
