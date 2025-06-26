@@ -1,0 +1,25 @@
+name: Stealthnote
+categories:
+  - applications
+usecases:
+  - messaging
+ecosystem:
+  - ethereum
+description: An application to post anonymous messages while proving you belong
+  to an organization – without revealing your identity.
+sunset: false
+links:
+  web: https://stealthnote.xyz
+  blog: ""
+  github: https://github.com/saleel/stealthnote
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: stealthnote
