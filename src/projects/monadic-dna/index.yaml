@@ -1,0 +1,25 @@
+name: Monadic DNA
+categories:
+  - applications
+usecases:
+  - dapps
+ecosystem:
+  - other
+description: DNA insights with privacy, autonomy, and boundless curiosity.
+  Waitlist opening soon.
+sunset: false
+links:
+  web: monadicdna.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: https://monadicdna.com/lightpaper
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/monadicdna
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: monadic-dna
