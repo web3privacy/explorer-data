@@ -13404,7 +13404,8 @@
         "teammembers": []
       },
       "usecases": [
-        "hardware"
+        "hardware",
+        "node"
       ],
       "have_token": false,
       "third_party_dependency": "none",
