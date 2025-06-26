@@ -20987,6 +20987,28 @@
       ]
     },
     {
+      "id": "taurus---private-security-token",
+      "name": "Taurus - Private Security Token",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "An open-source confidential token standard for debt and equity tokenization, in collaboration between Taurus and the Aztec Foundation. Powered by Aztec’s L2 technology and written in Noir, this private security token enables financial institutions to issue tokenized assets on public blockchains while preserving compliance and privacy.",
+      "sunset": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/taurus---private-security-token/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "the-4th-pillar",
       "name": "The 4th Pillar",
       "categories": [
