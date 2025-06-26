@@ -1,0 +1,14 @@
+name: Taurus - Private Security Token
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: An open-source confidential token standard for debt and equity
+  tokenization, in collaboration between Taurus and the Aztec Foundation.
+  Powered by Aztec’s L2 technology and written in Noir, this private security
+  token enables financial institutions to issue tokenized assets on public
+  blockchains while preserving compliance and privacy.
+sunset: false
+id: taurus---private-security-token
