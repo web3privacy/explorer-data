@@ -1,0 +1,25 @@
+name: Olas protocol
+categories:
+  - infrastructure
+usecases:
+  - did
+ecosystem:
+  - ethereum
+description: a decentralized protocol for sharing, verifying, and aggregating
+  information while ensuring privacy, neutrality, and economic sustainability.
+sunset: false
+links:
+  web: https://olas.info
+  blog: ""
+  github: https://github.com/olas-protocol/
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: olas-protocol
