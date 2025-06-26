@@ -1,0 +1,32 @@
+name: Comet
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: a privacy preserving and decentralized multi-markets
+  overcollaterized lending protocol. Today, using lending protocols means
+  exposing your full financial history. This is a blocker for many. Comet uses
+  secret derived addresses on Aztec to let users manage positions privately,
+  while maintaining global protocol transparency. System health (TVL, solvency,
+  risk) remains fully auditable.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: ""
+  blog: ""
+  github: https://github.com/0xKawaka/comet
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: comet
