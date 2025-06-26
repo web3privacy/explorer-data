@@ -1,0 +1,25 @@
+name: Tisura
+categories:
+  - infrastructure
+usecases:
+  - did
+ecosystem:
+  - ethereum
+description: Permissionless and decentralized data infrastructure to build
+  zero-knowledge proofs with embedded data provenance.
+sunset: false
+links:
+  web: https://tisura.xyz
+  blog: ""
+  github: https://github.com/tisura-labs
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: tisura
