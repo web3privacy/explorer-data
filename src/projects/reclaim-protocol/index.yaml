@@ -1,0 +1,85 @@
+name: Reclaim Protocol
+categories:
+  - infrastructure
+usecases:
+  - data-management
+ecosystem:
+  - multichain
+  - other
+  - ethereum
+  - solana
+  - cosmos
+description: >
+  Access and Verify user data from anywhere on the internet.
+
+  Use Cases
+
+
+  Our protocol enables various applications, including:
+
+
+  - Education Verification - if you want to verify where and what the student is
+  studying. Useful for marketing campaigns and background verifications.
+
+  - Employment Verification - If you need to make sure the user works where they
+  claim to work. Useful for lending and hiring.
+
+  - Financial Background - if you need to verify financial background like
+  credit score, accredited investor status etc. Particularly useful in lending
+  and credit.
+
+  - Shopping History - if you need to give deals and discounts based on users'
+  loyalty to certain brands
+
+  ... and many more!
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://reclaimprotocol.org/
+  blog: https://blog.reclaimprotocol.org/
+  github: https://github.com/reclaimprotocol
+  forum: ""
+  docs: https://docs.reclaimprotocol.org/
+  whitepaper: https://www.reclaimprotocol.org/whitepaper
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/reclaimprotocol
+  discord: ""
+  telegram: https://t.me/protocolreclaim
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: zkTLS, zk proofs
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://reclaimprotocol.notion.site/Privacy-Policy-Reclaim-Protocol-115275b816cb80ab94b8ca8616673658
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: reclaim-protocol
