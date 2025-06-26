@@ -22152,6 +22152,44 @@
       ]
     },
     {
+      "id": "tezac",
+      "name": "Tezac",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "defi",
+        "nft-community"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Privacy-preserving NFT trading protocol on Aztec with encrypted ownership, private cross-chain trade established L1/L2 collections.",
+      "sunset": false,
+      "links": {
+        "web": "https://www.tezac.xyz",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/tezac/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "mynode",
       "name": "myNode",
       "categories": [
