@@ -1,0 +1,24 @@
+name: zk V e r i f y
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - ethereum
+description: "Modular layer optimized to verify zk proofs.  "
+sunset: false
+links:
+  web: ""
+  blog: ""
+  github: https://github.com/zkVerify
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: zk-v-e-r-i-f-y
