@@ -24,6 +24,7 @@ team:
   teammembers: []
 usecases:
   - hardware
+  - node
 have_token: false
 third_party_dependency: none
 logos:
