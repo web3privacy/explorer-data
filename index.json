@@ -21170,6 +21170,43 @@
       ]
     },
     {
+      "id": "zk-v-e-r-i-f-y",
+      "name": "zk V e r i f y",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Modular layer optimized to verify zk proofs.  ",
+      "sunset": false,
+      "links": {
+        "web": "",
+        "blog": "",
+        "github": "https://github.com/zkVerify",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zk-v-e-r-i-f-y/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "kava",
       "name": "Kava",
       "categories": [
