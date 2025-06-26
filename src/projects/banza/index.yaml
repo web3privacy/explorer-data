@@ -1,13 +1,11 @@
 name: Banza
 categories:
-  - infrastructure
+  - applications
 usecases:
-  - infrastructure
-  - data-management
+  - dapps
 ecosystem:
   - other
-description: Verifiably compute & consume private user data and distribute
-  liquid, tokenised rewards for incentivised data sharing economy
+description: Share your data intelligently and get rewarded. Build your own AI Twin.
 sunset: false
 links:
   web: https://banza.xyz
@@ -18,7 +16,7 @@ links:
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: ""
+  twitter: https://x.com/banzaofficial
   discord: ""
   telegram: ""
   lens: ""
