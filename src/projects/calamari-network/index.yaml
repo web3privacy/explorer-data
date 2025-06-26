@@ -1,23 +1,40 @@
 id: calamari-network
 name: Calamari network
 categories:
-- infrastructure
-description: Manta Network canary net, is the plug-and-play privacy-preservation parachain
-  built to serve the Kusama world
+  - infrastructure
+description: Manta Network canary net, is the plug-and-play privacy-preservation
+  parachain built to serve the Kusama world
 team:
   anonymous: true
 links:
   web: https://calamari.network
-  github: https://github.com/Manta-Network
   blog: https://mantanetwork.medium.com/
+  github: https://github.com/Manta-Network
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: https://calamari.subscan.io/
+  governance: https://forum.manta.network/c/calamari-network-governance/
+  twitter: https://x.com//CalamariNetwork
+  discord: https://discord.com/invite/PRDBTChSsF
+  telegram: https://t.me/mantanetworkofficial
+  lens: ""
+  farcaster: ""
 have_token: false
 tokens:
-- symbol: KMA
+  - symbol: KMA
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/calamari-network/logo.png
+ecosystem:
+  - other
+sunset: true
