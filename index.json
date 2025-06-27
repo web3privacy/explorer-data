@@ -9563,7 +9563,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/demox-labs/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "zkmaps",
