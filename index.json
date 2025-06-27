@@ -35682,7 +35682,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hypermine/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "cosmos",
+        "other",
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "rln-anonymous-chat",
