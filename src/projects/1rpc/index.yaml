@@ -1,13 +1,23 @@
 id: 1rpc
 name: 1RPC
 categories:
-- infrastructure
+  - infrastructure
 description: The Web3 Private RPC Relay
 links:
   web: https://www.1rpc.io
   docs: https://docs.ata.network/1rpc/introduction/
   twitter: https://x.com/1rpc_
 usecases:
-- rpc-provider
+  - rpc-provider
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/1rpc/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+  - bitcoin
+sunset: false
