@@ -8707,7 +8707,18 @@
       "description": "The worlds first decentralized, user-owned and operated mobile network. \"Your information is yours and yours alone",
       "links": {
         "web": "https://www.pollenmobile.io",
-        "github": "https://docs.pollenmobile.io/pollen-mobile-docs/"
+        "blog": "",
+        "github": "https://docs.pollenmobile.io/pollen-mobile-docs/",
+        "forum": "",
+        "docs": "https://docs.pollenmobile.io/pollen-mobile-docs/",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.pollenmobile.io/",
+        "governance": "",
+        "twitter": "https://x.com/pollenmobile",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
@@ -8725,7 +8736,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/pollen-mobile/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "sunset": false
     },
     {
       "id": "geniish",
