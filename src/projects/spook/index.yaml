@@ -1,11 +1,33 @@
 id: spook
 name: Spook
 categories:
-- infrastructure
+  - infrastructure
 description: Mixing service using the Nym network to anonymize Ethereum RPC calls.
 links:
   web: https://github.com/EdenBlockVC/spook
 usecases:
-- rpc-provider
+  - rpc-provider
+  - mixing-management
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/spook/logo.png
+ecosystem:
+  - ethereum
+  - other
+sunset: false
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
