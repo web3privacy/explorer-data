@@ -27856,7 +27856,40 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/privatixy/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true,
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "links": {
+        "web": "https://privatixy.io/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/PrivatixyToken",
+        "discord": "",
+        "telegram": "https://t.me/PrivatixyTokenOfficial",
+        "lens": "",
+        "farcaster": ""
+      }
     },
     {
       "id": "rarimo",
