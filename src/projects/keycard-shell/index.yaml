@@ -1,0 +1,27 @@
+name: Keycard Shell
+categories:
+  - hardware
+usecases:
+  - hardware
+  - defi
+ecosystem:
+  - ethereum
+  - bitcoin
+description: Unrivalled security with an infinite number of removable Keycards,
+  each with their own key.
+sunset: false
+links:
+  web: https://keycard.tech/keycard-shell
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Keycard_
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: keycard-shell
