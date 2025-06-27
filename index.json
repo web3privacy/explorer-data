@@ -5754,7 +5754,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/burstiq/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "djib",
