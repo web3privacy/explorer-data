@@ -1,15 +1,42 @@
 id: suterusu
 name: Suterusu
 categories:
-- infrastructure
-description: A suite of privacy-preserving services to obfuscate transactional and
-  asset information
+  - infrastructure
+description: A suite of privacy-preserving services to obfuscate transactional
+  and asset information
 links:
   web: https://suterusu.io
+  blog: ""
   github: https://github.com/suterusu-team
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 tokens:
-- symbol: SUTER
+  - symbol: SUTER
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/suterusu/logo.png
+ecosystem:
+  - other
+sunset: true
+team:
+  anonymous: false
+  teammembers: []
+audits:
+  - name: PeckShield-Audit-Report-Suterusu-v1.0.pdf
+    url: https://github.com/suterusu-team/suterusu-documents/blob/master/PeckShield-Audit-Report-Suterusu-v1.0.pdf
+    time: 2021-03-01T00:00:00.000Z
+social_trust: ""
+technical_spof: ""
