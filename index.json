@@ -14599,6 +14599,58 @@
       ]
     },
     {
+      "id": "nubila-network",
+      "name": "Nubila Network",
+      "categories": [
+        "hardware"
+      ],
+      "usecases": [
+        "did",
+        "ai"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The AI-powered Financial Layer for Weather Data",
+      "sunset": false,
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "links": {
+        "web": "https://nubila.ai",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/nubilanetwork",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nubila-network/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "miden-wallet",
       "name": "Miden Wallet",
       "categories": [
