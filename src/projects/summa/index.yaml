@@ -1,9 +1,9 @@
 id: summa
 name: Summa
 categories:
-- infrastructure
-description: Protocol enabling centralized exchanges to prove solvency without compromising
-  private information.
+  - infrastructure
+description: Protocol enabling centralized exchanges to prove solvency without
+  compromising private information.
 project_status:
   live_status: true
   testnet: false
@@ -11,12 +11,49 @@ project_status:
 team:
   anonymous: true
 links:
+  web: ""
+  blog: ""
   github: https://github.com/summa-dev
+  forum: ""
+  docs: https://summa.gitbook.io/summa-book/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 technology:
   type: halo2
   features:
-  - ''
+    - ""
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/summa/logo.png
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - other
+  - nam
+  - aleph
+  - xmr
+  - zcash
+  - sol
+  - dot
+  - scrt
+  - atom
+  - dai
+  - usdc
+  - usdt
+tokens: []
