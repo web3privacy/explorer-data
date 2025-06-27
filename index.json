@@ -6828,6 +6828,91 @@
       "technical_spof": ""
     },
     {
+      "id": "coinceal-cash",
+      "name": "Coinceal Cash",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "bridge"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "solana",
+        "multichain",
+        "bitcoin"
+      ],
+      "description": "Swap privately with near-spot market rates and anonymise your assets cross-chain. Native Bitcoin supported.",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "btc",
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://coinceal.cash/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "https://coinceal.cash/materials/whitepaper",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/CoincealCash",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://coinceal.cash/policies/privacy-policy/",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/coinceal-cash/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "psy-protocol",
       "name": "Psy Protocol",
       "categories": [
