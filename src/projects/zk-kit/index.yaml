@@ -1,7 +1,7 @@
 id: zk-kit
 name: zk-kit
 categories:
-- infrastructure
+  - infrastructure
 description: A set of reusable libraries for zero-knowledge technologies.
 project_status:
   live_status: true
@@ -15,8 +15,17 @@ links:
 technology:
   type: javascript, circom, solidity, noir
   features:
-  - ''
+    - ""
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zk-kit/logo.png
+ecosystem:
+  - multichain
+  - other
+  - ethereum
+sunset: false
