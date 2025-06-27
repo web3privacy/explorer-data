@@ -6618,7 +6618,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/trivium/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "dauth-network",
