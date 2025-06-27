@@ -1,47 +1,24 @@
-id: anoma
 name: Anoma
 categories:
   - infrastructure
-description: An intent-centric, privacy-preserving protocol for decentralized
-  counterparty discovery, solving, and multi-chain atomic settlement
-project_status:
-  version: testnet
-  testnet: true
-  mainnet: false
-  live_status: true
-team:
-  anonymous: false
-  teammembers:
-    - name: Christopher Goes
-      role: CTO
-    - name: Adrian Brink
-      role: Co-founder
-    - name: Awa Sun Yin
-      role: CEO
-links:
-  web: https://anoma.net
-  docs: https://github.com/anoma/anoma-archive/tree/main/docs
-  blog: https://anoma.net/blog
-  github: https://github.com/anoma
-  whitepaper: https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf
-  vision-paper: https://anoma.net/vision-paper.pdf
-technology:
-  type: ZK, FHE
-  features:
-    - privacy for content
-blockchain_features:
-  p2p: true
-  opensource: true
-storage:
-  decentralized: true
 usecases:
   - infrastructure
-have_token: false
-third_party_dependency: none
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/anoma/logo.png
 ecosystem:
-  - other
+  - multichain
+description: Web3’s OS | Deploy one app that just works everywhere.
 sunset: false
+links:
+  web: https://anoma.net
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/anoma
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: anoma
