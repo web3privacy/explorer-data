@@ -1,0 +1,26 @@
+name: Privacy Pass
+categories:
+  - applications
+usecases:
+  - data-management
+  - dapps
+ecosystem:
+  - other
+description: earn for receiving emails, without disclosing your email address to
+  advertisers.
+sunset: false
+links:
+  web: https://privacypass.iex.ec
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: privacy-pass
