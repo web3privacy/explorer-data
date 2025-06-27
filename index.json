@@ -24533,7 +24533,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zk-kit/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other",
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "aztec-explorer",
