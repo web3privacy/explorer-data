@@ -4,6 +4,8 @@ categories:
 - infrastructure
 description: R&D advances accessibility, usability and scalability of Zcash, but the
   implications of our work have an even broader potential
+ecosystem:
+- other
 team:
   anonymous: false
   teammembers:
