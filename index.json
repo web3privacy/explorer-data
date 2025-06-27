@@ -2238,6 +2238,43 @@
       ]
     },
     {
+      "id": "templar",
+      "name": "Templar",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "description": "Cypher Lending",
+      "sunset": false,
+      "links": {
+        "web": "https://www.templarfi.org",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/TemplarProtocol",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/templar/logo.png"
+        }
+      ]
+    },
+    {
       "id": "weavemail",
       "name": "Weavemail",
       "categories": [
@@ -13900,69 +13937,35 @@
         "applications"
       ],
       "usecases": [
-        "wallets"
+        "wallets",
+        "defi"
       ],
       "ecosystem": [
-        "bitcoin"
+        "multichain"
       ],
-      "description": "A open-source, non-custodial, privacy-preserving cryptocurrency wallet for all crypto fans. Stack Wallet is a fully open source cryptocurrency wallet. With an easy to use user interface and quick and speedy transactions, this wallet is ideal for anyone no matter how much they know about the cryptocurrency space. \n\n\n\n\n\n\n",
+      "description": "an open-source, multicoin wallet.",
       "sunset": false,
-      "assets_used": [
-        "btc",
-        "xmr",
-        "eth",
-        "other"
-      ],
-      "have_token": false,
-      "tokens": [],
       "links": {
-        "web": "https://stackwallet.com/index.html",
-        "blog": "https://stackwallet.com/blog/index.html",
-        "github": "https://github.com/cypherstack/stack_wallet",
+        "web": "https://stackwallet.com",
+        "blog": "",
+        "github": "",
         "forum": "",
-        "docs": "https://stackwallet.com/2023/04/28/coin-control-guide-for-stack-wallet.html",
+        "docs": "",
         "whitepaper": "",
         "block_explorer": "",
         "governance": "",
-        "twitter": "https://twitter.com/stack_wallet",
-        "discord": "https://discord.gg/mRPZuXx3At",
-        "telegram": "https://t.me/stackwallet",
+        "twitter": "https://x.com/stack_wallet",
+        "discord": "",
+        "telegram": "",
         "lens": "",
         "farcaster": ""
       },
-      "project_status": {
-        "live_status": false,
-        "mainnet": false,
-        "testnet": false
-      },
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": ""
-      },
-      "storage": {},
-      "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": []
-      },
-      "default_privacy": false,
-      "team": {
-        "anonymous": false,
-        "teammembers": []
-      },
-      "funding": [],
-      "history": [],
       "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/stack-wallet/logo.png"
+        },
         {
           "file": "logo.svg",
           "ext": "svg",
@@ -15231,6 +15234,44 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/crust/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "aqua-wallet",
+      "name": "AQUA Wallet",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets",
+        "defi"
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "description": "All-in-one Bitcoin and Layer 2 wallet ",
+      "sunset": false,
+      "links": {
+        "web": "https://aqua.net",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/AquaBitcoin",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/aqua-wallet/logo.png"
         }
       ]
     },
