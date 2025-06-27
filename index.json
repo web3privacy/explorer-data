@@ -21116,11 +21116,18 @@
       },
       "links": {
         "web": "https://www.qubes-os.org",
+        "blog": "",
         "github": "https://github.com/QubesOS",
-        "docs": "https://www.qubes-os.org/doc/",
-        "twitter": "https://twitter.com/QubesOS",
         "forum": "https://forum.qubes-os.org/",
-        "facebook": "https://www.facebook.com/QubesOS"
+        "docs": "https://www.qubes-os.org/doc/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/QubesOS",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -21139,7 +21146,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/qubes-os/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "tlsnotary",
