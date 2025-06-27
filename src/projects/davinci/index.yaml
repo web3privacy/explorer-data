@@ -1,0 +1,25 @@
+name: Davinci
+categories:
+  - applications
+usecases:
+  - did
+  - dapps
+ecosystem:
+  - other
+description: the universal voting protocol
+sunset: false
+links:
+  web: https://davinci.vote
+  blog: ""
+  github: https://github.com/vocdoni
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: davinci
