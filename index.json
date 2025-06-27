@@ -23293,12 +23293,21 @@
       "categories": [
         "applications"
       ],
-      "description": "Android wallet for Moneto",
+      "description": "Android wallet for Monero",
       "links": {
         "web": "https://www.monerujo.io",
+        "blog": "",
         "github": "https://github.com/m2049r/xmrwallet",
+        "forum": "",
+        "docs": "https://www.monerujo.io/resources/monerujo_manual.html",
         "whitepaper": "https://www.monerujo.io/resources/crazy_secure_passphrase.pdf",
-        "docs": "https://www.monerujo.io/resources/monerujo_manual.html"
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/monerujowallet",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -23325,7 +23334,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/monerujo/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "sunset": false
     },
     {
       "id": "verusid",
