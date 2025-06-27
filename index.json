@@ -25605,7 +25605,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/truezk/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "privacy-infrastructure-solutions",
