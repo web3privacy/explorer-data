@@ -2201,7 +2201,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/1rpc/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain",
+        "other",
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "sirius-sync",
