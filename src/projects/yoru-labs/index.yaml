@@ -1,0 +1,24 @@
+name: Yoru Labs
+categories:
+  - infrastructure
+usecases:
+  - ai
+ecosystem:
+  - other
+description: Multi Agent Platform
+sunset: false
+links:
+  web: https://www.getyoru.ai
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/YoruLabs
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: yoru-labs
