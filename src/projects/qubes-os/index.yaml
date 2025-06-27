@@ -1,28 +1,42 @@
 id: qubes-os
 name: Qubes OS
 categories:
-- applications
-description: a free and open-source, security-oriented operating system for single-user
-  desktop computing
+  - applications
+description: a free and open-source, security-oriented operating system for
+  single-user desktop computing
 team:
   anonymous: false
   teammembers:
-  - name: "Marek Marczykowski-G\xF3recki"
-    role: Project Lead
-    link: https://github.com/marmarek
+    - name: Marek Marczykowski-Górecki
+      role: Project Lead
+      link: https://github.com/marmarek
 links:
   web: https://www.qubes-os.org
+  blog: ""
   github: https://github.com/QubesOS
-  docs: https://www.qubes-os.org/doc/
-  twitter: https://twitter.com/QubesOS
   forum: https://forum.qubes-os.org/
-  facebook: https://www.facebook.com/QubesOS
+  docs: https://www.qubes-os.org/doc/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/QubesOS
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
   version: 4.2.1
   testnet: false
   mainnet: false
 usecases:
-- operating-systems
+  - operating-systems
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/qubes-os/logo.png
+ecosystem:
+  - other
+sunset: false
