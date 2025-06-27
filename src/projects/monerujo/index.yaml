@@ -1,13 +1,22 @@
 id: monerujo
 name: Monerujo
 categories:
-- applications
-description: Android wallet for Moneto
+  - applications
+description: Android wallet for Monero
 links:
   web: https://www.monerujo.io
+  blog: ""
   github: https://github.com/m2049r/xmrwallet
-  whitepaper: https://www.monerujo.io/resources/crazy_secure_passphrase.pdf
+  forum: ""
   docs: https://www.monerujo.io/resources/monerujo_manual.html
+  whitepaper: https://www.monerujo.io/resources/crazy_secure_passphrase.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/monerujowallet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
   version: v3.3.11
@@ -16,8 +25,15 @@ project_status:
 team:
   anonymous: false
   teammembers:
-  - link: https://www.monerujo.io/team.html
+    - link: https://www.monerujo.io/team.html
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/monerujo/logo.png
+ecosystem:
+  - monero
+sunset: false
