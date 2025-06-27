@@ -3138,7 +3138,19 @@
         "anonymous": true
       },
       "links": {
-        "github": "https://github.com/summa-dev"
+        "web": "",
+        "blog": "",
+        "github": "https://github.com/summa-dev",
+        "forum": "",
+        "docs": "https://summa.gitbook.io/summa-book/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "technology": {
         "type": "halo2",
@@ -3157,7 +3169,30 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/summa/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other",
+        "multichain"
+      ],
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "btc",
+        "other",
+        "nam",
+        "aleph",
+        "xmr",
+        "zcash",
+        "sol",
+        "dot",
+        "scrt",
+        "atom",
+        "dai",
+        "usdc",
+        "usdt"
+      ],
+      "tokens": []
     },
     {
       "id": "parallelchain",
