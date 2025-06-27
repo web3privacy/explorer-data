@@ -12539,34 +12539,6 @@
       ]
     },
     {
-      "id": "onino",
-      "name": "Onino",
-      "categories": [
-        "infrastructure"
-      ],
-      "description": "A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability",
-      "links": {
-        "web": "https://www.onino.io"
-      },
-      "have_token": false,
-      "tokens": [
-        {
-          "symbol": "ONI"
-        }
-      ],
-      "usecases": [
-        "infrastructure"
-      ],
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/onino/logo.png"
-        }
-      ]
-    },
-    {
       "id": "krux",
       "name": "Krux",
       "categories": [
