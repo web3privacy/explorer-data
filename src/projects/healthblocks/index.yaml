@@ -1,0 +1,27 @@
+name: HealthBlocks
+categories:
+  - applications
+usecases:
+  - did
+  - dapps
+  - ai
+ecosystem:
+  - other
+description: Take control of your health data with insights, challenges, &
+  rewards. Join the future of private digital health!
+sunset: false
+links:
+  web: https://www.healthblocks.ai
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: healthblocks
