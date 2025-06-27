@@ -1,0 +1,65 @@
+name: vOPRF-ID
+categories:
+  - infrastructure
+usecases:
+  - mpc
+  - infrastructure
+ecosystem:
+  - ethereum
+description: Enabling pseudonymous systems for Web2 identities using verifiable
+  Oblivious PseudoRandom Functions (vOPRFs).
+product_launch_day: 2025-01-31T21:00:00.000Z
+nickname: curryrasul
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: ""
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: MPC Based vOPRF; ZK Circuits in Noir
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Rasul
+      link: https://x.com/curryrasul
+    - name: Paradox
+      link: ""
+funding: []
+history: []
+id: voprf-id
