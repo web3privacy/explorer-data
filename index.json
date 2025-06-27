@@ -24630,7 +24630,18 @@
       "description": "DERP is an RPC endpoint you can add to your wallet to visualize data leaked by your wallet in communication with the blockchain",
       "links": {
         "web": "https://derp.hoprnet.org/",
-        "github": "https://github.com/hoprnet/derp"
+        "blog": "",
+        "github": "https://github.com/hoprnet/derp",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/hoprnet",
+        "discord": "",
+        "telegram": "https://t.me/hoprnet",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "rpc-provider"
@@ -24643,7 +24654,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/derp/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "highline",
