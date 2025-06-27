@@ -11392,6 +11392,38 @@
       ]
     },
     {
+      "id": "keycard-shell",
+      "name": "Keycard Shell",
+      "categories": [
+        "hardware"
+      ],
+      "usecases": [
+        "hardware",
+        "defi"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "bitcoin"
+      ],
+      "description": "Unrivalled security with an infinite number of removable Keycards, each with their own key.",
+      "sunset": false,
+      "links": {
+        "web": "https://keycard.tech/keycard-shell",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Keycard_",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      }
+    },
+    {
       "id": "ethberlin",
       "name": "ETHBerlin",
       "description": "a hackathon, a cultural festival, an educational event, a platform for hacktivism, and a community initiative to push the decentralized ecosystem forward.",
