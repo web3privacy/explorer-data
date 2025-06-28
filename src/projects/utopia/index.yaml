@@ -1,12 +1,41 @@
 id: utopia
 name: Utopia
 categories:
-- infrastructure
-description: All-in-one kit for secure instant messaging, encrypted email, anonymous
-  payments and private browsing
+  - infrastructure
+description: All-in-one kit for secure instant messaging, encrypted email,
+  anonymous payments and private browsing
 links:
   web: https://u.is/en/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://support.u.is/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/utopia/logo.png
+ecosystem:
+  - other
+sunset: false
+assets_used: []
+tokens:
+  - symbol: CRP
+    name: Crypton
+    contract_address: ""
+    token_link: ""
+  - symbol: UUSD
+    name: Utopia USD
+    contract_address: ""
+    token_link: ""
