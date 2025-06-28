@@ -3662,7 +3662,19 @@
       ],
       "description": "All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing",
       "links": {
-        "web": "https://u.is/en/"
+        "web": "https://u.is/en/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://support.u.is/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "usecases": [
@@ -3674,6 +3686,25 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/utopia/logo.png"
+        }
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [
+        {
+          "symbol": "CRP",
+          "name": "Crypton",
+          "contract_address": "",
+          "token_link": ""
+        },
+        {
+          "symbol": "UUSD",
+          "name": "Utopia USD",
+          "contract_address": "",
+          "token_link": ""
         }
       ]
     },
