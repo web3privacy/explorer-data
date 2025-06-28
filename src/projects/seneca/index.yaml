@@ -1,12 +1,30 @@
 id: seneca
 name: Seneca
 categories:
-- infrastructure
-description: The first layer 1 designed to build apps on rich, complex yet private
-  data
+  - infrastructure
+description: The first layer 1 designed to build apps on rich, complex yet private data
 links:
   web: https://www.seneca.tech
+  blog: https://medium.com/@SENECA_BLOCKCHAIN
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: https://global-uploads.webflow.com/63d31392af6acec5e6d03ff0/6494560dfc1838c76b9aa2db_Seneca%20Litepaper%20V1.21.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/seneca_tech
+  discord: ""
+  telegram: https://t.me/SENECA_Blockchain_GLOBAL
+  lens: ""
+  farcaster: ""
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/seneca/logo.png
+ecosystem:
+  - other
+sunset: true
