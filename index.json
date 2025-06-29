@@ -25772,7 +25772,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hana/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "telios",
