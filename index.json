@@ -13517,6 +13517,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/p0x-labs/logo.png"
         }
+      ],
+      "ecosystem": [
+        "multichain"
       ]
     },
     {
