@@ -20074,9 +20074,18 @@
       },
       "links": {
         "web": "https://tuumio.com/",
-        "whitepaper": "https://tuumio.com/concept-paper",
         "blog": "https://tuumio.medium.com/",
-        "twitter": "https://x.com/tuum_io"
+        "github": "",
+        "forum": "",
+        "docs": "https://docs.tuumio.com/",
+        "whitepaper": "https://tuumio.com/concept-paper",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/tuum_io",
+        "discord": "https://discord.com/invite/kVDjnq6vaZ",
+        "telegram": "https://t.me/Tuumio",
+        "lens": "",
+        "farcaster": ""
       },
       "logos": [
         {
@@ -20084,7 +20093,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/tuumio/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": []
     },
     {
       "id": "ashigaru",
