@@ -1,15 +1,22 @@
 id: tomochainp
 name: TomoChainP
 categories:
-- infrastructure
-description: A privacy protocols developed on TomoChain and designed to create safe
-  and untraceable transactions
+  - infrastructure
+description: A privacy protocols developed on TomoChain and designed to create
+  safe and untraceable transactions
 links:
   web: https://tomochain.com/tomop
   github: https://github.com/tomochain/tomop
 have_token: false
 tokens:
-- symbol: TOMO
+  - symbol: TOMO
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/tomochainp/logo.png
+ecosystem:
+  - other
+sunset: true
