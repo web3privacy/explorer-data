@@ -1,9 +1,9 @@
 id: zeropool
 name: ZeroPool
 categories:
-- infrastructure
-description: Is fully private multi-blockchain solution. Low transaction fees, atomic
-  swaps and common anonymity set
+  - infrastructure
+description: Is fully private multi-blockchain solution. Low transaction fees,
+  atomic swaps and common anonymity set
 team:
   anonymous: true
 links:
@@ -18,6 +18,15 @@ project_status:
   testnet: true
   mainnet: false
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zeropool/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+sunset: false
