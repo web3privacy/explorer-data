@@ -31244,7 +31244,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zeropool/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "ethernity-cloud",
