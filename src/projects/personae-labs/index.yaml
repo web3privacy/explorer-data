@@ -1,7 +1,7 @@
 id: personae-labs
 name: Personae Labs
 categories:
-- infrastructure
+  - infrastructure
 description: R&D lab investigating the future of human expression online.
 links:
   web: https://personaelabs.xyz/
@@ -9,6 +9,15 @@ links:
   twitter: https://x.com/personae_labs
   discord: https://discord.com/invite/ZVWhZrbkRV
 usecases:
-- research-and-development
+  - research-and-development
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/personae-labs/logo.png
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+sunset: false
