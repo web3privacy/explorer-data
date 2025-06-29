@@ -1,9 +1,9 @@
 id: hana
 name: Hana
 categories:
-- infrastructure
-description: privacy hub for all blockchains, enabling on-chain privacy on existing
-  chains and for arbitrary assets including Bitcoin
+  - infrastructure
+description: privacy hub for all blockchains, enabling on-chain privacy on
+  existing chains and for arbitrary assets including Bitcoin
 team:
   anonymous: true
 links:
@@ -13,9 +13,18 @@ links:
 have_token: false
 project_status:
   live_status: false
-  version: ''
+  version: ""
   testnet: false
   mainnet: false
 usecases:
-- infrastructure
+  - infrastructure
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/hana/logo.png
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+sunset: false
