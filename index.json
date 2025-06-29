@@ -24842,7 +24842,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/auth3/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "presearch",
