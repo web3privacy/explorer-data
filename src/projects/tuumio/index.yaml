@@ -1,20 +1,34 @@
-# BASIC DATA ------------------------------------------------------------------------------------------------------------------------
-
+id: tuumio
 name: TuumIO
 categories:
   - infrastructure
 usecases:
   - other
-description: 'TuumIO empowers users with decentralized control over their data. Secure, private, and user-friendly, bridging Web2 to Web3 seamlessly.'
-
-# TEAM - focus on C-Level (CEO) personnel if information public available otherwise "anonymous: true" -------------------------------
-
+description: TuumIO empowers users with decentralized control over their data.
+  Secure, private, and user-friendly, bridging Web2 to Web3 seamlessly.
 team:
   anonymous: true
-# LINKS - focus: Web, Github, Docs, Blog, Whitepaper, Twitter -----------------------------------------------------------------------
-
 links:
   web: https://tuumio.com/
-  whitepaper: https://tuumio.com/concept-paper
   blog: https://tuumio.medium.com/
+  github: ""
+  forum: ""
+  docs: https://docs.tuumio.com/
+  whitepaper: https://tuumio.com/concept-paper
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/tuum_io
+  discord: https://discord.com/invite/kVDjnq6vaZ
+  telegram: https://t.me/Tuumio
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/tuumio/logo.png
+ecosystem:
+  - other
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
