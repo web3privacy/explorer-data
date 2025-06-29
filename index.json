@@ -31395,7 +31395,18 @@
       "description": "A privacy-preserving blockchain on Substrate",
       "links": {
         "web": "https://layerx.co.jp",
-        "github": "https://github.com/LayerXcom"
+        "blog": "",
+        "github": "https://github.com/LayerXcom",
+        "forum": "",
+        "docs": "https://layerxcom.github.io/zerochain-book/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/LayerXcom",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "infrastructure"
@@ -31408,7 +31419,27 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/layerx/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": [],
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {}
     },
     {
       "id": "nix-bitcoin",
