@@ -32982,7 +32982,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/raze-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "fluidkey",
