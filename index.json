@@ -17807,7 +17807,11 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/damus/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "privasea",
