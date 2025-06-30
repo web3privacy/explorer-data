@@ -25676,7 +25676,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/deguard/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "vup",
