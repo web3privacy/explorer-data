@@ -1,12 +1,19 @@
 id: weavemail
 name: Weavemail
 categories:
-- applications
-description: 'The mail that cannot be lost, censored, or read by Google: Weavemail
-  is mail that you own'
+  - applications
+description: "The mail that cannot be lost, censored, or read by Google:
+  Weavemail is mail that you own"
 links:
   web: https://docs.arweave.org/info/tools/weavemail
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/weavemail/logo.png
+ecosystem:
+  - other
+sunset: false
