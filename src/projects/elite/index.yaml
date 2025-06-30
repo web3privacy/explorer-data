@@ -1,7 +1,7 @@
 id: elite
 name: Elite
 categories:
-- applications
+  - applications
 description: Android and IOS Wallet that respects your privacy
 team:
   anonymous: true
@@ -14,6 +14,13 @@ project_status:
   testnet: false
   mainnet: false
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/elite/logo.png
+ecosystem:
+  - monero
+sunset: true
