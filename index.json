@@ -19534,6 +19534,79 @@
       ]
     },
     {
+      "id": "modulus",
+      "name": "Modulus",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "eth-layer-2"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "description": " The first zkEVM powered by a DAO\n\nA privacy driven zkEVM made from decentralization - Powered by CULT DAO ",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://moduluszk.io/",
+        "blog": "https://wearecultdao.medium.com/",
+        "github": "",
+        "forum": "",
+        "docs": "https://docs.moduluszk.io/",
+        "whitepaper": "",
+        "block_explorer": "https://eye.moduluszk.io/",
+        "governance": "",
+        "twitter": "https://x.com/ModulusZK",
+        "discord": "https://discord.gg/BrdA8Z4Axn",
+        "telegram": "https://t.me/cultdaothemany",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Mr O Modulus",
+            "link": "https://x.com/MrOmodulus"
+          },
+          {
+            "name": "Murdoch Gabbay",
+            "link": "https://x.com/jamiegabbay"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/modulus/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "opsec",
       "name": "OpSec",
       "categories": [
