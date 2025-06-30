@@ -748,7 +748,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/synaps/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "anon.world",
