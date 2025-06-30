@@ -1,17 +1,17 @@
 id: self
 name: Self
 categories:
-- applications
+  - applications
 description: Build identification and personal data management for everything
 team:
   anonymous: false
   teammembers:
-  - name: Dan Sutherland
-    link: https://www.linkedin.com/in/dansuth/
-  - name: Sena Gbeckor-Kove
-    link: https://www.linkedin.com/in/senagbe/
-  - name: Jason Reid
-    link: https://www.linkedin.com/in/jason-reid-1a12833/
+    - name: Dan Sutherland
+      link: https://www.linkedin.com/in/dansuth/
+    - name: Sena Gbeckor-Kove
+      link: https://www.linkedin.com/in/senagbe/
+    - name: Jason Reid
+      link: https://www.linkedin.com/in/jason-reid-1a12833/
 links:
   web: https://www.joinself.com/
   github: https://github.com/joinself
@@ -29,9 +29,14 @@ default_privacy: true
 tracebility:
   kyc: false
 third_party_dependency: none
-
 storage:
   decentralized: true
 usecases:
-- did
+  - did
 have_token: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/self/logo.png
+ecosystem:
+  - other
