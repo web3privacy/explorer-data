@@ -24795,7 +24795,18 @@
       "description": "An execution layer for Ethereum",
       "links": {
         "web": "https://highline.dev",
-        "github": "https://highline.dev/docs/"
+        "blog": "",
+        "github": "https://highline.dev/docs/",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "infrastructure"
@@ -24808,7 +24819,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/highline/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": true
     },
     {
       "id": "aizzy.ai",
