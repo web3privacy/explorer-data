@@ -16185,7 +16185,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/tails-os/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "privacy-&-scaling-explorations",
