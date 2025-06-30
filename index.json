@@ -17080,10 +17080,18 @@
       },
       "links": {
         "web": "https://hush.is/",
-        "github": "https://git.hush.is/hush",
-        "docs": "https://git.hush.is/hush/docs",
         "blog": "https://blog.hush.is/",
-        "twitter": "https://twitter.com/hushisprivacy"
+        "github": "https://git.hush.is/hush",
+        "forum": "",
+        "docs": "https://git.hush.is/hush/docs",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.hush.is/",
+        "governance": "",
+        "twitter": "https://twitter.com/hushisprivacy",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -17102,7 +17110,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hushchat/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "zenrock",
