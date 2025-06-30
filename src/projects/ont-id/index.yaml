@@ -1,7 +1,7 @@
 id: ont-id
 name: ONT ID
 categories:
-- applications
+  - applications
 description: Bringing trustless identity to Web3 manage your data with ONT ID
 links:
   web: https://ont.id
@@ -14,5 +14,13 @@ links:
   telegram: https://t.me/OntologyAnnouncements
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ont-id/logo.png
+ecosystem:
+  - multichain
+  - other
+sunset: false
