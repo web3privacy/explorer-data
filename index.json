@@ -26495,7 +26495,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/01-labs/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "confidential-layer",
