@@ -31712,9 +31712,18 @@
       },
       "links": {
         "web": "https://calyxos.org/",
+        "blog": "",
         "github": "https://gitlab.com/CalyxOS",
+        "forum": "",
         "docs": "https://calyxos.org/docs/",
-        "twitter": "https://x.com/CalyxOS"
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/CalyxOS",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -31733,7 +31742,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/calyxos/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "namada",
