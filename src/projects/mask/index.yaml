@@ -1,9 +1,9 @@
 id: mask
 name: Mask
 categories:
-- applications
-description: brings privacy and benefits from Web3 to social media like Facebook &
-  Twitter - with an open-sourced browser extension
+  - applications
+description: brings privacy and benefits from Web3 to social media like Facebook
+  & Twitter - with an open-sourced browser extension
 links:
   web: https://mask.io
   github: https://github.com/DimensionDev/Maskbook
@@ -14,6 +14,14 @@ links:
   facebook: https://www.facebook.com/masknetwork
   telegram: https://t.me/maskbook_group#telegram
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.jpg
+    ext: jpg
+    url: https://explorer-data.web3privacy.info/assets/projects/mask/logo.jpg
+ecosystem:
+  - multichain
+  - other
+sunset: false
