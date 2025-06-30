@@ -1,13 +1,13 @@
 id: deguard
 name: DeGuard
 categories:
-- applications
+  - applications
 description: Provide utimate privacy based on web3
 team:
   anonymous: false
   teammembers:
-  - name: Niktim
-    link: https://x.com/Crypto_Niktim
+    - name: Niktim
+      link: https://x.com/Crypto_Niktim
 links:
   web: https://deguard.io/
   github: https://github.com/deguardvpn
@@ -22,5 +22,13 @@ project_status:
   mainnet: true
 have_token: false
 usecases:
-- vpn
+  - vpn
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/deguard/logo.png
+ecosystem:
+  - multichain
+  - other
+sunset: false
