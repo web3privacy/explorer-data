@@ -1,12 +1,30 @@
 id: highline
 name: Highline
 categories:
-- infrastructure
+  - infrastructure
 description: An execution layer for Ethereum
 links:
   web: https://highline.dev
+  blog: ""
   github: https://highline.dev/docs/
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/highline/logo.png
+ecosystem:
+  - ethereum
+sunset: true
