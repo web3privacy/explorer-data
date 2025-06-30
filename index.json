@@ -2304,7 +2304,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/weavemail/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "bethel",
