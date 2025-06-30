@@ -1,15 +1,23 @@
 id: 01-labs
 name: 01 Labs
 categories:
-- applications
-description: Catalyzing a new generation of applications powered by zero knowledge
-  cryptography.
+  - applications
+description: Catalyzing a new generation of applications powered by zero
+  knowledge cryptography.
 links:
   web: https://o1labs.org
   github: https://github.com/o1-labs
   blog: https://www.o1labs.org/blog
   twitter: https://x.com/o1_labs
 usecases:
-- research-and-development
+  - research-and-development
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/01-labs/logo.png
+ecosystem:
+  - other
+  - multichain
+sunset: false
