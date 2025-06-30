@@ -4772,7 +4772,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/storj/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "multiple-network",
