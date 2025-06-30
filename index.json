@@ -14621,7 +14621,18 @@
       },
       "links": {
         "web": "https://ceremony.pse.dev/",
-        "github": "https://github.com/privacy-scaling-explorations/p0tion"
+        "blog": "",
+        "github": "https://github.com/privacy-scaling-explorations/p0tion",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "https://discord.com/invite/sF5CT5rzrR",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "infrastructure"
@@ -14634,7 +14645,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/p0tion/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "onion-mixer",
