@@ -1,7 +1,7 @@
 id: p0tion
 name: p0tion
 categories:
-- infrastructure
+  - infrastructure
 description: Toolkit for Groth16 Phase 2 Trusted Setup ceremonies.
 project_status:
   live_status: true
@@ -11,8 +11,27 @@ team:
   anonymous: true
 links:
   web: https://ceremony.pse.dev/
+  blog: ""
   github: https://github.com/privacy-scaling-explorations/p0tion
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: https://discord.com/invite/sF5CT5rzrR
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- infrastructure
+  - infrastructure
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/p0tion/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+sunset: false
