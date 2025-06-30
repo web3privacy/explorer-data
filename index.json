@@ -21973,7 +21973,8 @@
         "mainnet": false
       },
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "bridge"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -21983,7 +21984,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/comit-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "monero",
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "somethinghappened",
