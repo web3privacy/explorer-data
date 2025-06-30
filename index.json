@@ -5854,12 +5854,18 @@
       },
       "links": {
         "web": "https://djib.io",
+        "blog": "",
         "github": "https://github.com/Djib-io",
+        "forum": "",
         "docs": "https://docs.djib.io/",
         "whitepaper": "https://djib.io/assets/files/Djib-WP-v1.pdf?v=20220602",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://twitter.com/djibchain",
         "discord": "https://discord.com/invite/PpZgKJkKpb",
-        "telegram": "https://t.me/DjibTech"
+        "telegram": "https://t.me/DjibTech",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -5878,7 +5884,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/djib/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "sunset": true
     },
     {
       "id": "rpch",
