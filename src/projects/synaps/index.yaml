@@ -1,14 +1,14 @@
 id: synaps
 name: Synaps
 categories:
-- applications
+  - applications
 description: KYC provider and verifiable credential issuer for DID protocols.
 team:
   anonymous: false
   teammembers:
-  - name: Florian Le Goff
-    role: CEO
-    link: https://x.com/0xAnimaniac
+    - name: Florian Le Goff
+      role: CEO
+      link: https://x.com/0xAnimaniac
 links:
   web: https://synaps.io/
   github: https://github.com/synaps-io
@@ -22,5 +22,13 @@ project_status:
   mainnet: true
 have_token: false
 usecases:
-- kyc-solution
+  - kyc-solution
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/synaps/logo.png
+ecosystem:
+  - multichain
+  - other
+sunset: false
