@@ -18509,7 +18509,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ont-id/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "fyeo-identity",
