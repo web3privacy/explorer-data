@@ -21694,7 +21694,8 @@
         }
       ],
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "bridge"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -21703,7 +21704,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/keep/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "bitcoin",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "zk-v-e-r-i-f-y",
