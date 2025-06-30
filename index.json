@@ -22480,8 +22480,17 @@
       "links": {
         "web": "https://www.coolwallet.io/",
         "blog": "https://www.coolwallet.io/blog/",
+        "github": "",
+        "forum": "",
         "docs": "https://help.coolwallet.io/en/support/solutions",
-        "twitter": "https://twitter.com/coolwallet"
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/coolwallet",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -22499,7 +22508,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cool-wallet/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "polybase",
