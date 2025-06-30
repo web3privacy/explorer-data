@@ -19827,7 +19827,18 @@
       "description": "Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network",
       "links": {
         "web": "https://zeronet.io",
-        "github": "https://github.com/HelloZeroNet/ZeroNet"
+        "blog": "",
+        "github": "https://github.com/HelloZeroNet/ZeroNet",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/HelloZeroNet",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "infrastructure"
@@ -19840,7 +19851,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zeronet/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "fermah",
