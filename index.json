@@ -29674,7 +29674,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/pastenym/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "blackbox",
