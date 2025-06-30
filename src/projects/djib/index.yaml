@@ -1,28 +1,41 @@
 id: djib
 name: DJIB
 categories:
-- applications
+  - applications
 description: DJIB is the next generation Web3 storage
 team:
   anonymous: false
   teammembers:
-  - name: Moe Sayadi
-    role: CEO/CTO
-    link: https://djuno.io/#our-team
+    - name: Moe Sayadi
+      role: CEO/CTO
+      link: https://djuno.io/#our-team
 links:
   web: https://djib.io
+  blog: ""
   github: https://github.com/Djib-io
+  forum: ""
   docs: https://docs.djib.io/
   whitepaper: https://djib.io/assets/files/Djib-WP-v1.pdf?v=20220602
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/djibchain
   discord: https://discord.com/invite/PpZgKJkKpb
   telegram: https://t.me/DjibTech
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
   version: Mainnet
   testnet: false
   mainnet: true
 usecases:
-- storage
+  - storage
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/djib/logo.png
+ecosystem:
+  - solana
+sunset: true
