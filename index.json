@@ -5961,7 +5961,7 @@
         "docs": "https://joinmarket-org.github.io/joinmarket-clientserver/",
         "twitter": "https://twitter.com/joinmarket"
       },
-      "sunset": true,
+      "sunset": false,
       "usecases": [
         "mixing-service"
       ],
@@ -5973,6 +5973,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/joinmarket/logo.png"
         }
+      ],
+      "ecosystem": [
+        "bitcoin"
       ]
     },
     {
