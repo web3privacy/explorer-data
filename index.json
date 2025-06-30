@@ -29413,7 +29413,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/elite/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "sunset": true
     },
     {
       "id": "epic-cash",
