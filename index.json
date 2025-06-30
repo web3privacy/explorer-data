@@ -32483,7 +32483,12 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mask/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "PrivadoID",
