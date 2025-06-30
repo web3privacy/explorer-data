@@ -1,12 +1,19 @@
 id: pastenym
 name: Pastenym
 categories:
-- applications
+  - applications
 description: Anon text sharing service
 links:
   web: https://pastenym.ch/#/
   github: https://github.com/notrustverify/pastenym/
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/pastenym/logo.png
+ecosystem:
+  - other
+sunset: true
