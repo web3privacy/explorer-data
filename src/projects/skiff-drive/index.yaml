@@ -1,13 +1,19 @@
 id: skiff-drive
 name: Skiff Drive
 categories:
-- applications
+  - applications
 description: Secure file storage
 links:
   web: https://skiff.com/drive
   github: https://github.com/skiff-org
 sunset: true
 usecases:
-- storage
+  - storage
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/skiff-drive/logo.png
+ecosystem:
+  - other
