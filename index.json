@@ -31691,7 +31691,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nix-bitcoin/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "keevo",
