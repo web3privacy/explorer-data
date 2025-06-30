@@ -14182,10 +14182,18 @@
       },
       "links": {
         "web": "https://transferchain.io",
-        "github": "https://github.com/TransferChain",
         "blog": "https://blog.transferchain.io/",
+        "github": "https://github.com/TransferChain",
+        "forum": "",
         "docs": "https://docs.transferchain.io/",
-        "twitter": "https://twitter.com/TransferChain_"
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/TransferChain_",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
@@ -14204,7 +14212,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/transferchain/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "cosmos",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "stack-wallet",
