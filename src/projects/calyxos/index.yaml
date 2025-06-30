@@ -1,22 +1,38 @@
 id: calyxos
 name: CalyxOS
 categories:
-- applications
-description: Android mobile operating system that puts privacy and security into the
-  hands of everyday users
+  - applications
+description: Android mobile operating system that puts privacy and security into
+  the hands of everyday users
 team:
   anonymous: true
 links:
   web: https://calyxos.org/
+  blog: ""
   github: https://gitlab.com/CalyxOS
+  forum: ""
   docs: https://calyxos.org/docs/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/CalyxOS
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
   version: 5.7.1
   testnet: false
   mainnet: true
 usecases:
-- operating-systems
+  - operating-systems
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/calyxos/logo.png
+ecosystem:
+  - other
+sunset: false
