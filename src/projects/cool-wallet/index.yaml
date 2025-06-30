@@ -1,24 +1,40 @@
 id: cool-wallet
 name: Cool Wallet
 categories:
-- applications
+  - applications
 description: Non-custodial wallet
 team:
   anonymous: false
   teammembers:
-  - name: Michael Ou
-    role: CEO
-    link: https://coolbitx.com/about/
+    - name: Michael Ou
+      role: CEO
+      link: https://coolbitx.com/about/
 links:
   web: https://www.coolwallet.io/
   blog: https://www.coolwallet.io/blog/
+  github: ""
+  forum: ""
   docs: https://help.coolwallet.io/en/support/solutions
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/coolwallet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
   testnet: false
   mainnet: false
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/cool-wallet/logo.png
+ecosystem:
+  - multichain
+sunset: false
