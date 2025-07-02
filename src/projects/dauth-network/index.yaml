@@ -1,9 +1,9 @@
 id: dauth-network
 name: DAuth Network
 categories:
-- applications
-description: a decentralized authentication network empowering wallets and dApps to
-  create authentication with a focus on privacy
+  - applications
+description: a decentralized authentication network empowering wallets and dApps
+  to create authentication with a focus on privacy
 links:
   web: https://www.dauth.network
   github: https://github.com/DAuth-Network
@@ -13,5 +13,12 @@ links:
   discord: https://discord.com/invite/ZJZjAAej2q
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/dauth-network/logo.png
+ecosystem:
+  - ethereum
+sunset: false
