@@ -1,0 +1,54 @@
+name: Sending-me
+categories:
+  - applications
+usecases:
+  - messaging
+ecosystem:
+  - other
+description: SendingMe is a decentralized and encrypted super-app that combines
+  chat, socializing, and trade, giving you complete control over your social
+  layer.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://sending.me/
+  blog: ""
+  github: https://github.com/Sending-Network
+  forum: ""
+  docs: https://sending-network.gitbook.io/sending.network/overview/getting-started
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/SendingLabs
+  discord: https://discord.com/invite/J43HGTNeWP
+  telegram: https://t.me/SendingNetworkOfficial
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+id: sending-me
