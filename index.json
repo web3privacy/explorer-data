@@ -27942,7 +27942,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Your private cloud",
+      "description": "Your private cloud. Built on top of Züs",
       "team": {
         "anonymous": true
       },
@@ -27969,7 +27969,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/vult/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "entropy1729",
