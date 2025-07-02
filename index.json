@@ -6757,7 +6757,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/dauth-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "trocador-app",
