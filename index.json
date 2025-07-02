@@ -25823,7 +25823,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Private and decentralized cloud storage",
+      "description": "Private and decentralized cloud storage powered by the S5 Network (https://sfive.net).",
       "team": {
         "anonymous": true
       },
@@ -25850,7 +25850,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/vup/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "start9",
