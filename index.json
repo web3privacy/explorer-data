@@ -29726,7 +29726,7 @@
       "categories": [
         "applications"
       ],
-      "description": "A decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources",
+      "description": "A decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources.\n\nBuilt on the Olympus Protocol, OORT’s native Layer 1 blockchain, our decentralized AI data cloud is anchored by OORT DataHub, the flagship product for scalable and secure AI data collection and processing.",
       "team": {
         "anonymous": true
       },
@@ -29757,7 +29757,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/oort/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "pastenym",
