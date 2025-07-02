@@ -1,8 +1,8 @@
 id: vult
 name: vult
 categories:
-- applications
-description: Your private cloud
+  - applications
+description: Your private cloud. Built on top of Züs
 team:
   anonymous: true
 links:
@@ -16,6 +16,13 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- storage
+  - storage
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/vult/logo.png
+ecosystem:
+  - other
+sunset: false
