@@ -1,7 +1,7 @@
 id: zkpass
 name: zkPass
 categories:
-- applications
+  - applications
 description: Protocol for Private Data based on MPC, ZKP, 3P-TLS
 links:
   web: https://zkpass.org/home
@@ -13,5 +13,15 @@ links:
   discord: https://discord.com/invite/zkpass
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zkpass/logo.png
+ecosystem:
+  - ethereum
+  - solana
+  - multichain
+  - other
+sunset: false
