@@ -1,9 +1,9 @@
 id: juno-analytics
 name: Juno Analytics
 categories:
-- applications
-description: Simple, performant, and open-source web3 analytics solution designed
-  with privacy in mind for the developers building decentralized dapps
+  - applications
+description: Simple, performant, and open-source web3 analytics solution
+  designed with privacy in mind for the developers building decentralized dapps
 links:
   web: https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind
   github: https://github.com/junobuild/juno
@@ -13,6 +13,20 @@ links:
   twitter: https://x.com/junobuild
   discord: https://discord.com/invite/wHZ57Z2RAG
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.jpg
+    ext: jpg
+    url: https://explorer-data.web3privacy.info/assets/projects/juno-analytics/logo.jpg
+ecosystem:
+  - other
+sunset: false
+assets_used:
+  - other
+tokens:
+  - symbol: ICP
+    name: Internet Computer
+    contract_address: ""
+    token_link: https://dashboard.internetcomputer.org/
