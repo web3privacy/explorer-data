@@ -1,8 +1,9 @@
 id: vup
 name: VUP
 categories:
-- applications
-description: Private and decentralized cloud storage
+  - applications
+description: Private and decentralized cloud storage powered by the S5 Network
+  (https://sfive.net).
 team:
   anonymous: true
 links:
@@ -16,6 +17,13 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- storage
+  - storage
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/vup/logo.png
+ecosystem:
+  - other
+sunset: false
