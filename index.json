@@ -3500,7 +3500,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zkpass/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "solana",
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "octra",
