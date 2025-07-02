@@ -1,19 +1,32 @@
 id: jami
 name: Jami
 categories:
-- applications
+  - applications
 description: a free/libre, end-to-end encrypted, and private communication platform
 team:
   anonymous: true
 links:
   web: https://jami.net/
-  github: https://git.jami.net/savoirfairelinux/jami-project
-  docs: https://docs.jami.net/en_US/user/index.html
-  forum: https://forum.jami.net/
   blog: https://jami.net/tag/articles/
+  github: https://git.jami.net/savoirfairelinux/jami-project
+  forum: https://forum.jami.net/
+  docs: https://docs.jami.net/en_US/user/index.html
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/jami_social
-  facebook: https://www.facebook.com/JamiCommunication
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/jami/logo.png
+ecosystem:
+  - other
+sunset: false
