@@ -1,7 +1,7 @@
 id: krebit
 name: Krebit
 categories:
-- applications
+  - applications
 description: Open identity verification protocol for Web3 Verifiable Credentials
 links:
   web: https://krebit.id
@@ -11,6 +11,14 @@ links:
   twitter: https://x.com/KrebitID
   discord: https://discord.com/invite/y7sMYVjxrd
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.jpg
+    ext: jpg
+    url: https://explorer-data.web3privacy.info/assets/projects/krebit/logo.jpg
+ecosystem:
+  - other
+  - ethereum
+sunset: false
