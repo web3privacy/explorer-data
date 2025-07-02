@@ -1,9 +1,8 @@
 id: broearn
 name: Broearn
 categories:
-- applications
-description: Broearn the Ai Browser. Use-to-Earn solution, the privacy-centric Web3
-  browser
+  - applications
+description: Broearn the Ai Browser. Use-to-Earn solution, the privacy-centric Web3 browser
 team:
   anonymous: true
 links:
@@ -19,5 +18,12 @@ project_status:
   mainnet: true
 have_token: false
 usecases:
-- browser
+  - browser
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/broearn/logo.png
+ecosystem:
+  - other
+sunset: false
