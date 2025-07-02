@@ -873,12 +873,18 @@
       },
       "links": {
         "web": "https://jami.net/",
-        "github": "https://git.jami.net/savoirfairelinux/jami-project",
-        "docs": "https://docs.jami.net/en_US/user/index.html",
-        "forum": "https://forum.jami.net/",
         "blog": "https://jami.net/tag/articles/",
+        "github": "https://git.jami.net/savoirfairelinux/jami-project",
+        "forum": "https://forum.jami.net/",
+        "docs": "https://docs.jami.net/en_US/user/index.html",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/jami_social",
-        "facebook": "https://www.facebook.com/JamiCommunication"
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "messaging"
@@ -891,7 +897,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/jami/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "kelvpn",
@@ -2132,7 +2142,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Passport proving protocol using zk-SNARKs",
+      "description": "Passport proving protocol using zk-SNARKs.\n\nChanged its name is to Self Protocol",
       "links": {
         "web": "https://proofofpassport.com/",
         "github": "https://github.com/zk-passport/proof-of-passport",
@@ -2154,7 +2164,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/proof-of-passport/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "1rpc",
