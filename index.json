@@ -5480,7 +5480,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zion/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "sunset": true
     },
     {
       "id": "paras",
