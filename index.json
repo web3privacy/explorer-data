@@ -894,37 +894,6 @@
       ]
     },
     {
-      "id": "senging-me",
-      "name": "Senging.me",
-      "categories": [
-        "applications"
-      ],
-      "description": "SendingMe is a decentralized and encrypted super-app that combines chat, socializing, and trade, giving you complete control over your social layer.",
-      "team": {
-        "anonymous": true
-      },
-      "links": {
-        "web": "https://sending.me",
-        "github": "https://github.com/Sending-Network",
-        "docs": "https://sending-network.gitbook.io/sending.network/overview/getting-started",
-        "twitter": "https://twitter.com/SendingLabs",
-        "discord": "https://discord.com/invite/J43HGTNeWP",
-        "telegram": "https://t.me/SendingNetworkOfficial"
-      },
-      "usecases": [
-        "messaging"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/senging-me/logo.png"
-        }
-      ]
-    },
-    {
       "id": "kelvpn",
       "name": "KelVPN",
       "categories": [
