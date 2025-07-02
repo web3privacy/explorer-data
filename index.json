@@ -5448,7 +5448,12 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/krebit/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "zion",
