@@ -1,10 +1,10 @@
 id: opera-crypto-browser
 name: Opera Crypto Browser
 categories:
-- applications
-description: Experience the Web3 browser for crypto users. Get crypto-oriented security
-  enhancements, manage multiple crypto wallets simultaneously, and access Discord,
-  Telegram and more directly from the sidebar
+  - applications
+description: Experience the Web3 browser for crypto users. Get crypto-oriented
+  security enhancements, manage multiple crypto wallets simultaneously, and
+  access Discord, Telegram and more directly from the sidebar
 links:
   web: https://www.opera.com/crypto/next
   forum: https://forums.opera.com/
@@ -12,6 +12,13 @@ links:
   twitter: https://twitter.com/opera
   facebook: https://www.facebook.com/Opera/
 usecases:
-- browser
+  - browser
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/opera-crypto-browser/logo.png
+ecosystem:
+  - other
+sunset: false
