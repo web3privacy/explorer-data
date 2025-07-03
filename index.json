@@ -14320,6 +14320,8 @@
         "defi"
       ],
       "ecosystem": [
+        "other",
+        "monero",
         "multichain"
       ],
       "description": "an open-source, multicoin wallet.",
