@@ -1,8 +1,8 @@
 id: zcloak
 name: zCloak
 categories:
-- applications
-description: Privacy-first DID and verifiable computation infrastructure
+  - applications
+description: Privacy-first DID and verifiable computation infrastructure.
 links:
   web: https://zcloak.network
   github: https://github.com/zCloak-Network
@@ -12,5 +12,15 @@ links:
   discord: https://discord.com/invite/wcKt6MDRJz
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zcloak/logo.png
+ecosystem:
+  - other
+  - solana
+sunset: false
+assets_used: []
+tokens: []
