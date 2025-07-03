@@ -10622,7 +10622,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/anydao/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "ruby",
