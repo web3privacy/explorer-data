@@ -1,9 +1,9 @@
 id: divestos
 name: DivestOS
 categories:
-- applications
-description: A fork of LineageOS with monthly updates, automated CVE patchings, system
-  WebView, and more
+  - applications
+description: A fork of LineageOS with monthly updates, automated CVE patchings,
+  system WebView, and more
 team:
   anonymous: true
 links:
@@ -11,10 +11,17 @@ links:
   github: https://github.com/Divested-Mobile/DivestOS-Build
 project_status:
   live_status: true
-  version: '20.0'
+  version: "20.0"
   testnet: false
   mainnet: true
 usecases:
-- operating-systems
+  - operating-systems
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/divestos/logo.png
+ecosystem:
+  - other
+sunset: true
