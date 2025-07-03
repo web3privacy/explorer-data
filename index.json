@@ -8945,7 +8945,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/bandada/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "blockwallet",
