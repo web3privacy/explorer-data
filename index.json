@@ -13746,30 +13746,6 @@
       ]
     },
     {
-      "id": "holonym-id",
-      "name": "Holonym",
-      "categories": [
-        "applications"
-      ],
-      "description": "Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are",
-      "links": {
-        "web": "https://www.holonym.id",
-        "github": "https://github.com/holonym-foundation"
-      },
-      "have_token": false,
-      "usecases": [
-        "did"
-      ],
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/holonym-id/logo.png"
-        }
-      ]
-    },
-    {
       "id": "zkmoney",
       "name": "zk.money",
       "categories": [
