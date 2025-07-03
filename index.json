@@ -7536,7 +7536,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Privacy-first DID and verifiable computation infrastructure",
+      "description": "Privacy-first DID and verifiable computation infrastructure.",
       "links": {
         "web": "https://zcloak.network",
         "github": "https://github.com/zCloak-Network",
@@ -7556,7 +7556,14 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zcloak/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "solana"
+      ],
+      "sunset": false,
+      "assets_used": [],
+      "tokens": []
     },
     {
       "id": "spillways",
