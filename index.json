@@ -8839,7 +8839,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/divestos/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "pollen-mobile",
