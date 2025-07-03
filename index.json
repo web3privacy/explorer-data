@@ -19920,7 +19920,10 @@
         "mixing-service"
       ],
       "have_token": false,
-      "third_party_dependency": "none"
+      "third_party_dependency": "none",
+      "ecosystem": [
+        "bitcoin"
+      ]
     },
     {
       "id": "definer",
