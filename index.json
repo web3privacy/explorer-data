@@ -36983,6 +36983,59 @@
       ]
     },
     {
+      "id": "flock",
+      "name": "Flock",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "dapps"
+      ],
+      "ecosystem": [
+        "other",
+        "ethereum"
+      ],
+      "description": "A native Web3 Data Privacy solution for Artificial Intelligence built on Base.",
+      "sunset": false,
+      "links": {
+        "web": "https://flock.io/",
+        "blog": "https://flock-io.medium.com/",
+        "github": "https://github.com/flock-io",
+        "forum": "",
+        "docs": "https://docs.flock.io/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/flock_io",
+        "discord": "https://discord.com/invite/fz5EqH7rhn",
+        "telegram": "https://t.me/flock_io_community",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/flock/logo.png"
+        }
+      ]
+    },
+    {
       "id": "zcash",
       "name": "Zcash",
       "categories": [
