@@ -1,7 +1,7 @@
 id: brave
 name: Brave
 categories:
-- applications
+  - applications
 description: Browse privately. Search privately. And ditch Big Tech
 links:
   web: http://brave.com
@@ -10,6 +10,13 @@ links:
   twitter: https://twitter.com/brave
   facebook: https://www.facebook.com/BraveSoftware/
 usecases:
-- browser
+  - browser
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/brave/logo.png
+ecosystem:
+  - other
+sunset: false
