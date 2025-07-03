@@ -16007,35 +16007,6 @@
       ]
     },
     {
-      "id": "flock-io",
-      "name": "FLock.io",
-      "categories": [
-        "applications"
-      ],
-      "description": "A native Web3 Data Privacy solution for Artificial Intelligence.",
-      "links": {
-        "web": "https://flock.io/",
-        "github": "https://github.com/flock-io",
-        "docs": "https://docs.flock.io/",
-        "blog": "https://flock-io.medium.com/",
-        "twitter": "https://x.com/flock_io",
-        "discord": "https://discord.com/invite/fz5EqH7rhn",
-        "telegram": "https://t.me/flock_io_community"
-      },
-      "usecases": [
-        "dapps"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.jpg",
-          "ext": "jpg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/flock-io/logo.jpg"
-        }
-      ]
-    },
-    {
       "id": "ghost-drive",
       "name": "Ghost Drive",
       "categories": [
