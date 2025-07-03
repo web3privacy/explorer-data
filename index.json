@@ -9735,7 +9735,7 @@
     },
     {
       "id": "zus",
-      "name": "Züs",
+      "name": "Zus",
       "categories": [
         "applications"
       ],
@@ -9780,7 +9780,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zus/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "zkvalidator",
