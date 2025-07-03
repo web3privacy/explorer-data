@@ -9514,7 +9514,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/heyanon/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": true
     },
     {
       "id": "monerokon",
