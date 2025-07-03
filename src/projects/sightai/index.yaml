@@ -1,7 +1,7 @@
 id: sightai
 name: SightAI
 categories:
-- applications
+  - applications
 description: Decentralized AI inference with FHE
 team:
   anonymous: true
@@ -15,5 +15,14 @@ links:
 have_token: false
 sunset: false
 usecases:
-- ai
+  - ai
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/sightai/logo.png
+ecosystem:
+  - solana
+  - ethereum
+  - other
+  - multichain
