@@ -12173,7 +12173,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/brave/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "phoenix-network",
