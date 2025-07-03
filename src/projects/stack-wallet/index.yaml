@@ -1,3 +1,4 @@
+id: stack-wallet
 name: Stack Wallet
 categories:
   - applications
@@ -5,6 +6,8 @@ usecases:
   - wallets
   - defi
 ecosystem:
+  - other
+  - monero
   - multichain
 description: an open-source, multicoin wallet.
 sunset: false
@@ -22,4 +25,10 @@ links:
   telegram: ""
   lens: ""
   farcaster: ""
-id: stack-wallet
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/stack-wallet/logo.png
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/stack-wallet/logo.svg
