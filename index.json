@@ -5707,7 +5707,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fileverse/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "nighthawk-wallet",
