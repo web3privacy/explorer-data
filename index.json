@@ -40563,18 +40563,28 @@
       ],
       "description": "AnonKlub is a tool designed for Ethereum developers that allows for anonymous proof of Ethereum address ownership.",
       "project_status": {
-        "live_status": false,
-        "version": "testnet",
+        "live_status": true,
+        "mainnet": false,
         "testnet": true,
-        "mainnet": false
+        "version": "testnet"
       },
       "team": {
         "anonymous": true
       },
       "links": {
-        "web": "http://anonklub.xyz",
+        "web": "https://anonklub.github.io/",
+        "blog": "",
+        "github": "https://github.com/anonklub/anonklub",
+        "forum": "",
         "docs": "https://docs.anonklub.xyz/docs/intro",
-        "github": "https://github.com/anonklub/anonklub"
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "technology": {
         "type": "circom, snarkjs, halo2",
@@ -40593,7 +40603,21 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/anonklub/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false,
+      "project_phase": "testnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {}
     },
     {
       "id": "bob-protocol",
