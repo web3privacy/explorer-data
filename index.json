@@ -10668,6 +10668,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/sightai/logo.png"
         }
+      ],
+      "ecosystem": [
+        "solana",
+        "ethereum",
+        "other",
+        "multichain"
       ]
     },
     {
