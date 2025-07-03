@@ -1,9 +1,9 @@
 id: fileverse
 name: Fileverse
 categories:
-- applications
-description: On-chain people and communities deserve on-chain tools for private communication
-  and collaboration
+  - applications
+description: On-chain people and communities deserve on-chain tools for private
+  communication and collaboration
 team:
   anonymous: true
 links:
@@ -16,6 +16,14 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- storage
+  - storage
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/fileverse/logo.png
+ecosystem:
+  - ethereum
+  - other
+sunset: false
