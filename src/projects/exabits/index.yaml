@@ -1,8 +1,8 @@
 id: exabits
 name: Exabits
 categories:
-- applications
-description: 'Simplified Access to the Currency of the Future '
+  - applications
+description: "Simplified Access to the Currency of the Future "
 team:
   anonymous: true
 links:
@@ -15,5 +15,11 @@ links:
 have_token: false
 sunset: false
 usecases:
-- ai
+  - ai
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/exabits/logo.png
+ecosystem:
+  - other
