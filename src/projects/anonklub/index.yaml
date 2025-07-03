@@ -1,25 +1,50 @@
 id: anonklub
 name: AnonKlub
 categories:
-- applications
-description: AnonKlub is a tool designed for Ethereum developers that allows for anonymous
-  proof of Ethereum address ownership.
+  - applications
+description: AnonKlub is a tool designed for Ethereum developers that allows for
+  anonymous proof of Ethereum address ownership.
 project_status:
-  live_status: false
-  version: testnet
-  testnet: true
+  live_status: true
   mainnet: false
+  testnet: true
+  version: testnet
 team:
   anonymous: true
 links:
-  web: http://anonklub.xyz
-  docs: https://docs.anonklub.xyz/docs/intro
+  web: https://anonklub.github.io/
+  blog: ""
   github: https://github.com/anonklub/anonklub
+  forum: ""
+  docs: https://docs.anonklub.xyz/docs/intro
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 technology:
   type: circom, snarkjs, halo2
   features:
-  - zkp
+    - zkp
 usecases:
-- did
+  - did
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/anonklub/logo.png
+ecosystem:
+  - ethereum
+sunset: false
+project_phase: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
