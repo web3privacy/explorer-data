@@ -584,7 +584,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hypersign/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "cosmos"
+      ],
+      "sunset": false
     },
     {
       "id": "skiff",
