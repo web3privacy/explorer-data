@@ -8412,7 +8412,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/interep/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": true
     },
     {
       "id": "starkex",
