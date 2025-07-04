@@ -1,0 +1,57 @@
+name: Shroud
+categories:
+  - applications
+  - defi
+usecases:
+  - defi
+  - dapps
+ecosystem:
+  - ethereum
+  - other
+description: Shroud is the first fully functional privacy-preserving DApp on the
+  Sui blockchain, enabling confidential and compliant trading by integrating
+  zero-knowledge proofs with public DEX infrastructure.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://zkshroud.xyz/
+  blog: ""
+  github: https://github.com/y-pakorn/shroud
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+id: shroud
