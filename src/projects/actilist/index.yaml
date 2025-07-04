@@ -1,7 +1,7 @@
 id: actilist
 name: Actilist
 categories:
-- applications
+  - applications
 description: Secret NFT auctions.
 links:
   web: https://test.actilist.io
@@ -19,5 +19,11 @@ project_status:
 have_token: false
 sunset: false
 usecases:
-- nft-community
+  - nft-community
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/actilist/logo.png
+ecosystem:
+  - other
