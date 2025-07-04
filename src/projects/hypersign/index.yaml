@@ -1,7 +1,7 @@
 id: hypersign
 name: Hypersign
 categories:
-- applications
+  - applications
 description: the ultimate stack for identity management
 links:
   web: https://hypersign.id
@@ -14,5 +14,12 @@ links:
   telegram: https://t.me/hypersignchain
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/hypersign/logo.png
+ecosystem:
+  - cosmos
+sunset: false
