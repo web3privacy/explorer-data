@@ -1,7 +1,7 @@
 id: interep
 name: Interep
 categories:
-- applications
+  - applications
 description: Anti-sybil as a service
 links:
   web: https://interep.link
@@ -11,5 +11,12 @@ links:
   education: https://x.com/PrivacyScaling/status/1570046655998709764
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/interep/logo.png
+ecosystem:
+  - ethereum
+sunset: true
