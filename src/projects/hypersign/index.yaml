@@ -22,7 +22,4 @@ logos:
     url: https://explorer-data.web3privacy.info/assets/projects/hypersign/logo.png
 ecosystem:
   - cosmos
-  - ethereum
-  - other
-  - multichain
 sunset: false
