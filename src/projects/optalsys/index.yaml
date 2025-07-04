@@ -1,0 +1,61 @@
+name: Optalsys
+categories:
+  - infrastructure
+usecases:
+  - fhe
+ecosystem:
+  - ethereum
+  - other
+description: At Optalysys we are building the future of secure computing. We
+  push the boundaries of what is possible in data security by bringing speed to
+  always-encrypted data technology, making secure data sharing and collaboration
+  a reality for everyone, everywhere.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://optalysys.com
+  blog: https://optalysys.com/resources/
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Optalysys
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: optalsys
