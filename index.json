@@ -35679,7 +35679,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/universal-reputation/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "cog",
