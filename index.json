@@ -34715,6 +34715,48 @@
       ]
     },
     {
+      "id": "origintrail",
+      "name": "OriginTrail",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "ai"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain"
+      ],
+      "description": "Powering Verifiable Internet for Artificial Intelligence ",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://origintrail.io/",
+        "blog": "https://origintrail.io/blog",
+        "github": "https://github.com/OriginTrail",
+        "forum": "",
+        "docs": "https://docs.origintrail.io/",
+        "whitepaper": "https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/origin_trail",
+        "discord": "https://discord.com/invite/QctFuPCMew",
+        "telegram": "https://t.me/origintrail",
+        "lens": "",
+        "farcaster": ""
+      },
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/origintrail/logo.png"
+        }
+      ]
+    },
+    {
       "id": "massa-network",
       "name": "Massa Network",
       "categories": [
