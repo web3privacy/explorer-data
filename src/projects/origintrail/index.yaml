@@ -1,8 +1,8 @@
-id: origin-trail
+id: origintrail
 name: OriginTrail
 categories:
-- applications
-description: 'Powering Verifiable Internet for Artificial Intelligence '
+  - applications
+description: "Powering Verifiable Internet for Artificial Intelligence "
 links:
   web: https://origintrail.io/
   github: https://github.com/OriginTrail
@@ -13,6 +13,14 @@ links:
   discord: https://discord.com/invite/QctFuPCMew
   telegram: https://t.me/origintrail
 usecases:
-- ai
+  - ai
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/origin-trail/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+sunset: false
