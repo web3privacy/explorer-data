@@ -33149,7 +33149,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fractal-id/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "fluton",
