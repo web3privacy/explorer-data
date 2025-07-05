@@ -36600,36 +36600,6 @@
       "technical_spof": ""
     },
     {
-      "id": "origin-trail",
-      "name": "OriginTrail",
-      "categories": [
-        "applications"
-      ],
-      "description": "Powering Verifiable Internet for Artificial Intelligence ",
-      "links": {
-        "web": "https://origintrail.io/",
-        "github": "https://github.com/OriginTrail",
-        "docs": "https://docs.origintrail.io/",
-        "whitepaper": "https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf",
-        "blog": "https://origintrail.io/blog",
-        "twitter": "https://x.com/origin_trail",
-        "discord": "https://discord.com/invite/QctFuPCMew",
-        "telegram": "https://t.me/origintrail"
-      },
-      "usecases": [
-        "ai"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/origin-trail/logo.png"
-        }
-      ]
-    },
-    {
       "id": "monfluo",
       "name": "Monfluo",
       "categories": [
