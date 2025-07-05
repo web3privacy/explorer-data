@@ -32755,6 +32755,47 @@
       ]
     },
     {
+      "id": "nextid",
+      "name": "NextID",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "did"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "An open-sourced protocol that synergises your Web2 and Web3 profiles.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://next.id/",
+        "blog": "https://medium.com/@Next.ID",
+        "github": "https://github.com/nextdotid",
+        "forum": "",
+        "docs": "https://docs.next.id/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/NextDotID",
+        "discord": "",
+        "telegram": "https://t.me/NextDotIDofficial",
+        "lens": "",
+        "farcaster": ""
+      },
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nextid/logo.png"
+        }
+      ]
+    },
+    {
       "id": "mask",
       "name": "Mask",
       "categories": [
