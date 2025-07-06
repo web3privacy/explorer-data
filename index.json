@@ -24832,7 +24832,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/icebreaker/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "sporran",
