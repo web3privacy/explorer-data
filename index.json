@@ -1631,7 +1631,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/silent-data/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "sahara",
