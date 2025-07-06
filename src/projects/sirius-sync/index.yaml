@@ -1,7 +1,7 @@
 id: sirius-sync
 name: Sirius Sync
 categories:
-- applications
+  - applications
 description: Web3 Social Ecosystem
 links:
   web: https://siriussync.io
@@ -10,6 +10,13 @@ links:
   twitter: https://x.com/siriussyncrealm
   telegram: https://t.me/siriussynccommunity
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/sirius-sync/logo.png
+ecosystem:
+  - other
+sunset: true
