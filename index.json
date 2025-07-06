@@ -22711,7 +22711,7 @@
       "categories": [
         "applications"
       ],
-      "description": "A simple, fast, privacy-focused note-taking app that you can use easily, take notes rapidly, and, importantly, truly own your account and data.",
+      "description": "A simple, fast, privacy-focused note-taking app that you can use easily, take notes rapidly, and, importantly, truly own your account and data, powered by Stacks.",
       "links": {
         "web": "https://justnote.cc",
         "github": "https://github.com/stxapps/justnote-client",
@@ -22734,7 +22734,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/justnote/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "terminal-wallet",
