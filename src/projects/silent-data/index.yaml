@@ -1,7 +1,7 @@
 id: silent-data
 name: Silent Data
 categories:
-- applications
+  - applications
 description: Verify web2 Data in web3 Applications.
 links:
   web: https://silentdata.com
@@ -10,6 +10,15 @@ links:
   twitter: https://x.com/SilentDataApp
   discord: https://discord.com/invite/5Dg57zStXG
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/silent-data/logo.png
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+sunset: false
