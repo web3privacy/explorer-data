@@ -1,7 +1,7 @@
 id: icebreaker
 name: Icebreaker
 categories:
-- applications
+  - applications
 description: zero knowledge x self-sovereign identity
 links:
   web: https://www.icebreaker.xyz
@@ -12,5 +12,14 @@ links:
   farcaster: https://farcaster/icebreaker
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/icebreaker/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+sunset: false
