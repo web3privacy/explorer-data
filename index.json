@@ -2238,7 +2238,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/sirius-sync/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "templar",
