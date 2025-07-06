@@ -1,8 +1,8 @@
 id: opsec
 name: OpSec
 categories:
-- applications
-description: ' AI-powered decentralized cloud security.'
+  - applications
+description: " AI-powered decentralized cloud security."
 links:
   web: https://opsec.computer/
   docs: https://docs.opsec.computer/
@@ -12,11 +12,18 @@ links:
 have_token: false
 token_link: https://etherscan.io/token/0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98
 tokens:
-- name: Opsec
-  symbol: OPSEC
-  network: Ethereum
-  contract_address: '0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98'
+  - name: Opsec
+    symbol: OPSEC
+    network: Ethereum
+    contract_address: "0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98"
 sunset: false
 usecases:
-- ai
+  - ai
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/opsec/logo.png
+ecosystem:
+  - other
+  - multichain
