@@ -5517,7 +5517,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/0xtip/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other",
+        "multichain"
+      ],
+      "sunset": true
     },
     {
       "id": "krebit",
