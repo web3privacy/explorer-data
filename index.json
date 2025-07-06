@@ -18887,7 +18887,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/sociogram/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "storx",
