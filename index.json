@@ -2960,7 +2960,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/quadrata/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "sienna",
