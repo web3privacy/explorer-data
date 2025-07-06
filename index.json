@@ -16299,7 +16299,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/aioz-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "cosmos",
+        "ethereum",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "tails-os",
