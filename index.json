@@ -12752,7 +12752,8 @@
       "have_token": false,
       "sunset": false,
       "usecases": [
-        "ai"
+        "ai",
+        "tee"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -12761,6 +12762,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zkagi/logo.png"
         }
+      ],
+      "ecosystem": [
+        "solana"
       ]
     },
     {
