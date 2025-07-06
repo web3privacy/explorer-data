@@ -19876,6 +19876,10 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/opsec/logo.png"
         }
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
       ]
     },
     {
