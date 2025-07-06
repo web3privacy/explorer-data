@@ -1,0 +1,26 @@
+name: BraceTo
+categories:
+  - applications
+usecases:
+  - dapps
+ecosystem:
+  - other
+description: Save links to everything and visit them later easily, anytime, on
+  any device, with Web3 technology that empowers you to truly own your account
+  and data, powered by the Stacks network.
+sunset: false
+links:
+  web: https://brace.to
+  blog: https://medium.com/@stxapps
+  github: https://github.com/stxapps/brace-client
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/bracedotto
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: braceto
