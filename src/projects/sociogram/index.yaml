@@ -1,7 +1,7 @@
 id: sociogram
 name: Sociogram
 categories:
-- applications
+  - applications
 description: Web3Social Media focused on privacy.
 links:
   web: https://sociogram.org
@@ -11,6 +11,15 @@ links:
   discord: https://discord.com/invite/kufW7ZfjeD
   telegram: https://t.me/sociogram_channel
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/sociogram/logo.png
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+sunset: false
