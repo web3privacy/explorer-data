@@ -1,9 +1,10 @@
 id: justnote
 name: Justnote
 categories:
-- applications
-description: A simple, fast, privacy-focused note-taking app that you can use easily,
-  take notes rapidly, and, importantly, truly own your account and data.
+  - applications
+description: A simple, fast, privacy-focused note-taking app that you can use
+  easily, take notes rapidly, and, importantly, truly own your account and data,
+  powered by Stacks.
 links:
   web: https://justnote.cc
   github: https://github.com/stxapps/justnote-client
@@ -14,6 +15,13 @@ project_status:
   mainnet: true
   testnet: false
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/justnote/logo.png
+ecosystem:
+  - other
+sunset: false
