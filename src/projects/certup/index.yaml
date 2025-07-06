@@ -1,9 +1,9 @@
 id: certup
 name: certUP
 categories:
-- applications
-description: SecretNFT Certificates revolutionizing official document distribution,
-  verification, and publication
+  - applications
+description: SecretNFT Certificates revolutionizing official document
+  distribution, verification, and publication
 links:
   web: https://certup.net
   github: https://github.com/CertUP
@@ -17,5 +17,11 @@ project_status:
 have_token: false
 sunset: false
 usecases:
-- nft-community
+  - nft-community
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/certup/logo.png
+ecosystem:
+  - other
