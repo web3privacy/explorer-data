@@ -17252,7 +17252,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hashbon-pass/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "the-anon-club",
