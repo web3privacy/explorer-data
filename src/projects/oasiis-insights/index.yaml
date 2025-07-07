@@ -1,11 +1,14 @@
 id: oasiis-insights
 name: Oasiis insights
 categories:
-- applications
+  - applications
 description: Personalized web3 journeys are finally here.
 links:
   web: https://www.oasiisinsights.com
 usecases:
-- data-management
+  - data-management
 have_token: false
 third_party_dependency: none
+ecosystem:
+  - multichain
+sunset: true
