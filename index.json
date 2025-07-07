@@ -40121,7 +40121,12 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/buildoor/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "tomochainp",
