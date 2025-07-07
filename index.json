@@ -25932,7 +25932,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fairy/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Fairy",
+      "sunset": false
     },
     {
       "id": "railgun",
