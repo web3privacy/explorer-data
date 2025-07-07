@@ -29023,6 +29023,97 @@
       ]
     },
     {
+      "id": "zaïffer",
+      "name": "Zaïffer",
+      "categories": [
+        "defi",
+        "applications"
+      ],
+      "usecases": [
+        "defi",
+        "fhe"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain"
+      ],
+      "description": "Zaïffer is a non custodial platform allowing anyone to make any EVM token private and usable in existing DeFi Apps. Zaïffer uses a combination of Fully Homomorphic Encryption and zK. \n\nZaïffer is targeting :\n\n1/ The OTC market to enable crypto funds, foundations et crypto companies to buy and sell EVM native token privately\n\n2/ Businesses that want to swap and pay confidentially ",
+      "nickname": "Peiyao",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.zaiffer.org/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/ZaifferProtocol",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "FHE & zK"
+      },
+      "storage": {},
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Bilal El Alamy",
+            "link": "https://www.linkedin.com/in/bilal-el-alamy/"
+          },
+          {
+            "name": "Thomas Binetruy",
+            "link": "https://www.linkedin.com/in/thomas-binetruy/"
+          }
+        ]
+      },
+      "funding": [],
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zaïffer/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "silent-protocol",
       "name": "Silent protocol",
       "categories": [
