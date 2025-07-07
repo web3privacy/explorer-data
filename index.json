@@ -33157,7 +33157,11 @@
         "data-management"
       ],
       "have_token": false,
-      "third_party_dependency": "none"
+      "third_party_dependency": "none",
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": true
     },
     {
       "id": "xmr-bazaar",
