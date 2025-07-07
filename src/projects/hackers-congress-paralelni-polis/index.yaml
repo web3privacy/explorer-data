@@ -1,14 +1,22 @@
 id: hackers-congress-paralelni-polis
-name: "Hackers Congress Paraleln\xED Polis"
-description: "the flagship event of Paraleln\xED Polis, which since 2014 has been\
-  \ regularly attended by over 500 fans and IT experts from all over the world."
+name: Hackers Congress Paralelni Polis
+description: the flagship event of Paralelní Polis, which since 2014 has been
+  regularly attended by over 500 fans and IT experts from all over the world.
 categories:
-- social-and-communications
+  - social-and-communications
 links:
   web: https://last-shot.hcpp.cz/
   twitter: https://twitter.com/institutecrypto
   telegram: https://t.me/HCCP20
 usecases:
-- events
+  - events
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/hackers-congress-paralelni-polis/logo.png
+ecosystem:
+  - multichain
+  - other
+sunset: false
