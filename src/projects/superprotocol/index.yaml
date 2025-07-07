@@ -1,0 +1,53 @@
+name: SuperProtocol
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+description: The confidential and self-sovereign AI cloud and marketplace,
+  governed by smart contracts
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://superprotocol.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://docs.superprotocol.com/developers/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/super__protocol
+  discord: https://discord.com/invite/superprotocol
+  telegram: https://t.me/superprotocol
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+funding: []
+history: []
+id: superprotocol
