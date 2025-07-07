@@ -13910,7 +13910,7 @@
     },
     {
       "id": "zkmoney",
-      "name": "zk.money",
+      "name": "zkmoney",
       "categories": [
         "defi"
       ],
@@ -13925,7 +13925,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zkmoney/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Privacy built by Aztec",
+      "sunset": true
     },
     {
       "id": "PrismFHE",
