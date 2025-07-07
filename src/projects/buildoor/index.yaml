@@ -1,7 +1,7 @@
 id: buildoor
 name: Buildoor
 categories:
-- applications
+  - applications
 description: Privacy Focused Analytics
 links:
   web: https://buildoor.xyz
@@ -10,6 +10,14 @@ links:
   twitter: https://x.com/buildoorxyz
   discord: https://discord.com/invite/3hcjSGmEWD
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.jpg
+    ext: jpg
+    url: https://explorer-data.web3privacy.info/assets/projects/buildoor/logo.jpg
+ecosystem:
+  - other
+  - multichain
+sunset: false
