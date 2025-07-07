@@ -1,0 +1,27 @@
+name: NFT Fair
+categories:
+  - applications
+usecases:
+  - nft-community
+ecosystem:
+  - other
+description: The do-good NFT launch platform.
+sunset: true
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.nftfair.app/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: nft-fair
