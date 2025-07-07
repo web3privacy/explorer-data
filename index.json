@@ -23698,7 +23698,11 @@
         "nft-community"
       ],
       "have_token": false,
-      "third_party_dependency": "none"
+      "third_party_dependency": "none",
+      "ecosystem": [
+        "solana"
+      ],
+      "sunset": false
     },
     {
       "id": "adamantfi",
@@ -34455,7 +34459,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Void protocol gives users control over financial anonymity, as a non-custodial opt-in financial privacy service",
+      "description": "Void protocol gives users control over financial anonymity, as a non-custodial opt-in financial privacy service built on Osmosis.",
       "links": {
         "web": "https://protocolvoid.gitbook.io/void-protocol/"
       },
@@ -34471,6 +34475,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/void-protocol/logo.png"
         }
+      ],
+      "ecosystem": [
+        "other"
       ]
     },
     {
