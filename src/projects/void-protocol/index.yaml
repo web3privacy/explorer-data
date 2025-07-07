@@ -1,13 +1,19 @@
 id: void-protocol
 name: Void protocol
 categories:
-- applications
-description: Void protocol gives users control over financial anonymity, as a non-custodial
-  opt-in financial privacy service
+  - applications
+description: Void protocol gives users control over financial anonymity, as a
+  non-custodial opt-in financial privacy service built on Osmosis.
 links:
   web: https://protocolvoid.gitbook.io/void-protocol/
 sunset: true
 usecases:
-- mixing-service
+  - mixing-service
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/void-protocol/logo.png
+ecosystem:
+  - other
