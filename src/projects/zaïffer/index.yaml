@@ -1,0 +1,27 @@
+name: Zaïffer
+categories:
+  - defi
+  - applications
+usecases:
+  - defi
+  - fhe
+ecosystem:
+  - ethereum
+  - multichain
+description: >-
+  Zaïffer is a non custodial platform allowing anyone to make any EVM token
+  private and usable in existing DeFi Apps. Zaïffer uses a combination of Fully
+  Homomorphic Encryption and zK. 
+
+
+  Zaïffer is targeting :
+
+
+  1/ The OTC market to enable crypto funds, foundations et crypto companies to
+  buy and sell EVM native token privately
+
+
+  2/ Businesses that want to swap and pay confidentially 
+nickname: Peiyao
+sunset: false
+id: zaïffer
