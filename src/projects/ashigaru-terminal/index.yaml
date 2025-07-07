@@ -1,0 +1,71 @@
+name: Ashigaru Terminal
+categories:
+  - applications
+usecases:
+  - mixing-management
+  - mixing-service
+ecosystem:
+  - bitcoin
+description: >-
+  Ashigaru Terminal is an implementation of Samourai Wallet’s Whirlpool, which
+  enables users to voluntarily participate in Zerolink coinjoins once again to
+  achieve forward and backwards privacy for their Bitcoin transactions. 
+
+
+  Clients that connect to a coordinator running this protocol are able to break
+  all deterministic links with 100% entropy between inputs and outputs.
+product_launch_day: 2025-07-23T00:00:00.000Z
+sunset: false
+assets_used:
+  - btc
+have_token: false
+tokens: []
+links:
+  web: https://ashigaru.rs/download/
+  blog: https://ashigaru.rs/news/
+  github: http://ashicodepbnpvslzsl2bz7l2pwrjvajgumgac423pp3y2deprbnzz7id.onion/Ashigaru
+  forum: ""
+  docs: https://ashigaru.rs/docs/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zerolink coinjoins
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://ashigaru.rs/privacy-policy/
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: ashigaru-terminal
