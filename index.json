@@ -40478,7 +40478,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hurricane-protocol/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Hurricane Protocol",
+      "sunset": false
     },
     {
       "id": "inco",
