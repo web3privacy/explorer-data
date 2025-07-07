@@ -1,8 +1,16 @@
 id: fairy
 name: Fairy
 categories:
-- defi
+  - defi
 usecases:
-- defi
+  - defi
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/fairy/logo.png
+ecosystem:
+  - other
+description: Fairy
+sunset: false
