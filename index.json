@@ -20725,7 +20725,7 @@
     },
     {
       "id": "hackers-congress-paralelni-polis",
-      "name": "Hackers Congress Paralelní Polis",
+      "name": "Hackers Congress Paralelni Polis",
       "description": "the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.",
       "categories": [
         "social-and-communications"
@@ -20746,7 +20746,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hackers-congress-paralelni-polis/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "zama",
@@ -36655,7 +36660,11 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/freechat/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "hypermine",
