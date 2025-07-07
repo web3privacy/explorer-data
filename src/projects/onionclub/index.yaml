@@ -1,11 +1,30 @@
 id: onionclub
 name: Onionclub
 categories:
-- applications
-description: Blockchain-based, business & social platform.
+  - applications
+description: Blockchain-based, business & social platform built on Polygon.
 links:
   web: https://onionclub.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/onionclub_io
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/onionclub/logo.png
+ecosystem:
+  - other
+sunset: false
