@@ -1,14 +1,20 @@
 id: skynet
 name: SkyNet
 categories:
-- applications
-description: an open protocol for hosting data and web applications on the decentralized
-  web using Sia
+  - applications
+description: an open protocol for hosting data and web applications on the
+  decentralized web using Sia
 links:
   web: https://skynetlabs.com
   github: https://github.com/SkynetLabs
 sunset: true
 usecases:
-- storage
+  - storage
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/skynet/logo.png
+ecosystem:
+  - other
