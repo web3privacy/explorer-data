@@ -1,11 +1,18 @@
 id: freechat
 name: FreeChat
 categories:
-- applications
+  - applications
 description: Web3 Social
 links:
   web: https://twitter.com/Freeture_Chat
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.jpg
+    ext: jpg
+    url: https://explorer-data.web3privacy.info/assets/projects/freechat/logo.jpg
+ecosystem:
+  - other
+sunset: false
