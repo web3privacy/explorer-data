@@ -1,12 +1,19 @@
 id: zero-knowledge-verifiable-credential
 name: Zero Knowledge Verifiable Credential
 categories:
-- applications
-description: Sketching out verifiable credential selective disclosure presentation
-  on Mina with snarky.js
+  - applications
+description: Sketching out verifiable credential selective disclosure
+  presentation on Mina with snarky.js
 links:
   web: https://github.com/mono-koto/zkcred
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zero-knowledge-verifiable-credential/logo.png
+ecosystem:
+  - other
+sunset: false
