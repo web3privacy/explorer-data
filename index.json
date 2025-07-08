@@ -15688,7 +15688,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zero-knowledge-verifiable-credential/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "liquidfactory",
