@@ -2392,7 +2392,18 @@
       "description": "World’s first truly decentralized blockchain-based VPN service.",
       "links": {
         "web": "https://solarlabs.ee",
-        "twitter": "https://twitter.com/solardvpn"
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/solardvpn",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "usecases": [
@@ -2405,7 +2416,25 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/solar-labs/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "cosmos"
+      ],
+      "sunset": false,
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {}
     },
     {
       "id": "adamant",
