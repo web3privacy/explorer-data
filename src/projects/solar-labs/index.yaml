@@ -1,12 +1,41 @@
 id: solar-labs
 name: Solar labs
 categories:
-- applications
-description: "World\u2019s first truly decentralized blockchain-based VPN service."
+  - applications
+description: World’s first truly decentralized blockchain-based VPN service.
 links:
   web: https://solarlabs.ee
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/solardvpn
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 usecases:
-- vpn
+  - vpn
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/solar-labs/logo.png
+ecosystem:
+  - cosmos
+sunset: false
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
