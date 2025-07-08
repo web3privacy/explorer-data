@@ -1,12 +1,20 @@
 id: zkmaps
 name: ZkMaps
 categories:
-- applications
+  - applications
 description: Protecting users location with ZK proofs
 links:
   web: https://gitcoin.co/grants/5781/zkmaps-proof-of-location
   github: https://github.com/zkMaps
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zkmaps/logo.png
+ecosystem:
+  - ethereum
+  - other
+sunset: false
