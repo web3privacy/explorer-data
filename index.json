@@ -36467,9 +36467,18 @@
       },
       "links": {
         "web": "https://www.notebooklabs.xyz",
-        "docs": "https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication",
         "blog": "https://medium.com/@notebook_labs",
-        "twitter": "https://twitter.com/ZephyrExchange"
+        "github": "https://github.com/Notebook-Labs",
+        "forum": "",
+        "docs": "https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://twitter.com/ZephyrExchange",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "kyc-solution"
@@ -36482,7 +36491,13 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/notebook-labs/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "monerica",
