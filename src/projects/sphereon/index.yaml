@@ -1,14 +1,49 @@
 id: sphereon
 name: Sphereon
 categories:
-- applications
-description: The Sphereon Wallet enables you to store your own private data and gives
-  you full and sole control over whom you want to share your information with
+  - applications
+description: The Sphereon Wallet enables you to store your own private data and
+  gives you full and sole control over whom you want to share your information
+  with
 links:
+  web: ""
+  blog: ""
   github: https://github.com/Sphereon-Opensource/ssi-mobile-wallet
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 team:
   anonymous: true
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/sphereon/logo.png
+ecosystem:
+  - other
+sunset: false
+assets_used: []
+tokens: []
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
