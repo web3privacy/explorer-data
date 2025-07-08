@@ -1,13 +1,44 @@
 id: valid-id
-name: Valid.id
+name: Valid id
 categories:
-- applications
-description: Build the root of trust for your entity in a way that is both cryptographic
-  and legally binding
+  - applications
+description: Build the root of trust for your entity in a way that is both
+  cryptographic and legally binding
 links:
   web: https://valid3.id
+  blog: ""
+  github: https://github.com/zCloak-Network
+  forum: ""
   docs: https://valid3.id/tutorial/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/zcloaknetwork
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/valid-id/logo.png
+ecosystem:
+  - ethereum
+sunset: false
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
