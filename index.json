@@ -10131,7 +10131,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zkmaps/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "spkz",
