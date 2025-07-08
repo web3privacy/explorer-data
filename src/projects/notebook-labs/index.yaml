@@ -1,18 +1,36 @@
 id: notebook-labs
 name: Notebook labs
 categories:
-- applications
-description: Built Zephyr - the first non-custodial onramp to decentralize the gates
-  of crypto. Zephyr leverages Zero Knowledge proofs to ensure that on and off-rampers
-  never need to rely on centralized institutions
+  - applications
+description: Built Zephyr - the first non-custodial onramp to decentralize the
+  gates of crypto. Zephyr leverages Zero Knowledge proofs to ensure that on and
+  off-rampers never need to rely on centralized institutions
 team:
   anonymous: true
 links:
   web: https://www.notebooklabs.xyz
-  docs: https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication
   blog: https://medium.com/@notebook_labs
+  github: https://github.com/Notebook-Labs
+  forum: ""
+  docs: https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/ZephyrExchange
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 usecases:
-- kyc-solution
+  - kyc-solution
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/notebook-labs/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+sunset: false
