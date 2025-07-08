@@ -12762,7 +12762,7 @@
     },
     {
       "id": "coinshuffle",
-      "name": "CoinShuffle++",
+      "name": "CoinShuffle",
       "categories": [
         "applications"
       ],
@@ -12781,7 +12781,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/coinshuffle/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "privax",
