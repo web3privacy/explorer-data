@@ -1,10 +1,10 @@
+id: exolix
 name: Exolix
 categories:
   - defi
 usecases:
   - wallets
   - defi
-  - hardware
   - dapps
 ecosystem:
   - monero
@@ -19,7 +19,7 @@ description: Exolix is a trusted and efficient non-custodial crypto swap
   for swift, private cross-chain exchanges, allowing users to effortlessly swap
   2,000+ assets across 200+ blockchains without KYC, with high limits and
   competitive rates.
-product_launch_day: 2018-10-31T23:00:00.000Z
+product_launch_day: 2018-11-03T23:00:00.000Z
 sunset: false
 assets_used:
   - sol
@@ -80,4 +80,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: exolix
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/exolix/logo.png
