@@ -5729,12 +5729,21 @@
       "categories": [
         "applications"
       ],
-      "description": "A blockchain-agnostic protocol that offers privacy to NFTs",
+      "description": "Paras is an NFT marketplace that focuses on digital collectibles. We thrive upon bringing conventional collectibles to crypto space built on Near.",
       "links": {
         "web": "https://paras.id/",
+        "blog": "",
+        "github": "https://github.com/parashq",
+        "forum": "",
+        "docs": "https://docs.paras.id/",
         "whitepaper": "https://eprint.iacr.org/2022/976.pdf",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/ParasHQ",
-        "telegram": "https://t.me/parasannouncement"
+        "discord": "https://discord.paras.id/",
+        "telegram": "https://t.me/parasannouncement",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "tokens": [
@@ -5755,6 +5764,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/paras/logo.png"
         }
+      ],
+      "ecosystem": [
+        "other"
       ]
     },
     {
