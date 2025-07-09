@@ -1,18 +1,53 @@
 id: brightid
 name: BrightID
 categories:
-- applications
-description: "A social identity network that allows you to prove that you\u2019re\
-  \ only using one account. It\u2019s the holy grail of digital identity"
+  - applications
+description: A social identity network that allows you to prove that you’re only
+  using one account. It’s the holy grail of digital identity
 links:
   web: https://www.brightid.org
-  github: https://github.com/BrightID
-  whitepaper: https://www.brightid.org/whitepaper
-  forum: https://forum.brightid.org/
   blog: https://brightid.mirror.xyz/
+  github: https://github.com/BrightID
+  forum: https://forum.brightid.org/
+  docs: ""
+  whitepaper: https://www.brightid.org/whitepaper
+  block_explorer: https://explorer.brightid.org/
+  governance: ""
   twitter: https://x.com/BrightIDProject
   discord: https://discord.com/invite/brightid-596752664906432522
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/brightid/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+sunset: false
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
