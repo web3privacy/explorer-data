@@ -9177,12 +9177,21 @@
       "categories": [
         "applications"
       ],
-      "description": "Confidential NFTs for exclusive experiences.",
+      "description": "Confidential NFTs for exclusive experiences. Powered by OasisProtocol.",
       "links": {
         "web": "https://www.geniish.io",
+        "blog": "",
         "github": "https://github.com/geniish-protocol/docs",
+        "forum": "",
+        "docs": "https://docs.geniish.io/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/GeniishProtocol",
-        "discord": "https://discord.com/invite/Mc6Y2jfeEv"
+        "discord": "https://discord.com/invite/Mc6Y2jfeEv",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "have_token": false,
       "sunset": false,
@@ -9196,7 +9205,12 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/geniish/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "assets_used": [],
+      "tokens": []
     },
     {
       "id": "bandada",
