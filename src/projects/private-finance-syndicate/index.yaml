@@ -28,6 +28,9 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/private-finance-syndicate/logo.png
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/private-finance-syndicate/logo.jpeg
 ecosystem:
   - multichain
   - other
