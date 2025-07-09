@@ -1,13 +1,19 @@
 id: unijoin
 name: UniJoin
 categories:
-- applications
-description: help you regain and maintain your anonymity by mixing your cryptos in
-  a pool using CoinJoin technology
+  - applications
+description: help you regain and maintain your anonymity by mixing your cryptos
+  in a pool using CoinJoin technology
 links:
   web: https://unijoin.io
 sunset: true
 usecases:
-- mixing-service
+  - mixing-service
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/unijoin/logo.png
+ecosystem:
+  - bitcoin
