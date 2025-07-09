@@ -7144,10 +7144,18 @@
       "description": "Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.",
       "links": {
         "web": "https://www.pumabrowser.com",
-        "github": "https://github.com/PumaBrowser",
         "blog": "https://www.pumabrowser.com/blog",
+        "github": "https://github.com/PumaBrowser",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://twitter.com/pumabrowser",
-        "discord": "https://discord.com/invite/4frpm84"
+        "discord": "https://discord.com/invite/4frpm84",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "browser"
@@ -7160,7 +7168,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/puma-browser/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "zk-email",
