@@ -1,19 +1,36 @@
 id: paras
 name: Paras
 categories:
-- applications
-description: A blockchain-agnostic protocol that offers privacy to NFTs
+  - applications
+description: Paras is an NFT marketplace that focuses on digital collectibles.
+  We thrive upon bringing conventional collectibles to crypto space built on
+  Near.
 links:
   web: https://paras.id/
+  blog: ""
+  github: https://github.com/parashq
+  forum: ""
+  docs: https://docs.paras.id/
   whitepaper: https://eprint.iacr.org/2022/976.pdf
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/ParasHQ
+  discord: https://discord.paras.id/
   telegram: https://t.me/parasannouncement
+  lens: ""
+  farcaster: ""
 have_token: false
 tokens:
-- name: ParasToken
-  symbol: PARAS
-  network: Near
+  - name: ParasToken
+    symbol: PARAS
+    network: Near
 sunset: false
 usecases:
-- nft-community
+  - nft-community
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/paras/logo.png
+ecosystem:
+  - other
