@@ -6360,7 +6360,11 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/literully/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "herond",
