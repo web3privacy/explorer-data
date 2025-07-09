@@ -2765,7 +2765,18 @@
       "description": "Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you",
       "links": {
         "web": "https://coinomize.biz",
-        "blog": "https://coinomize.biz/blog"
+        "blog": "https://coinomize.biz/blog",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
         "mixing-service"
@@ -2778,7 +2789,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/coinomize/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "sunset": false
     },
     {
       "id": "nulink",
