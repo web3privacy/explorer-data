@@ -6774,6 +6774,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/unijoin/logo.png"
         }
+      ],
+      "ecosystem": [
+        "bitcoin"
       ]
     },
     {
