@@ -20411,7 +20411,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/blockyfile/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": true
     },
     {
       "id": "secret-network",
