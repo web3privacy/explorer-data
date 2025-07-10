@@ -14149,7 +14149,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/bermuda/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "ritual",
