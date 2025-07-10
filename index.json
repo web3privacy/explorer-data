@@ -22086,25 +22086,48 @@
     },
     {
       "id": "telebridge",
-      "name": "Hype (formerly known as TeleBridge)",
+      "name": "Telebridge",
       "categories": [
         "applications"
       ],
+      "usecases": [
+        "mixing-service",
+        "bridge"
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
       "description": "Hype is the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously.",
-      "team": {
-        "anonymous": true
-      },
+      "sunset": true,
       "links": {
         "web": "https://hype-eth.com/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
         "whitepaper": "https://hype-eth.com/whitepaper.pdf",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://x.com/TelebridgeERC",
-        "telegram": "https://t.me/TeleBridgingBot"
+        "discord": "",
+        "telegram": "https://t.me/TeleBridgingBot",
+        "lens": "",
+        "farcaster": ""
       },
-      "usecases": [
-        "mixing-service"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
       "logos": [
         {
           "file": "logo.png",
