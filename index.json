@@ -39841,7 +39841,7 @@
         "telegram": "https://t.me/+N6HLxnRL_WE5ZDVl"
       },
       "have_token": false,
-      "sunset": false,
+      "sunset": true,
       "usecases": [
         "ai"
       ],
@@ -39852,6 +39852,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/rido/logo.png"
         }
+      ],
+      "ecosystem": [
+        "other"
       ]
     },
     {
