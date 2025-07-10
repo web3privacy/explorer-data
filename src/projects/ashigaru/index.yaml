@@ -15,8 +15,7 @@ description: >
   their funds without relying on third-party services. It is open-source,
   allowing for community verification of its code, which enhances trust among
   users
-product_launch_day: 2024-10-19T16:00:00.000Z
-nickname: 0xhiro
+product_launch_day: 2024-10-06T00:00:00.000Z
 sunset: false
 assets_used:
   - btc
@@ -36,12 +35,12 @@ links:
   telegram: ""
   lens: ""
   farcaster: ""
-project_phase: mvp
+project_phase: mainnet
 project_status:
   live_status: true
-  mainnet: false
+  mainnet: true
   testnet: false
-  version: mvp
+  version: mainnet
 blockchain_features:
   opensource: true
   upgradability:
@@ -73,3 +72,7 @@ history:
     description: The first release of the Ashigaru Open Source Project's mobile wallet.
     link: https://ashigaru.rs/news/release-wallet-v1-0-0/
     time: 2024-09-19T16:00:00.000Z
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ashigaru/logo.png
