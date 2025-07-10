@@ -1,7 +1,7 @@
-id: beam-wallet
-name: Beam
+id: bend
+name: Bend
 categories:
-- applications
+  - applications
 description: Self-custodial wallet built on eco.org
 team:
   anonymous: true
@@ -11,10 +11,17 @@ links:
   github: https://github.com/eco-association
 project_status:
   live_status: true
-  version: ''
+  version: ""
   testnet: false
   mainnet: false
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/beam-wallet/logo.png
+ecosystem:
+  - multichain
+sunset: false
