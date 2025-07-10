@@ -1,21 +1,36 @@
 id: legendao
 name: Legendao
 categories:
-- applications
-description: The play-to-mint NFT platform, powered by Secret Network, that enables
-  top artists, brands, and NFT creators to launch their NFT projects in a unique,
-  gamified way
+  - applications
+description: The play-to-mint NFT platform, powered by Secret Network, that
+  enables top artists, brands, and NFT creators to launch their NFT projects in
+  a unique, gamified way
 links:
   web: https://legendao.io
   blog: https://medium.com/legendao
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/LegendaoNFT
   discord: https://discord.com/invite/ARgf2Qun2y
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 tokens:
-- name: LegendaoToken
-  symbol: LGND
-  network: Cosmos
-sunset: false
+  - name: LegendaoToken
+    symbol: LGND
+    network: Cosmos
+sunset: true
 usecases:
-- nft-community
+  - nft-community
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/legendao/logo.png
+ecosystem:
+  - other
