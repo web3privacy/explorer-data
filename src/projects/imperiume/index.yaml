@@ -1,12 +1,18 @@
 id: imperiume
 name: Imperiume
 categories:
-- applications
+  - applications
 description: Non-custodial wallet
 links:
   web: https://www.imperiume.io/wallet
 sunset: true
 usecases:
-- wallets
+  - wallets
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/imperiume/logo.png
+ecosystem:
+  - multichain
