@@ -11771,7 +11771,7 @@
           "contract_address": "0x13f7B4581dF403542286563C2F762077B2a368Da"
         }
       ],
-      "sunset": false,
+      "sunset": true,
       "usecases": [
         "ai"
       ],
@@ -11782,6 +11782,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cloak-ai/logo.png"
         }
+      ],
+      "ecosystem": [
+        "other"
       ]
     },
     {
