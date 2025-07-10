@@ -21116,8 +21116,7 @@
         "bitcoin"
       ],
       "description": "Ashigaru Wallet is a new, privacy-focused Bitcoin wallet aimed at enhancing user privacy and decentralization in cryptocurrency transactions.\n\nAshigaru is designed to be self-custodial, meaning users retain control over their funds without relying on third-party services. It is open-source, allowing for community verification of its code, which enhances trust among users\n",
-      "product_launch_day": "2024-10-19T16:00:00.000Z",
-      "nickname": "0xhiro",
+      "product_launch_day": "2024-10-06T00:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "btc"
@@ -21139,12 +21138,12 @@
         "lens": "",
         "farcaster": ""
       },
-      "project_phase": "mvp",
+      "project_phase": "mainnet",
       "project_status": {
         "live_status": true,
-        "mainnet": false,
+        "mainnet": true,
         "testnet": false,
-        "version": "mvp"
+        "version": "mainnet"
       },
       "blockchain_features": {
         "opensource": true,
