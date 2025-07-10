@@ -1,13 +1,19 @@
 id: the-anon-club
 name: The Anon Club
 categories:
-- applications
+  - applications
 description: World's first privacy-focused digital collectibles.
 links:
   web: https://theanonclub.com
   twitter: https://x.com/theanonclub
 sunset: true
 usecases:
-- nft-community
+  - nft-community
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/the-anon-club/logo.png
+ecosystem:
+  - solana
