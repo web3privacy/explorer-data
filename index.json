@@ -16075,7 +16075,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization",
+      "description": "Comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization. Built ontop of Manta.",
       "links": {
         "web": "https://mantapacific.pomp.money",
         "blog": "https://medium.com/@POMP_App",
@@ -16094,7 +16094,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/pomp/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "mbuddy",
