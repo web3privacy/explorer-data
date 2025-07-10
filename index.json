@@ -41216,32 +41216,6 @@
       "history": []
     },
     {
-      "id": "plugin-io",
-      "name": "Plugin.io",
-      "categories": [
-        "applications"
-      ],
-      "description": "Privacy-focused, ad-free social media & digital marketplace.",
-      "links": {
-        "web": "https://plugin.io/",
-        "github": "https://github.com/pluginio",
-        "twitter": "https://x.com/pluginio",
-        "facebook": "https://www.facebook.com/pluginio/"
-      },
-      "usecases": [
-        "dapps"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/plugin-io/logo.png"
-        }
-      ]
-    },
-    {
       "id": "peach-bitcoin",
       "name": "Peach Bitcoin",
       "categories": [
