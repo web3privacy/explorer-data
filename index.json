@@ -36731,7 +36731,8 @@
       ],
       "sunset": false,
       "usecases": [
-        "ai"
+        "ai",
+        "eth-layer-2"
       ],
       "third_party_dependency": "none",
       "logos": [
@@ -36740,6 +36741,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/nuco-cloud/logo.png"
         }
+      ],
+      "ecosystem": [
+        "other"
       ]
     },
     {
