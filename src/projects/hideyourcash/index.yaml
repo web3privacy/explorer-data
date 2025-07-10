@@ -1,0 +1,25 @@
+name: HideYourCash
+categories:
+  - applications
+usecases:
+  - mixing-service
+ecosystem:
+  - other
+description: HideYour.cash is a private transactions protocol (mixer) designed
+  for well-intended users on NEAR Protocol
+sunset: false
+links:
+  web: https://hideyour.cash
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: hideyourcash
