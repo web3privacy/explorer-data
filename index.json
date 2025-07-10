@@ -4900,57 +4900,6 @@
       ]
     },
     {
-      "id": "iodéos",
-      "name": "iodéOS",
-      "categories": [
-        "applications"
-      ],
-      "usecases": [
-        "operating-systems"
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "description": "Fork of LineageOS with a Trust interface that will help you understand the security of your device and warn incoming threats. Recently released, still in beta",
-      "sunset": false,
-      "links": {
-        "web": "https://iode.tech",
-        "blog": "https://blog.iode.tech/",
-        "github": "https://gitlab.com/iode/",
-        "forum": "",
-        "docs": "",
-        "whitepaper": "",
-        "block_explorer": "",
-        "governance": "",
-        "twitter": "https://x.com/iode_tech",
-        "discord": "",
-        "telegram": "",
-        "lens": "",
-        "farcaster": ""
-      },
-      "project_status": {
-        "live_status": false,
-        "mainnet": false,
-        "testnet": false
-      },
-      "blockchain_features": {
-        "opensource": false,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "",
-        "encryption": ""
-      },
-      "storage": {},
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/iodéos/logo.png"
-        }
-      ]
-    },
-    {
       "id": "holonym",
       "name": "Holonym",
       "categories": [
