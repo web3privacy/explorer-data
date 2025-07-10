@@ -1,19 +1,37 @@
 id: mix-btc
 name: Mix BTC
 categories:
-- applications
+  - applications
 description: Bitcoin mixer.
 team:
   anonymous: true
 links:
-  web: https://mixbtc.online
+  web: https://x.com/mixbtc_online
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/mixbtc_online
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
   version: unkown
   testnet: false
   mainnet: false
 usecases:
-- mixing-service
+  - mixing-service
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mix-btc/logo.png
+ecosystem:
+  - bitcoin
+sunset: true
