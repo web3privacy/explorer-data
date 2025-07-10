@@ -31474,7 +31474,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/aesirx-web3-id/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "taceo",
