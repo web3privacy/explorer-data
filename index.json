@@ -25071,7 +25071,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/speakeasy/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "omnia",
