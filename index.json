@@ -14736,7 +14736,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Building your own community identity like a brand",
+      "description": "Building your own community identity like a brand.",
       "links": {
         "web": "https://sdid.seer.eco/",
         "blog": "https://medium.com/@SeerFoundation",
@@ -14755,7 +14755,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/seer-sdid/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "transferchain",
