@@ -15234,7 +15234,10 @@
         "mixing-service"
       ],
       "have_token": false,
-      "third_party_dependency": "none"
+      "third_party_dependency": "none",
+      "ecosystem": [
+        "multichain"
+      ]
     },
     {
       "id": "deeper-network",
