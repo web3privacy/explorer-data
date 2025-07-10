@@ -1,7 +1,7 @@
 id: relayz
 name: Relayz
 categories:
-- applications
+  - applications
 description: Hyper-secure, private communications protocol for Web3
 links:
   web: https://relayz.io
@@ -10,6 +10,13 @@ links:
   discord: https://discord.com/invite/sMbZ2kxZKk
   telegram: https://t.me/RelayzOfficial
 usecases:
-- messaging
+  - messaging
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/relayz/logo.png
+ecosystem:
+  - other
+sunset: false
