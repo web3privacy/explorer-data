@@ -2734,6 +2734,80 @@
       ]
     },
     {
+      "id": "anon-nero",
+      "name": "Anon Nero",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "description": " A black box monero app \n\n    MONERO ONLY\n    MANDATORY TOR/I2P\n    NO 3RD-PARTY SERVICES\n    REQUIRED PASSPHRASE\n    POLYSEED MNEMONIC\n    NO SUBADDRESS REUSE\n    ENCRYPTED BACKUPS\n    STEALTH MODE\n    COIN CONTROL\n    SECURE SYNCING\n    AIRGAPPED TRANSACTIONS\n",
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://anonero.io",
+        "blog": "",
+        "github": "http://git.anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/ANONERO",
+        "forum": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FSnNujKusSxpqjPPIDW96TUaOKrZqjkM7%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA9z-iDyqpqxx9P6IoloAO7iOGOWFF79NNXQQUWBuCrBw%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228So4AR_VY9lz1UoX_yEAUQ%3D%3D%22%7D",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "https://t.me/anoneroapks",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anon-nero/logo.png"
+        }
+      ]
+    },
+    {
       "id": "coinomize",
       "name": "Coinomize",
       "categories": [
