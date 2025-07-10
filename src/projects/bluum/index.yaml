@@ -1,12 +1,19 @@
 id: bluum
 name: Bluum
 categories:
-- applications
+  - applications
 description: Enable confidentiality of NFT content.
 links:
   web: https://bluumprotocol.com
   github: https://github.com/BluumProtocol
 usecases:
-- nft-community
+  - nft-community
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/bluum/logo.png
+ecosystem:
+  - other
+sunset: true
