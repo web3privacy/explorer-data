@@ -28235,7 +28235,7 @@
       "categories": [
         "applications"
       ],
-      "description": "The only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials",
+      "description": "The only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials built on Manta.",
       "links": {
         "web": "https://www.asmatch.app",
         "whitepaper": "https://whitepaper.asmatch.app/",
@@ -28254,7 +28254,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/asmatch/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "privacy-guardians",
