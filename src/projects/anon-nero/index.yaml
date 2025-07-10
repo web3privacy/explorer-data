@@ -1,11 +1,73 @@
-id: anon-nero
-name: Anon/Nero
+name: Anon Nero
 categories:
-- applications
-description: Private wallet
-links:
-  web: https://t.me/anoneroapks
+  - applications
 usecases:
-- wallets
+  - wallets
+ecosystem:
+  - monero
+description: |2
+   A black box monero app 
+
+      MONERO ONLY
+      MANDATORY TOR/I2P
+      NO 3RD-PARTY SERVICES
+      REQUIRED PASSPHRASE
+      POLYSEED MNEMONIC
+      NO SUBADDRESS REUSE
+      ENCRYPTED BACKUPS
+      STEALTH MODE
+      COIN CONTROL
+      SECURE SYNCING
+      AIRGAPPED TRANSACTIONS
+sunset: false
+assets_used:
+  - xmr
 have_token: false
-third_party_dependency: none
+tokens: []
+links:
+  web: https://anonero.io
+  blog: ""
+  github: http://git.anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/ANONERO/
+  forum: https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FSnNujKusSxpqjPPIDW96TUaOKrZqjkM7%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA9z-iDyqpqxx9P6IoloAO7iOGOWFF79NNXQQUWBuCrBw%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228So4AR_VY9lz1UoX_yEAUQ%3D%3D%22%7D
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: https://t.me/anoneroapks
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: anon-nero
