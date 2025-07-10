@@ -1,9 +1,9 @@
 id: natix-network
 name: NATIX Network
 categories:
-- applications
-description: Patent-pending technology is the easiest way to make any camera smart
-  and 100% privacy compliant
+  - applications
+description: Patent-pending technology is the easiest way to make any camera
+  smart and 100% privacy compliant
 links:
   web: https://www.natix.network
   whitepaper: https://docs.natix.network/whitepaper
@@ -12,6 +12,13 @@ links:
   facebook: https://www.facebook.com/NATIX.Network
   telegram: https://t.me/NATIXNetwork
 usecases:
-- data-management
+  - data-management
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/natix-network/logo.png
+ecosystem:
+  - solana
+sunset: false
