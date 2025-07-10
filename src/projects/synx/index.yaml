@@ -1,7 +1,7 @@
 id: synx
 name: Synx
 categories:
-- applications
+  - applications
 description: The Web3 storage platform
 team:
   anonymous: true
@@ -14,6 +14,13 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-- storage
+  - storage
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/synx/logo.png
+ecosystem:
+  - other
+sunset: false
