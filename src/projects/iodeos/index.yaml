@@ -1,0 +1,29 @@
+name: IodeOS
+categories:
+  - applications
+usecases:
+  - operating-systems
+ecosystem:
+  - other
+description: Fork of LineageOS with a Trust interface that will help you
+  understand the security of your device and warn incoming threats. Recently
+  released, still in beta.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://iode.tech
+  blog: https://blog.iode.tech/
+  github: https://gitlab.com/iode/
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/iode_tech
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: iodeos
