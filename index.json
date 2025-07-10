@@ -30417,7 +30417,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/2fa-guru/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "sunset": false
     },
     {
       "id": "starshell",
