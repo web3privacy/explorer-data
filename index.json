@@ -22893,7 +22893,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/stealthdrop/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "pirate-chain",
