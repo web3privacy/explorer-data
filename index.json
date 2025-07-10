@@ -12144,7 +12144,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/spoc/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": true
     },
     {
       "id": "olas-protocol",
