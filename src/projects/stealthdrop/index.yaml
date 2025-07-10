@@ -1,12 +1,19 @@
 id: stealthdrop
 name: Stealthdrop
 categories:
-- applications
-description: "Anonymous Airdrops using ZK-SNARKS \u2728\uFE0F**ZK**"
+  - applications
+description: Anonymous Airdrops using ZK-SNARKS ✨️**ZK**
 links:
   web: https://stealthdrop.xyz
   github: https://github.com/stealthdrop/stealthdrop
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/stealthdrop/logo.png
+ecosystem:
+  - ethereum
+sunset: false
