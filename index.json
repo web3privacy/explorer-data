@@ -41667,7 +41667,7 @@
       "categories": [
         "applications"
       ],
-      "description": "Create, Sign, and Save eSignatures with smart contracts and permissioned NFTs.",
+      "description": "Create, Sign, and Save eSignatures with smart contracts and permissioned NFTs on the Aurora blockchain.",
       "links": {
         "web": "https://www.oksign.app",
         "twitter": "https://x.com/okSign_"
@@ -41683,7 +41683,11 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/oksign/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "vocdoni",
