@@ -12628,7 +12628,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cirus-foundation/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "sunset": false
     },
     {
       "id": "outdid",
