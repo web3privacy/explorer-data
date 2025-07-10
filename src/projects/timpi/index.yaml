@@ -1,7 +1,7 @@
 id: timpi
 name: Timpi
 categories:
-- applications
+  - applications
 description: Decentralized Search Engine & Index
 links:
   web: https://timpi.io
@@ -11,6 +11,13 @@ links:
   discord: https://discord.com/invite/wGRm9c7JE2
   telegram: https://t.me/TimpiMe
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/timpi/logo.png
+ecosystem:
+  - other
+sunset: false
