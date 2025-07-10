@@ -1,15 +1,42 @@
 id: cerebrum
 name: Cerebrum
 categories:
-- applications
-description: Ensure everyone in your organization is credentialed and compliant with
-  Cerebrum verifiable data technology and vID ecosystem
+  - applications
+description: Ensure everyone in your organization is credentialed and compliant
+  with Cerebrum verifiable data technology and vID ecosystem
 links:
   web: https://www.cerebrum.com
-  github: https://github.com/cerebruminc
   blog: https://blog.cerebrum.com/
+  github: https://github.com/cerebruminc
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://x.com/cerebruminc
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 have_token: false
 usecases:
-- did
+  - did
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/cerebrum/logo.png
+ecosystem:
+  - other
+sunset: false
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
