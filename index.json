@@ -12884,30 +12884,6 @@
       ]
     },
     {
-      "id": "bringing-privacy-to-ens",
-      "name": "bringing-privacy-to-ens",
-      "categories": [
-        "applications"
-      ],
-      "description": "ChainSafe’s Proposed Integration Using Aztec Network",
-      "links": {
-        "web": "https://www.cerebrum.com",
-        "github": "https://github.com/ChainSafe/ens-aztec-privacy/"
-      },
-      "usecases": [
-        "dapps"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png.png",
-          "ext": "png.png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/bringing-privacy-to-ens/logo.png.png"
-        }
-      ]
-    },
-    {
       "id": "findora-platform",
       "name": "Findora",
       "categories": [
