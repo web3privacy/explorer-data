@@ -26989,7 +26989,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/telios/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "apocryph",
