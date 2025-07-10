@@ -1,9 +1,9 @@
 id: bermuda
 name: Bermuda
 categories:
-- applications
-description: Next-gen private utility dApp for sending legal, anonymous transactions
-  of multiple ERC-20 tokens
+  - applications
+description: Next-gen private utility dApp for sending legal, anonymous
+  transactions of multiple ERC-20 tokens
 links:
   web: https://www.bmda.io
   whitepaper: https://www.bmda.io/bermuda-whitepaper-1.2.pdf
@@ -11,6 +11,13 @@ links:
   twitter: https://x.com/BermudaEth
   telegram: https://t.me/bermudaportal
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/bermuda/logo.png
+ecosystem:
+  - ethereum
+sunset: false
