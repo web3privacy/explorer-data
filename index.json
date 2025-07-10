@@ -19398,7 +19398,11 @@
           "ext": "jpg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fyeo-identity/logo.jpg"
         }
-      ]
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false
     },
     {
       "id": "blockstream-green",
