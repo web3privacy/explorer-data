@@ -27342,7 +27342,11 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/natix-network/logo.png"
         }
-      ]
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "sunset": false
     },
     {
       "id": "truezk",
