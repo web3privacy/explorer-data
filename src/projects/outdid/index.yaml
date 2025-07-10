@@ -1,7 +1,7 @@
 id: outdid
 name: OutDID
 categories:
-- applications
+  - applications
 description: Your Zero-Knowledge, Decentralized KYC filter of Blockchain users.
 links:
   web: https://www.outdid.io
@@ -9,6 +9,13 @@ links:
   twitter: https://x.com/getoutdid
   telegram: https://t.me/outdid_io
 usecases:
-- kyc-solution
+  - kyc-solution
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/outdid/logo.png
+ecosystem:
+  - other
+sunset: false
