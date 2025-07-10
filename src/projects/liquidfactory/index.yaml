@@ -1,11 +1,18 @@
 id: liquidfactory
 name: LiquidFactory
 categories:
-- applications
+  - applications
 description: Unlocks liquidity to DeFi, GameFi & NFTs.
 links:
   web: https://liquidfactory.io
 usecases:
-- dapps
+  - dapps
 have_token: false
 third_party_dependency: none
+logos:
+  - file: logo.jpg
+    ext: jpg
+    url: https://explorer-data.web3privacy.info/assets/projects/liquidfactory/logo.jpg
+ecosystem:
+  - other
+sunset: false
