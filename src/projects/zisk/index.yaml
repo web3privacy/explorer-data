@@ -1,0 +1,78 @@
+name: Zisk
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - other
+  - ethereum
+description: "ZisK is a high-performance zkVM (Zero-Knowledge Virtual Machine)
+  designed to generate zero-knowledge proofs of arbitrary program execution. It
+  enables developers to prove the correctness of a computation without revealing
+  its internal state, making ZisK a powerful tool for privacy-preserving and
+  verifiable computation. "
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://zisk.technology/
+  blog: ""
+  github: https://github.com/0xPolygonHermez
+  forum: ""
+  docs: https://0xpolygonhermez.github.io/zisk/introduction.html
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ziskvm
+  discord: https://discord.gg/bh2b7JurXH
+  telegram: ""
+  lens: ""
+  farcaster: https://farcaster.xyz/zisk
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: zkVM, RiscV
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Jordi Baylina
+      link: https://x.com/jbaylina
+    - name: Xavier Pinsach
+      link: https://x.com/xavipinsach
+    - name: zkronos 73
+      link: https://x.com/zkronos73
+    - name: Ricard Borrell Pol
+      link: https://x.com/Ricard_Borrell
+    - name: Héctor Masip
+      link: https://x.com/EllipticHector
+    - name: Fractasy Reevolution
+      link: https://x.com/FractasyR
+    - name: agnusmor
+      link: https://x.com/agnusmorX
+    - name: Roger Taule
+      link: https://x.com/roger_taule
+funding: []
+history: []
+id: zisk
