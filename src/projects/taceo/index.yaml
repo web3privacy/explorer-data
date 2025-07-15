@@ -2,7 +2,7 @@ id: taceo
 name: TACEO
 categories:
   - infrastructure
-description: Encrypted Computation Layer; MPC + ZK
+description: Verifiable Encrypted Computation Layer; MPC + ZK
 team:
   anonymous: false
   teammembers:
@@ -16,7 +16,7 @@ team:
       link: x.com/aisconnolly
 links:
   web: https://taceo.io/
-  blog: https://blog.taceo.io/
+  blog: https://core.taceo.io/
   github: https://github.com/TaceoLabs
   forum: ""
   docs: https://docs.taceo.io/
@@ -32,7 +32,7 @@ project_status:
   live_status: true
   mainnet: false
   testnet: false
-  version: alpha
+  version: beta
 have_token: false
 usecases:
   - computing
@@ -53,13 +53,13 @@ ecosystem:
 sunset: false
 assets_used: []
 tokens: []
-project_phase: alpha
+project_phase: beta
 blockchain_features:
   opensource: true
   upgradability:
     enabled: false
   asset_custody_type: ""
-  encryption: ZK, SNARKs, MPC
+  encryption: ZK, SNARKs, MPC, coSNARKs
 storage:
   decentralized: false
 privacy_policy:
@@ -81,3 +81,7 @@ history:
     description: First coSNARKs generated on MPC network at Devcon7
     link: https://blog.taceo.io/devcon-demo/
     time: 2024-11-11T23:00:00.000Z
+  - title: TACEO:Proof Beta
+    description: TACEO:Proof, a cosnark network for private proof delegation goes into beta
+    link: https://x.com/TACEO_IO/status/1915469892226314462
+    time: 2025-04-23T22:00:00.000Z
