@@ -1,0 +1,43 @@
+name: PRACC
+categories:
+  - applications
+usecases:
+  - data-management
+  - research-and-development
+ecosystem:
+  - ethereum
+description: A curated list of privacy-focused protocols including mixers,
+  cryptography solutions, and privacy applications. Each protocol is evaluated
+  based on multiple metrics to provide an objective overview.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://pracc.xyz/
+  blog: ""
+  github: https://github.com/y-pakorn/pracc
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/pracc_xyz
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+funding: []
+history: []
+id: pracc
