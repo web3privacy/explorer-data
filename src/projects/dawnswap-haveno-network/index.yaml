@@ -1,0 +1,84 @@
+name: Dawnswap Haveno  Network
+categories:
+  - applications
+  - defi
+usecases:
+  - currency
+  - defi
+ecosystem:
+  - monero
+  - solana
+  - bitcoin
+  - ethereum
+  - other
+description: >-
+  Dawnswap is a decentralized open-source non-custodial peer-to-peer exchange
+  platform built with Monero and Tor at its core. It is based on the existing
+  open-source codebase of the Haveno
+
+  project which aims to support the rapidly growing Monero community and crypto
+  in general all over the world. Making it easier for everyone to trade crypto
+  and fiat currencies without 
+
+  middlemen and trusting third parties. 
+nickname: dawncollective
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdt
+  - sol
+  - xmr
+  - other
+have_token: false
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Powered by Monero, Tor with their multi layered security tech
+    stacks, see public source code
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://www.dawnswap.com/faq.html
+  data_usage: no data is collected
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: no data is collected
+  sign_in_type_requirments: []
+default_privacy: true
+links:
+  web: https://www.dawnswap.com
+  blog: ""
+  github: https://github.com/dawn-collective/haveno-dawn/
+  forum: ""
+  docs: https://docs.haveno.exchange/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: dawnswap-haveno-network
