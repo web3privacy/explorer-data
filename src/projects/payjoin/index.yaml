@@ -1,0 +1,64 @@
+name: Payjoin
+categories:
+  - infrastructure
+usecases:
+  - research-and-development
+  - wallets
+  - infrastructure
+ecosystem:
+  - bitcoin
+description: >-
+  Scale Bitcoin, save fees, and preserve privacy all at once. Payjoin
+  Development Kit (PDK) is a full and completely standalone Payjoin
+  implementation with supporting modules enabling greater flexibility.
+
+
+  See the PDK here https://payjoindevkit.org/
+sunset: false
+assets_used:
+  - btc
+have_token: false
+tokens: []
+links:
+  web: https://payjoin.org/
+  blog: https://payjoin.substack.com/
+  github: https://github.com/payjoin
+  forum: ""
+  docs: https://payjoin.org/docs/how-payjoin-saves
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/payjoindevkit
+  discord: https://discord.gg/6rJD9R684h
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+history: []
+id: payjoin
