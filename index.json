@@ -30801,6 +30801,91 @@
       "sunset": false
     },
     {
+      "id": "privote",
+      "name": "Privote",
+      "categories": [
+        "social-and-communications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "events",
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Create polls, participate in elections, and make your voice heard in a Private and Decentralized way.\n\nPrivote is a decentralized voting mechanism that allows users to vote on-chain in a private and secure manner. It uses Maci protocol made by PSE team to ensure that votes don't leak and are not tampered with. The project is open-source and anyone can contribute to it. Privote enables users to create various types of private polls and vote on them. It also provides various types of auth mechanisms like Anon-Aadhar (aadhar based verification from India), WorldCoin-auth, NFC (can be used in IRL events like ethglobal hackathons), etc, enabling holding of various interesting polls without revealing the choice of voters.\n\nBuilt using https://maci.pse.dev/",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.privote.live/",
+        "blog": "",
+        "github": "https://github.com/PriVote-Project",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/privoteweb3",
+        "discord": "",
+        "telegram": "https://t.me/privote",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "0xlord_forever",
+            "link": "https://twitter.com/0xlord_forever"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/privote/logo.png"
+        }
+      ]
+    },
+    {
       "id": "coinomize",
       "name": "Coinomize",
       "categories": [
