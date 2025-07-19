@@ -20475,8 +20475,8 @@
       ]
     },
     {
-      "id": "unstoppable-swap",
-      "name": "Unstoppable Swap",
+      "id": "eigenwallet",
+      "name": "eigenwallet",
       "categories": [
         "infrastructure",
         "applications"
@@ -20489,7 +20489,7 @@
         "bitcoin",
         "monero"
       ],
-      "description": "Exchange Bitcoin for Monero peer-to-peer, trustlessly, securely, without risk, reliably, and freely.\nPowered by atomic swaps. Zero trust required. No middlemen. Pure peer-to-peer exchange through the Tor network. Complete privacy. Built by the community, for everyone\n\nUnstoppableSwap is a protocol and desktop application. When you run the app, you can connect to and swap with different makers. Makers are users who run the UnstoppableSwap protocol on their own computer or server to provide liquidity. They buy your Bitcoin and in return give you Monero. Each maker can set their own prices and fees.",
+      "description": "Exchange Bitcoin for Monero peer-to-peer, trustlessly, securely, without risk, reliably, and freely.\nPowered by atomic swaps. Zero trust required. No middlemen. Pure peer-to-peer exchange through the Tor network. Complete privacy. Built by the community, for everyone\n\neigenwallet is a protocol and desktop application. When you run the app, you can connect to and swap with different makers. Makers are users who run the UnstoppableSwap protocol on their own computer or server to provide liquidity. They buy your Bitcoin and in return give you Monero. Each maker can set their own prices and fees. Formerly unstoppable swap.",
       "sunset": false,
       "assets_used": [
         "btc",
@@ -20569,7 +20569,12 @@
         {
           "file": "logo.jpeg",
           "ext": "jpeg",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/unstoppable-swap/logo.jpeg"
+          "url": "https://explorer-data.web3privacy.info/assets/projects/eigenwallet/logo.jpeg"
+        },
+        {
+          "file": "logo.svg",
+          "ext": "svg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/eigenwallet/logo.svg"
         }
       ]
     },
