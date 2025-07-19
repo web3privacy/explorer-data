@@ -1,5 +1,5 @@
-id: unstoppable-swap
-name: Unstoppable Swap
+id: eigenwallet
+name: eigenwallet
 categories:
   - infrastructure
   - applications
@@ -18,11 +18,12 @@ description: >-
   for everyone
 
 
-  UnstoppableSwap is a protocol and desktop application. When you run the app,
+  eigenwallet is a protocol and desktop application. When you run the app,
   you can connect to and swap with different makers. Makers are users who run
   the UnstoppableSwap protocol on their own computer or server to provide
   liquidity. They buy your Bitcoin and in return give you Monero. Each maker can
   set their own prices and fees.
+  Formerly unstoppable swap.
 sunset: false
 assets_used:
   - btc
