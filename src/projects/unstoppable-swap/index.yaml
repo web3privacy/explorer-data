@@ -1,3 +1,4 @@
+id: unstoppable-swap
 name: Unstoppable Swap
 categories:
   - infrastructure
@@ -81,4 +82,7 @@ funding:
   - name: Community Crowd Funding
     link: https://ccs.getmonero.org/proposals/binarybaron-unstoppableswap.html
 history: []
-id: unstoppable-swap
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/unstoppable-swap/logo.jpeg
