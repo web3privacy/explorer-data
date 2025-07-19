@@ -1,0 +1,62 @@
+name: Eigen Network
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - other
+description: >-
+  Eigen Network: A Proof Market To Scale Fully Onchain Applications.
+
+
+  We build the general-purpose zkVM with natively support for fully onchain
+  computation on its modular proof system.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://eigen.market/
+  blog: ""
+  github: https://github.com/0xEigenLabs
+  forum: ""
+  docs: https://0xeigenlabs.github.io/
+  whitepaper: https://github.com/0xEigenLabs/0xeigenlabs.github.io/blob/main/src/whitepaper/overview.md
+  block_explorer: ""
+  governance: ""
+  twitter: https://xl.com/Eigen_Network
+  discord: https://discord.gg/ZxWRnc9VKJ
+  telegram: https://t.me/Eigen_Network
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://eigen.market/Policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: eigen-network
