@@ -1,0 +1,59 @@
+name: Oxai Network
+categories:
+  - infrastructure
+usecases:
+  - ai
+ecosystem:
+  - other
+description: Oxai is an advanced AI platform designed for creators, builders and
+  Web3 users with data privacy at its core.
+sunset: false
+assets_used:
+  - other
+have_token: true
+tokens:
+  - symbol: OXAI
+    name: Oxai
+    contract_address: "0x9ea01819F6FBD41cB004216680e73096EED56cbF"
+    token_link: https://basescan.org/address/0x9ea01819f6fbd41cb004216680e73096eed56cbf
+links:
+  web: https://oxai.io/
+  blog: ""
+  github: https://github.com/OxaiNetwork
+  forum: ""
+  docs: https://oxai.io/docs
+  whitepaper: ""
+  block_explorer: https://tscan.oxai.io/
+  governance: ""
+  twitter: https://x.com/OxaiNetwork
+  discord: ""
+  telegram: https://t.me/OxaiNetwork
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://oxai.io/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+history: []
+id: oxai-network
