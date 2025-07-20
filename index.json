@@ -14954,6 +14954,77 @@
       ]
     },
     {
+      "id": "canton-network",
+      "name": "Canton Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Unifying traditional\nand crypto markets\non-chain\n\nUnlock digital asset liquidity with Canton - the only public chain with privacy",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.canton.network",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://docs.digitalasset.com/overview/3.3/index.html",
+        "whitepaper": "https://www.canton.network/whitepapers",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/CantonNetwork",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.canton.network/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/canton-network/logo.png"
+        }
+      ]
+    },
+    {
       "id": "lazai",
       "name": "LazAI",
       "categories": [
