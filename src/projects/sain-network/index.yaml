@@ -1,0 +1,36 @@
+name: Sain Network
+categories:
+  - infrastructure
+usecases:
+  - ai
+  - did
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+description: >-
+  SAIN introduces a blockchain architecture engineered specifically for the
+  autonomous operation and interaction of AI agents. 
+
+  With advanced cryptographic protocols like zk-SNARKs and ECDSA, SAIN
+  guarantees secure identities, ecnrypted data management, and privacy
+  compliance.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://sainos.xyz/
+  blog: https://medium.com/@singularainetwork
+  github: ""
+  forum: ""
+  docs: https://docs.sainos.xyz/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/SainNetwork
+  discord: ""
+  telegram: https://t.me/sainos_channel
+  lens: ""
+  farcaster: ""
+id: sain-network
