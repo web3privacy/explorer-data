@@ -1,0 +1,30 @@
+name: Authena
+categories:
+  - infrastructure
+usecases:
+  - did
+ecosystem:
+  - other
+  - multichain
+description: Authena's onchain identity layer helps dApps verify real users, and
+  scale authentic communities. Users prove they're human without exposing any
+  sensitive data powered by zero-knowledge proofs.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://authena.xyz/
+  blog: https://www.blogs.intract.io/
+  github: ""
+  forum: ""
+  docs: https://intract.gitbook.io/proof-of-humanity
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Authena_xyz
+  discord: https://discord.com/invite/faXj8Yzua6/
+  telegram: https://t.me/+bNAsaw8NqsxmNWQ1/
+  lens: ""
+  farcaster: ""
+id: authena
