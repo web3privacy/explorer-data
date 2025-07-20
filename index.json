@@ -31998,6 +31998,70 @@
       "sunset": false
     },
     {
+      "id": "cloak-network",
+      "name": "Cloak Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "vpn",
+        "infrastructure",
+        "currency",
+        "messaging"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Redefining digital privacy with a decentralized, full-stack protocol, powered by AI. ",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "CLOAK",
+          "name": "Cloak",
+          "contract_address": "0xdE496A902836601E86e79d5B10e713C95580640B",
+          "token_link": "https://etherscan.io/token/0xde496a902836601e86e79d5b10e713c95580640b"
+        }
+      ],
+      "links": {
+        "web": "https://www.cloaknetwork.com/",
+        "blog": "",
+        "github": "http://github.com/cloaknetwork",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "https://www.cloaknetwork.com/_files/ugd/3c0330_7277c77ef4334e3fadb63d844bda79b7.pdf",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "http://x.com/cloak_network",
+        "discord": "",
+        "telegram": "http://t.me/officialcloaknetwork",
+        "lens": "",
+        "farcaster": ""
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cloak-network/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "transferchain",
       "name": "TransferChain",
       "categories": [
