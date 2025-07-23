@@ -1643,6 +1643,73 @@
       "sunset": true
     },
     {
+      "id": "tenzro",
+      "name": "Tenzro",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "ai",
+        "tee"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Secure, verifiable, and sovereiegn AI infrastructure designed for mission criticial performance and reulatory compliance.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.tenzro.com",
+        "blog": "https://medium.com/tenzro",
+        "github": "https://github.com/tenzro",
+        "forum": "",
+        "docs": "https://developer.tenzro.com/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/tenzr0",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.tenzro.com/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/tenzro/logo.png"
+        }
+      ]
+    },
+    {
       "id": "bob-protocol",
       "name": "BOB Protocol",
       "categories": [
