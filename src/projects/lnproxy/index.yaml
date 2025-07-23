@@ -1,0 +1,42 @@
+name: lnproxy
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+description: lnproxy is a simple privacy tool that makes invoices more private.
+  Users of custodial Lightning wallets get better payment destination privacy
+  and sovereign node runners with enhanced receiver privacy. lnproxy works like
+  a "Poor man's rendez-vous", providing privacy for users without taking custody
+  of their funds.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://lnproxy.org
+  blog: ""
+  github: https://github.com/lnproxy
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/lnproxy
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+id: lnproxy
