@@ -6,7 +6,9 @@ usecases:
   - vpn
 ecosystem:
   - other
-description: Advanced privacy built for the age of AI
+description: Advanced privacy built for the age of AI. A decentralized network
+  protecting your data from AI-powered surveillance, utilizing advanced mixing,
+  anonymous credentials and cover-traffic (noise).
 sunset: false
 links:
   web: https://nym.com
@@ -16,7 +18,7 @@ links:
   docs: https://nym.com/docs
   whitepaper: https://nym.com/nym-whitepaper.pdf
   block_explorer: https://nym.explorers.guru/
-  governance: ""
+  governance: https://governator.nym.com/
   twitter: https://x.com/nymproject
   discord: https://discord.com/invite/nym
   telegram: https://t.me/nymchan/
