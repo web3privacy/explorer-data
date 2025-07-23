@@ -1,0 +1,65 @@
+name: Dojo Bay
+categories:
+  - applications
+usecases:
+  - wallets
+  - node
+ecosystem:
+  - bitcoin
+description: >-
+  Welcome to The Dojo Bay, a place where you can find public dojos. 
+
+
+  Not running a dojo but need to connect to one to use your samourai or Ashigaru
+  wallet, Dojo Bay is for you.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://dojobay.pw/
+  blog: https://dojobay.pw/about/
+  github: ""
+  forum: ""
+  docs: https://dojobay.pw/faq/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: dojo-bay
