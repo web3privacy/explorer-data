@@ -19023,6 +19023,77 @@
       ]
     },
     {
+      "id": "nautilus-wallet",
+      "name": "Nautilus Wallet",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Privacy Wallet Designed for Ergo Network\n\nBuilt in secrecy, sourcing parts from unnamed sources.",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.nautiluswallet.com/",
+        "blog": "",
+        "github": "https://github.com/nautls/nautilus-wallet",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.ergoplatform.com/",
+        "governance": "",
+        "twitter": "https://x.com/NautilusWallet",
+        "discord": "https://discord.gg/2BxVr8M9xW",
+        "telegram": "hhttps://t.me/+TA9m2R6BEfwxMjRh",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nautilus-wallet/logo.png"
+        }
+      ]
+    },
+    {
       "id": "leading-privacy-alliance",
       "name": "Leading Privacy Alliance",
       "categories": [
