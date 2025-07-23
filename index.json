@@ -37430,6 +37430,73 @@
       "sunset": false
     },
     {
+      "id": "telos",
+      "name": "Telos",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Telos provides cutting-edge solutions to address the drawbacks developers and users face with other Layer 1 blockchains, such as lagging performance (high latency times & network congestion), limited scalability, and energy consumption.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.telos.net/",
+        "blog": "https://www.telos.net/blog",
+        "github": "https://github.com/telosnetwork",
+        "forum": "",
+        "docs": "https://docs.telos.net/overview/what-is-telos/introduction/",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.telos.net/network",
+        "governance": "https://app.telos.net/trails/ballots",
+        "twitter": "https://x.com/HelloTelos",
+        "discord": "https://discord.gg/telos",
+        "telegram": "http://t.me/HelloTelos",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.telos.net/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/telos/logo.png"
+        }
+      ]
+    },
+    {
       "id": "opsec",
       "name": "OpSec",
       "categories": [
