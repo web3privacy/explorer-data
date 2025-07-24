@@ -1,0 +1,55 @@
+name: Lavita AI
+categories:
+  - applications
+usecases:
+  - data-management
+ecosystem:
+  - other
+description: The first privacy-preserving health data marketplace powered by AI
+  on the Theta Network
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.lavita.ai/
+  blog: https://lavita-ai.medium.com/
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: https://www.lavita.ai/pdfs/Lavita_white_paper_latest.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/LavitaAI
+  discord: https://discord.com/invite/GSxBfSmh8G
+  telegram: https://t.me/Lavita_AI
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: " Ali Farahanchi, Ph.D. Ali Farahanchi"
+      link: https://alifarahanchi1.github.io/
+    - name: Pedram Hosseini
+      link: https://phosseini.github.io/
+    - name: Reza Mokhtari
+      link: https://rezamokhtari1.github.io/
+    - name: Mike Zhang
+      link: https://haiyangzhang1994.github.io/news/
+funding: []
+id: lavita-ai
