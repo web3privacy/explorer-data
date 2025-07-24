@@ -38398,6 +38398,28 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/edge/logo.png"
         }
+      ],
+      "sunset": false,
+      "funding": [],
+      "history": [
+        {
+          "title": "Edge wallet events page",
+          "description": "Event Edge wallet has appeared at",
+          "link": "https://edge.app/events/",
+          "time": ""
+        },
+        {
+          "title": "PorcFest 2025",
+          "description": "New Hampshire Porcupine Freedom Festival",
+          "link": "https://edge.app/events/porcfest-2025/",
+          "time": "2025-06-16T00:00:00.000Z"
+        },
+        {
+          "title": "Monerokon 2025",
+          "description": "Join us June 20–22 at MoneroKon 2025: the annual gathering of cypherpunks, privacy advocates, researchers, and developers working to push the boundaries of privacy-enhancing technologies and decentralized systems. Held in Prague, MoneroKon brings together the global privacy community to share breakthroughs, challenge assumptions, and build the future of financial freedom.  Edge is proud to be an official Contributor to this year’s event. We’ll be on-site with a booth and a special opportunity to win $1,000 in XMR! Stop by the Edge booth to connect with our team, enter the giveaway, and learn how Edge makes it easier than ever to securely manage Monero and other privacy-focused assets.  If you’re passionate about privacy, self-custody, and building real solutions for a freer world, we’d love to see you there.",
+          "link": "https://edge.app/events/monerokon/",
+          "time": "2025-06-20T00:00:00.000Z"
+        }
       ]
     },
     {
