@@ -1,0 +1,53 @@
+name: Zerobase
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - tee
+ecosystem:
+  - other
+description: >-
+  ZEROBASE is a high-performance, decentralized zero-knowledge (ZK) proving
+  network built for real-time computation, regulatory compliance, and
+  large-scale commercial use. It is designed to address the core trust gaps in
+  global finance, where trillions of dollars move daily through systems that
+  remain fragmented, inefficient, and opaque.
+
+
+  ZEROBASE supports a broad range of ZK applications, including zkLogin,
+  zkDarkPool, zkVote, and zkCEX, and offers both standard and custom circuit
+  development. With free integration, custom circuits delivered in 2–3 weeks,
+  and compatibility with Circom, Gnark, and an optional decryptable circuit
+  layer, ZEROBASE supports agile development across both Web3 and enterprise
+  sectors.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://zerobase.pro/
+  blog: https://mirror.xyz/zerobasezk.eth
+  github: https://github.com/ZeroBase-Pro/
+  forum: ""
+  docs: https://zerobase.pro/docs/
+  whitepaper: https://zerobase.pro/docs/technicalWhitePaper
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/zerobasezk
+  discord: https://discord.com/invite/zerobasezk
+  telegram: https://t.me/zerobasezk
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+history: []
+id: zerobase
