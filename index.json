@@ -12101,6 +12101,74 @@
       "sunset": false
     },
     {
+      "id": "spout",
+      "name": "Spout",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Bringing real-world yield on-chain. Tokenized corporate bonds with built-in privacy.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.spout.finance/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "https://drive.google.com/file/d/1fklbqmZhgxzIzXN0aEjsf2NFat2QdpFp/view",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/0xspout",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/spout/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "email-wallet",
       "name": "Email Wallet",
       "categories": [
