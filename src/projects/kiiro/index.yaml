@@ -1,0 +1,52 @@
+name: Kiiro
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - currency
+ecosystem:
+  - other
+description: Kiiro is Privacy focused Blockchain with hybrid PoW/PoS that aims
+  to build an highly scalable distributed high-performance computing network &
+  AI applications.
+product_launch_day: 2023-08-20T00:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://kiirocoin.org/
+  blog: ""
+  github: https://github.com/Kiirocoin/kiiro
+  forum: ""
+  docs: ""
+  whitepaper: https://kiirocoin.org/assets/docs/Kiiro_Whitepaper.pdf
+  block_explorer: https://explorer.kiirocoin.org/
+  governance: ""
+  twitter: https://x.com/kiirocoin
+  discord: https://discord.gg/yFbbrtPscq
+  telegram: https://t.me/kiirocoin
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://kiirocoin.org/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+id: kiiro
