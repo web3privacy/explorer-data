@@ -13,7 +13,7 @@ tokens:
     network: Optimism
     contract_address: "0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4"
 project_type: DeFi
-product_launch_day: 2021-11-05T22:00:00.000Z
+product_launch_day: 2021-11-04T23:00:00.000Z
 technology:
   type: ZK
   name: Zero-knowledge
@@ -50,7 +50,7 @@ storage:
 tracebility:
   tracked_dat: non
   kyc: false
-  sign_in_type_requirments: 
+  sign_in_type_requirments:
     - wallet
 third_party_dependency: none
 audits:
@@ -79,7 +79,7 @@ project_status:
   testnet: false
   mainnet: true
 usecases:
-  - defi
+  - sunset
 have_token: false
 logos:
   - file: logo.png
