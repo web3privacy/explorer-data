@@ -1,8 +1,8 @@
+id: rolod0x
 name: rolod0x
 categories:
   - applications
 usecases:
-  - wallets
   - defi
   - infrastructure
   - browser
@@ -24,7 +24,7 @@ description: >-
 
   You can also quickly look up any address by pressing a hotkey, and then just
   type part of what you're looking for.
-product_launch_day: 2024-04-23T23:00:00.000Z
+product_launch_day: 2024-04-02T22:00:00.000Z
 sunset: false
 assets_used: []
 have_token: false
@@ -88,4 +88,7 @@ funding:
     value: 514.00 $
     time: 2024-05-08T00:00:00.000Z
 history: []
-id: rolod0x
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/rolod0x/logo.png
