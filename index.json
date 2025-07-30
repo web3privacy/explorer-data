@@ -23354,28 +23354,21 @@
       "name": "Enclave",
       "categories": [
         "infrastructure",
-        "defi",
         "applications"
       ],
       "usecases": [
-        "defi",
-        "infrastructure",
-        "computing",
         "fhe",
         "data-management",
-        "ai",
         "tee",
         "mpc",
-        "node",
         "research-and-development"
       ],
       "ecosystem": [
-        "ethereum",
-        "other"
+        "ethereum"
       ],
       "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3s). E3s enable secure, private, and verifiable computations on multiple inputs of encrypted data, using programmable cryptography (FHE, ZKPs, and MPC) and blockchain. As a complement to or alternative for TEEs, E3s unlock use cases like secret voting, sealed-bid auctions, and confidential data pools.",
-      "product_launch_day": "2024-06-04T00:00:00.000Z",
-      "sunset": false,
+      "product_launch_day": "2024-06-01T23:00:00.000Z",
+      "sunset": true,
       "assets_used": [
         "eth",
         "other"
@@ -23454,7 +23447,20 @@
           "link": "https://x.com/legiondotcc/status/1879526685944512728"
         }
       ],
-      "history": [],
+      "history": [
+        {
+          "title": "",
+          "description": "",
+          "link": "",
+          "time": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "link": "",
+          "time": ""
+        }
+      ],
       "logos": [
         {
           "file": "logo.png",
