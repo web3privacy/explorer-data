@@ -27201,7 +27201,6 @@
         "applications"
       ],
       "usecases": [
-        "wallets",
         "defi",
         "infrastructure",
         "browser",
@@ -27212,7 +27211,7 @@
         "ethereum"
       ],
       "description": "rolod0x is a free privacy-preserving address book which gives you a much smoother experience when browsing sites onchain.\n\nInstead of having to keep track of long hexadecimal addresses, simply right-click an address and give it a memorable label.  Now when you go to any web page, the extension automatically replaces that address wherever it appears with the label you provided.  This makes understanding onchain activity way easier, and it works on any website and any blockchain.\n\nYou can also quickly look up any address by pressing a hotkey, and then just type part of what you're looking for.",
-      "product_launch_day": "2024-04-23T23:00:00.000Z",
+      "product_launch_day": "2024-04-02T22:00:00.000Z",
       "sunset": false,
       "assets_used": [],
       "have_token": false,
