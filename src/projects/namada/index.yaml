@@ -20,11 +20,10 @@ team:
       link: https://x.com/vKnowable
     - name: Luminara
       link: https://x.com/_luminara
-
 links:
   web: https://namada.net
   blog: https://namada.net/blog
-  github: https://github.com/anoma/namada
+  github: https://github.com/namada-net
   forum: https://forum.namada.net/
   docs: https://docs.namada.net/
   whitepaper: https://specs.namada.net/
@@ -50,7 +49,7 @@ logos:
     url: https://explorer-data.web3privacy.info/assets/projects/namada/logo.png
 ecosystem:
   - cosmos
-product_launch_day: 2022-06-05T22:00:00.000Z
+product_launch_day: 2022-05-31T22:00:00.000Z
 sunset: false
 assets_used:
   - nam
@@ -66,7 +65,9 @@ blockchain_features:
     enabled: true
   asset_custody_type: non-custody
   encryption: ZK-SNARK MASP
-storage: {}
+  p2p: true
+storage:
+  decentralized: true
 privacy_policy:
   defined: false
   link: ""
@@ -110,6 +111,9 @@ audits:
   - name: Ethereum IBC
     url: https://github.com/oak-security/audit-reports/blob/master/Anoma/2023-03-28%20Audit%20Report%20-%20Namada%20Ethereum%20Bridge%20v1.0.pdf
     time: 2023-03-27T22:00:00.000Z
+  - name: E2E Shielded Transaction & Balance Consistency
+    url: https://github.com/informalsystems/audits/blob/main/Anoma/Namada%20Q2%202025_%20E2E%20Shielded%20Transaction%20&%20Balance%20Consistency%20Audit%20Report_Final.pdf
+    time: 2025-07-23T22:00:00.000Z
 social_trust: "Namada is designed to be a decentralized and community-governed
   protocol. Consensus is formed on off-chain communication channels and ratified
   through on-chain governance proposals, which can include changes to
@@ -147,3 +151,7 @@ history:
       policy advocacy organization Coin Center.
     link: https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop
     time: 2025-01-17T23:00:00.000Z
+  - title: Completion of mainnet phases
+    description: All features of the 5 phases of the mainnet have been enabled
+    link: https://namada.net/mainnet-launch
+    time: 2025-07-15T22:00:00.000Z
