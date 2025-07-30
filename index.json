@@ -29378,7 +29378,8 @@
       ],
       "usecases": [
         "hardware",
-        "defi"
+        "defi",
+        "wallets"
       ],
       "ecosystem": [
         "ethereum",
@@ -29389,18 +29390,62 @@
       "links": {
         "web": "https://keycard.tech/keycard-shell",
         "blog": "",
-        "github": "",
-        "forum": "",
+        "github": "https://github.com/keycard-tech",
+        "forum": "https://forum.logos.co/",
         "docs": "",
-        "whitepaper": "",
+        "whitepaper": "https://press.logos.co/article/keycard-manifesto",
         "block_explorer": "",
         "governance": "",
         "twitter": "https://x.com/Keycard_",
-        "discord": "",
+        "discord": "https://discord.gg/uJAXk7jFhZ",
         "telegram": "",
         "lens": "",
         "farcaster": ""
-      }
+      },
+      "assets_used": [
+        "eth",
+        "btc"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "onion-mixer",
