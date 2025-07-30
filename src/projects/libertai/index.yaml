@@ -1,0 +1,81 @@
+name: LibertAI
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - ai
+ecosystem:
+  - solana
+  - ethereum
+description: Confidential AI for blockchain apps. Built on top of Aleph Cloud's
+  DePIN infrastructure, LibertAI provides decentralized inference processed in
+  Trusted Execution Environments (TEEs), autonomous AI Agents paying for their
+  own computing and consumer chat solutions.
+sunset: false
+assets_used:
+  - eth
+  - usdt
+have_token: true
+tokens:
+  - symbol: LTAI
+    name: LibertAI
+    contract_address: "0xF8B1b47AA748F5C7b5D0e80C726a843913EB573a"
+    token_link: https://basescan.org/token/0xf8b1b47aa748f5c7b5d0e80c726a843913eb573a
+links:
+  web: https://libertai.io/
+  blog: https://blog.libertai.io
+  github: https://github.com/libertai
+  forum: ""
+  docs: https://docs.libertai.io/
+  whitepaper: https://libertai.io/litepaper.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Libertai_DAI
+  discord: https://discord.gg/alephcloud
+  telegram: https://t.me/libertai
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: TEE, DePIN
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: Billing and global anonymized usage statistics
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Number of API queries made / number of token used (no actual user
+    data and prompts, verifiable with TEE attestations)
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Reza Rahemtola
+      link: https://x.com/RezaRahemtola
+    - name: Jonathan Schemoul
+      link: https://x.com/jon1012
+    - name: Shane P.
+      link: ""
+    - name: Joanna Caraballo Serrano
+      link: https://x.com/jojoliciosa
+funding: []
+id: libertai
