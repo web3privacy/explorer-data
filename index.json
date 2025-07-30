@@ -16613,7 +16613,7 @@
         }
       ],
       "project_type": "DeFi",
-      "product_launch_day": "2021-11-05T22:00:00.000Z",
+      "product_launch_day": "2021-11-04T23:00:00.000Z",
       "technology": {
         "type": "ZK",
         "name": "Zero-knowledge",
@@ -16701,7 +16701,7 @@
         "mainnet": true
       },
       "usecases": [
-        "defi"
+        "sunset"
       ],
       "have_token": false,
       "logos": [
