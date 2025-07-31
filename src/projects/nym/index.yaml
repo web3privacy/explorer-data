@@ -26,7 +26,7 @@ links:
   whitepaper: https://nymtech.net/nym-whitepaper.pdf
   block_explorer: https://www.mintscan.io/nyx/
   governance: https://www.mintscan.io/nyx/proposals/
-  twitter: https://x.com/nymproject
+  twitter: https://x.com/nym
   discord: https://discord.com/invite/nym
   telegram: https://t.me/nymchan/
   lens: ""
@@ -46,6 +46,9 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/nym/logo.png
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/nym/logo.jpeg
 ecosystem:
   - cosmos
 sunset: false
