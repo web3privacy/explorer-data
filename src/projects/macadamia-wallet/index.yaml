@@ -1,0 +1,62 @@
+name: Macadamia Wallet
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+description: macadamia is a native iOS wallet designed for Cashu, an open-source
+  Chaumian ecash protocol built for Bitcoin. Cashu enables private, instant, and
+  secure digital transactions by utilizing blind signatures to preserve user
+  privacy.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://macadamia.cash/
+  blog: ""
+  github: https://github.com/zeugmaster/macadamia
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: https://t.me/macadamiawallet
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://macadamia.cash/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+team:
+  anonymous: false
+  teammembers:
+    - name: zeugmaster
+      link: https://github.com/zeugmaster
+    - name: Egge21M
+      link: https://github.com/Egge21M
+funding: []
+history: []
+id: macadamia-wallet
