@@ -17,8 +17,8 @@ description: Enclave is an open-source protocol for Encrypted Execution
   and MPC) and blockchain. As a complement to or alternative for TEEs, E3s
   unlock use cases like secret voting, sealed-bid auctions, and confidential
   data pools.
-product_launch_day: 2024-06-01T23:00:00.000Z
-sunset: true
+product_launch_day: 2024-06-06T00:00:00.000Z
+sunset: false
 assets_used:
   - eth
   - other
