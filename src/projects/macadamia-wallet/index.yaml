@@ -1,3 +1,4 @@
+id: macadamia-wallet
 name: Macadamia Wallet
 categories:
   - applications
@@ -22,7 +23,7 @@ links:
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: ""
+  twitter: https://x.com/macadamiacash
   discord: ""
   telegram: https://t.me/macadamiawallet
   lens: ""
@@ -59,4 +60,7 @@ team:
       link: https://github.com/Egge21M
 funding: []
 history: []
-id: macadamia-wallet
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/macadamia-wallet/logo.png
