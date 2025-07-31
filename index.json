@@ -11449,6 +11449,84 @@
       "sunset": false
     },
     {
+      "id": "minibits",
+      "name": "Minibits",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "description": "Minibits is an ecash and Lightning wallet exploring how ₿-backed ecash can enable instant, cheap, and private value transfer. Cash is issued by mints and backed by Bitcoin via the Cashu protocol and Lightning Network. ",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://minibits.cash/",
+        "blog": "",
+        "github": "https://github.com/minibits-cash/minibits_wallet",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/minibitscash",
+        "discord": "",
+        "telegram": "https://t.me/MinibitsWallet",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.minibits.cash/privacy.html",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "funding": [
+        {
+          "name": "Human Rights Foundation",
+          "link": "https://hrfbounties.org/"
+        },
+        {
+          "name": "Open Sats recipient",
+          "link": "https://opensats.org/"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/minibits/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "cloak-ai",
       "name": "Cloak Ai",
       "categories": [
