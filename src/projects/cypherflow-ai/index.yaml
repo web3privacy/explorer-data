@@ -1,0 +1,60 @@
+name: Cypherflow AI
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - bitcoin
+description: "CypherFlow.ai is a cutting-edge Open Source platform providing
+  private, AI conversations powered by Bitcoin micropayments. Experience
+  uncensored AI access with true data ownership and financial autonomy. "
+sunset: false
+assets_used:
+  - btc
+have_token: false
+tokens: []
+links:
+  web: https://cypherflow.ai/
+  blog: ""
+  github: https://github.com/cypherflow/cypherflow_ai
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
+id: cypherflow-ai
