@@ -1662,6 +1662,94 @@
       ]
     },
     {
+      "id": "bringid",
+      "name": "BringID",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "did"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "BringID is a privacy-preserving protocol for verifying humanness using existing Internet accounts. By aggregating verifiable credentials from services like Uber, GitHub, or Airbnb — without ever revealing user identities — BringID enables crypto applications to assess trust and reputation without compromising privacy. Leveraging MPC-TLS and zero-knowledge group proofs, the system produces unlinkable attestations and customizable trust scores. This approach addresses the growing need for Sybil resistance, privacy-preserving airdrops, and composable identity in an environment increasingly flooded with bots and synthetic activity.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "BRING",
+          "name": "Bring",
+          "contract_address": "0x02E739740B007bd5E4600b9736A143b6E794D223",
+          "token_link": "https://basescan.org/token/0x02E739740B007bd5E4600b9736A143b6E794D223"
+        }
+      ],
+      "links": {
+        "web": "https://www.bringid.org/",
+        "blog": "",
+        "github": "https://github.com/bringid",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "https://github.com/BringID/whitepaper/blob/main/whitepaper.md",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/bring_id",
+        "discord": "",
+        "telegram": "https://t.me/bringid_chat",
+        "lens": "",
+        "farcaster": "https://farcaster.xyz/~/channel/bring"
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "MPC-TLS, zkTLS, TLS Notary"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Mikhail",
+            "link": "https://farcaster.xyz/zkbringer.eth/"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/bringid/logo.png"
+        }
+      ]
+    },
+    {
       "id": "joinmarket",
       "name": "JoinMarket",
       "categories": [
