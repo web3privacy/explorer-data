@@ -7044,6 +7044,107 @@
       ]
     },
     {
+      "id": "best-wallet",
+      "name": "Best Wallet",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "ethereum",
+        "multichain",
+        "other",
+        "cosmos",
+        "solana"
+      ],
+      "description": "Multi-Chain.\nMulti-Wallet.\nNon-Custodial.\n\nCreate and manage your Bitcoin wallet and other crypto wallets all within the Best Crypto Wallet app. All your tokens, secure and ready to trade within one app.",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "BEST",
+          "name": "BEST token",
+          "contract_address": "0xba83b5ed3f12Bfa44f066f03eE0433419B74f469",
+          "token_link": "https://etherscan.io/token/0xba83b5ed3f12bfa44f066f03ee0433419b74f469"
+        }
+      ],
+      "links": {
+        "web": "https://bestwallet.com/en/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://support.bestwallet.com/en/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/bestwallethq",
+        "discord": "https://discord.gg/bestwallet",
+        "telegram": "https://t.me/BestWalletHQ",
+        "lens": "",
+        "farcaster": ""
+      },
+      "audits": [
+        {
+          "name": "Best Wallet - Pentesting Security Assessment",
+          "url": "https://skynet.certik.com/projects/best-wallet",
+          "time": "2025-07-01T00:00:00.000Z"
+        },
+        {
+          "name": "Advanced Manual Smart Contract Audit",
+          "url": "https://github.com/Coinsult/solidity/blob/main/Coinsult_BestWallet_0xba...f469_Audit.pdf",
+          "time": "2024-11-07T00:00:00.000Z"
+        }
+      ],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/best-wallet/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "bidshop",
       "name": "Bidshop",
       "categories": [
@@ -9736,7 +9837,7 @@
         "whitepaper": "https://nymtech.net/nym-whitepaper.pdf",
         "block_explorer": "https://www.mintscan.io/nyx/",
         "governance": "https://www.mintscan.io/nyx/proposals/",
-        "twitter": "https://x.com/nymproject",
+        "twitter": "https://x.com/nym",
         "discord": "https://discord.com/invite/nym",
         "telegram": "https://t.me/nymchan/",
         "lens": "",
@@ -23459,8 +23560,8 @@
         "ethereum"
       ],
       "description": "Enclave is an open-source protocol for Encrypted Execution Environments (E3s). E3s enable secure, private, and verifiable computations on multiple inputs of encrypted data, using programmable cryptography (FHE, ZKPs, and MPC) and blockchain. As a complement to or alternative for TEEs, E3s unlock use cases like secret voting, sealed-bid auctions, and confidential data pools.",
-      "product_launch_day": "2024-06-01T23:00:00.000Z",
-      "sunset": true,
+      "product_launch_day": "2024-06-06T00:00:00.000Z",
+      "sunset": false,
       "assets_used": [
         "eth",
         "other"
