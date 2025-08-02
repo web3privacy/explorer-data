@@ -1,0 +1,83 @@
+name: Best Wallet
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+  - ethereum
+  - multichain
+  - other
+  - cosmos
+  - solana
+description: >-
+  Multi-Chain.
+
+  Multi-Wallet.
+
+  Non-Custodial.
+
+
+  Create and manage your Bitcoin wallet and other crypto wallets all within the
+  Best Crypto Wallet app. All your tokens, secure and ready to trade within one
+  app.
+sunset: false
+assets_used:
+  - other
+have_token: true
+tokens:
+  - symbol: BEST
+    name: BEST token
+    contract_address: "0xba83b5ed3f12Bfa44f066f03eE0433419B74f469"
+    token_link: https://etherscan.io/token/0xba83b5ed3f12bfa44f066f03ee0433419b74f469
+links:
+  web: https://bestwallet.com/en/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://support.bestwallet.com/en/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/bestwallethq
+  discord: https://discord.gg/bestwallet
+  telegram: https://t.me/BestWalletHQ
+  lens: ""
+  farcaster: ""
+audits:
+  - name: Best Wallet - Pentesting Security Assessment
+    url: https://skynet.certik.com/projects/best-wallet
+    time: 2025-07-01T00:00:00.000Z
+  - name: Advanced Manual Smart Contract Audit
+    url: https://github.com/Coinsult/solidity/blob/main/Coinsult_BestWallet_0xba...f469_Audit.pdf
+    time: 2024-11-07T00:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+id: best-wallet
