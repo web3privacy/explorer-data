@@ -1,3 +1,4 @@
+id: payy
 name: Payy
 categories:
   - defi
@@ -9,7 +10,8 @@ ecosystem:
 description: Payy gives you control of your money using stablecoins and a
   private, scalable payments blockchain.
 sunset: false
-assets_used: []
+assets_used:
+  - usdc
 have_token: false
 tokens: []
 links:
@@ -37,7 +39,7 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: ""
+  encryption: "ZK proofs, "
 storage: {}
 privacy_policy:
   defined: false
@@ -55,7 +57,17 @@ social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+    - name: Sid Ghandi
+      link: https://x.com/sidgandhi_xyz
+    - name: Calum Moore
+      link: https://x.com/calummoore
 funding: []
 history: []
-id: payy
+logos:
+  - file: logo.webp
+    ext: webp
+    url: https://explorer-data.web3privacy.info/assets/projects/payy/logo.webp
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/payy/logo.png
