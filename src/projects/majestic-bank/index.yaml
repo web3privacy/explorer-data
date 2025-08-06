@@ -1,3 +1,4 @@
+id: majestic-bank
 name: Majestic Bank
 categories:
   - infrastructure
@@ -6,6 +7,7 @@ usecases:
   - currency
   - infrastructure
   - bridge
+  - sunset
 ecosystem:
   - monero
   - bitcoin
@@ -13,7 +15,7 @@ ecosystem:
   - multichain
 description: "Anonymous exchange: Exchange between Bitcoin, Monero, Litecoin,
   Firo and Bitcoin Cash"
-sunset: false
+sunset: true
 assets_used:
   - btc
   - xmr
@@ -67,4 +69,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: majestic-bank
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/majestic-bank/logo.png
