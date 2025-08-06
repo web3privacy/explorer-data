@@ -39827,7 +39827,8 @@
       "usecases": [
         "currency",
         "infrastructure",
-        "bridge"
+        "bridge",
+        "sunset"
       ],
       "ecosystem": [
         "monero",
@@ -39836,7 +39837,7 @@
         "multichain"
       ],
       "description": "Anonymous exchange: Exchange between Bitcoin, Monero, Litecoin, Firo and Bitcoin Cash",
-      "sunset": false,
+      "sunset": true,
       "assets_used": [
         "btc",
         "xmr",
