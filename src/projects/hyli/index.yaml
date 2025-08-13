@@ -1,0 +1,109 @@
+name: Hyli
+categories:
+  - infrastructure
+usecases:
+  - dapps
+  - infrastructure
+ecosystem:
+  - other
+description: >-
+  Hyli is the new proof-powered L1 to build the next generation of apps.
+
+
+  With Hyli, developers can build fast, composable, and verifiable apps without
+  dealing with the usual pains of blockchain.
+
+
+  On Hyli, instead of executing transactions onchain, you run your app logic
+  anywhere off-chain, in Rust, Noir, or even multiple languages at once. You
+  only need to send a proof for onchain settlement. With this model, your app
+  benefits from the Web2 user experience and the security of Web3.
+product_launch_day: 2024-06-12T22:00:00.000Z
+nickname: alex@hyli.org
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://hyli.org
+  blog: https://blog.hyli.org
+  github: https://github.com/hyli-org/hyli
+  forum: ""
+  docs: https://docs.hyli.org
+  whitepaper: ""
+  block_explorer: https://explorer.hyli.org
+  governance: ""
+  twitter: https://x.com/hyli_org
+  discord: ""
+  telegram: https://t.me/hyli_org
+  lens: ""
+  farcaster: https://farcaster.xyz/hyli-org
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ZK
+  p2p: true
+storage:
+  decentralized: false
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: None
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Wallet
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits: []
+third_party_dependency: Each app settling on Hyli will have its own
+  dependencies. We support a variety of proving schemes, so each contract will
+  have these dependencies as well.
+social_trust: We currently do not have liquidity (testnet phase). Governance is
+  currently done through the company itself.
+technical_spof: The point of failure depends on the choices made by each
+  application running on Hyli. Proving scheme vulnerabilities would make
+  applications using them vulnerable at the app level. Consensus is
+  BFT-resistant.
+team:
+  anonymous: false
+  teammembers:
+    - name: Sylve Chevet
+      link: https://hyli-org.notion.site/media-hub?pvs=74
+    - name: Lancelot de Ferrière
+      link: https://hyli-org.notion.site/media-hub?pvs=74
+funding:
+  - name: Framework
+    link: https://www.theblock.co/post/294187/framework-ventures-leads-2-6-million-funding-round-for-zk-proof-verification-project-hyle
+  - name: Frst
+    link: https://www.theblock.co/post/294187/framework-ventures-leads-2-6-million-funding-round-for-zk-proof-verification-project-hyle
+  - name: Prelude (fka Cherry)
+    link: https://www.theblock.co/post/294187/framework-ventures-leads-2-6-million-funding-round-for-zk-proof-verification-project-hyle
+  - name: Fabric Ventures
+    link: https://www.theblock.co/post/294187/framework-ventures-leads-2-6-million-funding-round-for-zk-proof-verification-project-hyle
+  - name: Heartcore Capital
+    link: https://www.theblock.co/post/294187/framework-ventures-leads-2-6-million-funding-round-for-zk-proof-verification-project-hyle
+history:
+  - title: Seed round
+    description: First fundraise.
+    link: https://blog.hyli.org/hyle-raises-3-4m-to-build-the-future-of-zk-proof-verification/
+    time: 2024-05-12T22:00:00.000Z
+  - title: First live app
+    description: First live app on the Hyli devnet.
+    link: https://blog.hyli.org/introducing-vibe-check/
+    time: 2024-07-11T22:00:00.000Z
+  - title: Public testnet event
+    description: Public testnet with several demo apps, open for all to play.
+    link: https://blog.hyli.org/martian-testnet-retro/
+    time: 2025-06-15T22:00:00.000Z
+id: hyli
