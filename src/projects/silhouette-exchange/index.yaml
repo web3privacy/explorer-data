@@ -1,0 +1,85 @@
+name: Silhouette Exchange
+categories:
+  - infrastructure
+  - defi
+usecases:
+  - infrastructure
+ecosystem:
+  - other
+description: >
+  Silhouette is a trading platform built on Hyperliquid that protects personal
+  trade information, enabling the most sophisticated trading strategies to move
+  freely onchain. As the Shield exchange on Hyperliquid, Silhouette shields
+  users' order data from outsiders. End-to-end encryption via Silhouette's
+  platform enables users to confidently trade without fear of exposing their
+  activity.
+
+
+  Key features:
+
+
+  - Full Strategy Protection: Trade freely without signaling or revealing
+  intents
+   - Hyperliquid Integration: Trade using your existing Hyperliquid assets
+   - No UX Compromise: Deep liquidity, swift settlement
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://silhouette.exchange/
+  blog: https://mirror.xyz/0x5D2c2bD98F10616771D7B5124AD2090Ba72Aa43c
+  github: https://github.com/silhouette-exchange
+  forum: ""
+  docs: https://docs.silhouette.exchange/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/silhouette_ex
+  discord: ""
+  telegram: https://t.me/+G8s-CgieXWs4YjA8
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: TEE
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://silhouette.exchange/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding:
+  - name: RockawayX
+    link: https://silhouette.exchange/
+  - name: AMBER
+    link: https://silhouette.exchange/
+  - name: No Limit Holdinngs
+    link: https://silhouette.exchange/
+  - name: Protagonist
+    link: https://silhouette.exchange/
+  - name: NGC Ventures
+    link: https://silhouette.exchange/
+  - name: ECHO
+    link: https://silhouette.exchange/
+history: []
+id: silhouette-exchange
