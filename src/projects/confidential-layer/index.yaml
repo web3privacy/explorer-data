@@ -1,3 +1,4 @@
+id: confidential-layer
 name: Confidential Layer
 categories:
   - applications
@@ -6,20 +7,61 @@ usecases:
   - bridge
 ecosystem:
   - other
-description: The First bridge to privacy blockchains.
+  - multichain
+description: Confidential Layer is the first decentralized non-custodial bridge
+  that enables asset transfers between public and privacy blockchains.
 sunset: false
 links:
   web: https://confidentiallayer.com
   blog: ""
   github: ""
   forum: ""
-  docs: ""
+  docs: https://docs.confidentiallayer.com/
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: ""
-  discord: ""
+  twitter: https://x.com/ConfidentialLyr
+  discord: https://discord.com/invite/confidentiallayer
   telegram: ""
   lens: ""
   farcaster: ""
-id: confidential-layer
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/confidential-layer/logo.jpeg
+assets_used:
+  - other
+have_token: true
+tokens:
+  - symbol: $CLONE
+    name: Clone
+    contract_address: "0xe3fa12bBEA3d9d94Dc1C0C8CEa8a1246AF1cE463"
+    token_link: https://explorer.mainnet.bridgeless.com/token/0xe3fa12bBEA3d9d94Dc1C0C8CEa8a1246AF1cE463
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: TSS
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+history: []
