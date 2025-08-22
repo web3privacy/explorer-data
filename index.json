@@ -44082,6 +44082,85 @@
       ]
     },
     {
+      "id": "darklake",
+      "name": "Darklake",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Darklake is a privacy-first DEX using ZK proofs to prevent MEV before it starts.\n\nDarklake’s zkAMM encrypts trade size, direction, and slippage to ensure trader intent remains private. This prevents malicious actors from extracting value through front-running, sandwiching, or other forms of MEV.\n\nUnlike other systems that mitigate the negative effects of MEV through retroactive protection or L2 wrappers, Darklake builds native defense directly into its execution logic with built-in encryption at the protocol level.",
+      "product_launch_day": "2025-09-20T00:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://darklake.fi",
+        "blog": "https://blog.darklake.fi/",
+        "github": "",
+        "forum": "",
+        "docs": "https://docs.darklake.fi/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/darklakefi",
+        "discord": "",
+        "telegram": "t.me/darklakeficonvo",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "ZK, "
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/darklake/logo.png"
+        }
+      ]
+    },
+    {
       "id": "discreet",
       "name": "Discreet",
       "categories": [
