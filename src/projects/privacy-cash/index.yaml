@@ -1,0 +1,67 @@
+name: Privacy Cash
+categories:
+  - applications
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - solana
+description: Transfer SOL privately. Private SPL tokens transfer and private
+  swap will soon follow.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.privacycash.org/
+  blog: ""
+  github: https://github.com/Privacy-Cash/privacy-cash
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/theprivacycash
+  discord: ""
+  telegram: https://t.me/+ljXXVARxGeA3ZjE9
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits:
+  - name: hashcloak audit report
+    url: https://github.com/Privacy-Cash/privacy-cash/blob/main/audits/hashcloak_audit_report.pdf
+    time: 2025-08-09T00:00:00.000Z
+  - name: Accretion audit report
+    url: https://github.com/Privacy-Cash/privacy-cash/blob/main/audits/accretion_audit_report.pdf
+    time: 2025-08-18T00:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: privacy-cash
