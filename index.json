@@ -6917,6 +6917,103 @@
       ]
     },
     {
+      "id": "guaridos",
+      "name": "GuaridOS",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "operating-systems"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "GuaridOS is a privacy-first, blockchain-powered platform that gives users full control over their data, communications, and identity. With end-to-end encryption, decentralized storage, and Web3 integration, GuaridOS ensures security and privacy, enabling confident navigation of the digital world free from centralized control.",
+      "product_launch_day": "2025-10-07T17:00:00.000Z",
+      "nickname": "telegram @stacy_j1s",
+      "sunset": false,
+      "assets_used": [
+        "eth"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://guaridos.me/",
+        "blog": "",
+        "github": "https://github.com/GuaridOS-HQ",
+        "forum": "",
+        "docs": "https://docs.guaridos.me/",
+        "whitepaper": "https://docs.guaridos.me/",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/guaridosme",
+        "discord": "",
+        "telegram": "https://t.me/GuaridOS",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge (ZK)",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://docs.guaridos.me/conclusion/privacy-policy-of-guaridos",
+        "data_usage": "GuaridOS collects limited and anonymized usage data for the sole purpose of improving performance, security, and overall reliability of the platform. Collected metrics include system errors, latency, and aggregate feature usage patterns. We do not collect or analyze user content (such as emails, files, or messages). All sensitive information remains encrypted client-side and inaccessible to our monitoring systems. Usage data is handled responsibly, stored in aggregated form, and may be published in transparency or audit reports to ensure accountability to the community."
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "GuaridOS collects the bare minimum (email/wallet for identity, encrypted payloads for communication & storage) and does not resell or misuse any user data.",
+        "sign_in_type_requirments": [
+          "email",
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "GuaridOS has limited third-party dependencies. The core modules (Mail, Drive, Vault, VPN, Authenticator) run on Flux’s decentralized compute and storage network, reducing reliance on centralized providers. We do not depend on oracles like Chainlink, nor on Uniswap liquidity pools. External dependencies are limited to standard blockchain infrastructure (Ethereum/Solana RPC endpoints) and Flux nodes as our main backbone.",
+      "social_trust": "The project is governed through a multisig wallet controlled by core contributors, with a roadmap to progressively hand governance to a DAO. Treasury management and security decisions are not dependent on a single individual; instead, funds require multiple signers, reducing social trust risk.",
+      "technical_spof": "GuaridOS doesn’t rely on one central server, so if a single node goes down, the system keeps running thanks to Flux’s decentralized network. That said, there are still a few extreme cases that could cause bigger issues — like a major cryptography break, the multisig keys all getting compromised at once, or the Flux network itself going offline.\nOutside of those rare scenarios, most of the stack is built to stay resilient even if individual parts fail.",
+      "team": {
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "Stacy",
+            "link": "t.me/stacy_j1s"
+          },
+          {
+            "name": "Cary",
+            "link": "t.me/caryvalmont"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/guaridos/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "succint",
       "name": "Succint",
       "categories": [
