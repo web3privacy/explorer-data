@@ -1,3 +1,4 @@
+id: adamantfi
 name: AdamantFi
 categories:
   - defi
@@ -10,19 +11,23 @@ sunset: false
 assets_used:
   - scrt
   - atom
-have_token: false
+have_token: true
 tokens:
   - symbol: ADMT
     name: Adamant
     contract_address: ""
     token_link: https://www.mintscan.io/secret
+  - symbol: bADMT
+    name: Bonded ADMT
+    contract_address: secret1cu5gvrvu24hm36fzyq46vca7u25llrymj6ntek
+    token_link: https://zonescan.io/secret/accounts/secret1cu5gvrvu24hm36fzyq46vca7u25llrymj6ntek
 links:
   web: https://x.com/AdamantFi
   blog: https://x.com/AdamantFi/media
-  github: ""
+  github: https://github.com/AdamantFi
   forum: ""
-  docs: ""
-  whitepaper: ""
+  docs: https://adamantfi.gitbook.io/adamantfi/
+  whitepaper: https://vault.jackalprotocol.com/v/jkl16dyfc744j0lrhae0xpfjxl5cnx2hu80h564mew/01K10AB7ZDRFMHH4SP5035P76H?k=01K10AC2PS16S5Q46TGGGRW9HK
   block_explorer: https://www.mintscan.io/secret
   governance: ""
   twitter: https://x.com/AdamantFi
@@ -31,22 +36,24 @@ links:
   lens: ""
   farcaster: ""
 project_status:
-  live_status: false
+  live_status: true
   mainnet: false
   testnet: false
+  version: alpha
 blockchain_features:
   opensource: true
   upgradability:
     enabled: true
   asset_custody_type: non-custody
   encryption: Secret Network TEE
+  p2p: true
 storage:
   decentralized: true
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://app.adamantfi.com/privacy
   data_usage: Nothing
-compliance: ""
+compliance: None
 tracebility:
   kyc: false
   tracked_data: None
@@ -54,7 +61,7 @@ tracebility:
     - wallet
 default_privacy: true
 audits: []
-third_party_dependency: ""
+third_party_dependency: Secret Network
 social_trust: AdamantWare multisig
 technical_spof: SGX/TEE hack
 team:
@@ -62,6 +69,13 @@ team:
   teammembers:
     - name: Jiricepelka
       link: https://x.com/JiriCepelka
+    - name: Miguel Tavares
+      link: ""
 funding: []
 history: []
-id: adamantfi
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/adamantfi/logo.png
+nickname: jiricepelka
+project_phase: alpha
