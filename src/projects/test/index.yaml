@@ -1,0 +1,10 @@
+name: Test
+categories:
+  - hardware
+usecases:
+  - currency
+ecosystem:
+  - solana
+description: test
+sunset: false
+id: test
