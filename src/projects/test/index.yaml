@@ -1,0 +1,10 @@
+name: test
+categories:
+  - social-and-communications
+usecases:
+  - defi
+ecosystem:
+  - bitcoin
+description: test
+sunset: false
+id: test
