@@ -11584,6 +11584,89 @@
       ]
     },
     {
+      "id": "sentri-os",
+      "name": "Sentri OS",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "operating-systems"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "SentriOS gives Web3 users a privacy-first operating system— combining secure identity management, encrypted communication, and AI-native integration in one seamless interface. Stay protected from every threat, without switching contexts.",
+      "product_launch_day": "2025-10-04T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://sentri-os.com",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Sentri_OS",
+        "discord": "",
+        "telegram": "https://t.me/SentriOS",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sentri-os/logo.png"
+        }
+      ]
+    },
+    {
       "id": "ethbrno",
       "name": "ETHBrno",
       "description": "An annual independent & open community hackathon for supporters of decentralised finance, smart contracts and Web3 happening in Brno, Czech Republic. 13 projects",
