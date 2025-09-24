@@ -23,12 +23,12 @@ logos:
   - file: logo.jpeg
     ext: jpeg
     url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.jpeg
-  - file: logo.svg
-    ext: svg
-    url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.svg
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.png
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/fairmath/logo.svg
 usecases:
   - ai
   - defi
@@ -52,10 +52,12 @@ project_status:
 blockchain_features:
   opensource: true
   upgradability:
-    enabled: false
-  asset_custody_type: ""
+    enabled: true
+  asset_custody_type: custodial
   encryption: FHE
-storage: {}
+  p2p: true
+storage:
+  decentralized: true
 privacy_policy:
   defined: false
   link: ""
@@ -64,13 +66,16 @@ compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
-  sign_in_type_requirments: []
-default_privacy: false
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
 audits: []
 social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
   teammembers: []
-funding: []
+funding:
+  - name: https://www.crunchbase.com/organization/fair-math
+    link: ""
 history: []
