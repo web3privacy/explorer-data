@@ -1,3 +1,4 @@
+id: aztec
 name: Aztec
 categories:
   - infrastructure
@@ -16,7 +17,7 @@ description: A privacy-first L2 on Ethereum that has a hybrid privacy model - it
   zero-knowledge proofs that are generated locally on the user's machine to
   prove a legal transaction. Private state is encrypted and stored in a UTXO
   tree.
-sunset: false
+sunset: true
 assets_used: []
 have_token: false
 tokens: []
@@ -68,4 +69,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: aztec
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/aztec/logo.png
