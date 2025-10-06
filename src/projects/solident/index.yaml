@@ -1,0 +1,71 @@
+name: Solident
+categories:
+  - infrastructure
+  - hardware
+  - defi
+usecases:
+  - wallets
+  - defi
+  - infrastructure
+ecosystem:
+  - solana
+description: Biometric-first wallet on Solana. Secure, Seedless, and built for
+  the next generation of DeFi
+product_launch_day: 2025-11-05T17:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: false
+tokens: []
+links:
+  web: https://solident.xyz/
+  blog: ""
+  github: http://github.com/solidentxyz
+  forum: ""
+  docs: https://solident.gitbook.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/solidentxyz
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: SHA256, Zero-Knowledge (ZK)
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: None. Solident does not sell, share, or store user data all
+    biometric verification is processed locally on-device.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: "Solident only stores hashed and encrypted data, not your real
+    face or PIN.  On your device: session + wallet address (temporarily).  On
+    server: username, salted PIN hash, and salted face hash. No photos, no
+    private keys, no raw biometrics ever saved."
+  sign_in_type_requirments:
+    - email
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: solident
