@@ -29769,6 +29769,90 @@
       "sunset": false
     },
     {
+      "id": "openbands",
+      "name": "Openbands",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "description": "Openbands is an anonymous and verified employee forum. Users can sign in with their work email and prove their company affiliation while preserving their identiy.\n\nAfter signing up users can participate in anonymous conversations.\n\nWe are using Noir zkJWT library to prove a user is authorized to log into a company email. The user generated the proof client-side and submits it onchain, where it's verified and stored.\n\nOur aim to build a global community powered by truth and ran by professionals.\nIn a future version, we want companies to post job listings. The fees collected for posting a job will be distributed to active contributors.  ",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "www.openbands.xyz",
+        "blog": "",
+        "github": "https://github.com/JBANKS040/Openbands-Miniapp",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/OpenbandsXYZ",
+        "discord": "",
+        "telegram": "https://t.me/Openbands",
+        "lens": "",
+        "farcaster": "https://farcaster.xyz/openbands"
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "Noir, zkJWT"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "Domain of an email | E.g. john@openbands.xyz -> openbands.xyz",
+        "sign_in_type_requirments": [
+          "wallet",
+          "email"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Stratos Arampatzis",
+            "link": "https://x.com/0xStratos"
+          },
+          {
+            "name": "Masanori Uno",
+            "link": "https://x.com/masaun2551"
+          }
+        ]
+      },
+      "funding": [],
+      "history": []
+    },
+    {
       "id": "xmrchat",
       "name": "XMRChat",
       "categories": [
