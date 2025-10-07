@@ -29860,7 +29860,14 @@
         ]
       },
       "funding": [],
-      "history": []
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/openbands/logo.jpeg"
+        }
+      ]
     },
     {
       "id": "xmrchat",
