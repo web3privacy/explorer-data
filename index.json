@@ -36514,7 +36514,7 @@
         "link": "https://docs.blanksquare.io/other/privacy-policy-apps",
         "data_usage": ""
       },
-      "compliance": "",
+      "compliance": "Shielder Guard",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
@@ -36529,7 +36529,24 @@
       "history": [],
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Adam Gagol",
+            "link": "https://x.com/GagolAdam"
+          },
+          {
+            "name": "Jakub Kocikowski",
+            "link": "https://x.com/kocikowski"
+          },
+          {
+            "name": "Damian Straszak",
+            "link": "https://x.com/damian_straszak"
+          },
+          {
+            "name": "Dominika Kusak",
+            "link": "https://x.com/dominika_kusak"
+          }
+        ]
       },
       "logos": [
         {
