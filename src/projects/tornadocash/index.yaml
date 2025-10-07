@@ -9,6 +9,10 @@ team:
   teammembers:
     - name: Alexey Pertsev
       link: https://x.com/alex_pertsev?lang=cs
+    - name: Roman Storm
+      link: https://x.com/rstormsf
+    - name: Roman Semenov
+      link: https://x.com/semenov_roman_
 links:
   web: https://tornado.dev/
   blog: https://tornado-cash.medium.com/
