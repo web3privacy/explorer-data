@@ -20351,12 +20351,15 @@
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": false
+          "enabled": true
         },
-        "asset_custody_type": "",
-        "encryption": "FHE"
+        "asset_custody_type": "custodial",
+        "encryption": "FHE",
+        "p2p": true
       },
-      "storage": {},
+      "storage": {
+        "decentralized": true
+      },
       "privacy_policy": {
         "defined": false,
         "link": "",
@@ -20366,9 +20369,11 @@
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
       "social_trust": "",
       "technical_spof": "",
@@ -20376,7 +20381,12 @@
         "anonymous": false,
         "teammembers": []
       },
-      "funding": [],
+      "funding": [
+        {
+          "name": "https://www.crunchbase.com/organization/fair-math",
+          "link": ""
+        }
+      ],
       "history": []
     },
     {
