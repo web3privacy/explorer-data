@@ -1,3 +1,4 @@
+id: aztec
 name: Aztec
 categories:
   - infrastructure
@@ -68,4 +69,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: aztec
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/aztec/logo.png
