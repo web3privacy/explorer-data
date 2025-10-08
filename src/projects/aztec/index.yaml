@@ -17,7 +17,7 @@ description: A privacy-first L2 on Ethereum that has a hybrid privacy model - it
   zero-knowledge proofs that are generated locally on the user's machine to
   prove a legal transaction. Private state is encrypted and stored in a UTXO
   tree.
-sunset: true
+sunset: false
 assets_used: []
 have_token: false
 tokens: []
