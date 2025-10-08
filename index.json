@@ -14890,34 +14890,32 @@
       "id": "renegade",
       "name": "Renegade",
       "categories": [
-        "applications",
-        "infrastructure",
-        "defi"
+        "defi",
+        "applications"
       ],
       "usecases": [
         "defi",
-        "infrastructure",
-        "mpc",
-        "other"
+        "mpc"
       ],
       "ecosystem": [
-        "other"
+        "ethereum",
+        "multichain"
       ],
-      "description": "On-chain Dark Pool on Arbitrum",
-      "product_launch_day": "2024-10-03T00:00:00.000Z",
+      "description": "Onchain dark pool, live on Arbitrum and Base.",
+      "product_launch_day": "2024-10-03T07:00:00.000Z",
       "sunset": false,
       "assets_used": [
-        "other"
+        "eth"
       ],
       "have_token": false,
       "tokens": [],
       "links": {
-        "web": "https://renegade.fi/",
+        "web": "https://renegade.fi",
         "blog": "https://renegadefi.substack.com",
         "github": "https://github.com/renegade-fi",
         "forum": "",
-        "docs": "https://docs.renegade.fi/",
-        "whitepaper": "https://whitepaper.renegade.fi/",
+        "docs": "https://docs.renegade.fi",
+        "whitepaper": "https://whitepaper.renegade.fi",
         "block_explorer": "",
         "governance": "",
         "twitter": "https://twitter.com/renegade_fi",
@@ -14936,11 +14934,11 @@
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": false
+          "enabled": true
         },
         "asset_custody_type": "non-custody",
         "encryption": "zk-proofs, MPC",
-        "p2p": false
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
@@ -14948,7 +14946,7 @@
         "link": "https://docs.renegade.fi/core-concepts/privacy",
         "data_usage": ""
       },
-      "compliance": "",
+      "compliance": "Chainalysis KYT",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
@@ -14991,7 +14989,14 @@
           "link": "https://renegade.fi/"
         }
       ],
-      "history": [],
+      "history": [
+        {
+          "title": "Mainnet Launch",
+          "description": "Renegade launched their first deployment onto Arbitrum.",
+          "link": "https://x.com/renegade_fi/status/1831384473524703311",
+          "time": "2024-09-04T07:00:00.000Z"
+        }
+      ],
       "logos": [
         {
           "file": "logo.png",
