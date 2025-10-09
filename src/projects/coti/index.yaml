@@ -59,7 +59,7 @@ ecosystem:
   - solana
   - cosmos
   - multichain
-product_launch_day: 2024-01-13T05:00:00.000Z
+product_launch_day: 2024-03-05T23:00:00.000Z
 sunset: false
 assets_used: []
 project_phase: testnet
