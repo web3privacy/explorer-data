@@ -16,6 +16,8 @@ team:
     - name: Shaf Bar-Geffen
       role: CEO
       link: https://x.com/shahafbg
+    - name: Soeren Jensen
+      link: ""
 links:
   web: https://coti.io/
   blog: https://coti.io/blog
@@ -59,7 +61,6 @@ ecosystem:
   - solana
   - cosmos
   - multichain
-product_launch_day: 2024-01-13T05:00:00.000Z
 sunset: false
 assets_used: []
 project_phase: testnet
