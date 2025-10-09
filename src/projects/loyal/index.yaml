@@ -1,0 +1,59 @@
+name: Loyal
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - solana
+description: A Privacy-Preserving Decentralized Intelligence Network
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://askloyal.com/
+  blog: ""
+  github: https://github.com/loyal-labs
+  forum: ""
+  docs: https://docs.askloyal.com/
+  whitepaper: https://ugc.production.linktr.ee/563cf89a-c982-49ff-a5db-9cb719906d75_Loyal-lightpaper.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/loyal_hq
+  discord: ""
+  telegram: https://t.me/loyal_tgchat
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: TEE
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Chris Cherniakov
+      link: https://xl.com/candyflipline
+funding: []
+history: []
+id: loyal
