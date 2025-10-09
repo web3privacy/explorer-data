@@ -3,29 +3,41 @@ name: Encifher
 categories:
   - defi
 usecases:
-  - bridge
   - defi
   - fhe
+  - mpc
 ecosystem:
-  - bitcoin
-description: World's most trusted privacy-based solution for DeFi on Bitcoin
-  using verifiable FHE.
+  - solana
+description: >-
+  Encifher is a privacy engine for DeFi apps. It's like a plug-and-play modular
+  middleware that empowers DeFi apps with seamless, compliant privacy.
+
+
+  One way is integrating directly with existing dApps and their liquidity,
+  Encifher ensures users don’t need to change ecosystems, download additional
+  wallets, or compromise on functionality. Another way is new dApps can
+  integrate in their smart contracts with private states.
+
+
+  In the core, Encifher uses these off-chain Privacy Enhancing Technology
+  Co-processors, which allow the state to be represented in the smart contract
+  as encrypted.
 sunset: false
 assets_used: []
 have_token: false
 tokens: []
 links:
-  web: https://encifher.io/
-  blog: https://encifher.io/blog
+  web: https://encrypt.trade
+  blog: ""
   github: https://github.com/RizeLabs
   forum: ""
-  docs: https://docs.encifher.io/docs/intro
+  docs: https://docs.encifher.io/
   whitepaper: ""
   block_explorer: ""
   governance: ""
   twitter: https://x.com/encifherio
   discord: ""
-  telegram: https://t.me/encifher
+  telegram: https://t.me/+ZWHGMW4ZHXQwYTZl
   lens: ""
   farcaster: ""
 project_phase: testnet
@@ -39,7 +51,7 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: ""
+  encryption: FHE, MPC, ZKP
 storage: {}
 privacy_policy:
   defined: false
@@ -59,7 +71,9 @@ technical_spof: ""
 team:
   anonymous: false
   teammembers: []
-funding: []
+funding:
+  - name: AllianceDAO
+    link: https://x.com/encifherio/status/1962498828575399973
 history: []
 logos:
   - file: logo.png
