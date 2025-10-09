@@ -13556,6 +13556,103 @@
       "sunset": false
     },
     {
+      "id": "onflow",
+      "name": "Onflow",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "kyc-solution"
+      ],
+      "ecosystem": [
+        "other",
+        "multichain"
+      ],
+      "description": "Onflow is the first secure identity compliance protocol designed for both onchain and offchain use, balancing privacy and accessibility. With cutting-edge zero-knowledge technology, we empower users and protocols to meet legal requirements effortlessly while preserving autonomy and security.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://onflow.xyz/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/onflowxyz",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "ZKP"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://onflow.xyz/terms",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [
+        {
+          "name": "Figment Capital",
+          "link": "https://onflow.xyz/"
+        },
+        {
+          "name": "Circle Ventures",
+          "link": "https://onflow.xyz/"
+        },
+        {
+          "name": "Coinbase Ventures",
+          "link": "https://onflow.xyz/"
+        },
+        {
+          "name": "Avalanche",
+          "link": "https://onflow.xyz/"
+        },
+        {
+          "name": "Daedalus",
+          "link": "https://onflow.xyz/"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/onflow/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "tuumio",
       "name": "TuumIO",
       "categories": [
