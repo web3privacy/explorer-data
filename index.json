@@ -1818,7 +1818,7 @@
         "ethereum",
         "multichain"
       ],
-      "description": "Hinkal is building infrastructure for invisible transactions that consists of: \n1) Invisible wallet  — enables any on-chain activity without exposing wallet data and the history of transactions. \n\n2) dApp - a proxy for any wallet, enabling invisible transactions without changing wallets.\n\n3) SDK for private payments. Integrated with Request Network and other solutions. \n\nHinkal has become the leader in the category with >$250m in transactions in 2024. \n\nIncubated at Stanford and Binance MVB, Hinkal has raised $5.7M from Draper Associates, Stanford, SALT, Re7, and SNZ. In 2024, it became the largest privacy infrastructure, achieving $250M in transaction volume.",
+      "description": "Hinkal is building infrastructure for invisible transactions that consists of: \n1) Invisible wallet  — enables any on-chain activity without exposing wallet data and the history of transactions. \n\n2) dApp - a proxy for any wallet, enabling invisible transactions without changing wallets.\n\n3) SDK for private payments\n\nIncubated at Stanford and Binance MVB, Hinkal has raised $6m from Draper Associates, Stanford, SALT, Re7, and SNZ. In 2024, it became the largest privacy infrastructure, achieving $250M in transaction volume.",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -1830,10 +1830,10 @@
       "links": {
         "web": "https://hinkal.pro",
         "blog": "https://x.com/hinkal_protocol/articles",
-        "github": "",
+        "github": "https://github.com/Hinkal-Protocol",
         "forum": "",
-        "docs": "",
-        "whitepaper": "https://hinkal-team.gitbook.io/hinkal",
+        "docs": "https://hinkal-team.gitbook.io/hinkal/technical-description/setup",
+        "whitepaper": "https://hinkal-team.gitbook.io/hinkal/",
         "block_explorer": "",
         "governance": "",
         "twitter": "https://x.com/hinkal_protocol",
@@ -1850,26 +1850,26 @@
         "version": "mainnet"
       },
       "blockchain_features": {
-        "opensource": false,
+        "opensource": true,
         "upgradability": {
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "ZK"
+        "encryption": "ZK, Stealth Addresses",
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
         "defined": true,
         "link": "https://hinkal.pro/privacy-policy",
-        "data_usage": "Website usage"
+        "data_usage": "Nothing"
       },
       "compliance": "OFAC",
       "tracebility": {
-        "kyc": true,
-        "tracked_data": "Location, web analytics",
+        "kyc": false,
+        "tracked_data": "Nothing",
         "sign_in_type_requirments": [
-          "wallet",
-          "seed"
+          "wallet"
         ]
       },
       "default_privacy": true,
@@ -1893,10 +1893,15 @@
           "name": "Secure3",
           "url": "https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Hinkal",
           "time": "2023-02-15T08:00:00.000Z"
+        },
+        {
+          "name": "Hexens ",
+          "url": "https://drive.google.com/file/d/1A0kGmlg04X88-_c4uU0F5WvaMGTDUT3s/view",
+          "time": "2025-03-31T20:00:00.000Z"
         }
       ],
       "social_trust": "",
-      "technical_spof": "",
+      "technical_spof": "Hack of core smart contract",
       "team": {
         "anonymous": false,
         "teammembers": [
