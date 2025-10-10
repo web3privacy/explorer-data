@@ -25,7 +25,7 @@ links:
   forum: ""
   docs: https://docs.coti.io/coti-v2-documentation
   whitepaper: https://coti.io/files/coti_v2_whitepaper.pdf
-  block_explorer: https://testnet.cotiscan.io
+  block_explorer: https://mainnet.cotiscan.io/
   governance: ""
   twitter: https://x.com/COTInetwork
   discord: https://discord.com/invite/wfAQfbc3Df
@@ -34,9 +34,9 @@ links:
   farcaster: ""
 project_status:
   live_status: true
-  mainnet: false
-  testnet: true
-  version: testnet
+  mainnet: true
+  testnet: false
+  version: mainnet
 have_token: true
 token_link: https://etherscan.io/token/0xddb3422497e61e13543bea06989c0789117555c5
 tokens:
@@ -64,7 +64,7 @@ ecosystem:
 product_launch_day: 2024-03-05T23:00:00.000Z
 sunset: false
 assets_used: []
-project_phase: testnet
+project_phase: mainnet
 blockchain_features:
   opensource: false
   upgradability:
