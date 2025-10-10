@@ -32819,6 +32819,85 @@
       ]
     },
     {
+      "id": "zklsol",
+      "name": "ZKLSOL",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": " Leveraged Privacy\n\nStay private while generating yield ",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://zklsol.org",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://docs.zklsol.org/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/ZKLSOL",
+        "discord": "",
+        "telegram": "http://tg.zklsol.org/",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zklsol/logo.png"
+        }
+      ]
+    },
+    {
       "id": "media-network",
       "name": "Media Network",
       "categories": [
