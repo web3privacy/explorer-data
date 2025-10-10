@@ -1,8 +1,11 @@
+id: flock
 name: Flock
 categories:
   - applications
 usecases:
   - dapps
+  - research-and-development
+  - ai
 ecosystem:
   - other
   - ethereum
@@ -34,4 +37,10 @@ blockchain_features:
   encryption: ""
 storage: {}
 history: []
-id: flock
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/flock/logo.png
+assets_used: []
+have_token: false
+tokens: []
