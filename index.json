@@ -23089,7 +23089,9 @@
         "applications"
       ],
       "usecases": [
-        "dapps"
+        "dapps",
+        "research-and-development",
+        "ai"
       ],
       "ecosystem": [
         "other",
@@ -23133,7 +23135,10 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/flock/logo.png"
         }
-      ]
+      ],
+      "assets_used": [],
+      "have_token": false,
+      "tokens": []
     },
     {
       "id": "aqua-wallet",
