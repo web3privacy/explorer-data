@@ -13,11 +13,8 @@ team:
     - name: Joshua Maddox
       role: CEPO
       link: https://x.com/JoshuaBMaddox
-    - name: Shaf Bar-Geffen
-      role: CEO
-      link: https://x.com/shahafbg
-    - name: Soeren Jensen
-      link: ""
+    - name: "Shahaf Bar-Geffen "
+      link: https://x.com/shahafbg?t=iEt_nV3jfZU6ZlmwowcHeA&s=09
 links:
   web: https://coti.io/
   blog: https://coti.io/blog
@@ -61,7 +58,7 @@ ecosystem:
   - solana
   - cosmos
   - multichain
-product_launch_day: 2024-03-05T23:00:00.000Z
+product_launch_day: 2024-03-02T23:00:00.000Z
 sunset: false
 assets_used: []
 project_phase: mainnet
