@@ -61,7 +61,7 @@ ecosystem:
   - solana
   - cosmos
   - multichain
-product_launch_day: 2024-03-05T23:00:00.000Z
+product_launch_day: 2024-03-02T22:00:00.000Z
 sunset: false
 assets_used: []
 project_phase: mainnet
@@ -83,7 +83,11 @@ tracebility:
   sign_in_type_requirments:
     - wallet
 default_privacy: false
-audits: []
+audits:
+  - name: gcEVM-Based Blockchain Protocol Review and Security Analysis Report for
+      COTI and Soda Labs by Hacken
+    url: https://hacken.io/audits/coti/l1-coti-mpc-jan2025/
+    time: 2025-04-01T21:00:00.000Z
 social_trust: ""
 technical_spof: ""
 funding: []
