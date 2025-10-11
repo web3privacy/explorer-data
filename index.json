@@ -29939,8 +29939,8 @@
         "multichain"
       ],
       "description": "Common makes web3 privacy easy and well-integrated with the existing DeFi ecosystem.\n\nIt comes as a Web App that allows you to shield with your current wallets and as a Mobile App for the full, easy privacy experience in DeFi.\n\nKey features:\n– Available on multiple chains (initially Aleph Zero EVM & Arbitrum)\n– Client-side ZK with subsecond proving times–it's one of the fastest in the space\n– Shielded yield – earn yield from protocols like Aave or Curve while staying private\n– Smart yield – advanced auto balancing strategies for Shielded yield\n– Private connections with existing DeFi apps through automatic temp accounts\n\nBuilt by the team behind Aleph Zero.",
-      "product_launch_day": "2025-05-04T22:00:00.000Z",
-      "sunset": false,
+      "product_launch_day": "2025-04-30T22:00:00.000Z",
+      "sunset": true,
       "assets_used": [
         "usdt",
         "eth",
