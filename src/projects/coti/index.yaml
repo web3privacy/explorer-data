@@ -88,7 +88,7 @@ audits:
       and Soda Labs by Hacken
     url: https://hacken.io/audits/coti/l1-coti-mpc-jan2025/
     time: 2025-04-01T21:00:00.000Z
-  - name: "\tgcEVM-Based Blockchain Protocol Review and Security Analysis Report for
+  - name: "gcEVM-Based Blockchain Protocol Review and Security Analysis Report for
       COTI and Soda Labs by Hacken"
     url: https://hacken.io/audits/coti/l1-coti-goethereum-feb2025/
     time: 2025-08-11T21:00:00.000Z
