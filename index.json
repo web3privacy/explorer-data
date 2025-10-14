@@ -2049,6 +2049,80 @@
       ]
     },
     {
+      "id": "solchat",
+      "name": "SolChat",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Seamless Communication on the Solana Blockchain",
+      "product_launch_day": "2024-03-01T23:00:00.000Z",
+      "sunset": false,
+      "links": {
+        "web": "https://www.solchat.io/",
+        "blog": "",
+        "github": "https://github.com/solchat-dev/solchat",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/SolChatCoin",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/solchat/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "darklake",
       "name": "Darklake",
       "categories": [
