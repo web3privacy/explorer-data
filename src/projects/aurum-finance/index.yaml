@@ -1,0 +1,26 @@
+name: Aurum Finance
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - solana
+description: Self-repaying loans on Solana – your assets work to eliminate your
+  debt automatically.
+product_launch_day: 2025-04-15T22:00:00.000Z
+sunset: false
+links:
+  web: https://www.aurumfi.xyz/
+  blog: ""
+  github: https://github.com/Aurum-Finance/
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Aurum_Fi
+  discord: ""
+  telegram: https://t.me/+IfXkNEQpsbVkYTZk
+  lens: ""
+  farcaster: ""
+id: aurum-finance
