@@ -20303,6 +20303,48 @@
       "sunset": false
     },
     {
+      "id": "stealf",
+      "name": "Stealf",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "wallets",
+        "defi"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "The first neo bank on Solana that offers the possibility to make 100% anonymous transactions",
+      "product_launch_day": "2025-11-05T23:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.stealf.xyz/",
+        "blog": "",
+        "github": "https://github.com/Stealf?tab=repositories",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/stealf_finance",
+        "discord": "",
+        "telegram": "https://t.me/+1KiIlJTX5WIzMmM0",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/stealf/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "presearch",
       "name": "Presearch",
       "categories": [
