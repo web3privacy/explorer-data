@@ -1,0 +1,28 @@
+name: Tornado Cash
+categories:
+  - defi
+  - infrastructure
+usecases:
+  - mixing-management
+ecosystem:
+  - ethereum
+description: A fully decentralized protocol for private transactions on Ethereum
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://tornadocash-eth.ipns.dweb.link/
+  blog: ""
+  github: https://github.com/tornadocash/tornado-cli
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/TornadoCash
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: tornado-cash
