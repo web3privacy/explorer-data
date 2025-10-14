@@ -42689,6 +42689,44 @@
       "sunset": false
     },
     {
+      "id": "gone.wtf",
+      "name": "Gone.wtf",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Incognito mode for Solana",
+      "sunset": false,
+      "links": {
+        "web": "https://gone.wtf/",
+        "blog": "",
+        "github": "https://github.com/phantomdelux3/gone.wtf",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/GonedotWTF",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/gone.wtf/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "speak-app",
       "name": "Speak app",
       "categories": [
