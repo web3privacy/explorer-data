@@ -14006,6 +14006,44 @@
       ]
     },
     {
+      "id": "tornado-swap",
+      "name": "Tornado Swap",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "other"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "The stealth swap layer for Solana.\nDelivering on-chain privacy through routing-based obfuscation instead of mixers.",
+      "product_launch_day": "2025-10-07T22:00:00.000Z",
+      "sunset": false,
+      "links": {
+        "web": "tornadoswap.xyz",
+        "blog": "",
+        "github": "https://github.com/tornadoswap",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/TornadoSwap_AI",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/tornado-swap/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "starshell",
       "name": "Starshell",
       "categories": [
