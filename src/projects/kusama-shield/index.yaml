@@ -1,0 +1,93 @@
+name: Kusama Shield
+categories:
+  - defi
+  - applications
+usecases:
+  - dapps
+  - rpc-provider
+  - mixing-management
+  - mixing-service
+  - research-and-development
+ecosystem:
+  - ethereum
+  - solana
+  - bitcoin
+  - cosmos
+  - monero
+  - multichain
+description: Kusama shield is a shielded asset pool born from the Kusama DAO.
+  Bridge your asset to Kusama and shield it now
+product_launch_day: 2025-09-08T17:00:00.000Z
+nickname: Flipchan
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdt
+  - atom
+  - dot
+  - sol
+  - zcash
+  - other
+have_token: false
+tokens: []
+links:
+  web: Https://shield.markets
+  blog: ""
+  github: Codeberg.org/kusamashield
+  forum: ""
+  docs: https://kusamashield.codeberg.page/intro.html
+  whitepaper: ""
+  block_explorer: ""
+  governance: https://kusama.polkassembly.io/
+  twitter: X.com/KusamaShield
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Circom, leanIMT, Poseidon, polkavm, solidity, riscv
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://kusamashield.codeberg.page/tos.html
+  data_usage: "No data hoarding "
+compliance: Kusama Shield does not censor user
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: "leanIMT, open Zeppelin, Poseidon "
+social_trust: "Kusama shield is Governed by a 2/3 multi Sig proxy wallet created
+  on behalf of all token holders, all funding and major discussions needs to
+  pass throw Kusama's opengov "
+technical_spof: We are decentralized the only single point of failure is the UI
+  but with ipfs it's not a problem for us, client side ZK proof generation,
+  on-chain ZK and asset pool, no middleman
+team:
+  anonymous: false
+  teammembers:
+    - name: Kusama Dao
+      link: ""
+    - name: Kusama Shield Curators
+      link: X.com/KusamaShield
+funding:
+  - name: Kusama Dao
+    link: https://kusama.polkassembly.io/referenda/509
+history: []
+id: kusama-shield
