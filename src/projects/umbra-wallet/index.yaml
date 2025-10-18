@@ -14,7 +14,7 @@ description: |-
   With privacy as a cornerstone of financial freedom and secure innovation, Umbra aims to provide a foundation for applications and users to transact with confidence.
 product_launch_day: "2025-05-01"
 sunset: false
-assets_used: [SOL, SPL]
+assets_used: [SOL]
 have_token: false
 tokens: []
 links:
