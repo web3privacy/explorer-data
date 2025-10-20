@@ -1,3 +1,4 @@
+id: nihilium
 name: Nihilium
 categories:
   - infrastructure
@@ -29,7 +30,9 @@ description: >
 
   To read the full context description on why key recovery is so essential:
   https://nihilium.substack.com/p/why-crypto-apps-keep-failing-users
-product_launch_day: 2021-02-20T23:00:00.000Z
+
+
+  Will be open sourced in the near future.
 sunset: false
 assets_used: []
 have_token: false
@@ -59,18 +62,20 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: ""
+  encryption: Zero-knowledge, Homomorphic encryption, Two party computation
   p2p: true
-storage: {}
+storage:
+  decentralized: true
 privacy_policy:
   defined: false
   link: ""
-  data_usage: ""
-compliance: ""
+  data_usage: DDOS protection
+compliance: No leaked data
 tracebility:
   kyc: false
   tracked_data: None
-  sign_in_type_requirments: []
+  sign_in_type_requirments:
+    - email
 default_privacy: true
 audits: []
 third_party_dependency: ""
@@ -78,7 +83,14 @@ social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: []
-funding: []
+  teammembers:
+    - name: Olaf
+      link: https://x.com/ovanwijk
+funding:
+  - name: Unfunded
+    link: ""
 history: []
-id: nihilium
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nihilium/logo.png
