@@ -1,42 +1,96 @@
-name: Umbra wallet
+name: Umbra Privacy
 categories:
   - applications
+  - defi
 usecases:
   - wallets
+  - defi
+  - mixing service
+  - multi-party computation
 ecosystem:
   - solana
 description: |-
-  Building transactional privacy on Solana.
-  Powered by @ArciumHQ
-  Solana Privacy wallet
+  Umbra is a privacy protocol designed to bring confidentiality, composability, and compliance-ready infrastructure to the Solana ecosystem. 
+  With privacy as a cornerstone of financial freedom and secure innovation, Umbra aims to provide a foundation for applications and users to transact with confidence.
+product_launch_day: "2025-05-01"
 sunset: false
-assets_used: []
+assets_used: [SOL]
 have_token: false
 tokens: []
 links:
   web: https://www.umbraprivacy.com/
   blog: ""
-  github: ""
-  forum: ""
-  docs: ""
+  github: https://github.com/umbra-defi/
+  forum: https://discord.gg/UmbraPrivacy
+  docs: https://docs.umbraprivacy.com/docs/introduction
   whitepaper: ""
   block_explorer: ""
-  governance: ""
+  governance: https://metadao.fi/projects/umbra
   twitter: https://x.com/UmbraPrivacy
-  discord: ""
-  telegram: https://t.me/+jXfD2lUW76Y2ZDhl
+  discord: https://discord.gg/UmbraPrivacy
+  telegram: https://t.me/umbracommunity
   lens: ""
   farcaster: ""
 project_status:
-  live_status: false
+  live_status: true
   mainnet: false
-  testnet: false
+  testnet: true
+technology:
+  type: "ZK-SNARKs, Multi-Party Computation (MPC), Pseudorandom Functions (PRFs)"
+  features:
+    [
+      "Private wallet",
+      "ZK Defi",
+      "Private bridge",
+      "Stealth addresses",
+      "Confidential transfers",
+      "Viewing keys",
+    ]
 blockchain_features:
   opensource: false
   upgradability:
     enabled: false
-  asset_custody_type: ""
-  encryption: ""
-storage: {}
+  asset_custody_type: non-custody
+  encryption: "Groth16, ECDH, Modern cryptography"
+  data_masking: "Stealth Addresses, ZK-SNARKs"
+  viewing_key: true
+  dissapearing_tx: false
+  connected_tx: false
+privacy:
+  default_privacy: true
+  compliance: "Range.org powered wallet screening that includes lists like OFAC, Hacker_wallet_list, etc; Viewing Keys, DAO-governed MPC-powered selective account decryption"
+  traceability_kyc: false
+  traceability_sign_in_type_requirements: "Wallet"
+storage:
+  decentralized: false
+security:
+  social_trust: "metaDAO Futarchy Governance"
+funding:
+  - name: "metaDAO ICO"
+    type: "ICO"
+    link: "https://metadao.fi/projects/umbra/fundraise"
+    value: "$3,000,000"
+    time: "2025"
+team:
+  anonymous: false
+  teammembers:
+    - name: "Krutarth Shah"
+      role: "Co-Founder & CEO"
+      link: "https://x.com/kru_tweets"
+    - name: "Calisto Mathias"
+      role: "Co-Founder & CTO"
+      link: "https://x.com/typi_cal_"
+    - name: "Pranay Bagde"
+      role: "Co-Founder & CPO"
+      link: "https://x.com/pranay_design"
+    - name: "Asim Shaikh"
+      role: "Founding Engineer"
+      link: "https://x.com/asimshaik_10"
+    - name: "Piyush Panpaliya"
+      role: "Founding Engineer"
+      link: "https://x.com/piyush_json"
+    - name: "Pata"
+      role: "Marketing, Community & BD"
+      link: "https://x.com/0xPata"
 history: []
-id: umbra-wallet
+id: umbra-privacy
