@@ -1793,6 +1793,103 @@
       "storage": {}
     },
     {
+      "id": "zkencrypt-ai",
+      "name": "ZKEncrypt AI",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "fhe"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "ZKEncrypt AI leverages Fully Homomorphic Encryption (FHE) for computations on encrypted data (Eval(f, Enc(m)) → Enc(f(m)) under Ring-Learning With Errors (RLWE) assumptions), integrated with Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (ZK-SNARKs) for verifiable privacy. Built natively on the Solana blockchain using Rust-based smart contracts and the Anchor framework, with AI-driven optimizations via libraries like Microsoft SEAL for noise management and ciphertext packing.\n\nSpecial Features:\n\nHybrid FHE-ZK Protocols: Seamless combination enabling encrypted on-chain computations with zero-knowledge attestations, reducing latency by up to 10x in high-throughput scenarios.\n\nAI-Optimized Scalability: Machine learning models dynamically adjust encryption parameters for Solana's parallel processing, supporting applications like confidential DeFi transactions or shielded NFT transfers.\n\nEnd-to-End Blockchain Privacy: Nodes process encrypted queries (e.g., private ML inferences) without decryption, ensuring tamper-proof integrity via Solana's consensus.\n\nOpen-Source Compatibility: Modular design for easy integration with existing dApps, with prototypes demonstrating efficient handling of transaction-heavy workloads.\n\nWhy Users Should Adopt ZKEncrypt AI:\n\nIn a landscape of escalating data breaches and regulatory scrutiny (e.g., GDPR, MiCA), ZKEncrypt AI empowers developers and users to build trust-minimized applications on Solana, where privacy is not an afterthought but a core primitive. By enabling fully encrypted web interactions on blockchain, it mitigates intermediary risks, unlocks novel use cases like anonymous voting or secure supply-chain verification, and positions Solana as a leader in privacy-preserving DeFi. Early adopters gain a competitive edge in scalable, confidential computing without compromising performance.",
+      "product_launch_day": "2025-11-22T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "symbol": "ZKE",
+          "name": "ZKEncrypt AI",
+          "contract_address": "",
+          "token_link": ""
+        }
+      ],
+      "links": {
+        "web": "https://zk-labs.network",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://zk-labs.network/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Zkencrypt_AI",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "ZKEncrypt AI employs advanced encryption paradigms, primarily Fully Homomorphic Encryption (FHE) for enabling computations on encrypted data without decryption (e.g., Eval(f, Enc(m)) → Enc(f(m)) under RLWE assumptions). This is augmented by Zero-Knowledge (ZK) proofs for verifiable privacy and AI-optimized noise management, all deployed natively on the Solana blockchain for scalable, decentralized applications in a fully encrypted web ecosystem."
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Arthur",
+            "link": ""
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zkencrypt-ai/logo.png"
+        }
+      ]
+    },
+    {
       "id": "hinkal",
       "name": "Hinkal",
       "categories": [
