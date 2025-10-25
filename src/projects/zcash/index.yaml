@@ -1,113 +1,27 @@
-id: zcash
 name: Zcash
 categories:
-  - defi
-description: A simple, secure digital currency that protects your privacy. For
-  everyday purchases, sending money to a friend, and your favorite crypto
-  applications, too.
-project_type: transaction
-technology:
-  type: halo2 zk-SNARK
-  features:
-    - private
-    - trustless proof system
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Zcash - Internet Money
+team:
+  anonymous: true
 links:
-  web: https://z.cash/
-  blog: https://electriccoin.co/blog
-  github: https://github.com/zcash/zcash/
-  forum: https://forum.zcashcommunity.com/
-  docs: https://zcash.readthedocs.io/en/latest/
-  whitepaper: https://zips.z.cash/protocol/protocol.pdf/
-  block_explorer: https://zcashblockexplorer.com/
-  governance: ""
-  twitter: https://twitter.com/zcash
-  discord: https://discord.gg/zcash
-  telegram: https://t.me/zcash_community
-  lens: ""
-  farcaster: ""
+  web: https://zcash.org
+  github: https://github.com/zcash/zcash
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/README.md
+project_status:
+  version: Mainnet
+sunset: false
 blockchain_features:
   opensource: true
-  upgradability:
-    enabled: true
   asset_custody_type: non-custody
-  encryption: zksnark
-  p2p: true
-licences: MIT software license
-privacy_policy:
-  defined: false
-  link: ""
-  data_usage: ""
-storage:
-  decentralized: false
-third_party_dependency: none
-audits:
-  - name: NCC Group NU5 Review
-    link: https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/
-    time: 2021-11-01T23:00:00.000Z
-  - name: NCC Group Zcash FROST Security Assesment
-    link: https://research.nccgroup.com/2023/10/23/public-report-zcash-frost-security-assessment/
-    time: 2023-10-22T22:00:00.000Z
-  - name: Sapling Implementation Audit
-    link: https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf
-    time: 2019-01-29T23:00:00.000Z
-history:
-  - title: Mainet
-    event_type: launch
-    description: Genesis block
-    time: 2016-10-27T22:00:00.000Z
-    link: https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/
-client_diversability:
-  - name: Zebra
-    link: https://zfnd.org/zebra/
-  - name: zcashd
-    link: https://github.com/Zcash/zcash
 default_privacy: false
-funding:
-  - name: DCG
-    type: Investments
-    link: https://zfnd.org/zebra/
-    value: ""
-    time: 2024-09-15T00:00:00.000Z
-project_status:
-  live_status: true
-  mainnet: true
-  testnet: false
-  version: mainnet
-usecases:
-  - currency
-  - messaging
-have_token: false
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/zcash/logo.png
-ecosystem:
-  - other
-product_launch_day: 2016-11-27T22:00:00.000Z
-sunset: false
-assets_used:
-  - zcash
-tokens:
-  - symbol: ZEC
-    name: ZEC
-    contract_address: ""
-    token_link: https://mainnet.zcashexplorer.app/
-project_phase: mainnet
-compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
-  sign_in_type_requirments:
-    - seed
-    - wallet
-social_trust: ""
-technical_spof: ""
-team:
-  anonymous: false
-  teammembers:
-    - name: Str4d
-      link: https://x.com/str4d
-    - name: Kris Nuttycombe
-      link: https://x.com/nuttycom
-    - name: Daira-Emma Hopwood
-      link: https://x.com/feministPLT
+licences: Other

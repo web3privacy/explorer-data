@@ -1,0 +1,25 @@
+name: Incognito
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Privacy technology project focused on Web3 security and anonymity.
+team:
+  anonymous: true
+links:
+  web: https://incognito.com
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/reports/SECURITY.md
+  technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/reports/technical_analysis.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/README.md
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false

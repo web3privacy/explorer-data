@@ -1,0 +1,66 @@
+{
+  "id": "zano",
+  "name": "zano",
+  "slug": "zano",
+  "description": "",
+  "website": {
+    "primary_url": "https://zano.org",
+    "blog_url": "https://blog.zano.org/",
+    "explorer_url": "https://explorer.zano.org/",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "url": "https://zano.org",
+        "method": "direct HTTP curl",
+        "status_code": 200,
+        "verification": "HTTPS verified, Cloudflare-secured"
+      }
+    ]
+  },
+  "github": "",
+  "documentation": "",
+  "category": "other",
+  "subcategories": [],
+  "tech_stack": [],
+  "privacy_techniques": [],
+  "blockchain_platforms": [],
+  "status": "unknown",
+  "maturity_level": "unknown",
+  "last_update": "2025-10-07T21:59:00Z",
+  "launch_date": "",
+  "confidence": 0.0,
+  "sources": [
+    {
+      "type": "manual",
+      "url": {
+        "primary_url": "https://zano.org",
+        "blog_url": "https://blog.zano.org/",
+        "explorer_url": "https://explorer.zano.org/",
+        "confidence": 0.95,
+        "sources": [
+          {
+            "url": "https://zano.org",
+            "method": "direct HTTP curl",
+            "status_code": 200,
+            "verification": "HTTPS verified, Cloudflare-secured"
+          }
+        ]
+      },
+      "retrieved_at": "2025-10-07T22:25:37.705412",
+      "confidence": 0.0
+    }
+  ],
+  "missing_fields": [],
+  "verified": true,
+  "readme_path": "zano/README.md",
+  "card_path": "zano/CARD.md",
+  "team": [],
+  "social_links": {
+    "twitter": "",
+    "discord": "",
+    "telegram": "",
+    "medium": "",
+    "mirror": ""
+  },
+  "investors": []
+}
