@@ -1,0 +1,24 @@
+name: Privatepool
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Privacy Pools by 0xbow is a compliant way to anonymously transact on
+  Ethereum. 0xbow blocks illicit actors to ensure pool integrity.
+team:
+  anonymous: true
+links:
+  web: https://privatepool.com
+  github: https://github.com/0xbow-io/privacy-pools-core
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: Apache License 2.0

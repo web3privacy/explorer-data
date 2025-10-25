@@ -1,0 +1,22 @@
+name: zkSync
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: 'zkSync: trustless scaling and privacy engine for Ethereum'
+team:
+  anonymous: true
+links:
+  web: https://zksync.com
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: Apache License 2.0

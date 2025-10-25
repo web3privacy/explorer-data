@@ -1,0 +1,23 @@
+name: Mysterium Network
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Mysterium Network Node -  official implementation of distributed VPN
+  network (dVPN) protocol
+team:
+  anonymous: true
+links:
+  github: https://github.com/mysteriumnetwork/node
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: GNU General Public License v3.0

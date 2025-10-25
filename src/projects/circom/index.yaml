@@ -1,0 +1,24 @@
+name: Circom
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Circom is a specialized compiler and circuit description language for
+  building zero-knowledge proof applications. Written in Rust, it enables developers
+  to design arithmetic circuits that are compi...
+team:
+  anonymous: true
+links:
+  web: https://circom.io
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: GNU General Public License v3.0

@@ -1,15 +1,22 @@
-id: zeal
 name: Zeal
 categories:
-- applications
-description: The web3 wallet that defends your crypto and privacy
+- infrastructure
 ecosystem:
-- multichain
-links:
-  web: https://www.zeal.app/
+- Ethereum
+usecases:
+- Privacy
+description: Code repository for Zeal wallet
 team:
   anonymous: true
-usecases:
-- wallets
-have_token: false
-third_party_dependency: none
+links:
+  web: https://zeal.network
+  github: https://github.com/zealwallet/Wallet
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false

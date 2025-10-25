@@ -1,0 +1,20 @@
+name: Typhoon Network
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Privacy technology project focused on Web3 security and anonymity.
+team:
+  anonymous: true
+links: {}
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false

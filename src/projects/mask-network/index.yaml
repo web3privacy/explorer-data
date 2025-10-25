@@ -1,0 +1,22 @@
+name: Mask Network
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: The portal to the new, open Internet. ([I:b])
+team:
+  anonymous: true
+links:
+  github: https://github.com/DimensionDev/Maskbook
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: GNU Affero General Public License v3.0

@@ -1,109 +1,23 @@
-id: oasis-network
 name: Oasis Network
 categories:
-  - infrastructure
-project_type: Confidential compute
-description: A privacy-enabled blockchain platform for open finance and a
-  responsible data economy
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Performant and Confidentiality-Preserving Smart Contracts + Blockchains
 team:
-  anonymous: false
-  teammembers:
-    - name: Jernej Kos
-      link: https://x.com/JernejKos
+  anonymous: true
 links:
-  web: https://oasisprotocol.org
-  blog: https://oasisprotocol.org/blog
-  github: https://github.com/oasisprotocol
-  forum: https://forum.oasis.io/
-  docs: https://docs.oasis.io/
-  whitepaper: https://docsend.com/view/aq86q2pckrut2yvq
-  block_explorer: https://www.oasisscan.com/
-  governance: ""
-  twitter: https://twitter.com/OasisProtocol
-  discord: https://discord.com/invite/BQCxwhT5wS
-  telegram: http://t.me/oasisprotocolcommunity
-  lens: ""
-  farcaster: ""
+  web: https://oasis-network.org
+  github: https://github.com/oasisprotocol/oasis-core
 project_status:
-  live_status: true
-  mainnet: true
-  testnet: false
-  version: mainnet
-have_token: true
-tokens:
-  - symbol: ROSE
-  - name: Wrapped ROSE
-    symbol: wROSE
-    network: BSC
-    contract_address: "0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a"
-  - name: Wrapped ROSE (Wormhole)
-    symbol: wROSE
-    network: Ethereum
-    contract_address: "0x26B80FBfC01b71495f477d5237071242e0d959d7"
-history:
-  - title: Oasis Mainnet
-    event_type: launch
-    description: "Oasis Mainnet: Ushering a New Era of Privacy and Scalability"
-    time: 2020-11-18T00:00:00.000Z
-    link: https://oasisprotocol.org/blog/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability
-  - title: Oasis Sapphire Mainnet
-    description: go-live of the Oasis Sapphire Mainnet
-    link: https://docs.oasis.io/get-involved/run-node/paratime-node/
-    time: 2022-11-30T23:00:00.000Z
-technology:
-  type: TEE
-  features:
-    - Data Privacy
-    - Tokenized Data
-    - Confidential compute
+  version: Mainnet
+sunset: false
 blockchain_features:
   opensource: true
-  upgradability:
-    enabled: false
   asset_custody_type: non-custody
-  encryption: TEE
-  p2p: true
-usecases:
-  - infrastructure
-  - defi
-  - wallets
-  - computing
-  - dao
-  - bridge
-  - dapps
-  - ai
-  - tee
-third_party_dependency: ""
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/oasis-network/logo.png
-ecosystem:
-  - ethereum
-sunset: false
-assets_used: []
-project_phase: mainnet
-storage: {}
-privacy_policy:
-  defined: true
-  link: https://oasisprotocol.org/privacy-policy
-  data_usage: ""
-compliance: ""
+default_privacy: false
 tracebility:
   kyc: false
-  tracked_data: ""
-  sign_in_type_requirments:
-    - wallet
-default_privacy: true
-audits:
-  - name: NCC Group
-    url: ""
-    time: ""
-  - name: Trail of Bits
-    url: ""
-    time: ""
-social_trust: ""
-technical_spof: ""
-funding:
-  - name: Binance Labs
-    link: https://cointelegraph.com/news/binance-labs-backs-200m-oasis-ecosystem-fund
+licences: Apache License 2.0

@@ -1,88 +1,37 @@
-id: cake-wallet
 name: Cake Wallet
 categories:
-  - applications
-description: Cake Wallet allows you to safely store, send, receive, and exchange
-  your XMR, BTC, LTC, ETH, SOL, WOW, and exchange other currencies. All
-  your  favorite crypto in one wallet, with the best privacy for every chain.
+- wallets
 ecosystem:
-  - monero
-  - bitcoin
-  - ethereum
-  - solana
-  - multichain
-links:
-  web: https://cakewallet.com
-  blog: https://blog.cakewallet.com
-  github: https://github.com/cake-tech/cake_wallet
-  forum: https://forum.cakewallet.com
-  docs: https://docs.cakewallet.com/
-  whitepaper: ""
-  block_explorer: https://mempool.cakewallet.com/
-  governance: ""
-  twitter: https://x.com/cakewallet
-  discord: https://discord.gg/tvBV9j24
-  telegram: https://t.me/cakewallet
-  lens: ""
-  farcaster: ""
-project_status:
-  live_status: true
-  mainnet: true
-  testnet: false
-  version: mainnet
+- Ethereum
+- Monero
+- Litecoin
+- Haven
+usecases:
+- Wallet
+description: Open-source, non-custodial, privacy-focused multi-currency cryptocurrency
+  wallet supporting Monero, Bitcoin, Ethereum, Litecoin, and other cryptocurrencies.
+  Features built-in exchange, native Tor i...
+product_launch_day: '2018-01-01'
 team:
   anonymous: false
   teammembers:
-    - name: Seth For Privacy
-      link: https://x.com/sethforprivacy
-    - name: Vik Sharma
-      link: https://x.com/vikrantnyc
-    - name: Tuxsudo
-      link: https://x.com/tuxpizza
-    - name: Henry Fisher
-      link: https://henryfisher.tech/
-usecases:
-  - wallets
-have_token: false
-third_party_dependency: None
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/cake-wallet/logo.png
+  - name: Vikrant Sharma
+    link: https://www.linkedin.com/company/cakewallet
+    role: Founder & CEO
+links:
+  web: https://cakewallet.com
+  github: https://github.com/cake-tech/cake_wallet
+  docs: https://docs.cakewallet.com
+  twitter: https://x.com/cakewallet
+project_status:
+  version: Mainnet
 sunset: false
-assets_used:
-  - eth
-  - btc
-  - usdt
-  - dai
-  - sol
-  - xmr
-  - other
-tokens: []
-project_phase: mainnet
 blockchain_features:
   opensource: true
-  upgradability:
-    enabled: false
   asset_custody_type: non-custody
-  encryption: ""
-  p2p: true
-storage: {}
-privacy_policy:
-  defined: true
-  link: https://cakewallet.com/privacy/
-  data_usage: ""
-compliance: ""
+default_privacy: true
 tracebility:
   kyc: false
-  tracked_data: Absolutely nothing.
-  sign_in_type_requirments:
-    - seed
-default_privacy: true
-audits: []
-social_trust: ""
-technical_spof: ""
-funding:
-  - name: Self-funded, no external investors, VC funding, etc.
-    link: ""
-history: []
+technology:
+  type: Tor integration, Silent Payments (Bitcoin), Payjoin (Bitcoin)
+licences: MIT License

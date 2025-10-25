@@ -1,0 +1,22 @@
+name: zk.money
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Privacy technology project focused on Web3 security and anonymity.
+team:
+  anonymous: true
+links:
+  github: https://github.com/AztecProtocol/zk-money
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: Apache License 2.0
