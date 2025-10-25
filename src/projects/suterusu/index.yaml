@@ -11,6 +11,10 @@ team:
 links:
   web: https://suterusu.com
   github: https://github.com/suterusu-team/suter-proofs
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/README.md
 project_status:
   version: Mainnet
 sunset: false

@@ -11,6 +11,10 @@ team:
 links:
   web: https://oasis-network.org
   github: https://github.com/oasisprotocol/oasis-core
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/README.md
 project_status:
   version: Mainnet
 sunset: false

@@ -11,6 +11,11 @@ team:
 links:
   web: https://iron-fish.com
   github: https://github.com/iron-fish/ironfish
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/SECURITY.md
+  technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/technical_analysis.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/README.md
 project_status:
   version: Mainnet
 sunset: false

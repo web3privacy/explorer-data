@@ -11,6 +11,10 @@ team:
 links:
   web: https://mobilecoin.com
   github: https://github.com/mobilecoinfoundation/mobilecoin
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/README.md
 project_status:
   version: Mainnet
 sunset: false

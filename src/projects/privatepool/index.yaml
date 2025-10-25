@@ -12,6 +12,11 @@ team:
 links:
   web: https://privatepool.com
   github: https://github.com/0xbow-io/privacy-pools-core
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/SECURITY.md
+  technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/technical_analysis.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/README.md
 project_status:
   version: Mainnet
 sunset: false

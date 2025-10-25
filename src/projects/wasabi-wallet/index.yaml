@@ -12,6 +12,10 @@ team:
 links:
   web: https://wasabi-wallet.io
   github: https://github.com/WalletWasabi/WalletWasabi
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/README.md
 project_status:
   version: Mainnet
 sunset: false

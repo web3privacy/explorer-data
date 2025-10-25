@@ -20,6 +20,10 @@ links:
       status_code: 200
       verification: HTTPS verified, Cloudflare-secured
   github: https://github.com/hyle-team/zano
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/README.md
 project_status:
   version: Mainnet
 sunset: false

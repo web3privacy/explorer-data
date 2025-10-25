@@ -11,6 +11,10 @@ team:
 links:
   web: https://iden3.com
   github: https://github.com/iden3/iden3-docs
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/README.md
 project_status:
   version: Mainnet
 sunset: false

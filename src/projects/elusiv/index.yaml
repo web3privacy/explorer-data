@@ -10,6 +10,10 @@ team:
   anonymous: true
 links:
   web: https://elusiv.network
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/README.md
 project_status:
   version: Mainnet
 sunset: false

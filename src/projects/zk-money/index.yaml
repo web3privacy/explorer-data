@@ -10,6 +10,11 @@ team:
   anonymous: true
 links:
   github: https://github.com/AztecProtocol/zk-money
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/SECURITY.md
+  technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/technical_analysis.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/README.md
 project_status:
   version: Mainnet
 sunset: false
