@@ -3320,40 +3320,46 @@
       "id": "fileverse",
       "name": "Fileverse",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "On-chain people and communities deserve on-chain tools for private communication and collaboration",
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Privacy technology project focused on Web3 security and anonymity.",
       "team": {
         "anonymous": true
       },
       "links": {
         "web": "https://fileverse.io",
-        "github": "https://github.com/fileverse",
-        "twitter": "https://x.com/fileverse"
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fileverse/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fileverse/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fileverse/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fileverse/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fileverse/README.md"
       },
       "project_status": {
-        "live_status": true,
-        "version": "Mainnet",
-        "testnet": false,
-        "mainnet": true
+        "version": "Mainnet"
       },
-      "usecases": [
-        "storage"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Not specified",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fileverse/logo.png"
         }
-      ],
-      "ecosystem": [
-        "ethereum",
-        "other"
-      ],
-      "sunset": false
+      ]
     },
     {
       "id": "fhenix",
@@ -6358,6 +6364,50 @@
       "history": []
     },
     {
+      "id": "mysterium-network",
+      "name": "Mysterium Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/mysteriumnetwork/node",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mysterium-network/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mysterium-network/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mysterium-network/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mysterium-network/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU General Public License v3.0",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mysterium-network/logo.png"
+        }
+      ]
+    },
+    {
       "id": "anagolay",
       "name": "Anagolay",
       "categories": [
@@ -6394,88 +6444,45 @@
       "id": "elusiv",
       "name": "Elusiv",
       "categories": [
-        "defi"
+        "infrastructure"
       ],
       "ecosystem": [
-        "solana"
+        "Ethereum"
       ],
-      "description": "Compliant Privacy that Scales",
-      "technology": {
-        "type": "zk",
-        "features": [
-          "zk-SNARKS"
-        ]
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Elusiv Solana program library",
+      "team": {
+        "anonymous": true
       },
       "links": {
-        "web": "https://elusiv.io/",
-        "blog": "",
-        "github": "https://github.com/elusiv-privacy",
-        "forum": "",
-        "docs": "https://docs.elusiv.io/",
-        "whitepaper": "",
-        "block_explorer": "",
-        "governance": "",
-        "twitter": "https://x.com/elusivprivacy",
-        "discord": "",
-        "telegram": "",
-        "lens": "",
-        "farcaster": ""
+        "web": "https://elusiv.network",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/README.md"
       },
       "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
+        "version": "Mainnet"
       },
-      "team": {
-        "anonymous": false,
-        "teammembers": []
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
       },
-      "usecases": [
-        "defi"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/elusiv/logo.png"
         }
-      ],
-      "sunset": true,
-      "assets_used": [
-        "sol",
-        "other"
-      ],
-      "tokens": [],
-      "project_phase": "mainnet",
-      "blockchain_features": {
-        "opensource": false,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "",
-        "encryption": ""
-      },
-      "storage": {},
-      "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": []
-      },
-      "default_privacy": false,
-      "audits": [],
-      "social_trust": "",
-      "technical_spof": "",
-      "funding": [],
-      "history": []
+      ]
     },
     {
       "id": "verida",
@@ -7312,6 +7319,44 @@
       ]
     },
     {
+      "id": "zkvote",
+      "name": "zkVote",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Zero-knowledge voting based on Semaphore",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://zkvote.com",
+        "github": "https://github.com/KimiWu123/zkvote",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zkvote/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zkvote/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zkvote/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zkvote/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zkvote/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      }
+    },
+    {
       "id": "majestic-bank",
       "name": "Majestic Bank",
       "categories": [
@@ -7450,28 +7495,37 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "A Layer-2 scalability engine, live on Ethereum Mainnet ✨️ZK",
       "ecosystem": [
-        "ethereum"
+        "Ethereum"
       ],
-      "links": {
-        "web": "https://starkware.co/starkex/",
-        "github": "https://github.com/starkware-libs/starkex-resources",
-        "docs": "https://docs.starkware.co/starkex/index.html",
-        "blog": "https://medium.com/starkware",
-        "twitter": "https://x.com/StarkWareLtd"
-      },
-      "team": {
-        "anonymous": false,
-        "company": {
-          "link": "https://starkware.co/about-us/"
-        }
-      },
       "usecases": [
-        "eth-layer-2"
+        "Privacy"
       ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "description": "Privacy technology project focused on Web3 security and anonymity.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://starkex.io",
+        "github": "https://github.com/starkware-libs/starkex-contracts",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Other",
       "logos": [
         {
           "file": "logo.png",
@@ -7591,54 +7645,48 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "The HOPR network is a decentralized incentivized mixnet, ensuring complete data and metadata privacy for everyone who uses it. Data is sent via multiple hops, so no-one but the sender and receiver know the origin, destination, or content of a data transfer.",
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.",
       "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Dr. Sebastian Bürgel",
-            "role": "President"
-          },
-          {
-            "name": "Rik Krieger",
-            "role": "Co-Founder"
-          }
-        ]
+        "anonymous": true
       },
       "links": {
-        "web": "https://hoprnet.org/protocol",
-        "github": "https://github.com/hoprnet",
-        "docs": "https://docs.hoprnet.org/"
+        "web": "https://hopr.com",
+        "github": "https://github.com/hoprnet/hoprnet",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/README.md"
       },
-      "have_token": false,
-      "tokens": [
-        {
-          "symbol": "HOPR"
-        }
-      ],
       "project_status": {
-        "live_status": true,
-        "version": "Mainnet",
-        "testnet": false,
-        "mainnet": true
+        "version": "Mainnet"
       },
-      "usecases": [
-        "infrastructure"
-      ],
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "licences": "GNU General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hopr/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other",
-        "ethereum",
-        "multichain"
-      ],
-      "sunset": false
+      ]
     },
     {
       "id": "lnproxy",
@@ -9392,42 +9440,44 @@
       "id": "deeper-network",
       "name": "Deeper Network",
       "categories": [
-        "hardware"
+        "infrastructure"
       ],
-      "description": "Web 3.0 infrastructure of the users, by the users, for the users.",
-      "project_status": {
-        "version": "Mainet",
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false
-      },
-      "links": {
-        "web": "https://www.deeper.network",
-        "blog": "https://shop.deeper.network/pages/blog",
-        "twitter": "https://x.com/deeper_network",
-        "discord": "https://discord.com/invite/EWUyAJyH2B",
-        "facebook": "https://www.facebook.com/deeper.network",
-        "telegram": "https://t.me/DeeperNetwork"
-      },
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "deeper chain is the blockchain layer for deeper network.",
       "team": {
         "anonymous": true
       },
-      "usecases": [
-        "hardware"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "links": {
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Apache License 2.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/deeper-network/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "sunset": false
+      ]
     },
     {
       "id": "fulldive",
@@ -9989,31 +10039,38 @@
       "id": "firo",
       "name": "Firo",
       "categories": [
-        "defi"
+        "infrastructure"
       ],
-      "description": "A privacy-preserving cryptocurrency and ecosystem",
       "ecosystem": [
-        "other"
+        "Ethereum"
       ],
-      "links": {
-        "web": "https://firo.org",
-        "github": "https://github.com/firoorg/firo",
-        "block_explorer": "https://explorer.firo.org/",
-        "forum": "https://forum.firo.org/",
-        "blog": "https://firo.org/blog/",
-        "twitter": "https://x.com/firoorg",
-        "discord": "https://discord.com/invite/TGZPRbRT3Y",
-        "facebook": "https://www.facebook.com/firoorg/",
-        "telegram": "https://t.me/firoorg"
-      },
-      "team": {
-        "anonymous": false
-      },
       "usecases": [
-        "currency"
+        "Privacy"
       ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "description": "The privacy-focused cryptocurrency",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://firo.com",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/firo/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/firo/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/firo/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/firo/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "MIT License",
       "logos": [
         {
           "file": "logo.png",
@@ -10443,146 +10500,42 @@
       "categories": [
         "infrastructure"
       ],
-      "project_type": "Confidential compute",
-      "description": "A privacy-enabled blockchain platform for open finance and a responsible data economy",
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Performant and Confidentiality-Preserving Smart Contracts + Blockchains",
       "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Jernej Kos",
-            "link": "https://x.com/JernejKos"
-          }
-        ]
+        "anonymous": true
       },
       "links": {
-        "web": "https://oasisprotocol.org",
-        "blog": "https://oasisprotocol.org/blog",
-        "github": "https://github.com/oasisprotocol",
-        "forum": "https://forum.oasis.io/",
-        "docs": "https://docs.oasis.io/",
-        "whitepaper": "https://docsend.com/view/aq86q2pckrut2yvq",
-        "block_explorer": "https://www.oasisscan.com/",
-        "governance": "",
-        "twitter": "https://twitter.com/OasisProtocol",
-        "discord": "https://discord.com/invite/BQCxwhT5wS",
-        "telegram": "http://t.me/oasisprotocolcommunity",
-        "lens": "",
-        "farcaster": ""
+        "web": "https://oasis-network.org",
+        "github": "https://github.com/oasisprotocol/oasis-core",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/README.md"
       },
       "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
+        "version": "Mainnet"
       },
-      "have_token": true,
-      "tokens": [
-        {
-          "symbol": "ROSE"
-        },
-        {
-          "name": "Wrapped ROSE",
-          "symbol": "wROSE",
-          "network": "BSC",
-          "contract_address": "0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a"
-        },
-        {
-          "name": "Wrapped ROSE (Wormhole)",
-          "symbol": "wROSE",
-          "network": "Ethereum",
-          "contract_address": "0x26B80FBfC01b71495f477d5237071242e0d959d7"
-        }
-      ],
-      "history": [
-        {
-          "title": "Oasis Mainnet",
-          "event_type": "launch",
-          "description": "Oasis Mainnet: Ushering a New Era of Privacy and Scalability",
-          "time": "2020-11-18T00:00:00.000Z",
-          "link": "https://oasisprotocol.org/blog/oasis-mainnet-ushering-in-a-new-era-of-privacy-and-scalability"
-        },
-        {
-          "title": "Oasis Sapphire Mainnet",
-          "description": "go-live of the Oasis Sapphire Mainnet",
-          "link": "https://docs.oasis.io/get-involved/run-node/paratime-node/",
-          "time": "2022-11-30T23:00:00.000Z"
-        }
-      ],
-      "technology": {
-        "type": "TEE",
-        "features": [
-          "Data Privacy",
-          "Tokenized Data",
-          "Confidential compute"
-        ]
-      },
+      "sunset": false,
       "blockchain_features": {
         "opensource": true,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": "TEE",
-        "p2p": true
+        "asset_custody_type": "non-custody"
       },
-      "usecases": [
-        "infrastructure",
-        "defi",
-        "wallets",
-        "computing",
-        "dao",
-        "bridge",
-        "dapps",
-        "ai",
-        "tee"
-      ],
-      "third_party_dependency": "",
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Apache License 2.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/oasis-network/logo.png"
-        }
-      ],
-      "ecosystem": [
-        "ethereum"
-      ],
-      "sunset": false,
-      "assets_used": [],
-      "project_phase": "mainnet",
-      "storage": {},
-      "privacy_policy": {
-        "defined": true,
-        "link": "https://oasisprotocol.org/privacy-policy",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": [
-          "wallet"
-        ]
-      },
-      "default_privacy": true,
-      "audits": [
-        {
-          "name": "NCC Group",
-          "url": "",
-          "time": ""
-        },
-        {
-          "name": "Trail of Bits",
-          "url": "",
-          "time": ""
-        }
-      ],
-      "social_trust": "",
-      "technical_spof": "",
-      "funding": [
-        {
-          "name": "Binance Labs",
-          "link": "https://cointelegraph.com/news/binance-labs-backs-200m-oasis-ecosystem-fund"
         }
       ]
     },
@@ -11967,160 +11920,46 @@
       "id": "zcash",
       "name": "Zcash",
       "categories": [
-        "defi"
+        "infrastructure"
       ],
-      "description": "A simple, secure digital currency that protects your privacy. For everyday purchases, sending money to a friend, and your favorite crypto applications, too.",
-      "project_type": "transaction",
-      "technology": {
-        "type": "halo2 zk-SNARK",
-        "features": [
-          "private",
-          "trustless proof system"
-        ]
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Zcash - Internet Money",
+      "team": {
+        "anonymous": true
       },
       "links": {
-        "web": "https://z.cash/",
-        "blog": "https://electriccoin.co/blog",
-        "github": "https://github.com/zcash/zcash/",
-        "forum": "https://forum.zcashcommunity.com/",
-        "docs": "https://zcash.readthedocs.io/en/latest/",
-        "whitepaper": "https://zips.z.cash/protocol/protocol.pdf/",
-        "block_explorer": "https://zcashblockexplorer.com/",
-        "governance": "",
-        "twitter": "https://twitter.com/zcash",
-        "discord": "https://discord.gg/zcash",
-        "telegram": "https://t.me/zcash_community",
-        "lens": "",
-        "farcaster": ""
+        "web": "https://zcash.org",
+        "github": "https://github.com/zcash/zcash",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/README.md"
       },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
       "blockchain_features": {
         "opensource": true,
-        "upgradability": {
-          "enabled": true
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": "zksnark",
-        "p2p": true
+        "asset_custody_type": "non-custody"
       },
-      "licences": "MIT software license",
-      "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
-      },
-      "storage": {
-        "decentralized": false
-      },
-      "third_party_dependency": "none",
-      "audits": [
-        {
-          "name": "NCC Group NU5 Review",
-          "link": "https://research.nccgroup.com/2021/11/02/public-report-zcash-nu5-cryptography-review/",
-          "time": "2021-11-01T23:00:00.000Z"
-        },
-        {
-          "name": "NCC Group Zcash FROST Security Assesment",
-          "link": "https://research.nccgroup.com/2023/10/23/public-report-zcash-frost-security-assessment/",
-          "time": "2023-10-22T22:00:00.000Z"
-        },
-        {
-          "name": "Sapling Implementation Audit",
-          "link": "https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf",
-          "time": "2019-01-29T23:00:00.000Z"
-        }
-      ],
-      "history": [
-        {
-          "title": "Mainet",
-          "event_type": "launch",
-          "description": "Genesis block",
-          "time": "2016-10-27T22:00:00.000Z",
-          "link": "https://www.coindesk.com/markets/2016/10/28/with-zcash-launch-blockchain-enters-the-age-of-anonymity/"
-        }
-      ],
-      "client_diversability": [
-        {
-          "name": "Zebra",
-          "link": "https://zfnd.org/zebra/"
-        },
-        {
-          "name": "zcashd",
-          "link": "https://github.com/Zcash/zcash"
-        }
-      ],
       "default_privacy": false,
-      "funding": [
-        {
-          "name": "DCG",
-          "type": "Investments",
-          "link": "https://zfnd.org/zebra/",
-          "value": "",
-          "time": "2024-09-15T00:00:00.000Z"
-        }
-      ],
-      "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
+      "tracebility": {
+        "kyc": false
       },
-      "usecases": [
-        "currency",
-        "messaging"
-      ],
-      "have_token": false,
+      "licences": "Other",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zcash/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "product_launch_day": "2016-11-27T22:00:00.000Z",
-      "sunset": false,
-      "assets_used": [
-        "zcash"
-      ],
-      "tokens": [
-        {
-          "symbol": "ZEC",
-          "name": "ZEC",
-          "contract_address": "",
-          "token_link": "https://mainnet.zcashexplorer.app/"
-        }
-      ],
-      "project_phase": "mainnet",
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": [
-          "seed",
-          "wallet"
-        ]
-      },
-      "social_trust": "",
-      "technical_spof": "",
-      "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Str4d",
-            "link": "https://x.com/str4d"
-          },
-          {
-            "name": "Kris Nuttycombe",
-            "link": "https://x.com/nuttycom"
-          },
-          {
-            "name": "Daira-Emma Hopwood",
-            "link": "https://x.com/feministPLT"
-          }
-        ]
-      }
+      ]
     },
     {
       "id": "bob-protocol",
@@ -16696,6 +16535,45 @@
       ]
     },
     {
+      "id": "privatepool",
+      "name": "Privatepool",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. 0xbow blocks illicit actors to ensure pool integrity.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://privatepool.com",
+        "github": "https://github.com/0xbow-io/privacy-pools-core",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Apache License 2.0"
+    },
+    {
       "id": "zkchaos",
       "name": "ZKCHAOS",
       "categories": [
@@ -17839,6 +17717,71 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/x-cash/logo.png"
         }
       ]
+    },
+    {
+      "id": "tornado-cash",
+      "name": "Tornado Cash",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "avalanche",
+        "arbitrum",
+        "optimism",
+        "gnosis_chain",
+        "binance_smart_chain",
+        "ethereum",
+        "polygon"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Fully decentralized, non-custodial cryptocurrency mixer protocol that runs on Ethereum Virtual Machine-compatible networks, enabling private transactions using zero-knowledge proof technology. Torn...",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Roman Storm",
+            "role": "Founder"
+          },
+          {
+            "name": "Alexey Pertsev",
+            "role": "Founder"
+          },
+          {
+            "name": "Roman Semenov",
+            "role": "Founder"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://tornado-cash.org",
+        "github": "https://github.com/tornadocash/tornado-core",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": true,
+      "tracebility": {
+        "kyc": false
+      },
+      "technology": {
+        "type": "zk-SNARKs, multi-party computation (MPC)"
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "licences": "GNU General Public License v3.0"
     },
     {
       "id": "socialkyc",
@@ -19412,25 +19355,39 @@
       "id": "iden3",
       "name": "Iden3",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each.",
       "ecosystem": [
-        "ethereum"
+        "Ethereum"
       ],
-      "links": {
-        "web": "https://iden3.io",
-        "github": "https://github.com/iden3",
-        "docs": "https://docs.iden3.io/",
-        "blog": "https://blog.iden3.io/",
-        "twitter": "https://x.com/identhree",
-        "telegram": "https://t.me/iden3io"
-      },
-      "have_token": false,
       "usecases": [
-        "did"
+        "Privacy"
       ],
-      "third_party_dependency": "none",
+      "description": "iden3 documentation",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://iden3.com",
+        "github": "https://github.com/iden3/iden3-docs",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
@@ -20303,6 +20260,51 @@
       "storage": {}
     },
     {
+      "id": "circom",
+      "name": "Circom",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Circom is a specialized compiler and circuit description language for building zero-knowledge proof applications. Written in Rust, it enables developers to design arithmetic circuits that are compi...",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://circom.io",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/circom/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/circom/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/circom/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/circom/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/circom/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU General Public License v3.0",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/circom/logo.png"
+        }
+      ]
+    },
+    {
       "id": "nomos",
       "name": "Nomos",
       "categories": [
@@ -20970,6 +20972,44 @@
       ]
     },
     {
+      "id": "zksync",
+      "name": "zkSync",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "zkSync: trustless scaling and privacy engine for Ethereum",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://zksync.com",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zksync/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zksync/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zksync/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zksync/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zksync/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Apache License 2.0"
+    },
+    {
       "id": "vault1317",
       "name": "Vault1317",
       "categories": [
@@ -21341,110 +21381,47 @@
     },
     {
       "id": "darkfi",
-      "name": "DarkFi",
+      "name": "Darkfi",
       "categories": [
-        "infrastructure",
-        "social-and-communications",
-        "applications",
-        "defi"
+        "infrastructure"
       ],
-      "description": "DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application",
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Anonymous. Uncensored. Sovereign.",
+      "team": {
+        "anonymous": true
+      },
       "links": {
-        "web": "https://dark.fi",
-        "blog": "https://dark.fi/insights/",
-        "github": "https://github.com/darkrenaissance/darkfi",
-        "forum": "",
-        "docs": "https://darkrenaissance.github.io/darkfi/",
-        "whitepaper": "",
-        "block_explorer": "https://explorer.testnet.dark.fi/",
-        "governance": "",
-        "twitter": "https://x.com/DarkFiSquad",
-        "discord": "",
-        "telegram": "https://t.me/darkfichat",
-        "lens": "",
-        "farcaster": ""
+        "web": "https://darkfi.org",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/README.md"
       },
       "project_status": {
-        "live_status": true,
-        "mainnet": false,
-        "testnet": true,
-        "version": "testnet"
+        "version": "Mainnet"
       },
-      "usecases": [
-        "infrastructure",
-        "dao",
-        "wallets",
-        "defi",
-        "currency",
-        "messaging"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU Affero General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/darkfi/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "sunset": false,
-      "assets_used": [],
-      "tokens": [],
-      "project_phase": "testnet",
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "",
-        "encryption": "",
-        "p2p": true
-      },
-      "storage": {},
-      "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": []
-      },
-      "default_privacy": true,
-      "audits": [
-        {
-          "name": "Audit of DarkFi Contracts",
-          "url": "https://www.zksecurity.xyz/blog/2024-darkfi-report.pdf",
-          "time": "2024-02-19T00:00:00.000Z"
-        }
-      ],
-      "social_trust": "",
-      "technical_spof": "",
-      "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Amir Taaki",
-            "link": "https://x.com/Narodism"
-          },
-          {
-            "name": "Rachel-Rose O'Leary",
-            "link": "https://x.com/lunar_mining"
-          }
-        ]
-      },
-      "funding": [
-        {
-          "name": "LunarDAO",
-          "link": "https://dekanbro.github.io/nft-raider/#/molochv3/0xa4b1/0xaff8f43727e6cc9aa8e961de0473253d5d607869/0xc08f9633f8031c2754a5740f49a92ad9254eec69"
-        }
-      ],
-      "history": []
+      ]
     },
     {
       "id": "blackhat-coin",
@@ -22284,103 +22261,49 @@
       "id": "sentinel",
       "name": "Sentinel",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "A global network of autonomous dVPN applications that enable private and censorship resistant internet access",
       "ecosystem": [
-        "cosmos"
+        "Ethereum"
       ],
-      "links": {
-        "web": "https://sentinel.co",
-        "blog": "https://www.dvpn.news/",
-        "github": "https://github.com/sentinel-official",
-        "forum": "https://t.me/SentinelDVPN",
-        "docs": "https://docs.sentinel.co/",
-        "whitepaper": "https://docs.sentinel.co/getting-started/whitepaper",
-        "block_explorer": "https://www.mintscan.io/sentinel/",
-        "governance": "https://wallet.keplr.app/chains/sentinel?tab=governance",
-        "twitter": "https://twitter.com/SentinelDVPN",
-        "discord": "https://discord.com/invite/mmAA8qF",
-        "telegram": "https://t.me/SentinelDVPN",
-        "lens": "",
-        "farcaster": ""
-      },
-      "team": {
-        "anonymous": true,
-        "teammembers": []
-      },
-      "have_token": true,
-      "token_link": "https://coinmarketcap.com/currencies/sentinel/",
-      "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
-      },
       "usecases": [
-        "vpn",
-        "infrastructure",
-        "ai"
+        "Privacy"
       ],
-      "third_party_dependency": "None",
+      "description": "Blockchain core managing Sentinel network services, staking, and governance",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://sentinel.network",
+        "github": "https://github.com/sentinel-official/sentinelhub",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sentinel/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sentinel/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sentinel/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sentinel/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true
+        }
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Apache License 2.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/sentinel/logo.png"
         }
-      ],
-      "product_launch_day": "2018-05-03T23:00:00.000Z",
-      "sunset": false,
-      "assets_used": [
-        "atom",
-        "scrt",
-        "other"
-      ],
-      "tokens": [
-        {
-          "symbol": "dVPN",
-          "name": "Sentinel",
-          "contract_address": "",
-          "token_link": "https://www.mintscan.io/sentinel/"
-        },
-        {
-          "symbol": "DVPN",
-          "name": "DVPN",
-          "contract_address": "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
-          "token_link": "https://www.mintscan.io/sentinel"
-        }
-      ],
-      "project_phase": "mainnet",
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": true
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": "Permission-less VPN",
-        "p2p": true
-      },
-      "storage": {
-        "decentralized": true
-      },
-      "privacy_policy": {
-        "defined": true,
-        "link": "https://shield.sentinel.co/legal/privacy",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "Onchain data, VPN provider CANNOT see you IP address ",
-        "sign_in_type_requirments": []
-      },
-      "default_privacy": true,
-      "audits": [],
-      "social_trust": "None",
-      "technical_spof": "None",
-      "funding": [],
-      "history": []
+      ]
     },
     {
       "id": "derp",
@@ -23493,6 +23416,44 @@
       ]
     },
     {
+      "id": "snarkjs",
+      "name": "Snarkjs",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "zkSNARK implementation in JavaScript & WASM",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/iden3/snarkjs",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/snarkjs/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/snarkjs/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/snarkjs/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/snarkjs/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/snarkjs/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU General Public License v3.0"
+    },
+    {
       "id": "zaiffer",
       "name": "Zaiffer",
       "categories": [
@@ -24039,43 +24000,43 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities",
-      "links": {
-        "web": "https://findora.org",
-        "github": "https://github.com/findoranetwork",
-        "docs": "https://docs.findora.org/",
-        "twitter": "https://twitter.com/Findora",
-        "discord": "https://discord.com/invite/findora",
-        "facebook": "https://www.facebook.com/findoraOfficial/",
-        "telegram": "https://t.me/findoraen"
-      },
-      "have_token": false,
-      "tokens": [
-        {
-          "symbol": "FRA"
-        }
+      "ecosystem": [
+        "Ethereum"
       ],
-      "project_status": {
-        "live_status": false,
-        "version": "",
-        "testnet": false,
-        "mainnet": false
-      },
       "usecases": [
-        "infrastructure"
+        "Privacy"
       ],
-      "third_party_dependency": "none",
+      "description": "Official Implementation of Findora Network.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://findora.com",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/findora/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/findora/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/findora/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/findora/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Other",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/findora/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "sunset": false
+      ]
     },
     {
       "id": "mind-network",
@@ -25359,116 +25320,62 @@
       "id": "cake-wallet",
       "name": "Cake Wallet",
       "categories": [
-        "applications"
+        "wallets"
       ],
-      "description": "Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, ETH, SOL, WOW, and exchange other currencies. All your  favorite crypto in one wallet, with the best privacy for every chain.",
       "ecosystem": [
-        "monero",
-        "bitcoin",
-        "ethereum",
-        "solana",
-        "multichain"
+        "Ethereum",
+        "Monero",
+        "Litecoin",
+        "Haven"
       ],
-      "links": {
-        "web": "https://cakewallet.com",
-        "blog": "https://blog.cakewallet.com",
-        "github": "https://github.com/cake-tech/cake_wallet",
-        "forum": "https://forum.cakewallet.com",
-        "docs": "https://docs.cakewallet.com/",
-        "whitepaper": "",
-        "block_explorer": "https://mempool.cakewallet.com/",
-        "governance": "",
-        "twitter": "https://x.com/cakewallet",
-        "discord": "https://discord.gg/tvBV9j24",
-        "telegram": "https://t.me/cakewallet",
-        "lens": "",
-        "farcaster": ""
-      },
-      "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
-      },
+      "usecases": [
+        "Wallet"
+      ],
+      "description": "Open-source, non-custodial, privacy-focused multi-currency cryptocurrency wallet supporting Monero, Bitcoin, Ethereum, Litecoin, and other cryptocurrencies. Features built-in exchange, native Tor i...",
+      "product_launch_day": "2018-01-01",
       "team": {
         "anonymous": false,
         "teammembers": [
           {
-            "name": "Seth For Privacy",
-            "link": "https://x.com/sethforprivacy"
-          },
-          {
-            "name": "Vik Sharma",
-            "link": "https://x.com/vikrantnyc"
-          },
-          {
-            "name": "Tuxsudo",
-            "link": "https://x.com/tuxpizza"
-          },
-          {
-            "name": "Henry Fisher",
-            "link": "https://henryfisher.tech/"
+            "name": "Vikrant Sharma",
+            "link": "https://www.linkedin.com/company/cakewallet",
+            "role": "Founder & CEO"
           }
         ]
       },
-      "usecases": [
-        "wallets"
-      ],
-      "have_token": false,
-      "third_party_dependency": "None",
+      "links": {
+        "web": "https://cakewallet.com",
+        "github": "https://github.com/cake-tech/cake_wallet",
+        "docs": "https://docs.cakewallet.com",
+        "twitter": "https://x.com/cakewallet",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/cake-wallet/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/cake-wallet/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/cake-wallet/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/cake-wallet/reports/TECHNICAL.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": true,
+      "tracebility": {
+        "kyc": false
+      },
+      "technology": {
+        "type": "Tor integration, Silent Payments (Bitcoin), Payjoin (Bitcoin)"
+      },
+      "licences": "MIT License",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cake-wallet/logo.png"
         }
-      ],
-      "sunset": false,
-      "assets_used": [
-        "eth",
-        "btc",
-        "usdt",
-        "dai",
-        "sol",
-        "xmr",
-        "other"
-      ],
-      "tokens": [],
-      "project_phase": "mainnet",
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": "",
-        "p2p": true
-      },
-      "storage": {},
-      "privacy_policy": {
-        "defined": true,
-        "link": "https://cakewallet.com/privacy/",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "Absolutely nothing.",
-        "sign_in_type_requirments": [
-          "seed"
-        ]
-      },
-      "default_privacy": true,
-      "audits": [],
-      "social_trust": "",
-      "technical_spof": "",
-      "funding": [
-        {
-          "name": "Self-funded, no external investors, VC funding, etc.",
-          "link": ""
-        }
-      ],
-      "history": []
+      ]
     },
     {
       "id": "highline",
@@ -25777,6 +25684,41 @@
       "history": [],
       "product_launch_day": "2020-09-30T22:00:00.000Z",
       "nickname": "cryptocappex on X"
+    },
+    {
+      "id": "typhoon-network",
+      "name": "Typhoon Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Privacy technology project focused on Web3 security and anonymity.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/typhoon-network/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/typhoon-network/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/typhoon-network/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/typhoon-network/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      }
     },
     {
       "id": "boltz",
@@ -27006,36 +26948,40 @@
       "id": "iron-fish",
       "name": "Iron Fish",
       "categories": [
-        "defi"
+        "infrastructure"
       ],
-      "description": "The Privacy Platform for Web3",
       "ecosystem": [
-        "other"
+        "Ethereum"
       ],
-      "project_status": {
-        "live_status": true,
-        "version": "testnet",
-        "testnet": true,
-        "mainnet": false
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "A novel cryptocurrency focused on privacy and accessibility.",
+      "team": {
+        "anonymous": true
       },
       "links": {
-        "web": "https://ironfish.network",
-        "github": "https://github.com/iron-fish",
-        "block_explorer": "https://explorer.ironfish.network/",
-        "whitepaper": "https://ironfish.network/learn/whitepaper/introduction",
-        "blog": "https://ironfish.network/learn/blog",
-        "twitter": "https://x.com/ironfishcrypto",
-        "discord": "https://discord.com/invite/EkQkEcm8DH",
-        "telegram": "https://t.me/ironfishcryptochat"
+        "web": "https://iron-fish.com",
+        "github": "https://github.com/iron-fish/ironfish",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/README.md"
       },
-      "team": {
-        "anonymous": false
+      "project_status": {
+        "version": "Mainnet"
       },
-      "usecases": [
-        "currency"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Mozilla Public License 2.0",
       "logos": [
         {
           "file": "logo.png",
@@ -27689,78 +27635,43 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "A compliance ready blockchain backed by science that enables private and public transactions",
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "The main concordium node implementation.",
       "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Lars Seier Christensen",
-            "roles": "Chairman"
-          },
-          {
-            "name": "Nibras Stiebar-Bang",
-            "roles": "CTO & CPO"
-          },
-          {
-            "name": "Jonas Stiebar-Bang",
-            "roles": "CCO"
-          },
-          {
-            "name": "Jørgen Hauglund",
-            "roles": "CFO"
-          }
-        ]
+        "anonymous": true
       },
       "links": {
         "web": "https://concordium.com",
-        "blog": "",
-        "github": "https://github.com/Concordium",
-        "forum": "",
-        "docs": "",
-        "whitepaper": "https://www.concordium.com/technology#whitepapers",
-        "block_explorer": "",
-        "governance": "",
-        "twitter": "",
-        "discord": "",
-        "telegram": "",
-        "lens": "",
-        "farcaster": ""
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/README.md"
       },
-      "have_token": false,
-      "tokens": [
-        {
-          "symbol": "CCD"
-        }
-      ],
       "project_status": {
-        "live_status": false,
-        "mainnet": false,
-        "testnet": false
+        "version": "Mainnet"
       },
-      "usecases": [
-        "infrastructure"
-      ],
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU Affero General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/concordium/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "sunset": false,
-      "blockchain_features": {
-        "opensource": false,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "",
-        "encryption": ""
-      },
-      "storage": {}
+      ]
     },
     {
       "id": "sirius-sync",
@@ -28781,6 +28692,51 @@
       "sunset": false
     },
     {
+      "id": "zk-money",
+      "name": "zk.money",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Privacy technology project focused on Web3 security and anonymity.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/AztecProtocol/zk-money",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Apache License 2.0",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zk-money/logo.png"
+        }
+      ]
+    },
+    {
       "id": "literully",
       "name": "Literully",
       "categories": [
@@ -28861,56 +28817,43 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "A suite of privacy-preserving services to obfuscate transactional and asset information",
-      "links": {
-        "web": "https://suterusu.io",
-        "blog": "",
-        "github": "https://github.com/suterusu-team",
-        "forum": "",
-        "docs": "",
-        "whitepaper": "",
-        "block_explorer": "",
-        "governance": "",
-        "twitter": "",
-        "discord": "",
-        "telegram": "",
-        "lens": "",
-        "farcaster": ""
-      },
-      "have_token": false,
-      "tokens": [
-        {
-          "symbol": "SUTER"
-        }
+      "ecosystem": [
+        "Ethereum"
       ],
       "usecases": [
-        "infrastructure"
+        "Privacy"
       ],
-      "third_party_dependency": "none",
+      "description": "zk-ConSNARK rust implementation",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://suterusu.com",
+        "github": "https://github.com/suterusu-team/suter-proofs",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/suterusu/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "sunset": true,
-      "team": {
-        "anonymous": false,
-        "teammembers": []
-      },
-      "audits": [
-        {
-          "name": "PeckShield-Audit-Report-Suterusu-v1.0.pdf",
-          "url": "https://github.com/suterusu-team/suterusu-documents/blob/master/PeckShield-Audit-Report-Suterusu-v1.0.pdf",
-          "time": "2021-03-01T00:00:00.000Z"
-        }
-      ],
-      "social_trust": "",
-      "technical_spof": ""
+      ]
     },
     {
       "id": "orangefren",
@@ -29184,35 +29127,39 @@
       "id": "oxen",
       "name": "Oxen",
       "categories": [
-        "defi"
+        "infrastructure"
       ],
-      "description": "A cryptocurrency powering a new class of interconnected privacy apps",
       "ecosystem": [
-        "other"
+        "Ethereum"
       ],
-      "project_status": {
-        "live_status": true,
-        "version": "Mainnet",
-        "testnet": true,
-        "mainnet": true
-      },
-      "links": {
-        "web": "https://oxen.io",
-        "github": "https://github.com/oxen-io",
-        "block_explorer": "https://oxen.observer/",
-        "docs": "https://docs.oxen.io/oxen-docs",
-        "blog": "https://oxen.io/blog/1",
-        "twitter": "https://x.com/Oxen_io",
-        "telegram": "https://t.me/Oxen_Community"
-      },
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Oxen core repository, containing oxend and oxen cli wallets",
       "team": {
         "anonymous": true
       },
-      "usecases": [
-        "currency"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "links": {
+        "web": "https://oxen.io",
+        "github": "https://github.com/oxen-io/oxen-core",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oxen/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oxen/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oxen/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oxen/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Other",
       "logos": [
         {
           "file": "logo.png",
@@ -29316,34 +29263,39 @@
       "id": "orchid",
       "name": "Orchid",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client",
       "ecosystem": [
-        "multichain"
+        "Ethereum"
       ],
-      "links": {
-        "web": "https://www.orchid.com",
-        "github": "https://github.com/OrchidTechnologies",
-        "whitepaper": "https://www.orchid.com/whitepaper/english.pdf",
-        "docs": "https://docs.orchid.com/en/latest/",
-        "blog": "https://blog.orchid.com/",
-        "twitter": "https://x.com/OrchidProtocol",
-        "discord": "https://discord.com/invite/GDbxmjxX9F",
-        "facebook": "https://www.facebook.com/OrchidProtocol"
-      },
-      "team": {
-        "anonymous": false,
-        "company": {
-          "link": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218313136%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=cWH"
-        }
-      },
-      "have_token": false,
-      "token_link": "https://coinmarketcap.com/currencies/orchid/",
       "usecases": [
-        "vpn"
+        "Privacy"
       ],
-      "third_party_dependency": "none",
+      "description": "Orchid: VPN, Personal Firewall",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://orchid.network",
+        "github": "https://github.com/OrchidTechnologies/orchid",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/orchid/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/orchid/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/orchid/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/orchid/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU Affero General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
@@ -29356,53 +29308,40 @@
       "id": "rotki",
       "name": "Rotki",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
       "ecosystem": [
-        "ethereum",
-        "bitcoin",
-        "other"
+        "Ethereum"
       ],
-      "description": "rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy",
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "A portfolio tracking, analytics, accounting and management application that protects your privacy",
       "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Lefteris Karapetsas",
-            "link": "https://x.com/LefterisJP"
-          }
-        ]
+        "anonymous": true
       },
       "links": {
-        "web": "https://rotki.com/",
+        "web": "https://rotki.com",
         "github": "https://github.com/rotki/rotki",
-        "docs": "https://docs.rotki.com/",
-        "blog": "https://blog.rotki.com/",
-        "twitter": "https://x.com/rotkiapp",
-        "discord": "https://discord.rotki.com/"
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/rotki/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/rotki/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/rotki/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/rotki/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/rotki/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
       },
       "sunset": false,
       "blockchain_features": {
         "opensource": true,
-        "asset_custody_type": "non-custody",
-        "p2p": true
+        "asset_custody_type": "non-custody"
       },
-      "privacy_policy": {
-        "defined": true,
-        "link": "https://rotki.com/privacy-policy"
-      },
-      "default_privacy": true,
+      "default_privacy": false,
       "tracebility": {
-        "kyc": false,
-        "sign_in_type_requirments": [
-          "wallet"
-        ]
+        "kyc": false
       },
-      "third_party_dependency": "none",
-      "usecases": [
-        "dapps"
-      ],
-      "have_token": false,
+      "licences": "GNU Affero General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
@@ -30877,27 +30816,39 @@
       "id": "mobilecoin",
       "name": "MobileCoin",
       "categories": [
-        "defi"
+        "infrastructure"
       ],
-      "description": "MobileCoin makes global payments inexpensive, secure and fast",
       "ecosystem": [
-        "other"
+        "Ethereum"
       ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Private payments for mobile devices.",
+      "team": {
+        "anonymous": true
+      },
       "links": {
         "web": "https://mobilecoin.com",
-        "github": "https://github.com/mobilecoinofficial",
-        "blog": "https://www.sentz.com/blog",
-        "twitter": "https://x.com/mobilecoin",
-        "facebook": "https://www.facebook.com/people/Sentz-App/61550924458469/"
+        "github": "https://github.com/mobilecoinfoundation/mobilecoin",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/README.md"
       },
-      "team": {
-        "anonymous": false
+      "project_status": {
+        "version": "Mainnet"
       },
-      "usecases": [
-        "currency"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Other",
       "logos": [
         {
           "file": "logo.png",
@@ -31090,6 +31041,43 @@
         "encryption": ""
       },
       "storage": {}
+    },
+    {
+      "id": "sienna-network",
+      "name": "Sienna Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Sienna Network Monorepo",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/SiennaNetwork/SiennaNetwork",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sienna-network/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sienna-network/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sienna-network/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sienna-network/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU Affero General Public License v3.0"
     },
     {
       "id": "mysterium-vpn",
@@ -31508,123 +31496,44 @@
       "id": "monero",
       "name": "Monero",
       "categories": [
-        "defi",
         "infrastructure"
       ],
-      "description": "Private, decentralized cryptocurrency that keeps your finances confidential and secure",
       "ecosystem": [
-        "monero"
+        "Ethereum"
       ],
-      "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Monero: the secure, private, untraceable cryptocurrency",
+      "team": {
+        "anonymous": true
       },
       "links": {
-        "web": "https://www.getmonero.org",
-        "blog": "https://www.getmonero.org/blog/",
-        "github": "https://github.com/monero-ecosystem",
-        "forum": "https://monero.town",
-        "docs": "https://docs.getmonero.org/",
-        "whitepaper": "https://web.getmonero.org/resources/research-lab/pubs/whitepaper_annotated.pdf",
-        "block_explorer": "https://xmrchain.net",
-        "governance": "",
-        "twitter": "https://x.com/monero",
-        "discord": "",
-        "telegram": "https://t.me/monero",
-        "lens": "",
-        "farcaster": ""
+        "web": "https://monero.io",
+        "github": "https://github.com/monero-project/monero",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/monero/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/monero/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/monero/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/monero/README.md"
       },
-      "team": {
-        "anonymous": true,
-        "teammembers": [
-          {
-            "name": "Monero-core contributors",
-            "link": "https://github.com/monero-project/monero/graphs/contributors"
-          }
-        ]
+      "project_status": {
+        "version": "Mainnet"
       },
-      "usecases": [
-        "currency",
-        "mixing-service",
-        "defi"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Other",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/monero/logo.png"
-        }
-      ],
-      "product_launch_day": "2014-05-18T00:00:00.000Z",
-      "sunset": false,
-      "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": []
-      },
-      "default_privacy": true,
-      "project_phase": "mainnet",
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": "Blockchain, Ring Signatures, RingCT, Stealth addresses, Tor.",
-        "p2p": true
-      },
-      "storage": {
-        "decentralized": true
-      },
-      "assets_used": [],
-      "tokens": [],
-      "funding": [],
-      "history": [
-        {
-          "title": "RingCT update",
-          "description": "Allowd confidential amounts",
-          "link": "https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades",
-          "time": "2017-01-05T00:00:00.000Z"
-        },
-        {
-          "title": "RandomX PoW consensus",
-          "description": "Switches the mining algorithm",
-          "link": "https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades",
-          "time": "2019-11-11T00:00:00.000Z"
-        },
-        {
-          "title": "Atomic Swaps released",
-          "description": "AtomicSwaps is a protocol to trade monero for bitcoin trustlessly",
-          "link": "https://www.getmonero.org/2021/08/20/atomic-swaps.html",
-          "time": "2021-08-20T00:00:00.000Z"
-        },
-        {
-          "title": "P2Pool released",
-          "description": "P2Pool is a protocol for creating decentralized mining pools",
-          "link": "https://www.getmonero.org/2021/10/05/p2pool-released.html",
-          "time": "2021-10-05T00:00:00.000Z"
-        },
-        {
-          "title": "v0.18 hardfork",
-          "description": "ringsize = 16, bulletproofs+, view tags, adjusted dynamic block weight algorithm.",
-          "link": "https://github.com/monero-project/monero?tab=readme-ov-file#scheduled-softwarenetwork-upgrades",
-          "time": "2022-08-13T00:00:00.000Z"
-        },
-        {
-          "title": "Haveno-reto DEX released",
-          "description": "Haveno-reto is a multisig DEX to trade monero for FIAT and cryptos",
-          "link": "https://monero.town/post/3135463",
-          "time": "2024-05-13T00:00:00.000Z"
         }
       ]
     },
@@ -31949,124 +31858,59 @@
       "id": "zano",
       "name": "Zano",
       "categories": [
-        "defi",
-        "infrastructure",
-        "applications"
+        "infrastructure"
       ],
-      "description": "Zano is an open-source cryptocurrency and ecosystem with enterprise-grade privacy, security, and scalability that operates as a robust foundation for confidential assets and decentralised applications (dApps).",
       "ecosystem": [
-        "other",
-        "other"
+        "Ethereum"
       ],
-      "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Confidential, Secure, Easy-to-Use",
+      "team": {
+        "anonymous": true
       },
       "links": {
-        "web": "https://zano.org",
-        "blog": "https://blog.zano.org/",
+        "web": {
+          "primary_url": "https://zano.org",
+          "blog_url": "https://blog.zano.org/",
+          "explorer_url": "https://explorer.zano.org/",
+          "confidence": 0.95,
+          "sources": [
+            {
+              "url": "https://zano.org",
+              "method": "direct HTTP curl",
+              "status_code": 200,
+              "verification": "HTTPS verified, Cloudflare-secured"
+            }
+          ]
+        },
         "github": "https://github.com/hyle-team/zano",
-        "forum": "",
-        "docs": "https://docs.zano.org/",
-        "whitepaper": "https://docs.zano.org/docs/learn/whitepaper",
-        "block_explorer": "https://explorer.zano.org/",
-        "governance": "",
-        "twitter": "https://x.com/zano_project",
-        "discord": "https://discord.gg/zano",
-        "telegram": "https://t.me/zanocoin",
-        "lens": "",
-        "farcaster": ""
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/README.md"
       },
-      "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Quinten van Welzen ",
-            "link": "https://x.com/Mr_Kwibs"
-          },
-          {
-            "name": "Pavel Nikienkov",
-            "link": "https://x.com/pavelravaga"
-          },
-          {
-            "name": "Andrey Sabelnikov ",
-            "link": "https://x.com/_cryptozoidberg"
-          },
-          {
-            "name": "Valeriy Pisarkov",
-            "link": "https://x.com/crypto_sowle"
-          }
-        ]
+      "project_status": {
+        "version": "Mainnet"
       },
-      "usecases": [
-        "currency",
-        "defi",
-        "wallets",
-        "infrastructure",
-        "bridge",
-        "research-and-development",
-        "dapps"
-      ],
-      "have_token": false,
-      "third_party_dependency": "No",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Other",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zano/logo.png"
         }
-      ],
-      "product_launch_day": "2019-06-05T22:00:00.000Z",
-      "sunset": false,
-      "assets_used": [],
-      "tokens": [
-        {
-          "symbol": "ZANO",
-          "name": "Zano",
-          "contract_address": "",
-          "token_link": "https://explorer.zano.org/"
-        }
-      ],
-      "project_phase": "mainnet",
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": true
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": "CryptoNote",
-        "p2p": true
-      },
-      "storage": {},
-      "privacy_policy": {
-        "defined": true,
-        "link": "https://zano.org/privacy-policy",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": []
-      },
-      "default_privacy": true,
-      "audits": [
-        {
-          "name": "Zarcanum Review by Cypher Stack (Aaron Feickert)",
-          "url": "https://github.com/cypherstack/zarcanum-review/releases/tag/final",
-          "time": "2021-12-20T23:00:00.000Z"
-        },
-        {
-          "name": "Zano d/v-CLSAG Review by Cypher Stack (Aaron Feickert)",
-          "url": "https://github.com/cypherstack/zano-clsag-review/releases/tag/final",
-          "time": "2024-03-07T23:00:00.000Z"
-        }
-      ],
-      "social_trust": "The Zano core team",
-      "technical_spof": "",
-      "funding": []
+      ]
     },
     {
       "id": "zkpass",
@@ -32730,23 +32574,38 @@
       "id": "zeal",
       "name": "Zeal",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "The web3 wallet that defends your crypto and privacy",
       "ecosystem": [
-        "multichain"
+        "Ethereum"
       ],
-      "links": {
-        "web": "https://www.zeal.app/"
-      },
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Code repository for Zeal wallet",
       "team": {
         "anonymous": true
       },
-      "usecases": [
-        "wallets"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "links": {
+        "web": "https://zeal.network",
+        "github": "https://github.com/zealwallet/Wallet",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zeal/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zeal/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zeal/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zeal/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
       "logos": [
         {
           "file": "logo.png",
@@ -32834,45 +32693,47 @@
     },
     {
       "id": "xx-network",
-      "name": "XX network",
+      "name": "Xx Network",
       "categories": [
         "infrastructure"
       ],
-      "description": "The first and only quantum-resistant and privacy-focused blockchain ecosystem",
-      "links": {
-        "web": "https://xx.network",
-        "github": "https://git.xx.network/explore",
-        "whitepaper": "https://xx.network/whitepapers/",
-        "docs": "https://blockchainapi.xx.network/",
-        "twitter": "https://twitter.com/xx_network"
-      },
-      "have_token": false,
-      "tokens": [
-        {
-          "symbol": "XX"
-        }
+      "ecosystem": [
+        "Ethereum"
       ],
-      "project_status": {
-        "live_status": true,
-        "version": "Mainnet",
-        "testnet": true,
-        "mainnet": true
-      },
       "usecases": [
-        "infrastructure"
+        "Privacy"
       ],
-      "third_party_dependency": "none",
+      "description": "xx network Substrate based blockchain node",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/xxfoundation/xxchain",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/xx-network/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/xx-network/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/xx-network/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/xx-network/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU General Public License v3.0",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/xx-network/logo.png"
         }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "sunset": false
+      ]
     },
     {
       "id": "polyhedra-zk-nft-container",
@@ -33271,6 +33132,44 @@
         "other"
       ],
       "sunset": false
+    },
+    {
+      "id": "mask-network",
+      "name": "Mask Network",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "The portal to the new, open Internet. ([I:b])",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/DimensionDev/Maskbook",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mask-network/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mask-network/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mask-network/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mask-network/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mask-network/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "GNU Affero General Public License v3.0"
     },
     {
       "id": "ohmni",
@@ -34358,106 +34257,51 @@
       "id": "fluidkey",
       "name": "Fluidkey",
       "categories": [
-        "applications"
-      ],
-      "usecases": [
-        "defi",
-        "wallets"
+        "infrastructure"
       ],
       "ecosystem": [
-        "ethereum"
+        "Ethereum"
       ],
-      "description": "Receive and manage funds onchain without publicly linking them to you via stealth addresses. ",
-      "sunset": false,
-      "links": {
-        "web": "https://www.fluidkey.com",
-        "blog": "",
-        "github": "https://github.com/fluidkey",
-        "forum": "",
-        "docs": "https://docs.fluidkey.com/",
-        "whitepaper": "",
-        "block_explorer": "",
-        "governance": "",
-        "twitter": "https://x.com/fluidkey",
-        "discord": "",
-        "telegram": "https://t.me/fluidkey",
-        "lens": "",
-        "farcaster": "https://farcaster.xyz/~/channel/fluidkey"
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "An open source repository of the core cryptographic functions used by Fluidkey’s interface and SDK.",
+      "team": {
+        "anonymous": true
       },
+      "links": {
+        "web": "https://fluidkey.com",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "MIT License",
       "logos": [
         {
           "file": "logo.jpeg",
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/fluidkey/logo.jpeg"
-        }
-      ],
-      "assets_used": [
-        "eth",
-        "usdc"
-      ],
-      "have_token": false,
-      "tokens": [],
-      "project_phase": "mainnet",
-      "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
-      },
-      "blockchain_features": {
-        "opensource": false,
-        "upgradability": {
-          "enabled": true
         },
-        "asset_custody_type": "non-custody",
-        "encryption": "Stealth Address",
-        "p2p": true
-      },
-      "storage": {},
-      "privacy_policy": {
-        "defined": true,
-        "link": "https://www.fluidkey.com/privacy",
-        "data_usage": "information gathering"
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "Contact details, Login details, Request details. Blockchain data ",
-        "sign_in_type_requirments": [
-          "email",
-          "wallet"
-        ]
-      },
-      "default_privacy": false,
-      "audits": [
         {
-          "name": "Fluidkey Stealth Account Kit",
-          "url": "https://github.com/fluidkey/fluidkey-stealth-account-kit/blob/main/audits/Fluidkey%20Stealth%20Account%20Kit%20-%20May%2024,%202024.pdf",
-          "time": "2024-05-23T22:00:00.000Z"
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/fluidkey/logo.png"
         }
-      ],
-      "third_party_dependency": "Yes",
-      "social_trust": "",
-      "technical_spof": "",
-      "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Moritz Boullenger",
-            "link": "https://www.linkedin.com/in/moritzboullenger/"
-          },
-          {
-            "name": "Antonio Seveso",
-            "link": "https://www.linkedin.com/in/antonio-seveso/"
-          },
-          {
-            "name": "Federico Castelli",
-            "link": "https://www.linkedin.com/in/federico-castelli/"
-          }
-        ]
-      },
-      "funding": [],
-      "history": []
+      ]
     },
     {
       "id": "litewallet",
@@ -37015,6 +36859,44 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/rehide/logo.png"
         }
       ]
+    },
+    {
+      "id": "webb-protocol",
+      "name": "Webb Protocol",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Monorepo for the Tangle ecosystem.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "github": "https://github.com/tangle-network/dapp",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "Apache License 2.0"
     },
     {
       "id": "ethernity-cloud",
@@ -40796,64 +40678,39 @@
       "id": "wasabi-wallet",
       "name": "Wasabi Wallet",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "Open-source, non-custodial Bitcoin Wallet for desktop",
       "ecosystem": [
-        "bitcoin"
+        "Ethereum"
       ],
-      "links": {
-        "web": "https://wasabiwallet.io/",
-        "github": "https://github.com/WalletWasabi",
-        "docs": "https://docs.wasabiwallet.io/",
-        "blog": "https://blog.wasabiwallet.io/",
-        "twitter": "https://x.com/wasabiwallet",
-        "discord": "https://discord.gg/nm7YHEZnJs",
-        "telegram": "https://t.me/WasabiWallet"
-      },
-      "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Lucas Ontivero",
-            "link": "https://github.com/lontivero"
-          },
-          {
-            "name": "Turbolay",
-            "link": "https://github.com/turbolay"
-          }
-        ]
-      },
       "usecases": [
-        "wallets"
+        "Privacy"
       ],
-      "project_phase": "mainnet",
+      "description": "Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://wasabi-wallet.io",
+        "github": "https://github.com/WalletWasabi/WalletWasabi",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/SECURITY.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/README.md"
+      },
       "project_status": {
-        "live_status": true,
-        "version": "mainnet",
-        "testnet": false,
-        "mainnet": true
+        "version": "Mainnet"
       },
       "sunset": false,
-      "have_token": false,
       "blockchain_features": {
         "opensource": true,
-        "asset_custody_type": "non-custody",
-        "upgradability": {
-          "enabled": true
-        }
+        "asset_custody_type": "non-custody"
       },
-      "privacy_policy": {
-        "defined": false
-      },
-      "default_privacy": true,
+      "default_privacy": false,
       "tracebility": {
-        "kyc": false,
-        "sign_in_type_requirments": [
-          "wallet"
-        ]
+        "kyc": false
       },
-      "third_party_dependency": "none",
+      "licences": "MIT License",
       "logos": [
         {
           "file": "logo.png",
@@ -41572,117 +41429,48 @@
     },
     {
       "id": "semaphore",
-      "name": "semaphore",
+      "name": "Semaphore",
       "categories": [
-        "applications"
+        "infrastructure"
       ],
-      "description": "Semaphore is a protocol that allows users to prove their membership in a group and transmit anonymous data, such as votes or feedback, without revealing their identities.",
-      "project_status": {
-        "live_status": true,
-        "mainnet": true,
-        "testnet": false,
-        "version": "mainnet"
-      },
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "A zero-knowledge protocol for anonymous interactions.",
       "team": {
-        "anonymous": true,
-        "teammembers": [
-          {
-            "name": "Vivian",
-            "link": "https://x.com/ViviPlasenciaC"
-          },
-          {
-            "name": "Andy",
-            "link": "https://x.com/AndyGuzmanEth"
-          }
-        ]
+        "anonymous": true
       },
       "links": {
-        "web": "https://semaphore.pse.dev",
-        "blog": "https://mirror.xyz/privacy-scaling-explorations.eth/Yi4muh-vzDZmIqJIcM9Mawu2e7jw8MRnwxvhFcyfns8",
-        "github": "https://github.com/semaphore-protocol",
-        "forum": "",
-        "docs": "https://docs.semaphore.pse.dev",
-        "whitepaper": "https://semaphore.pse.dev/whitepaper-v1.pdf",
-        "block_explorer": "https://explorer.semaphore.pse.dev/",
-        "governance": "https://github.com/orgs/semaphore-protocol/discussions",
-        "twitter": "https://semaphore.pse.dev/twitter",
-        "discord": "https://semaphore.pse.dev/discord",
-        "telegram": "https://t.me/semaphore_community",
-        "lens": "",
-        "farcaster": ""
+        "web": "https://semaphore.io",
+        "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/semaphore/reports/CODE_REVIEW.md",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/semaphore/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/semaphore/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/semaphore/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/semaphore/README.md"
       },
-      "technology": {
-        "type": "zk-kit, circom, snarkjs",
-        "features": [
-          ""
-        ]
+      "project_status": {
+        "version": "Mainnet"
       },
-      "usecases": [
-        "did"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "licences": "MIT License",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/semaphore/logo.png"
         }
-      ],
-      "ecosystem": [
-        "ethereum",
-        "other"
-      ],
-      "product_launch_day": "2019-06-09T06:00:00.000Z",
-      "sunset": false,
-      "assets_used": [
-        "eth",
-        "other"
-      ],
-      "tokens": [],
-      "project_phase": "mainnet",
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "",
-        "encryption": "ZK, Sha256, Poseidon, EdDSA"
-      },
-      "storage": {},
-      "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
-      },
-      "compliance": "",
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "Identity Commitment",
-        "sign_in_type_requirments": []
-      },
-      "default_privacy": true,
-      "audits": [
-        {
-          "name": "Semaphore Audit 2.0.0",
-          "url": "https://github.com/semaphore-protocol/semaphore/blob/main/apps/website/public/Semaphore_2.0.0_Audit.pdf",
-          "time": ""
-        },
-        {
-          "name": "Semaphore Audit 2.5.0",
-          "url": "https://github.com/semaphore-protocol/semaphore/blob/main/apps/website/public/Semaphore_2.5.0_Audit.pdf",
-          "time": ""
-        },
-        {
-          "name": "Semaphore Audit 3.0.0",
-          "url": "https://github.com/semaphore-protocol/semaphore/blob/main/apps/website/public/Semaphore_3.0.0_Audit.pdf",
-          "time": ""
-        }
-      ],
-      "social_trust": "",
-      "technical_spof": "",
-      "funding": [],
-      "history": []
+      ]
     },
     {
       "id": "fiber",
@@ -42315,6 +42103,49 @@
       ],
       "ecosystem": [
         "other"
+      ]
+    },
+    {
+      "id": "incognito",
+      "name": "Incognito",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "Ethereum"
+      ],
+      "usecases": [
+        "Privacy"
+      ],
+      "description": "Privacy technology project focused on Web3 security and anonymity.",
+      "team": {
+        "anonymous": true
+      },
+      "links": {
+        "web": "https://incognito.com",
+        "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/reports/TEAM.md",
+        "security_report": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/reports/SECURITY.md",
+        "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/reports/technical_analysis.md",
+        "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/README.md"
+      },
+      "project_status": {
+        "version": "Mainnet"
+      },
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "default_privacy": false,
+      "tracebility": {
+        "kyc": false
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/incognito/logo.png"
+        }
       ]
     },
     {
