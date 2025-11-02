@@ -1,30 +1,25 @@
-id: deeper-network
 name: Deeper Network
 categories:
-  - hardware
-description: Web 3.0 infrastructure of the users, by the users, for the users.
-project_status:
-  version: Mainet
-  live_status: true
-  mainnet: true
-  testnet: false
-links:
-  web: https://www.deeper.network
-  blog: https://shop.deeper.network/pages/blog
-  twitter: https://x.com/deeper_network
-  discord: https://discord.com/invite/EWUyAJyH2B
-  facebook: https://www.facebook.com/deeper.network
-  telegram: https://t.me/DeeperNetwork
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: deeper chain is the blockchain layer for deeper network.
 team:
   anonymous: true
-usecases:
-  - hardware
-have_token: false
-third_party_dependency: none
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/deeper-network/logo.png
-ecosystem:
-  - other
+links:
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/README.md
+project_status:
+  version: Mainnet
 sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: Apache License 2.0

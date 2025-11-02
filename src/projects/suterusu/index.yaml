@@ -1,42 +1,26 @@
-id: suterusu
 name: Suterusu
 categories:
-  - infrastructure
-description: A suite of privacy-preserving services to obfuscate transactional
-  and asset information
-links:
-  web: https://suterusu.io
-  blog: ""
-  github: https://github.com/suterusu-team
-  forum: ""
-  docs: ""
-  whitepaper: ""
-  block_explorer: ""
-  governance: ""
-  twitter: ""
-  discord: ""
-  telegram: ""
-  lens: ""
-  farcaster: ""
-have_token: false
-tokens:
-  - symbol: SUTER
-usecases:
-  - infrastructure
-third_party_dependency: none
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/suterusu/logo.png
+- infrastructure
 ecosystem:
-  - other
-sunset: true
+- Ethereum
+usecases:
+- Privacy
+description: zk-ConSNARK rust implementation
 team:
-  anonymous: false
-  teammembers: []
-audits:
-  - name: PeckShield-Audit-Report-Suterusu-v1.0.pdf
-    url: https://github.com/suterusu-team/suterusu-documents/blob/master/PeckShield-Audit-Report-Suterusu-v1.0.pdf
-    time: 2021-03-01T00:00:00.000Z
-social_trust: ""
-technical_spof: ""
+  anonymous: true
+links:
+  web: https://suterusu.com
+  github: https://github.com/suterusu-team/suter-proofs
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/README.md
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false

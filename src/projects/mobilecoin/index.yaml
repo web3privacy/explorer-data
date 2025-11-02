@@ -1,19 +1,27 @@
-id: mobilecoin
 name: MobileCoin
 categories:
-  - defi
-description: 'MobileCoin makes global payments inexpensive, secure and fast'
+- infrastructure
 ecosystem:
-  - other
-links:
-  web: 'https://mobilecoin.com'
-  github: 'https://github.com/mobilecoinofficial'
-  blog: 'https://www.sentz.com/blog'
-  twitter: 'https://x.com/mobilecoin'
-  facebook: 'https://www.facebook.com/people/Sentz-App/61550924458469/'
-team:
-  anonymous: false
+- Ethereum
 usecases:
-  - currency
-have_token: false
-third_party_dependency: none
+- Privacy
+description: Private payments for mobile devices.
+team:
+  anonymous: true
+links:
+  web: https://mobilecoin.com
+  github: https://github.com/mobilecoinfoundation/mobilecoin
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/README.md
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: Other

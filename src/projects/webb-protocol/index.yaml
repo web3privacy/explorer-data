@@ -1,0 +1,27 @@
+name: Webb Protocol
+categories:
+- infrastructure
+ecosystem:
+- Ethereum
+usecases:
+- Privacy
+description: Monorepo for the Tangle ecosystem.
+team:
+  anonymous: true
+links:
+  github: https://github.com/tangle-network/dapp
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/SECURITY.md
+  technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/reports/technical_analysis.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/README.md
+project_status:
+  version: Mainnet
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: Apache License 2.0

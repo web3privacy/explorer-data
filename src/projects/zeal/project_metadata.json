@@ -1,0 +1,40 @@
+{
+  "id": "zeal",
+  "name": "Zeal",
+  "slug": "zeal",
+  "description": "",
+  "website": "",
+  "github": "",
+  "documentation": "",
+  "category": "other",
+  "subcategories": [],
+  "tech_stack": [],
+  "privacy_techniques": [],
+  "blockchain_platforms": [],
+  "status": "unknown",
+  "maturity_level": "unknown",
+  "last_update": "2025-10-07T22:25:37.756413",
+  "launch_date": "",
+  "confidence": 0.0,
+  "sources": [
+    {
+      "type": "manual",
+      "url": "internal-research",
+      "retrieved_at": "2025-10-07T22:25:37.756417",
+      "confidence": 0.0
+    }
+  ],
+  "missing_fields": [],
+  "verified": true,
+  "readme_path": "zeal/README.md",
+  "card_path": "zeal/CARD.md",
+  "team": [],
+  "social_links": {
+    "twitter": "",
+    "discord": "",
+    "telegram": "",
+    "medium": "",
+    "mirror": ""
+  },
+  "investors": []
+}
