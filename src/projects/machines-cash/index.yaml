@@ -1,0 +1,20 @@
+name: machines cash
+categories:
+  - applications
+usecases:
+  - wallets
+  - eth-layer-2
+  - currency
+  - dapps
+ecosystem:
+  - ethereum
+  - bitcoin
+  - solana
+description: privacy is not a setting. unlimited virtual cards for private
+  payments - like an email alias for onchain accounts. apple hide my email
+  for  crypto. anywhere visa is accepted.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+id: machines-cash
