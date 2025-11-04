@@ -32050,21 +32050,40 @@
       "id": "silent-data",
       "name": "Silent Data",
       "categories": [
-        "applications"
+        "applications",
+        "infrastructure"
       ],
-      "description": "Verify web2 Data in web3 Applications.",
+      "description": "The first high-performance, privacy-enabled L2 on the Superchain. Built by Applied Blockchain, Silent Data enables on-chain verification of private data, bringing programmable privacy and confidentiality to public blockchains.",
       "links": {
         "web": "https://silentdata.com",
-        "docs": "https://docs.silentdata.com/docs",
-        "blog": "https://www.silentdata.com/oracle/blog/",
+        "blog": "https://www.silentdata.com/resources",
+        "github": "https://github.com/appliedblockchain",
+        "forum": "",
+        "docs": "https://docs.silentdata.com/",
+        "whitepaper": "",
+        "block_explorer": "https://explorer-mainnet.rollup.silentdata.com/",
+        "governance": "",
         "twitter": "https://x.com/SilentDataApp",
-        "discord": "https://discord.com/invite/5Dg57zStXG"
+        "discord": "https://discord.com/invite/5Dg57zStXG",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
       },
       "usecases": [
-        "dapps"
+        "dapps",
+        "eth-layer-2",
+        "infrastructure",
+        "tee",
+        "defi",
+        "currency",
+        "did",
+        "dao",
+        "nft-community",
+        "data-management",
+        "donate-charity"
       ],
       "have_token": false,
-      "third_party_dependency": "none",
+      "third_party_dependency": "Ethereum L1",
       "logos": [
         {
           "file": "logo.png",
@@ -32077,7 +32096,79 @@
         "other",
         "multichain"
       ],
-      "sunset": false
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "other"
+      ],
+      "tokens": [
+        {
+          "symbol": "ETH",
+          "name": "Ether",
+          "contract_address": "",
+          "token_link": "https://explorer-mainnet.rollup.silentdata.com/"
+        }
+      ],
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Trusted Execution Environment (TEE)",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.silentdata.com/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "GDPR",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Trail of Bits",
+          "url": "",
+          "time": "2025-08-25T23:00:00.000Z"
+        },
+        {
+          "name": "NCC Group",
+          "url": "",
+          "time": "2025-09-21T23:00:00.000Z"
+        }
+      ],
+      "social_trust": "Self-governed",
+      "technical_spof": "Data is protected from the host via TEE",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Andrew Campbell",
+            "link": "https://www.linkedin.com/in/andylnd/"
+          },
+          {
+            "name": "Adi Ben-Ari",
+            "link": "https://www.linkedin.com/in/adibenari/"
+          }
+        ]
+      },
+      "funding": [],
+      "history": []
     },
     {
       "id": "web3privacynow",
