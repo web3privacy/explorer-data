@@ -1,10 +1,10 @@
 name: Zano
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- Ethereum
+  - ethereum
 usecases:
-- Privacy
+  - privacy
 description: Confidential, Secure, Easy-to-Use
 team:
   anonymous: true
@@ -15,17 +15,20 @@ links:
     explorer_url: https://explorer.zano.org/
     confidence: 0.95
     sources:
-    - url: https://zano.org
-      method: direct HTTP curl
-      status_code: 200
-      verification: HTTPS verified, Cloudflare-secured
+      - url: https://zano.org
+        method: direct HTTP curl
+        status_code: 200
+        verification: HTTPS verified, Cloudflare-secured
   github: https://github.com/hyle-team/zano
   code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/CODE_REVIEW.md
   team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/TEAM.md
   security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/SECURITY.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true

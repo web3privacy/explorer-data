@@ -1,11 +1,11 @@
 name: Monero
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- Ethereum
+  - ethereum
 usecases:
-- Privacy
-description: 'Monero: the secure, private, untraceable cryptocurrency'
+  - privacy
+description: "Monero: the secure, private, untraceable cryptocurrency"
 team:
   anonymous: true
 links:
@@ -16,7 +16,10 @@ links:
   security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/monero/reports/SECURITY.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/monero/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true

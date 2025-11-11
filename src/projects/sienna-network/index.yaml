@@ -1,10 +1,10 @@
 name: Sienna Network
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- Ethereum
+  - ethereum
 usecases:
-- Privacy
+  - privacy
 description: Sienna Network Monorepo
 team:
   anonymous: true
@@ -15,7 +15,10 @@ links:
   security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/sienna-network/reports/SECURITY.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/sienna-network/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true

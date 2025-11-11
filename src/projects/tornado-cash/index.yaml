@@ -1,28 +1,26 @@
 name: Tornado Cash
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- avalanche
-- arbitrum
-- optimism
-- gnosis_chain
-- binance_smart_chain
-- ethereum
-- polygon
+  - other
+  - other
+  - other
+  - other
+  - other
+  - ethereum
+  - other
 usecases:
-- Privacy
-description: Fully decentralized, non-custodial cryptocurrency mixer protocol that
-  runs on Ethereum Virtual Machine-compatible networks, enabling private transactions
-  using zero-knowledge proof technology. Torn...
+  - privacy
+description: Fully decentralized, non-custodial cryptocurrency mixer protocol that runs on Ethereum Virtual Machine-compatible networks, enabling private transactions using zero-knowledge proof technology. Torn...
 team:
   anonymous: false
   teammembers:
-  - name: Roman Storm
-    role: Founder
-  - name: Alexey Pertsev
-    role: Founder
-  - name: Roman Semenov
-    role: Founder
+    - name: Roman Storm
+      role: Founder
+    - name: Alexey Pertsev
+      role: Founder
+    - name: Roman Semenov
+      role: Founder
 links:
   web: https://tornado-cash.org
   github: https://github.com/tornadocash/tornado-core
@@ -32,7 +30,10 @@ links:
   technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/technical_analysis.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true
