@@ -3323,10 +3323,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Privacy technology project focused on Web3 security and anonymity.",
       "team": {
@@ -3341,7 +3341,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fileverse/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -6370,10 +6373,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol",
       "team": {
@@ -6387,7 +6390,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mysterium-network/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -6447,10 +6453,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Elusiv Solana program library",
       "team": {
@@ -6464,7 +6470,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -7325,10 +7334,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Zero-knowledge voting based on Semaphore",
       "team": {
@@ -7344,7 +7353,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zkvote/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -7496,10 +7508,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Privacy technology project focused on Web3 security and anonymity.",
       "team": {
@@ -7514,7 +7526,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -7646,10 +7661,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.",
       "team": {
@@ -7665,7 +7680,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -9443,10 +9461,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "deeper chain is the blockchain layer for deeper network.",
       "team": {
@@ -9459,7 +9477,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/deeper-network/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -10042,10 +10063,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "The privacy-focused cryptocurrency",
       "team": {
@@ -10059,7 +10080,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/firo/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -10501,10 +10525,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Performant and Confidentiality-Preserving Smart Contracts + Blockchains",
       "team": {
@@ -10519,7 +10543,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oasis-network/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -11923,10 +11950,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Zcash - Internet Money",
       "team": {
@@ -11941,7 +11968,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zcash/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -16541,10 +16571,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. 0xbow blocks illicit actors to ensure pool integrity.",
       "team": {
@@ -16560,7 +16590,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/privatepool/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -17725,16 +17758,16 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "avalanche",
-        "arbitrum",
-        "optimism",
-        "gnosis_chain",
-        "binance_smart_chain",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
         "ethereum",
-        "polygon"
+        "other"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Fully decentralized, non-custodial cryptocurrency mixer protocol that runs on Ethereum Virtual Machine-compatible networks, enabling private transactions using zero-knowledge proof technology. Torn...",
       "team": {
@@ -17764,7 +17797,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -18079,17 +18115,17 @@
       "usecases": [
         "wallets",
         "defi",
-        "mixing service",
-        "multi-party computation"
+        "mixing-service",
+        "other"
       ],
       "ecosystem": [
         "solana"
       ],
       "description": "Umbra is a privacy protocol designed to bring confidentiality, composability, and compliance-ready infrastructure to the Solana ecosystem. \nWith privacy as a cornerstone of financial freedom and secure innovation, Umbra aims to provide a foundation for applications and users to transact with confidence.",
-      "product_launch_day": "2025-05-01",
+      "product_launch_day": "2025-05-01T00:00:00.000Z",
       "sunset": false,
       "assets_used": [
-        "SOL"
+        "sol"
       ],
       "have_token": false,
       "tokens": [],
@@ -18136,17 +18172,8 @@
         "dissapearing_tx": false,
         "connected_tx": false
       },
-      "privacy": {
-        "default_privacy": true,
-        "compliance": "Range.org powered wallet screening that includes lists like OFAC, Hacker_wallet_list, etc; Viewing Keys, DAO-governed MPC-powered selective account decryption",
-        "traceability_kyc": false,
-        "traceability_sign_in_type_requirements": "Wallet"
-      },
       "storage": {
         "decentralized": false
-      },
-      "security": {
-        "social_trust": "metaDAO Futarchy Governance"
       },
       "funding": [
         {
@@ -19435,10 +19462,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "iden3 documentation",
       "team": {
@@ -19453,7 +19480,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iden3/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -20343,10 +20373,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Circom is a specialized compiler and circuit description language for building zero-knowledge proof applications. Written in Rust, it enables developers to design arithmetic circuits that are compi...",
       "team": {
@@ -20361,7 +20391,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/circom/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -21055,10 +21088,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "zkSync: trustless scaling and privacy engine for Ethereum",
       "team": {
@@ -21073,7 +21106,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zksync/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -21463,10 +21499,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Anonymous. Uncensored. Sovereign.",
       "team": {
@@ -21480,7 +21516,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -22341,10 +22380,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Blockchain core managing Sentinel network services, staking, and governance",
       "team": {
@@ -22359,7 +22398,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sentinel/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -23499,10 +23541,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "zkSNARK implementation in JavaScript & WASM",
       "team": {
@@ -23517,7 +23559,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/snarkjs/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -24078,10 +24123,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Official Implementation of Findora Network.",
       "team": {
@@ -24095,7 +24140,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/findora/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -25397,19 +25445,19 @@
       "id": "cake-wallet",
       "name": "Cake Wallet",
       "categories": [
-        "wallets"
+        "applications"
       ],
       "ecosystem": [
-        "Ethereum",
-        "Monero",
-        "Litecoin",
-        "Haven"
+        "ethereum",
+        "monero",
+        "other",
+        "other"
       ],
       "usecases": [
-        "Wallet"
+        "other"
       ],
       "description": "Open-source, non-custodial, privacy-focused multi-currency cryptocurrency wallet supporting Monero, Bitcoin, Ethereum, Litecoin, and other cryptocurrencies. Features built-in exchange, native Tor i...",
-      "product_launch_day": "2018-01-01",
+      "product_launch_day": "2018-01-01T00:00:00.000Z",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -25431,7 +25479,10 @@
         "technical_docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/cake-wallet/reports/TECHNICAL.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -25769,10 +25820,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Privacy technology project focused on Web3 security and anonymity.",
       "team": {
@@ -25785,7 +25836,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/typhoon-network/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -27028,10 +27082,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "A novel cryptocurrency focused on privacy and accessibility.",
       "team": {
@@ -27047,7 +27101,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/iron-fish/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -27713,10 +27770,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "The main concordium node implementation.",
       "team": {
@@ -27730,7 +27787,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -28775,10 +28835,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Privacy technology project focused on Web3 security and anonymity.",
       "team": {
@@ -28793,7 +28853,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zk-money/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -28895,10 +28958,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "zk-ConSNARK rust implementation",
       "team": {
@@ -28913,7 +28976,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/suterusu/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -29207,10 +29273,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Oxen core repository, containing oxend and oxen cli wallets",
       "team": {
@@ -29225,7 +29291,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/oxen/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -29343,10 +29412,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Orchid: VPN, Personal Firewall",
       "team": {
@@ -29361,7 +29430,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/orchid/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -29388,10 +29460,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "A portfolio tracking, analytics, accounting and management application that protects your privacy",
       "team": {
@@ -29407,7 +29479,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/rotki/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -30896,10 +30971,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Private payments for mobile devices.",
       "team": {
@@ -30914,7 +30989,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mobilecoin/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -31126,10 +31204,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Sienna Network Monorepo",
       "team": {
@@ -31143,7 +31221,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/sienna-network/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -31576,10 +31657,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Monero: the secure, private, untraceable cryptocurrency",
       "team": {
@@ -31594,7 +31675,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/monero/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -31938,30 +32022,17 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Confidential, Secure, Easy-to-Use",
       "team": {
         "anonymous": true
       },
       "links": {
-        "web": {
-          "primary_url": "https://zano.org",
-          "blog_url": "https://blog.zano.org/",
-          "explorer_url": "https://explorer.zano.org/",
-          "confidence": 0.95,
-          "sources": [
-            {
-              "url": "https://zano.org",
-              "method": "direct HTTP curl",
-              "status_code": 200,
-              "verification": "HTTPS verified, Cloudflare-secured"
-            }
-          ]
-        },
+        "web": "https://zano.org",
         "github": "https://github.com/hyle-team/zano",
         "code_review": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/CODE_REVIEW.md",
         "team_info": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/reports/TEAM.md",
@@ -31969,7 +32040,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zano/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -32745,10 +32819,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Code repository for Zeal wallet",
       "team": {
@@ -32763,7 +32837,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/zeal/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -32866,10 +32943,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "xx network Substrate based blockchain node",
       "team": {
@@ -32883,7 +32960,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/xx-network/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -33308,10 +33388,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "The portal to the new, open Internet. ([I:b])",
       "team": {
@@ -33326,7 +33406,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/mask-network/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -34428,10 +34511,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "An open source repository of the core cryptographic functions used by Fluidkey’s interface and SDK.",
       "team": {
@@ -34446,7 +34529,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -37035,10 +37121,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Monorepo for the Tangle ecosystem.",
       "team": {
@@ -37053,7 +37139,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/webb-protocol/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -40849,10 +40938,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.",
       "team": {
@@ -40867,7 +40956,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -41602,10 +41694,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "A zero-knowledge protocol for anonymous interactions.",
       "team": {
@@ -41620,7 +41712,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/semaphore/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
@@ -42280,10 +42375,10 @@
         "infrastructure"
       ],
       "ecosystem": [
-        "Ethereum"
+        "ethereum"
       ],
       "usecases": [
-        "Privacy"
+        "other"
       ],
       "description": "Privacy technology project focused on Web3 security and anonymity.",
       "team": {
@@ -42297,7 +42392,10 @@
         "docs": "https://github.com/web3privacy/explorer-data/blob/main/src/projects/incognito/README.md"
       },
       "project_status": {
-        "version": "Mainnet"
+        "live_status": true,
+        "version": "Mainnet",
+        "testnet": false,
+        "mainnet": true
       },
       "sunset": false,
       "blockchain_features": {
