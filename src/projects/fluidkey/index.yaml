@@ -1,12 +1,11 @@
 name: Fluidkey
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- Ethereum
+  - ethereum
 usecases:
-- Privacy
-description: An open source repository of the core cryptographic functions used by
-  Fluidkey’s interface and SDK.
+  - other
+description: An open source repository of the core cryptographic functions used by Fluidkey’s interface and SDK.
 team:
   anonymous: true
 links:
@@ -17,7 +16,10 @@ links:
   technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/technical_analysis.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true

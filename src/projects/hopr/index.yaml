@@ -1,13 +1,11 @@
 name: HOPR
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- Ethereum
+  - ethereum
 usecases:
-- Privacy
-description: HOPR is an open incentivized mixnet which enables privacy-preserving
-  point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized
-  and economically sustainable.
+  - other
+description: HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
 team:
   anonymous: true
 links:
@@ -19,7 +17,10 @@ links:
   technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/reports/technical_analysis.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/hopr/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true

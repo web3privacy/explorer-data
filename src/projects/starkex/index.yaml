@@ -1,10 +1,10 @@
 name: StarkEX
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- Ethereum
+  - ethereum
 usecases:
-- Privacy
+  - other
 description: Privacy technology project focused on Web3 security and anonymity.
 team:
   anonymous: true
@@ -16,7 +16,10 @@ links:
   security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/reports/SECURITY.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true

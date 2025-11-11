@@ -5,16 +5,17 @@ categories:
 usecases:
   - wallets
   - defi
-  - mixing service
-  - multi-party computation
+  - mixing-service
+  - other
 ecosystem:
   - solana
 description: |-
   Umbra is a privacy protocol designed to bring confidentiality, composability, and compliance-ready infrastructure to the Solana ecosystem. 
   With privacy as a cornerstone of financial freedom and secure innovation, Umbra aims to provide a foundation for applications and users to transact with confidence.
-product_launch_day: "2025-05-01"
+product_launch_day: 2025-05-01
 sunset: false
-assets_used: [SOL]
+assets_used:
+  - sol
 have_token: false
 tokens: []
 links:
@@ -36,61 +37,52 @@ project_status:
   mainnet: false
   testnet: true
 technology:
-  type: "ZK-SNARKs, Multi-Party Computation (MPC), Pseudorandom Functions (PRFs)"
+  type: ZK-SNARKs, Multi-Party Computation (MPC), Pseudorandom Functions (PRFs)
   features:
-    [
-      "Private wallet",
-      "ZK Defi",
-      "Private bridge",
-      "Stealth addresses",
-      "Confidential transfers",
-      "Viewing keys",
-    ]
+    - Private wallet
+    - ZK Defi
+    - Private bridge
+    - Stealth addresses
+    - Confidential transfers
+    - Viewing keys
 blockchain_features:
   opensource: false
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: "Groth16, ECDH, Modern cryptography"
-  data_masking: "Stealth Addresses, ZK-SNARKs"
+  encryption: Groth16, ECDH, Modern cryptography
+  data_masking: Stealth Addresses, ZK-SNARKs
   viewing_key: true
   dissapearing_tx: false
   connected_tx: false
-privacy:
-  default_privacy: true
-  compliance: "Range.org powered wallet screening that includes lists like OFAC, Hacker_wallet_list, etc; Viewing Keys, DAO-governed MPC-powered selective account decryption"
-  traceability_kyc: false
-  traceability_sign_in_type_requirements: "Wallet"
 storage:
   decentralized: false
-security:
-  social_trust: "metaDAO Futarchy Governance"
 funding:
-  - name: "metaDAO ICO"
-    type: "ICO"
-    link: "https://metadao.fi/projects/umbra/fundraise"
-    value: "$3,000,000"
+  - name: metaDAO ICO
+    type: ICO
+    link: https://metadao.fi/projects/umbra/fundraise
+    value: $3,000,000
     time: "2025"
 team:
   anonymous: false
   teammembers:
-    - name: "Krutarth Shah"
-      role: "Co-Founder & CEO"
-      link: "https://x.com/kru_tweets"
-    - name: "Calisto Mathias"
-      role: "Co-Founder & CTO"
-      link: "https://x.com/typi_cal_"
-    - name: "Pranay Bagde"
-      role: "Co-Founder & CPO"
-      link: "https://x.com/pranay_design"
-    - name: "Asim Shaikh"
-      role: "Founding Engineer"
-      link: "https://x.com/asimshaik_10"
-    - name: "Piyush Panpaliya"
-      role: "Founding Engineer"
-      link: "https://x.com/piyush_json"
-    - name: "Pata"
-      role: "Marketing, Community & BD"
-      link: "https://x.com/0xPata"
+    - name: Krutarth Shah
+      role: Co-Founder & CEO
+      link: https://x.com/kru_tweets
+    - name: Calisto Mathias
+      role: Co-Founder & CTO
+      link: https://x.com/typi_cal_
+    - name: Pranay Bagde
+      role: Co-Founder & CPO
+      link: https://x.com/pranay_design
+    - name: Asim Shaikh
+      role: Founding Engineer
+      link: https://x.com/asimshaik_10
+    - name: Piyush Panpaliya
+      role: Founding Engineer
+      link: https://x.com/piyush_json
+    - name: Pata
+      role: Marketing, Community & BD
+      link: https://x.com/0xPata
 history: []
 id: umbra-privacy
