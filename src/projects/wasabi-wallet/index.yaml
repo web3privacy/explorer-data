@@ -1,12 +1,11 @@
 name: Wasabi Wallet
 categories:
-- infrastructure
+  - infrastructure
 ecosystem:
-- Ethereum
+  - ethereum
 usecases:
-- Privacy
-description: Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows,
-  Linux, and Mac.
+  - other
+description: Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 team:
   anonymous: true
 links:
@@ -17,7 +16,10 @@ links:
   security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/SECURITY.md
   docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/README.md
 project_status:
+  live_status: true
   version: Mainnet
+  testnet: false
+  mainnet: true
 sunset: false
 blockchain_features:
   opensource: true
