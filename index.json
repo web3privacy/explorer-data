@@ -2868,39 +2868,41 @@
       "name": "ZKForge",
       "categories": [
         "infrastructure",
+        "applications",
         "social-and-communications",
         "defi"
       ],
       "usecases": [
         "wallets",
         "defi",
+        "currency",
         "infrastructure",
-        "messaging",
-        "dapps"
+        "messaging"
       ],
       "ecosystem": [
-        "solana",
-        "ethereum"
+        "solana"
       ],
-      "description": "ZKForge is a Web3 privacy ecosystem built to let users communicate, transact, and compute without exposing their data or identity. It brings together two advanced cryptographic technologies , zkSTARK proofs and Fully Homomorphic Encryption (FHE) to enable:\n-Encrypted messaging that’s quantum-resistant and blockchain-verified.\n\n-dApps that operate on encrypted data end-to-end (so user data never gets revealed).\n\n-Anonymous payments and micropayments between humans, apps, and AI agents via the “x402” protocol layer.\n\nIts goal is to provide a privacy-by-design, anonymous-by-default infrastructure layer for Web3: enabling private chats, confidential DeFi, secure gaming, anonymous identity verification, private DAO governance, and machine-to-machine payments among AI agents.",
-      "product_launch_day": "2025-12-05T17:00:00.000Z",
+      "description": "ZKForge is built using zero-knowledge STARK technology to enable fully encrypted communication and decentralized authentication. We focus on privacy-first infrastructure where no private keys or user secrets are ever stored or transmitted.\n\nOur core technology stack includes zk-STARK proofs for authentication, Solana wallet integration for non-custodial identity, and end-to-end encryption for every message and transaction. Each session and interaction is cryptographically verified on-chain and off-chain, ensuring that users maintain complete control over their data.\n\nWhat makes ZKForge special is its ability to combine the scalability of modern Web3 frameworks with zero-knowledge privacy. Users can log in, chat, or send funds without revealing any sensitive information. It’s not just a secure app—it’s a proof-based communication layer built for the next era of privacy in blockchain.\n\nUsers should choose ZKForge because it provides real privacy, transparent security, and verifiable protection. It’s an ecosystem designed for those who want to stay encrypted, own their data, and interact safely in the decentralized world.",
+      "product_launch_day": "2025-12-04T17:00:00.000Z",
       "sunset": false,
-      "assets_used": [],
-      "have_token": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
       "tokens": [
         {
-          "symbol": "ZKFG",
-          "name": "ZKForge",
-          "contract_address": "",
-          "token_link": ""
+          "symbol": "ZKForge",
+          "name": "ZKFG",
+          "contract_address": "6pKDTUavWbdHH27nUBeZNGDSmg3gw5XMGq6gAPUf264F",
+          "token_link": "https://solscan.io/token/6pKDTUavWbdHH27nUBeZNGDSmg3gw5XMGq6gAPUf264F"
         }
       ],
       "links": {
-        "web": "zkforge.io",
+        "web": "https://zkforge.io/",
         "blog": "",
-        "github": "https://github.com/ZKForgeIO/ZKForge-Repo",
+        "github": "https://github.com/ZKForgeIO/ZKForge-V1",
         "forum": "",
-        "docs": "zkforge.io/docs",
+        "docs": "https://zkforge.io/docs",
         "whitepaper": "",
         "block_explorer": "",
         "governance": "",
@@ -2910,51 +2912,63 @@
         "lens": "",
         "farcaster": ""
       },
-      "project_phase": "mvp",
+      "project_phase": "mainnet",
       "project_status": {
         "live_status": true,
-        "mainnet": false,
+        "mainnet": true,
         "testnet": false,
-        "version": "mvp"
+        "version": "mainnet"
       },
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": true
+          "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "ZKStark"
+        "encryption": "ZK Stark",
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
+        "defined": true,
+        "link": "https://zkforge.io/privacy-policy",
+        "data_usage": "ZKForge does not collect, resell, or store any personal user information. The platform is built around zero-knowledge principles, meaning users can authenticate, chat, and transact without ever revealing private data such as names, emails, or identifiers."
       },
       "compliance": "",
       "tracebility": {
         "kyc": false,
-        "tracked_data": "",
+        "tracked_data": "zk public key, wallet address, username",
         "sign_in_type_requirments": [
-          "wallet"
+          "seed"
         ]
       },
-      "default_privacy": false,
-      "audits": [],
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Pentest - Solid Proof",
+          "url": "https://x.com/SolidProof_io/status/1987876618140873092",
+          "time": "2025-11-09T17:00:00.000Z"
+        }
+      ],
       "third_party_dependency": "",
       "social_trust": "",
       "technical_spof": "",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Gary",
+            "link": "t.me/gary_sherd"
+          }
+        ]
       },
       "funding": [],
       "history": [
         {
-          "title": "",
-          "description": "",
-          "link": "",
-          "time": ""
+          "title": "Block Lounge",
+          "description": "BLOCK:LOUNGE – A premium Web3 experience with brunch networking, panels & an exclusive VIP party. Connect, learn & unwind in style. By  @9CATGROUP",
+          "link": "https://luma.com/btxzmnpx",
+          "time": "2025-11-04T17:00:00.000Z"
         }
       ],
       "logos": [
