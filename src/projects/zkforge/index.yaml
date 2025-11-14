@@ -1,96 +1,44 @@
 name: ZKForge
 categories:
   - infrastructure
+  - applications
   - social-and-communications
   - defi
 usecases:
   - wallets
   - defi
+  - currency
   - infrastructure
   - messaging
-  - dapps
 ecosystem:
   - solana
-  - ethereum
 description: >-
-  ZKForge is a Web3 privacy ecosystem built to let users communicate, transact,
-  and compute without exposing their data or identity. It brings together two
-  advanced cryptographic technologies , zkSTARK proofs and Fully Homomorphic
-  Encryption (FHE) to enable:
-
-  -Encrypted messaging that’s quantum-resistant and blockchain-verified.
+  ZKForge is built using zero-knowledge STARK technology to enable fully
+    encrypted communication and decentralized authentication. We focus on
+    privacy-first infrastructure where no private keys or user secrets are ever
+    stored or transmitted.
 
 
-  -dApps that operate on encrypted data end-to-end (so user data never gets
-  revealed).
+    Our core technology stack includes zk-STARK proofs for authentication, Solana
+    wallet integration for non-custodial identity, and end-to-end encryption for
+    every message and transaction. Each session and interaction is
+    cryptographically verified on-chain and off-chain, ensuring that users
+    maintain complete control over their data.
 
 
-  -Anonymous payments and micropayments between humans, apps, and AI agents via
-  the “x402” protocol layer.
+    What makes ZKForge special is its ability to combine the scalability of modern
+    Web3 frameworks with zero-knowledge privacy. Users can log in, chat, or send
+    funds without revealing any sensitive information. It’s not just a secure
+    app—it’s a proof-based communication layer built for the next era of privacy
+    in blockchain.
 
 
-  Its goal is to provide a privacy-by-design, anonymous-by-default
-  infrastructure layer for Web3: enabling private chats, confidential DeFi,
-  secure gaming, anonymous identity verification, private DAO governance, and
-  machine-to-machine payments among AI agents.
-product_launch_day: 2025-12-05T17:00:00.000Z
+    Users should choose ZKForge because it provides real privacy, transparent
+    security, and verifiable protection. It’s an ecosystem designed for those who
+    want to stay encrypted, own their data, and interact safely in the
+    decentralized world.
 sunset: false
 assets_used: []
 have_token: false
-tokens:
-  - symbol: ZKFG
-    name: ZKForge
-    contract_address: ""
-    token_link: ""
-links:
-  web: zkforge.io
-  blog: ""
-  github: https://github.com/ZKForgeIO/ZKForge-Repo
-  forum: ""
-  docs: zkforge.io/docs
-  whitepaper: ""
-  block_explorer: ""
-  governance: ""
-  twitter: https://x.com/ZKForge_io
-  discord: ""
-  telegram: ""
-  lens: ""
-  farcaster: ""
-project_phase: mvp
-project_status:
-  live_status: true
-  mainnet: false
-  testnet: false
-  version: mvp
-blockchain_features:
-  opensource: true
-  upgradability:
-    enabled: true
-  asset_custody_type: non-custody
-  encryption: ZKStark
-storage: {}
-privacy_policy:
-  defined: false
-  link: ""
-  data_usage: ""
-compliance: ""
-tracebility:
-  kyc: false
-  tracked_data: ""
-  sign_in_type_requirments:
-    - wallet
-default_privacy: false
-audits: []
-third_party_dependency: ""
-social_trust: ""
-technical_spof: ""
-team:
-  anonymous: false
-  teammembers: []
-funding: []
-history:
-  - title: ""
-    description: ""
-    link: ""
-    time: ""
+tokens: []
 id: zkforge
