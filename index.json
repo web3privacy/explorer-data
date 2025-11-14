@@ -17112,6 +17112,93 @@
       ]
     },
     {
+      "id": "sanke-wallet",
+      "name": "Sanke Wallet",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "monero",
+        "multichain"
+      ],
+      "description": "Private Web3 browser extension for invisible interactions. Powered by Kohaku.\n",
+      "product_launch_day": "2025-11-30T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.sanke.app/",
+        "blog": "",
+        "github": "https://github.com/SankeWallet",
+        "forum": "",
+        "docs": "https://docs.sanke.app/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/SankeWallet",
+        "discord": "",
+        "telegram": "https://t.me/SankeWallet",
+        "lens": "",
+        "farcaster": "https://farcaster.xyz/SankeWallet"
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge proofs, Privacy Pools, Local light-client verification, Per-app identities, Metadata protection.",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.sanke.app/ToS_PP-final-Nov.pdf",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "Privacy Pools, Kohaku",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sanke-wallet/logo.png"
+        }
+      ]
+    },
+    {
       "id": "qubes-os",
       "name": "Qubes OS",
       "categories": [
