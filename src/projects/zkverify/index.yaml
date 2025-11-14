@@ -24,7 +24,7 @@ links:
   telegram: https://t.me/zkverify
 
 project_status:
-  version: Mainnet
+  version: mainnet
 sunset: false
 
 assets_used: []
