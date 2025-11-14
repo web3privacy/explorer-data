@@ -2864,6 +2864,108 @@
       "history": []
     },
     {
+      "id": "zkforge",
+      "name": "ZKForge",
+      "categories": [
+        "infrastructure",
+        "social-and-communications",
+        "defi"
+      ],
+      "usecases": [
+        "wallets",
+        "defi",
+        "infrastructure",
+        "messaging",
+        "dapps"
+      ],
+      "ecosystem": [
+        "solana",
+        "ethereum"
+      ],
+      "description": "ZKForge is a Web3 privacy ecosystem built to let users communicate, transact, and compute without exposing their data or identity. It brings together two advanced cryptographic technologies , zkSTARK proofs and Fully Homomorphic Encryption (FHE) to enable:\n-Encrypted messaging that’s quantum-resistant and blockchain-verified.\n\n-dApps that operate on encrypted data end-to-end (so user data never gets revealed).\n\n-Anonymous payments and micropayments between humans, apps, and AI agents via the “x402” protocol layer.\n\nIts goal is to provide a privacy-by-design, anonymous-by-default infrastructure layer for Web3: enabling private chats, confidential DeFi, secure gaming, anonymous identity verification, private DAO governance, and machine-to-machine payments among AI agents.",
+      "product_launch_day": "2025-12-05T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [
+        {
+          "symbol": "ZKFG",
+          "name": "ZKForge",
+          "contract_address": "",
+          "token_link": ""
+        }
+      ],
+      "links": {
+        "web": "zkforge.io",
+        "blog": "",
+        "github": "https://github.com/ZKForgeIO/ZKForge-Repo",
+        "forum": "",
+        "docs": "zkforge.io/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/ZKForge_io",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "ZKStark"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "",
+          "description": "",
+          "link": "",
+          "time": ""
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zkforge/logo.png"
+        }
+      ]
+    },
+    {
       "id": "electrum",
       "name": "Electrum",
       "categories": [
