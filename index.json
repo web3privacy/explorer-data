@@ -40227,6 +40227,103 @@
       "sunset": false
     },
     {
+      "id": "silkbyte.io",
+      "name": "SilkByte.io",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "defi"
+      ],
+      "usecases": [
+        "wallets",
+        "defi",
+        "bridge",
+        "dapps"
+      ],
+      "ecosystem": [
+        "monero",
+        "bitcoin",
+        "ethereum",
+        "solana",
+        "multichain",
+        "other"
+      ],
+      "description": "SilkByte is a privacy-focused, Monero-centric swap service offering fast, high-limit cross-chain swaps without KYC and no data collection. A simple, secure way to move assets while staying fully anonymous.",
+      "product_launch_day": "2025-06-01T21:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "xmr",
+        "zcash",
+        "btc",
+        "eth",
+        "usdt",
+        "sol",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://silkbyte.io",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://silkbyte.io/api-doc",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/silkbyte_io",
+        "discord": "",
+        "telegram": "https://t.me/silkbyte_support",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://silkbyte.io/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/silkbyte.io/logo.png"
+        }
+      ]
+    },
+    {
       "id": "graphene-os",
       "name": "Graphene OS",
       "categories": [
