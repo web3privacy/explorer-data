@@ -14,7 +14,7 @@ description: Omnipin is a self-custodial command-line website deployment tool
 sunset: false
 assets_used:
   - eth
-  - Filecoin
+  - other
 have_token: false
 tokens: []
 links:
