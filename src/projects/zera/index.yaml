@@ -1,0 +1,72 @@
+name: Zera
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - infrastructure
+  - mixing-service
+ecosystem:
+  - solana
+description: >-
+  The ZERA Protocol is a universal, direct-deposit privacy layer for the assets
+  you already hold. It's token and chain-agnostic: bring existing tokens (e.g.,
+  USDC, USDT, SOL and more) into a single, unified cryptographic pool to receive
+  shielded balances with private transfers—including offline, device-to-device
+  payments that sync to chain later.
+
+
+  No synthetic pegs, no mixers, no bridging - just a composable privacy layer
+  designed for real usage.
+sunset: false
+assets_used:
+  - sol
+  - usdt
+  - other
+have_token: true
+tokens:
+  - symbol: ZERA
+    name: Zera
+    contract_address: 8avjtjHAHFqp4g2RR9ALAGBpSTqKPZR8nRbzSTwZERA
+    token_link: https://dexscreener.com/solana/6oujd1ehnvbnmetpytmy2nxkwicz5c2jubbyurhesjhc
+links:
+  web: https://zeralabs.org
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://zeralabs.org/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ZeraLabs
+  discord: ""
+  telegram: https://t.me/ZeraTG
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Pedersen commitments, zk-proofs
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://zeralabs.org/terms-and-conditions
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+id: zera
