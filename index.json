@@ -47273,11 +47273,13 @@
     },
     {
       "id": "other",
-      "name": "Other"
+      "name": "Other",
+      "icon": "https://dummyimage.com/64x64/ffffff/000000.png&text=O"
     },
     {
       "id": "multichain",
-      "name": "Multichain"
+      "name": "Multichain",
+      "icon": "https://dummyimage.com/64x64/ffffff/000000.png&text=M"
     }
   ],
   "usecases": [
