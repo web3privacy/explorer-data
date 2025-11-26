@@ -1,0 +1,69 @@
+name: Omnipin
+categories:
+  - infrastructure
+usecases:
+  - computing
+  - infrastructure
+  - dapps
+ecosystem:
+  - ethereum
+  - other
+description: Omnipin is a self-custodial command-line website deployment tool
+  with automatic content replication and secure ENS updates, powered by Safe. No
+  sign up required.
+sunset: false
+assets_used:
+  - eth
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://omnipin.eth.limo
+  blog: ""
+  github: https://github.com/omnipin/omnipin
+  forum: ""
+  docs: https://omnipin.eth.limo/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: https://t.me/omnipin
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: v1rtl
+      link: https://farcaster.xyz/v1rtl.eth
+funding: []
+history: []
+id: omnipin

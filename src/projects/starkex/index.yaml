@@ -1,22 +1,30 @@
-id: starkex
 name: StarkEX
 categories:
-- infrastructure
-description: "A Layer-2 scalability engine, live on Ethereum Mainnet \u2728\uFE0F\
-  ZK"
+  - infrastructure
 ecosystem:
-- ethereum
-links:
-  web: https://starkware.co/starkex/
-  github: https://github.com/starkware-libs/starkex-resources
-  docs: https://docs.starkware.co/starkex/index.html
-  blog: https://medium.com/starkware
-  twitter: https://x.com/StarkWareLtd
-team:
-  anonymous: false
-  company:
-    link: https://starkware.co/about-us/
+  - ethereum
 usecases:
-- eth-layer-2
-have_token: false
-third_party_dependency: none
+  - other
+description: Privacy technology project focused on Web3 security and anonymity.
+team:
+  anonymous: true
+links:
+  web: https://starkex.io
+  github: https://github.com/starkware-libs/starkex-contracts
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/starkex/README.md
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: Other

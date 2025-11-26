@@ -1,0 +1,40 @@
+{
+  "id": "zk-money",
+  "name": "zk.money",
+  "slug": "zk-money",
+  "description": "",
+  "website": "",
+  "github": "",
+  "documentation": "",
+  "category": "other",
+  "subcategories": [],
+  "tech_stack": [],
+  "privacy_techniques": [],
+  "blockchain_platforms": [],
+  "status": "unknown",
+  "maturity_level": "unknown",
+  "last_update": "2025-10-07T22:25:37.760292",
+  "launch_date": "",
+  "confidence": 0.0,
+  "sources": [
+    {
+      "type": "manual",
+      "url": "internal-research",
+      "retrieved_at": "2025-10-07T22:25:37.760297",
+      "confidence": 0.0
+    }
+  ],
+  "missing_fields": [],
+  "verified": true,
+  "readme_path": "zk-money/README.md",
+  "card_path": "zk-money/CARD.md",
+  "team": [],
+  "social_links": {
+    "twitter": "",
+    "discord": "",
+    "telegram": "",
+    "medium": "",
+    "mirror": ""
+  },
+  "investors": []
+}

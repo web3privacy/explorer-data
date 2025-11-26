@@ -1,0 +1,75 @@
+{
+  "id": "tornado-cash",
+  "name": "Tornado Cash",
+  "slug": "tornado-cash",
+  "description": "Fully decentralized, non-custodial cryptocurrency mixer protocol that runs on Ethereum Virtual Machine-compatible networks, enabling private transactions using zero-knowledge proof technology. Tornado Cash was sanctioned by OFAC in August 2022 but had sanctions lifted in March 2025 following a Fifth Circuit court ruling.",
+  "website": "",
+  "github": "",
+  "documentation": "",
+  "category": "privacy_mixer",
+  "subcategories": [],
+  "tech_stack": [
+    "Circom",
+    "Websnark",
+    "Solidity",
+    "JavaScript"
+  ],
+  "privacy_techniques": [
+    "zk-SNARKs",
+    "multi-party computation (MPC)"
+  ],
+  "blockchain_platforms": [
+    "avalanche",
+    "arbitrum",
+    "optimism",
+    "gnosis_chain",
+    "binance_smart_chain",
+    "ethereum",
+    "polygon"
+  ],
+  "status": "sanctions_lifted_march_2025",
+  "maturity_level": "unknown",
+  "last_update": "2025-10-07T22:25:37.704606",
+  "launch_date": "",
+  "confidence": 0.0,
+  "sources": [
+    {
+      "type": "manual",
+      "url": "internal-research",
+      "retrieved_at": "2025-10-07T22:25:37.704612",
+      "confidence": 0.0
+    }
+  ],
+  "missing_fields": [],
+  "verified": true,
+  "readme_path": "tornado-cash/README.md",
+  "card_path": "tornado-cash/CARD.md",
+  "team": [
+    {
+      "name": "Roman Storm",
+      "role": "Founder",
+      "github": "",
+      "twitter": ""
+    },
+    {
+      "name": "Alexey Pertsev",
+      "role": "Founder",
+      "github": "",
+      "twitter": ""
+    },
+    {
+      "name": "Roman Semenov",
+      "role": "Founder",
+      "github": "",
+      "twitter": ""
+    }
+  ],
+  "social_links": {
+    "twitter": "",
+    "discord": "",
+    "telegram": "",
+    "medium": "",
+    "mirror": ""
+  },
+  "investors": []
+}
