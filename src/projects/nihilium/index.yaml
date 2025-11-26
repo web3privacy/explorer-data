@@ -1,0 +1,96 @@
+id: nihilium
+name: Nihilium
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - wallets
+  - infrastructure
+  - mpc
+  - other
+ecosystem:
+  - multichain
+description: >
+  Nihilium is building the missing primitive for privacy applications:
+  universal, censorship-resistant key recovery for encrypted-at-rest data. While
+  encrypted apps like Signal and PGP offer mathematical privacy, they fail
+  mainstream adoption because losing your key means permanently losing your
+  data—no "forgot my password" option exists. Nihilium solves this through a
+  unique protocol that allow users to recover access by proving they meet
+  predefined conditions (email ownership, biometric proofs, timelocks), without
+  relying on custodians or requiring complex coordination with friends and
+  family. The system uses zkp's, homomorphic encryption with two-party
+  computation combined economic incentives and on-chain enforcement to ensure
+  recovery cannot be censored or denied, while keeping the burden of proof
+  entirely on the recovering user. This makes privacy-preserving applications
+  finally accessible to regular users without sacrificing the sovereignty that
+  makes encryption meaningful—turning "technically correct but humanly
+  impossible" privacy tools into practical everyday solutions.
+
+
+  To read the full context description on why key recovery is so essential:
+  https://nihilium.substack.com/p/why-crypto-apps-keep-failing-users
+
+
+  Will be open sourced in the near future.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://nihilium.io
+  blog: https://nihilium.substack.com/
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: https://www.nihilium.io/Nihilium%20Lite%20Paper.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/nihiliumio
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-knowledge, Homomorphic encryption, Two party computation
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: DDOS protection
+compliance: No leaked data
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments:
+    - email
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Olaf
+      link: https://x.com/ovanwijk
+funding:
+  - name: Unfunded
+    link: ""
+history: []
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nihilium/logo.png

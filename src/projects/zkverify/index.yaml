@@ -1,0 +1,41 @@
+name: zkVerify
+categories:
+  - infrastructure
+usecases: 
+  - infrastructure
+  - dapps
+ecosystem: 
+  - other
+description: 'Dedicated ZK proof verification chain that offloads multiple ZK proof types from multiple chains to be verified cheaper and faster. Future proofing projects to scale with ZK'
+product_launch_day: 2024-03-31T12:00:00.000Z
+team:
+  anonymous: true
+links:
+  web: https://zkverify.io
+  github: https://github.com/zkVerify
+  docs: https://https://docs.zkverify.io/
+  whitepaper: https://downloads.horizenlabs.io/file/labs-web-assets/zkverify-protocol-whitepaper.pdf
+  blog: https://zkverify.io/blog
+  twitter: https://x.com/ZKVProtocol
+  block_explorer: https://zkverify.subscan.io/
+  discord: https://discord.com/invite/zkverify
+  telegram: https://t.me/zkverify
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+sunset: false
+assets_used: []
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+default_privacy: True
+tracebility:
+  kyc: false
+storage:
+  decentralized: true
+technology:
+  type: Zero Knowledge Proofs

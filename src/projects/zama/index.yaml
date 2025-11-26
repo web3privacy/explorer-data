@@ -2,21 +2,148 @@ id: zama
 name: Zama
 categories:
   - infrastructure
-description: an open source cryptography company building FHE solutions for
-  blockchain and AI.
+ecosystem:
+  - ethereum
+usecases:
+  - infrastructure
+  - defi
+  - dapps
+  - fhe
+description: "Open source cryptography company, building a full-stack framework for
+  integrating Fully Homomorphic Encryption (FHE) with blockchain applications."
+product_launch_day: "2022-12-06" # fhEVM first commit
+
+# TEAM - focus on C-Level (CEO) personnel if information public available otherwise "anonymous: true" -------------------------------
+
 team:
   anonymous: false
+  teammembers:
+    - name: Rand Hindi
+      link: https://x.com/randhindi
+
+# LINKS - focus: Web, Github, Docs, Blog, Whitepaper, Twitter -----------------------------------------------------------------------
+
 links:
   web: https://www.zama.ai
+  github: https://github.com/zama-ai
   docs: https://docs.zama.ai/
+  whitepaper: https://whitepaper.zama.ai/
+  blog: https://www.zama.ai/blog
+  twitter: https://x.com/zama_fhe
+  block_explorer: ""
+  forum: https://community.zama.ai
+  governance: ""
+  discord: https://discord.gg/zama
+  telegram: https://t.me/zama_on_telegram
+  lens: ""
+  farcaster: "@zama"
+
+# PROJECT STATUS -------------------------------------------------------------------------------------------------------------------
+
+project_status:
+  live_status: true
+  version: testnet
+  testnet: true
+  mainnet: false
+sunset: false
+
+# ASSETS AND NATIVE TOKENS - if there is no token "have_token: false" --------------------------------------------------------------
+
 have_token: false
 third_party_dependency: none
 logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/zama/logo.png
-usecases:
-  - fhe
-ecosystem:
-  - other
-sunset: false
+
+
+# FUNDING ------------------------------------------------------------------------------------------------------------------------
+
+funding:
+  - name: Plug and Play
+    link: https://www.crunchbase.com/funding_round/zama-aa23-pre-seed--e8fdca6b
+  - name: Lunar Ventures
+    link: https://www.crunchbase.com/funding_round/zama-aa23-pre-seed--e8fdca6b
+  - name: Vsquared Ventures
+    link: https://www.crunchbase.com/funding_round/zama-aa23-seed--94a4e886
+  - name: Metaplanet
+    link: https://www.crunchbase.com/funding_round/zama-aa23-seed--94a4e886
+  - name: Lunar Ventures
+    link: https://www.crunchbase.com/funding_round/zama-aa23-seed--94a4e886
+  - name: Vsquared Ventures
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-unknown--8b397a25
+  - name: Protocol Labs
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-unknown--8b397a25
+  - name: Metaplanet
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-unknown--8b397a25
+  - name: Vsquared Ventures
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Tarun Chitra
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Stake Capital Group
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Protocol Labs
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Portal Ventures
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Multicoin Capital
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Metaplanet
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Julien Bouteloup
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Juan Benet
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Hack VC
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-a--27932acb
+  - name: Pantera Capital
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-b--1d09e771
+  - name: Julien Bouteloup
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-b--1d09e771
+  - name: GSR
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-b--1d09e771
+  - name: Blockchange Ventures
+    link: https://www.crunchbase.com/funding_round/zama-aa23-series-b--1d09e771
+
+# TECHNOLOGY ---------------------------------------------------------------------------------------------------------------------
+
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: true
+    type: DAO
+  encryption: FHE, TFHE, MPC, ZK
+
+# PRIVACY ------------------------------------------------------------------------------------------------------------------------
+
+privacy_policy:
+  defined: true
+  data_usage: ""
+
+default_privacy: true
+
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+
+compliance: ""
+
+# SECURITY -----------------------------------------------------------------------------------------------------------------------
+
+audits: []
+
+# ADDITIONAL INFORMATION --------------------------------------------------------------------------------------------------------
+
+history: []
+
+storage:
+  decentralized: true
+
+technology:
+  type: FHE, ZK, MPC
+
+
+social_trust: Governance
+technical_spof: None

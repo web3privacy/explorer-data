@@ -1,55 +1,29 @@
-id: concordium
 name: Concordium
 categories:
   - infrastructure
-description: A compliance ready blockchain backed by science that enables
-  private and public transactions
+ecosystem:
+  - ethereum
+usecases:
+  - other
+description: The main concordium node implementation.
 team:
-  anonymous: false
-  teammembers:
-    - name: Lars Seier Christensen
-      roles: Chairman
-    - name: Nibras Stiebar-Bang
-      roles: CTO & CPO
-    - name: Jonas Stiebar-Bang
-      roles: CCO
-    - name: Jørgen Hauglund
-      roles: CFO
+  anonymous: true
 links:
   web: https://concordium.com
-  blog: ""
-  github: https://github.com/Concordium
-  forum: ""
-  docs: ""
-  whitepaper: https://www.concordium.com/technology#whitepapers
-  block_explorer: ""
-  governance: ""
-  twitter: ""
-  discord: ""
-  telegram: ""
-  lens: ""
-  farcaster: ""
-have_token: false
-tokens:
-  - symbol: CCD
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/concordium/README.md
 project_status:
-  live_status: false
-  mainnet: false
+  live_status: true
+  version: Mainnet
   testnet: false
-usecases:
-  - infrastructure
-third_party_dependency: none
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/concordium/logo.png
-ecosystem:
-  - other
+  mainnet: true
 sunset: false
 blockchain_features:
-  opensource: false
-  upgradability:
-    enabled: false
-  asset_custody_type: ""
-  encryption: ""
-storage: {}
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
+tracebility:
+  kyc: false
+licences: GNU Affero General Public License v3.0

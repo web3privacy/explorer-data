@@ -1,0 +1,66 @@
+name: ZPrivacy402
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - solana
+description: Open-source SDK that adds real-time risk assessment & liability
+  protection to every autonomous payment.
+product_launch_day: 2025-12-20T17:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: true
+tokens:
+  - symbol: ZPRIVACY
+    name: ZPrivacy402
+    contract_address: AYaC39wLfGeKqy337g1oQn7oiTUUwyeqcG8ZmZB3hFM1
+    token_link: https://solscan.io/token/AYaC39wLfGeKqy337g1oQn7oiTUUwyeqcG8ZmZB3hFM1
+links:
+  web: https://zprivacy402.com
+  blog: ""
+  github: https://github.com/ZPrivacy402
+  forum: ""
+  docs: https://zprivacy402.com/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ZPrivacy402
+  discord: ""
+  telegram: https://t.me/ZPrivacy402
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: zprivacy402

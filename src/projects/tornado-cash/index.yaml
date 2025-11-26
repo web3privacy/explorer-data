@@ -1,0 +1,48 @@
+name: Tornado Cash
+categories:
+  - infrastructure
+ecosystem:
+  - other
+  - other
+  - other
+  - other
+  - other
+  - ethereum
+  - other
+usecases:
+  - other
+description: Fully decentralized, non-custodial cryptocurrency mixer protocol that runs on Ethereum Virtual Machine-compatible networks, enabling private transactions using zero-knowledge proof technology. Torn...
+team:
+  anonymous: false
+  teammembers:
+    - name: Roman Storm
+      role: Founder
+    - name: Alexey Pertsev
+      role: Founder
+    - name: Roman Semenov
+      role: Founder
+links:
+  web: https://tornado-cash.org
+  github: https://github.com/tornadocash/tornado-core
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/SECURITY.md
+  technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/reports/technical_analysis.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/tornado-cash/README.md
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+sunset: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: true
+tracebility:
+  kyc: false
+technology:
+  type: zk-SNARKs, multi-party computation (MPC)
+storage:
+  decentralized: true
+licences: GNU General Public License v3.0

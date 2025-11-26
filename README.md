@@ -141,7 +141,7 @@ Feel free to submit any suggestions or changes to this scheme.
 
 | Field                  | Type                  | Required | Description |
 |------------------------|-----------------------|----------|-------------|
-| technology type        | string                |          | Technology that runs underhood (ex. ZK, ZK-Snarks, PLONK, Monero, Ellipcic curves,...) |
+| technology type        | string                |          | Technology that runs underhood (ex. ZK, ZK-Snarks, PLONK, Monero, Elliptic curves,...) |
 | technology features    | array                 |          | Key aspects of the privacy tech used (ex. Private wallet, P2P Swap, Fluid compliance, ZK Defi, Private bridge,...) |
 |                        |                       |          |              |
 |                        |                       |          |              |

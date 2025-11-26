@@ -1,69 +1,29 @@
-id: elusiv
 name: Elusiv
 categories:
-  - defi
+  - infrastructure
 ecosystem:
-  - solana
-description: Compliant Privacy that Scales
-technology:
-  type: zk
-  features:
-    - zk-SNARKS
+  - ethereum
+usecases:
+  - other
+description: Elusiv Solana program library
+team:
+  anonymous: true
 links:
-  web: https://elusiv.io/
-  blog: ""
-  github: https://github.com/elusiv-privacy
-  forum: ""
-  docs: https://docs.elusiv.io/
-  whitepaper: ""
-  block_explorer: ""
-  governance: ""
-  twitter: https://x.com/elusivprivacy
-  discord: ""
-  telegram: ""
-  lens: ""
-  farcaster: ""
+  web: https://elusiv.network
+  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/CODE_REVIEW.md
+  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/TEAM.md
+  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/SECURITY.md
+  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/README.md
 project_status:
   live_status: true
-  mainnet: true
+  version: Mainnet
   testnet: false
-  version: mainnet
-team:
-  anonymous: false
-  teammembers: []
-usecases:
-  - defi
-have_token: false
-third_party_dependency: none
-logos:
-  - file: logo.png
-    ext: png
-    url: https://explorer-data.web3privacy.info/assets/projects/elusiv/logo.png
-sunset: true
-assets_used:
-  - sol
-  - other
-tokens: []
-project_phase: mainnet
+  mainnet: true
+sunset: false
 blockchain_features:
-  opensource: false
-  upgradability:
-    enabled: false
-  asset_custody_type: ""
-  encryption: ""
-storage: {}
-privacy_policy:
-  defined: false
-  link: ""
-  data_usage: ""
-compliance: ""
+  opensource: true
+  asset_custody_type: non-custody
+default_privacy: false
 tracebility:
   kyc: false
-  tracked_data: ""
-  sign_in_type_requirments: []
-default_privacy: false
-audits: []
-social_trust: ""
-technical_spof: ""
-funding: []
-history: []
+licences: GNU General Public License v3.0
