@@ -1,0 +1,87 @@
+name: Zynexa
+categories:
+  - infrastructure
+usecases:
+  - operating-systems
+ecosystem:
+  - solana
+description: >-
+  We use client-side encryption, private Solana routing, and a decentralized
+  identity system so every action and every piece of data stays fully in the
+  user’s control. All information is processed locally, never stored on
+  centralized servers, and cannot be accessed by anyone except the user.
+
+  Zynexa is a privacy-first operating system for Web3, offering encrypted tools,
+  wallet-based login, and more private on-chain interactions. Users choose
+  Zynexa because it gives them complete control over their identity,
+  communication, and data in the simplest and most secure way.
+product_launch_day: 2025-12-22T17:00:00.000Z
+nickname: ruggedon
+sunset: false
+assets_used:
+  - sol
+have_token: false
+tokens: []
+links:
+  web: https://zynexa.io/
+  blog: ""
+  github: https://github.com/zynexalabs/zynexa-core
+  forum: ""
+  docs: https://docs.zynexa.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Zynexaproject
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: We use a combination of modern cryptography and privacy
+    technologies, including Ed25519 (Curve25519) for secure signatures, BIP-39
+    mnemonic wallets, and NaCl Box (Curve25519) end-to-end encryption to protect
+    user data. Our communication layer is secured using X3DH key exchange and
+    the Double Ratchet Protocol, ensuring forward secrecy and private messaging.
+    For on-chain privacy and identity abstraction, we integrate ZK-SNARKs,
+    allowing users to verify actions without revealing sensitive information.
+    Together, these technologies create a fully private environment where
+    identity, messages, and interactions remain secure and unlinkable.
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: We do not use or resell any user information. No tracking, no
+    analytics, no data gathering. All sensitive data stays on the user’s device,
+    and nothing is stored or processed on our servers.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: We do not collect personal data such as IP addresses, location,
+    e-mail, or identifiers. All encryption keys and sensitive information stay
+    on the user’s device. The only thing the system interacts with is the user’s
+    wallet address, strictly for authentication — and even that is not stored or
+    linked to any activity. In short, we collect no personal data, store nothing
+    on servers, and everything remains fully client-side and private
+  sign_in_type_requirments:
+    - seed
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: zynexa
