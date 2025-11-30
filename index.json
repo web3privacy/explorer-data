@@ -24263,23 +24263,29 @@
         "solana"
       ],
       "description": "We use client-side encryption, private Solana routing, and a decentralized identity system so every action and every piece of data stays fully in the user’s control. All information is processed locally, never stored on centralized servers, and cannot be accessed by anyone except the user.\nZynexa is a privacy-first operating system for Web3, offering encrypted tools, wallet-based login, and more private on-chain interactions. Users choose Zynexa because it gives them complete control over their identity, communication, and data in the simplest and most secure way.",
-      "product_launch_day": "2025-12-22T17:00:00.000Z",
-      "nickname": "ruggedon",
+      "product_launch_day": "2025-12-01T17:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "sol"
       ],
-      "have_token": false,
-      "tokens": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "ZYNX",
+          "name": "Zynexa",
+          "contract_address": "FefBQzgFmAynFwKAqfnyAXVv3bBXVgA1A2tuXEjbpump",
+          "token_link": "https://solscan.io/token/FefBQzgFmAynFwKAqfnyAXVv3bBXVgA1A2tuXEjbpump"
+        }
+      ],
       "links": {
         "web": "https://zynexa.io/",
-        "blog": "",
+        "blog": "https://blogs.zynexa.io/",
         "github": "https://github.com/zynexalabs/zynexa-core",
         "forum": "",
         "docs": "https://docs.zynexa.io/",
         "whitepaper": "",
         "block_explorer": "",
-        "governance": "",
+        "governance": "https://zynexa.io/token",
         "twitter": "https://x.com/Zynexaproject",
         "discord": "",
         "telegram": "",
@@ -24296,32 +24302,33 @@
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": false
+          "enabled": true
         },
         "asset_custody_type": "non-custody",
-        "encryption": "We use a combination of modern cryptography and privacy technologies, including Ed25519 (Curve25519) for secure signatures, BIP-39 mnemonic wallets, and NaCl Box (Curve25519) end-to-end encryption to protect user data. Our communication layer is secured using X3DH key exchange and the Double Ratchet Protocol, ensuring forward secrecy and private messaging. For on-chain privacy and identity abstraction, we integrate ZK-SNARKs, allowing users to verify actions without revealing sensitive information. Together, these technologies create a fully private environment where identity, messages, and interactions remain secure and unlinkable."
+        "encryption": "We use a combination of modern cryptography and privacy technologies, including Ed25519 (Curve25519) for secure signatures, BIP-39 mnemonic wallets, and NaCl Box (Curve25519) end-to-end encryption to protect user data. Our communication layer is secured using X3DH key exchange and the Double Ratchet Protocol, ensuring forward secrecy and private messaging. For on-chain privacy and identity abstraction, we integrate ZK-SNARKs, allowing users to verify actions without revealing sensitive information. Together, these technologies create a fully private environment where identity, messages, and interactions remain secure and unlinkable.",
+        "p2p": true
       },
-      "storage": {},
+      "storage": {
+        "decentralized": true
+      },
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://github.com/zynexalabs/zynexa-core/blob/main/SECURITY.md",
         "data_usage": "We do not use or resell any user information. No tracking, no analytics, no data gathering. All sensitive data stays on the user’s device, and nothing is stored or processed on our servers."
       },
       "compliance": "",
       "tracebility": {
         "kyc": false,
         "tracked_data": "We do not collect personal data such as IP addresses, location, e-mail, or identifiers. All encryption keys and sensitive information stay on the user’s device. The only thing the system interacts with is the user’s wallet address, strictly for authentication — and even that is not stored or linked to any activity. In short, we collect no personal data, store nothing on servers, and everything remains fully client-side and private",
-        "sign_in_type_requirments": [
-          "seed"
-        ]
+        "sign_in_type_requirments": []
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [],
-      "third_party_dependency": "",
-      "social_trust": "",
-      "technical_spof": "",
+      "third_party_dependency": "No",
+      "social_trust": "Vested on lock.jup.ag for 24months",
+      "technical_spof": "Compromise of the upgrade authority / admin keys",
       "team": {
-        "anonymous": false,
+        "anonymous": true,
         "teammembers": []
       },
       "funding": [],
