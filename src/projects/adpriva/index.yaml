@@ -1,0 +1,78 @@
+name: AdPriva
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - infrastructure
+  - other
+ecosystem:
+  - other
+description: >
+  AdPriva is privacy-first ad verification using cryptography and blockchain.
+  Every ad engagement becomes a tamper-proof 
+
+  cryptographic proof, verified with zero-knowledge math, and permanently
+  recorded on-chain - without cookies or tracking. 
+
+
+  Publishers eliminate fraud and earn more. Advertisers pay only for verified
+  humans. Users get privacy, relevance, and USDC rewards. 
+
+
+  We're fixing the $700B digital ad industry with cryptographic verification
+  instead of surveillance.
+product_launch_day: 2025-12-28T00:00:00.000Z
+sunset: true
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://adpriva.com/
+  blog: ""
+  github: https://github.com/adpriva
+  forum: ""
+  docs: https://docs.adpriva.com/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/adprivaads
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Groth16 ZK-SNARKs, SHA-256, Poseidon Hash, HMAC, Garbled Circuits,
+    AES-256-GCM.
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Cem Sel
+      link: https://www.linkedin.com/in/cemsel
+funding: []
+history: []
+id: adpriva
