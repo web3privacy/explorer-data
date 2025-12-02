@@ -26,6 +26,8 @@ links:
 team:
   anonymous: false
   teammembers:
+    - name: Afanddy
+      link: 'https://x.com/AHushni'
     - name: Codeman Crypto
       link: 'https://github.com/codeman-crypto'
     - name: Sanada Yukimura
