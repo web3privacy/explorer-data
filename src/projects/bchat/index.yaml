@@ -1,5 +1,5 @@
-id: bcchat
-name: BCchat
+id: bchat
+name: Bchat
 categories:
   - social-and-communications
 description: A decentralized, privacy messenger built over the Beldex blockchain.
