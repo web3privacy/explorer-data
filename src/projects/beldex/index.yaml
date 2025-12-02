@@ -9,7 +9,7 @@ ecosystem:
   - other
 project_status:
   live_status: true
-  verion: Mainnet
+  verion: Mainnet 
   testnet: true
   mainnet: true
 links:
@@ -21,9 +21,90 @@ links:
   discord: 'https://discord.com/invite/Hj4MAmA5gs'
   facebook: 'https://www.facebook.com/beldexofficial'
   telegram: 'https://t.me/official_beldex'
+  whitepaper: 'https://beldex.io/whitepaper.pdf'
+  block_explorer: 'https://explorer.beldex.io'
 team:
   anonymous: false
+  teammembers:
+    - name: Codeman Crypto
+      link: 'https://github.com/codeman-crypto'
+    - name: Sanada Yukimura
+      link: 'https://github.com/sanada08/'
+    - name: Victor
+      link: 'https://github.com/victor-tucci'
+    - name: Jeflin
+      link: 'https://github.com/jeflinfrank'
+    - name: Deen Kakarot
+      link: 'https://github.com/deen-kakarot' 
+    - name: Toretto
+      link: 'https://github.com/Tore-tto'
+    - name: Peter
+      link: 'https://github.com/peter-pratt'
+    - name: ABdevil
+      link: 'https://github.com/abdevil05'
+    - name: TechGoku
+      link: 'https://github.com/TechGoku'
 usecases:
   - currency
-have_token: false
+  - defi
+  - vpn
+  - browser
+  - beldex name service
+  - bridge
+  - messaging
+  - dapps
+assets_used:
+  - BDX
+have_token: true
 third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: 'https://explorer-data.web3privacy.info/assets/projects/beldex/logo.png'
+product_launch_day: 2019-01-31T23:00:00.000Z
+tokens:
+  - symbol: BDX
+    name: Beldex
+    contract_address: ""
+    token_link: https://explorer.beldex.io
+  - symbol: BDX
+    name: Beldex
+    contract_address: "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181"
+    token_link: https://bscscan.com/token/0x6ad12E761b438beA3EA09F6C6266556Bb24C2181
+  - symbol: BDX
+    name: Beldex
+    contract_address: "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181"
+    token_link: https://etherscan.com/token/0x6ad12E761b438beA3EA09F6C6266556Bb24C2181
+  - symbol: BDX
+    name: Beldex
+    contract_address: "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181"
+    token_link: https://arbiscan.io/token/0x6ad12e761b438bea3ea09f6c6266556bb24c2181
+  - symbol: BDX
+    name: Beldex
+    contract_address: "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181"
+    token_link: https://basescan.org/token/0x6ad12e761b438bea3ea09f6c6266556bb24c2181
+  - symbol: BDX
+    name: Beldex
+    contract_address: "CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d"
+    token_link: https://solscan.io/token/CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+storage:
+  decentralized: false
+privacy_policy:
+  defined: true
+  link: 'https://www.beldex.io/privacy-policy'
+  data_usage: none
+default_privacy: true
+audits:
+  - name: Certik
+    url: https://skynet.certik.com/projects/beldex
+    time: 2022-05-02T22:00:00.000Z
+funding:
+  - name: Dwf labs
+    link: https://www.dwf-labs.com/ecosystem
+  

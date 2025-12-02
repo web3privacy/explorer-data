@@ -1,0 +1,81 @@
+id: belnet
+name: Belnet
+categories:
+  - infrastructure
+  - applications
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/belnet/logo.png
+ecosystem:
+  - other
+project_type: Decentralized privacy network protocol
+description:  BelNet is an encrypted connection to the device and network through the internet.
+product_launch_day: 2022-09-23T11:00:00.000Z
+team:
+  anonymous: false
+  teammembers:
+    - name: Codeman Crypto
+      link: 'https://github.com/codeman-crypto'
+    - name: Sanada Yukimura
+      link: 'https://github.com/sanada08/'
+    - name: Jeflin
+      link: 'https://github.com/jeflinfrank'
+    - name: Stepan
+      link: 'https://github.com/Stepan-andry'
+links:
+  web: https://bchat.beldex.io
+  github: https://github.com/Beldex-Coin
+  docs: https://docs.beldex.io/
+  blog: https://beldex.io/blog/what-is-bchat/
+  twitter: https://twitter.com/Bchat_official
+  telegram: https://t.me/official_beldex
+  facebook: 'https://www.facebook.com/beldexofficial'
+  discord: 'https://discord.com/invite/Hj4MAmA5gs'
+technology:
+  type: P2P networking
+  name: belnet
+  features:
+    - private
+    - encrypted
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+licences: GPLv3 License
+privacy_policy:
+  defined: true
+  link: https://belnet.beldex.io/privacy-policy
+  data_usage: none
+default_privacy: true
+storage:
+  decentralized: true
+third_party_dependency: Open Source libraries, reliance on blockchain RPC
+  services on client side.
+usecases:
+  - infrastructure
+  - vpn
+  - browser
+have_token: true
+sunset: false
+assets_used: 
+  - bdx
+tokens:
+  - symbol: BDX
+    name: Beldex
+    contract_address: ""
+    token_link: https://explorer.beldex.io
+project_phase: mainnet
+compliance: No
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments:
+    - None
+
