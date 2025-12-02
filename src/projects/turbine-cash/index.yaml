@@ -1,0 +1,80 @@
+name: Turbine Cash
+categories:
+  - defi
+usecases:
+  - defi
+  - mixing-management
+  - mixing-service
+  - research-and-development
+  - other
+ecosystem:
+  - solana
+description: >-
+  A yield bearing privacy protocol on Solana.
+
+  We built a mixer with support of LST tokens, thus solving the paradox of
+  privacy vs. yield most mixers have.
+
+  With our service, you don't need to choose, you can let your funds sit at the
+  mixer for a long time, since they're still earning.
+product_launch_day: 2025-11-30T22:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+  - USDC
+  - ZSOL
+  - LST
+have_token: true
+tokens:
+  - symbol: ZKFG
+    name: Zero Knowledge Futarchy Governance
+    contract_address: ZKFHiLAfAFMTcDAuCtjNW54VzpERvoe7PBF9mYgmeta
+    token_link: https://solscan.io/token/ZKFHiLAfAFMTcDAuCtjNW54VzpERvoe7PBF9mYgmeta
+links:
+  web: https://turbine.cash
+  blog: ""
+  github: https://github.com/ZKLSOL
+  forum: ""
+  docs: https://docs.turbine.cash
+  whitepaper: ""
+  block_explorer: ""
+  governance: https://metadao.fi/projects/zklsol
+  twitter: https://x.com/ZKLSOL
+  discord: ""
+  telegram: https://tg.turbine.cash
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Zero Knowledge
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://terms.turbine.cash/
+  data_usage: We don't sell users data
+compliance: Yes
+tracebility:
+  kyc: false
+  tracked_data: We don't collect
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: turbine-cash
