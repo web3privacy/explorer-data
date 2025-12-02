@@ -9,8 +9,8 @@ logos:
     url: https://explorer-data.web3privacy.info/assets/projects/beldex-browser/logo.png
 ecosystem:
   - other
-project_type: Decentralized privacy network protocol
-description:  Protecting Your Online Confidentiality One, Click at a Time..
+project_type: Decentralized, private browser
+description:  An ad-free, decentralized browser with built-in VPN for truly private browsing
 product_launch_day: 2024-12-02T11:00:00.000Z
 team:
   anonymous: false
@@ -25,12 +25,12 @@ team:
       link: 'https://github.com/Gabsid'
     
 links:
-  web: https://bchat.beldex.io
-  github: https://github.com/Beldex-Coin
-  docs: https://docs.beldex.io/
-  blog: https://beldex.io/blog/what-is-bchat/
-  twitter: https://twitter.com/Bchat_official
-  telegram: https://t.me/official_beldex
+  web: 'https://browser.beldex.io'
+  github: 'https://github.com/Beldex-Coin'
+  docs: 'https://docs.beldex.io/'
+  blog:  'https://beldex.io/blog/what-is-the-beldex-browser/'
+  twitter: 'https://twitter.com/Bchat_official'
+  telegram: 'https://t.me/official_beldex'
   facebook: 'https://www.facebook.com/beldexofficial'
   discord: 'https://discord.com/invite/Hj4MAmA5gs'
 technology:
