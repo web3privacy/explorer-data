@@ -26337,6 +26337,115 @@
       "sunset": false
     },
     {
+      "id": "shieldos",
+      "name": "ShieldOS",
+      "categories": [
+        "applications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "messaging",
+        "browser",
+        "dapps",
+        "storage",
+        "operating-systems",
+        "data-management",
+        "mixing-service",
+        "ai",
+        "other"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "ShieldOS is a decentralized personal security operating system built on Solana, designed to provide a full suite of encrypted tools for communication, identity, storage, and browsing. Every module runs locally with client-side encryption and wallet-based authentication, ensuring that no user data is ever collected or stored on a centralized server. ShieldOS includes an AI-powered assistant, secure authenticator, encrypted vault, private mail system, IPFS-based drive, secure browser with phishing detection, decentralized identity (DID) manager, VPN configuration module, encrypted chat, and a usage-based payment layer powered by x402. The system is engineered for complete privacy, zero-trust interactions, and long-term sustainability as a modular Web3 security environment.",
+      "product_launch_day": "2025-12-24T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "SHIELD OS",
+          "name": "SHIELD",
+          "contract_address": "42ZFYwLMMbC5fNbbH641PgXeaEym5cJrmnAVho5Hpump",
+          "token_link": "https://solscan.io/token/42ZFYwLMMbC5fNbbH641PgXeaEym5cJrmnAVho5Hpump"
+        }
+      ],
+      "links": {
+        "web": "https://www.shieldos.xyz/",
+        "blog": "",
+        "github": "https://github.com/Shield-OS-dev",
+        "forum": "",
+        "docs": "https://www.shieldos.xyz/docs",
+        "whitepaper": "https://www.shieldos.xyz/docs",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/shield_os",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge Encryption (ZK)",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://github.com/Shield-OS-dev/ShieldOS_dev/blob/main/ShieldOS%20Privacy%20Policy",
+        "data_usage": "Used solely to operate core features. No reselling, no analytics, no third-party sharing. All sensitive data remains client-side and encrypted."
+      },
+      "compliance": "GDPR-aligned privacy practices, Data Minimization, User Sovereignty, Zero-Knowledge Security Model",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "No server-side tracking. Only local encrypted user preferences and session metadata.",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "No third-party audit yet (In progress)",
+          "url": "https://github.com/Shield-OS-dev",
+          "time": ""
+        }
+      ],
+      "third_party_dependency": "ShieldOS operates primarily client-side and does not rely on custodial services, centralized APIs, or external oracle networks. Core modules function independently using local encryption, wallet authentication, and optional decentralized storage (IPFS/Arweave). No dependency on liquidity pools, DEX contracts, or external smart contract infrastructure for core functionality.\n",
+      "social_trust": "ShieldOS is non-custodial and does not control user assets or hold user funds. Governance and security are handled transparently through open development on GitHub. All sensitive operations are client-side, and no multisig or team-controlled wallet has access to user data or funds.\n",
+      "technical_spof": "ShieldOS is fully non-custodial. The project does not control user assets or hold funds. Security and transparency are maintained through open-source development on GitHub. No multisig or centralized entity has access to user data or treasury.\n",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/shieldos/logo.png"
+        }
+      ]
+    },
+    {
       "id": "eigen-network",
       "name": "Eigen Network",
       "categories": [
