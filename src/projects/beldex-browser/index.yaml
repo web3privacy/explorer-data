@@ -68,7 +68,7 @@ usecases:
 have_token: true
 sunset: false
 assets_used: 
-  - bdx
+  - other
 tokens:
   - symbol: BDX
     name: Beldex
