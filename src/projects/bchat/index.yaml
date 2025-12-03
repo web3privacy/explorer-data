@@ -1,7 +1,7 @@
 id: bchat
 name: Bchat
 categories:
-  - messaging
+  - social-and-communications
 description: A decentralized, privacy messenger built over the Beldex blockchain.
 team:
   anonymous: false
@@ -42,7 +42,7 @@ project_status:
 licences: GPLv3 License
 usecases:
   - messaging 
-  - wallet
+  - wallets
 assets_used:
   - other
 have_token: true
