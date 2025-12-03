@@ -53,7 +53,6 @@ usecases:
   - defi
   - vpn
   - browser
-  - beldex name service
   - bridge
   - messaging
   - dapps
