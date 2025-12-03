@@ -58,7 +58,7 @@ usecases:
   - messaging
   - dapps
 assets_used:
-  - BDX
+  - other
 have_token: true
 third_party_dependency: none
 logos:
