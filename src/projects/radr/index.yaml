@@ -1,0 +1,76 @@
+name: Radr
+categories:
+  - infrastructure
+  - defi
+  - applications
+usecases:
+  - currency
+  - wallets
+  - mixing-service
+ecosystem:
+  - solana
+description: >-
+  Private Transfers, Unbreakable Privacy
+
+
+  Military-grade cryptography meets Solana's speed. Choose your privacy level:
+  break sender links or hide everything.
+product_launch_day: 2025-10-24T13:00:00.000Z
+sunset: false
+assets_used: []
+have_token: true
+tokens:
+  - symbol: Radr
+    name: Radr Labs
+    contract_address: CzFvsLdUazabdiu9TYXujj4EY495fG7VgJJ3vQs6bonk
+    token_link: https://solscan.io/token/CzFvsLdUazabdiu9TYXujj4EY495fG7VgJJ3vQs6bonk
+links:
+  web: https://radrlabs.io
+  blog: ""
+  github: https://github.com/radrdotfun
+  forum: ""
+  docs: https://radrlabs.io/pitchdeck
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/radrdotfun
+  discord: ""
+  telegram: https://t.me/radrportal
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Bulletproofs, Pedersen, NaCL, Curve 25519-Dalek, Merlin Transcripts
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.radrlabs.io/privacy
+  data_usage: "We don’t collect data, cookies, etc "
+compliance: N/A
+tracebility:
+  kyc: false
+  tracked_data: No data, wallet stored in local storage to obtain linked balances
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits: []
+third_party_dependency: None.
+social_trust: Multi rotating relayer
+technical_spof: N/A
+team:
+  anonymous: false
+  teammembers:
+    - name: Luke
+      link: https://x.com/gotyourvape
+funding: []
+history: []
+id: radr
