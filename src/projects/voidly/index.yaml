@@ -1,0 +1,73 @@
+name: Voidly
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - infrastructure
+  - vpn
+  - messaging
+  - data-management
+  - ai
+  - fhe
+ecosystem:
+  - other
+description: learning global censorship in real-time // nonprofit research
+  network // free tools, public data // open source • blockchain verified • no
+  token
+product_launch_day: 2025-10-09T05:00:00.000Z
+nickname: 0xStarter
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://voidly.ai
+  blog: https://medium.com/@voidly_ai
+  github: https://github.com/voidly-ai/voidly-public?tab=contributing-ov-file
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/voidly_ai
+  discord: ""
+  telegram: https://t.me/voidly_ai
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Zero-Knowledge
+  p2p: true
+storage:
+  decentralized: false
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: "training AI to defeat censorship "
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+    - email
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: voidly
