@@ -1,0 +1,82 @@
+id: bchat
+name: Bchat
+categories:
+  - social-and-communications
+description: A decentralized, privacy messenger built over the Beldex blockchain.
+team:
+  anonymous: false
+  teammembers:
+    - name: Afanddy
+      link: 'https://x.com/AHushni'
+    - name: Codeman Crypto
+      link: 'https://github.com/codeman-crypto'
+    - name: Sanada Yukimura
+      link: 'https://github.com/sanada08/'
+    - name: ios-wingman
+      link: 'https://github.com/ios-wingman' 
+    - name: Snowman
+      link: 'https://github.com/snowman-45'
+    - name: Steve Joseph
+      link: 'https://github.com/SteveJosephh21'
+    - name: Hales
+      link: 'https://github.com/Hales-Sparrow'
+    - name: Alex
+      link: 'https://github.com/Alexsanchez06'
+    - name: Munaver
+      link: 'https://github.com/munavver'
+links:
+  web: https://bchat.beldex.io
+  github: https://github.com/Beldex-Coin
+  docs: https://docs.beldex.io/
+  litepaper: https://bchat.beldex.io/img/litepaper.pdf
+  blog: https://beldex.io/blog/what-is-bchat/
+  twitter: https://twitter.com/Bchat_official
+  telegram: https://t.me/official_beldex
+  facebook: 'https://www.facebook.com/beldexofficial'
+  discord: 'https://discord.com/invite/Hj4MAmA5gs'
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true
+licences: GPLv3 License
+usecases:
+  - messaging 
+  - wallets
+assets_used:
+  - other
+have_token: true
+product_launch_day: 2022-01-31T23:00:00.000Z
+tokens:
+  - symbol: BDX
+    name: Beldex
+    contract_address: ""
+    token_link: https://explorer.beldex.io
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/bchat/logo.png
+ecosystem:
+  - other
+sunset: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: 'https://bchat.beldex.io/privacy-policy'
+  data_usage: Bchat does not collect, resell, or store any personal user
+    information. Users can authenticate, chat, and transact without ever revealing private
+    data such as names, emails, or identifiers.
+default_privacy: true
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments:
+    - seed
+
