@@ -44,7 +44,7 @@ usecases:
   - messaging 
   - wallet
 assets_used:
-  - BDX
+  - other
 have_token: true
 product_launch_day: 2022-01-31T23:00:00.000Z
 tokens:
