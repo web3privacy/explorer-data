@@ -25080,6 +25080,121 @@
       "sunset": true
     },
     {
+      "id": "beldex-browser",
+      "name": "Beldex-browser",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/beldex-browser/logo.png"
+        }
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "project_type": "Decentralized, private browser",
+      "description": "An ad-free, decentralized browser with built-in VPN for truly private browsing",
+      "product_launch_day": "2024-12-02T11:00:00.000Z",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Afanddy",
+            "link": "https://x.com/AHushni"
+          },
+          {
+            "name": "Codeman Crypto",
+            "link": "https://github.com/codeman-crypto"
+          },
+          {
+            "name": "Sanada Yukimura",
+            "link": "https://github.com/sanada08/"
+          },
+          {
+            "name": "Stepan",
+            "link": "https://github.com/Stepan-andry"
+          },
+          {
+            "name": "Gabsid",
+            "link": "https://github.com/Gabsid"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://browser.beldex.io",
+        "github": "https://github.com/Beldex-Coin",
+        "docs": "https://docs.beldex.io/",
+        "blog": "https://beldex.io/blog/what-is-the-beldex-browser/",
+        "twitter": "https://twitter.com/Bchat_official",
+        "telegram": "https://t.me/official_beldex",
+        "facebook": "https://www.facebook.com/beldexofficial",
+        "discord": "https://discord.com/invite/Hj4MAmA5gs"
+      },
+      "technology": {
+        "type": "P2P networking",
+        "name": "belnet",
+        "features": [
+          "private",
+          "encrypted"
+        ]
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody"
+      },
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "licences": "GPLv3 License",
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://browser.beldex.io/privacy-policy",
+        "data_usage": "none"
+      },
+      "default_privacy": true,
+      "storage": {
+        "decentralized": true
+      },
+      "third_party_dependency": "Open Source libraries, reliance on blockchain RPC services on client side.",
+      "usecases": [
+        "infrastructure",
+        "vpn",
+        "browser"
+      ],
+      "have_token": true,
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "tokens": [
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "",
+          "token_link": "https://explorer.beldex.io"
+        }
+      ],
+      "project_phase": "mainnet",
+      "compliance": "No",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None",
+        "sign_in_type_requirments": [
+          "None"
+        ]
+      }
+    },
+    {
       "id": "apocryph",
       "name": "Apocryph",
       "categories": [
@@ -32316,7 +32431,7 @@
       "categories": [
         "defi"
       ],
-      "description": "A privacy currency based on Monero, Beldex currently offers incentive-based Master Nodes and in the future Beldex will be using POS instead of POW",
+      "description": "A privacy currency based on Monero, Beldex currently offers incentive-based  Master Nodes and runs on the POS consensus. It supports a suite of decentralized, privacy-first applications like BChat messenger, BelNet dVPN, Beldex Browser and  the Beldex Name Service",
       "ecosystem": [
         "other"
       ],
@@ -32334,21 +32449,143 @@
         "twitter": "https://x.com/BeldexCoin",
         "discord": "https://discord.com/invite/Hj4MAmA5gs",
         "facebook": "https://www.facebook.com/beldexofficial",
-        "telegram": "https://t.me/official_beldex"
+        "telegram": "https://t.me/official_beldex",
+        "whitepaper": "https://beldex.io/whitepaper.pdf",
+        "block_explorer": "https://explorer.beldex.io"
       },
       "team": {
-        "anonymous": false
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Afanddy",
+            "link": "https://x.com/AHushni"
+          },
+          {
+            "name": "Codeman Crypto",
+            "link": "https://github.com/codeman-crypto"
+          },
+          {
+            "name": "Sanada Yukimura",
+            "link": "https://github.com/sanada08/"
+          },
+          {
+            "name": "Victor",
+            "link": "https://github.com/victor-tucci"
+          },
+          {
+            "name": "Jeflin",
+            "link": "https://github.com/jeflinfrank"
+          },
+          {
+            "name": "Deen Kakarot",
+            "link": "https://github.com/deen-kakarot"
+          },
+          {
+            "name": "Toretto",
+            "link": "https://github.com/Tore-tto"
+          },
+          {
+            "name": "Peter",
+            "link": "https://github.com/peter-pratt"
+          },
+          {
+            "name": "ABdevil",
+            "link": "https://github.com/abdevil05"
+          },
+          {
+            "name": "TechGoku",
+            "link": "https://github.com/TechGoku"
+          }
+        ]
       },
       "usecases": [
-        "currency"
+        "currency",
+        "defi",
+        "vpn",
+        "browser",
+        "bridge",
+        "messaging",
+        "dapps"
       ],
-      "have_token": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": true,
       "third_party_dependency": "none",
       "logos": [
         {
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/beldex/logo.png"
+        }
+      ],
+      "product_launch_day": "2019-01-31T23:00:00.000Z",
+      "tokens": [
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "",
+          "token_link": "https://explorer.beldex.io"
+        },
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181",
+          "token_link": "https://bscscan.com/token/0x6ad12E761b438beA3EA09F6C6266556Bb24C2181"
+        },
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181",
+          "token_link": "https://etherscan.com/token/0x6ad12E761b438beA3EA09F6C6266556Bb24C2181"
+        },
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181",
+          "token_link": "https://arbiscan.io/token/0x6ad12e761b438bea3ea09f6c6266556bb24c2181"
+        },
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181",
+          "token_link": "https://basescan.org/token/0x6ad12e761b438bea3ea09f6c6266556bb24c2181"
+        },
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d",
+          "token_link": "https://solscan.io/token/CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d"
+        }
+      ],
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody"
+      },
+      "storage": {
+        "decentralized": false
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.beldex.io/privacy-policy",
+        "data_usage": "none"
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Certik",
+          "url": "https://skynet.certik.com/projects/beldex",
+          "time": "2022-05-02T22:00:00.000Z"
+        }
+      ],
+      "funding": [
+        {
+          "name": "Dwf labs",
+          "link": "https://www.dwf-labs.com/ecosystem"
         }
       ]
     },
@@ -37193,48 +37430,6 @@
       ]
     },
     {
-      "id": "bcchat",
-      "name": "BCchat",
-      "categories": [
-        "social-and-communications"
-      ],
-      "description": "A decentralized, privacy messenger built over the Beldex blockchain.",
-      "team": {
-        "anonymous": true
-      },
-      "links": {
-        "web": "https://bchat.beldex.io",
-        "github": "https://github.com/Beldex-Coin",
-        "docs": "https://docs.beldex.io/",
-        "litepaper": "https://bchat.beldex.io/img/litepaper.pdf",
-        "blog": "https://beldex.io/blog/what-is-bchat/",
-        "twitter": "https://twitter.com/Bchat_official",
-        "telegram": "https://t.me/official_beldex"
-      },
-      "project_status": {
-        "live_status": true,
-        "version": "mainnet",
-        "testnet": false,
-        "mainnet": true
-      },
-      "usecases": [
-        "messaging"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/bcchat/logo.png"
-        }
-      ],
-      "ecosystem": [
-        "other"
-      ],
-      "sunset": false
-    },
-    {
       "id": "cape",
       "name": "CAPE",
       "categories": [
@@ -39778,6 +39973,124 @@
         "other"
       ],
       "sunset": false
+    },
+    {
+      "id": "bchat",
+      "name": "Bchat",
+      "categories": [
+        "social-and-communications"
+      ],
+      "description": "A decentralized, privacy messenger built over the Beldex blockchain.",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Afanddy",
+            "link": "https://x.com/AHushni"
+          },
+          {
+            "name": "Codeman Crypto",
+            "link": "https://github.com/codeman-crypto"
+          },
+          {
+            "name": "Sanada Yukimura",
+            "link": "https://github.com/sanada08/"
+          },
+          {
+            "name": "ios-wingman",
+            "link": "https://github.com/ios-wingman"
+          },
+          {
+            "name": "Snowman",
+            "link": "https://github.com/snowman-45"
+          },
+          {
+            "name": "Steve Joseph",
+            "link": "https://github.com/SteveJosephh21"
+          },
+          {
+            "name": "Hales",
+            "link": "https://github.com/Hales-Sparrow"
+          },
+          {
+            "name": "Alex",
+            "link": "https://github.com/Alexsanchez06"
+          },
+          {
+            "name": "Munaver",
+            "link": "https://github.com/munavver"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://bchat.beldex.io",
+        "github": "https://github.com/Beldex-Coin",
+        "docs": "https://docs.beldex.io/",
+        "litepaper": "https://bchat.beldex.io/img/litepaper.pdf",
+        "blog": "https://beldex.io/blog/what-is-bchat/",
+        "twitter": "https://twitter.com/Bchat_official",
+        "telegram": "https://t.me/official_beldex",
+        "facebook": "https://www.facebook.com/beldexofficial",
+        "discord": "https://discord.com/invite/Hj4MAmA5gs"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "mainnet",
+        "testnet": false,
+        "mainnet": true
+      },
+      "licences": "GPLv3 License",
+      "usecases": [
+        "messaging",
+        "wallets"
+      ],
+      "assets_used": [
+        "other"
+      ],
+      "have_token": true,
+      "product_launch_day": "2022-01-31T23:00:00.000Z",
+      "tokens": [
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "",
+          "token_link": "https://explorer.beldex.io"
+        }
+      ],
+      "third_party_dependency": "none",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/bchat/logo.png"
+        }
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "sunset": false,
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://bchat.beldex.io/privacy-policy",
+        "data_usage": "Bchat does not collect, resell, or store any personal user information. Users can authenticate, chat, and transact without ever revealing private data such as names, emails, or identifiers."
+      },
+      "default_privacy": true,
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "none",
+        "sign_in_type_requirments": [
+          "seed"
+        ]
+      }
     },
     {
       "id": "privatixy",
@@ -45046,6 +45359,121 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/chimp-exchange/logo.png"
         }
       ]
+    },
+    {
+      "id": "belnet",
+      "name": "Belnet",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/belnet/logo.png"
+        }
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "project_type": "Decentralized privacy network protocol",
+      "description": "BelNet is an encrypted connection to the device and network through the internet.",
+      "product_launch_day": "2022-09-23T11:00:00.000Z",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Afandy",
+            "link": "https://x.com/AHushni"
+          },
+          {
+            "name": "Codeman Crypto",
+            "link": "https://github.com/codeman-crypto"
+          },
+          {
+            "name": "Sanada Yukimura",
+            "link": "https://github.com/sanada08/"
+          },
+          {
+            "name": "Jeflin",
+            "link": "https://github.com/jeflinfrank"
+          },
+          {
+            "name": "Stepan",
+            "link": "https://github.com/Stepan-andry"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://belnet.beldex.io",
+        "github": "https://github.com/Beldex-Coin",
+        "docs": "https://docs.beldex.io/",
+        "blog": "https://beldex.io/blog/belnet-the-free-fast-dvpn/",
+        "twitter": "https://twitter.com/Bchat_official",
+        "telegram": "https://t.me/official_beldex",
+        "facebook": "https://www.facebook.com/beldexofficial",
+        "discord": "https://discord.com/invite/Hj4MAmA5gs"
+      },
+      "technology": {
+        "type": "P2P networking",
+        "name": "belnet",
+        "features": [
+          "private",
+          "encrypted"
+        ]
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody"
+      },
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "licences": "GPLv3 License",
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://belnet.beldex.io/privacy-policy",
+        "data_usage": "none"
+      },
+      "default_privacy": true,
+      "storage": {
+        "decentralized": true
+      },
+      "third_party_dependency": "Open Source libraries, reliance on blockchain RPC services on client side.",
+      "usecases": [
+        "infrastructure",
+        "vpn",
+        "browser"
+      ],
+      "have_token": true,
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "tokens": [
+        {
+          "symbol": "BDX",
+          "name": "Beldex",
+          "contract_address": "",
+          "token_link": "https://explorer.beldex.io"
+        }
+      ],
+      "project_phase": "mainnet",
+      "compliance": "No",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None",
+        "sign_in_type_requirments": [
+          "None"
+        ]
+      }
     },
     {
       "id": "imperiume",
