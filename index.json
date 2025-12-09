@@ -26652,6 +26652,99 @@
       ]
     },
     {
+      "id": "index-network",
+      "name": "Index Network",
+      "categories": [
+        "social-and-communications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "ai",
+        "tee",
+        "infrastructure",
+        "did"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "description": "Index is a private, intent-driven social discovery protocol where agents surface the right people at the right moment -- powered by a TEE-based agent runtime that keeps your data fully private and never exposed.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://index.network/",
+        "blog": "https://blog.index.network/",
+        "github": "https://github.com/indexnetwork",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/indexnetwork_",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet",
+          "email"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Seref Yarar",
+            "link": "https://x.com/hyperseref"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/index-network/logo.png"
+        }
+      ]
+    },
+    {
       "id": "eigen-network",
       "name": "Eigen Network",
       "categories": [
