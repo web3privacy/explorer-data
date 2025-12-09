@@ -10680,6 +10680,97 @@
       "sunset": false
     },
     {
+      "id": "obscura-os",
+      "name": "Obscura OS",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "dapps",
+        "storage",
+        "wallets",
+        "browser"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Obscura OS is a lightweight on-chain operating system designed to bring privacy, clarity, and structured control to Solana users.\nInstead of interacting with scattered tools, unsafe dApps, or untrusted scanners, Obscura OS consolidates everything into a single secure environment from analysis to execution.",
+      "product_launch_day": "2026-01-02T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "OSCR",
+          "name": "Obscura OS",
+          "contract_address": "53V56EPQynqVMkBABpL2TknTaJw1G59NyF66MDAKpump",
+          "token_link": ""
+        }
+      ],
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "links": {
+        "web": "https://obscuraos.xyz",
+        "blog": "",
+        "github": "github.com/obscuraos",
+        "forum": "",
+        "docs": "https://obscuraos.xyz/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/obscura_os",
+        "discord": "",
+        "telegram": "https://t.me/obscura_os",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/obscura-os/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "spkz",
       "name": "SPKZ",
       "categories": [
