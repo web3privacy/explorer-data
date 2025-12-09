@@ -66,7 +66,7 @@ social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: [
+  teammembers:
       - name: Richard
       link: https://x.com/richardz0x
        - name: Sachin
@@ -75,7 +75,6 @@ team:
       link: https://x.com/unhappyben
         - name: Davy Jones
       link: https://x.com/davyjones0x
-      ]
 funding: []
 history: []
 id: zkp2p
