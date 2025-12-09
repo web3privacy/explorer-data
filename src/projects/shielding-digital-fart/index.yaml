@@ -1,0 +1,71 @@
+name: zkFart
+categories:
+  - social-and-communications
+  - applications
+usecases:
+  - messaging
+  - storage
+  - dapps
+ecosystem:
+  - solana
+description: ZK-FART (Zero-Knowledge Fart Anonymity Runtime Toolkit) is the
+  first privacy-focused meme generator on Solana. Create AI-generated fart
+  images and sounds, encrypt them with zkSNARK-style cryptography (AES-256-GCM),
+  and send anonymously to any wallet.
+product_launch_day: 2025-12-18T13:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://ipfs.io/ipfs/bafybeiggt63zituwckanokfklsqmspovxybsa6gfjtuwovddvtclurqqly/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://ipfs.io/ipfs/bafybeibh5wjp2x6lp6zo6fmt43rfqcirmv3bm6z5go5q64rkc2vcfvfehi/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: x.com/zkfart
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: AES-256-GCM, Poseidon Hash, zkSNARK
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: Content ownership verification only. No reselling, no information gathering.
+compliance: None - Fully Decentralized
+tracebility:
+  kyc: false
+  tracked_data: Wallet address
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: OpenAI API (image/sound generation), Solana RPC (wallet connection)
+social_trust: Solo developer. No DAO, no multisig. Community-driven open source.
+technical_spof: OpenAI API downtime (generation stops), Server downtime (API
+  unavailable). Encrypted data remains safe - decryption keys stored server-side
+  with AES-256-GCM.
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: zkFart

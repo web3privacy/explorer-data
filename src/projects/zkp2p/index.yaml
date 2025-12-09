@@ -1,8 +1,11 @@
 name: ZKP2P
 categories:
+  - defi
   - applications
   - infrastructure
 usecases:
+  - other
+  - defi
   - infrastructure
   - currency
 ecosystem:
@@ -11,13 +14,10 @@ ecosystem:
   - other
   - multichain
 description: >-
-  ZKP2P is the first trustless P2P on/offramping bulletin board. This enables a
-  new buying and selling crypto experience that is fast, cheap and composable
-  with DeFi.
+  ZKP2P is a peer-to-peer, non-custodial on/offramp protocol built on privacy-preserving zero knowledge proofs.
+  Using cryptographic proofs of transfer, ZKP2P allows buyers to authenticate that they have transferred the correct value to sellers. 
+  This enables a new buying and selling crypto experience that is fast, cheap and composable with DeFi.
 
-
-  Using cryptographic proofs of transfer, ZKP2P allows buyers to authenticate
-  that they have transferred the correct value to sellers.
 sunset: false
 assets_used: []
 have_token: false
@@ -48,7 +48,7 @@ blockchain_features:
     enabled: false
   asset_custody_type: ""
   encryption: ""
-  p2p: false
+  p2p: true
 storage: {}
 privacy_policy:
   defined: true
