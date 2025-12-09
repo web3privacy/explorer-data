@@ -1,5 +1,5 @@
-id: labyrinth
-name: Labyrinth
+id: veilnyx
+name: Veilnyx
 categories:
   - infrastructure
   - applications
@@ -13,7 +13,7 @@ usecases:
 ecosystem:
   - ethereum
 description: >-
-  Labyrinth is a multi-chain privacy platform that enables shielded (private)
+  Veilnyx is a multi-chain privacy platform that enables shielded (private)
   accounts on EVM chains, allowing users to conduct private transactions for all
   DeFi activities, such as transfers, swaps, staking, yield farming, lending,
   batch transactions for payroll, and token vesting, while ensuring compliance
@@ -21,12 +21,12 @@ description: >-
 
 
   Its plug-and-play SDK allows developers to easily integrate privacy into their
-  dApps without the complexity of cryptography or ZKPs. Labyrinth ecosystem app
+  dApps without the complexity of cryptography or ZKPs. Veilnyx ecosystem app
   offers a seamless experience for large and mid-volume users, as well as retail
   participants.
 
 
-  Labyrinth empowers traders, whales, DAOs, and retail users to maintain control
+  Veilnyx empowers traders, whales, DAOs, and retail users to maintain control
   over their privacy with a compliance network built on selective disclosure and
   decentralized trust.
 product_launch_day: 2024-02-03T18:30:00.000Z
@@ -37,19 +37,19 @@ assets_used:
 have_token: false
 tokens: []
 links:
-  web: https://labyrinth.ac/
-  blog: https://labyrinth.ac/blog/
+  web: https://veilnyx.com/
+  blog: https://veilnyx.com/blog/
   github: ""
-  forum: https://forum.labyrinth.ac/
-  docs: https://labyrinth.gitbook.io/
+  forum: https://forum.veilnyx.com/
+  docs: https://docs.veilnyx.com/
   whitepaper: https://arxiv.org/pdf/2307.00521
-  block_explorer: https://testnet.app.labyrinth.ac/
+  block_explorer: https://app.veilnyx.com/discover
   governance: ""
-  twitter: https://twitter.com/labyrinth_hq
+  twitter: https://twitter.com/veilnyx_hq
   discord: https://discord.gg/39qrKKxt
   telegram: ""
   lens: ""
-  farcaster: https://warpcast.com/labyrinth-hq
+  farcaster: ""
 project_status:
   live_status: false
   mainnet: false
