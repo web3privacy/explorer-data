@@ -32,7 +32,7 @@ links:
   block_explorer: https://dune.com/zkp2p/zkp2p
   governance: ""
   twitter: https://x.com/zkp2p
-  discord: ""
+  discord: https://discord.gg/wHjR3g6FPZ
   telegram: https://t.me/+XDj9FNnW-xs5ODNl
   lens: ""
   farcaster: ""
@@ -66,7 +66,15 @@ social_trust: ""
 technical_spof: ""
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+      - name: Richard
+        link: https://x.com/richardz0x
+      - name: Sachin
+        link: https://x.com/0xSachinK
+      - name: Ben
+        link: https://x.com/unhappyben
+      - name: Davy Jones
+        link: https://x.com/davyjones0x
 funding: []
 history: []
 id: zkp2p
