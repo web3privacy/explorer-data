@@ -19339,7 +19339,7 @@
     },
     {
       "id": "davinci",
-      "name": "Davinci",
+      "name": "DAVINCI",
       "categories": [
         "applications"
       ],
@@ -19350,19 +19350,19 @@
       "ecosystem": [
         "other"
       ],
-      "description": "the universal voting protocol",
+      "description": "DAVINCI is a zero-knowledge, receipt-free, verifiable & decentralized voting protocol designed for mainstream adoption.",
       "sunset": false,
       "links": {
         "web": "https://davinci.vote",
-        "blog": "",
+        "blog": "https://blog.vocdoni.io",
         "github": "https://github.com/vocdoni",
         "forum": "",
         "docs": "",
-        "whitepaper": "",
-        "block_explorer": "",
-        "governance": "",
-        "twitter": "",
-        "discord": "",
+        "whitepaper": "https://whitepaper.vocdoni.io",
+        "block_explorer": "https://sequencer1.davinci.vote/app",
+        "governance": "Non-profit Association",
+        "twitter": "https://x.com/davinci_vote",
+        "discord": "https://chat.vocdoni.io",
         "telegram": "",
         "lens": "",
         "farcaster": ""
