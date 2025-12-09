@@ -70,11 +70,11 @@ team:
       - name: Richard
         link: https://x.com/richardz0x
       - name: Sachin
-         link: https://x.com/0xSachinK
+        link: https://x.com/0xSachinK
       - name: Ben
-          link: https://x.com/unhappyben
+        link: https://x.com/unhappyben
       - name: Davy Jones
-          link: https://x.com/davyjones0x
+        link: https://x.com/davyjones0x
 funding: []
 history: []
 id: zkp2p
