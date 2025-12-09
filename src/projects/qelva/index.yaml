@@ -1,0 +1,115 @@
+name: QELVA
+categories:
+  - infrastructure
+  - applications
+  - defi
+usecases:
+  - wallets
+  - defi
+  - infrastructure
+  - dapps
+  - operating-systems
+  - mixing-service
+ecosystem:
+  - solana
+description: >-
+  Qelva is a privacy-native identity and transaction layer built for Solana. It
+  introduces a seedless, multi-persona identity system combined with an
+  intent-based execution model to eliminate the exposure of a user’s real wallet
+  on-chain.
+
+  All cryptographic keys are generated and stored locally, while the
+  architecture separates identity, intent, and execution to ensure strong
+  metadata minimization.
+
+
+  Qelva uses a relayer-based private execution pipeline, where user intents are
+  validated off-chain and executed on-chain by a relayer, breaking the direct
+  link between users and their transactions. The system incorporates Split &
+  Delay obfuscation, persona-scoped wallets, and non-custodial authentication
+  (username + PIN) to provide lightweight but practical privacy for everyday
+  Solana usage.
+
+
+  Qelva is designed for users and developers who want private transfers, persona
+  separation, on-chain activity obfuscation, and a secure identity layer without
+  seed phrase exposure or centralized trust. It serves as a foundation for
+  privacy-preserving wallets, dApps, and automated systems on Solana.
+product_launch_day: 2026-01-07T17:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: true
+tokens:
+  - symbol: QELVA
+    name: QELVA
+    contract_address: B4QGLZt7gqEj5dUcpBE4vb4MzrGQZmjmU2NVaGCdpump
+    token_link: https://pump.fun/coin/B4QGLZt7gqEj5dUcpBE4vb4MzrGQZmjmU2NVaGCdpump
+links:
+  web: https://www.qelva.io/
+  blog: ""
+  github: https://github.com/QelvaLabs
+  forum: ""
+  docs: https://docs.qelva.io/
+  whitepaper: ""
+  block_explorer: https://solscan.io/token/B4QGLZt7gqEj5dUcpBE4vb4MzrGQZmjmU2NVaGCdpump
+  governance: ""
+  twitter: https://x.com/QelvaPrivacy
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Local key generation, Ed25519 signatures, AES-GCM encryption, Argon2
+    key stretching, persona-scoped derivation, intent-signing, TLS-secured
+    communication, and Split & Delay transaction obfuscation.
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.qelva.io/privacy-policy
+  data_usage: Used only for realtime request processing. No storage, no analytics,
+    no resale, and no third-party sharing. All identities and keys remain
+    on-device.
+compliance: GDPR-aligned data minimization, user-consent driven processing,
+  non-custodial key handling, and zero-knowledge user profiling.
+tracebility:
+  kyc: false
+  tracked_data: None. No personal data, no identifiers, no IP logs, no analytics,
+    no wallet tracking.
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: >
+  Minimal third-party dependency. Qelva relies only on Solana RPC providers for
+  on-chain execution. 
+
+  All identity, keys, and user logic run fully client-side with no reliance on
+  custodial or centralized services.
+social_trust: >
+  No treasury or admin key exposure. Qelva uses a non-custodial model where
+  users control their own keys. 
+
+  Backend infrastructure is stateless and performs no sensitive operations. No
+  multisig or privileged wallet required.
+technical_spof: >
+  Failure of Solana RPC infrastructure may temporarily affect relayer
+  execution. 
+
+  No user keys or identities are at risk because all encryption and signing
+  occur locally on the device.
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: qelva
