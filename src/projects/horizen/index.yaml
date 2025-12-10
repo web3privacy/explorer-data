@@ -26,6 +26,9 @@ links:
   telegram: https://t.me/horizencommunity 
 # PROJECT STATUS -------------------------------------------------------
 project_status:
+  live_status: true
+  mainnet: true
+  testnet: true
   version: mainnet
 sunset: false
 # ASSETS AND NATIVE TOKENS ---------------------------------------------------------------
