@@ -25901,6 +25901,94 @@
       ]
     },
     {
+      "id": "verdant-privacy",
+      "name": "Verdant Privacy",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "The Autonomous Identity & Private Execution Layer on Solana. We fragment your digital footprint into untraceable shards. Not a Mixer. Not ZK. Pure Behavioral Obfuscation.",
+      "product_launch_day": "2026-01-09T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "Verdant Privacy",
+          "name": "VPR",
+          "contract_address": "F9RoghayqAptUYxYY7kUb5bKLJwTCHVRj1TuJPPohFUQ",
+          "token_link": "https://solscan.io/token/F9RoghayqAptUYxYY7kUb5bKLJwTCHVRj1TuJPPohFUQ"
+        }
+      ],
+      "links": {
+        "web": "https://verdant-privacy.com",
+        "blog": "",
+        "github": "https://github.com/VerdantPrivacy",
+        "forum": "",
+        "docs": "https://docs.verdant-privacy.com",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Verdantprivacy",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "alpha",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "alpha"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/verdant-privacy/logo.png"
+        }
+      ]
+    },
+    {
       "id": "opsec",
       "name": "OpSec",
       "categories": [
