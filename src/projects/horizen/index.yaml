@@ -29,6 +29,9 @@ project_status:
   version: mainnet
 sunset: false
 # ASSETS AND NATIVE TOKENS ---------------------------------------------------------------
+assets_used:
+  - eth
+  - other
 have_token: true
 tokens:
   - name: ZEN
