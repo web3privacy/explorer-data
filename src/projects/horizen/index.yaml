@@ -21,12 +21,12 @@ links:
   telegram: https://t.me/horizencommunity 
 # PROJECT STATUS -------------------------------------------------------
 project_status:
-version: Mainnet
+  version: Mainnet
 sunset: false
 # ASSETS AND NATIVE TOKENS ---------------------------------------------------------------
 assets_used: [ ETH, ZEN ]
 have_token: true
 tokens:
-- name: ZEN
-symbol: ZEN
-contract_address: https://basescan.org/address/0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229
+  - name: ZEN
+    symbol: ZEN
+    contract_address: https://basescan.org/address/0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229
