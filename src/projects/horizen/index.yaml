@@ -1,8 +1,13 @@
 # BASIC DATA ------------------------------------------------------------------------------------------------------------------------
 name: Horizen
-categories: [ infrastructure, computing, other ]
-ecosystem: [ Ethereum ]
-usecases: [ infrastructure, computing ]
+categories:
+  - infrastructure
+ecosystem:
+  - Ethereum
+usecases:
+  - infrastructure
+  - computing
+  - defi
 description: 'A privacy-first ecosystem on Base, delivering auditable confidentiality and regulatory-ready infrastructure for DeFi, data, and the new digital economy.'
 # TEAM --------------------------------
 team:
@@ -24,7 +29,9 @@ project_status:
   version: Mainnet
 sunset: false
 # ASSETS AND NATIVE TOKENS ---------------------------------------------------------------
-assets_used: [ ETH, ZEN ]
+assets_used: 
+  - ETH
+  - ZEN
 have_token: true
 tokens:
   - name: ZEN
