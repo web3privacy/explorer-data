@@ -1,0 +1,32 @@
+# BASIC DATA ------------------------------------------------------------------------------------------------------------------------
+name: Horizen
+categories: [ infrastructure, privacy, compliance, confidential computing ]
+ecosystem: [ Base, Ethereum, Horizen ]
+usecases: [ infrastructure, Ethereum Layer 3, confidential computing, private defi/gaming ]
+description: 'A privacy-first ecosystem on Base, delivering auditable confidentiality and regulatory-ready infrastructure for DeFi, data, and the new digital economy.'
+# TEAM --------------------------------
+team:
+  anonymous: false
+# LINKS ------------------------------------------------------------------------
+links:
+  web: https://www.horizen.io/ 
+  github: https://github.com/horizenofficial 
+  docs: https://docs.horizen.io/ 
+  whitepaper: https://downloads.horizen.io/file/web-assets/Horizen+Whitepaper+v1.0.0.pdf 
+  blog: https://paragraph.com/@horizenofficial-2 
+  twitter: https://x.com/horizenglobal 
+  block_explorer: https://horizen.hub.caldera.xyz/ 
+  governance: https://docs.horizen.io/governance/overview/about 
+  discord: https://discord.com/invite/z8eebsj7Sv 
+  telegram: https://t.me/horizencommunity 
+# PROJECT STATUS -------------------------------------------------------
+project_status:
+version: Mainnet
+sunset: false
+# ASSETS AND NATIVE TOKENS ---------------------------------------------------------------
+assets_used: [ ETH, ZEN ]
+have_token: true
+tokens:
+- name: ZEN
+symbol: ZEN
+contract_address: https://basescan.org/address/0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229
