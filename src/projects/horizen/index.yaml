@@ -3,7 +3,7 @@ name: Horizen
 categories:
   - infrastructure
 ecosystem:
-  - Ethereum
+  - ethereum
 usecases:
   - infrastructure
   - computing
@@ -26,12 +26,9 @@ links:
   telegram: https://t.me/horizencommunity 
 # PROJECT STATUS -------------------------------------------------------
 project_status:
-  version: Mainnet
+  version: mainnet
 sunset: false
 # ASSETS AND NATIVE TOKENS ---------------------------------------------------------------
-assets_used: 
-  - ETH
-  - ZEN
 have_token: true
 tokens:
   - name: ZEN
