@@ -1,8 +1,8 @@
 # BASIC DATA ------------------------------------------------------------------------------------------------------------------------
 name: Horizen
-categories: [ infrastructure, privacy, compliance, confidential computing ]
+categories: [ infrastructure, computing, other ]
 ecosystem: [ Base, Ethereum, Horizen ]
-usecases: [ infrastructure, Ethereum Layer 3, confidential computing, private defi/gaming ]
+usecases: [ infrastructure, computing ]
 description: 'A privacy-first ecosystem on Base, delivering auditable confidentiality and regulatory-ready infrastructure for DeFi, data, and the new digital economy.'
 # TEAM --------------------------------
 team:
