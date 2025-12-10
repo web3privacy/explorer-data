@@ -2554,6 +2554,56 @@
       ]
     },
     {
+      "id": "horizen",
+      "name": "Horizen",
+      "categories": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "usecases": [
+        "infrastructure",
+        "computing",
+        "defi"
+      ],
+      "description": "A privacy-first ecosystem on Base, delivering auditable confidentiality and regulatory-ready infrastructure for DeFi, data, and the new digital economy.",
+      "team": {
+        "anonymous": false
+      },
+      "links": {
+        "web": "https://www.horizen.io/",
+        "github": "https://github.com/horizenofficial",
+        "docs": "https://docs.horizen.io/",
+        "whitepaper": "https://downloads.horizen.io/file/web-assets/Horizen+Whitepaper+v1.0.0.pdf",
+        "blog": "https://paragraph.com/@horizenofficial-2",
+        "twitter": "https://x.com/horizenglobal",
+        "block_explorer": "https://horizen.hub.caldera.xyz/",
+        "governance": "https://docs.horizen.io/governance/overview/about",
+        "discord": "https://discord.com/invite/z8eebsj7Sv",
+        "telegram": "https://t.me/horizencommunity"
+      },
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": true,
+        "version": "mainnet"
+      },
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "other"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "name": "ZEN",
+          "symbol": "ZEN",
+          "contract_address": "https://basescan.org/address/0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229"
+        }
+      ]
+    },
+    {
       "id": "lunardao",
       "name": "LunarDAO",
       "categories": [
