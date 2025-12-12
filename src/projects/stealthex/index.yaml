@@ -1,0 +1,66 @@
+name: StealthEX
+categories:
+  - applications
+usecases:
+  - currency
+  - wallets
+  - bridge
+ecosystem:
+  - multichain
+description: StealthEX is a crypto swap platform offering fast, private
+  exchanges across 2,000+ assets. Built for smooth cross-chain swaps and an
+  effortless user experience.
+product_launch_day: 2018-11-05T21:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://stealthex.io/
+  blog: https://stealthex.io/blog/
+  github: ""
+  forum: ""
+  docs: https://api.stealthex.io/docs/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/StealthEX_io
+  discord: ""
+  telegram: https://t.me/StealthEX_io
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: " IP, Useragent. "
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: We operate thought CEX liquidity
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Vadim Taszycki
+      link: https://www.linkedin.com/in/vadim-taszycki-647b8723a/
+funding: []
+history: []
+id: stealthex
