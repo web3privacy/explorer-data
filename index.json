@@ -24329,6 +24329,92 @@
       "sunset": false
     },
     {
+      "id": "xorax-cash",
+      "name": "Xorax Cash",
+      "categories": [
+        "defi",
+        "applications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "mixing-management",
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Xorax is a non-custodial privacy mixer on Solana. Break on-chain links between deposits and withdrawals using cryptographic commitments. Mix any amount with flexible time delays. Powered by $XORAX token.",
+      "product_launch_day": "2026-01-12T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "XORAX",
+          "name": "XORAX",
+          "contract_address": "9ufweNAGB1vYiB7f1vgELnJnS3LLisMD6GgdMwXQpump",
+          "token_link": "https://solscan.io/token/9ufweNAGB1vYiB7f1vgELnJnS3LLisMD6GgdMwXQpump"
+        }
+      ],
+      "links": {
+        "web": "https://xorax.cash",
+        "blog": "",
+        "github": "https://github.com/XoraxProtocol",
+        "forum": "",
+        "docs": "https://xorax.cash/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/xoraxcash",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": []
+    },
+    {
       "id": "automata-network",
       "name": "Automata Network",
       "categories": [
