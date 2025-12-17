@@ -1,0 +1,69 @@
+name: Mirage
+categories:
+  - defi
+  - infrastructure
+usecases:
+  - defi
+  - currency
+ecosystem:
+  - multichain
+description: Stablecoin privacy at scale. Built for the future of digital payments
+product_launch_day: 2025-05-01T03:00:00.000Z
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://t.co/vIWroBJvDj
+  blog: ""
+  github: https://github.com/MiragePrivacy
+  forum: ""
+  docs: https://docs.mirageprivacy.com/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/mirageprivacy
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Nima Rasooli
+      link: https://www.linkedin.com/in/nima-rasooli/
+    - name: Ossian Mapes
+      link: https://www.linkedin.com/in/ozwaldorf
+    - name: Samuel Alake
+      link: https://www.linkedin.com/in/samuel-alake-91694b238
+funding: []
+history: []
+id: mirage
