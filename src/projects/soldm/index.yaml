@@ -1,0 +1,108 @@
+name: solDM
+categories:
+  - social-and-communications
+  - infrastructure
+  - applications
+  - defi
+usecases:
+  - infrastructure
+  - messaging
+ecosystem:
+  - solana
+description: solDM — a serverless, E2E-encrypted private chat with zk
+  compression & quantum resistance on Solana (powered by Light Protocol)
+product_launch_day: 2026-01-02T21:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: false
+tokens: []
+links:
+  web: https://www.soldm.xyz/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://docs.soldm.xyz/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/solana_dms
+  discord: ""
+  telegram: https://t.me/solana_dms
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: E2E-encrypted chat with zk compression & quantum resistance (ML-KEM-768)
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: None
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: >-
+  solDM is built natively on Solana and depends on a small number of external
+  components:
+
+
+  1. Solana mainnet / RPC providers for submitting transactions and reading
+  on-chain state
+
+  2. Light Protocol for zk-compressed state (the message-state / inbox
+  commitments are compressed and anchored on Solana via Light’s infrastructure).
+
+  3. Dialect for optional wallet-native notifications (push/alerts for new
+  message events without exposing plaintext)
+
+  4. Content storage layer for ciphertext blobs (currently IPFS via Pinata in
+  prototype).
+
+
+  Critical note: encryption happens client-side, these dependencies don't have
+  access to plaintext.
+social_trust: >-
+  solDM does not custody user private keys. Message encryption keys live
+  client-side only.
+
+
+  We will run an external security audit and publish a threat model + audit
+  summary. Open-sourcing is planned to make the system verifiable by the
+  community.
+technical_spof: >-
+  We’ve designed solDM to avoid “one server goes down → chat dies” and “one
+  database leak → messages leak”, but there are still a few realistic failure
+  modes to acknowledge:
+
+
+  1. If a user’s device/keystore is compromised, their messages can be decrypted
+  (same as any E2EE system).
+
+  2. Individual RPCs can rate-limit, but users can switch providers, the
+  protocol does not require a single RPC.
+team:
+  anonymous: false
+  teammembers:
+    - name: Jacks
+      link: https://x.com/Encrypted_Jacks
+    - name: Hash
+      link: https://x.com/TheHashMiner
+funding: []
+history: []
+id: soldm
