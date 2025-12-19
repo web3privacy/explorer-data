@@ -3658,6 +3658,86 @@
       ]
     },
     {
+      "id": "hush-wallet",
+      "name": "hush-wallet",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Hush is a privacy-first Solana wallet. We built it because existing wallets expose your entire transaction history to the world — anyone can see your balance, track your purchases, and follow your activity across the blockchain.\n\nHush handles privacy behind the scenes. You use it like a normal wallet — single balance view, send to addresses directly, swap tokens normally — while zero-knowledge proofs and a multi-wallet architecture keep your financial activity confidential.",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://hush.so/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://hush.so/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/hush_wallet",
+        "discord": "",
+        "telegram": "https://t.me/hush_safeguard",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://hush.so/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/hush-wallet/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "hideyourcash",
       "name": "HideYourCash",
       "categories": [
