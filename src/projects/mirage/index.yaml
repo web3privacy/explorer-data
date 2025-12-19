@@ -6,6 +6,7 @@ usecases:
   - defi
   - currency
 ecosystem:
+  - ethereum
   - multichain
 description: Stablecoin privacy at scale. Built for the future of digital payments
 product_launch_day: 2025-05-01T03:00:00.000Z
