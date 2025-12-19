@@ -1,0 +1,104 @@
+name: ANOVEX
+categories:
+  - applications
+  - defi
+usecases:
+  - wallets
+  - defi
+ecosystem:
+  - solana
+description: >-
+  Anovex is a privacy-first decentralized exchange (DEX) that enables anonymous
+  token swaps on Solana. Using zero-knowledge cryptography and decentralized
+  relay networks, Anovex breaks the transaction graph between user wallets and
+  on-chain activity.
+
+
+  Key Privacy Features:
+
+  • Stealth wallet system with ANV addresses - no direct link to your main
+  wallet
+
+  • ZK Relay Network for anonymous fund routing
+
+  • No KYC, no registration, no email required
+
+  • Private key never leaves your device
+
+  • Non-custodial architecture
+
+
+  Technology:
+
+  • Jupiter Aggregator integration for best swap rates
+
+  • Real-time portfolio tracking with encrypted storage
+
+  • Telegram bot for private trading
+
+  • NFC Card Wallet support for instant access
+
+
+  Anovex ensures your trading activity remains completely private - protecting
+  you from surveillance, front-running, and wallet profiling.
+product_launch_day: 2025-12-24T23:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: true
+tokens:
+  - symbol: ANV
+    name: ANOVEX
+    contract_address: 94WxCtGPFYdyWQ29VmqYbX6y7xbpUteHtX3Mak6Jpump
+    token_link: https://solscan.io/token/94WxCtGPFYdyWQ29VmqYbX6y7xbpUteHtX3Mak6Jpump
+links:
+  web: https://anovex.io/
+  blog: ""
+  github: https://github.com/Anovexdev/anovex-zk-core
+  forum: ""
+  docs: https://docs.anovex.io/getting-started
+  whitepaper: ""
+  block_explorer: https://anvscan.com/
+  governance: ""
+  twitter: https://x.com/Anovexofficial
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: AES-256-GCM, Ed25519, SHA-256
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://docs.anovex.io/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: None - Anovex does not collect, store, or share any personal user
+    data. All wallet operations are performed client-side with encrypted
+    storage.
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Jean
+      link: https://t.me/jeananv
+funding: []
+history: []
+id: anovex
