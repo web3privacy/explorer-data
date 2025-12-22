@@ -1,0 +1,74 @@
+name: Liberty Swap Finance
+categories:
+  - defi
+usecases:
+  - bridge
+  - defi
+ecosystem:
+  - ethereum
+  - solana
+  - multichain
+description: >-
+  ibertySwap is an intent-based cross chain swap and privacy protocol powered by
+  Railgun. 
+
+
+  Its Railgun routes allow users to trade directly from Railgun shielded
+  balances on Ethereum with fixed rates, no slippage, and minimal fees, super
+  fast speed, delivering institutional grade privacy for everyday users.
+
+
+  We are expanding our support and build Railgun privacy instance on PulseChain,
+  Solana, Base, SUI
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://libertyswap.finance/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://docs.libertyswap.finance/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/LibertySwapFi
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://docs.libertyswap.finance/general-information/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: liberty-swap-finance
