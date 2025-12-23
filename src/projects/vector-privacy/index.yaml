@@ -1,0 +1,123 @@
+name: Vector Privacy
+categories:
+  - applications
+  - social-and-communications
+usecases:
+  - dapps
+  - messaging
+ecosystem:
+  - other
+description: >-
+  Vector Privacy is an open-source ecosystem that is focused on ensuring the
+  human right to privacy through encrypted communication tools. Vector Messenger
+  is a decentralized communication platform built on the Nostr Protocol,
+  offering no-compromise encryption with zero metadata leakage and plausible
+  deniability for all content, including texts, media, voice notes, and files,
+  adhering to the NIP-17 standard. It natively integrates BIP-39, allowing every
+  Vector account to function as a crypto wallet and vice versa, streamlining
+  tasks like address sharing and payments through compatibility with native
+  wallets like MPW. Vector leverages local, private, device-powered AI to
+  provide practical features such as voice message transcription, language
+  translation, and meme gif search via a decentralized relay-based index. Its
+  resilience is ensured by community-run Nostr relays, eliminating downtime, and
+  its fully open-source codebase—from infrastructure to protocol specs—avoids
+  proprietary lock-in, making it unkillable and transparent.
+
+
+  Open-source technology developed by Formless Labs.
+product_launch_day: 2025-02-02T17:00:00.000Z
+nickname: YuurinBee (@YuurinB)
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://vectorapp.io
+  blog: https://yakihonne.com/profile/nprofile1qqst37fwv8n363vx4eh7d9c0w0wslkufqyy43830g9a773zmhw5jergut5jp4
+  github: https://github.com/VectorPrivacy
+  forum: ""
+  docs: https://docs.vectorapp.io
+  whitepaper: https://gitbook.vectorapp.io
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/VectorPrivacy
+  discord: https://discord.gg/FT65Nh8pzZ
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: OpenMLS, Nostr, WebXDC
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: Vector collects zero user data.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Zero Metadata
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: Vector does not depend on any third-parties, but
+  operates entirely with an orchestrated merging of decentralized and
+  open-source protocols. As Vector is entirely open-source, individuals can run
+  their own versions, modify them, and do whatever they see fit and it does not
+  effect the core protocol. Vector was designed to be standalone, lean,
+  efficient in most circumstances, and not depend on any third parties to
+  operate—a great example is AWS and CloudFlare outages that cripple all
+  communication for other messenger apps, but not Vector.
+social_trust: "Open-source core developers and the community are what govern the
+  direction of Vector. It does not rely on a single person or entity to function
+  or thrive. Due to the current stage of Vector, there is no need for a DAO-like
+  structure in order to operate. As time progresses, it will adopt whatever
+  methods and protocols necessary to scale with the community. "
+technical_spof: There is not a known single point of failure for Vector as long
+  as the vision stays alive and there is a demand for true privacy and
+  censorship-resistant communication. Vector does not rely on any entity for
+  funding to continue operations, but instead the love for privacy and
+  contributions of the community. Vector itself is unaffected if any particular
+  person is hacked or their private keys are compromised—that is a concern
+  solely for that individual and the peers they have contacted. One potential,
+  but unlikely point of failure is if the entire internet goes down or every
+  single node on the network goes offline.
+team:
+  anonymous: false
+  teammembers:
+    - name: JSKitty
+      link: https://x.com/JSKitteh
+    - name: YuurinBee
+      link: https://x.com/YuurinB
+    - name: Hans Koning
+      link: https://x.com/hanskoning
+funding:
+  - name: Gitcoin (GG24)
+    link: https://gov.gitcoin.co/t/gg24-privacy-round-retrospective/24836
+history:
+  - title: Vector Closed Beta Launch
+    description: This was the first ever public release for Vector that launched
+      with a Closed Beta. Members had to obtain an invite code, which was
+      accessible online and through other users. There was no limit on invites.
+      This release had versions available on Windows, MacOS, and Linux.
+    link: https://github.com/VectorPrivacy/Vector/releases/tag/v0.1.7
+    time: 2025-07-17T17:00:00.000Z
+  - title: Vector Open Beta Launch
+    description: Remember, Remember, the Fifth of November. This was the official
+      launch of Vector Open Beta (v0.2.1) that was available to everyone
+      worldwide. This release also included an additional version for Android,
+      so more users could utilize Vector now on mobile.
+    link: https://github.com/VectorPrivacy/Vector/releases/tag/v0.2.1
+    time: 2025-11-04T17:00:00.000Z
+id: vector-privacy
