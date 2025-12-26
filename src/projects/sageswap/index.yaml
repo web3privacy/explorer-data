@@ -4,12 +4,8 @@ categories:
   - applications
   - defi
 usecases:
-  - wallets
-  - currency
   - infrastructure
-  - dapps
   - mixing-service
-  - other
 ecosystem:
   - ethereum
   - bitcoin
