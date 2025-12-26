@@ -5,25 +5,44 @@ usecases:
   - infrastructure
 ecosystem:
   - other
-description: Telos provides cutting-edge solutions to address the drawbacks
-  developers and users face with other Layer 1 blockchains, such as lagging
-  performance (high latency times & network congestion), limited scalability,
-  and energy consumption.
+description: >-
+  Fast. Private. Real-World Ready.
+  
+  
+  Overview
+  
+  Telos is a next-generation Layer-1 blockchain built for real-world adoption -
+  uniting high speed, scalability, and a privacy-first design in one powerful
+  network. Its advanced WASM-based architecture powers the Telos EVM, an
+  Ethereum-compatible environment delivering sub-second finality, zero
+  front-running, and a frictionless developer experience.
+  
+  
+  The  Privacy Layer extends the EVM with integrated zero-knowledge technology -
+  enabling shielded transactions, confidential dApps, and cross-token privacy
+  directly within the ecosystem. For the first time, privacy will be a built-in
+  feature of the EVM itself, not an add-on.
+product_launch_day: 2019-01-11T16:00:00.000Z
 sunset: false
-assets_used: []
+assets_used:
+  - usdc
+  - other
 have_token: false
-tokens: []
+tokens:
+  - symbol: TLOS
+    name: Telos
+    contract_address: ""
+    token_link: ""
 links:
   web: https://www.telos.net/
   blog: https://www.telos.net/blog
   github: https://github.com/telosnetwork
   forum: ""
-  docs: https://docs.telos.net/overview/what-is-telos/introduction/
+  docs: https://docs.telos.net/
   whitepaper: ""
-  block_explorer: https://explorer.telos.net/network
+  block_explorer: https://teloscan.io
   governance: https://app.telos.net/trails/ballots
   twitter: https://x.com/HelloTelos
-  discord: https://discord.gg/telos
   telegram: http://t.me/HelloTelos
   lens: ""
   farcaster: ""
@@ -36,7 +55,7 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: ""
-  encryption: ""
+  encryption: ZK-Snark
 storage: {}
 privacy_policy:
   defined: true
@@ -45,8 +64,17 @@ privacy_policy:
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
-  sign_in_type_requirments: []
+  tracked_data: None
+  sign_in_type_requirments:
+    - wallet
 default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
 history: []
 id: telos
