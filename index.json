@@ -28746,36 +28746,36 @@
       "id": "mirage",
       "name": "Mirage",
       "categories": [
-        "defi",
+        "applications",
         "infrastructure"
       ],
       "usecases": [
+        "tee",
         "defi",
-        "currency"
+        "infrastructure"
       ],
       "ecosystem": [
-        "ethereum",
-        "multichain"
+        "ethereum"
       ],
-      "description": "Stablecoin privacy at scale. Built for the future of digital payments",
-      "product_launch_day": "2025-05-01T03:00:00.000Z",
+      "description": "Mirage is an EVM-focused privacy solution that enables users to transact with stablecoins using on-chain privacy, without revealing that they're using a privacy system. Unlike traditional privacy tools that leave detectable traces on-chain, Mirage aims to make private transactions indistinguishable from regular ones, addressing a key limitation of existing solutions.",
       "sunset": false,
       "assets_used": [
+        "usdt",
         "other"
       ],
       "have_token": false,
       "tokens": [],
       "links": {
-        "web": "https://t.co/vIWroBJvDj",
-        "blog": "",
-        "github": "https://github.com/MiragePrivacy",
+        "web": "https://mirageprivacy.com",
+        "blog": "https://blog.mirageprivacy.com",
+        "github": "https://github.com/mirageprivacy",
         "forum": "",
-        "docs": "https://docs.mirageprivacy.com/",
+        "docs": "https://docs.mirageprivacy.com",
         "whitepaper": "",
         "block_explorer": "",
         "governance": "",
         "twitter": "https://x.com/mirageprivacy",
-        "discord": "",
+        "discord": "https://discord.gg/FCcKwPyBxV",
         "telegram": "",
         "lens": "",
         "farcaster": ""
@@ -28793,7 +28793,8 @@
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": ""
+        "encryption": "",
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
@@ -28801,11 +28802,13 @@
         "link": "",
         "data_usage": ""
       },
-      "compliance": "",
+      "compliance": "No-KYC real-time wallet screening",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
       },
       "default_privacy": false,
       "audits": [],
@@ -28817,15 +28820,15 @@
         "teammembers": [
           {
             "name": "Nima Rasooli",
-            "link": "https://www.linkedin.com/in/nima-rasooli/"
+            "link": "https://x.com/0xNimaRa"
           },
           {
             "name": "Ossian Mapes",
-            "link": "https://www.linkedin.com/in/ozwaldorf"
+            "link": "https://x.com/ozwaldorf_"
           },
           {
             "name": "Samuel Alake",
-            "link": "https://www.linkedin.com/in/samuel-alake-91694b238"
+            "link": "https://x.com/g4titan_"
           }
         ]
       },
@@ -28836,6 +28839,11 @@
           "file": "logo.jpeg",
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mirage/logo.jpeg"
+        },
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/mirage/logo.png"
         }
       ]
     },
