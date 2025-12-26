@@ -15199,6 +15199,96 @@
       "sunset": false
     },
     {
+      "id": "sageswap",
+      "name": "SageSwap",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "defi"
+      ],
+      "usecases": [
+        "infrastructure",
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "bitcoin",
+        "solana",
+        "monero",
+        "other"
+      ],
+      "description": "A crypto to crypto swap service. Never KYC, No Logs, No Money Freeze and No JavaScript. \n",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "btc",
+        "usdt",
+        "sol",
+        "xmr",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://sageswap.io/",
+        "blog": "https://sageswap.io/blog/",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/SageSwap_io",
+        "discord": "",
+        "telegram": "https://t.me/SageSwap",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "custodial",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "We do not collect any."
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "We just need your wallet addres, which you can delete immediately after successful transcation!",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/sageswap/logo.png"
+        }
+      ]
+    },
+    {
       "id": "lokinet",
       "name": "Lokinet",
       "categories": [
