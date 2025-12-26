@@ -3483,6 +3483,92 @@
       "sunset": false
     },
     {
+      "id": "zelana",
+      "name": "Zelana",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Decentralized privacy focused ZK-rollup on Solana",
+      "product_launch_day": "2025-08-31T22:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "zelana.org",
+        "blog": "",
+        "github": "https://github.com/Zelana-Labs",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/zelanalabs",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "ZK, commitments"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "Exploit in bridge, brute force on hashes",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "",
+          "description": "",
+          "link": "",
+          "time": ""
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/zelana/logo.png"
+        }
+      ]
+    },
+    {
       "id": "fileverse",
       "name": "Fileverse",
       "categories": [
