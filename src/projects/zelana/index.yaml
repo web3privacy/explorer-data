@@ -27,7 +27,7 @@ links:
   farcaster: ""
 project_phase: mvp
 project_status:
-  live_status: true
+  live_status: false
   mainnet: false
   testnet: false
   version: mvp
