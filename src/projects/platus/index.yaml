@@ -1,0 +1,62 @@
+name: Platus
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: Composable onchain privacy with strong security guarantees for all
+  your DeFi needs with app-specific stealth addresses and zero-knowledge proofs.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.platus.xyz/
+  blog: ""
+  github: https://github.com/platus-xyz
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: x.com/platus_xyz
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: zk-SNARKs
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: OFAC, screening risk engine, Proof of Innocence, Selective
+  disclosure with scoped viewing keys
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Edwen
+      link: ""
+funding: []
+history: []
+id: platus
