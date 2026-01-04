@@ -18509,6 +18509,100 @@
       "sunset": false
     },
     {
+      "id": "magicblock",
+      "name": "MagicBlock",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "MagicBlock is a real-time engine seamlessly integrated with Solana. It provides ultra-low latency, on-demand runtimes, and elastic scalability for fully onchain applications. Built for developers, MagicBlock delivers an unmatched combination of speed, composability, and scalability, ensuring that decentralized applications can achieve Web2-level performance without sacrificing the benefits of Web3. With cutting-edge ephemeral rollup technology, MagicBlock enables zero-latency, high-throughput transactions, empowering builders to create the next generation of onchain experiences across gaming, DeFi, and beyond.",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.magicblock.xyz/",
+        "blog": "https://www.magicblock.xyz/blog",
+        "github": "https://github.com/magicblock-labs",
+        "forum": "",
+        "docs": "https://docs.magicblock.gg",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/magicblock",
+        "discord": "https://discord.com/invite/MBkdC3gxcv",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Ephemeral Rollups"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.magicblock.xyz/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Andrea Fortugno",
+            "link": "https://x.com/supermarioblock"
+          },
+          {
+            "name": "Gabriele Picco",
+            "link": "http://github.com/GabrielePicco"
+          }
+        ]
+      },
+      "funding": [
+        {
+          "name": "a16z CSX",
+          "link": "https://www.magicblock.xyz/blog/enable-real-time-onchain-games-and-applications"
+        }
+      ],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/magicblock/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "shielded-labs",
       "name": "Shielded Labs",
       "categories": [
