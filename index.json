@@ -18460,6 +18460,84 @@
       ]
     },
     {
+      "id": "vanish",
+      "name": "Vanish",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "wallets",
+        "infrastructure",
+        "mixing-management"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Vanish enables private trading with integrity on Solana, designed for traders who value privacy, speed, and security.\n\nOnchain transparency is both a strength and a weakness: every trade is visible, exposing strategies to frontrunning, copy traders, and unwanted attention. Vanish introduces shielded execution, providing instant private swaps for legitimate traders while preventing misuse from bad actors.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.vanish.trade/",
+        "blog": "https://medium.com/@vanishTrade",
+        "github": "",
+        "forum": "",
+        "docs": "https://docs.vanish.trade/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/vanishTrade",
+        "discord": "https://discord.com/invite/vanishtrade",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://docs.vanish.trade/legal/privacy-policy",
+        "data_usage": ""
+      },
+      "compliance": "OFAC, KYT/KYB",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/vanish/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "polybase",
       "name": "Polybase",
       "categories": [
