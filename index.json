@@ -20563,6 +20563,84 @@
       ]
     },
     {
+      "id": "ciphernet",
+      "name": "CipherNet",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "mixing-management",
+        "wallets",
+        "browser"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "CipherNet is a privacy network that wraps every action inside an ephemeral identity.\n\nYou can mix funds, send privately, test dApps, simulate flows and communicate without exposing your real wallet. Every session begins with a clean identity and ends in a complete wipe. Nothing can be reconstructed.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "CiNET",
+          "name": "CipherNet",
+          "contract_address": "3qAR4mq5X8WTuyqDeie2Mj9wGrYVb83TiGdkEgYbpump",
+          "token_link": "https://pump.fun/coin/3qAR4mq5X8WTuyqDeie2Mj9wGrYVb83TiGdkEgYbpump"
+        }
+      ],
+      "links": {
+        "web": "https://ciphernetsol.xyz/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "https://ciphernetsol.xyz/downloads/CipherNetLitepaper.pdf",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/CipherNetSolana",
+        "discord": "",
+        "telegram": "https://t.me/CipherNetSol",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ciphernet/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "eigenwallet",
       "name": "eigenwallet",
       "categories": [
