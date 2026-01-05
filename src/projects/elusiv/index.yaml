@@ -1,29 +1,69 @@
+id: elusiv
 name: Elusiv
 categories:
-  - infrastructure
+  - defi
 ecosystem:
-  - ethereum
-usecases:
-  - other
-description: Elusiv Solana program library
-team:
-  anonymous: true
+  - solana
+description: Compliant Privacy that Scales
+technology:
+  type: zk
+  features:
+    - zk-SNARKS
 links:
-  web: https://elusiv.network
-  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/CODE_REVIEW.md
-  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/TEAM.md
-  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/reports/SECURITY.md
-  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/elusiv/README.md
+  web: https://elusiv.io/
+  blog: ""
+  github: https://github.com/elusiv-privacy
+  forum: ""
+  docs: https://docs.elusiv.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/elusivprivacy
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: false
   mainnet: true
-sunset: false
+  testnet: false
+  version: mainnet
+team:
+  anonymous: false
+  teammembers: []
+usecases:
+  - defi
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/elusiv/logo.png
+sunset: true
+assets_used:
+  - sol
+  - other
+tokens: []
+project_phase: mainnet
 blockchain_features:
-  opensource: true
-  asset_custody_type: non-custody
-default_privacy: false
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
 tracebility:
   kyc: false
-licences: GNU General Public License v3.0
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []

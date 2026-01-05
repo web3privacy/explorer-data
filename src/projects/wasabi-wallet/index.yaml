@@ -1,30 +1,49 @@
+id: wasabi-wallet
 name: Wasabi Wallet
 categories:
-  - infrastructure
+- applications
+description: Open-source, non-custodial Bitcoin Wallet for desktop
 ecosystem:
-  - ethereum
-usecases:
-  - other
-description: Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
-team:
-  anonymous: true
+- bitcoin
 links:
-  web: https://wasabi-wallet.io
-  github: https://github.com/WalletWasabi/WalletWasabi
-  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/CODE_REVIEW.md
-  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/TEAM.md
-  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/reports/SECURITY.md
-  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/wasabi-wallet/README.md
+  web: https://wasabiwallet.io/
+  github: https://github.com/WalletWasabi
+  docs: https://docs.wasabiwallet.io/
+  blog: https://blog.wasabiwallet.io/
+  twitter: https://x.com/wasabiwallet
+  discord: https://discord.gg/nm7YHEZnJs
+  telegram: https://t.me/WasabiWallet
+team:
+  anonymous: false
+  teammembers:
+    - name: Lucas Ontivero
+      link: https://github.com/lontivero
+    - name: Turbolay
+      link: https://github.com/turbolay
+usecases:
+- wallets
+project_phase: mainnet
 project_status:
   live_status: true
-  version: Mainnet
+  version: mainnet
   testnet: false
   mainnet: true
+
 sunset: false
+
+have_token: false
 blockchain_features:
   opensource: true
   asset_custody_type: non-custody
-default_privacy: false
+  upgradability:
+    enabled: true
+
+privacy_policy:
+  defined: false
+default_privacy: true
+
 tracebility:
-  kyc: false
-licences: MIT License
+  kyc: false 
+  sign_in_type_requirments: 
+    - wallet
+third_party_dependency: none

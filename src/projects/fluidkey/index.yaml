@@ -1,30 +1,79 @@
+id: fluidkey
 name: Fluidkey
 categories:
-  - infrastructure
+  - applications
+usecases:
+  - defi
+  - wallets
 ecosystem:
   - ethereum
-usecases:
-  - other
-description: An open source repository of the core cryptographic functions used by Fluidkey’s interface and SDK.
-team:
-  anonymous: true
+description: "Receive and manage funds onchain without publicly linking them to
+  you via stealth addresses. "
+sunset: false
 links:
-  web: https://fluidkey.com
-  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/CODE_REVIEW.md
-  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/TEAM.md
-  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/SECURITY.md
-  technical_docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/reports/technical_analysis.md
-  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/fluidkey/README.md
+  web: https://www.fluidkey.com
+  blog: ""
+  github: https://github.com/fluidkey
+  forum: ""
+  docs: https://docs.fluidkey.com/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/fluidkey
+  discord: ""
+  telegram: https://t.me/fluidkey
+  lens: ""
+  farcaster: https://farcaster.xyz/~/channel/fluidkey
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/fluidkey/logo.jpeg
+assets_used:
+  - eth
+  - usdc
+have_token: false
+tokens: []
+project_phase: mainnet
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: false
   mainnet: true
-sunset: false
+  testnet: false
+  version: mainnet
 blockchain_features:
-  opensource: true
+  opensource: false
+  upgradability:
+    enabled: true
   asset_custody_type: non-custody
-default_privacy: false
+  encryption: Stealth Address
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.fluidkey.com/privacy
+  data_usage: information gathering
+compliance: ""
 tracebility:
   kyc: false
-licences: MIT License
+  tracked_data: "Contact details, Login details, Request details. Blockchain data "
+  sign_in_type_requirments:
+    - email
+    - wallet
+default_privacy: false
+audits:
+  - name: Fluidkey Stealth Account Kit
+    url: https://github.com/fluidkey/fluidkey-stealth-account-kit/blob/main/audits/Fluidkey%20Stealth%20Account%20Kit%20-%20May%2024,%202024.pdf
+    time: 2024-05-23T22:00:00.000Z
+third_party_dependency: Yes
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Moritz Boullenger
+      link: https://www.linkedin.com/in/moritzboullenger/
+    - name: Antonio Seveso
+      link: https://www.linkedin.com/in/antonio-seveso/
+    - name: Federico Castelli
+      link: https://www.linkedin.com/in/federico-castelli/
+funding: []
+history: []
