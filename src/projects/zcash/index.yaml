@@ -65,7 +65,7 @@ default_privacy: false
 funding:
   - name: DCG
     type: Investments
-    link: https://zfnd.org/zebra/
+    link: https://www.coindesk.com/markets/2018/04/25/digital-currency-group-adds-zcash-offshoot-zencash-to-crypto-investment-list
     value: ""
     time: 2024-09-15T00:00:00.000Z
 project_status:
