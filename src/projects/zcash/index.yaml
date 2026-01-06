@@ -51,7 +51,7 @@ audits:
     link: https://leastauthority.com/static/publications/LeastAuthority-Zcash-Sapling-Implementation-RPC-Interface-Updated-Audit-Report.pdf
     time: 2019-01-29T23:00:00.000Z
 history:
-  - title: Mainet
+  - title: Mainnet
     event_type: launch
     description: Genesis block
     time: 2016-10-27T22:00:00.000Z
