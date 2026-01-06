@@ -91,7 +91,7 @@ tokens:
   - symbol: ZEC
     name: ZEC
     contract_address: ""
-    token_link: https://mainnet.zcashexplorer.app/
+    token_link: https://3xpl.com/zcash
 project_phase: mainnet
 compliance: ""
 tracebility:
