@@ -38,7 +38,7 @@ privacy_policy:
   link: ""
   data_usage: ""
 storage:
-  decentralized: false
+  decentralized: true
 third_party_dependency: none
 audits:
   - name: NCC Group NU5 Review
