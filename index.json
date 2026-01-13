@@ -24748,6 +24748,89 @@
       "sunset": false
     },
     {
+      "id": "hydex",
+      "name": "Hydex",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "bridge"
+      ],
+      "ecosystem": [
+        "solana",
+        "other",
+        "multichain"
+      ],
+      "description": "Hydex is a non‑custodial, privacy‑preserving bridge connecting the Zcash Orchard shielded pool to the Solana blockchain. It enables:\n\n    Shielded ZEC deposits → Shielded Wrapped ZEC (sZEC) on Solana\n\n    sZEC burns → Shielded ZEC withdrawals\n\nHydex ensures:\n\n    No deposit/withdrawal linkage\n\n    No leakage of Zcash metadata\n\n    No requirement to reveal view keys or spending keys",
+      "sunset": false,
+      "assets_used": [
+        "zcash",
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.hydex.io/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://hydex.gitbook.io/hydex-bridge",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/hydex_io",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/hydex/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "skiff",
       "name": "Skiff",
       "categories": [
