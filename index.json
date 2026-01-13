@@ -18558,6 +18558,88 @@
       ]
     },
     {
+      "id": "nulltrace",
+      "name": "NullTrace",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets",
+        "bridge",
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "solana",
+        "multichain"
+      ],
+      "description": "NullTrace is a comprehensive privacy infrastructure built on ZK Proofs, designed to provide users with complete anonymity and financial privacy. Our protocol enables private transactions, cross-chain bridging, and token mixing while rewarding participants through our native $NULL token ecosystem.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "NullTrace",
+          "name": "N",
+          "contract_address": "48eKhwwadm7LJ57msuDYdq36CXx23Ratdbu74Pa1NULL",
+          "token_link": "https://solscan.io/token/48eKhwwadm7LJ57msuDYdq36CXx23Ratdbu74Pa1NULL"
+        }
+      ],
+      "links": {
+        "web": "https://www.nulltrace.app/",
+        "blog": "",
+        "github": "",
+        "forum": "https://www.reddit.com/r/NullTraceBot/",
+        "docs": "https://www.nulltrace.app/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/nulltracebot",
+        "discord": "",
+        "telegram": "https://t.me/nulltracebot",
+        "lens": "",
+        "farcaster": "https://farcaster.xyz/nulltrace"
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nulltrace/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "vanish",
       "name": "Vanish",
       "categories": [
