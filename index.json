@@ -40728,6 +40728,90 @@
       ]
     },
     {
+      "id": "ghostware",
+      "name": "Ghostware",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "wallets",
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "GhostWare is the privacy layer of Solana. It is a modular system that makes privacy a native feature of the blockchain. From stealth transactions to encrypted communication, GhostWare enables you to stay invisible while staying connected",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "GHOST",
+          "name": "GhostwareOS",
+          "contract_address": "BBKPiLM9KjdJW7oQSKt99RVWcZdhF6sEHRKnwqeBGHST",
+          "token_link": "https://solscan.io/token/BBKPiLM9KjdJW7oQSKt99RVWcZdhF6sEHRKnwqeBGHST"
+        }
+      ],
+      "links": {
+        "web": "https://www.ghostwareos.com/",
+        "blog": "",
+        "github": "",
+        "forum": "https://medium.com/@tryghostware",
+        "docs": "https://ghostwareos.gitbook.io/docs",
+        "whitepaper": "https://whitepaper.ghostwareos.com/",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/GhostWareOS",
+        "discord": "",
+        "telegram": "http://t.me/GhostWareOS",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ghostware/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "gotabit",
       "name": "GotaBit",
       "categories": [
