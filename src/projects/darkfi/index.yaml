@@ -1,29 +1,83 @@
-name: Darkfi
+id: darkfi
+name: DarkFi
 categories:
   - infrastructure
-ecosystem:
-  - ethereum
-usecases:
-  - other
-description: Anonymous. Uncensored. Sovereign.
-team:
-  anonymous: true
+  - social-and-communications
+  - applications
+  - defi
+description: DarkFi is a new Layer 1 blockchain, designed with anonymity at the
+  forefront. It offers flexible private primitives that can be wielded to create
+  any kind of application
 links:
-  web: https://darkfi.org
-  code_review: https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/reports/CODE_REVIEW.md
-  team_info: https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/reports/TEAM.md
-  security_report: https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/reports/SECURITY.md
-  docs: https://github.com/web3privacy/explorer-data/blob/main/src/projects/darkfi/README.md
+  web: https://dark.fi
+  blog: https://dark.fi/insights/
+  github: https://github.com/darkrenaissance/darkfi
+  forum: ""
+  docs: https://darkrenaissance.github.io/darkfi/
+  whitepaper: ""
+  block_explorer: https://explorer.testnet.dark.fi/
+  governance: ""
+  twitter: https://x.com/DarkFiSquad
+  discord: ""
+  telegram: https://t.me/darkfichat
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: Mainnet
-  testnet: false
-  mainnet: true
+  mainnet: false
+  testnet: true
+  version: testnet
+usecases:
+  - infrastructure
+  - dao
+  - wallets
+  - defi
+  - currency
+  - messaging
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/darkfi/logo.png
+ecosystem:
+  - other
 sunset: false
+assets_used: []
+tokens: []
+project_phase: testnet
 blockchain_features:
   opensource: true
-  asset_custody_type: non-custody
-default_privacy: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
 tracebility:
   kyc: false
-licences: GNU Affero General Public License v3.0
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits:
+  - name: Audit of DarkFi Contracts
+    url: https://www.zksecurity.xyz/blog/2024-darkfi-report.pdf
+    time: 2024-02-19T00:00:00.000Z
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Amir Taaki
+      link: https://x.com/Narodism
+    - name: Rachel-Rose O'Leary
+      link: https://x.com/lunar_mining
+funding:
+  - name: LunarDAO
+    link: https://dekanbro.github.io/nft-raider/#/molochv3/0xa4b1/0xaff8f43727e6cc9aa8e961de0473253d5d607869/0xc08f9633f8031c2754a5740f49a92ad9254eec69
+history: []
