@@ -1,0 +1,52 @@
+name: Melee
+categories:
+  - applications
+usecases:
+  - events
+  - other
+ecosystem:
+  - solana
+description: Private prediction markets
+sunset: false
+assets_used:
+  - sol
+have_token: false
+tokens: []
+links:
+  web: https://alpha.melee.markets/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/meleemarkets
+  discord: https://discord.gg/meleemarkets
+  telegram: https://t.me/+eB7AzbnuMHo4Yzgx
+  lens: ""
+  farcaster: ""
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+id: melee
