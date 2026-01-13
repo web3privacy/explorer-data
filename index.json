@@ -35328,6 +35328,79 @@
       }
     },
     {
+      "id": "anonmesh",
+      "name": "anonmesh",
+      "categories": [
+        "applications",
+        "social-and-communications"
+      ],
+      "usecases": [
+        "wallets",
+        "messaging"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Lightweight peer-to-peer mesh networking for mobile devices. anon0mesh combines BLE (Central + Peripheral), a compact packet format, and Nostr cryptographic messaging to enable local mesh messaging and simple Solana transaction relay for constrained environments.\n\nBuilt on Arcium",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.anonme.sh/",
+        "blog": "",
+        "github": "https://github.com/Magicred-1/anon0mesh",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/anon0mesh",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Milhaal",
+            "link": "https://github.com/Milhaal"
+          },
+          {
+            "name": "Magicred-1",
+            "link": "https://github.com/Magicred-1"
+          }
+        ]
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anonmesh/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "serai",
       "name": "Serai",
       "categories": [
