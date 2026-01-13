@@ -1,0 +1,62 @@
+name: SolRouter
+categories:
+  - applications
+usecases:
+  - ai
+ecosystem:
+  - solana
+description: SolRouter is a privacy-first, Solana-native AI platform that
+  provides anonymous access to multiple AI models at a fraction of the cost.
+  Built with end-to-end encryption powered by Arcium's MPC, decentralized
+  authentication, and pay-as-you-go pricing in USDC.
+sunset: false
+assets_used:
+  - sol
+  - sol
+have_token: false
+tokens: []
+links:
+  web: https://www.solrouter.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://www.solrouter.com/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/SolRouterAI
+  discord: ""
+  telegram: https://t.me/ghost_hash
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+id: solrouter
