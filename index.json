@@ -8303,6 +8303,78 @@
       "sunset": false
     },
     {
+      "id": "cloak",
+      "name": "Cloak",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "mixing-management",
+        "mixing-service",
+        "wallets"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Cloak is the privacy execution layer on Solana, enabling zero-knowledge private transactions with decentralized Proof-of-Work validators that guarantee fairness and liquidity. ",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.cloak.ag/",
+        "blog": "",
+        "github": "https://github.com/cloak-ag/cloak",
+        "forum": "",
+        "docs": "https://cloak-eqpl.vercel.app/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/cloaklabz",
+        "discord": "https://discord.gg/cloak",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mvp",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "mvp"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cloak/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "hopr",
       "name": "HOPR",
       "categories": [
