@@ -32641,6 +32641,83 @@
       "sunset": true
     },
     {
+      "id": "voidify",
+      "name": "Voidify",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets",
+        "mixing-management",
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Voidify is a decentralized, non-custodial protocol built on the Solana blockchain. It enables users to deposit and later withdraw crypto assets using zero-knowledge proofs, creating unlinkable transactions between wallets — without relying on any intermediary.\n\nWhile Solana offers speed and low transaction costs, it lacks native privacy. Every transaction is publicly visible, exposing user activity and compromising confidentiality. Voidify addresses this gap by allowing users to deposit fixed-denomination tokens into an on-chain privacy pool, then withdraw to a different wallet without leaving a visible on-chain link.",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "∅",
+          "name": "Voidify",
+          "contract_address": "J2bUGZDxRDpsVfjZqKwn6yYCUKFmqzHgt8UajhGtpump",
+          "token_link": "https://solscan.io/token/J2bUGZDxRDpsVfjZqKwn6yYCUKFmqzHgt8UajhGtpump"
+        }
+      ],
+      "links": {
+        "web": "https://voidify.io/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://voidify.gitbook.io",
+        "whitepaper": "https://voidify.gitbook.io/whitepaper",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/VoidifyIO",
+        "discord": "",
+        "telegram": "https://t.me/VoidifyOfficial",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/voidify/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "partisia-blockchain",
       "name": "Partisia Blockchain",
       "categories": [
