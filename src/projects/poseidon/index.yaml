@@ -1,0 +1,67 @@
+name: Poseidon
+categories:
+  - applications
+usecases:
+  - wallets
+  - mixing-management
+  - mixing-service
+ecosystem:
+  - solana
+description: A production-grade zero-knowledge privacy protocol on Solana using
+  zkSNARKs (Groth16) and Poseidon Merkle trees. Enables fully private deposits
+  and withdrawals with unlinkable change notes.
+sunset: false
+assets_used:
+  - sol
+have_token: true
+tokens:
+  - symbol: POS
+    name: Poseidon
+    contract_address: EMKP9FV5wakvyodPh8edQW4RTSbHPrhYRDEiCiz1pump
+    token_link: https://solscan.io/token/EMKP9FV5wakvyodPh8edQW4RTSbHPrhYRDEiCiz1pump
+links:
+  web: https://poseidon.cash/
+  blog: ""
+  github: https://github.com/poseidondotcash/Poseidon
+  forum: ""
+  docs: https://poseidon.cash/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/poseidoncash
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: Groth16
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+id: poseidon
