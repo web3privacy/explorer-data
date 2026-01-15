@@ -27551,6 +27551,95 @@
       ]
     },
     {
+      "id": "secure",
+      "name": "secure",
+      "categories": [
+        "social-and-communications",
+        "applications"
+      ],
+      "usecases": [
+        "messaging"
+      ],
+      "ecosystem": [
+        "solana",
+        "multichain",
+        "other"
+      ],
+      "description": "Secure is a revolutionary Android messaging application that combines truly serverless peer-to-peer communication, post-quantum cryptography, and integrated cryptocurrency payments. Unlike Signal, Session, or any traditional messenger, Secure eliminates ALL central infrastructure—no servers exist to log your metadata, no company can hand over data that was never collected.",
+      "sunset": false,
+      "assets_used": [
+        "sol",
+        "zcash"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "SECURE",
+          "name": "Secure Legion",
+          "contract_address": "GFJbQ7WDQry73iTaGkJcXKjvi1ViFTFmHSENgz92jFPP",
+          "token_link": "https://solscan.io/token/GFJbQ7WDQry73iTaGkJcXKjvi1ViFTFmHSENgz92jFPP"
+        }
+      ],
+      "links": {
+        "web": "https://securelegion.org/",
+        "blog": "https://securelegion.org/blog",
+        "github": "https://github.com/Secure-Legion",
+        "forum": "",
+        "docs": "https://github.com/Secure-Legion#readme",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/SecureLegion",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/secure/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "fluton",
       "name": "Fluton",
       "categories": [
