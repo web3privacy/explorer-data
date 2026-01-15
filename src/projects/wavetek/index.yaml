@@ -1,0 +1,98 @@
+name: wavetek
+categories:
+  - defi
+  - applications
+usecases:
+  - defi
+  - bridge
+  - mixing-management
+  - mixing-service
+ecosystem:
+  - solana
+  - multichain
+description: >-
+  WaveTek is a private DeFi app on Solana for encrypted swaps, quantum-secure
+  bridging, and confidential staking.
+
+
+  As on-chain finance scales, surveillance scales faster. What began as radical
+  transparency has evolved into permanent financial exposure — where wallets are
+  tracked, strategies are copied, and capital behavior is indexed and extracted.
+
+
+  WaveTek exists to neutralize that reality. It enables private participation,
+  aligned incentives, and encrypted capital flow on Solana without sacrificing
+  speed, composability, or user experience.
+
+
+  WaveSwap enables private swaps using Encifher, confidentially routed through
+  Jupiter — protecting users from on-chain surveillance and strategy leakage.
+
+
+
+  WavePortal bridges assets to Zcash for shielding or Starknet for ZK and
+  post-quantum security — preparing capital for the next threat vector.
+
+
+
+  WaveStake enables confidential staking for aligned, long-term participation.
+  Users stake $WAVE, earn $WEALTH, and receive protocol revenue share. Ten
+  percent of the $WEALTH supply is allocated to staking rewards for the
+  community.
+sunset: false
+assets_used:
+  - sol
+  - zcash
+have_token: true
+tokens:
+  - symbol: WAVE
+    name: Wave Swap
+    contract_address: 4AGxpKxYnw7g1ofvYDs5Jq2a1ek5kB9jS2NTUaippump
+    token_link: https://solscan.io/token/4AGxpKxYnw7g1ofvYDs5Jq2a1ek5kB9jS2NTUaippump
+  - symbol: WEALTH
+    name: Wealth
+    contract_address: BSxPC3Vu3X6UCtEEAYyhxAEo3rvtS4dgzzrvnERDpump
+    token_link: https://solscan.io/token/BSxPC3Vu3X6UCtEEAYyhxAEo3rvtS4dgzzrvnERDpump
+links:
+  web: https://securethebag.fun/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/securethebagfun
+  discord: ""
+  telegram: https://t.me/securethebagfun
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+id: wavetek
