@@ -47898,6 +47898,95 @@
       "sunset": false
     },
     {
+      "id": "specter",
+      "name": "specter",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "defi",
+        "social-and-communications"
+      ],
+      "usecases": [
+        "defi",
+        "mixing-management",
+        "mixing-service",
+        "wallets"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "SPECTER is a comprehensive privacy infrastructure built on Solana. By leveraging Groth16 zkSNARKs with Poseidon hash, Specter enables users to break on-chain transaction links, perform private token swaps, and interact with DeFi protocols while maintaining complete financial privacy.",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "SPECTER",
+          "name": "Specter Protocol",
+          "contract_address": "D4iJjWB9AgKTJs5ShgMzxRtQjUZDu2iMh4QhE9MJpump",
+          "token_link": "https://solscan.io/token/D4iJjWB9AgKTJs5ShgMzxRtQjUZDu2iMh4QhE9MJpump"
+        }
+      ],
+      "links": {
+        "web": "https://www.specterprotocol.com/",
+        "blog": "https://www.specterprotocol.com/blog",
+        "github": "",
+        "forum": "",
+        "docs": "https://www.specterprotocol.com/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/SpecterZK",
+        "discord": "",
+        "telegram": "https://t.me/specterprotocol",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": "Groth16"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/specter/logo.png"
+        }
+      ]
+    },
+    {
       "id": "lecksis",
       "name": "Lecksis",
       "categories": [
