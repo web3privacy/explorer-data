@@ -1,8 +1,8 @@
-- id: openess
-  name: Openess
+- id: openness
+  name: Openness
   references:
     - field: team.teammembers
-      label:  
+      label:
         name: Team
         positive: Member
         negative: Anonymous
@@ -10,7 +10,7 @@
         minLength: 1
       points: 10
     - field: links.docs
-      label: 
+      label:
         name: Documentation
         positive: Link
         negative: Not available
@@ -18,7 +18,7 @@
         exists: true
       points: 10
     - field: links.github
-      label: 
+      label:
         name: Github
         positive: Link
         negative: Not available
@@ -34,7 +34,7 @@
         exists: true
       points: 1
     - field: links.telegram
-      label: 
+      label:
         name: Telegram
         positive: Link
         negative: Not available
@@ -43,14 +43,14 @@
       points: 1
     - field: links.discord
       label:
-        name:  Discord
+        name: Discord
         positive: Link
         negative: Not available
       condition:
         exists: true
       points: 1
     - field: links.lens
-      label: 
+      label:
         name: Lens
         positive: Link
         negative: Not available
@@ -58,7 +58,7 @@
         exists: true
       points: 1
     - field: links.farcaster
-      label: 
+      label:
         name: Farcaster
         positive: Link
         negative: Not available
@@ -67,14 +67,14 @@
       points: 1
     - field: links.whitepaper
       label:
-        name: Whitepaper 
+        name: Whitepaper
         positive: Link
         negative: Not available
       condition:
         exists: true
       points: 10
     - field: funding
-      label: 
+      label:
         name: Funding
         positive: Investment
         negative: Not available
@@ -86,7 +86,7 @@
   name: Technology
   references:
     - field: project_status.mainnet
-      label: 
+      label:
         name: Mainnet
         positive: Yes
         negative: No
@@ -94,7 +94,7 @@
         exists: true
       points: 10
     - field: blockchain_features.opensource
-      label: 
+      label:
         name: Open Source
         positive: Yes
         negative: No
@@ -118,7 +118,7 @@
         equals: false
       points: 10
     - field: audits
-      label: 
+      label:
         name: Audits
         positive: Audit
         negative: None
@@ -130,7 +130,7 @@
   name: Privacy
   references:
     - field: privacy_policy.link
-      label: 
+      label:
         name: Privacy Policy
         positive: Link
         negative: Not available
@@ -138,7 +138,7 @@
         exists: true
       points: 10
     - field: tracebility.kyc
-      label: 
+      label:
         name: KYC
         positive: No
         negative: Yes
@@ -146,7 +146,7 @@
         equals: false
       points: 10
     - field: compliance
-      label: 
+      label:
         name: Compliance
         positive: ...
         negative: No
@@ -154,7 +154,7 @@
         exists: true
       points: 5
     - field: default_privacy
-      label: 
+      label:
         name: Default Privacy
 
         positive: YES
@@ -162,5 +162,3 @@
       condition:
         equals: true
       points: 10
-    
-    
