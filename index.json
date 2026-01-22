@@ -50802,8 +50802,8 @@
   ],
   "ranks": [
     {
-      "id": "openess",
-      "name": "Openess",
+      "id": "openness",
+      "name": "Openness",
       "references": [
         {
           "field": "team.teammembers",
