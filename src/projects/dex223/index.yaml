@@ -1,0 +1,78 @@
+name: DEX223
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: >
+  Dex223 is the first decentralized exchange that supports ERC-20 and ERC-223
+  token standards. ERC-223 token standard solves a design problem of ERC-20
+  which makes error handling impossible and resulted in a loss of $100,000,000
+  worth of tokens on Ethereum chain. ERC-223 standard eliminates "approvals"
+  from a token workflow. Dex223 intends to drive the adoption of ERC-223 by
+  "blending" it with existing tokens through wrappers approach: an integral part
+  of the project is a Token Converter which creates exactly one ERC-223 version
+  for each existing ERC-20 token ensuring an opportunity to transition from one
+  standard to another.
+sunset: false
+assets_used:
+  - eth
+  - usdt
+have_token: true
+tokens:
+  - symbol: D223
+    name: DEX223
+    contract_address: "0x0908078Da2935A14BC7a17770292818C85b580dd"
+    token_link: https://etherscan.io/token/0x0908078Da2935A14BC7a17770292818C85b580dd
+links:
+  web: https://www.dex223.io
+  blog: https://blog.dex223.io/en
+  github: https://github.com/EthereumCommonwealth
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Dex_223
+  discord: https://discord.gg/F542X5e9Se
+  telegram: https://t.me/Dex_223
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.dex223.io/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits:
+  - name: Beosin
+    url: https://www.beosin.com/audits/Dex223_202504300959.pdf
+    time: 2025-04-30T03:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: dex223
