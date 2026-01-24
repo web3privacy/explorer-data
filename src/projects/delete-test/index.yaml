@@ -1,0 +1,10 @@
+name: delete-test
+categories:
+  - social-and-communications
+usecases:
+  - currency
+ecosystem:
+  - cosmos
+description: test
+sunset: false
+id: delete-test
