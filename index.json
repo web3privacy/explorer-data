@@ -49748,6 +49748,92 @@
       "sunset": false
     },
     {
+      "id": "intenta-privacyos",
+      "name": "Intenta PrivacyOS",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "computing"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Solana's first privacy-first terminal operating system. A unified, non-custodial command center where users scan wallets, score privacy exposure (0-100), swap tokens via Jupiter, detect rugs instantly, monitor blockchain live, and store files with ZK-encrypted AES-256 security.",
+      "product_launch_day": "2026-02-25T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "INTENTA",
+          "name": "Intenta PrivacyOS",
+          "contract_address": "ANZNUx92rMErP5Zs4Y7GTZdAToFBTA7zTmVf8FaNBAGS",
+          "token_link": "https://solscan.io/account/ANZNUx92rMErP5Zs4Y7GTZdAToFBTA7zTmVf8FaNBAGS"
+        }
+      ],
+      "links": {
+        "web": "https://intenta-privacyos.xyz",
+        "blog": "",
+        "github": "https://github.com/intentaprivacyos/Intenta-SDK",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/IntentaPrivacy",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/intenta-privacyos/logo.png"
+        }
+      ]
+    },
+    {
       "id": "summa",
       "name": "Summa",
       "categories": [
