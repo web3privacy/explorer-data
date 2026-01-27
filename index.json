@@ -17193,6 +17193,192 @@
       "sunset": false
     },
     {
+      "id": "ambire-wallet",
+      "name": "Ambire Wallet",
+      "categories": [
+        "applications",
+        "infrastructure"
+      ],
+      "usecases": [
+        "wallets",
+        "defi",
+        "infrastructure",
+        "dao",
+        "dapps",
+        "bridge"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain"
+      ],
+      "description": "The Web3 wallet for the wider Ethereum ecosystem. Forked by Kohaku, currently focused on privacy and interoperability.",
+      "nickname": "stefan@ambire.com",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "usdc",
+        "usdt",
+        "dai"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "WALLET",
+          "name": "WALLET",
+          "contract_address": "0x88800092fF476844f74dC2FC427974BBee2794Ae",
+          "token_link": "https://etherscan.io/address/0x88800092ff476844f74dc2fc427974bbee2794ae"
+        }
+      ],
+      "links": {
+        "web": "https://www.ambire.com/",
+        "blog": "https://blog.ambire.com/",
+        "github": "https://github.com/AmbireTech",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "https://ambire.notion.site/ambire-a-new-kind-of-wallet",
+        "block_explorer": "",
+        "governance": "https://snapshot.box/#/s:ambire.eth",
+        "twitter": "https://x.com/ambire",
+        "discord": "https://discord.com/invite/ambire",
+        "telegram": "https://t.me/AmbireOfficial",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://www.ambire.com/Ambire%20ToS%20and%20PP%20(26%20November%202021).pdf",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "seed",
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Hunter Security",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/Ambire-stkWallet-Hunter-Security-Audit-Report-2025-1.pdf",
+          "time": "2025-01-21T22:00:00.000Z"
+        },
+        {
+          "name": "Hunter Security",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/Ambire-Hunter-Security-Assessment-26-01-2024.pdf",
+          "time": "2024-01-25T22:00:00.000Z"
+        },
+        {
+          "name": "Hunter Security",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/Ambire-EIP-7702-Update-Hunter-Security-Audit-Report-0.1.pdf",
+          "time": "2025-02-19T22:00:00.000Z"
+        },
+        {
+          "name": "Curiousapple, Independent Security Researcher",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/CuriousApple-AmbireRewview01.md",
+          "time": "2023-10-23T21:00:00.000Z"
+        },
+        {
+          "name": "Hunter Security",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/ERC6492-Hunter-Security-Audit-Report-V1.0.pdf",
+          "time": "2024-02-17T22:00:00.000Z"
+        },
+        {
+          "name": "Pashov Audit Group ",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/Pashov-Ambire-second-security-review.md",
+          "time": ""
+        },
+        {
+          "name": "Pashov Audit Group",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/Pashov-Ambire-security-review.md",
+          "time": ""
+        },
+        {
+          "name": "Pashov Audit Group",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/Pashov-Ambire-third-security-review.md",
+          "time": ""
+        },
+        {
+          "name": "Shieldify",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/Shieldify-Ambire-Security-Review.pdf",
+          "time": "2024-02-09T22:00:00.000Z"
+        },
+        {
+          "name": "code4rena",
+          "url": "https://code4rena.com/audits/2023-05-ambire-wallet-invitational",
+          "time": "2023-05-22T21:00:00.000Z"
+        },
+        {
+          "name": "code4rena",
+          "url": "https://code4rena.com/reports/2023-05-ambire",
+          "time": "2023-04-07T21:00:00.000Z"
+        },
+        {
+          "name": "Facundo Spagnuolo",
+          "url": "https://github.com/AmbireTech/ambire-common/blob/v2/audits/facu_2023-09-28_Ambire_Smart_Contracts_Audit_Report-1.pdf",
+          "time": "2023-09-27T21:00:00.000Z"
+        }
+      ],
+      "third_party_dependency": "",
+      "social_trust": "The Ambire Wallet is governed by the WalletDAO.",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Ivo Georgiev",
+            "link": "https://x.com/Ivshti"
+          },
+          {
+            "name": "Dimo Stoyanov",
+            "link": "https://x.com/_DimoStoyanov"
+          },
+          {
+            "name": "Emil Stoynovski",
+            "link": "https://x.com/0xYakuza"
+          },
+          {
+            "name": "Ivan Manchev",
+            "link": "https://x.com/vanzooeth"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "Ethereum Foundation Grant",
+          "description": "Self-custodial email/password authentication via DKIM",
+          "link": "https://paragraph.com/@erc4337official/empowering-innovation-erc-4337-account-abstraction-grant-round-recipients",
+          "time": "2023-09-05T21:00:00.000Z"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ambire-wallet/logo.png"
+        }
+      ]
+    },
+    {
       "id": "evolution",
       "name": "Evolution",
       "categories": [
