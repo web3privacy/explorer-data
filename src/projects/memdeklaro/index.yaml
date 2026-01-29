@@ -1,0 +1,62 @@
+name: Memdeklaro
+categories:
+  - social-and-communications
+usecases:
+  - did
+ecosystem:
+  - other
+description: "Memdeklaro - Self declaration of identity is an open source self
+  sovereign alternative to government ID, supporting freedom of name, freedom of
+  belief and freedom of association. Launched in 2024. Public domain:
+  https://memdeklaro.github.io"
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://memdeklaro.github.io
+  blog: https://medium.com/@memdeklaro
+  github: https://github.com/memdeklaro
+  forum: ""
+  docs: ""
+  whitepaper: https://memdeklaro.github.io/libro.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: memdeklaro
