@@ -1,0 +1,60 @@
+id: logos
+name: Logos
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - defi
+  - messaging
+  - computing
+  - storage
+description: A privacy-first technology stack for cypherpunks. Logos combines L1 Consensus, Messaging and Storage to build enable a censorship resistant and decentralised application ecosystem.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://logos.co
+  blog: https://press.logos.co/
+  github: https://github.com/logos-co
+  forum: https://forum.logos.co/
+  docs: https://docs.logos.co/
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Logos_network
+  discord: https://discord.gg/359abf9Hda
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: alpha
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: alpha
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  p2p: true
+storage:
+  decentralized: true
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/logos/logo.png
