@@ -9884,6 +9884,80 @@
       ]
     },
     {
+      "id": "logos",
+      "name": "Logos",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "defi",
+        "messaging",
+        "computing",
+        "storage"
+      ],
+      "description": "A privacy-first technology stack for cypherpunks. Logos combines L1 Consensus, Messaging and Storage to build enable a censorship resistant and decentralised application ecosystem.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://logos.co",
+        "blog": "https://press.logos.co/",
+        "github": "https://github.com/logos-co",
+        "forum": "https://forum.logos.co/",
+        "docs": "https://docs.logos.co/",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Logos_network",
+        "discord": "https://discord.gg/359abf9Hda",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "alpha",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "alpha"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/logos/logo.png"
+        }
+      ]
+    },
+    {
       "id": "zama",
       "name": "Zama",
       "categories": [
@@ -39543,51 +39617,6 @@
       ]
     },
     {
-      "id": "codex",
-      "name": "Codex",
-      "categories": [
-        "applications"
-      ],
-      "ecosystem": [
-        "ethereum"
-      ],
-      "description": "Codex is a durable, decentralised data storage protocol, created so the world community can preserve its most important knowledge without risk of censorship.",
-      "team": {
-        "anonymous": false
-      },
-      "links": {
-        "web": "https://codex.storage",
-        "github": "https://github.com/codex-storage",
-        "docs": "https://docs.codex.storage",
-        "forum": "https://forum.vac.dev/",
-        "blog": "https://blog.codex.storage",
-        "twitter": "https://x.com/codex_storage",
-        "discord": "https://discord.com/invite/codex-storage",
-        "farcaster": "https://farcaster/@codexstorage"
-      },
-      "project_status": {
-        "live_status": true,
-        "version": "Codex Devnet",
-        "testnet": false,
-        "mainnet": false
-      },
-      "tracebility": {
-        "kyc": false
-      },
-      "usecases": [
-        "storage"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/codex/logo.png"
-        }
-      ]
-    },
-    {
       "id": "frame",
       "name": "Frame",
       "categories": [
@@ -45671,160 +45700,6 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/cairo/logo.png"
         }
       ]
-    },
-    {
-      "id": "waku",
-      "name": "Waku",
-      "categories": [
-        "infrastructure"
-      ],
-      "ecosystem": [
-        "ethereum"
-      ],
-      "description": "The communication layer for Web3. Decentralized communication that scales",
-      "team": {
-        "anonymous": false,
-        "teammembers": [
-          {
-            "name": "Alvaro R.",
-            "link": "https://github.com/alrevuelta"
-          },
-          {
-            "name": "Arseniy",
-            "link": "https://github.com/adklempner"
-          },
-          {
-            "name": "Danish",
-            "link": "https://github.com/danisharora099"
-          },
-          {
-            "name": "Franck",
-            "role": "Lead",
-            "link": "https://github.com/fryorcraken"
-          },
-          {
-            "name": "Gabriel",
-            "link": "https://github.com/gabrielmer"
-          },
-          {
-            "name": "Hanno",
-            "role": "Research Lead",
-            "link": "https://github.com/jm-clius"
-          },
-          {
-            "name": "Pedro",
-            "role": "Business Development Lead",
-            "link": "https://discord.com/users/388306101327626240"
-          },
-          {
-            "name": "Prem",
-            "link": "https://github.com/chaitanyaprem"
-          },
-          {
-            "name": "Richard",
-            "link": "https://github.com/richard-ramos"
-          },
-          {
-            "name": "Simon-Pierre",
-            "link": "https://github.com/SionoiS"
-          },
-          {
-            "name": "Sasha",
-            "link": "https://github.com/weboko"
-          },
-          {
-            "name": "Sergei",
-            "link": "https://github.com/s-tikhomirov"
-          },
-          {
-            "name": "Tanya",
-            "link": "https://github.com/stubbsta"
-          },
-          {
-            "name": "Václav",
-            "role": "Solutions Engineer",
-            "link": "https://github.com/vpavlin"
-          },
-          {
-            "name": "Zoltan",
-            "link": "https://github.com/NagyZoltanPeter"
-          }
-        ]
-      },
-      "links": {
-        "web": "https://waku.org",
-        "blog": "https://blog.waku.org",
-        "github": "https://github.com/waku-org",
-        "forum": "https://forum.vac.dev/",
-        "docs": "https://docs.waku.org",
-        "whitepaper": "",
-        "block_explorer": "",
-        "governance": "",
-        "twitter": "https://x.com/waku_org",
-        "discord": "https://discord.waku.org",
-        "telegram": "",
-        "lens": "",
-        "farcaster": "https://farcaster/waku"
-      },
-      "project_status": {
-        "live_status": true,
-        "version": "The Waku Network Gen 0",
-        "testnet": true,
-        "mainnet": false
-      },
-      "tracebility": {
-        "kyc": false,
-        "tracked_data": "None",
-        "sign_in_type_requirments": []
-      },
-      "usecases": [
-        "messaging",
-        "infrastructure",
-        "research-and-development",
-        "node"
-      ],
-      "have_token": false,
-      "third_party_dependency": "none",
-      "logos": [
-        {
-          "file": "logo.png",
-          "ext": "png",
-          "url": "https://explorer-data.web3privacy.info/assets/projects/waku/logo.png"
-        }
-      ],
-      "sunset": false,
-      "assets_used": [],
-      "tokens": [],
-      "project_phase": "testnet",
-      "blockchain_features": {
-        "opensource": true,
-        "upgradability": {
-          "enabled": false
-        },
-        "asset_custody_type": "non-custody",
-        "encryption": "P2P, ZK, RLN, Anonymity, Gossip Network",
-        "p2p": true
-      },
-      "storage": {
-        "decentralized": true
-      },
-      "privacy_policy": {
-        "defined": false,
-        "link": "",
-        "data_usage": ""
-      },
-      "compliance": "No",
-      "default_privacy": true,
-      "audits": [],
-      "social_trust": "Institute of Free Technology",
-      "technical_spof": "",
-      "funding": [
-        {
-          "name": "Institute of Free Technology",
-          "link": ""
-        }
-      ],
-      "history": []
     },
     {
       "id": "oxo",
