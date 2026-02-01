@@ -33078,8 +33078,8 @@
         "upgradability": {
           "enabled": false
         },
-        "asset_custody_type": "",
-        "encryption": "",
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge",
         "p2p": true
       },
       "storage": {},
