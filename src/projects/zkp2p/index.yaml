@@ -1,3 +1,4 @@
+id: zkp2p
 name: ZKP2P
 categories:
   - defi
@@ -13,11 +14,11 @@ ecosystem:
   - solana
   - other
   - multichain
-description: >-
-  ZKP2P is a peer-to-peer, non-custodial on/offramp protocol built on privacy-preserving zero knowledge proofs.
-  Using cryptographic proofs of transfer, ZKP2P allows buyers to authenticate that they have transferred the correct value to sellers. 
-  This enables a new buying and selling crypto experience that is fast, cheap and composable with DeFi.
-
+description: ZKP2P is a peer-to-peer, non-custodial on/offramp protocol built on
+  privacy-preserving zero knowledge proofs. Using cryptographic proofs of
+  transfer, ZKP2P allows buyers to authenticate that they have transferred the
+  correct value to sellers.  This enables a new buying and selling crypto
+  experience that is fast, cheap and composable with DeFi.
 sunset: false
 assets_used: []
 have_token: false
@@ -46,8 +47,8 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
-  encryption: ""
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge
   p2p: true
 storage: {}
 privacy_policy:
@@ -67,14 +68,17 @@ technical_spof: ""
 team:
   anonymous: false
   teammembers:
-      - name: Richard
-        link: https://x.com/richardz0x
-      - name: Sachin
-        link: https://x.com/0xSachinK
-      - name: Ben
-        link: https://x.com/unhappyben
-      - name: Davy Jones
-        link: https://x.com/davyjones0x
+    - name: Richard
+      link: https://x.com/richardz0x
+    - name: Sachin
+      link: https://x.com/0xSachinK
+    - name: Ben
+      link: https://x.com/unhappyben
+    - name: Davy Jones
+      link: https://x.com/davyjones0x
 funding: []
 history: []
-id: zkp2p
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zkp2p/logo.png
