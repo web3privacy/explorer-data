@@ -1,3 +1,4 @@
+id: ambire-wallet
 name: Ambire Wallet
 categories:
   - applications
@@ -14,7 +15,6 @@ ecosystem:
   - multichain
 description: The Web3 wallet for the wider Ethereum ecosystem. Forked by Kohaku,
   currently focused on privacy and interoperability.
-nickname: stefan@ambire.com
 sunset: false
 assets_used:
   - eth
@@ -123,4 +123,7 @@ history:
     description: Self-custodial email/password authentication via DKIM
     link: https://paragraph.com/@erc4337official/empowering-innovation-erc-4337-account-abstraction-grant-round-recipients
     time: 2023-09-05T21:00:00.000Z
-id: ambire-wallet
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ambire-wallet/logo.png
