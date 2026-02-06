@@ -25364,6 +25364,92 @@
       "sunset": true
     },
     {
+      "id": "velarisx402",
+      "name": "VelarisX402",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Maximize your passive income with AI-driven investment strategies across multiple blockchains. Built on Solana for lightning-fast transactions and minimal fees.",
+      "product_launch_day": "2025-11-29T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "VLX",
+          "name": "VelarisX402",
+          "contract_address": "HEziCN38eFt4BRZqFPKipfTiCtkfw7WFAvSvwniepump",
+          "token_link": "https://solscan.io/token/HEziCN38eFt4BRZqFPKipfTiCtkfw7WFAvSvwniepump"
+        }
+      ],
+      "links": {
+        "web": "https://velarisai.org",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "https://velarisai.org/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/velarisx402",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "x402"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/velarisx402/logo.png"
+        }
+      ]
+    },
+    {
       "id": "silensio",
       "name": "silensio",
       "categories": [
