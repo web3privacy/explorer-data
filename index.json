@@ -44194,6 +44194,102 @@
       ]
     },
     {
+      "id": "anovex",
+      "name": "Anovex",
+      "categories": [
+        "defi",
+        "applications"
+      ],
+      "usecases": [
+        "wallets",
+        "currency",
+        "defi"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Anovex is a privacy-first decentralized exchange (DEX) that enables anonymous token swaps on Solana. Using zero-knowledge cryptography and decentralized relay networks, Anovex breaks the transaction graph between user wallets and on-chain activity.\n\nKey Privacy Features:\n• Stealth wallet system with ANV addresses - no direct link to your main wallet\n• ZK Relay Network for anonymous fund routing\n• No KYC, no registration, no email required\n• Private key never leaves your device\n• Non-custodial architecture\n\nTechnology:\n• Jupiter Aggregator integration for best swap rates\n• Real-time portfolio tracking with encrypted storage\n• Telegram bot for private trading\n• NFC Card Wallet support for instant access\n\nAnovex ensures your trading activity remains completely private - protecting you from surveillance, front-running, and wallet profiling.",
+      "product_launch_day": "2025-12-24T23:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "sol"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "ANV",
+          "name": "ANOVEX",
+          "contract_address": "94WxCtGPFYdyWQ29VmqYbX6y7xbpUteHtX3Mak6Jpump",
+          "token_link": "https://solscan.io/token/94WxCtGPFYdyWQ29VmqYbX6y7xbpUteHtX3Mak6Jpump"
+        }
+      ],
+      "links": {
+        "web": "https://anovex.io/",
+        "blog": "",
+        "github": "https://github.com/Anovexdev/anovex-zk-core",
+        "forum": "",
+        "docs": "https://docs.anovex.io",
+        "whitepaper": "",
+        "block_explorer": "https://anvscan.com/",
+        "governance": "https://docs.anovex.io/token",
+        "twitter": "https://x.com/Anovexofficial",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "AES-256-GCM, Ed25519, SHA-256"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": "None - Anovex does not collect, store, or share any personal user data. All wallet operations are performed client-side with encrypted storage."
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Jean",
+            "link": "https://t.me/jeananv"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anovex/logo.png"
+        }
+      ]
+    },
+    {
       "id": "raspiblitz",
       "name": "RaspiBlitz",
       "categories": [
