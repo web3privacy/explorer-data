@@ -5640,6 +5640,44 @@
       "history": []
     },
     {
+      "id": "avici",
+      "name": "Avici",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "solana"
+      ],
+      "description": "Invest, spend, earn trust, go fully onchain for your banking needs",
+      "product_launch_day": "2025-11-13T23:00:00.000Z",
+      "sunset": false,
+      "links": {
+        "web": "https://bento.me/avici",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/AviciMoney",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/avici/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "rainfall",
       "name": "Rainfall",
       "categories": [
