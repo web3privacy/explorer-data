@@ -17286,7 +17286,6 @@
         "multichain"
       ],
       "description": "The Web3 wallet for the wider Ethereum ecosystem. Forked by Kohaku, currently focused on privacy and interoperability.",
-      "nickname": "stefan@ambire.com",
       "sunset": false,
       "assets_used": [
         "eth",
