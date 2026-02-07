@@ -1,3 +1,4 @@
+id: vector-privacy
 name: Vector Privacy
 categories:
   - applications
@@ -25,8 +26,7 @@ description: >-
 
 
   Open-source technology developed by Formless Labs.
-product_launch_day: 2025-02-02T17:00:00.000Z
-nickname: YuurinBee (@YuurinB)
+product_launch_day: 2025-01-31T17:00:00.000Z
 sunset: false
 assets_used: []
 have_token: false
@@ -38,8 +38,8 @@ links:
   forum: ""
   docs: https://docs.vectorapp.io
   whitepaper: https://gitbook.vectorapp.io
-  block_explorer: ""
-  governance: ""
+  block_explorer: https://docs.vectorapp.io
+  governance: https://docs.vectorapp.io
   twitter: https://x.com/VectorPrivacy
   discord: https://discord.gg/FT65Nh8pzZ
   telegram: ""
@@ -56,15 +56,17 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: OpenMLS, Nostr, WebXDC
+  encryption: OpenMLS, Nostr, Marmot, WebXDC
   p2p: true
 storage:
   decentralized: true
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://vectorapp.io/privacy-policy
   data_usage: Vector collects zero user data.
-compliance: ""
+compliance: GDPR, CCPA, LGPD — Zero data collection architecture. No personal
+  data processed on central servers. E2E encrypted, no metadata retention, no
+  analytics/telemetry. Privacy by design.
 tracebility:
   kyc: false
   tracked_data: Zero Metadata
@@ -120,4 +122,7 @@ history:
       so more users could utilize Vector now on mobile.
     link: https://github.com/VectorPrivacy/Vector/releases/tag/v0.2.1
     time: 2025-11-04T17:00:00.000Z
-id: vector-privacy
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/vector-privacy/logo.png
