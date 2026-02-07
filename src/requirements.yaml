@@ -4,3 +4,6 @@
   name: Email
 - id: seed
   name: Seed
+- id: privatekey
+  name: Private Key
+  
