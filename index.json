@@ -51142,6 +51142,10 @@
     {
       "id": "other",
       "name": "Other"
+    },
+    {
+      "id": "none",
+      "name": "None"
     }
   ],
   "features": [
@@ -51271,6 +51275,10 @@
     {
       "id": "seed",
       "name": "Seed"
+    },
+    {
+      "id": "privatekey",
+      "name": "Private Key"
     }
   ],
   "ranks": [
