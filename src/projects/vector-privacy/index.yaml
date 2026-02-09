@@ -26,9 +26,10 @@ description: >-
 
 
   Open-source technology developed by Formless Labs.
-product_launch_day: 2025-01-31T17:00:00.000Z
+product_launch_day: 2025-02-05T17:00:00.000Z
 sunset: false
-assets_used: []
+assets_used:
+  - none
 have_token: false
 tokens: []
 links:
@@ -70,7 +71,8 @@ compliance: GDPR, CCPA, LGPD — Zero data collection architecture. No personal
 tracebility:
   kyc: false
   tracked_data: Zero Metadata
-  sign_in_type_requirments: []
+  sign_in_type_requirments:
+    - privatekey
 default_privacy: true
 audits: []
 third_party_dependency: Vector does not depend on any third-parties, but
