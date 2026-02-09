@@ -4441,9 +4441,11 @@
         "other"
       ],
       "description": "Vector Privacy is an open-source ecosystem that is focused on ensuring the human right to privacy through encrypted communication tools. Vector Messenger is a decentralized communication platform built on the Nostr Protocol, offering no-compromise encryption with zero metadata leakage and plausible deniability for all content, including texts, media, voice notes, and files, adhering to the NIP-17 standard. It natively integrates BIP-39, allowing every Vector account to function as a crypto wallet and vice versa, streamlining tasks like address sharing and payments through compatibility with native wallets like MPW. Vector leverages local, private, device-powered AI to provide practical features such as voice message transcription, language translation, and meme gif search via a decentralized relay-based index. Its resilience is ensured by community-run Nostr relays, eliminating downtime, and its fully open-source codebase—from infrastructure to protocol specs—avoids proprietary lock-in, making it unkillable and transparent.\n\nOpen-source technology developed by Formless Labs.",
-      "product_launch_day": "2025-01-31T17:00:00.000Z",
+      "product_launch_day": "2025-02-05T17:00:00.000Z",
       "sunset": false,
-      "assets_used": [],
+      "assets_used": [
+        "none"
+      ],
       "have_token": false,
       "tokens": [],
       "links": {
@@ -4489,7 +4491,9 @@
       "tracebility": {
         "kyc": false,
         "tracked_data": "Zero Metadata",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "privatekey"
+        ]
       },
       "default_privacy": true,
       "audits": [],
