@@ -1,0 +1,71 @@
+name: ORIUM
+categories:
+  - infrastructure
+usecases:
+  - currency
+  - wallets
+ecosystem:
+  - other
+description: >-
+  ORIUM is a privacy-first Layer 1 blockchain designed as digital cash. In a
+  world where payments are monitored by default, ORIUM makes transactions
+  private by design, ensuring that identities, balances, and transaction
+  relationships are not exposed on public ledgers. Privacy is enforced through
+  cryptography and zero-knowledge proofs, not through trust, policy, or
+  intermediaries.
+
+  ORIUM separates spending, reading, and proving into independent capabilities,
+  giving users full control over disclosure. It operates as a neutral protocol,
+  not an organization, restoring the core properties of money: fungibility,
+  neutrality, and sovereignty. It can be used as an everyday payment method,
+  with features like pay link and cash link, only on ORIUM.
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens:
+  - symbol: ORM
+    name: ORIUM
+    contract_address: ""
+    token_link: ""
+links:
+  web: orium-chain.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: orium-chain.com
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/orium_chain?s=21
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ZK
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: nothing
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+id: orium
