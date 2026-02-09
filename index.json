@@ -4441,8 +4441,7 @@
         "other"
       ],
       "description": "Vector Privacy is an open-source ecosystem that is focused on ensuring the human right to privacy through encrypted communication tools. Vector Messenger is a decentralized communication platform built on the Nostr Protocol, offering no-compromise encryption with zero metadata leakage and plausible deniability for all content, including texts, media, voice notes, and files, adhering to the NIP-17 standard. It natively integrates BIP-39, allowing every Vector account to function as a crypto wallet and vice versa, streamlining tasks like address sharing and payments through compatibility with native wallets like MPW. Vector leverages local, private, device-powered AI to provide practical features such as voice message transcription, language translation, and meme gif search via a decentralized relay-based index. Its resilience is ensured by community-run Nostr relays, eliminating downtime, and its fully open-source codebase—from infrastructure to protocol specs—avoids proprietary lock-in, making it unkillable and transparent.\n\nOpen-source technology developed by Formless Labs.",
-      "product_launch_day": "2025-02-02T17:00:00.000Z",
-      "nickname": "YuurinBee (@YuurinB)",
+      "product_launch_day": "2025-01-31T17:00:00.000Z",
       "sunset": false,
       "assets_used": [],
       "have_token": false,
@@ -4454,8 +4453,8 @@
         "forum": "",
         "docs": "https://docs.vectorapp.io",
         "whitepaper": "https://gitbook.vectorapp.io",
-        "block_explorer": "",
-        "governance": "",
+        "block_explorer": "https://docs.vectorapp.io",
+        "governance": "https://docs.vectorapp.io",
         "twitter": "https://x.com/VectorPrivacy",
         "discord": "https://discord.gg/FT65Nh8pzZ",
         "telegram": "",
@@ -4475,18 +4474,18 @@
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "OpenMLS, Nostr, WebXDC",
+        "encryption": "OpenMLS, Nostr, Marmot, WebXDC",
         "p2p": true
       },
       "storage": {
         "decentralized": true
       },
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://vectorapp.io/privacy-policy",
         "data_usage": "Vector collects zero user data."
       },
-      "compliance": "",
+      "compliance": "GDPR, CCPA, LGPD — Zero data collection architecture. No personal data processed on central servers. E2E encrypted, no metadata retention, no analytics/telemetry. Privacy by design.",
       "tracebility": {
         "kyc": false,
         "tracked_data": "Zero Metadata",
