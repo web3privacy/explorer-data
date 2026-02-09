@@ -17377,7 +17377,7 @@
         "discord": "https://discord.com/invite/ambire",
         "telegram": "https://t.me/AmbireOfficial",
         "lens": "",
-        "farcaster": ""
+        "farcaster": "https://farcaster.xyz/ambirewallet/"
       },
       "project_phase": "mainnet",
       "project_status": {
@@ -17511,7 +17511,8 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/ambire-wallet/logo.png"
         }
-      ]
+      ],
+      "product_launch_day": "2022-01-15T22:00:00.000Z"
     },
     {
       "id": "evolution",
