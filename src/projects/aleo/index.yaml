@@ -69,9 +69,7 @@ ecosystem:
   - other
 sunset: false
 assets_used:
-  - "aleo "
-  - usdcx
-  - usad
+  - other
 tokens:
   - symbol: ALEO
     name: Aleo Credits
