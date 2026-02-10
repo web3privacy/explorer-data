@@ -28462,26 +28462,36 @@
       "categories": [
         "infrastructure"
       ],
-      "description": "An all-in-one Zero-Knowledge platform. On Aleo you can code, deploy, and run your apps in a single place. Build full-stack, private applications with ZK on layer 1.",
+      "description": "​Aleo is redefining the future of finance as the first Layer-1 blockchain engineered for end-to-end encrypted payments at scale. We enable builders to revolutionize financial applications from DEXs to lending to global payments — all while guaranteeing privacy through ZK.  On Aleo, you can build privacy-preserving, decentralized, full-stack applications.",
       "team": {
-        "anonymous": true
+        "anonymous": true,
+        "teammembers": [
+          {
+            "name": "Howard Wu",
+            "link": "https://x.com/1HowardWu"
+          }
+        ]
       },
       "links": {
-        "web": "https://www.aleo.studio",
+        "web": "https://aleo.org/",
+        "blog": "https://aleo.org/blog/",
+        "github": "https://github.com/AleoHQ",
+        "forum": "",
+        "docs": "https://developer.aleo.org/",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.provable.com/",
+        "governance": "https://vote.aleo.org/",
         "twitter": "https://twitter.com/AleoHQ",
         "discord": "https://discord.gg/aleo",
-        "youtube": "https://www.youtube.com/@aleofoundation",
-        "github": "https://github.com/AleoHQ",
-        "block_explorer": "https://explorer.aleo.org/",
-        "docs": "https://developer.aleo.org/getting_started/",
-        "blog": "https://aleo.org/blog/"
+        "telegram": "https://t.me/+Pq4qvRHJ_G5jYmMx",
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
-        "version": "Testnet",
-        "open_source": true,
-        "testnet": true,
-        "mainnet": false,
-        "live_status": true
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
       },
       "technology": {
         "type": "zk-SNARKs",
@@ -28492,10 +28502,12 @@
       },
       "blockchain_features": {
         "opensource": true,
-        "p2p": true,
-        "viewing_key": true,
-        "dissapearing_tx": true,
-        "connected_tx": true
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge (ZK)",
+        "p2p": true
       },
       "client_diversability": [
         {
@@ -28507,11 +28519,19 @@
       "storage": {
         "decentralized": true
       },
-      "third_party_dependency": "none",
+      "third_party_dependency": "N/A",
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "defi",
+        "currency",
+        "bridge",
+        "storage",
+        "dapps",
+        "vpn",
+        "computing",
+        "node"
       ],
-      "have_token": false,
+      "have_token": true,
       "logos": [
         {
           "file": "logo.png",
@@ -28522,7 +28542,85 @@
       "ecosystem": [
         "other"
       ],
-      "sunset": false
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "tokens": [
+        {
+          "symbol": "ALEO",
+          "name": "Aleo Credits",
+          "contract_address": "credits.aleo",
+          "token_link": "https://explorer.provable.com/program/credits.aleo"
+        }
+      ],
+      "history": [
+        {
+          "title": "Mainnet Launch",
+          "description": "Launch of Aleo's Mainnet",
+          "link": "https://explorer.provable.com/block/0",
+          "time": "2024-09-04T04:00:00.000Z"
+        }
+      ],
+      "project_phase": "mainnet",
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://aleo.org/privacy/",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "audits": [
+        {
+          "name": "NCC Group - snarkOS Audit",
+          "url": "https://www.nccgroup.com/research-blog/public-report-aleo-snarkos-implementation-and-consensus-mechanism-review/",
+          "time": "2024-02-08T05:00:00.000Z"
+        },
+        {
+          "name": "NCC Group - snarkVM Audit",
+          "url": "https://www.nccgroup.com/research-blog/public-report-aleo-snarkvm-implementation-review/",
+          "time": "2023-12-13T05:00:00.000Z"
+        },
+        {
+          "name": "Trail of Bits -  snarkOS, snarkVM, and BullsharkBFT Audit",
+          "url": "https://github.com/trailofbits/publications/blob/master/reviews/2023-10-aleo-securityreview.pdf",
+          "time": "2023-11-28T05:00:00.000Z"
+        },
+        {
+          "name": "zkSecurity - Aleo Consensus Audit",
+          "url": "https://blog.zksecurity.xyz/2023-aleo-consensus.pdf",
+          "time": "2023-10-30T04:00:00.000Z"
+        },
+        {
+          "name": "zkSecurity - Aleo Synthesizer Audit",
+          "url": "https://blog.zksecurity.xyz/2023-aleo-synthesizer.pdf",
+          "time": "2023-10-02T04:00:00.000Z"
+        }
+      ],
+      "social_trust": "Managed by the non-profit Aleo Network Foundation.",
+      "technical_spof": "",
+      "funding": [
+        {
+          "name": "a16z",
+          "link": "https://cryptorank.io/ico/aleo"
+        },
+        {
+          "name": "Samsung",
+          "link": "https://cryptorank.io/ico/aleo"
+        },
+        {
+          "name": "Softbank",
+          "link": "https://cryptorank.io/ico/aleo"
+        },
+        {
+          "name": "Haun Ventures",
+          "link": "https://www.haun.co/portfolio"
+        }
+      ]
     },
     {
       "id": "cake-wallet",
