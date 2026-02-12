@@ -1,0 +1,92 @@
+id: kyc-rip
+name: KYC.RIP
+categories:
+  - finance
+  - tools
+  - privacy
+  - communication
+description: >-
+  The ultimate dark builder's toolkit and privacy infrastructure for the sovereign individual. 
+  
+  Beyond a non-custodial aggregator, 
+  it provides a full suite of cryptographic utilities: 
+  
+  1. Finance: No-KYC Swaps, Ghost Protocol (Anonymizer), and a 'Ghost Market' to buy Prepaid Visa/Gift Cards with Monero.
+  2. Communication: 'PGP+Nostr Terminal' for zero-knowledge encrypted chat and 'Ghost Mail' for lightning-paid burner emails.
+  3. Cryptography: Client-side tools including Shamir's Secret Sharing, Dead Drops (ZK secret sharing), and raw transaction broadcasting.
+  
+  Zero logs. Client-side encryption. Total financial sovereignty.
+ecosystem:
+  - monero
+  - bitcoin
+  - ethereum
+  - multichain
+  - pgp
+  - lightning
+links:
+  web: https://kyc.rip
+  twitter: https://x.com/kyc_rip
+  github: ""
+  docs: ""
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: 1.0.0
+team:
+  anonymous: true
+  teammembers:
+    - name: XBToshi
+      link: https://x.com/xbtoshi
+usecases:
+  - aggregator
+  - exchanges
+  - privacy
+  - communication
+  - spend
+  - identity
+  - utilities
+have_token: false
+third_party_dependency: RocketX, Houdini Swap, Lizex, Trocador, SageSwap
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/kyc-rip/logo.png
+sunset: false
+assets_used:
+  - xmr
+  - btc
+  - eth
+  - usdt
+  - pgp
+  - email
+tokens: []
+project_phase: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: "Client-side (PGP/AES)"
+  p2p: true
+storage:
+  type: local_storage
+  details: "Keys and PGP identities are generated and stored client-side only."
+privacy_policy:
+  defined: true
+  link: https://kyc.rip/privacy
+  data_usage: "No logs, no accounts, no IP tracking. Ephemeral data only."
+compliance: "None"
+tracebility:
+  kyc: false
+  tracked_data: Absolutely nothing.
+  sign_in_type_requirments:
+    - none
+default_privacy: true
+audits: []
+social_trust: "Cypherpunk ethos"
+technical_spof: "Aggregator APIs"
+funding:
+  - name: Self-funded, Bootstrapped
+    link: ""
+history: []
