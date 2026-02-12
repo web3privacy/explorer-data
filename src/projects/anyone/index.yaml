@@ -1,3 +1,4 @@
+id: anyone
 name: Anyone
 categories:
   - infrastructure
@@ -5,8 +6,10 @@ categories:
 usecases:
   - infrastructure
   - hardware
+  - vpn
 ecosystem:
   - other
+  - ethereum
 description: >
   Anyone is building the largest internet-routing DePIN in the world: a modular
   privacy layer for any application to use seamlessly.
@@ -37,11 +40,12 @@ links:
   lens: ""
   farcaster: ""
 project_status:
-  live_status: false
-  mainnet: false
+  live_status: true
+  mainnet: true
   testnet: false
+  version: mainnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
   asset_custody_type: non-custody
@@ -52,12 +56,12 @@ privacy_policy:
   defined: false
   link: ""
   data_usage: ""
-compliance: ""
+compliance: MiCA
 tracebility:
   kyc: false
   tracked_data: ""
   sign_in_type_requirments: []
-default_privacy: false
+default_privacy: true
 audits: []
 third_party_dependency: ""
 social_trust: ""
@@ -73,4 +77,9 @@ team:
       link: https://www.anyone.io/about-us
 funding: []
 history: []
-id: anyone
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/anyone/logo.png
+product_launch_day: 2023-03-06T16:00:00.000Z
+project_phase: mainnet
