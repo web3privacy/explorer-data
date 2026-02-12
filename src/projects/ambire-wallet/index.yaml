@@ -103,7 +103,7 @@ audits:
   - name: Facundo Spagnuolo
     url: https://github.com/AmbireTech/ambire-common/blob/v2/audits/facu_2023-09-28_Ambire_Smart_Contracts_Audit_Report-1.pdf
     time: 2023-09-27T21:00:00.000Z
-third_party_dependency: ""
+third_party_dependency: None
 social_trust: The Ambire Wallet is governed by the WalletDAO.
 technical_spof: ""
 team:
@@ -117,7 +117,13 @@ team:
       link: https://x.com/0xYakuza
     - name: Ivan Manchev
       link: https://x.com/vanzooeth
-funding: []
+    - name: Aljaž Kanalec
+      link: https://x.com/cinesiusss
+    - name: Nadia Ivanova
+      link: https://x.com/nadia_iv
+funding:
+  - name: LAUNCHHub Ventures
+    link: https://blog.ambire.com/we-raised-2-5m-in-funding-for-ambire-wallet/
 history:
   - title: Ethereum Foundation Grant
     description: Self-custodial email/password authentication via DKIM
@@ -127,4 +133,3 @@ logos:
   - file: logo.png
     ext: png
     url: https://explorer-data.web3privacy.info/assets/projects/ambire-wallet/logo.png
-product_launch_day: 2022-01-15T22:00:00.000Z
