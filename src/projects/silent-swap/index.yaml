@@ -1,3 +1,4 @@
+id: silent-swap
 name: Silent Swap
 categories:
   - defi
@@ -8,7 +9,7 @@ ecosystem:
   - ethereum
   - cosmos
 description: The non-custodial privacy cross-chain aggregator powered by Secret Network.
-product_launch_day: 2025-01-08T23:00:00.000Z
+product_launch_day: 2025-01-09T08:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -25,7 +26,7 @@ links:
   blog: ""
   github: ""
   forum: ""
-  docs: ""
+  docs: https://docs.silentswap.com/
   whitepaper: ""
   block_explorer: ""
   governance: ""
@@ -59,14 +60,20 @@ tracebility:
   sign_in_type_requirments:
     - wallet
     - seed
+    - privatekey
 default_privacy: true
 audits: []
-third_party_dependency: ""
-social_trust: ""
+third_party_dependency: Aggegates liquidity and bridge routes across platforms
+  on target networks according to best pricing. No single dependancy.
+social_trust: Platform audited by Halborn, Hacken, and Certik
 technical_spof: ""
 team:
   anonymous: true
   teammembers: []
 funding: []
 history: []
-id: silent-swap
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/silent-swap/logo.jpeg
+nickname: Thelukifer@gmail.com
