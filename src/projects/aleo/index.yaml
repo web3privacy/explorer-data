@@ -12,6 +12,10 @@ team:
   teammembers:
     - name: Howard Wu
       link: https://x.com/1HowardWu
+    - name: Raymond Chu
+      link: ""
+    - name: Collin Chin
+      link: ""
 links:
   web: https://aleo.org/
   blog: https://aleo.org/blog/
@@ -69,7 +73,7 @@ ecosystem:
   - other
 sunset: false
 assets_used:
-  - other
+  - USDC
 tokens:
   - symbol: ALEO
     name: Aleo Credits
@@ -84,12 +88,13 @@ project_phase: mainnet
 privacy_policy:
   defined: true
   link: https://aleo.org/privacy/
-  data_usage: ""
+  data_usage: None
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
-  sign_in_type_requirments: []
+  tracked_data: None
+  sign_in_type_requirments:
+    - privatekey
 audits:
   - name: NCC Group - snarkOS Audit
     url: https://www.nccgroup.com/research-blog/public-report-aleo-snarkos-implementation-and-consensus-mechanism-review/
@@ -107,7 +112,7 @@ audits:
     url: https://blog.zksecurity.xyz/2023-aleo-synthesizer.pdf
     time: 2023-10-02T04:00:00.000Z
 social_trust: Managed by the non-profit Aleo Network Foundation.
-technical_spof: ""
+technical_spof: N/A
 funding:
   - name: a16z
     link: https://cryptorank.io/ico/aleo
@@ -117,3 +122,4 @@ funding:
     link: https://cryptorank.io/ico/aleo
   - name: Haun Ventures
     link: https://www.haun.co/portfolio
+product_launch_day: 2020-01-01T05:00:00.000Z
