@@ -1,3 +1,4 @@
+id: machines-cash
 name: machines cash
 categories:
   - applications
@@ -10,9 +11,9 @@ ecosystem:
   - ethereum
   - bitcoin
   - solana
-description: privacy is not a setting. unlimited virtual cards for private
-  payments - like an email alias for onchain accounts. apple hide my email for
-  crypto. anywhere visa is accepted.
+  - monero
+description: "control your crypto. virtual Visa credit cards with private
+  payments — for humans and agents to spend and build credit. "
 sunset: false
 assets_used: []
 have_token: true
@@ -26,13 +27,13 @@ links:
   blog: ""
   github: ""
   forum: ""
-  docs: https://intersend.notion.site/virtual-cards-2838ce12c1be81b7be6fd4f71312cbe5
-  whitepaper: ""
+  docs: docs.machines.cash
+  whitepaper: machines.cash/docs
   block_explorer: ""
   governance: ""
-  twitter: https://x.com/machines-cash
+  twitter: https://x.com/machines.cash
   discord: ""
-  telegram: ""
+  telegram: "@machinescashofficial"
   lens: ""
   farcaster: https://farcaster.xyz/machines_cash
 project_phase: alpha
@@ -47,23 +48,24 @@ blockchain_features:
     enabled: false
   asset_custody_type: non-custody
   encryption: ""
+  p2p: true
 storage: {}
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://www.machines.cash/machines-privacy-policy
   data_usage: kyc provider
 compliance: ""
 tracebility:
-  kyc: false
+  kyc: true
   tracked_data: ""
   sign_in_type_requirments:
     - wallet
     - email
-default_privacy: false
+default_privacy: true
 audits: []
 third_party_dependency: Rain cards
 social_trust: Multisig 2/3
-technical_spof: ""
+technical_spof: none. funds are in a contract anyone can access.
 team:
   anonymous: false
   teammembers:
@@ -73,6 +75,12 @@ team:
       link: https://x.com/ardaerturk
     - name: hennadii ahanesian
       link: https://x.com/hennadios
+    - name: angelo didonato
+      link: ""
 funding: []
 history: []
-id: machines-cash
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/machines-cash/logo.jpeg
+product_launch_day: 2026-02-06T08:00:00.000Z
