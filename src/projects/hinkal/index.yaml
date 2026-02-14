@@ -3,6 +3,7 @@ name: Hinkal
 categories:
   - defi
   - infrastructure
+  - applications
 usecases:
   - defi
   - wallets
@@ -18,18 +19,16 @@ ecosystem:
   - ethereum
   - multichain
 description: >-
-  Hinkal is building infrastructure for invisible transactions that consists
-  of: 
+  Hinkal is building infrastructure for  that consists of: 
 
-  1) Invisible wallet  — enables any on-chain activity without exposing wallet
+  1) Private wallet  — enables any on-chain activity without exposing wallet
   data and the history of transactions. 
 
 
-  2) dApp - a proxy for any wallet, enabling invisible transactions without
-  changing wallets.
+  2) Hinkal Send - enables confidential payments with existing wallets
 
 
-  3) SDK for private payments
+  3) SDK for private payments on major chains
 
 
   Incubated at Stanford and Binance MVB, Hinkal has raised $6m from Draper
@@ -106,5 +105,7 @@ team:
       link: https://x.com/gegelz01
     - name: Nika Koreli
       link: https://x.com/n_koreli
-funding: []
+funding:
+  - name: Draper Associates, SALT
+    link: https://www.theblock.co/post/291165/anthony-scaramucci-son-zk-protocol-hinkal-funding-valuation
 history: []
