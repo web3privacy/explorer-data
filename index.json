@@ -11306,6 +11306,95 @@
       ]
     },
     {
+      "id": "paradex",
+      "name": "Paradex",
+      "categories": [
+        "defi",
+        "applications"
+      ],
+      "usecases": [
+        "defi",
+        "eth-layer-2",
+        "infrastructure",
+        "dapps",
+        "nft-community"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Zero Fee Perpetuals with Privacy\n\nTrade 250+ markets on a super exchange with zero-fees, better-than-CEX liquidity, and institutional-grade privacy, all built on a blazingly fast blockchain.\nPowered by $DIME.\n",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "other",
+        "btc",
+        "sol",
+        "zcash"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://paradex.trade/",
+        "blog": "https://paradex.trade/blog",
+        "github": "https://github.com/tradeparadex",
+        "forum": "",
+        "docs": "https://docs.paradex.trade/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/paradex",
+        "discord": "https://discord.com/invite/paradex",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://docs.paradex.trade/docs/trading/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Anand Gomes (Fiddybps)",
+            "link": "https://x.com/fiddybps1"
+          }
+        ]
+      },
+      "funding": [],
+      "history": []
+    },
+    {
       "id": "kava",
       "name": "Kava",
       "categories": [
