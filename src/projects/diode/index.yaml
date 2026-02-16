@@ -37,12 +37,7 @@ description: >-
   autonomy for collaboration. 
 sunset: false
 assets_used:
-  - stellaswap
-  - moonbeam
-  - moonbeam
-  - stellaswap
-  - moonbeam
-  - stellaswap
+  - other
 have_token: true
 tokens:
   - symbol: DIODE
