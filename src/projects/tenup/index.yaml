@@ -1,0 +1,81 @@
+name: Tenup
+categories:
+  - applications
+  - infrastructure
+  - social-and-communications
+usecases:
+  - infrastructure
+  - defi
+  - other
+ecosystem:
+  - ethereum
+description: TenUp is a decentralized blockchain ecosystem that focuses on
+  developing innovative Web3 applications to solve real-world problems caused by
+  centralization. The project aims to redefine connectivity and efficiency
+  through its decentralized applications (DApps), offering a broad suite of
+  tools and utilities designed to create value within the cryptocurrency space.
+product_launch_day: 2019-01-03T19:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+have_token: true
+tokens:
+  - symbol: Tenup
+    name: TUP
+    contract_address: "0x7714f320adca62b149df2579361afec729c5fe6a"
+    token_link: https://etherscan.io/token/0x7714f320adca62b149df2579361afec729c5fe6a
+links:
+  web: https://tenup.io/
+  blog: ""
+  github: https://github.com/tenup-coin
+  forum: ""
+  docs: ""
+  whitepaper: https://tenup.io/Tenup-whitepaper.pdf
+  block_explorer: https://etherscan.io/token/0x7714f320adca62b149df2579361afec729c5fe6a
+  governance: ""
+  twitter: https://x.com/TenupNation
+  discord: https://discord.com/invite/dD65CcC
+  telegram: https://t.me/tenupnation
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits:
+  - name: Certik
+    url: https://skynet.certik.com/projects/tenupsmart?utm_source=CMC&utm_campaign=AuditByCertiKLink
+    time: 2021-09-27T19:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Waqar Zaka (Founder)
+      link: https://www.linkedin.com/in/waqar-zaka/
+    - name: Ibtisam Ahmed (CEO)
+      link: https://www.linkedin.com/in/blockchain-enthusiast/
+funding: []
+history: []
+id: tenup
