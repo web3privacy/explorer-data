@@ -1,0 +1,68 @@
+name: GhostTap
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - solana
+  - ethereum
+description: Transform your SOL & ETH into virtual cards that work everywhere.
+  No identity required. No traces left. Manage everything through OpenClaw AI on
+  WhatsApp, Telegram, or Discord.
+product_launch_day: 2026-03-16T17:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: true
+tokens:
+  - symbol: GTAP
+    name: GhostTap
+    contract_address: EUjH1fsvJebEZp7eym2p3eqZdSRhGuv8VsGPCjRTp9v8
+    token_link: https://solscan.io/account/EUjH1fsvJebEZp7eym2p3eqZdSRhGuv8VsGPCjRTp9v8
+links:
+  web: https://ghosttap.io
+  blog: ""
+  github: https://github.com/GhostTapIO
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/GhostTapIO
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: ghosttap
