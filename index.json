@@ -26265,6 +26265,98 @@
       ]
     },
     {
+      "id": "kyc.rip",
+      "name": "KYC.RIP",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "infrastructure",
+        "bridge",
+        "messaging",
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "monero",
+        "ethereum",
+        "solana",
+        "multichain"
+      ],
+      "description": "The ultimate dark builder's toolkit and privacy infrastructure for the sovereign individual. \n  \n  Beyond a non-custodial aggregator, \n  it provides a full suite of cryptographic utilities: \n  \n  1. Finance: No-KYC Swaps, Ghost Protocol (Anonymizer), and a 'Ghost Market' to buy Prepaid Visa/Gift Cards with Monero.\n  2. Communication: 'PGP+Nostr Terminal' for zero-knowledge encrypted chat and 'Ghost Mail' for lightning-paid burner emails.\n  3. Cryptography: Client-side tools including Shamir's Secret Sharing, Dead Drops (ZK secret sharing), and raw transaction broadcasting.\n  \n  Zero logs. Client-side encryption. Total financial sovereignty.",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "eth",
+        "usdt",
+        "xmr",
+        "zcash",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://kyc.rip",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/kyc_rip",
+        "discord": "",
+        "telegram": "https://t.me/kyc_rip_bot",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Client-side (PGP/AES), ZK"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://kyc.rip/privacy",
+        "data_usage": "Absolutely nothing."
+      },
+      "compliance": "None",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "No logs, no accounts, no IP tracking. Ephemeral data only.",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "Cloudfalre and underlying providers like: RocketX, Houdini Swap, Trocador",
+      "social_trust": "Cypherpunk ethos",
+      "technical_spof": "Cloudflare, Aggregator APIs",
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/kyc.rip/logo.png"
+        }
+      ]
+    },
+    {
       "id": "buccaneer-v3",
       "name": "Buccaneer V3",
       "categories": [
