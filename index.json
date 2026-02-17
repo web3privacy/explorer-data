@@ -15115,7 +15115,8 @@
       "name": "Hinkal",
       "categories": [
         "defi",
-        "infrastructure"
+        "infrastructure",
+        "applications"
       ],
       "usecases": [
         "defi",
@@ -15130,13 +15131,18 @@
           "file": "logo.png",
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/hinkal/logo.png"
+        },
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/hinkal/logo.jpeg"
         }
       ],
       "ecosystem": [
         "ethereum",
         "multichain"
       ],
-      "description": "Hinkal is building infrastructure for invisible transactions that consists of: \n1) Invisible wallet  — enables any on-chain activity without exposing wallet data and the history of transactions. \n\n2) dApp - a proxy for any wallet, enabling invisible transactions without changing wallets.\n\n3) SDK for private payments\n\nIncubated at Stanford and Binance MVB, Hinkal has raised $6m from Draper Associates, Stanford, SALT, Re7, and SNZ. In 2024, it became the largest privacy infrastructure, achieving $250M in transaction volume.",
+      "description": "Hinkal is building infrastructure for  that consists of: \n1) Private wallet  — enables any on-chain activity without exposing wallet data and the history of transactions. \n\n2) Hinkal Send - enables confidential payments with existing wallets\n\n3) SDK for private payments on major chains\n\nIncubated at Stanford and Binance MVB, Hinkal has raised $6m from Draper Associates, Stanford, SALT, Re7, and SNZ. In 2024, it became the largest privacy infrastructure, achieving $250M in transaction volume.",
       "sunset": false,
       "assets_used": [
         "eth",
@@ -15233,7 +15239,12 @@
           }
         ]
       },
-      "funding": [],
+      "funding": [
+        {
+          "name": "Draper Associates, SALT",
+          "link": "https://www.theblock.co/post/291165/anthony-scaramucci-son-zk-protocol-hinkal-funding-valuation"
+        }
+      ],
       "history": []
     },
     {
