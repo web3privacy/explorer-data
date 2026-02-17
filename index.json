@@ -15018,6 +15018,99 @@
       ]
     },
     {
+      "id": "diode",
+      "name": "Diode",
+      "categories": [
+        "social-and-communications",
+        "applications"
+      ],
+      "usecases": [
+        "vpn",
+        "messaging",
+        "storage",
+        "data-management",
+        "node"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Core Technology\nDiode uses decentralized, peer-to-peer networking technology combined with self-custody identity, access control, and a built-in secure networking layer similar to a VPN. Communication and collaboration run directly between users or via nodes on the Diode Network, which provide private, encrypted routing and always-on connectivity without centralized servers or third-party intermediaries.\n\nSpecial Features:\nSpecial features include phone-number-free accounts, end-to-end encrypted messaging, decentralized file sharing, private networking (VPN-like tunnels), and always-on access via user-controlled nodes and canisters. All access, identity, and data remain under user control.\n\nWhy Use Diode: \nUsers should choose Diode if they need private, resilient collaboration that doesn’t rely on centralized platforms. It’s designed for teams, communities, organizations, and people that value security, sovereignty, and long-term autonomy for collaboration. ",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "DIODE",
+          "name": "",
+          "contract_address": "0x434116a99619f2B465A137199C38c1Aab0353913",
+          "token_link": "https://www.moonscan.io/token/0x434116a99619f2b465a137199c38c1aab0353913"
+        }
+      ],
+      "links": {
+        "web": "Diode.io",
+        "blog": "Diode.io/blog",
+        "github": "https://github.com/diodechain",
+        "forum": "https://forum.diode.io/",
+        "docs": "docs.diode.io",
+        "whitepaper": "https://docsend.com/view/xqxr3vuf7sbpjzpi",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/diode_chain",
+        "discord": "https://discord.com/invite/qdGCAKJdHs",
+        "telegram": "https://t.me/diode_chain",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": " Zero Trust Networking (ZTN), end-to-end encryption (E2EE), and blockchain-anchored access controls.",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://diode.io/privacy-policy/",
+        "data_usage": "None"
+      },
+      "compliance": "CLI ensures GDPR, HIPAA compliance via secure IT/OT access.",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "No third party dependency.",
+      "social_trust": "https://diode.foundation/docs/dao.html",
+      "technical_spof": "No single point of failure, the only failure would be if a user's device gets physically stolen. Data remains secure but inaccessible.",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/diode/logo.png"
+        }
+      ]
+    },
+    {
       "id": "hinkal",
       "name": "Hinkal",
       "categories": [
