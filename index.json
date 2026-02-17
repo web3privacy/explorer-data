@@ -47413,6 +47413,14 @@
           {
             "name": "Howard Wu",
             "link": "https://x.com/1HowardWu"
+          },
+          {
+            "name": "Raymond Chu",
+            "link": ""
+          },
+          {
+            "name": "Collin Chin",
+            "link": ""
           }
         ]
       },
@@ -47488,7 +47496,7 @@
       ],
       "sunset": false,
       "assets_used": [
-        "other"
+        "usdc"
       ],
       "tokens": [
         {
@@ -47510,13 +47518,15 @@
       "privacy_policy": {
         "defined": true,
         "link": "https://aleo.org/privacy/",
-        "data_usage": ""
+        "data_usage": "None"
       },
       "compliance": "",
       "tracebility": {
         "kyc": false,
-        "tracked_data": "",
-        "sign_in_type_requirments": []
+        "tracked_data": "None",
+        "sign_in_type_requirments": [
+          "privatekey"
+        ]
       },
       "audits": [
         {
@@ -47546,7 +47556,7 @@
         }
       ],
       "social_trust": "Managed by the non-profit Aleo Network Foundation.",
-      "technical_spof": "",
+      "technical_spof": "N/A",
       "funding": [
         {
           "name": "a16z",
@@ -47564,7 +47574,8 @@
           "name": "Haun Ventures",
           "link": "https://www.haun.co/portfolio"
         }
-      ]
+      ],
+      "product_launch_day": "2020-01-01T05:00:00.000Z"
     },
     {
       "id": "secure-rpc",
