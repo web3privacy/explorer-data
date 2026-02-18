@@ -1,0 +1,84 @@
+name: Goblin Cards
+categories:
+  - infrastructure
+usecases:
+  - currency
+  - other
+ecosystem:
+  - ethereum
+  - solana
+  - bitcoin
+  - monero
+  - other
+description: >-
+  THE ONLYNON-KYC PHYSICAL CARD
+
+
+  Get a Physical Mastercard with no KYC. Deposit BTC, ETH, SOL, XMR, or USDT,
+  spend in USD, EUR, MXN and more worldwide. Essential for ATM cash withdrawals.
+
+
+  GOBLIN CARD was born from a simple observation: traditional banking systems
+  are increasingly restrictive, privacy-invasive, and disconnected from the
+  evolving crypto economy.
+
+
+  Founded by a team of crypto enthusiasts and privacy advocates, we set out to
+  create the only Non-KYC physical crypto debit card on the market - not just
+  virtual cards like our competitors.
+
+
+  Since our launch, we've helped thousands of users regain financial freedom and
+  privacy while enjoying the convenience of a physical card that works
+  seamlessly for ATM withdrawals and everyday spending.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.goblincards.com/
+  blog: ""
+  github: ""
+  forum: https://smp15.simplex.im/a#_FERaDSXekZhfMrT5RLEw4Sqz9xyVVZjeBatS-NFcZI
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Goblin_cards
+  discord: ""
+  telegram: https://t.me/banklessinlatam
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: goblin-cards
