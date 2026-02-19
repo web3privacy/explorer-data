@@ -47,14 +47,15 @@ blockchain_features:
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: ""
+  encryption: Single-use Deposit Addresses; Single-use Withdrawal Addresses;
+    Private Relays; Isolated Spending Accounts; Unlimited Virtual Cards
   p2p: true
 storage: {}
 privacy_policy:
   defined: true
   link: https://www.machines.cash/machines-privacy-policy
   data_usage: kyc provider
-compliance: ""
+compliance: PCI DSS 4.0.1; SOC 2
 tracebility:
   kyc: true
   tracked_data: ""
@@ -65,7 +66,7 @@ default_privacy: true
 audits: []
 third_party_dependency: Rain cards
 social_trust: Multisig 2/3
-technical_spof: none. funds are in a contract anyone can access.
+technical_spof: none. funds are controlled by user wallet.
 team:
   anonymous: false
   teammembers:
@@ -80,7 +81,10 @@ team:
 funding: []
 history: []
 logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/machines-cash/logo.png
   - file: logo.jpeg
     ext: jpeg
     url: https://explorer-data.web3privacy.info/assets/projects/machines-cash/logo.jpeg
-product_launch_day: 2026-02-06T08:00:00.000Z
+product_launch_day: 2026-02-05T08:00:00.000Z
