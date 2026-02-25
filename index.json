@@ -34609,6 +34609,124 @@
       "history": []
     },
     {
+      "id": "liberdus",
+      "name": "Liberdus",
+      "categories": [
+        "social-and-communications"
+      ],
+      "usecases": [
+        "messaging",
+        "infrastructure",
+        "wallets",
+        "dao",
+        "currency",
+        "bridge",
+        "dapps",
+        "node"
+      ],
+      "ecosystem": [
+        "other",
+        "multichain",
+        "ethereum"
+      ],
+      "description": "Liberdus is a decentralized messaging network implemented as a layer-one blockchain, designed to provide secure, censorship-resistant digital communication without reliance on centralized servers or trusted intermediaries. Rather than treating messages as off-chain data managed by application providers, Liberdus models messages as cryptographically secured transactions that are validated and recorded by a decentralized network of nodes.\n\nThis approach allows message delivery, access control, and spam resistance to be enforced through protocol rules and consensus rather than platform moderation. The network combines cryptographic security, economic mechanisms, and decentralized governance to create a communication system where privacy, availability, and rule enforcement are determined by transparent protocol logic rather than centralized infrastructure operators. ",
+      "product_launch_day": "2025-02-05T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "LIB",
+          "name": "Liberdus Token",
+          "contract_address": "0x693ed886545970F0a3ADf8C59af5cCdb6dDF0a76",
+          "token_link": "https://polygonscan.com/token/0x693ed886545970f0a3adf8c59af5ccdb6ddf0a76?a=0x693ed886545970F0a3ADf8C59af5cCdb6dDF0a76"
+        }
+      ],
+      "links": {
+        "web": "https://liberdus.com/",
+        "blog": "https://liberdus.substack.com/",
+        "github": "https://github.com/Liberdus",
+        "forum": "https://liberdus.com/discord",
+        "docs": "https://liberdus.com/docs/intro/",
+        "whitepaper": "https://liberdus.com/Liberdus-Litepaper.pdf",
+        "block_explorer": "https://exp-test.liberdus.com/",
+        "governance": "",
+        "twitter": "https://x.com/liberdus",
+        "discord": "https://liberdus.com/discord",
+        "telegram": "https://t.me/LiberdusOfficial#",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Symmetric encryption (AES and ChaCha20-Poly1305) for message security, combined with both classical elliptic-curve cryptography (secp256k1) and post-quantum cryptography (Kyber and Dilithium)",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "Decentralized",
+        "data_usage": "None"
+      },
+      "compliance": "Decentralized",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None",
+        "sign_in_type_requirments": [
+          "privatekey"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Bug bounty",
+          "url": "",
+          "time": ""
+        }
+      ],
+      "third_party_dependency": "Shardus and  crypto libraries",
+      "social_trust": "Multisig LDAO (Liberdus DAO)",
+      "technical_spof": "None",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "All contributors on Github Organization",
+            "link": "https://github.com/Liberdus"
+          }
+        ]
+      },
+      "funding": [
+        {
+          "name": "No Investors",
+          "link": ""
+        }
+      ],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/liberdus/logo.png"
+        }
+      ]
+    },
+    {
       "id": "privacy-&-scaling-explorations",
       "name": "Privacy & Scaling Explorations",
       "categories": [
