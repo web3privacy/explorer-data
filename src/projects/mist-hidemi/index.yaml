@@ -1,0 +1,86 @@
+name: MIST Hidemi
+categories:
+  - applications
+usecases:
+  - wallets
+  - mixing-service
+ecosystem:
+  - ethereum
+  - multichain
+description: >-
+  MIST Hidemi is a private on-chain payment app for sending and receiving USDC
+  privately across multiple blockchains — Ethereum, Base, Arbitrum, Optimism,
+  Polygon, and StarkNet — without leaving a transaction history.
+
+
+  Users generate a private payment link, share it with anyone who needs to send
+  them USDC, receive funds from any supported chain, and withdraw privately.
+  Deposits and withdrawals are unlinkable, powered by ZK proofs. No sign-up, no
+  email, no seed phrase required. Authentication uses WebAuthn passkeys
+  (biometrics). Non-custodial: MIST never holds user funds.
+
+
+  Built on zero-knowledge proof architecture and the compliance-first Privacy
+  Pools model endorsed by Vitalik Buterin. Not a mixer. Zero tracking cookies or
+  behavioral analytics. Open protocol with auditable smart contracts; users only
+  pay standard gas fees.
+product_launch_day: 2026-02-02T18:30:00.000Z
+sunset: false
+assets_used:
+  - usdc
+have_token: false
+tokens:
+  - symbol: ""
+    name: ""
+    contract_address: ""
+    token_link: ""
+links:
+  web: https://mist.cash/try-hidemi
+  blog: ""
+  github: https://github.com/mistcash
+  forum: ""
+  docs: https://docs.mist.cash
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/_mistcash
+  discord: ""
+  telegram: https://t.me/+IopcODWeG7wxZDhl
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Groth16, ZK, Poseidon (sponge), Gnark, Cairo, Garaga
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://hidemi.mist.cash/privacy
+  data_usage: None — zero tracking cookies and zero behavioral analytics collected
+compliance: Transaction gating (KYT) but currently auto approving everything.
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: Starknet, Circle's CCTP, Gnark
+social_trust: No governance at the moment
+technical_spof: Smart contract vulnerability, circuits vulnerability, Starknet
+  compromise, Gnark vulnerability, Poseidon broken, DLP solved.
+team:
+  anonymous: false
+  teammembers:
+    - name: Shramee
+      link: https://x.com/shrameetweets
+funding: []
+history: []
+id: mist-hidemi
