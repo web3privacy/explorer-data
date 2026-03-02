@@ -21030,6 +21030,121 @@
       ]
     },
     {
+      "id": "anomapay",
+      "name": "AnomaPay",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "defi",
+        "wallets",
+        "infrastructure",
+        "dapps"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "multichain"
+      ],
+      "description": "AnomaPay is a private payments application built on Anoma. It makes it easy to pay anyone privately with any existing asset on public blockchains like Ethereum. AnomaPay expands upon the design of Zcash to support private transfers of any asset natively on existing blockchains, instead of needing to use specific privacy coins or privacy chains.  AnomaPay  works with existing wallets and requires no new software. It's non-custodial, and assets are always natively secured by their underlying blockchain.",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "usdt",
+        "usdc"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "XAN",
+          "name": "XAN",
+          "contract_address": "0xcedbea37c8872c4171259cdfd5255cb8923cf8e7",
+          "token_link": "https://etherscan.io/token/0xcedbea37c8872c4171259cdfd5255cb8923cf8e7"
+        }
+      ],
+      "links": {
+        "web": "https://anomapay.app/",
+        "blog": "https://anoma.net/blog",
+        "github": "https://github.com/anoma",
+        "forum": "https://forum.anoma.net/",
+        "docs": "https://docs.anoma.net/anoma-pay-introduction",
+        "whitepaper": "",
+        "block_explorer": "https://explorer.anoma.net/",
+        "governance": "",
+        "twitter": "https://x.com/anomapay",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge",
+        "p2p": true
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://anomapay.app/terms-and-conditions",
+        "data_usage": ""
+      },
+      "compliance": "GDPR, FADP",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "AnomaPay  (Phase 1)",
+          "url": "https://github.com/anoma/anomapay-erc20-forwarder/blob/d1efd8fb3a765114e7235e61a6300ff0f419dd0a/audits/2025-12-19_Informal_Systems_AnomaPay_Phase_I.pdf",
+          "time": "2025-12-19T00:00:00.000Z"
+        }
+      ],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Adrian Brink",
+            "link": "https://x.com/adrianbrink"
+          },
+          {
+            "name": "Christopher Goes",
+            "link": "https://x.com/cwgoes"
+          },
+          {
+            "name": "Awa Sun Yin",
+            "link": "https://x.com/awasunyin"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/anomapay/logo.png"
+        }
+      ]
+    },
+    {
       "id": "iodeos",
       "name": "IodeOS",
       "categories": [
