@@ -52,7 +52,6 @@ logos:
 ecosystem:
   - ethereum
   - other
-product_launch_day: 2014-05-31T22:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -120,4 +119,3 @@ history:
       views on the current state and the future of Web3.'"
     link: https://blog.ethswarm.org/foundation/2024/swarm-summit-2024-upload-the-future/
     time: 2024-06-19T22:00:00.000Z
-nickname: antonio@ethswarm.org
