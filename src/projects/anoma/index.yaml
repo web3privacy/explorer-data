@@ -1,3 +1,4 @@
+id: anoma
 name: Anoma
 categories:
   - infrastructure
@@ -5,20 +6,78 @@ usecases:
   - infrastructure
 ecosystem:
   - multichain
+  - ethereum
 description: Web3’s OS | Deploy one app that just works everywhere.
 sunset: false
 links:
   web: https://anoma.net
-  blog: ""
-  github: ""
-  forum: ""
-  docs: ""
-  whitepaper: ""
-  block_explorer: ""
-  governance: ""
+  blog: anoma.net/blog
+  github: https://github.com/anoma
+  forum: forum.anoma.net
+  docs: https://docs.anoma.net/
+  whitepaper: https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf
+  block_explorer: https://explorer.anoma.net/
+  governance: https://portal.anoma.net/governance
   twitter: https://x.com/anoma
-  discord: ""
+  discord: https://discord.com/invite/anoma
   telegram: ""
   lens: ""
-  farcaster: ""
-id: anoma
+  farcaster: https://farcaster.xyz/anoma
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/anoma/logo.png
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/anoma/logo.jpeg
+product_launch_day: 2025-10-29T00:00:00.000Z
+assets_used:
+  - eth
+have_token: false
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Zero-knowledge
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits:
+  - name: Anoma Q4 2025
+    url: https://github.com/anoma/arm-risc0/blob/main/audits/2025-11-24_Informal_Systems_RISC_Zero_RM_&_EVM_Protocol_Adapter.pdf
+    time: 2025-10-31T00:00:00.000Z
+  - name: Anoma Resource State Machine
+    url: https://github.com/anoma/arm-risc0/blob/main/audits/2025-11-13_Nethermind_RISC_Zero_RM_&_EVM_Protocol_Adapter.pdf
+    time: 2025-11-13T00:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Adrian Brink
+      link: https://x.com/adrianbrink
+    - name: Christopher Goes
+      link: x.com/cwgoes
+    - name: Awa Sun Yin
+      link: x.com/awasunyin
+funding: []
+history: []
