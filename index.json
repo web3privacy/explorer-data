@@ -37057,29 +37057,29 @@
       ],
       "usecases": [
         "defi",
-        "ai",
-        "mpc",
-        "fhe"
+        "wallets",
+        "eth-layer-2",
+        "bridge"
       ],
       "ecosystem": [
         "cosmos",
         "ethereum",
         "solana"
       ],
-      "description": "Unlocking Credible DeFi and AI Economies with Dynamic MPC.",
+      "description": "Fairblock is a purpose built confidentiality layer for open finance.",
       "sunset": false,
       "links": {
-        "web": "https://fairblock.network",
+        "web": "https://www.fairblock.network/",
         "blog": "https://www.fairblock.network/articles",
         "github": "https://github.com/Fairblock",
         "forum": "",
-        "docs": "docs.fairblock.network",
+        "docs": "https://docs.fairblock.network/docs/welcome/vision",
         "whitepaper": "https://uwspace.uwaterloo.ca/bitstreams/50734237-93f0-4a43-b46b-1e871022487f/download",
         "block_explorer": "",
         "governance": "",
         "twitter": "https://x.com/0xfairblock",
-        "discord": "https://discord.gg/jy6VEWzhd7",
-        "telegram": "@pememoni",
+        "discord": "https://discord.com/invite/fairblock",
+        "telegram": "https://t.me/+HvfLo4NFTvw3NTU0",
         "lens": "",
         "farcaster": ""
       },
@@ -37090,8 +37090,10 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/fairblock-network/logo.jpeg"
         }
       ],
-      "product_launch_day": "2022-12-06T05:00:00.000Z",
-      "assets_used": [],
+      "product_launch_day": "2022-12-01T18:30:00.000Z",
+      "assets_used": [
+        "none"
+      ],
       "have_token": false,
       "tokens": [],
       "project_phase": "testnet",
@@ -37107,7 +37109,8 @@
           "enabled": true
         },
         "asset_custody_type": "non-custody",
-        "encryption": "MPC, Threshold IBE, CKKS (FHE + MPC)"
+        "encryption": "HE, IBE, MPC, Lightweight ZK",
+        "p2p": true
       },
       "storage": {},
       "privacy_policy": {
@@ -37119,11 +37122,9 @@
       "tracebility": {
         "kyc": false,
         "tracked_data": "Nothing",
-        "sign_in_type_requirments": [
-          "wallet"
-        ]
+        "sign_in_type_requirments": []
       },
-      "default_privacy": false,
+      "default_privacy": true,
       "audits": [
         {
           "name": "Zellic",
@@ -37137,7 +37138,7 @@
         }
       ],
       "third_party_dependency": "",
-      "social_trust": "",
+      "social_trust": "Fair Foundation",
       "technical_spof": "",
       "team": {
         "anonymous": false,
@@ -37145,6 +37146,18 @@
           {
             "name": "Peyman Momeni",
             "link": "https://www.linkedin.com/in/peyman-m-b0681b128/"
+          },
+          {
+            "name": "James Bae",
+            "link": "https://x.com/jmsb43"
+          },
+          {
+            "name": "David Feiock",
+            "link": "https://x.com/davidfeiock"
+          },
+          {
+            "name": "Crispz ",
+            "link": "https://x.com/crispzlegion"
           }
         ]
       },
@@ -37207,7 +37220,8 @@
           "link": "https://www.youtube.com/watch?v=payuQR87qb8",
           "time": ""
         }
-      ]
+      ],
+      "nickname": "Telegram @cirspzlegion"
     },
     {
       "id": "monero-nodo",
