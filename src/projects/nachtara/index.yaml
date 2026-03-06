@@ -1,0 +1,65 @@
+name: Nachtara
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: Stealth Address CLI tool optimized for AI agents
+product_launch_day: 2026-04-01T22:00:00.000Z
+nickname: nero_eth
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://nerolation.github.io/nachtara/
+  blog: ""
+  github: https://github.com/nerolation/nachtara
+  forum: ""
+  docs: https://github.com/nerolation/nachtara
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Stealth Addresses
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - privatekey
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Toni Wahrstätter
+      link: https://x.com/nero_eth
+funding: []
+history: []
+id: nachtara
