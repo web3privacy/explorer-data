@@ -1,0 +1,78 @@
+name: ZoroSwap
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - other
+description: Zoro is a concentrated liquidity dark AMM operating on Miden
+  (currently on testnet). Miden is an L2 blockchain that processes transactions
+  on the client side and only shares the confirmations on chain, resulting in
+  privacy by default, great scalability and speed.
+product_launch_day: 2025-09-29T21:00:00.000Z
+nickname: "@sunsakis on Telegram"
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - scrt
+  - usdt
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://zoroswap.com
+  blog: https://paragraph.com/@zoroswap
+  github: github.com/zoroswap
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: x.com/zoroswap
+  discord: ""
+  telegram: https://t.me/+KyKHHuIxxPdmOTky
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ZK
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: doesn't
+compliance: Zoro will be fully compliant along the lines of Miden (practical privacy)
+tracebility:
+  kyc: false
+  tracked_data: wallet
+  sign_in_type_requirments:
+    - wallet
+default_privacy: false
+audits: []
+third_party_dependency: has a proprietary oracle
+social_trust: its builders
+technical_spof: Miden nodes break
+team:
+  anonymous: false
+  teammembers:
+    - name: Mezko
+      link: x.com/przebigniew
+    - name: Mico
+      link: https://x.com/0x0_mico
+    - name: suns
+      link: https://x.com/notsunsakis
+funding:
+  - name: Miden
+    link: ""
+history: []
+id: zoroswap
