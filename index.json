@@ -36022,6 +36022,121 @@
       "sunset": false
     },
     {
+      "id": "unicity",
+      "name": "Unicity",
+      "categories": [
+        "infrastructure",
+        "defi",
+        "applications"
+      ],
+      "usecases": [
+        "infrastructure",
+        "defi",
+        "computing",
+        "ai",
+        "tee"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "INFRASTRUCTURE FOR THE AGENTIC ECONOMY\nAgent security, networking and trading at machine speed. The internet is being rebuilt for AI. Billions of agents need to discover, transact, and settle with each other: at machine speed, without human intervention. Unicity is the infrastructure that makes this possible.",
+      "product_launch_day": "2025-06-30T23:00:00.000Z",
+      "sunset": true,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "unicity.ai",
+        "blog": "",
+        "github": "https://github.com/unicitynetwork",
+        "forum": "https://discord.com/invite/BGuqUtwZp3",
+        "docs": "https://github.com/unicitynetwork",
+        "whitepaper": "https://github.com/unicitynetwork/whitepaper/releases/download/latest/Unicity.pdf",
+        "block_explorer": "unicity.network",
+        "governance": "",
+        "twitter": "https://x.com/unicity_labs",
+        "discord": "https://discord.com/invite/BGuqUtwZp3",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Mike Gault",
+            "link": "https://www.linkedin.com/in/mikegault1/"
+          },
+          {
+            "name": "Vladimir Rogojin",
+            "link": "https://www.linkedin.com/in/vladimir-rogojin-369b7151/"
+          },
+          {
+            "name": "Joshua Bouw",
+            "link": "https://www.linkedin.com/in/joshuajbouw/"
+          },
+          {
+            "name": "Pavel Grigorenko",
+            "link": "https://www.linkedin.com/in/pavelgrigorenko/"
+          }
+        ]
+      },
+      "funding": [
+        {
+          "name": "Blockchange VC",
+          "link": "https://cryptorank.io/ico/unicity"
+        },
+        {
+          "name": "Outlier Ventures",
+          "link": "https://cryptorank.io/ico/unicity"
+        },
+        {
+          "name": "Tawasal",
+          "link": "https://cryptorank.io/ico/unicity"
+        }
+      ],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/unicity/logo.png"
+        }
+      ]
+    },
+    {
       "id": "vup",
       "name": "VUP",
       "categories": [
