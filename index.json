@@ -15218,7 +15218,7 @@
       "ecosystem": [
         "other"
       ],
-      "description": "Core Technology\nDiode uses decentralized, peer-to-peer networking technology combined with self-custody identity, access control, and a built-in secure networking layer similar to a VPN. Communication and collaboration run directly between users or via nodes on the Diode Network, which provide private, encrypted routing and always-on connectivity without centralized servers or third-party intermediaries.\n\nSpecial Features:\nSpecial features include phone-number-free accounts, end-to-end encrypted messaging, decentralized file sharing, private networking (VPN-like tunnels), and always-on access via user-controlled nodes and canisters. All access, identity, and data remain under user control.\n\nWhy Use Diode: \nUsers should choose Diode if they need private, resilient collaboration that doesn’t rely on centralized platforms. It’s designed for teams, communities, organizations, and people that value security, sovereignty, and long-term autonomy for collaboration. ",
+      "description": "Core Technology\nDiode uses decentralized, peer-to-peer networking technology combined with self-custody identity, access control, and a built-in secure networking layer similar to a VPN. Communication and collaboration run directly between users or via nodes on the Diode Network, which provide private, encrypted routing and always-on connectivity without centralized servers or third-party intermediaries.\n\nSpecial Features:\nSpecial features include phone-number-free accounts, end-to-end encrypted messaging, decentralized file sharing, private networking (VPN-like tunnels), and always-on access via user-controlled nodes and canisters. All access, identity, and data remain under user control.\n\nWhy Use Diode: \nUsers choose Diode if they need private, resilient collaboration that doesn’t rely on centralized platforms, finding a more secure alternative to Discord or Slack. It’s designed for teams, communities, organizations, and people that value security, sovereignty, and long-term autonomy for collaboration. ",
       "sunset": false,
       "assets_used": [
         "other"
@@ -15272,14 +15272,14 @@
       "compliance": "CLI ensures GDPR, HIPAA compliance via secure IT/OT access.",
       "tracebility": {
         "kyc": false,
-        "tracked_data": "",
+        "tracked_data": "None",
         "sign_in_type_requirments": []
       },
       "default_privacy": true,
       "audits": [],
       "third_party_dependency": "No third party dependency.",
       "social_trust": "https://diode.foundation/docs/dao.html",
-      "technical_spof": "No single point of failure, the only failure would be if a user's device gets physically stolen. Data remains secure but inaccessible.",
+      "technical_spof": "No single point of failure.",
       "team": {
         "anonymous": false,
         "teammembers": []
