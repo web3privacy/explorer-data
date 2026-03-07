@@ -1,0 +1,67 @@
+name: Stealthify
+categories:
+  - applications
+usecases:
+  - defi
+ecosystem:
+  - solana
+description: A privacy-native access layer integrating with OpenClaw for
+  audited, discoverable relayer agents and easy third-party deployments.
+product_launch_day: 2026-04-06T17:00:00.000Z
+sunset: false
+assets_used: []
+have_token: true
+tokens:
+  - symbol: STLF
+    name: Stealthify
+    contract_address: CPLb9vgauAEWtgASnquwhB7G4bD2kosu1QCboXKppump
+    token_link: https://solscan.io/account/CPLb9vgauAEWtgASnquwhB7G4bD2kosu1QCboXKppump
+links:
+  web: https://stealthify.cloud
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/StealthifyX
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: stealthify
