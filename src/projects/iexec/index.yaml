@@ -94,7 +94,9 @@ audits:
     time: 2025-07-07T22:00:00.000Z
 social_trust: No DAO
 technical_spof: N/A
-funding: []
+funding:
+  - name: iExec RLC ICO
+    link: https://icoanalytics.org/projects/iexec-rlc/
 history:
   - title: ""
     description: ""
