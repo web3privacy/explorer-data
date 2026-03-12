@@ -1,0 +1,72 @@
+name: RakuFlow
+categories:
+  - infrastructure
+usecases:
+  - ai
+  - defi
+  - dapps
+ecosystem:
+  - ethereum
+description: >
+  Rakuflow builds the privacy and risk control layer for the $300B stablecoin
+  market, starting on @Starknet @Ethereum.
+sunset: false
+assets_used:
+  - usdt
+  - usdc
+  - dai
+have_token: false
+tokens: []
+links:
+  web: https://rakuflow.xyz/
+  blog: ""
+  github: github.com/Rakuflow/Privacy/tree/release/v0.1.0
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/rakuflow
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: mvp
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ZK
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Hannah Nguyen
+      link: https://www.linkedin.com/in/hannah-nguyen-vn/
+    - name: Quynh Nguyen
+      link: https://www.linkedin.com/in/nguyen-quynh-31171131/
+    - name: Trinh Le
+      link: https://www.linkedin.com/in/trinh-le-2308595a/
+funding: []
+history: []
+id: rakuflow
