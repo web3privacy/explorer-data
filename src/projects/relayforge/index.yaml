@@ -1,0 +1,66 @@
+name: RelayForge
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - solana
+description: RelayForge delivers privacy-first dApp access with enterprise-grade
+  auditability by combining anonymous session technology, encrypted session
+  memory, and an OpenClaw-powered relayer ecosystem.
+product_launch_day: 2026-04-16T17:00:00.000Z
+sunset: false
+assets_used: []
+have_token: true
+tokens:
+  - symbol: RLFG
+    name: RelayForge
+    contract_address: CCZ82whciPVkMdUj3Uqn4TX76F6BZ7rEstWHUEKwpump
+    token_link: https://solscan.io/account/CCZ82whciPVkMdUj3Uqn4TX76F6BZ7rEstWHUEKwpump
+links:
+  web: https://relay-forge.io
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://relay-forge.io/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/RelayForge_
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: relayforge
