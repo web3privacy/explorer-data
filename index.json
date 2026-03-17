@@ -11196,6 +11196,103 @@
       ]
     },
     {
+      "id": "lumina-engine",
+      "name": "Lumina Engine",
+      "categories": [
+        "defi",
+        "infrastructure"
+      ],
+      "usecases": [
+        "defi",
+        "wallets",
+        "infrastructure",
+        "bridge"
+      ],
+      "ecosystem": [
+        "multichain"
+      ],
+      "description": "Lumina Engine is a privacy-preserving transaction and trading infrastructure built on zero-knowledge systems. It enables users and applications to submit encrypted intents and generate client-side proofs, allowing transactions to be verified without exposing sensitive information such as trade parameters or strategy. Lumina focuses on enabling confidential execution while maintaining verifiability and compatibility with existing blockchain ecosystems.",
+      "sunset": false,
+      "assets_used": [],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://www.luminaengine.ai/",
+        "blog": "https://medium.com/@luminaengine",
+        "github": "",
+        "forum": "",
+        "docs": "https://www.notion.so/User-Manual-Feature-Guide-2e7b21b2c689808b98fff260c11f26c4?source=copy_link",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/LuminaEngine",
+        "discord": "",
+        "telegram": "https://t.me/+KfL5fiNHc_QwMTU0",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge (ZK)"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Devon Krantz",
+            "link": "https://x.com/Devkrz"
+          },
+          {
+            "name": "Faizaan Bray",
+            "link": "https://x.com/mrboneseth"
+          },
+          {
+            "name": "Bevan Christians",
+            "link": "https://x.com/gaelicgod"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/lumina-engine/logo.png"
+        }
+      ]
+    },
+    {
       "id": "xmtp-x-lens",
       "name": "XMTP x Lens",
       "categories": [
