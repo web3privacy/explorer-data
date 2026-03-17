@@ -52796,7 +52796,10 @@
       ],
       "usecases": [
         "did",
-        "operating-systems"
+        "operating-systems",
+        "storage",
+        "kyc-solution",
+        "data-management"
       ],
       "ecosystem": [
         "other"
@@ -52804,8 +52807,15 @@
       "description": "Open-source, composable and chain-agnostic decentralized storage and economy network to enable true decentralized identity across the internet. idOS (identity operating system) is a decentralized storage and access management network specifically designed to store user data.",
       "sunset": false,
       "assets_used": [],
-      "have_token": false,
-      "tokens": [],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "",
+          "name": "IDOS",
+          "contract_address": "0x68731d6f14b827bbcffbebb62b19daa18de1d79c",
+          "token_link": "https://arbiscan.io/token/0x68731d6f14b827bbcffbebb62b19daa18de1d79c"
+        }
+      ],
       "links": {
         "web": "https://www.idos.network/",
         "blog": "https://www.idos.network/blog",
