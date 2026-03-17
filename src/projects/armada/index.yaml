@@ -1,0 +1,104 @@
+name: Armada
+categories:
+  - infrastructure
+usecases:
+  - defi
+  - wallets
+  - currency
+  - infrastructure
+ecosystem:
+  - ethereum
+description: "Armada is asset privacy infrastructure on Ethereum. Borderless,
+  its reference app, will let you send private cross-chain USDC,  with yield on
+  idle  balances. The underlying pool is integration-first: any platform can
+  route flows through it without becoming a privacy engineer. Privacy that
+  compounds with usage. Crowdfunded, no private sale, and accountable to
+  tokenholders from day one."
+nickname: https://x.com/Ether_Gavin
+sunset: false
+assets_used:
+  - usdc
+  - eth
+have_token: true
+tokens:
+  - symbol: ARM
+    name: ARM
+    contract_address: tbd
+    token_link: tbd
+links:
+  web: https://armada.wtf
+  blog: ""
+  github: https://github.com/ship-armada
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ship_armada
+  discord: https://discord.gg/c3AgwXujwr
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: "ZK: Groth16, BN254"
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: Railgun ZK circuits (BN254/Groth16), Circle CCTP
+  (cross-chain USDC transfers), Aave v4 (idle yield on shielded balances)
+social_trust: ARM (tokenholder) DAO, with an accountable steward. The steward
+  can pass treasury proposals by default, but is subject to veto, halt, and
+  replacement by ARM holders at any time. Shielded pool core contracts are
+  immutable, meaning no admin can alter them. Pause authority exists, but cannot
+  block unshields, only new deposits.
+technical_spof: A critical vulnerability in Railgun's inherited ZK circuits
+  could lead to funds being stolen, and no admin action could retroactively
+  protect shielded funds. Circle can blacklist USDC contract addresses, which
+  could freeze funds held in the shielded pool.
+team:
+  anonymous: false
+  teammembers:
+    - name: Gavin Birch
+      link: https://twitter.com/Ether_Gavin
+    - name: tba!
+      link: ""
+funding:
+  - name: Crowdfund tba
+    link: https://armada.wtf
+history:
+  - title: ETHPrague
+    description: https://cfp.ducttape.events/ethprague-2026/talk/review/EZWNP3N8SADF99ZMNANJZYHJTMBQHGJH
+    link: https://ethprague.com
+    time: 2026-05-08T04:00:00.000Z
+  - title: ETHCluj
+    description: Ethereum Culture & Roadmap, Usability & Adoption, Privacy - talk
+      about how compliance is re-intermediation
+    link: https://www.ethcluj.org
+    time: 2026-05-13T04:00:00.000Z
+  - title: Web3Privacy now Prague meetup
+    description: "Shaping and Defending the Techno-Political Evolution: Open Source,
+      Public Goods, and Grassroots Movements"
+    link: https://luma.com/98pzi0jh?tk=YvWdIu
+    time: 2026-05-07T04:00:00.000Z
+id: armada
