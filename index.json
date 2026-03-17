@@ -46768,19 +46768,21 @@
         "defi"
       ],
       "usecases": [
-        "infrastructure"
+        "infrastructure",
+        "defi",
+        "tee"
       ],
       "ecosystem": [
         "other"
       ],
-      "description": "Silhouette is a trading platform built on Hyperliquid that protects personal trade information, enabling the most sophisticated trading strategies to move freely onchain. As the Shield exchange on Hyperliquid, Silhouette shields users' order data from outsiders. End-to-end encryption via Silhouette's platform enables users to confidently trade without fear of exposing their activity.\n\nKey features:\n\n- Full Strategy Protection: Trade freely without signaling or revealing intents\n - Hyperliquid Integration: Trade using your existing Hyperliquid assets\n - No UX Compromise: Deep liquidity, swift settlement\n",
+      "description": "Silhouette provides Shielded trading on Hyperliquid that protects personal trade information, enabling the most sophisticated trading strategies to move freely onchain. Silhouette shields users' order data from outsiders. End-to-end encryption via Silhouette's platform enables users to confidently trade without fear of exposing their activity.\n\nKey features:\n\n- Full Strategy Protection: Trade freely without signaling or revealing intents\n- Hyperliquid Integration: Trade using your existing Hyperliquid assets\n- No UX Compromise: Deep liquidity, swift settlement\n",
       "sunset": false,
       "assets_used": [],
       "have_token": false,
       "tokens": [],
       "links": {
         "web": "https://silhouette.exchange/",
-        "blog": "https://mirror.xyz/0x5D2c2bD98F10616771D7B5124AD2090Ba72Aa43c",
+        "blog": "https://docs.silhouette.exchange/blog",
         "github": "https://github.com/silhouette-exchange",
         "forum": "",
         "docs": "https://docs.silhouette.exchange/",
@@ -46794,16 +46796,17 @@
         "farcaster": ""
       },
       "project_status": {
-        "live_status": false,
-        "mainnet": false,
-        "testnet": false
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
       },
       "blockchain_features": {
         "opensource": false,
         "upgradability": {
           "enabled": false
         },
-        "asset_custody_type": "",
+        "asset_custody_type": "non-custody",
         "encryption": "TEE"
       },
       "storage": {},
@@ -46816,7 +46819,9 @@
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
       },
       "default_privacy": false,
       "audits": [],
@@ -46825,7 +46830,40 @@
       "technical_spof": "",
       "team": {
         "anonymous": false,
-        "teammembers": []
+        "teammembers": [
+          {
+            "name": "Chandler de Kock",
+            "link": "https://x.com/chandlerdkk"
+          },
+          {
+            "name": "Stenton Mayne",
+            "link": "https://x.com/stentonian"
+          },
+          {
+            "name": "Aidan De Nobrega",
+            "link": "https://x.com/aidandeno"
+          },
+          {
+            "name": "Ciaran MacDevette",
+            "link": "https://x.com/cmacdev"
+          },
+          {
+            "name": "Wayne van Niekerk",
+            "link": "https://x.com/WaynesWorldza"
+          },
+          {
+            "name": "Santiago Lisa",
+            "link": "https://x.com/san_lisa"
+          },
+          {
+            "name": "Sydney Spracklen",
+            "link": "https://x.com/sydneyjade__"
+          },
+          {
+            "name": "Rory Simmonds",
+            "link": "https://x.com/RizzleSimms"
+          }
+        ]
       },
       "funding": [
         {
@@ -46860,7 +46898,9 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/silhouette-exchange/logo.png"
         }
-      ]
+      ],
+      "product_launch_day": "2026-03-03T22:00:00.000Z",
+      "project_phase": "mainnet"
     },
     {
       "id": "zerobase",
