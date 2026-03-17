@@ -1,0 +1,68 @@
+name: Molt.OS
+categories:
+  - infrastructure
+usecases:
+  - defi
+  - wallets
+ecosystem:
+  - ethereum
+  - solana
+description: Programmable bank accounts with sub-second settlement on Solana.
+  Give every AI agent its own wallet, spending policies, and cryptographic audit
+  trail.
+product_launch_day: 2026-04-17T17:00:00.000Z
+sunset: false
+assets_used: []
+have_token: true
+tokens:
+  - symbol: MOS
+    name: Molt.OS
+    contract_address: EsvfgAtCPJ7iadeRBhvXxb1cvcZLFsZY5idLbc3Gpump
+    token_link: https://solscan.io/token/EsvfgAtCPJ7iadeRBhvXxb1cvcZLFsZY5idLbc3Gpump
+links:
+  web: https://molt-os.dev
+  blog: ""
+  github: ""
+  forum: ""
+  docs: https://molt-os.dev/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Molt_OS
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: molt.os
