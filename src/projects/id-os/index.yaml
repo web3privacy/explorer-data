@@ -1,3 +1,4 @@
+id: id-os
 name: id OS
 categories:
   - applications
@@ -5,6 +6,9 @@ categories:
 usecases:
   - did
   - operating-systems
+  - storage
+  - kyc-solution
+  - data-management
 ecosystem:
   - other
 description: Open-source, composable and chain-agnostic decentralized storage
@@ -13,8 +17,12 @@ description: Open-source, composable and chain-agnostic decentralized storage
   management network specifically designed to store user data.
 sunset: false
 assets_used: []
-have_token: false
-tokens: []
+have_token: true
+tokens:
+  - symbol: ""
+    name: IDOS
+    contract_address: "0x68731d6f14b827bbcffbebb62b19daa18de1d79c"
+    token_link: https://arbiscan.io/token/0x68731d6f14b827bbcffbebb62b19daa18de1d79c
 links:
   web: https://www.idos.network/
   blog: https://www.idos.network/blog
@@ -76,4 +84,7 @@ funding:
   - name: Tezos Foundation
     link: https://www.idos.network/blog/idos-consortium-partners-and-4-5m-funding-round
 history: []
-id: id-os
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/id-os/logo.jpeg
