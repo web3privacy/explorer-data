@@ -10118,6 +10118,88 @@
       ]
     },
     {
+      "id": "stealth-bitcoin",
+      "name": "Stealth Bitcoin",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets",
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "bitcoin"
+      ],
+      "description": "See what your Bitcoin wallet reveals about you. A local wallet analyzer that maps addresses, traverses UTXOs, and generates an actionable report with a problem dictionary, suggestions, and visualization.",
+      "sunset": false,
+      "assets_used": [
+        "btc"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://stealth.shakespeare.wtf/",
+        "blog": "",
+        "github": "",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "testnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true,
+        "version": "testnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": false,
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Breno Brito",
+            "link": "https://x.com/brenorb"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/stealth-bitcoin/logo.png"
+        }
+      ]
+    },
+    {
       "id": "arcium",
       "name": "Arcium",
       "categories": [
