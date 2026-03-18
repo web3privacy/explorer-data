@@ -1,52 +1,58 @@
 id: bchat
-name: Bchat
+name: BChat
 categories:
   - social-and-communications
-description: A decentralized, privacy messenger built over the Beldex blockchain.
+description: BChat is a private messaging App designed to keep your chats,
+  identity, and data fully private. With end-to-end encryption and secure
+  decentralized routing, your messages remain completely untraceable.
 team:
   anonymous: false
   teammembers:
     - name: Afanddy
-      link: 'https://x.com/AHushni'
+      link: https://x.com/AHushni
     - name: Codeman Crypto
-      link: 'https://github.com/codeman-crypto'
+      link: https://github.com/codeman-crypto
     - name: Sanada Yukimura
-      link: 'https://github.com/sanada08/'
+      link: https://github.com/sanada08/
     - name: ios-wingman
-      link: 'https://github.com/ios-wingman' 
+      link: https://github.com/ios-wingman
     - name: Snowman
-      link: 'https://github.com/snowman-45'
+      link: https://github.com/snowman-45
     - name: Steve Joseph
-      link: 'https://github.com/SteveJosephh21'
+      link: https://github.com/SteveJosephh21
     - name: Hales
-      link: 'https://github.com/Hales-Sparrow'
+      link: https://github.com/Hales-Sparrow
     - name: Alex
-      link: 'https://github.com/Alexsanchez06'
+      link: https://github.com/Alexsanchez06
     - name: Munaver
-      link: 'https://github.com/munavver'
+      link: https://github.com/munavver
 links:
   web: https://bchat.beldex.io
-  github: https://github.com/Beldex-Coin
-  docs: https://docs.beldex.io/
-  litepaper: https://bchat.beldex.io/img/litepaper.pdf
   blog: https://beldex.io/blog/what-is-bchat/
+  github: https://github.com/Beldex-Coin
+  forum: ""
+  docs: https://docs.beldex.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
   twitter: https://twitter.com/Bchat_official
+  discord: https://discord.com/invite/Hj4MAmA5gs
   telegram: https://t.me/official_beldex
-  facebook: 'https://www.facebook.com/beldexofficial'
-  discord: 'https://discord.com/invite/Hj4MAmA5gs'
+  lens: ""
+  farcaster: ""
 project_status:
   live_status: true
-  version: mainnet
-  testnet: false
   mainnet: true
+  testnet: false
+  version: mainnet
 licences: GPLv3 License
 usecases:
-  - messaging 
+  - messaging
   - wallets
 assets_used:
   - other
-have_token: true
-product_launch_day: 2022-01-31T23:00:00.000Z
+have_token: false
+product_launch_day: 2022-02-01T18:30:00.000Z
 tokens:
   - symbol: BDX
     name: Beldex
@@ -66,17 +72,24 @@ blockchain_features:
     enabled: false
   asset_custody_type: ""
   encryption: ""
-storage: {}
+storage:
+  decentralized: true
 privacy_policy:
   defined: true
-  link: 'https://bchat.beldex.io/privacy-policy'
+  link: https://bchat.beldex.io/privacy-policy
   data_usage: Bchat does not collect, resell, or store any personal user
-    information. Users can authenticate, chat, and transact without ever revealing private
-    data such as names, emails, or identifiers.
+    information. Users can authenticate, chat, and transact without ever
+    revealing private data such as names, emails, or identifiers.
 default_privacy: true
 tracebility:
   kyc: false
   tracked_data: none
   sign_in_type_requirments:
     - seed
-
+project_phase: mainnet
+compliance: ""
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
