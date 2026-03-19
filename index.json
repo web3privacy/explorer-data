@@ -6697,11 +6697,11 @@
     },
     {
       "id": "bchat",
-      "name": "Bchat",
+      "name": "BChat",
       "categories": [
         "social-and-communications"
       ],
-      "description": "A decentralized, privacy messenger built over the Beldex blockchain.",
+      "description": "BChat is a private messaging App designed to keep your chats, identity, and data fully private. With end-to-end encryption and secure decentralized routing, your messages remain completely untraceable.",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -6745,20 +6745,24 @@
       },
       "links": {
         "web": "https://bchat.beldex.io",
-        "github": "https://github.com/Beldex-Coin",
-        "docs": "https://docs.beldex.io/",
-        "litepaper": "https://bchat.beldex.io/img/litepaper.pdf",
         "blog": "https://beldex.io/blog/what-is-bchat/",
+        "github": "https://github.com/Beldex-Coin",
+        "forum": "",
+        "docs": "https://docs.beldex.io/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
         "twitter": "https://twitter.com/Bchat_official",
+        "discord": "https://discord.com/invite/Hj4MAmA5gs",
         "telegram": "https://t.me/official_beldex",
-        "facebook": "https://www.facebook.com/beldexofficial",
-        "discord": "https://discord.com/invite/Hj4MAmA5gs"
+        "lens": "",
+        "farcaster": ""
       },
       "project_status": {
         "live_status": true,
-        "version": "mainnet",
+        "mainnet": true,
         "testnet": false,
-        "mainnet": true
+        "version": "mainnet"
       },
       "licences": "GPLv3 License",
       "usecases": [
@@ -6768,8 +6772,8 @@
       "assets_used": [
         "other"
       ],
-      "have_token": true,
-      "product_launch_day": "2022-01-31T23:00:00.000Z",
+      "have_token": false,
+      "product_launch_day": "2022-02-01T18:30:00.000Z",
       "tokens": [
         {
           "symbol": "BDX",
@@ -6798,7 +6802,9 @@
         "asset_custody_type": "",
         "encryption": ""
       },
-      "storage": {},
+      "storage": {
+        "decentralized": true
+      },
       "privacy_policy": {
         "defined": true,
         "link": "https://bchat.beldex.io/privacy-policy",
@@ -6811,7 +6817,14 @@
         "sign_in_type_requirments": [
           "seed"
         ]
-      }
+      },
+      "project_phase": "mainnet",
+      "compliance": "",
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": "",
+      "funding": [],
+      "history": []
     },
     {
       "id": "orochi-network",
