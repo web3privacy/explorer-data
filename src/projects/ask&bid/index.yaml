@@ -1,0 +1,94 @@
+name: Ask&Bid
+categories:
+  - infrastructure
+  - defi
+usecases:
+  - defi
+  - currency
+  - other
+ecosystem:
+  - ethereum
+  - bitcoin
+  - solana
+  - monero
+  - multichain
+description: >-
+  1️⃣ Ask&Bid is privacy-focused and offers DeFi services such as a
+  cryptocurrency exchange aggregator to help you find TIER-1 liquidity sources
+  through a unified interface with best rates.
+
+
+  🛠️ Key features:
+
+
+  🔸100% anonymous : No API tracking your activity, no cloudflare, you can log
+  if you want to retrieve your swaps
+
+  🔸Non-custodial : we never hold your funds
+
+  🔸Best Fixed or Floating rates provided by our partner exchanges
+
+  🔸Better on Tor : use our Tor Mirror for full privacy
+
+  🔸Structured Solutions : tailored to your needs
+
+
+  2️⃣ Ask&Bid is also proud to be the 🥇 to introduce a 100% free Multi-Chain
+  Wallet AML compliance tool.
+
+  Supported chains : BTC | ETH | XRP | SOL | TRX | BSC | ADA | MATIC
+product_launch_day: 2026-02-06T00:00:00.000Z
+sunset: false
+assets_used:
+  - zcash
+  - sol
+  - usdt
+  - btc
+  - eth
+have_token: false
+tokens: []
+links:
+  web: https://askand.bid
+  blog: ""
+  github: https://github.com/askand-bid/Research
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: ask&bid
