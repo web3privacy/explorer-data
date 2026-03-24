@@ -12323,6 +12323,110 @@
       ]
     },
     {
+      "id": "w3pk",
+      "name": "w3pk",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "social-and-communications"
+      ],
+      "usecases": [
+        "wallets",
+        "dapps",
+        "dao",
+        "data-management",
+        "donate-charity",
+        "research-and-development",
+        "ai"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "w3pk is a passwordless Web3 authentication SDK with encrypted wallets and privacy features. You can use it in any JS/TS-based web app (Next.js, Vue, Angular, Svelte, …).",
+      "product_launch_day": "2025-12-25T23:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://w3pk.w3hc.org",
+        "blog": "",
+        "github": "https://github.com/w3hc/w3pk",
+        "forum": "",
+        "docs": "https://w3pk.w3hc.org/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "beta",
+      "project_status": {
+        "live_status": true,
+        "mainnet": false,
+        "testnet": false,
+        "version": "beta"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "ZK, Stealth addresses (ERC-5564), AES-GCM-256",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Julien Béranger",
+            "link": "https://julienberanger.com/contact"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "v0.9.3 Release",
+          "description": "w3pk v0.9.3 (public beta) has been released",
+          "link": "https://github.com/w3hc/w3pk/releases/tag/v0.9.3",
+          "time": "2026-02-25T23:00:00.000Z"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/w3pk/logo.png"
+        }
+      ]
+    },
+    {
       "id": "nata-network",
       "name": "Nata network",
       "categories": [
