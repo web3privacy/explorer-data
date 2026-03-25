@@ -18266,6 +18266,75 @@
       ]
     },
     {
+      "id": "ask&bid",
+      "name": "Ask&Bid",
+      "categories": [
+        "infrastructure",
+        "defi"
+      ],
+      "usecases": [
+        "defi",
+        "currency"
+      ],
+      "ecosystem": [
+        "multichain",
+        "ethereum",
+        "bitcoin",
+        "solana",
+        "monero",
+        "other"
+      ],
+      "description": "1️⃣ Ask&Bid is privacy-focused and offers DeFi services such as a cryptocurrency exchange aggregator to help you find TIER-1 liquidity sources through a unified interface with best rates.\n\n🛠️ Key features:\n\n🔸100% anonymous : No API tracking your activity, no cloudflare, you can log if you want to retrieve your swaps\n🔸Non-custodial : we never hold your funds\n🔸Best Fixed or Floating rates provided by our partner exchanges\n🔸Better on Tor : use our Tor Mirror for full privacy\n🔸Structured Solutions : tailored to your needs\n\n2️⃣ Ask&Bid is also proud to be the 🥇 to introduce a 100% free Multi-Chain Wallet AML compliance tool.\nSupported chains : BTC | ETH | XRP | SOL | TRX | BSC | ADA | MATIC",
+      "product_launch_day": "2026-02-06T00:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "eth",
+        "usdt",
+        "zcash",
+        "xmr",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://askand.bid",
+        "blog": "",
+        "github": "https://github.com/askand-bid/Research",
+        "forum": "",
+        "docs": "",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_status": {
+        "live_status": false,
+        "mainnet": false,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "",
+        "encryption": ""
+      },
+      "storage": {},
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/ask&bid/logo.png"
+        }
+      ]
+    },
+    {
       "id": "trocador-app",
       "name": "Trocador App",
       "categories": [
