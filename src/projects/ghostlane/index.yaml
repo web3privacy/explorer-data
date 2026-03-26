@@ -1,0 +1,69 @@
+name: GhostLane
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+  - solana
+description: Advanced cryptocurrency mixing, encrypted messaging, privacy
+  bridge, and secure VPN - all powered by zero-knowledge technology. Send and
+  receive on-chain with complete privacy while protecting your digital assets
+  with military-grade encryption.
+product_launch_day: 2026-04-25T17:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: true
+tokens:
+  - symbol: GLN
+    name: GhostLane
+    contract_address: BYKKztG8ckqAHDi3UvXP5JegiAnqXqwAyWXbatzApump
+    token_link: https://solscan.io/token/BYKKztG8ckqAHDi3UvXP5JegiAnqXqwAyWXbatzApump
+links:
+  web: https://ghostlane.net
+  blog: ""
+  github: https://ghostlane.net/docs
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/GhostLane_
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: ghostlane
