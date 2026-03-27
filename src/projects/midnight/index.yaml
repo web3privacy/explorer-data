@@ -1,3 +1,4 @@
+id: midnight
 name: Midnight
 categories:
   - infrastructure
@@ -17,8 +18,12 @@ description: >-
   approach to handling data.
 sunset: false
 assets_used: []
-have_token: false
-tokens: []
+have_token: true
+tokens:
+  - symbol: NIGHT
+    name: Midnight
+    contract_address: 0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854
+    token_link: https://cardanoscan.io/token/0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854
 links:
   web: https://midnight.network/
   blog: https://midnight.network/blog
@@ -72,4 +77,7 @@ history:
       applications
     link: https://lu.ma/d8swo3j1
     time: 2025-06-04T00:00:00.000Z
-id: midnight
+logos:
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/midnight/logo.svg
