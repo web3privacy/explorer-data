@@ -1,0 +1,86 @@
+id: nullmask
+name: NullMask
+categories:
+  - defi
+description: Shielded transfers for any multichain wallet. Users shield
+  transfers directly from any existing multichain wallet — no new app, no new
+  address, no new workflow. NullMask sits between the wallet and the blockchain
+  as a Virtual Private EVM Network, requiring zero SDK adoption from wallets.
+ecosystem:
+  - multichain
+usecases:
+  - mixing-service
+have_token: false
+tokens: []
+sunset: false
+
+links:
+  web: https://nullmask.io
+  github: ""
+  docs: ""
+  whitepaper: ""
+  blog: ""
+  twitter: https://x.com/NullMaskio
+  block_explorer: ""
+  governance: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+
+team:
+  anonymous: false
+  teammembers:
+    - name: Tomas Krnak
+      role: CTO
+      link: https://www.linkedin.com/in/~tomaskrnak
+    - name: Benjamin Burge
+      role: Co-founder
+      link: https://x.com/Benny54541
+    - name: Robert Brighton
+      role: Co-founder
+      link: https://www.linkedin.com/in/robert-brighton/
+
+technology:
+  type: zk
+  features:
+    - shielded transfers
+    - compliant privacy pool
+
+blockchain_features:
+  opensource: false
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: false
+  encryption: ""
+  p2p: false
+
+default_privacy: true
+
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - EVM wallet
+
+compliance: AML deposit screening
+
+storage: {}
+
+audits: []
+funding: []
+history: []
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: ""
+project_phase: ""
+social_trust: ""
+technical_spof: ""
+third_party_dependency: ""
