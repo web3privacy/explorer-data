@@ -1,0 +1,99 @@
+name: CipherPay
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - currency
+  - ai
+  - dapps
+ecosystem:
+  - other
+description: >-
+  CipherPay is a non-custodial Zcash payment processor built on shielded
+  (Orchard) transactions. Every invoice gets a unique diversified address
+  derived from the merchant's incoming viewing key, funds go directly to their
+  wallet, CipherPay never holds or sees spending keys.
+
+
+  Features:
+
+
+  - Shopify and WooCommerce plugins
+
+  - Standalone checkout page and REST API
+
+  - Event ticketing with capacity management
+
+  - x402 and MPP protocol support for API paywalls
+
+  - MCP integration for AI agent payments
+
+  - Real-time payment detection via trial decryption
+
+  - 1% per transaction, no monthly fees
+
+
+  Built in Rust. Fully open source. Shielded by default,both sides of every
+  transaction stay private.
+nickname: Kenbak
+sunset: false
+assets_used:
+  - zcash
+have_token: false
+tokens: []
+links:
+  web: https://cipherpay.app/
+  blog: ""
+  github: https://github.com/atmospherelabs-dev
+  forum: ""
+  docs: https://cipherpay.app/docs
+  whitepaper: ""
+  block_explorer: https://cipherscan.app
+  governance: ""
+  twitter: https://twitter.com/cipherpay_app
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge (ZK)
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.cipherpay.app/en/privacy
+  data_usage: Account management only.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Email (for account recovery only)
+  sign_in_type_requirments:
+    - wallet
+    - email
+default_privacy: true
+audits: []
+third_party_dependency: |-
+  Zcash network
+  Zcash lightwalletd 
+social_trust: Single developer (Kenbak / Atmosphere Labs).
+technical_spof: Compromise of the server encryption key could expose merchant
+  viewing keys (incoming only, not spending keys). Server downtime stops invoice
+  creation but doesn't affect funds already in merchant wallets.
+team:
+  anonymous: false
+  teammembers:
+    - name: Kenbak
+      link: https://x.com/k6nb4k
+funding: []
+history: []
+id: cipherpay
