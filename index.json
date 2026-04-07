@@ -32402,6 +32402,123 @@
       "history": []
     },
     {
+      "id": "nullmask",
+      "name": "NullMask",
+      "categories": [
+        "defi"
+      ],
+      "description": "Shielded transfers for any multichain wallet. Users shield transfers directly from any existing multichain wallet — no new app, no new address, no new workflow. NullMask sits between the wallet and the blockchain as a Virtual Private EVM Network, requiring zero SDK adoption from wallets.",
+      "product_launch_day": "2026-02-02",
+      "ecosystem": [
+        "multichain"
+      ],
+      "usecases": [
+        "mixing-service"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "usdc",
+        "usdt"
+      ],
+      "links": {
+        "web": "https://nullmask.io",
+        "github": "https://github.com/nullmask-io/nullmask",
+        "docs": "https://docs.nullmask.io",
+        "whitepaper": "https://hackmd.io/@krnak/Sy5zROAFWx",
+        "blog": "https://hackmd.io/@krnak/Sy5zROAFWx",
+        "twitter": "https://x.com/NullMaskio",
+        "block_explorer": "",
+        "governance": "",
+        "discord": "",
+        "telegram": "https://t.me/NullMask_io",
+        "lens": "",
+        "farcaster": ""
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Tomas Krnak",
+            "role": "CTO",
+            "link": "https://www.linkedin.com/in/~tomaskrnak"
+          },
+          {
+            "name": "Benjamin Burge",
+            "role": "Co-founder",
+            "link": "https://x.com/Benny54541"
+          },
+          {
+            "name": "Robert Brighton",
+            "role": "Co-founder",
+            "link": "https://www.linkedin.com/in/robert-brighton/"
+          }
+        ]
+      },
+      "technology": {
+        "type": "ZK-Snarks",
+        "features": [
+          "shielded transfers",
+          "compliant privacy pool"
+        ]
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "asset_custody_type": "non-custody",
+        "upgradability": {
+          "enabled": true,
+          "type": "DAO Governance"
+        },
+        "encryption": "Barretenberg UltraHonk, Poseidon2",
+        "p2p": false
+      },
+      "default_privacy": true,
+      "privacy_policy": {
+        "defined": false,
+        "link": "",
+        "data_usage": ""
+      },
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": [
+          "EVM wallet"
+        ]
+      },
+      "compliance": "AML deposit screening",
+      "storage": {},
+      "audits": [],
+      "funding": [],
+      "history": [
+        {
+          "title": "Mainnet launch",
+          "event_type": "launch",
+          "description": "NullMask mainnet launch",
+          "time": "2026-02-02T00:00:00.000Z",
+          "link": "https://nullmask.io"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nullmask/logo.png"
+        }
+      ],
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "v0.7.6"
+      },
+      "project_phase": "mainnet",
+      "social_trust": "DAO governance",
+      "technical_spof": "",
+      "third_party_dependency": "Uniswap V2, Aztec Barretenberg"
+    },
+    {
       "id": "radr",
       "name": "Radr",
       "categories": [
