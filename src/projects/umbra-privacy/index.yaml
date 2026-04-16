@@ -1,0 +1,123 @@
+id: umbra-privacy
+name: Umbra Privacy
+categories:
+  - applications
+  - defi
+usecases:
+  - wallets
+  - defi
+  - mixing-service
+  - other
+ecosystem:
+  - solana
+description: >-
+  Umbra is a privacy protocol designed to bring confidentiality, composability,
+  and compliance-ready infrastructure to the Solana ecosystem. 
+
+  With privacy as a cornerstone of financial freedom and secure innovation,
+  Umbra aims to provide a foundation for applications and users to transact with
+  confidence.
+product_launch_day: 2025-05-03T22:00:00.000Z
+sunset: false
+assets_used:
+  - sol
+have_token: false
+tokens: []
+links:
+  web: https://www.umbraprivacy.com/
+  blog: ""
+  github: https://github.com/umbra-defi/
+  forum: https://discord.gg/UmbraPrivacy
+  docs: https://docs.umbraprivacy.com/docs/introduction
+  whitepaper: ""
+  block_explorer: ""
+  governance: https://metadao.fi/projects/umbra
+  twitter: https://x.com/UmbraPrivacy
+  discord: https://discord.gg/UmbraPrivacy
+  telegram: https://t.me/umbracommunity
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+technology:
+  type: ZK-SNARKs, Multi-Party Computation (MPC), Pseudorandom Functions (PRFs)
+  features:
+    - Private wallet
+    - ZK Defi
+    - Private bridge
+    - Stealth addresses
+    - Confidential transfers
+    - Viewing keys
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Groth16, ECDH, Modern cryptography
+storage:
+  decentralized: false
+funding:
+  - name: metaDAO ICO
+    type: ICO
+    link: https://metadao.fi/projects/umbra/fundraise
+    value: $3,000,000
+    time: "2025"
+team:
+  anonymous: false
+  teammembers:
+    - name: Krutarth Shah
+      role: Co-Founder & CEO
+      link: https://x.com/kru_tweets
+    - name: Calisto Mathias
+      role: Co-Founder & CTO
+      link: https://x.com/typi_cal_
+    - name: Pranay Bagde
+      role: Co-Founder & CPO
+      link: https://x.com/pranay_design
+    - name: Asim Shaikh
+      role: Founding Engineer
+      link: https://x.com/asimshaik_10
+    - name: Piyush Panpaliya
+      role: Founding Engineer
+      link: https://x.com/piyush_json
+    - name: Pata
+      role: Marketing, Community & BD
+      link: https://x.com/0xPata
+history: []
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/umbra-privacy/logo.png
+project_phase: mainnet
+privacy_policy:
+  defined: true
+  link: https://cdn.prod.website-files.com/691b836ec5fafc863304c0a5/69b90c6cdd0e77271282b518_Umbra-Privacy-Policy-AA160226.pdf
+  data_usage: ""
+compliance: Yes. Umbra integrates Range for real-time sanctions screening
+  against OFAC and other watchlists, blocking interactions with flagged
+  addresses. For auditability and regulatory transparency, the protocol supports
+  opt-in viewing keys — allowing users to selectively disclose transaction
+  history to auditors or regulators without granting any spending authority.
+  This design balances on-chain privacy with the ability to demonstrate
+  compliance when required.
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits:
+  - name: Protocol Audits 1 - Halborn
+    url: https://ownership.umbraprivacy.com/
+    time: 2025-12-08T23:00:00.000Z
+third_party_dependency: ""
+social_trust: The project is governed by a DAO using MetaDAO's futarchy-based
+  governance model. Treasury funds are held and controlled through Squads
+  multisig, with spending requiring DAO approval through MetaDAO. No single
+  individual holds unilateral spending authority. Decisions are made through
+  decision markets, where proposals are executed only if the market signals they
+  will positively impact the protocol.
+technical_spof: ""
