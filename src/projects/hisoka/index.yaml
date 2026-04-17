@@ -1,0 +1,89 @@
+name: Hisoka
+categories:
+  - infrastructure
+  - applications
+  - defi
+usecases:
+  - wallets
+  - defi
+  - infrastructure
+  - bridge
+  - messaging
+  - rpc-provider
+  - mixing-management
+  - mixing-service
+  - other
+ecosystem:
+  - multichain
+  - bitcoin
+  - ethereum
+description: Full-stack privacy for Ethereum. We protect writes with
+  Zero-knowledge Proofs, reads with Private Information Retrieval, and the
+  network with novel Mixnet routing. No single point leaks who you are or what
+  you want.
+product_launch_day: 2026-01-04T17:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdc
+  - usdt
+  - zcash
+  - other
+have_token: false
+tokens: []
+links:
+  web: Hisoka.io
+  blog: Hisoka.io/writing
+  github: https://github.com/hisoka-io
+  forum: https://x.com/hisoka_io
+  docs: https://docs.hisoka.io/
+  whitepaper: ""
+  block_explorer: https://demo.nox.hisoka.io/
+  governance: ""
+  twitter: https://x.com/hisoka_io
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero Knowledge, PIR, Mixnets, Sphinx, P2P, SURB, FEC
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://hisoka.io/privacy
+  data_usage: ""
+compliance: https://hisoka.io/terms
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: Built from fully open-source technologies
+social_trust: There is no centralized custody or DAO for NOX mixnet
+technical_spof: "Hisoka is fully open source with no token or single of failure.
+  NOX, our mixnet is globally distributed. View here: https://map.hisoka.io/"
+team:
+  anonymous: false
+  teammembers:
+    - name: Jay Proof
+      link: https://x.com/0xddos
+    - name: Reze
+      link: https://github.com/0xReze
+    - name: Jayendra
+      link: https://x.com/0xkingpanther
+funding: []
+history: []
+id: hisoka
