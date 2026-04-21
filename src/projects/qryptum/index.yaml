@@ -1,3 +1,4 @@
+id: qryptum
 name: Qryptum
 categories:
   - infrastructure
@@ -9,7 +10,7 @@ ecosystem:
 description: Qryptum is a non-custodial security protocol built on Ethereum L1
   that lets users shield ERC-20 tokens inside a personal cryptographic vault
   called a QryptSafe.
-product_launch_day: 2026-04-19T17:00:00.000Z
+product_launch_day: 2026-03-31T17:00:00.000Z
 sunset: false
 assets_used:
   - eth
@@ -40,7 +41,7 @@ project_status:
   testnet: false
   version: mainnet
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
   asset_custody_type: non-custody
@@ -86,4 +87,7 @@ team:
       link: https://t.me/bai_nie
 funding: []
 history: []
-id: qryptum
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/qryptum/logo.png
