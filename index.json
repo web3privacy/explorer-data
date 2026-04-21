@@ -40382,6 +40382,106 @@
       ]
     },
     {
+      "id": "qryptum",
+      "name": "Qryptum",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "wallets",
+        "dapps"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Qryptum is a non-custodial security protocol built on Ethereum L1 that lets users shield ERC-20 tokens inside a personal cryptographic vault called a QryptSafe.",
+      "product_launch_day": "2026-04-19T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth"
+      ],
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "QRYPT",
+          "name": "Qryptum",
+          "contract_address": "0xcbB8299b383C8FB98A7FCcb5F2f96B14A0E8B829",
+          "token_link": "https://etherscan.io/token/0xcbB8299b383C8FB98A7FCcb5F2f96B14A0E8B829"
+        }
+      ],
+      "links": {
+        "web": "https://qryptum.eth.limo/",
+        "blog": "https://qryptum.eth.limo/site/",
+        "github": "https://github.com/Qryptumorg",
+        "forum": "",
+        "docs": "https://qryptum.eth.limo/docs/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/Qryptumorg",
+        "discord": "",
+        "telegram": "https://t.me/qryptumorg",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Smart Contract Layer"
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://qryptum.eth.limo/site/#/privacy",
+        "data_usage": "No data is collected. Vault operations run entirely on-chain, OTP proofs are generated locally on your device, and no server ever sees your keys, proofs, or personal information."
+      },
+      "compliance": "Qryptum is a non-custodial, open-source Ethereum protocol with no admin keys, no custody of user funds, and all activity fully verifiable on-chain.",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "Qryptum collects no user data. No IP, no email, no location, no wallet tracking. Everything runs on-chain and locally in your browser.",
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
+      },
+      "default_privacy": false,
+      "audits": [],
+      "third_party_dependency": "Qryptum's core vault (QryptSafeV6) has no dependency on any third-party service. QryptShield integrates Railgun ZK routing (testnet only), and the $QRYPT token uses Uniswap liquidity on mainnet. No oracles, no Chainlink, no external price feeds.",
+      "social_trust": "Qryptum has no DAO and no multisig. The protocol is governed by its immutable smart contracts with zero admin keys. No individual, team, or governance body can modify, pause, or access deployed vaults.",
+      "technical_spof": "There are no admin keys to steal and no data to leak. To compromise the protocol, an attacker would need to simultaneously break keccak256 (requiring a quantum computer beyond current capability), steal a user's Ethereum private key, AND obtain their OTP proof chain, all at the same time. No single point of failure exists.\n\n",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Wei",
+            "link": "https://t.me/wei_zuan"
+          },
+          {
+            "name": "Bainie",
+            "link": "https://t.me/bai_nie"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/qryptum/logo.png"
+        }
+      ]
+    },
+    {
       "id": "ronindojo-tanto",
       "name": "RoninDojo Tanto",
       "categories": [
