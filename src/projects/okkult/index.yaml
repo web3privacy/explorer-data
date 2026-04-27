@@ -1,0 +1,97 @@
+name: Okkult
+categories:
+  - defi
+  - infrastructure
+usecases:
+  - defi
+  - infrastructure
+ecosystem:
+  - ethereum
+description: |-
+  Okkult is a zero-knowledge privacy infrastructure 
+  built natively on Ethereum. It enables any user to 
+  prove compliance, shield assets, vote privately, 
+  and verify identity without revealing sensitive 
+  information to anyone.
+
+  Before any operation, users generate a ZK compliance 
+  proof verified against OFAC sanctions data and the 
+  Chainalysis on-chain oracle entirely in the browser, 
+  with no server involvement. Assets are then shielded 
+  in an encrypted UTXO pool powered by Groth16 ZK proofs. 
+  Transactions route through a native Railgun integration 
+  at railgun.okkult.eth sender mathematically hidden.
+
+  Six modules: Okkult Proof, Shield, Relay, Vote, ID, Mail.
+  Non-custodial. Immutable. Open source. MIT licensed.
+product_launch_day: 2026-05-27T17:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+have_token: false
+tokens: []
+links:
+  web: https://okkult.io/
+  blog: https://okkult.io/blog
+  github: https://github.com/okkult-dev
+  forum: ""
+  docs: https://docs.okkult.io/
+  whitepaper: https://okkult.io/whitepaper
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Okkult_
+  discord: ""
+  telegram: https://x.com/Okkult_
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Relay network
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://okkult.io/security
+  data_usage: none
+compliance: OFAC, Chainalysis Oracle
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: >-
+  Railgun Protocol — transaction relay network
+
+  Chainalysis Oracle — on-chain sanctions data
+  (0x40C57923924B5c5c5455c48D93317139ADDaC8fb)
+
+  Uniswap V3 — private swap execution
+
+  Aave V3 — private lending execution
+
+  OFAC API — sanctions list data source
+social_trust: |-
+  Protocol is governed by $KULT token holders
+  via Okkult Vote — encrypted on-chain governance.
+  Ownership renounced. No admin keys.
+  No multisig. No pause function.
+  Contracts are fully immutable.
+  Community-governed via DAO.
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: okkult
