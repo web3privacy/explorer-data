@@ -1,0 +1,70 @@
+name: Nullify
+categories:
+  - applications
+usecases:
+  - wallets
+  - defi
+  - vpn
+ecosystem:
+  - ethereum
+  - solana
+description: Nullify integrates privacy-native dApp access with stealth browsing
+  sessions, ephemeral wallets, and the NullRelay network into a unified
+  platform.
+product_launch_day: 2026-05-23T17:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+have_token: true
+tokens:
+  - symbol: "NULL"
+    name: Nullify
+    contract_address: "0x3848A840DA61c8bEcCb86A58e2e59f4574801F39"
+    token_link: https://etherscan.io/address/0x3848a840da61c8beccb86a58e2e59f4574801f39
+links:
+  web: https://usenullify.xyz
+  blog: ""
+  github: https://github.com/Nullify-AI
+  forum: ""
+  docs: https://usenullify.xyz/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/NullifyLabs
+  discord: ""
+  telegram: https://t.me/Nullify_Portal
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: nullify
