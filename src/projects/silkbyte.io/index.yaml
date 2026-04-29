@@ -1,3 +1,4 @@
+id: silkbyte.io
 name: SilkByte.io
 categories:
   - infrastructure
@@ -18,8 +19,8 @@ ecosystem:
 description: SilkByte is a privacy-focused, Monero-centric swap service offering
   fast, high-limit cross-chain swaps without KYC and no data collection. A
   simple, secure way to move assets while staying fully anonymous.
-product_launch_day: 2025-06-01T21:00:00.000Z
-sunset: false
+product_launch_day: 2025-05-31T21:00:00.000Z
+sunset: true
 assets_used:
   - xmr
   - zcash
@@ -76,4 +77,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: silkbyte.io
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/silkbyte.io/logo.png
