@@ -29,6 +29,7 @@ links:
   github: https://github.com/logos-co
   forum: https://forum.logos.co/
   docs: https://docs.logos.co/
+  whitepaper: ""
   block_explorer: ""
   governance: ""
   twitter: https://x.com/Logos_network
@@ -36,17 +37,18 @@ links:
   telegram: ""
   lens: ""
   farcaster: ""
-project_phase: alpha
+project_phase: testnet
 project_status:
   live_status: true
   mainnet: false
-  testnet: false
-  version: alpha
+  testnet: true
+  version: testnet
 blockchain_features:
   opensource: true
   upgradability:
     enabled: false
   asset_custody_type: non-custody
+  encryption: ""
   p2p: true
 storage:
   decentralized: true
@@ -70,3 +72,9 @@ logos:
     url: https://explorer-data.web3privacy.info/assets/projects/logos/logo.png
 ecosystem:
   - other
+nickname: krrisis
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
