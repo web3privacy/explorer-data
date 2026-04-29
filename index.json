@@ -45197,7 +45197,15 @@
         "defi",
         "messaging",
         "computing",
-        "storage"
+        "storage",
+        "wallets",
+        "currency",
+        "hardware",
+        "bridge",
+        "kyc-solution",
+        "dapps",
+        "nft-community",
+        "node"
       ],
       "description": "A privacy-first technology stack for cypherpunks. Logos combines L1 Consensus, Messaging and Storage to build enable a censorship resistant and decentralised application ecosystem.",
       "sunset": false,
