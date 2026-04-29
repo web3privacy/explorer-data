@@ -25968,6 +25968,7 @@
         "solana"
       ],
       "description": "Umbra is a privacy protocol designed to bring confidentiality, composability, and compliance-ready infrastructure to the Solana ecosystem. \nWith privacy as a cornerstone of financial freedom and secure innovation, Umbra aims to provide a foundation for applications and users to transact with confidence.",
+      "product_launch_day": "2025-05-03T22:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "sol"
@@ -25991,9 +25992,9 @@
       },
       "project_status": {
         "live_status": true,
-        "mainnet": false,
+        "mainnet": true,
         "testnet": false,
-        "version": "beta"
+        "version": "mainnet"
       },
       "technology": {
         "type": "ZK-SNARKs, Multi-Party Computation (MPC), Pseudorandom Functions (PRFs)",
@@ -26019,8 +26020,11 @@
       },
       "funding": [
         {
-          "name": "MetaDAO ICO",
-          "link": "https://www.metadao.fi/projects/umbra/fundraise"
+          "name": "metaDAO ICO",
+          "type": "ICO",
+          "link": "https://metadao.fi/projects/umbra/fundraise",
+          "value": "$3,000,000",
+          "time": "2025"
         }
       ],
       "team": {
@@ -26066,22 +26070,30 @@
           "url": "https://explorer-data.web3privacy.info/assets/projects/umbra-privacy/logo.png"
         }
       ],
-      "project_phase": "beta",
+      "project_phase": "mainnet",
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://cdn.prod.website-files.com/691b836ec5fafc863304c0a5/69b90c6cdd0e77271282b518_Umbra-Privacy-Policy-AA160226.pdf",
         "data_usage": ""
       },
-      "compliance": "Wallet screening against sanctioned or high-risk addresses, opt-in viewing keys for selective transparency.",
+      "compliance": "Yes. Umbra integrates Range for real-time sanctions screening against OFAC and other watchlists, blocking interactions with flagged addresses. For auditability and regulatory transparency, the protocol supports opt-in viewing keys — allowing users to selectively disclose transaction history to auditors or regulators without granting any spending authority. This design balances on-chain privacy with the ability to demonstrate compliance when required.",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
-        "sign_in_type_requirments": []
+        "sign_in_type_requirments": [
+          "wallet"
+        ]
       },
-      "default_privacy": false,
-      "audits": [],
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Protocol Audits 1 - Halborn",
+          "url": "https://ownership.umbraprivacy.com/",
+          "time": "2025-12-08T23:00:00.000Z"
+        }
+      ],
       "third_party_dependency": "",
-      "social_trust": "",
+      "social_trust": "The project is governed by a DAO using MetaDAO's futarchy-based governance model. Treasury funds are held and controlled through Squads multisig, with spending requiring DAO approval through MetaDAO. No single individual holds unilateral spending authority. Decisions are made through decision markets, where proposals are executed only if the market signals they will positively impact the protocol.",
       "technical_spof": ""
     },
     {
