@@ -1,0 +1,24 @@
+name: Umbra Privacy
+categories:
+  - applications
+  - defi
+usecases:
+  - wallets
+  - defi
+  - mixing-service
+  - other
+ecosystem:
+  - solana
+description: >-
+  Umbra is a privacy protocol designed to bring confidentiality, composability,
+  and compliance-ready infrastructure to the Solana ecosystem. 
+
+
+  With privacy as a cornerstone of financial freedom and secure innovation,
+  Umbra aims to provide a foundation for applications and users to transact with
+  confidence.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+id: umbra-privacy
