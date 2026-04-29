@@ -40505,7 +40505,7 @@
         "ethereum"
       ],
       "description": "Qryptum is a non-custodial security protocol built on Ethereum L1 that lets users shield ERC-20 tokens inside a personal cryptographic vault called a QryptSafe.",
-      "product_launch_day": "2026-04-19T17:00:00.000Z",
+      "product_launch_day": "2026-03-31T17:00:00.000Z",
       "sunset": false,
       "assets_used": [
         "eth"
@@ -40542,14 +40542,17 @@
         "version": "mainnet"
       },
       "blockchain_features": {
-        "opensource": false,
+        "opensource": true,
         "upgradability": {
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "Smart Contract Layer"
+        "encryption": "Smart Contract Layer",
+        "p2p": false
       },
-      "storage": {},
+      "storage": {
+        "decentralized": true
+      },
       "privacy_policy": {
         "defined": true,
         "link": "https://qryptum.eth.limo/site/#/privacy",
