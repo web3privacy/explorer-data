@@ -3702,7 +3702,7 @@
       "links": {
         "web": "https://www.getmonero.org",
         "blog": "https://www.getmonero.org/blog/",
-        "github": "https://github.com/monero-ecosystem",
+        "github": "https://github.com/monero-project",
         "forum": "https://monero.town",
         "docs": "https://docs.getmonero.org/",
         "whitepaper": "https://web.getmonero.org/resources/research-lab/pubs/whitepaper_annotated.pdf",
@@ -3724,9 +3724,7 @@
         ]
       },
       "usecases": [
-        "currency",
-        "mixing-service",
-        "defi"
+        "currency"
       ],
       "have_token": false,
       "third_party_dependency": "none",
@@ -3740,8 +3738,8 @@
       "product_launch_day": "2014-05-18T00:00:00.000Z",
       "sunset": false,
       "privacy_policy": {
-        "defined": false,
-        "link": "",
+        "defined": true,
+        "link": "https://www.getmonero.org/legal/#privacy-policy",
         "data_usage": ""
       },
       "compliance": "",
@@ -3755,18 +3753,23 @@
       "blockchain_features": {
         "opensource": true,
         "upgradability": {
-          "enabled": false
+          "enabled": true
         },
         "asset_custody_type": "non-custody",
-        "encryption": "Blockchain, Ring Signatures, RingCT, Stealth addresses, Tor.",
+        "encryption": "Blockchain, Ring Signatures, RingCT, Stealth addresses, Tor, I2P",
         "p2p": true
       },
       "storage": {
-        "decentralized": true
+        "decentralized": false
       },
       "assets_used": [],
       "tokens": [],
-      "funding": [],
+      "funding": [
+        {
+          "name": "Community Crowdfunding System (CCS)",
+          "link": "https://ccs.getmonero.org"
+        }
+      ],
       "history": [
         {
           "title": "RingCT update",
@@ -3803,8 +3806,17 @@
           "description": "Haveno-reto is a multisig DEX to trade monero for FIAT and cryptos",
           "link": "https://monero.town/post/3135463",
           "time": "2024-05-13T00:00:00.000Z"
+        },
+        {
+          "title": "Bulletproofs",
+          "description": "Bulletproofs code audit",
+          "link": "https://github.com/monero-project/research-lab/tree/master/audits/BP",
+          "time": "2018-02-12T00:00:00.000Z"
         }
-      ]
+      ],
+      "audits": [],
+      "social_trust": "",
+      "technical_spof": ""
     },
     {
       "id": "evolution",
