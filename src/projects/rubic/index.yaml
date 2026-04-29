@@ -1,0 +1,85 @@
+name: Rubic
+categories:
+  - applications
+  - defi
+usecases:
+  - defi
+  - bridge
+  - dapps
+  - other
+ecosystem:
+  - ethereum
+  - solana
+  - other
+  - multichain
+description: "Rubic is a cross-chain aggregator supporting 70+ chains. Its
+  Private Mode aggregates multiple privacy protocols into one interface, letting
+  users compare swap and transfer routes by speed, cost, and privacy level. The
+  core goal: reduce visible links between wallets and minimize traceability of
+  holdings and transaction activity."
+sunset: false
+assets_used:
+  - eth
+  - sol
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://rubic.exchange
+  blog: https://rubic.exchange/blog/
+  github: https://github.com/Cryptorubic
+  forum: ""
+  docs: https://docs.rubic.finance
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/CryptoRubic
+  discord: https://discord.gg/7EYzPbWKFQ
+  telegram: https://t.me/cryptorubic_chat
+  lens: ""
+  farcaster: https://warpcast.com/cryptorubic
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Privacy protocol aggregation (e.g. ZK, FHE, MPC, dual-exchange
+    systems, privacy pools)
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://rubic.exchange/pdf/privacy-policy.pdf
+  data_usage: ""
+compliance: Uses privacy-oriented routing and compliant privacy providers; no
+  KYC by default
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: "    Vladimir Tikhomirov (Co-founder)"
+      link: https://linkedin.com/in/vtikhomirov
+    - name: Alexandra Korneva (Co-founder)
+      link: https://linkedin.com/in/alexandrakorneva
+    - name: Eugene Korol (CEO)
+      link: https://www.linkedin.com/in/evgenykorol
+    - name: Elena Nova (CMO)
+      link: https://linkedin.com/in/elena-n0va/
+    - name: Tanya Kuznetsova (Business Development Head)
+      link: https://www.linkedin.com/in/tatiana-kuznetsova-77a4061b7/
+funding: []
+history: []
+id: rubic
