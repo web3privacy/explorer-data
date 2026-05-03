@@ -1,0 +1,13 @@
+name: X1 CHAIN
+categories:
+  - hardware
+  - defi
+usecases:
+  - wallets
+  - currency
+ecosystem:
+  - ethereum
+  - bitcoin
+description: Gabut doang
+sunset: false
+id: x1-chain
