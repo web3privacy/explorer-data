@@ -1,0 +1,19 @@
+name: "Zombie Delete "
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - data-management
+  - other
+  - infrastructure
+ecosystem:
+  - other
+  - multichain
+  - solana
+  - ethereum
+  - cosmos
+description: Zombie Delete is cryptographic proof of deletion. Not "trust
+  us".  On-chain and off-chain
+product_launch_day: 2026-05-21T22:00:00.000Z
+sunset: false
+id: zombie-delete-
