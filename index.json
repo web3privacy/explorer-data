@@ -21939,6 +21939,126 @@
       ]
     },
     {
+      "id": "curvy-protocol",
+      "name": "Curvy Protocol",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "wallets",
+        "defi",
+        "infrastructure",
+        "eth-layer-2",
+        "bridge",
+        "ai",
+        "mixing-service"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "solana",
+        "multichain"
+      ],
+      "description": "Curvy is the privacy infrastructure layer for on-chain payments - built for the wallets, applications, and AI agents.\n\nOn the surface, users get human-readable usernames as a frictionless entry point for receiving crypto. Under the hood, every payment is automatically routed through programmable smart contracts using ZK proofs: a fresh address is generated per transaction, funds are shielded from balance exposure and transaction graph analysis, and time-based correlation attacks are prevented by design. The result is end-to-end cross-chain privacy with a user experience identical to a normal wallet transfer.\n\nWhat makes Curvy distinct is the combination of three properties no existing solution delivers together: invisible UX (privacy requires no action from the user or the agent), embedded compliance and adjustable infrastructure (wallets, DeFi apps, payment platforms, and AI agent frameworks integrate via SDK in minutes).\n",
+      "product_launch_day": "2025-02-28T23:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "eth",
+        "usdc",
+        "usdt",
+        "other",
+        "btc"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://curvy.box/",
+        "blog": "https://blog.curvy.box/",
+        "github": "https://github.com/0xCurvy",
+        "forum": "https://t.me/CurvyProtocol",
+        "docs": "https://docs.curvy.box/",
+        "whitepaper": "https://arxiv.org/pdf/2504.06744",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/0xCurvy",
+        "discord": "",
+        "telegram": "https://t.me/CurvyProtocol",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Zero-Knowledge (ZK), SHA256, Zero-Knowledge Proofs (ZK), Stealth Addresses (ECPDKSAP-style), Merkle Trees & Nullifiers, Poseidon Hashing, EdDSA (Poseidon-based signatures), Encrypted Metadata / Off-chain Encryption, Cross-chain Privacy Routing",
+        "p2p": true
+      },
+      "storage": {
+        "decentralized": false
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://curvy.box/privacy-policy",
+        "data_usage": "Execution of transactions and protocol functionality only (e.g., routing, validation, security, and performance monitoring). No reselling of user data; optional data use may occur at the application or integration layer depending on partners."
+      },
+      "compliance": "Curvy is designed to be compatible with regulatory requirements (e.g., OFAC / AML frameworks) through selective disclosure, auditability, and partner-level compliance controls, while the base protocol remains permissionless and non-custodial.",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "Wallet address (public interaction layer), transaction metadata required for execution, optional encrypted off-chain communication data. No collection of IP, location, or personal identity data at the protocol level. ",
+        "sign_in_type_requirments": [
+          "wallet",
+          "email",
+          "seed",
+          "privatekey"
+        ]
+      },
+      "default_privacy": true,
+      "audits": [
+        {
+          "name": "Curvy Protocol - Smart Contracts Ethernal",
+          "url": "https://github.com/0xCurvy/contracts/blob/develop/audits/Curvy%202026%20Audit%20Report%20Final.pdf",
+          "time": "2026-05-07T22:00:00.000Z"
+        }
+      ],
+      "third_party_dependency": "Li.Fi is used for bridging. \n",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Petar Atanasovski",
+            "link": "https://www.linkedin.com/in/petaratanasovski/"
+          },
+          {
+            "name": "Mališa Pušonja",
+            "link": "https://x.com/malisapusonja"
+          },
+          {
+            "name": "Lazar Travica",
+            "link": "https://www.linkedin.com/in/lazartravica/"
+          }
+        ]
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/curvy-protocol/logo.png"
+        }
+      ]
+    },
+    {
       "id": "coinshuffle",
       "name": "CoinShuffle",
       "categories": [
