@@ -37428,7 +37428,7 @@
       "ecosystem": [
         "ethereum"
       ],
-      "description": "Armada is asset privacy infrastructure on Ethereum. Borderless, its reference app, will let you send private cross-chain USDC,  with yield on idle  balances. The underlying pool is integration-first: any platform can route flows through it without becoming a privacy engineer. Privacy that compounds with usage. Crowdfunded, no private sale, and accountable to tokenholders from day one.",
+      "description": "Armada is pluggable asset privacy infrastructure on Ethereum. Armada's front-end will let you send private cross-chain USDC,  with yield on idle balances. The underlying shielded pool is integration-first, so any platform can plug and route flows through it (without becoming a privacy engineer). Privacy that compounds with usage. Crowdfunded, no private sale, and accountable to tokenholders from day one.",
       "sunset": false,
       "assets_used": [
         "usdc",
