@@ -1,3 +1,4 @@
+id: secure
 name: Secure
 categories:
   - applications
@@ -169,4 +170,10 @@ history:
       privacy, and cross-platform functionality between iOS and Android.
     link: https://x.com/SecureLegion/status/2049878568017211450
     time: 2026-04-30T04:00:00.000Z
-id: secure
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/secure/logo.jpeg
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/secure/logo.png
