@@ -1,71 +1,172 @@
-name: secure
+name: Secure
 categories:
-  - social-and-communications
   - applications
+  - social-and-communications
 usecases:
+  - storage
+  - vpn
+  - wallets
   - messaging
 ecosystem:
-  - solana
   - multichain
-  - other
-description: Secure is a revolutionary Android messaging application that
-  combines truly serverless peer-to-peer communication, post-quantum
-  cryptography, and integrated cryptocurrency payments. Unlike Signal, Session,
-  or any traditional messenger, Secure eliminates ALL central infrastructure—no
-  servers exist to log your metadata, no company can hand over data that was
-  never collected.
+description: >-
+  Secure is a fully serverless, privacy-first messaging platform built on Tor
+  hidden services, designed for true peer-to-peer communication with zero
+  centralized infrastructure.
+
+
+  Unlike traditional messaging apps, Secure does not rely on servers, relays, or
+  push notification systems. Messages are transmitted directly between devices
+  over the Tor network, eliminating third-party intermediaries and significantly
+  reducing metadata exposure. There are no phone numbers, emails, or accounts
+  required—identity is created and stored locally on the user’s device.
+
+
+  The platform leverages advanced cryptography, including post-quantum hybrid
+  key exchange and forward secrecy, ensuring long-term protection against both
+  current and future threats. All data is encrypted at rest, and communication
+  is end-to-end encrypted by default.
+
+
+  Key features include:
+
+
+  Serverless P2P messaging over Tor hidden services
+
+  No accounts, phone numbers, or email required
+
+  Post-quantum encryption with forward secrecy
+
+  Private group messaging with no central coordination layer
+
+  Metadata-minimizing architecture by design
+
+  Cross-platform support (iOS and Android)
+
+  Secure local storage with encrypted database
+
+  Secure Pay (multi-chain): Send and receive cryptocurrency across multiple
+  blockchains directly within the app, with privacy-first design and no
+  custodial control
+
+
+  Secure is built for users who demand maximum privacy, censorship resistance,
+  and control over their data. By removing centralized points of failure and
+  operating entirely over Tor, Secure provides a communication layer that cannot
+  be easily surveilled, blocked, or shut down.
 sunset: false
-assets_used:
-  - sol
-  - zcash
-have_token: true
-tokens:
-  - symbol: SECURE
-    name: Secure Legion
-    contract_address: GFJbQ7WDQry73iTaGkJcXKjvi1ViFTFmHSENgz92jFPP
-    token_link: https://solscan.io/token/GFJbQ7WDQry73iTaGkJcXKjvi1ViFTFmHSENgz92jFPP
+assets_used: []
+have_token: false
+tokens: []
 links:
   web: https://securelegion.org/
-  blog: https://securelegion.org/blog
+  blog: ""
   github: https://github.com/Secure-Legion
   forum: ""
-  docs: https://github.com/Secure-Legion#readme
+  docs: https://securelegion.org/docs
   whitepaper: ""
   block_explorer: ""
-  governance: ""
+  governance: https://securelegion.org/privacy
   twitter: https://x.com/SecureLegion
   discord: ""
   telegram: ""
   lens: ""
   farcaster: ""
+project_phase: beta
 project_status:
-  live_status: false
+  live_status: true
   mainnet: false
   testnet: false
+  version: beta
 blockchain_features:
-  opensource: false
+  opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
-  encryption: ""
+  asset_custody_type: non-custody
+  encryption: Tor • E2EE • Post-Quantum (ML-KEM-1024) • X25519 • Ed25519 •
+    XChaCha20-Poly1305 • HKDF • Argon2id • BLAKE3 • SHA-256 • SQLCipher
+    (AES-256)  • Secp256k1
+  p2p: true
 storage: {}
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://securelegion.org/privacy
   data_usage: ""
 compliance: ""
 tracebility:
   kyc: false
   tracked_data: ""
   sign_in_type_requirments: []
-default_privacy: false
+default_privacy: true
 audits: []
-third_party_dependency: ""
+third_party_dependency: >-
+  Messaging Layer:
+
+  Runs entirely over the Tor Project network using Tor hidden services. There
+  are no centralized servers, relays, or third-party messaging providers.
 social_trust: ""
-technical_spof: ""
+technical_spof: >-
+  Secure is designed to avoid traditional single points of failure.
+
+
+  There is no central server, message database, push server, admin dashboard, or
+  relay system that can be hacked, seized, or shut down to compromise the entire
+  network.
+
+
+  To shut down or compromise Secure at scale, an attacker would need to
+  compromise core external foundations such as:
+
+
+  The Tor network itself
+
+  The user’s individual device
+
+  The user’s private keys
+
+  The underlying cryptographic primitives
+
+  The supported blockchain networks used by Secure Pay
+
+  The user’s backup seed phrase
+
+
+  Secure does not have:
+
+
+  Platform-controlled user funds
+
+  Custodial wallets
+
+  Central message storage
+
+  Master admin keys
+
+  Central relay servers
+
+  A global user database
+
+
+  The main risk is endpoint compromise: if a user’s device, private keys, or
+  seed phrase are stolen, that individual user’s data or funds may be at risk.
 team:
   anonymous: false
-  teammembers: []
+  teammembers:
+    - name: Wizard
+      link: https://x.com/AltCoinWiz
+    - name: Thomas Perkins
+      link: https://x.com/t_perkins_
 funding: []
-history: []
+history:
+  - title: iOS Public Beta Launch
+    description: Secure has officially launched its iOS public beta via TestFlight,
+      marking a major milestone in bringing fully serverless, Tor-based
+      peer-to-peer messaging to Apple devices. This release enables users to
+      test core features including end-to-end encrypted messaging over Tor
+      hidden services, accountless onboarding, and Secure Pay (multi-chain). As
+      the first public iOS release, this beta is focused on real-world testing,
+      performance tuning, and user feedback to further strengthen reliability,
+      privacy, and cross-platform functionality between iOS and Android.
+    link: https://x.com/SecureLegion/status/2049878568017211450
+    time: 2026-04-30T04:00:00.000Z
 id: secure
