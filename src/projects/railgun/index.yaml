@@ -78,9 +78,12 @@ tracebility:
   sign_in_type_requirments: []
 third_party_dependency: ""
 audits:
-  - name: Railgun audit report
-    link: https://assets.railgun.org/docs/audits/
-    time: 2021-07-01T00:00:00.000Z
+  - name: ABDK Consulting Smart Contract Audit
+    url: https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+    time: 2021-06-18T04:00:00.000Z
+  - name: Railgun Smart Contract Audit
+    url: https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf
+    time: 2023-02-03T05:00:00.000Z
 history:
   - title: Mainet
     event_type: launch
