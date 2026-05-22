@@ -8,7 +8,7 @@ links:
   web: https://incognito.anonzk.io
 usecases:
   - mixing-service
-have_token: false
+have_token: true
 third_party_dependency: none
 logos:
   - file: logo.png
@@ -17,3 +17,22 @@ logos:
 ecosystem:
   - other
 sunset: true
+nickname: arkim
+assets_used: []
+tokens:
+  - symbol: $
+    name: Btc
+    contract_address: bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97
+    token_link: https://blockchair.com/bitcoin/addresses?utm_referrer=https%3A%2F%2Fyandex.com%2F
+  - symbol: ""
+    name: ""
+    contract_address: ""
+    token_link: ""
+  - symbol: ""
+    name: ""
+    contract_address: ""
+    token_link: ""
+  - symbol: ""
+    name: ""
+    contract_address: ""
+    token_link: ""
