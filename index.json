@@ -54006,7 +54006,10 @@
         "mixing-service"
       ],
       "ecosystem": [
-        "solana"
+        "solana",
+        "ethereum",
+        "multichain",
+        "other"
       ],
       "description": "Mixoor allows you to transfer funds without any visible connection on blockchain explorers.",
       "sunset": false,
@@ -54024,10 +54027,10 @@
       ],
       "links": {
         "web": "https://mixoor.fun/",
-        "blog": "",
-        "github": "",
+        "blog": "https://mixoor.fun/blog",
+        "github": "https://github.com/SmithiiDev/mixoor",
         "forum": "",
-        "docs": "",
+        "docs": "https://docs.mixoor.fun",
         "whitepaper": "",
         "block_explorer": "",
         "governance": "",
@@ -54038,16 +54041,17 @@
         "farcaster": ""
       },
       "project_status": {
-        "live_status": false,
-        "mainnet": false,
-        "testnet": false
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
       },
       "blockchain_features": {
-        "opensource": false,
+        "opensource": true,
         "upgradability": {
           "enabled": false
         },
-        "asset_custody_type": "",
+        "asset_custody_type": "non-custody",
         "encryption": ""
       },
       "storage": {},
@@ -54068,6 +54072,24 @@
           "file": "logo.jpeg",
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/mixoor/logo.jpeg"
+        }
+      ],
+      "project_phase": "mainnet",
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [
+        {
+          "title": "",
+          "description": "",
+          "link": "",
+          "time": ""
         }
       ]
     },
