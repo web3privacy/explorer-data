@@ -1,0 +1,106 @@
+name: NOCTUM
+categories:
+  - infrastructure
+  - defi
+usecases:
+  - wallets
+  - defi
+  - eth-layer-2
+  - infrastructure
+ecosystem:
+  - other
+description: >-
+  Noctum is a privacy infrastructure protocol deployed on Base (Ethereum Layer
+  2, Chain ID 8453). It provides three core functions: anonymous ETH transfers
+  using fixed-denomination pool contracts built on a commit-reveal scheme with
+  Groth16 zero-knowledge proofs; zero-knowledge identity attestations that allow
+  wallet owners to prove control of an address without revealing it; and
+  real-time wallet security monitoring that scans any Base address for risk
+  indicators and exposed ERC20 approvals.
+
+
+  The anonymous transfer mechanism works as follows: a user deposits a fixed ETH
+  amount into one of five denomination pools (0.001, 0.005, 0.01, 0.1, or 1.0
+  ETH). A cryptographic commitment is stored on-chain instead of the depositor's
+  address. The user later withdraws to any recipient address by submitting a ZK
+  proof generated off-chain. A relayer broadcasts the withdrawal transaction, so
+  the recipient wallet requires no prior ETH balance. All pool, factory, and
+  verifier contracts are deployed and verified on Basescan. The protocol also
+  exposes a public REST API and a TypeScript SDK (@noctum/sdk) for third-party
+  developer integrations.
+product_launch_day: 2026-06-30T17:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - other
+have_token: true
+tokens:
+  - symbol: NOCTUM
+    name: NOCTUM
+    contract_address: "0xb25446116e6ae192e7c70c0ca5c9b88463bb0b07"
+    token_link: https://basescan.org/token/0xB25446116E6AE192E7c70C0ca5c9B88463bb0B07#balances
+links:
+  web: https://noctum.io/
+  blog: ""
+  github: https://github.com/noctum-privacy/noctum
+  forum: ""
+  docs: https://noctum.io/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Noctum_io
+  discord: ""
+  telegram: https://t.me/noctum_io
+  lens: ""
+  farcaster: https://farcaster.xyz/noctum
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge (ZK), Groth16, Pedersen Commitment, Keccak256
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://noctum.io/docs
+  data_usage: None. No user data is collected or stored. All interactions are
+    on-chain and pseudonymous by design.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: >-
+  Base L2 network (Coinbase/Base) for all on-chain settlement. 
+
+  snarkjs library for Groth16 ZK proof generation and verification. 
+
+  Ethereum L1 security inherited via Base's optimistic rollup bridge with 7-day
+  challenge window.
+social_trust: No DAO, no multisig, no formal governance structure. The protocol
+  contracts are immutable after deployment — no admin key can modify pool logic
+  or access user funds. The deployer wallet has no special privileges
+  post-deployment. Protocol frontend is maintained by the noctum-privacy GitHub
+  organization.
+technical_spof: The withdrawal relayer is the primary operational dependency —
+  if the relayer is offline, users cannot submit withdrawals (funds remain safe
+  in pool contracts and can be withdrawn when relayer recovers). The API server
+  (noctum.io/api) is required for the web interface but not for direct contract
+  interaction. Users with sufficient technical knowledge can interact with pool
+  contracts directly on Base via any EVM-compatible client without using the
+  relayer or API.
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: noctum
