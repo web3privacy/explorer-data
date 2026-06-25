@@ -1,0 +1,96 @@
+id: miden
+name: Miden
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - eth-layer-2
+  - defi
+  - computing
+ecosystem:
+  - ethereum
+description: >-
+  Miden is a zero-knowledge rollup built for high-throughput,
+  privacy-preserving applications. Transaction execution and state are pushed to
+  the client side, so users generate ZK proofs locally on their own devices and
+  the network only verifies proofs of correct execution and state updates.
+  Accounts and notes can be public or private, giving applications a hybrid
+  privacy model with programmable, selective disclosure. Miden runs a
+  STARK-based virtual machine and targets onchain finance that needs
+  confidentiality at scale.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://miden.xyz/
+  blog: https://miden.xyz/blog
+  github: https://github.com/0xMiden
+  forum: ""
+  docs: https://docs.miden.xyz/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/0xMiden
+  discord: ""
+  telegram: https://t.me/BuildOnMiden
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge (STARK-based Miden VM), client-side proving
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://miden.xyz/privacy
+  data_usage: Only email addresses collected via mailing-list signup; cookieless analytics.
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Bobbin Threadbare
+      role: Co-founder
+      link: https://x.com/bobbinth
+    - name: Dominik Schmid
+      role: Co-founder
+      link: ""
+    - name: Azeem Khan
+      role: Co-founder
+      link: ""
+funding:
+  - name: a16z crypto
+    type: Seed
+    value: $25M
+    time: 2025-04-29
+    link: https://polygon.technology/blog/miden-raises-25m-from-a16z-crypto-1kx-and-hackvc-to-build-the-edge-blockchain
+  - name: 1kx
+    type: Seed
+    link: https://polygon.technology/blog/miden-raises-25m-from-a16z-crypto-1kx-and-hackvc-to-build-the-edge-blockchain
+  - name: Hack VC
+    type: Seed
+    link: https://polygon.technology/blog/miden-raises-25m-from-a16z-crypto-1kx-and-hackvc-to-build-the-edge-blockchain
+history:
+  - title: Spin-out from Polygon Labs and $25M seed
+    description: Miden spun out from Polygon Labs and raised a $25M seed round led by a16z crypto, 1kx, and Hack VC.
+    time: 2025-04-29
+    link: https://polygon.technology/blog/miden-raises-25m-from-a16z-crypto-1kx-and-hackvc-to-build-the-edge-blockchain
