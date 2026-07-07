@@ -1,7 +1,7 @@
 import Ajv from "https://esm.sh/ajv@8.17.1?pin=v58";
 import addFormats from "https://esm.sh/ajv-formats@2.1.1";
 import { betterAjvErrors } from 'https://esm.sh/@apideck/better-ajv-errors@0.3.6?pin=v58';
-import yaml from "npm:js-yaml";
+import * as yaml from "npm:js-yaml";
 
 import { W3PData } from "./w3pdata.js";
 
