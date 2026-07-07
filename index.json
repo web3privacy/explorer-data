@@ -46812,13 +46812,13 @@
       "have_token": false,
       "tokens": [],
       "links": {
-        "web": "Hisoka.io",
-        "blog": "Hisoka.io/writing",
+        "web": "https://hisoka.io",
+        "blog": "https://hisoka.io/writing",
         "github": "https://github.com/hisoka-io",
-        "forum": "https://x.com/hisoka_io",
+        "forum": "",
         "docs": "https://docs.hisoka.io/",
         "whitepaper": "",
-        "block_explorer": "https://demo.nox.hisoka.io/",
+        "block_explorer": "https://demo.railgun.hisoka.io",
         "governance": "",
         "twitter": "https://x.com/hisoka_io",
         "discord": "",
@@ -46826,12 +46826,12 @@
         "lens": "",
         "farcaster": ""
       },
-      "project_phase": "testnet",
+      "project_phase": "mainnet",
       "project_status": {
         "live_status": true,
-        "mainnet": false,
+        "mainnet": true,
         "testnet": true,
-        "version": "testnet"
+        "version": "mainnet"
       },
       "blockchain_features": {
         "opensource": true,
@@ -46858,7 +46858,7 @@
       "audits": [],
       "third_party_dependency": "Built from fully open-source technologies",
       "social_trust": "There is no centralized custody or DAO for NOX mixnet",
-      "technical_spof": "Hisoka is fully open source with no token or single of failure. NOX, our mixnet is globally distributed. View here: https://map.hisoka.io/",
+      "technical_spof": "Raven uses single-server PIR -- server learns query timing but not query content. Nox requires at least one honest node per hop (3-hop path). Network map at map.hisoka.io.",
       "team": {
         "anonymous": false,
         "teammembers": [
@@ -46873,6 +46873,10 @@
           {
             "name": "Jayendra",
             "link": "https://x.com/0xkingpanther"
+          },
+          {
+            "name": "Ravi",
+            "link": "https://x.com/0xBejini"
           }
         ]
       },
