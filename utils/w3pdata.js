@@ -1,4 +1,4 @@
-import yaml from "npm:js-yaml";
+import * as yaml from "npm:js-yaml";
 
 const DATA_URL = 'https://explorer-data.web3privacy.info'
 
