@@ -1,0 +1,67 @@
+id: radarchat
+name: Radar
+categories:
+  - social-and-communications
+  - applications
+usecases:
+  - messaging
+ecosystem:
+  - bitcoin
+description: Radar. The first app to bring private messaging and self-custodial Bitcoin into one seamless experience.
+sunset: false
+assets_used:
+  - btc
+have_token: false
+tokens: []
+links:
+  web: https://radar.chat/
+  blog: ""
+  github: https://github.com/radar-labs
+  forum: https://www.reddit.com/r/radarchat
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/radarchat
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://radar.chat/privacy
+  data_usage: ""
+compliance: None
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/radarchat/logo.png
