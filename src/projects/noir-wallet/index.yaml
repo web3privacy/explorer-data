@@ -1,0 +1,66 @@
+name: Noir Wallet
+categories:
+  - applications
+usecases:
+  - wallets
+  - defi
+ecosystem:
+  - other
+description: >-
+  Shielded transactions, cross-chain swaps, lending, and DApp access — all
+  without leaving Zcash's privacy layer and even everything can be done with
+  your noir wallet
+
+
+  Your keys. Your assets. Your terms.
+
+
+  Noir brings native ZECFi directly into your browser.
+
+
+  With Noir, users will be able to access:
+
+      Shielded transactions
+
+      Cross-chain swaps
+
+      Lending and borrowing
+
+      DApp connections
+
+      Native Zcash DeFi experiences
+
+  All while staying within Zcash’s privacy layer.
+sunset: false
+assets_used:
+  - zcash
+have_token: false
+tokens: []
+links:
+  web: https://www.zknoir.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/noir_wallet
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+id: noir-wallet
