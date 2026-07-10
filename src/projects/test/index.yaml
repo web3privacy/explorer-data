@@ -1,0 +1,13 @@
+categories:
+  - hardware
+usecases:
+  - infrastructure
+ecosystem:
+  - monero
+description: des
+sunset: false
+name: test
+have_token: false
+privacy_policy:
+  defined: false
+id: test
