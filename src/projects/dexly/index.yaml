@@ -1,0 +1,26 @@
+id: dexly
+name: Dexly
+categories: [defi]
+description: "Self-custodial mobile app (iOS/Android) for trading on Hyperliquid — perpetuals, spot, tokenized stocks, commodities, indices and prediction markets, plus copy trading. Users hold their own keys; no custody, no KYC."
+project_type: trading
+ecosystem: [hyperliquid]
+fee: 0.035%
+links:
+  web: https://dexly.trade
+  github: https://github.com/dexlytrade
+blockchain_features:
+  opensource: false
+  asset_custody_type: non-custody
+  p2p: false
+tracebility:
+  kyc: false
+  sign_in_type_requirments: [Wallet]
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+default_privacy: false
+have_token: false
+assets_used: [USDC]
+logos: [{file: logo.png, ext: png}]
+sunset: false
