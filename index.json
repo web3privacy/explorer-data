@@ -15460,18 +15460,18 @@
         "defi"
       ],
       "usecases": [
-        "defi",
-        "tee",
-        "dapps"
+        "defi"
       ],
       "ecosystem": [
+        "other",
         "ethereum",
         "multichain"
       ],
       "description": "Private DeFi trading platform. Deposits sit in one cross-chain vault; balances, positions, and strategies stay confidential, with execution secured by TEEs on Oasis Sapphire",
       "sunset": false,
       "assets_used": [
-        "eth"
+        "eth",
+        "usdc"
       ],
       "have_token": false,
       "tokens": [],
@@ -15492,38 +15492,43 @@
       },
       "project_phase": "beta",
       "project_status": {
-        "live_status": true,
+        "live_status": false,
         "mainnet": false,
         "testnet": false,
         "version": "beta"
       },
       "blockchain_features": {
-        "opensource": false,
+        "opensource": true,
         "upgradability": {
           "enabled": false
         },
         "asset_custody_type": "non-custody",
-        "encryption": "Key Encumbrance, Trusted Execution Environment"
+        "encryption": "Key Encumbrance, Trusted Execution Environment",
+        "technology_type": "TEE, Trusted Execution Environment, Oasis Sapphire",
+        "p2p": true
       },
-      "storage": {},
+      "storage": {
+        "decentralized": true
+      },
       "privacy_policy": {
         "defined": false,
         "link": "",
         "data_usage": ""
       },
-      "compliance": "",
+      "compliance": "nFADP (Switzerland)",
       "tracebility": {
         "kyc": false,
         "tracked_data": "",
         "sign_in_type_requirments": [
+          "email",
           "wallet"
         ]
       },
       "default_privacy": true,
       "audits": [],
-      "third_party_dependency": "",
-      "social_trust": "",
-      "technical_spof": "",
+      "third_party_dependency": "MoonPay (fiat on-ramp), Turnkey (wallets), Oasis Sapphire",
+      "technical_spof": "Oasis Sapphire network",
+      "social_trust": "Team-governed; no DAO or token governance",
       "team": {
         "anonymous": false,
         "teammembers": []
