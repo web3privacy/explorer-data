@@ -4,7 +4,7 @@ categories:
 usecases:
   - defi
 ecosystem:
-  - oasis
+  - other
   - ethereum
   - multichain
 description: Private DeFi trading platform. Deposits sit in one cross-chain
