@@ -36,7 +36,7 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: non-custody
+  asset_custody_type: custodial
   encryption: zksnark
   p2p: true
 privacy_policy:
@@ -52,28 +52,10 @@ team:
       role: researcher
     - name: John Meurer
       role: researcher
-    - name: Dylan Oliver
-      role: researcher
-    - name: Hisham Galan
-      role: researcher
-    - name: Peter Simpson
-      role: researcher
-    - name: Bill Liang
-      role: researcher
-    - name: Matias Grote
-      role: researcher
-    - name: Jacob Makarsky
-      role: Software engineer
-    - name: Edward P. Fricker
-      role: Legal counsel
-    - name: Phil Huang
-      role: Advisor
-    - name: Emmanuel Goldstein
-      role: Global economist
 storage:
   decentralized: true
 tracebility:
-  kyc: false
+  kyc: true
   tracked_data: Transaction history before shielding
   sign_in_type_requirments: []
 third_party_dependency: ""
