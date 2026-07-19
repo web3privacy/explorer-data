@@ -1,3 +1,4 @@
+id: azguard-wallet
 name: Azguard Wallet
 categories:
   - applications
@@ -30,16 +31,18 @@ links:
 project_phase: alpha
 project_status:
   live_status: true
-  mainnet: false
+  mainnet: true
   testnet: false
-  version: alpha
+  version: mainnet
 blockchain_features:
   opensource: true
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: ""
-storage: {}
+  encryption: ZK
+  p2p: true
+storage:
+  decentralized: true
 privacy_policy:
   defined: true
   link: https://azguardwallet.io/privacy/
@@ -60,4 +63,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: azguard-wallet
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/azguard-wallet/logo.png
