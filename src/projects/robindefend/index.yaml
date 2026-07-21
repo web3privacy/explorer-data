@@ -1,0 +1,34 @@
+categories:
+  - infrastructure
+usecases:
+  - defi
+ecosystem:
+  - other
+description: The trusted DeFi infrastructure for liquidity protection, token
+  vesting, and on-chain security on Robinhood Chain.
+product_launch_day: 2026-07-22T17:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+tokens:
+  - symbol: RBD
+    name: RobinDefend
+    contract_address: "0x052B1ECB08a44475f19A7C398D05a2362d223d36"
+    token_link: https://robinhoodchain.blockscout.com/token/0x052B1ECB08a44475f19A7C398D05a2362d223d36
+links:
+  web: https://robindefend.xyz
+  twitter: https://x.com/robindefend_
+  telegram: https://t.me/robindefendPORTAL
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+  opensource: true
+name: RobinDefend
+have_token: true
+privacy_policy:
+  defined: false
+id: robindefend
