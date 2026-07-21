@@ -1,0 +1,37 @@
+categories:
+  - infrastructure
+usecases:
+  - eth-layer-2
+ecosystem:
+  - other
+description: Hoodium is a decentralized network of hardware nodes forming an
+  impenetrable cryptographic shield around your on-chain assets — built natively
+  for Robinhood Chain.
+product_launch_day: 2026-07-20T17:00:00.000Z
+sunset: false
+tokens:
+  - symbol: Hoodium
+    name: HD
+    contract_address: ""
+    token_link: https://robinhoodchain.blockscout.com
+links:
+  web: https://hoodium.net
+  docs: https://hoodium.net/docs
+  block_explorer: https://robinhoodchain.blockscout.com
+  twitter: https://x.com/hoodiumApp
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ZK-Snarks
+name: Hoodium
+have_token: false
+privacy_policy:
+  defined: false
+id: hoodium
