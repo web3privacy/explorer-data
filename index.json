@@ -4153,6 +4153,41 @@
       ]
     },
     {
+      "id": "legato-money",
+      "categories": [
+        "defi",
+        "infrastructure"
+      ],
+      "usecases": [
+        "wallets",
+        "eth-layer-2",
+        "currency"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "other"
+      ],
+      "description": "Set up a payroll, or claim a salary with a zero-knowledge proof generated in your browser.\n\nA minimal private payroll proof of concept for employers to distribute salaries to employees through a shared asset privacy pool.",
+      "sunset": false,
+      "links": {
+        "web": "https://legato.money/",
+        "github": "https://github.com/Savio-Sou/Legato",
+        "twitter": "https://x.com/savio_sou"
+      },
+      "name": "Legato Money",
+      "have_token": false,
+      "privacy_policy": {
+        "defined": false
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/legato-money/logo.png"
+        }
+      ]
+    },
+    {
       "id": "zephyr-protocol",
       "name": "Zephyr Protocol",
       "categories": [
