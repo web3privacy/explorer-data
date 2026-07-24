@@ -17,7 +17,7 @@ nickname: "ReverseGasModel "
 sunset: false
 links:
   web: Noira.legal
-  twitter: "x.com/noiracontracts"
+  twitter: https://x.com/noiracontracts
 blockchain_features:
   encryption: "Vetkey "
 name: Noira
