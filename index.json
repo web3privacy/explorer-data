@@ -43114,6 +43114,45 @@
       "sunset": false
     },
     {
+      "id": "knoxnet",
+      "project_status": {
+        "version": "testnet",
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true
+      },
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Knoxnet is a dual-domain blockchain enabling private, censorship-resistant value transfer across offline and online environments no continuous connectivity required.\n\nKnoxnet is a layer 1 privacy blockchain that works with or without the internet. It rethinks how blockchains execute, settle, and preserve privacy from the ground up.\n\nA blockchain where connectivity is optional.\nBuilt for private, peer-to-peer payments, resilient infrastructure, and a world that doesn’t always stay online.",
+      "sunset": false,
+      "links": {
+        "web": "https://www.knoxnet.io/",
+        "docs": "https://www.knoxnet.io/Knoxnet%20App%20User%20Guide%20-%20Setup%20%26%20Transfer.pdf",
+        "whitepaper": "https://www.knoxnet.io/KnoxNet_Whitepaper.pdf",
+        "twitter": "https://x.com/KnoxnetOfficial",
+        "telegram": "https://t.me/KnoxnetOfficial"
+      },
+      "name": "KnoxNet",
+      "have_token": false,
+      "privacy_policy": {
+        "defined": false
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/knoxnet/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "fermah",
       "name": "Fermah",
       "categories": [
