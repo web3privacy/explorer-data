@@ -20094,6 +20094,47 @@
       ]
     },
     {
+      "id": "talents",
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Mobile wallet designed for private payments on Aztec.",
+      "sunset": false,
+      "links": {
+        "web": "https://talents.cash/",
+        "github": "https://github.com/Talents-Wallet",
+        "blog": "https://substack.com/@talentswallet",
+        "twitter": "https://x.com/TalentsWallet"
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Savio Sou",
+            "link": "https://x.com/savio_sou"
+          }
+        ]
+      },
+      "name": "Talents",
+      "have_token": false,
+      "privacy_policy": {
+        "defined": false
+      },
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/talents/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "fedimint",
       "name": "Fedimint",
       "categories": [
