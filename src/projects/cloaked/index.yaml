@@ -48,6 +48,7 @@ privacy_policy:
 default_privacy: false
 compliance: ""
 team:
+  anonymous: false
   teammembers:
     - name: Blaine Malone
       link: https://x.com/blainemalone
