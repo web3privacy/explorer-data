@@ -1,3 +1,4 @@
+id: zkop
 categories:
   - infrastructure
 usecases:
@@ -12,4 +13,12 @@ name: zkop
 have_token: false
 privacy_policy:
   defined: false
-id: zkop
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/zkop/logo.jpeg
+links:
+  web: https://zkop.org/
+  whitepaper: https://zkop.gitbook.io/whitepaper
+  telegram: https://t.me/OfficialZkop
+  twitter: https://x.com/officialzkop
