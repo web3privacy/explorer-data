@@ -44394,6 +44394,7 @@
       "default_privacy": false,
       "compliance": "",
       "team": {
+        "anonymous": false,
         "teammembers": [
           {
             "name": "Blaine Malone",
