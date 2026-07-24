@@ -1,0 +1,24 @@
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - other
+description: NozyWallet is a privacy-first Zcash wallet that enforces complete
+  transaction privacy by default. Unlike other Zcash wallets, NozyWallet only
+  supports shielded transactions — making it functionally equivalent to Monero
+  in terms of privacy, but with faster block times and lower fees.
+sunset: false
+links:
+  twitter: https://x.com/Nozywallet
+  web: https://www.leoninedao.org/nozywallet/
+  github: https://github.com/LEONINE-DAO/Nozy-wallet
+  docs: https://leonine-dao.github.io/Nozy-wallet/book/
+assets_used:
+  - zcash
+privacy_policy:
+  defined: false
+  link: https://leonine-dao.github.io/Nozy-wallet/privacy
+name: NozyWallet
+have_token: false
+id: nozywallet
