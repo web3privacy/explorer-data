@@ -32718,6 +32718,70 @@
       "technical_spof": ""
     },
     {
+      "id": "robincog",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "defi"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "Privacy infrastructure for Robinhood Chain using zero-knowledge proofs, stealth transactions, encrypted messaging, and anonymous on-chain identity.",
+      "product_launch_day": "2026-01-27T17:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "other"
+      ],
+      "tokens": [
+        {
+          "symbol": "COGNI",
+          "name": "RobIncog",
+          "contract_address": "0x1f24512D1EaE6a0a11d2a752a5A6Ae8153515897",
+          "token_link": "https://robinhoodchain.blockscout.com/token/0x1f24512D1EaE6a0a11d2a752a5A6Ae8153515897"
+        }
+      ],
+      "links": {
+        "web": "https://robincog.xyz",
+        "github": "https://github.com/RobIncogxyz",
+        "docs": "https://robincog.xyz/docs",
+        "whitepaper": "https://robincog.xyz/whitepaper.pdf",
+        "twitter": "https://x.com/robIncog_",
+        "telegram": "https://t.me/RobIncogPTL"
+      },
+      "project_status": {
+        "version": "mainnet",
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "asset_custody_type": "non-custody",
+        "opensource": true,
+        "upgradability": {
+          "enabled": true
+        },
+        "p2p": true,
+        "encryption": "ZK-Snarks"
+      },
+      "storage": {
+        "decentralized": true
+      },
+      "name": "RobIncog",
+      "have_token": true,
+      "privacy_policy": {
+        "defined": false
+      },
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/robincog/logo.png"
+        }
+      ]
+    },
+    {
       "id": "privy",
       "name": "Privy",
       "categories": [
