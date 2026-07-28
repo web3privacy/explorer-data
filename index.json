@@ -1301,7 +1301,7 @@
           "enabled": false
         },
         "asset_custody_type": "",
-        "encryption": "ZK, "
+        "encryption": "ZK-proof(Zyga)"
       },
       "storage": {},
       "privacy_policy": {
@@ -48775,6 +48775,66 @@
       "technical_spof": "",
       "funding": [],
       "history": []
+    },
+    {
+      "id": "pi-network",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "currency"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Pi Network is a community of tens of millions of humans mining Pi cryptocurrency to use and build the Web3 app ecosystem. This blockchain network relies on its community of Pioneers, and rewards them, through an innovative mobile mining mechanism, for their diverse contributions and digital citizenship in a clear, meritocratic  and decentralized way. \n\nAn accessible developer platform, combined with a large, identity-verified and crypto-enabled social network, positions Pi Network to become a pillar of the next wave of technological revolution.",
+      "product_launch_day": "2019-03-14T04:00:00.000Z",
+      "sunset": false,
+      "links": {
+        "web": "https://minepi.com/",
+        "block_explorer": "https://blockexplorer.minepi.com/",
+        "whitepaper": "https://minepi.com/white-paper/",
+        "twitter": "https://x.com/PiCoreTeam",
+        "blog": "https://minepi.com/blog/",
+        "telegram": "https://t.me/PiAnnouncements",
+        "docs": "https://minepi.com/support/"
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "https://socialchain.app/privacy"
+      },
+      "project_status": {
+        "version": "mainnet",
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "encryption": "BN254, Poseidon Hashing"
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Nicolas Kokkalis",
+            "link": "https://minepi.com/about/dr_nicolas_kokkalis/"
+          },
+          {
+            "name": "Chengdiao Fan",
+            "link": "https://minepi.com/about/dr_chengdiao_fan/"
+          }
+        ]
+      },
+      "name": "Pi Network",
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/pi-network/logo.jpeg"
+        }
+      ]
     },
     {
       "id": "discreet",
