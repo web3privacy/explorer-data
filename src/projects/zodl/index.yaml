@@ -1,5 +1,5 @@
-id: zashi
-name: Zashi
+id: zodl
+name: Zodl
 categories:
   - applications
 usecases:
@@ -11,8 +11,8 @@ description: >-
   privacy-obsessed Electric Coin Company, developers of the Zcash protocol. 
 
 
-  Zashi is a self-custody, shielded wallet that gives you a way to send,
-  receive, & spend $ZEC. 
+  Zodl is a self-custody, shielded wallet that gives you a way to send, receive,
+  & spend $ZEC. 
 
 
   Integrations: Buy with Coinbase Onramp, Spend with Flexa, & Cold Storage with
@@ -32,16 +32,16 @@ tokens:
     contract_address: ""
     token_link: https://mainnet.zcashexplorer.app
 links:
-  web: https://electriccoin.co/zashi/
-  blog: https://electriccoin.co/blog/
-  github: https://github.com/Electric-Coin-Company
+  web: https://zodl.com/
+  blog: https://zodl.com/blog/
+  github: https://github.com/zodl-inc
   forum: https://forum.zcashcommunity.com/c/zcash-apps/zashi/51
   docs: ""
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: https://x.com/zashi_app
-  discord: https://discord.gg/Huzg9C7EHP
+  twitter: https://x.com/zodl_app
+  discord: https://discord.gg/NcDnF2sPjY
   telegram: ""
   lens: ""
   farcaster: ""
@@ -61,7 +61,7 @@ blockchain_features:
 storage: {}
 privacy_policy:
   defined: true
-  link: https://electriccoin.co/zashi-privacy-policy/
+  link: https://zodl.com/privacy-policy/
   data_usage: "ECC does not sell, rent, or monetize user data in any way. "
 compliance: ""
 tracebility:
@@ -76,7 +76,12 @@ technical_spof: ""
 team:
   anonymous: false
   teammembers:
-    - name: "Electric Coin Company "
-      link: https://x.com/electriccoinco
+    - name: Zodl Co.
+      link: https://x.com/zodl_co
 funding: []
-history: []
+history:
+  - title: Zashi is Becoming Zodl
+    description: The upcoming app update will rebrand Zashi to Zodl, without
+      impacting the user experience.
+    link: https://zodl.com/zashi-is-becoming-zodl/
+    time: 2026-02-16T00:00:00.000Z
