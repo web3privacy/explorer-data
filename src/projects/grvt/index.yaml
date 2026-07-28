@@ -1,0 +1,31 @@
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - other
+description: >-
+  GRVT is a regulated self-custodial DEX, with funds held on blockchain-secured
+  smart contracts, giving users complete control. We are powered by Matter Labs'
+  Elastic Chain.
+
+
+  GRVT is building on ZKsync for the benefits of scalability, low latency, high
+  throughput and zero gas trading. In this way, we are able to ensure cheaper
+  and faster transactions for users. We also leverage ZKsync's Validium
+  technology to offer trading privacy, guaranteeing that your trade details
+  remain confidential.
+sunset: false
+links:
+  web: https://app.grvtdex.net/
+  discord: https://discord.gg/3jsVPwaGeB
+  twitter: https://x.com/grvt_io/
+  telegram: https://t.me/grvt_io
+  blog: https://grvt.io/blog/
+  docs: https://help.grvt.io/en/
+  github: https://github.com/gravity-technologies/
+name: GRVT
+have_token: false
+privacy_policy:
+  defined: false
+id: grvt
