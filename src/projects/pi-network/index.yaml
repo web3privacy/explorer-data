@@ -37,6 +37,7 @@ project_status:
 blockchain_features:
   encryption: BN254, Poseidon Hashing
 team:
+  anonymous: false
   teammembers:
     - name: Nicolas Kokkalis
       link: https://minepi.com/about/dr_nicolas_kokkalis/
