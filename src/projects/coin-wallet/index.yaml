@@ -1,0 +1,50 @@
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - bitcoin
+  - monero
+  - solana
+  - ethereum
+  - multichain
+description: Coin Wallet is an open-source self-custodial multicurrency wallet
+  founded in 2015 (started as Bitcoin web-only). Later expanded to iOS, Android,
+  Windows, macOS and Linux. Supports 23 blockchains including Bitcoin, Monero
+  (since 2021), Litecoin, Ethereum, XRP, Solana and Cardano. Full Tor support
+  since 2024 (dedicated .onion site and in-app Tor routing). Optional 2FA with a
+  FIDO-certified hardware security key.
+product_launch_day: 2015-04-30T20:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdt
+  - sol
+  - xmr
+links:
+  web: https://coin.space/
+  github: https://github.com/CoinSpace/CoinSpace
+  blog: https://coin.space/blog/
+  twitter: https://x.com/CoinAppWallet
+  docs: https://support.coin.space/
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+  opensource: true
+  upgradability:
+    enabled: false
+privacy_policy:
+  defined: false
+  link: https://coin.space/privacy-policy/
+tracebility:
+  kyc: false
+team:
+  teammembers: []
+name: Coin Wallet
+have_token: false
+id: coin-wallet
