@@ -31866,6 +31866,60 @@
       ]
     },
     {
+      "id": "xmr-win",
+      "categories": [
+        "defi",
+        "applications"
+      ],
+      "usecases": [
+        "events",
+        "other"
+      ],
+      "ecosystem": [
+        "monero"
+      ],
+      "description": "The most private prediction market. Trade outcomes on world events with Monero. Zero KYC. Full privacy. Real payouts.\n\nA prediction market that runs on Monero. You buy and sell shares on real-world events (politics, crypto, sports, culture, whatever) priced in XMR. No KYC, no email, no personal data. We don't take a side on any market; the only money we make is from trading fees.",
+      "sunset": false,
+      "assets_used": [
+        "xmr"
+      ],
+      "links": {
+        "web": "https://xmr.win",
+        "twitter": "https://x.com/XMRBAR"
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "https://xmr.win/privacy"
+      },
+      "project_status": {
+        "version": "mainnet",
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "asset_custody_type": "custodial"
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "XMR BAR team",
+            "link": "https://goyimx.com/XMRBAR"
+          }
+        ]
+      },
+      "name": "XMR WIN",
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/xmr-win/logo.png"
+        }
+      ]
+    },
+    {
       "id": "self-protocol",
       "name": "Self Protocol",
       "categories": [
