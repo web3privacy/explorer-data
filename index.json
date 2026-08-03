@@ -32513,6 +32513,45 @@
       ]
     },
     {
+      "id": "vizor",
+      "links": {
+        "github": "https://github.com/chainapsis/vizor-wallet",
+        "web": "https://vizor.cash/",
+        "twitter": "https://x.com/vizorwallet"
+      },
+      "categories": [
+        "applications"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "Vizor is a self-custody Zcash wallet for shielded ZEC, with a polished desktop experience built around clarity, privacy, and ease of use. It is for users who want to create, receive, shield, and send ZEC without giving a hosted wallet service control over their funds.",
+      "sunset": false,
+      "assets_used": [
+        "zcash"
+      ],
+      "blockchain_features": {
+        "asset_custody_type": "non-custody",
+        "opensource": true
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "https://vizor.cash/privacy-policy.html"
+      },
+      "name": "Vizor",
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/vizor/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "eigenwallet",
       "name": "eigenwallet",
       "categories": [
