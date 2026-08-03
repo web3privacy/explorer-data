@@ -1,0 +1,42 @@
+categories:
+  - infrastructure
+usecases:
+  - node
+ecosystem:
+  - other
+description: >-
+  Zakura is a consensus-compatible Zcash full node written in Rust, built for
+  scale. Supporting payments at global scale requires on the order of 50k TPS,
+  which translates to consensus processing at least 100 MB/s of block data. 
+
+
+  Zakura is developed by veteran protocol engineers from the Zcash, Cosmos, and
+  Celestia ecosystems, as a collaboration between Valar Group and Project
+  Tachyon.
+sunset: false
+assets_used:
+  - zcash
+links:
+  web: https://zakura.com/
+  github: https://github.com/zakura-core/zakura
+  blog: https://zakura.com/announcements/
+  twitter: https://x.com/ZakuraZcash
+blockchain_features:
+  opensource: true
+team:
+  teammembers:
+    - name: Sean Bowe
+      link: https://seanbowe.com/
+    - name: Dev Ojha
+      link: https://github.com/ValarDragon
+    - name: Roman Akhtariev
+      link: https://github.com/p0mvn
+    - name: Evan Forbes
+      link: https://github.com/evan-forbes
+    - name: Adam Tucker
+      link: https://github.com/czarcas7ic
+name: Zakura
+have_token: false
+privacy_policy:
+  defined: false
+id: zakura
