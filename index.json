@@ -46957,6 +46957,56 @@
       ]
     },
     {
+      "id": "cipherscan",
+      "categories": [
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "research-and-development",
+        "other"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "CipherScan is a privacy-first Zcash blockchain explorer. Not just a block browser — a tool for understanding, analyzing, and visualizing what privacy means on-chain. Making the invisible visible without compromising individuals.",
+      "sunset": false,
+      "assets_used": [
+        "zcash"
+      ],
+      "links": {
+        "web": "https://cipherscan.app/",
+        "docs": "https://cipherscan.app/docs",
+        "block_explorer": "https://cipherscan.app/",
+        "twitter": "https://x.com/cipherscan_app",
+        "github": "https://github.com/Kenbak/cipherscan",
+        "blog": "https://cipherscan.app/newsletter"
+      },
+      "project_status": {
+        "version": "mainnet",
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "https://cipherscan.app/privacy-policy"
+      },
+      "name": "CipherScan",
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.jpeg",
+          "ext": "jpeg",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/cipherscan/logo.jpeg"
+        }
+      ]
+    },
+    {
       "id": "taurus---private-security-token",
       "name": "Taurus - Private Security Token",
       "categories": [
