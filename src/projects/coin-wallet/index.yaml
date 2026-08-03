@@ -44,6 +44,7 @@ privacy_policy:
 tracebility:
   kyc: false
 team:
+  anonymous: true
   teammembers: []
 name: Coin Wallet
 have_token: false
