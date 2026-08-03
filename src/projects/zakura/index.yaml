@@ -24,6 +24,7 @@ links:
 blockchain_features:
   opensource: true
 team:
+  anonymous: false
   teammembers:
     - name: Sean Bowe
       link: https://seanbowe.com/
