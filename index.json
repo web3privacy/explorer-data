@@ -55285,9 +55285,13 @@
         "wallets"
       ],
       "ecosystem": [
-        "multichain"
+        "multichain",
+        "bitcoin",
+        "ethereum",
+        "monero",
+        "other"
       ],
-      "description": "Unstoppable is the first multi-coin wallet that supports Bitcoin, Ethereum, and fully shielded Zcash",
+      "description": "Unstoppable is the first multi-coin wallet that supports Bitcoin, Ethereum, Monero and fully shielded Zcash.",
       "product_launch_day": "2019-07-04T18:00:00.000Z",
       "sunset": false,
       "assets_used": [
