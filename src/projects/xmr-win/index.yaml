@@ -32,6 +32,7 @@ project_status:
 blockchain_features:
   asset_custody_type: custodial
 team:
+  anonymous: false
   teammembers:
     - name: XMR BAR team
       link: https://goyimx.com/XMRBAR
