@@ -47787,6 +47787,93 @@
       "sunset": false
     },
     {
+      "id": "raven",
+      "name": "Raven by Hisoka",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure",
+        "research-and-development"
+      ],
+      "ecosystem": [
+        "ethereum"
+      ],
+      "description": "A PIR framework for private blockchain state retrieval",
+      "product_launch_day": "2026-06-07",
+      "sunset": false,
+      "assets_used": [
+        "none"
+      ],
+      "links": {
+        "web": "https://hisoka.io",
+        "blog": "https://hisoka.io/blog/introducing-raven/",
+        "github": "https://github.com/hisoka-io/raven",
+        "block_explorer": "https://demo.railgun.hisoka.io",
+        "docs": "https://docs.hisoka.io/docs",
+        "twitter": "https://x.com/hisoka_io"
+      },
+      "project_status": {
+        "version": "mainnet",
+        "live_status": true,
+        "mainnet": true
+      },
+      "project_phase": "mainnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Private Information Retrieval (PIR)"
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://hisoka.io/privacy",
+        "data_usage": "No data collected"
+      },
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None"
+      },
+      "default_privacy": true,
+      "have_token": false,
+      "social_trust": "All queries encrypted — the server never learns what you read",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Jayendra",
+            "link": "https://x.com/0xkingpanther"
+          },
+          {
+            "name": "Reze",
+            "link": "https://github.com/0xReze"
+          },
+          {
+            "name": "Jay Proof",
+            "link": "https://x.com/0xddos"
+          }
+        ]
+      },
+      "history": [
+        {
+          "title": "Raven announcement",
+          "event_type": "Announcement",
+          "time": "2026-06-07",
+          "description": "Hisoka announced Raven, a PIR framework for private blockchain state retrieval",
+          "link": "https://x.com/hisoka_io/status/2063546951514423754"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/raven/logo.png"
+        }
+      ]
+    },
+    {
       "id": "pracc",
       "name": "PRACC",
       "categories": [
@@ -48390,6 +48477,93 @@
           "file": "logo.jpeg",
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/bethel/logo.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nox",
+      "name": "Nox by Hisoka",
+      "categories": [
+        "infrastructure"
+      ],
+      "usecases": [
+        "infrastructure"
+      ],
+      "ecosystem": [
+        "multichain",
+        "ethereum"
+      ],
+      "description": "Mixnet for Ethereum that hides your IP, defends against timing attacks, and lets you send transactions anonymously.",
+      "sunset": false,
+      "assets_used": [
+        "none"
+      ],
+      "links": {
+        "web": "https://hisoka.io/nox",
+        "github": "https://github.com/hisoka-io/nox",
+        "block_explorer": "https://map.hisoka.io",
+        "docs": "https://docs.hisoka.io/docs",
+        "twitter": "https://x.com/hisoka_io"
+      },
+      "project_status": {
+        "version": "testnet",
+        "live_status": true,
+        "mainnet": false,
+        "testnet": true
+      },
+      "project_phase": "testnet",
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": "Mixnets, Sphinx, SURB, FEC",
+        "p2p": true
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://hisoka.io/privacy",
+        "data_usage": "No data collected"
+      },
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "None"
+      },
+      "default_privacy": true,
+      "have_token": false,
+      "social_trust": "There is no centralized custody for the Nox mixnet.",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Jayendra",
+            "link": "https://x.com/0xkingpanther"
+          },
+          {
+            "name": "Reze",
+            "link": "https://github.com/0xReze"
+          },
+          {
+            "name": "Jay Proof",
+            "link": "https://x.com/0xddos"
+          }
+        ]
+      },
+      "history": [
+        {
+          "title": "Nox announcement",
+          "event_type": "Announcement",
+          "description": "Hisoka announced the Nox mixnet testnet with a live network map",
+          "link": "https://x.com/hisoka_io/status/2044315522314240467"
+        }
+      ],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/nox/logo.png"
         }
       ]
     },
