@@ -1,53 +1,54 @@
 id: beldex
 name: Beldex
 categories:
-  - defi
-description: >-
-  A privacy currency based on Monero, Beldex currently offers incentive-based 
-  Master Nodes and runs on the POS consensus. It supports a suite of decentralized,
-  privacy-first applications like BChat messenger, BelNet dVPN, Beldex Browser and 
-  the Beldex Name Service
+  - social-and-communications
+  - infrastructure
+  - applications
+description: A privacy currency based on Monero, Beldex currently offers
+  incentive-based  Master Nodes and runs on the POS consensus. It supports a
+  suite of decentralized, privacy-first applications like BChat messenger,
+  BelNet dVPN, Beldex Browser and  the Beldex Name Service
 ecosystem:
   - other
 project_status:
-  live_status: true
-  verion: Mainnet 
-  testnet: true
-  mainnet: true
+  live_status: false
+  verion: Mainnet
+  testnet: false
+  mainnet: false
 links:
-  web: 'https://www.beldex.io/'
-  github: 'https://github.com/Beldex-Coin'
-  docs: 'https://docs.beldex.io/'
-  blog: 'https://beldex.io/blog/'
-  twitter: 'https://x.com/BeldexCoin'
-  discord: 'https://discord.com/invite/Hj4MAmA5gs'
-  facebook: 'https://www.facebook.com/beldexofficial'
-  telegram: 'https://t.me/official_beldex'
-  whitepaper: 'https://beldex.io/whitepaper.pdf'
-  block_explorer: 'https://explorer.beldex.io'
+  web: https://www.beldex.io/
+  github: https://github.com/Beldex-Coin
+  docs: https://docs.beldex.io/
+  blog: https://beldex.io/blog/
+  twitter: https://x.com/BeldexCoin
+  discord: https://discord.com/invite/Hj4MAmA5gs
+  facebook: https://www.facebook.com/beldexofficial
+  telegram: https://t.me/official_beldex
+  whitepaper: https://beldex.io/whitepaper.pdf
+  block_explorer: https://explorer.beldex.io
 team:
   anonymous: false
   teammembers:
     - name: Afanddy
-      link: 'https://x.com/AHushni'
+      link: https://x.com/AHushni
     - name: Codeman Crypto
-      link: 'https://github.com/codeman-crypto'
+      link: https://github.com/codeman-crypto
     - name: Sanada Yukimura
-      link: 'https://github.com/sanada08/'
+      link: https://github.com/sanada08/
     - name: Victor
-      link: 'https://github.com/victor-tucci'
+      link: https://github.com/victor-tucci
     - name: Jeflin
-      link: 'https://github.com/jeflinfrank'
+      link: https://github.com/jeflinfrank
     - name: Deen Kakarot
-      link: 'https://github.com/deen-kakarot' 
+      link: https://github.com/deen-kakarot
     - name: Toretto
-      link: 'https://github.com/Tore-tto'
+      link: https://github.com/Tore-tto
     - name: Peter
-      link: 'https://github.com/peter-pratt'
+      link: https://github.com/peter-pratt
     - name: ABdevil
-      link: 'https://github.com/abdevil05'
+      link: https://github.com/abdevil05
     - name: TechGoku
-      link: 'https://github.com/TechGoku'
+      link: https://github.com/TechGoku
 usecases:
   - currency
   - defi
@@ -63,7 +64,7 @@ third_party_dependency: none
 logos:
   - file: logo.png
     ext: png
-    url: 'https://explorer-data.web3privacy.info/assets/projects/beldex/logo.png'
+    url: https://explorer-data.web3privacy.info/assets/projects/beldex/logo.png
 product_launch_day: 2019-01-31T23:00:00.000Z
 tokens:
   - symbol: BDX
@@ -88,7 +89,7 @@ tokens:
     token_link: https://basescan.org/token/0x6ad12e761b438bea3ea09f6c6266556bb24c2181
   - symbol: BDX
     name: Beldex
-    contract_address: "CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d"
+    contract_address: CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d
     token_link: https://solscan.io/token/CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d
 project_phase: mainnet
 blockchain_features:
@@ -100,7 +101,7 @@ storage:
   decentralized: false
 privacy_policy:
   defined: true
-  link: 'https://www.beldex.io/privacy-policy'
+  link: https://www.beldex.io/privacy-policy
   data_usage: none
 default_privacy: true
 audits:
@@ -110,4 +111,5 @@ audits:
 funding:
   - name: Dwf labs
     link: https://www.dwf-labs.com/ecosystem
-  
+nickname: BDX
+sunset: false
