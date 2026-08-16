@@ -1,0 +1,52 @@
+id: arx
+name: ARX
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+  - monero
+  - multichain
+description: Open-source Windows self-custody wallet with a minimal Simple mode and opt-in Privacy mode integrating RAILGUN 0zk assets, Monero, and shielded Zcash.
+product_launch_day: "2026-08-15"
+links:
+  web: https://github.com/SeverianRoth/ARX
+  github: https://github.com/SeverianRoth/ARX
+  docs: https://github.com/SeverianRoth/ARX#readme
+  changelog: https://github.com/SeverianRoth/ARX/releases
+  twitter: https://x.com/UseARX
+project_status:
+  live_status: true
+  version: v0.1.61
+  testnet: false
+  mainnet: true
+project_phase: beta
+team:
+  anonymous: false
+  teammembers:
+    - name: SeverianRoth
+      role: developer
+      link: https://github.com/SeverianRoth
+have_token: false
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdt
+  - dai
+  - xmr
+  - zcash
+  - other
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  encryption: RAILGUN 0zk, Monero, and shielded Zcash
+privacy_policy:
+  defined: false
+tracebility:
+  kyc: false
+  sign_in_type_requirments:
+    - seed
+default_privacy: false
+licences: ARX Standard Source License
