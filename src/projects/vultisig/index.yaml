@@ -1,0 +1,78 @@
+id: vultisig
+name: Vultisig
+categories:
+  - applications
+usecases:
+  - wallets
+  - mpc
+ecosystem:
+  - multichain
+description: Seedless, fully self-custodial multi-chain wallet secured by MPC threshold signatures (DKLS23) — no seed phrase, no single point of failure. Open source, with no account, e-mail or KYC required to use it. 30+ chains on iOS, Android, desktop and browser extension.
+links:
+  web: https://vultisig.com
+  github: https://github.com/vultisig
+  docs: https://docs.vultisig.com
+  whitepaper: https://docs.vultisig.com/help-and-legal/micar-white-paper
+  twitter: https://x.com/vultisig
+  discord: https://discord.gg/thq64eaYVN
+  telegram: https://t.me/vultisig
+  education: https://www.youtube.com/@Vultisig
+team:
+  anonymous: false
+  company:
+    link: https://vultisig.com
+project_status:
+  live_status: true
+  testnet: false
+  mainnet: true
+have_token: true
+tokens:
+  - name: Vultisig
+    symbol: VULT
+    network: Ethereum
+    contract_address: "0xb788144DF611029C60b859DF47e79B7726C4DEBa"
+    link: https://etherscan.io/token/0xb788144DF611029C60b859DF47e79B7726C4DEBa
+assets_used:
+  - btc
+  - eth
+  - usdc
+  - usdt
+  - dai
+  - atom
+  - dot
+  - sol
+  - zcash
+  - other
+technology:
+  type: MPC threshold signatures (DKLS23)
+  features:
+    - Seedless multi-device key shares
+    - Threshold signing (m-of-n)
+    - Local-network or relay device pairing
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  p2p: true
+  connected_tx: true
+  dissapearing_tx: false
+licences: Apache-2.0 (iOS, Android, desktop, extension); MIT (SDK)
+privacy_policy:
+  defined: true
+  link: https://vultisig.com/privacy
+  data_usage: No personal data collected in the apps; website analytics only (anonymised IP, device/browser, referral, aggregate demographics)
+tracebility:
+  kyc: false
+  tracked_data: Website analytics only; vault data (public keys, addresses, settings) stays on the device and is never sent to Vultisig
+  sign_in_type_requirments:
+    - none
+default_privacy: false
+audits:
+  - name: Trail of Bits - DKLS23 threshold signature library (Silence Laboratories)
+    url: https://github.com/silence-laboratories/dkls23/blob/main/docs/ToB-SilenceLaboratories_2024.04.10.pdf
+    time: "2024-04-10"
+third_party_dependency: Public RPC and price APIs; Vultisig relay server for remote device pairing (open source, local-network mediator available); third-party swap providers (THORChain, Maya, 1inch, LI.FI, KyberSwap, SwapKit, CowSwap, Jupiter)
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/vultisig/logo.png
+sunset: false
