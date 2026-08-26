@@ -11139,7 +11139,6 @@
       "sunset": false,
       "assets_used": [
         "eth",
-        "wbtc",
         "usdc",
         "usdt",
         "other"
@@ -54398,7 +54397,8 @@
           "ext": "jpeg",
           "url": "https://explorer-data.web3privacy.info/assets/projects/cipherscan/logo.jpeg"
         }
-      ]
+      ],
+      "default_privacy": false
     },
     {
       "id": "hypermine",
