@@ -25,8 +25,7 @@ description: The Interfold is a distributed network for confidential
 product_launch_day: 2024-06-06T00:00:00.000Z
 sunset: false
 assets_used:
-  - FOLD
-  - USDS
+  - other
 have_token: true
 tokens:
   - symbol: FOLD
@@ -55,7 +54,7 @@ project_status:
 blockchain_features:
   opensource: true
   upgradability:
-    enabled: false
+    enabled: true
   asset_custody_type: non-custody
   encryption: FHE, MPC, ZKP, threshold cryptography
   p2p: true
@@ -64,18 +63,28 @@ storage:
 privacy_policy:
   defined: false
   link: ""
-  data_usage: ""
-compliance: GDPR, HIPAA, CCPA, non-custodial by design
+  data_usage: Protocol operation and verification of onchain activity
+compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: Public blockchain activity, including wallet addresses and transactions
   sign_in_type_requirments: []
 default_privacy: true
-audits: []
-third_party_dependency: ""
-social_trust: Enclave DAO Treasury and Enclave Foundation (future entities).
-technical_spof: Enclave is designed to eliminate single points of failure by
-  leveraging decentralized cryptographic systems and distributed infrastructure.
+audits:
+  - name: FOLD Token Audit — Zenith
+    url: https://github.com/theinterfold/interfold/blob/main/packages/interfold-contracts/audits/20260702_audit_token_zenith.pdf
+    time: 2026-07-02T05:00:00.000Z
+  - name: Interfold Protocol Contracts Audit — Zenith
+    url: https://github.com/theinterfold/interfold/blob/main/packages/interfold-contracts/audits/20260714-Interfold%20-%20Zenith%20Audit%20Report.pdf
+    time: 2026-08-17T05:00:00.000Z
+third_party_dependency: Ethereum for blockchain coordination; external compute
+  providers may be used for verifiable computation.
+social_trust: Protocol governance and upgrades; applications may introduce
+  additional trust assumptions.
+technical_spof: No single ciphernode controls decryption or execution outcomes.
+  Threshold committees distribute these duties across multiple operators;
+  external infrastructure such as Ethereum and selected compute providers can
+  still affect availability.
 team:
   anonymous: false
   teammembers:
