@@ -1,0 +1,91 @@
+id: leodex
+name: LeoDex
+categories:
+  - applications
+  - defi
+description: A crosschain swap aggregator with no account and no KYC. Streams live
+  quotes from THORChain, Maya Protocol, Chainflip, NEAR Intents, Relay and 1inch and
+  routes each swap to the best one. On supported routes no wallet connection is
+  needed at all - the swap runs from a one-time deposit address, so funds can be
+  sent from any wallet, exchange or cold storage. Supports shielded Zcash unified
+  addresses as a swap destination.
+team:
+  anonymous: false
+  teammembers:
+    - name: Khal
+      link: https://x.com/khalkaz
+    - name: LEO Team
+      link: https://x.com/leodexio
+links:
+  web: https://leodex.io
+  blog: ""
+  github: https://github.com/steemleo
+  forum: ""
+  docs: https://docs.leokit.dev
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/leodexio
+  discord: https://discord.gg/Bf9tHQqsvA
+  telegram: ""
+  lens: ""
+  farcaster: ""
+usecases:
+  - defi
+  - bridge
+have_token: false
+third_party_dependency: swap protocols used for routing
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/leodex/logo.png
+ecosystem:
+  - bitcoin
+  - ethereum
+  - monero
+  - solana
+  - cosmos
+  - multichain
+  - other
+sunset: false
+assets_used:
+  - btc
+  - eth
+  - usdc
+  - usdt
+  - zcash
+  - xmr
+  - sol
+  - atom
+  - other
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://leodex.io/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: "No account and no KYC. Swaps can be made without connecting a
+    wallet by sending to a one-time deposit address. An optional incognito mode
+    suppresses analytics and event tracking before the app starts."
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
