@@ -25,6 +25,7 @@ privacy_policy:
   defined: false
   link: https://vp.net/l/en-US/privacy
 team:
+  anonymous: false
   teammembers:
     - name: A N D R E W  L E E
       link: https://vp.net/l/en-US/about
