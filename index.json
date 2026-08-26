@@ -10423,6 +10423,54 @@
       ]
     },
     {
+      "id": "papervault",
+      "name": "PaperVault",
+      "categories": [
+        "applications"
+      ],
+      "description": "Offline paper backups for seed phrases and secrets — AES-256-GCM encrypted, key split into printable QR shares via Shamir Secret Sharing, fully client-side",
+      "ecosystem": [
+        "other"
+      ],
+      "usecases": [
+        "wallets"
+      ],
+      "product_launch_day": "2026-03-22",
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Boaz Bechar",
+            "link": "https://github.com/boazeb"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://papervault.xyz",
+        "github": "https://github.com/boazeb/papervault",
+        "twitter": "https://twitter.com/papervault_xyz"
+      },
+      "project_status": {
+        "live_status": true,
+        "version": "v1.3.0",
+        "testnet": false,
+        "mainnet": false
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "asset_custody_type": "non-custody"
+      },
+      "have_token": false,
+      "third_party_dependency": "none",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/papervault/logo.png"
+        }
+      ]
+    },
+    {
       "id": "evolution",
       "name": "Evolution",
       "categories": [
