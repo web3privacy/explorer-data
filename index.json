@@ -52196,6 +52196,71 @@
       "technical_spof": ""
     },
     {
+      "id": "vp.net",
+      "categories": [
+        "social-and-communications",
+        "infrastructure",
+        "applications"
+      ],
+      "usecases": [
+        "vpn"
+      ],
+      "ecosystem": [
+        "other"
+      ],
+      "description": "The only VPN that can't spy on you",
+      "sunset": false,
+      "links": {
+        "web": "https://vp.net",
+        "github": "https://github.com/vpdotnet",
+        "blog": "https://vp.net/l/en-US/blog",
+        "whitepaper": "https://vp.net/l/en-US/freedom",
+        "twitter": "https://x.com/vpnet_official",
+        "telegram": "https://t.me/vpdotnet",
+        "discord": "https://discord.gg/VpYVmMcyYe"
+      },
+      "project_status": {
+        "version": "mainnet",
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "https://vp.net/l/en-US/privacy"
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "A N D R E W  L E E",
+            "link": "https://vp.net/l/en-US/about"
+          },
+          {
+            "name": "M A T T  K I M",
+            "link": "https://vp.net/l/en-US/about"
+          },
+          {
+            "name": "M A R K  K A R P E L È S",
+            "link": "https://vp.net/l/en-US/about"
+          },
+          {
+            "name": "R O G E R  V E R",
+            "link": "https://vp.net/l/en-US/about"
+          }
+        ]
+      },
+      "name": "vp.net",
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/vp.net/logo.png"
+        }
+      ]
+    },
+    {
       "id": "logos-p2p-messaging",
       "categories": [
         "social-and-communications",
