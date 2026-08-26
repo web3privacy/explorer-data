@@ -19415,8 +19415,7 @@
       "product_launch_day": "2024-06-06T00:00:00.000Z",
       "sunset": false,
       "assets_used": [
-        "FOLD",
-        "USDS"
+        "other"
       ],
       "have_token": true,
       "tokens": [
