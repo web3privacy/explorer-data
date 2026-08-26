@@ -48056,6 +48056,77 @@
       "tokens": []
     },
     {
+      "id": "signito",
+      "categories": [
+        "infrastructure",
+        "applications",
+        "defi"
+      ],
+      "usecases": [
+        "infrastructure",
+        "dapps",
+        "defi"
+      ],
+      "ecosystem": [
+        "ethereum",
+        "solana",
+        "other"
+      ],
+      "description": "Signito is a non-custodial transaction privacy protocol using zero-knowledge proofs, one-time signature (OTS) authorization, PBKDF2 key derivation, and offline Ed25519 signing to provide privacy without giving up control of assets or private keys.\n\nIts core features include shielded asset vaults, private transfers using Groth16 zk-SNARKs, nullifier-based double-spend protection, relayed execution that prevents the recipient wallet from being directly linked to the sender, and offline voucher signing where key material never touches a network-connected device.\n\nUsers choose Signito when they want to transact on public blockchains without exposing their full financial activity or creating unnecessary links between wallets. Signito remains non-custodial: secrets are generated locally, users retain control of their assets, and privacy is enforced through cryptography rather than trust in a centralized operator.",
+      "product_launch_day": "2026-04-30T17:00:00.000Z",
+      "sunset": true,
+      "assets_used": [
+        "eth",
+        "sol",
+        "other"
+      ],
+      "links": {
+        "web": "https://signito.org/",
+        "github": "https://github.com/signitoprivacy",
+        "docs": "https://signito.org/docs/",
+        "twitter": "https://x.com/signitoprivacy"
+      },
+      "project_status": {
+        "version": "mainnet",
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false
+      },
+      "blockchain_features": {
+        "asset_custody_type": "non-custody",
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "encryption": "PBKDF2-derived cryptographic keys, Ed25519 signatures, Groth16 zero-knowledge proofs"
+      },
+      "privacy_policy": {
+        "defined": false,
+        "link": "https://signito.org/docs/faq",
+        "data_usage": "Protocol operation and transaction processing only; no advertising or user profiling."
+      },
+      "compliance": "No built-in KYC/AML; permissionless and non-custodial.",
+      "tracebility": {
+        "kyc": false,
+        "sign_in_type_requirments": [
+          "wallet"
+        ],
+        "tracked_data": "On-chain activity and protocol metadata only; no private keys or vault codes."
+      },
+      "team": {
+        "anonymous": true
+      },
+      "name": "Signito",
+      "have_token": false,
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/signito/logo.png"
+        }
+      ]
+    },
+    {
       "id": "zeal",
       "name": "Zeal",
       "categories": [
