@@ -1,0 +1,116 @@
+id: the-interfold
+name: The Interfold
+categories:
+  - infrastructure
+  - applications
+  - defi
+usecases:
+  - fhe
+  - data-management
+  - tee
+  - mpc
+  - research-and-development
+  - defi
+  - infrastructure
+  - dapps
+  - node
+ecosystem:
+  - ethereum
+description: The Interfold is a distributed network for confidential
+  coordination. It enables independent parties to produce shared, verifiable
+  outcomes from private inputs without exposing underlying data or relying on
+  trusted hardware. Its Encrypted Execution Environments (E3s) support
+  applications such as secret ballots, sealed-bid auctions, and confidential
+  multiparty analysis.
+product_launch_day: 2024-06-06T00:00:00.000Z
+sunset: false
+assets_used:
+  - other
+have_token: true
+tokens:
+  - symbol: FOLD
+    name: The Interfold
+    contract_address: "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904"
+    token_link: https://etherscan.io/token/0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904#balances
+links:
+  web: https://www.theinterfold.com/
+  blog: https://blog.theinterfold.com
+  github: https://github.com/theinterfold/interfold/
+  forum: ""
+  docs: https://docs.theinterfold.com
+  whitepaper: https://docs.theinterfold.com/whitepaper
+  block_explorer: https://etherscan.io/token/0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904
+  governance: https://governance.theinterfold.com/
+  twitter: https://x.com/theinterfold
+  discord: https://discord.com/invite/2GC7M8UEHC
+  telegram: https://t.me/enclave_e3
+  lens: ""
+  farcaster: https://warpcast.com/theinterfold
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: FHE, MPC, ZKP, threshold cryptography
+  p2p: true
+storage:
+  decentralized: false
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: Protocol operation and verification of onchain activity
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Public blockchain activity, including wallet addresses and transactions
+  sign_in_type_requirments: []
+default_privacy: true
+audits:
+  - name: FOLD Token Audit — Zenith
+    url: https://github.com/theinterfold/interfold/blob/main/packages/interfold-contracts/audits/20260702_audit_token_zenith.pdf
+    time: 2026-07-02T05:00:00.000Z
+  - name: Interfold Protocol Contracts Audit — Zenith
+    url: https://github.com/theinterfold/interfold/blob/main/packages/interfold-contracts/audits/20260714-Interfold%20-%20Zenith%20Audit%20Report.pdf
+    time: 2026-08-17T05:00:00.000Z
+third_party_dependency: Ethereum for blockchain coordination; external compute
+  providers may be used for verifiable computation.
+social_trust: Protocol governance and upgrades; applications may introduce
+  additional trust assumptions.
+technical_spof: No single ciphernode controls decryption or execution outcomes.
+  Threshold committees distribute these duties across multiple operators;
+  external infrastructure such as Ethereum and selected compute providers can
+  still affect availability.
+team:
+  anonymous: false
+  teammembers:
+    - name: Gnosis Guild
+      link: https://x.com/GnosisGuild
+    - name: Auryn Macmillan
+      link: https://x.com/auryn_macmillan
+    - name: Alex Espina
+      link: https://x.com/espinaxyz
+funding:
+  - name: Legion
+    link: https://x.com/legiondotcc/status/1879526685944512728
+history:
+  - title: ""
+    description: ""
+    link: ""
+    time: ""
+  - title: ""
+    description: ""
+    link: ""
+    time: ""
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/enclave/logo.jpeg
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/enclave/logo.png
+project_phase: testnet

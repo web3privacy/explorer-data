@@ -1,3 +1,4 @@
+id: cipherscan
 categories:
   - infrastructure
   - applications
@@ -33,4 +34,8 @@ privacy_policy:
   link: https://cipherscan.app/privacy-policy
 name: CipherScan
 have_token: false
-id: cipherscan
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/cipherscan/logo.jpeg
+default_privacy: false
