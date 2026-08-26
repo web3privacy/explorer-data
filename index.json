@@ -18545,7 +18545,8 @@
       "project_status": {
         "version": "mainnet",
         "live_status": true,
-        "mainnet": true
+        "mainnet": true,
+        "testnet": false
       },
       "project_phase": "mainnet",
       "blockchain_features": {
