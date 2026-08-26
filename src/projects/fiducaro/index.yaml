@@ -1,0 +1,32 @@
+categories:
+  - defi
+usecases:
+  - mixing-service
+ecosystem:
+  - ethereum
+description: "Full on-chain privacy protocol. "
+product_launch_day: 2026-08-01T05:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+tokens:
+  - symbol: FIDU
+    name: Fiducaro
+    contract_address: "0x5203C6EC24838664af6BF113c062e5502317Cf9d"
+    token_link: https://etherscan.io/token/0x5203C6EC24838664af6BF113c062e5502317Cf9d#transactions
+links:
+  web: https://fiducaro.netlify.app/
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+  encryption: Zk-snarks
+default_privacy: false
+name: Fiducaro
+have_token: true
+privacy_policy:
+  defined: false
+id: fiducaro

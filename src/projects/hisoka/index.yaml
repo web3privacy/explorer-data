@@ -13,7 +13,6 @@ product_launch_day: 2026-01-04T17:00:00.000Z
 sunset: false
 assets_used:
   - eth
-  - wbtc
   - usdc
   - usdt
   - other
