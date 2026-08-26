@@ -8162,6 +8162,105 @@
       "sunset": false
     },
     {
+      "id": "eidex",
+      "name": "EIDEX",
+      "categories": [
+        "defi"
+      ],
+      "usecases": [
+        "defi",
+        "dapps",
+        "bridge"
+      ],
+      "ecosystem": [
+        "bitcoin",
+        "ethereum",
+        "monero",
+        "solana",
+        "cosmos",
+        "multichain",
+        "other"
+      ],
+      "description": "EIDEX is a non-custodial cross-chain route screener. It queries live quotes from 33+ sources - on-chain DEX aggregators, bridges and no-KYC instant exchangers - and ranks them by how much the user actually receives. No account or registration is required, and the swap itself is executed on the chosen provider's side; EIDEX never holds funds and never takes custody.",
+      "product_launch_day": "2026-02-16T00:00:00.000Z",
+      "sunset": false,
+      "assets_used": [
+        "btc",
+        "eth",
+        "xmr",
+        "zcash",
+        "usdt",
+        "usdc",
+        "dai",
+        "sol",
+        "dot",
+        "atom",
+        "other"
+      ],
+      "have_token": false,
+      "tokens": [],
+      "links": {
+        "web": "https://eidex.io/screener",
+        "blog": "https://eidex.io/blog",
+        "github": "",
+        "forum": "",
+        "docs": "https://eidex.io/docs",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "https://x.com/eidex_official",
+        "discord": "",
+        "telegram": "https://t.me/eidex_news",
+        "lens": "",
+        "farcaster": ""
+      },
+      "project_phase": "mainnet",
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "blockchain_features": {
+        "opensource": false,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "storage": {},
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://eidex.io/legal/privacy",
+        "data_usage": ""
+      },
+      "compliance": "",
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "",
+        "sign_in_type_requirments": []
+      },
+      "default_privacy": true,
+      "audits": [],
+      "third_party_dependency": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "team": {
+        "anonymous": false,
+        "teammembers": []
+      },
+      "funding": [],
+      "history": [],
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/eidex/logo.png"
+        }
+      ]
+    },
+    {
       "id": "lazai",
       "name": "LazAI",
       "categories": [
