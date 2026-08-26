@@ -24845,7 +24845,7 @@
       ],
       "description": "Next-generation voice, video, and chat messaging using your domain name (ICANN, HNS & ENS)... not your number.",
       "product_launch_day": "2025-06-04T22:00:00.000Z",
-      "sunset": false,
+      "sunset": true,
       "assets_used": [],
       "have_token": false,
       "tokens": [],
