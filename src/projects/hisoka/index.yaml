@@ -1,90 +1,77 @@
 name: Hisoka
 categories:
-  - infrastructure
+  - defi
   - applications
-  - defi
 usecases:
-  - wallets
   - defi
-  - infrastructure
-  - bridge
-  - messaging
-  - rpc-provider
-  - mixing-management
-  - mixing-service
-  - other
 ecosystem:
   - multichain
-  - bitcoin
   - ethereum
-description: Full-stack privacy for Ethereum. We protect writes with
-  Zero-knowledge Proofs, reads with Private Information Retrieval, and the
-  network with novel Mixnet routing. No single point leaks who you are or what
-  you want.
+description: "Full-stack privacy for Ethereum: shielded transactions, private
+  reads, and mixnet-routed networking"
 product_launch_day: 2026-01-04T17:00:00.000Z
 sunset: false
 assets_used:
   - eth
-  - btc
   - usdc
   - usdt
-  - zcash
   - other
 have_token: false
 tokens: []
 links:
   web: https://hisoka.io
   blog: https://hisoka.io/writing
-  github: https://github.com/hisoka-io
+  github: https://github.com/hisoka-io/darkpool
   forum: ""
   docs: https://docs.hisoka.io/
   whitepaper: ""
-  block_explorer: https://demo.railgun.hisoka.io
+  block_explorer: https://map.hisoka.io
   governance: ""
   twitter: https://x.com/hisoka_io
   discord: ""
   telegram: ""
   lens: ""
   farcaster: ""
-project_phase: mainnet
+project_phase: testnet
 project_status:
   live_status: true
-  mainnet: true
+  mainnet: false
   testnet: true
-  version: mainnet
+  version: testnet
 blockchain_features:
   opensource: true
   upgradability:
     enabled: false
   asset_custody_type: non-custody
-  encryption: Zero Knowledge, PIR, Mixnets, Sphinx, P2P, SURB, FEC
+  encryption: ZK proofs, PIR, ECDH
   p2p: true
-storage: {}
+storage:
+  decentralized: true
+technology:
+  type: ZK Proofs, PIR, Mixnet
 privacy_policy:
   defined: true
   link: https://hisoka.io/privacy
-  data_usage: ""
-compliance: https://hisoka.io/terms
+  data_usage: No data collected
+compliance: Threshold compliance
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: None
   sign_in_type_requirments: []
 default_privacy: true
 audits: []
 third_party_dependency: Built from fully open-source technologies
-social_trust: There is no centralized custody or DAO for NOX mixnet
-technical_spof: "Raven uses single-server PIR -- server learns query timing but
-  not query content. Nox requires at least one honest node per hop (3-hop path).
-  Network map at map.hisoka.io."
+social_trust: There is no centralized custody or Dao for Nox mixnet
+technical_spof: None
 team:
   anonymous: false
   teammembers:
-    - name: Jay Proof
-      link: https://x.com/0xddos
-    - name: Reze
-      link: https://github.com/0xReze
     - name: Jayendra
       link: https://x.com/0xkingpanther
+    - name: Reze
+      link: https://github.com/0xReze
+    - name: Jay Proof
+      link: https://x.com/0xddos
     - name: Ravi
       link: https://x.com/0xBejini
 funding: []

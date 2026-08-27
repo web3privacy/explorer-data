@@ -1,0 +1,58 @@
+name: Nox by Hisoka
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - multichain
+  - ethereum
+description: Mixnet for Ethereum that hides your IP, defends against timing
+  attacks, and lets you send transactions anonymously.
+sunset: false
+assets_used:
+  - none
+links:
+  web: https://hisoka.io/nox
+  github: https://github.com/hisoka-io/nox
+  block_explorer: https://map.hisoka.io
+  docs: https://docs.hisoka.io/docs
+  twitter: https://x.com/hisoka_io
+project_status:
+  version: testnet
+  live_status: true
+  mainnet: false
+  testnet: true
+project_phase: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Mixnets, Sphinx, SURB, FEC
+  p2p: true
+privacy_policy:
+  defined: true
+  link: https://hisoka.io/privacy
+  data_usage: No data collected
+tracebility:
+  kyc: false
+  tracked_data: None
+default_privacy: true
+have_token: false
+social_trust: There is no centralized custody for the Nox mixnet.
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Jayendra
+      link: https://x.com/0xkingpanther
+    - name: Reze
+      link: https://github.com/0xReze
+    - name: Jay Proof
+      link: https://x.com/0xddos
+history:
+  - title: Nox announcement
+    event_type: Announcement
+    description: Hisoka announced the Nox mixnet testnet with a live network map
+    link: https://x.com/hisoka_io/status/2044315522314240467
+id: nox

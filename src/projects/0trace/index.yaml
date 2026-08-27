@@ -1,29 +1,32 @@
-id: thunderbolt
-name: Thunderbolt
+name: 0trace
 categories:
-  - social-and-communications
+  - applications
+  - infrastructure
+  - defi
 usecases:
-  - messaging
+  - infrastructure
+  - currency
 ecosystem:
   - ethereum
-  - other
-description: Next-generation voice, video, and chat messaging using your domain
-  name (ICANN, HNS & ENS)... not your number.
-product_launch_day: 2025-06-04T22:00:00.000Z
-sunset: true
+  - bitcoin
+  - solana
+  - monero
+description: Privacy-first crypto exchange. No KYC. No AML. No logs. Monero supported.
+product_launch_day: 2026-04-05T21:00:00.000Z
+sunset: false
 assets_used: []
 have_token: false
 tokens: []
 links:
-  web: https://thunderbolt.com/
+  web: https://0trace.io/
   blog: ""
   github: ""
-  forum: ""
+  forum: https://bitcointalk.org/index.php?topic=5577836.0
   docs: ""
   whitepaper: ""
   block_explorer: ""
   governance: ""
-  twitter: ""
+  twitter: https://x.com/0trace_io
   discord: ""
   telegram: ""
   lens: ""
@@ -41,12 +44,13 @@ blockchain_features:
 storage: {}
 privacy_policy:
   defined: true
-  link: https://thunderbolt.com/
+  link: https://0trace.io/terms
   data_usage: ""
 compliance: ""
 tracebility:
   kyc: false
-  tracked_data: ""
+  tracked_data: We just need your wallet address. Once the swap is completed, you
+    can permanently delete it.
   sign_in_type_requirments: []
 default_privacy: false
 audits: []
@@ -58,7 +62,4 @@ team:
   teammembers: []
 funding: []
 history: []
-logos:
-  - file: logo.jpeg
-    ext: jpeg
-    url: https://explorer-data.web3privacy.info/assets/projects/thunderbolt/logo.jpeg
+id: 0trace
