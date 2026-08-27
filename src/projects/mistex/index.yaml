@@ -1,0 +1,77 @@
+name: Mistex
+categories:
+  - defi
+usecases:
+  - defi
+  - wallets
+  - dapps
+ecosystem:
+  - solana
+  - ethereum
+  - bitcoin
+  - monero
+  - multichain
+  - other
+description: "Anonymous instant-swap service: 400+ pairs, float (0.8%) + fixed
+  (2%) rates, Tor v3 mirror, Monero-address sign-in option, documented REST
+  API."
+product_launch_day: 2026-05-03T21:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - usdt
+  - sol
+  - xmr
+  - zcash
+  - dot
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://mistex.io
+  blog: https://mistex.io/blog
+  github: ""
+  forum: ""
+  docs: https://mistex.io/api-docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/mistex_io
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://mistex.io/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
+id: mistex
