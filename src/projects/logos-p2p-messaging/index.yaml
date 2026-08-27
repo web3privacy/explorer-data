@@ -1,0 +1,94 @@
+categories:
+  - social-and-communications
+  - infrastructure
+usecases:
+  - messaging
+  - node
+  - research-and-development
+ecosystem:
+  - other
+description: >-
+  Overview: 
+
+  Logos Messaging provides the messaging layer for the Logos stack, letting
+  applications send messages, relay data, and coordinate without relying on
+  centralised servers or exposing metadata to surveillance.
+
+
+  It uses a peer-to-peer relay network in which messages propagate across nodes
+  with no central broker, and it supports private one-to-one messaging, group
+  messaging, and public broadcast channels.
+
+
+  Messages can be encrypted end-to-end, and the relay network is designed to
+  resist traffic analysis, making it difficult for observers to determine who is
+  communicating with whom. 
+
+
+  Delivery: 
+
+  A peer-to-peer messaging network with DoS protection via RLN (Rate Limiting
+  Nullifiers). Any application can use it to send and receive messages over an
+  open, censorship-resistant network. 
+
+
+  Chat: 
+
+  A protocol and library that provides 1:1 and group conversations with
+  end-to-end encryption using de-MLS - everything an application needs to add
+  private chat without rolling its own protocol. 
+
+
+  Usecases: 
+
+  Used in Status Messenger and Railgun. 
+
+  Formerly known as Waku. 
+sunset: false
+assets_used: []
+links:
+  web: https://logos.co/technology-stack/messaging
+  forum: https://forum.research.logos.co/
+  github: https://github.com/logos-messaging/
+  docs: https://docs.logos.co/messaging/get-started/introduction-to-logos-messaging
+  blog: https://logos.co/media
+  twitter: https://x.com/Logos_devs
+  discord: https://discord.gg/Ykv4eZyHUJ
+project_status:
+  version: testnet
+  live_status: true
+  mainnet: false
+  testnet: true
+blockchain_features:
+  asset_custody_type: non-custody
+  opensource: true
+  upgradability:
+    enabled: true
+  p2p: true
+privacy_policy:
+  defined: false
+  link: https://logos.co/privacy-policy
+default_privacy: true
+audits:
+  - name: Institute of Free Technology
+    url: https://logos.co/security
+history:
+  - title: Waku
+    description: "Waku is now part of Logos Messaging, a family of modular
+      peer-to-peer protocols for secure communication. Initially, Waku was build
+      as part of Vac, now Logos Research (x: @LogosRnD). Today, Logos Messaging
+      is the peer-to-peer communication layer in the Logos technology stack."
+    link: https://oskarth.com/waku/
+  - title: Logos Stack Unification
+    description: "Logos announces stack unification on November 20th, 2025. Codex,
+      Nomos, and Waku have been building essential pieces of decentralised
+      technology. Each had its own identity, its own community, and its own
+      product roadmap. But underneath the different projects was one shared
+      goal: to create a social movement and decentralised technology stack to
+      revitalise civil society.  To push their mission forward and chart a new
+      path, Codex, Nomos, and Waku unified under one brand and one mission:
+      Logos. "
+    link: https://techstartups.com/2025/11/20/logos-unifies-under-one-identity-to-deliver-a-private-tech-stack-to-revitalise-civil-society/
+name: Logos p2p Messaging
+have_token: false
+id: logos-p2p-messaging

@@ -1,3 +1,4 @@
+id: mirage
 name: Mirage
 categories:
   - applications
@@ -6,6 +7,7 @@ usecases:
   - tee
   - defi
   - infrastructure
+  - research-and-development
 ecosystem:
   - ethereum
 description: Mirage is an EVM-focused privacy solution that enables users to
@@ -18,6 +20,7 @@ sunset: false
 assets_used:
   - usdt
   - other
+  - eth
 have_token: false
 tokens: []
 links:
@@ -31,15 +34,15 @@ links:
   governance: ""
   twitter: https://x.com/mirageprivacy
   discord: https://discord.gg/FCcKwPyBxV
-  telegram: ""
+  telegram: https://t.me/mirageprivacy
   lens: ""
   farcaster: ""
 project_phase: testnet
 project_status:
   live_status: true
-  mainnet: false
-  testnet: true
-  version: testnet
+  mainnet: true
+  testnet: false
+  version: mainnet
 blockchain_features:
   opensource: true
   upgradability:
@@ -50,7 +53,7 @@ blockchain_features:
 storage: {}
 privacy_policy:
   defined: false
-  link: ""
+  link: https://docs.mirageprivacy.com/compliance/privacy-policy
   data_usage: ""
 compliance: No-KYC real-time wallet screening
 tracebility:
@@ -58,7 +61,7 @@ tracebility:
   tracked_data: ""
   sign_in_type_requirments:
     - wallet
-default_privacy: false
+default_privacy: true
 audits: []
 third_party_dependency: ""
 social_trust: ""
@@ -72,6 +75,18 @@ team:
       link: https://x.com/ozwaldorf_
     - name: Samuel Alake
       link: https://x.com/g4titan_
-funding: []
-history: []
-id: mirage
+funding:
+  - name: Seed Round
+    link: https://decrypt.co/364481/mirage-announces-seed-round-and-closed-alpha-for-private-stablecoin-transfers
+history:
+  - title: Closed Alpha Release
+    description: ""
+    link: https://decrypt.co/364481/mirage-announces-seed-round-and-closed-alpha-for-private-stablecoin-transfers
+    time: 2026-04-14T22:00:00.000Z
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/mirage/logo.jpeg
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mirage/logo.png

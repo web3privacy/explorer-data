@@ -1,0 +1,59 @@
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - wallets
+  - currency
+  - defi
+  - dapps
+  - bridge
+ecosystem:
+  - ethereum
+description: Cloaked is a new kind of self-custodial crypto wallet with stealth
+  addresses at its core. Users can seamlessly create fresh, unlinkable addresses
+  for payments or interacting with apps, so they do not expose their entire
+  onchain history every time they use a protocol. These addresses can also be
+  combined with Privacy Pools for stronger public-facing anonymity without
+  sacrificing UX.
+product_launch_day: 2026-03-29T00:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - usdt
+  - usdc
+  - other
+links:
+  web: https://clkd.xyz
+  github: https://github.com/cloakedxyz
+  docs: https://www.clkd.xyz/docs
+  twitter: https://x.com/staycloakedxyz
+  farcaster: https://farcaster.xyz/cloaked
+  telegram: https://t.me/+pXdSklUm5bsxMmMx
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+tracebility:
+  kyc: false
+  sign_in_type_requirments:
+    - wallet
+    - seed
+    - privatekey
+privacy_policy:
+  defined: false
+  link: https://www.clkd.xyz/docs/privacy
+default_privacy: false
+compliance: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Blaine Malone
+      link: https://x.com/blainemalone
+    - name: Olivia Barnett
+      link: https://x.com/livia___22
+name: Cloaked
+have_token: false
+id: cloaked

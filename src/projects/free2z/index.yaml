@@ -1,0 +1,45 @@
+categories:
+  - social-and-communications
+usecases:
+  - alliances
+  - research-and-development
+  - messaging
+ecosystem:
+  - other
+description: >-
+  Own your content.
+
+  Monetize your mind.
+
+
+  Skip the gatekeepers. Publish on the blockchain, earn anonymously, and build a
+  community that truly belongs to you.
+
+
+  Free2Z is a revolutionary platform designed to empower you and your community.
+  With peer-to-peer donations, a revenue sharing program, and advanced creative
+  tools, we enable you to monetize your work transparently and fairly. On
+  Free2Z, you're not just another user — you're a partner in a collaborative and
+  rewarding ecosystem.
+sunset: false
+privacy_policy:
+  defined: false
+  link: https://free2z.cash/docs/legal/privacy-policy/
+assets_used:
+  - zcash
+links:
+  web: https://free2z.cash/
+  docs: https://free2z.cash/docs/overview
+  github: https://github.com/free2z/zuu
+  twitter: https://x.com/free2zcash
+  blog: https://free2z.cash/free2z
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  opensource: true
+name: Free2Z
+have_token: false
+id: free2z

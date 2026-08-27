@@ -1,0 +1,27 @@
+categories:
+  - applications
+usecases:
+  - data-management
+  - infrastructure
+  - other
+ecosystem:
+  - other
+description: Noira is a contract signing and management platform. Every
+  agreement — NDAs, advisor agreements, co-founder splits, & vendor contracts is
+  encrypted using VetKeys (threshold cryptography) before it's stored onchain.
+  Signatures are generated via threshold ECDSA, meaning no single
+  party  including Noira itself  holds a private key capable of decrypting or
+  reading contract contents. Authentication uses Internet Identity, so no crypto
+  wallet, seed phrase, or prior Web3 experience is required to use the product.
+nickname: "ReverseGasModel "
+sunset: false
+links:
+  web: Noira.legal
+  twitter: https://x.com/noiracontracts
+blockchain_features:
+  encryption: "Vetkey "
+name: Noira
+have_token: false
+privacy_policy:
+  defined: false
+id: noira
