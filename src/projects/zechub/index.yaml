@@ -1,0 +1,33 @@
+links:
+  twitter: https://x.com/zechub
+  web: https://zechub.wiki/
+  github: https://github.com/ZecHub/zechub
+  discord: https://discord.gg/zcash
+  blog: https://zechub.wiki/zcash-community/community-blogs
+categories:
+  - social-and-communications
+usecases:
+  - alliances
+  - research-and-development
+ecosystem:
+  - other
+description: ZecHub is the community-driven education hub for the Zcash
+  cryptocurrency (ZEC). Zcash is a digital currency providing censorship
+  resistant, secure & private payments. The Zcash Blockchain utilises highly
+  advanced 'verifiable' zk-snarks that do not require Trusted Setup following
+  the NU5 network upgrade in 2022.
+sunset: false
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+  opensource: true
+privacy_policy:
+  defined: false
+  link: https://zechub.wiki/privacy
+name: ZecHub
+have_token: false
+id: zechub

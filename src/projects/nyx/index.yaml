@@ -1,0 +1,33 @@
+categories:
+  - defi
+  - infrastructure
+usecases:
+  - infrastructure
+ecosystem:
+  - ethereum
+  - multichain
+description: >-
+  Nyx aims to bring privacy to Ethereum users with minimum friction and trust.
+  It helps users bridge and manage assets between their public and private
+  accounts. 
+
+
+  Accessing a user’s Nyx account requires both their Ethereum wallet and
+  passkey. The Nyx backend helps users use Nyx across devices and browsers,
+  while remaining completely agnostic to users’ asset and transaction
+  information. Read below to learn the details.
+sunset: false
+project_status:
+  version: alpha
+  live_status: true
+  mainnet: false
+  testnet: false
+links:
+  web: https://app.nyx.money/
+  docs: https://docs.nyx.money/home
+  twitter: https://x.com/nyxmoney
+name: Nyx
+have_token: false
+privacy_policy:
+  defined: false
+id: nyx

@@ -1,0 +1,26 @@
+categories:
+  - applications
+usecases:
+  - wallets
+  - defi
+ecosystem:
+  - ethereum
+description: >-
+  The first completely private crypto wallet on mobile is almost here.  
+
+
+  Shield. Send. Swap --> Stay invisible — all from your phone. Powered by ANON
+  +@RAILGUN_Project
+sunset: false
+links:
+  discord: https://discord.gg/jjUvWyYjKA
+  twitter: https://x.com/anondotinc
+  web: https://anon.inc
+privacy_policy:
+  defined: false
+  link: https://anon.inc/privacy
+assets_used:
+  - eth
+name: Anon Wallet
+have_token: false
+id: anon-wallet

@@ -1,0 +1,87 @@
+id: zodl
+name: Zodl
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - other
+description: >-
+  The most user-friendly Zcash wallet. Built for private payments by the
+  privacy-obsessed Electric Coin Company, developers of the Zcash protocol. 
+
+
+  Zodl is a self-custody, shielded wallet that gives you a way to send, receive,
+  & spend $ZEC. 
+
+
+  Integrations: Buy with Coinbase Onramp, Spend with Flexa, & Cold Storage with
+  Keystone HW wallet. 
+sunset: false
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/zashi/logo.jpeg
+product_launch_day: 2024-04-28T05:00:00.000Z
+assets_used:
+  - zcash
+have_token: false
+tokens:
+  - symbol: ZEC
+    name: Zcash
+    contract_address: ""
+    token_link: https://mainnet.zcashexplorer.app
+links:
+  web: https://zodl.com/
+  blog: https://zodl.com/blog/
+  github: https://github.com/zodl-inc
+  forum: https://forum.zcashcommunity.com/c/zcash-apps/zashi/51
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/zodl_app
+  discord: https://discord.gg/NcDnF2sPjY
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero Knowledge(ZK)
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://zodl.com/privacy-policy/
+  data_usage: "ECC does not sell, rent, or monetize user data in any way. "
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Zodl Co.
+      link: https://x.com/zodl_co
+funding: []
+history:
+  - title: Zashi is Becoming Zodl
+    description: The upcoming app update will rebrand Zashi to Zodl, without
+      impacting the user experience.
+    link: https://zodl.com/zashi-is-becoming-zodl/
+    time: 2026-02-16T00:00:00.000Z

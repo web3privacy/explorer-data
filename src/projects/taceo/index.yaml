@@ -2,7 +2,8 @@ id: taceo
 name: TACEO
 categories:
   - infrastructure
-description: Verifiable Encrypted Computation Layer; MPC + ZK
+description: Verifiable encrypted private execution layer for digital rails.
+  Built on production-grade MPC + ZK cryptography.
 team:
   anonymous: false
   teammembers:
@@ -12,8 +13,12 @@ team:
     - name: Lukas Helminger
       role: CEO
       link: https://x.com/luhelminger
-    - name: Aisling Connolly
-      link: x.com/aisconnolly
+    - name: Lukas Götz
+      link: https://x.com/gm_usi
+    - name: Ais Connolly
+      link: https://x.com/aisconnolly
+    - name: Christian Rechberger
+      link: ""
 links:
   web: https://taceo.io/
   blog: https://core.taceo.io/
@@ -41,6 +46,8 @@ usecases:
   - research-and-development
   - node
   - mpc
+  - defi
+  - currency
 third_party_dependency: none
 logos:
   - file: logo.png
@@ -58,13 +65,13 @@ blockchain_features:
   opensource: true
   upgradability:
     enabled: false
-  asset_custody_type: ""
+  asset_custody_type: non-custody
   encryption: ZK, SNARKs, MPC, coSNARKs
 storage:
   decentralized: false
 privacy_policy:
-  defined: false
-  link: ""
+  defined: true
+  link: https://taceo.io/privacy-policy/
   data_usage: none
 compliance: ""
 tracebility:
@@ -72,10 +79,36 @@ tracebility:
   tracked_data: ""
   sign_in_type_requirments: []
 default_privacy: true
-audits: []
+audits:
+  - name: Least Authority - TACEO:OPRF Noir Circuits
+    url: https://leastauthority.com/wp-content/uploads/2026/03/Least-Authority-TACEO-OPRF-Noir-Circuits-Final-Audit-Report.pdf
+    time: 2026-01-25T23:00:00.000Z
+  - name: Least Authority - TACEO:OPRF Circom Circuits
+    url: https://leastauthority.com/wp-content/uploads/2026/03/Least-Authority-TACEO-OPRF-Circom-Circuits-Combined-Final-Audit-Report.pdf
+    time: 2026-01-25T23:00:00.000Z
+  - name: AIT - TACEO Nullifier Protocol
+    url: ""
+    time: 2025-11-30T23:00:00.000Z
+  - name: Nethermind - World ID Nullifier
+    url: https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0693_D_NULLIFIER_WORLD_ID.pdf
+    time: 2026-01-11T23:00:00.000Z
 social_trust: ""
 technical_spof: ""
-funding: []
+funding:
+  - name: Archetype
+    link: ""
+  - name: a16z Crypto
+    link: ""
+  - name: cyber Fund
+    link: ""
+  - name: Polymorphic Capital
+    link: ""
+  - name: a_capital
+    link: ""
+  - name: Daedalus
+    link: ""
+  - name: WAGMI Ventures
+    link: ""
 history:
   - title: Alphanet Launch
     description: First coSNARKs generated on MPC network at Devcon7
@@ -85,3 +118,7 @@ history:
     description: TACEO:Proof, a cosnark network for private proof delegation goes into beta
     link: https://x.com/TACEO_IO/status/1915469892226314462
     time: 2025-04-23T22:00:00.000Z
+  - title: TACEO Network Launch
+    description: ""
+    link: https://core.taceo.io/articles/taceo-network/
+    time: 2026-03-18T23:00:00.000Z
