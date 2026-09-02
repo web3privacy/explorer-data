@@ -1,0 +1,45 @@
+categories:
+  - defi
+  - infrastructure
+usecases:
+  - defi
+  - bridge
+  - kyc-solution
+  - research-and-development
+  - dapps
+  - currency
+  - browser
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+description: "Friendly Dark Pool for Crypto: Xochi is an intent-based,
+  cross-chain dark pool for FX, OTC, & AI agents"
+sunset: false
+assets_used:
+  - eth
+  - other
+links:
+  web: https://xochi.fi/
+  github: https://github.com/xochi-fi
+  whitepaper: https://xochi.fi/whitepaper
+  twitter: https://x.com/xochi_fi
+  telegram: "@axolDAO"
+privacy_policy:
+  defined: false
+  link: https://xochi.fi/privacy
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+default_privacy: true
+team:
+  teammembers:
+    - name: axol.io
+      link: https://axol.io/
+name: Xochi.fi
+have_token: false
+id: xochi.fi
