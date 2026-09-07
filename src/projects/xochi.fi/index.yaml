@@ -37,6 +37,7 @@ blockchain_features:
   asset_custody_type: non-custody
 default_privacy: true
 team:
+  anonymous: false
   teammembers:
     - name: axol.io
       link: https://axol.io/
