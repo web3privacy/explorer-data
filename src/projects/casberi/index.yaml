@@ -1,0 +1,47 @@
+categories:
+  - social-and-communications
+  - applications
+usecases:
+  - wallets
+  - data-management
+  - other
+ecosystem:
+  - ethereum
+  - bitcoin
+  - solana
+  - multichain
+description: >
+  Everything builders do is scattered across apps, wallets, and agents.
+  Casberi.app is a mobile-1st productivity app that puts all your accounts in
+  one feed. No account, no servers, or bring your own agent.  Now includes
+  native account abstraction devnets for Hegota, Privacy, Frames 8141, and Base
+  8130.
+
+
+  App Store: https://apps.apple.com/us/app/casberi/id6788637831
+sunset: false
+links:
+  web: https://casberi.app
+  github: https://github.com/alexanderchopan/casberi
+  twitter: https://x.com/casberi_app
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+  opensource: true
+  upgradability:
+    enabled: true
+  encryption: Local, Device only
+privacy_policy:
+  defined: false
+  link: https://casberi.app/privacy.html
+  data_usage: None
+tracebility:
+  kyc: false
+  tracked_data: None
+name: Casberi
+have_token: false
+id: casberi
