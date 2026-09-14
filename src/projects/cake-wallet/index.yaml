@@ -12,7 +12,7 @@ ecosystem:
   - solana
   - multichain
 links:
-  web: https://cakewallet.com
+  web: https://cakewalletweb.us
   blog: https://blog.cakewallet.com
   github: https://github.com/cake-tech/cake_wallet
   forum: https://forum.cakewallet.com
