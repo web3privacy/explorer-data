@@ -1,0 +1,41 @@
+categories:
+  - defi
+usecases:
+  - eth-layer-2
+ecosystem:
+  - ethereum
+  - other
+description: Accept shielded ZEC payments. Settle merchant orders on Robinhood
+  Chain. Your customer keeps the privacy of the Zcash shielded pool, and you
+  keep a settlement hash you can hand to an auditor.
+product_launch_day: 2026-09-18T17:00:00.000Z
+sunset: false
+assets_used:
+  - other
+tokens:
+  - symbol: ZNX
+    name: ZetaNexus
+    contract_address: "0xa76f958355d82f698e8535e1d8f51482204d2b67"
+    token_link: https://robinhoodchain.blockscout.com/token/0xA76F958355d82F698e8535E1d8F51482204D2b67
+links:
+  web: https://z2r-nexus.com
+  twitter: https://x.com/ZetaNexus_
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+  opensource: true
+  upgradability:
+    enabled: true
+  p2p: true
+  encryption: ZK-Snarks
+storage:
+  decentralized: true
+name: ZetaNexus
+have_token: true
+privacy_policy:
+  defined: false
+id: zetanexus
