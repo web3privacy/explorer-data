@@ -1,0 +1,91 @@
+id: zecnero
+name: Zecnero
+categories:
+  - defi
+description: A fair-launch fork of Zcash (Zebra) that replaces Equihash with
+  RandomX proof of work, so ordinary desktop CPUs can mine it. Keeps Zcash's
+  Sapling and Orchard shielded pools. No premine, presale or dev fund. Public
+  testnet live since 2026-09-24; mainnet has not launched.
+project_type: transaction
+technology:
+  type: halo2 zk-SNARK
+  features:
+    - private
+    - trustless proof system
+links:
+  web: https://zecnero.org/
+  github: https://gitlab.com/zecnero
+  docs: https://zecnero.org/mine
+  whitepaper: https://zecnero.org/zecnero-protocol.pdf
+  blog: https://zecnero.org/blog
+  block_explorer: https://explorer.zecnero.org/
+  forum: https://bitcointalk.org/index.php?topic=5594747.0
+  twitter: https://x.com/zecnero_org
+  discord: https://discord.gg/zecnero
+  telegram: ""
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: zksnark
+  p2p: true
+licences: MIT OR Apache-2.0
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+storage:
+  decentralized: true
+third_party_dependency: none
+history:
+  - title: Public testnet
+    event_type: launch
+    description: Testnet genesis block, committing to Bitcoin block 968,452
+    time: 2026-09-24T21:11:00.000Z
+    link: https://zecnero.org/blog/testnet-is-live
+client_diversability:
+  - name: zecnerod (Zebra fork)
+    link: https://gitlab.com/zecnero/zecnerod
+default_privacy: false
+funding: []
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+usecases:
+  - currency
+have_token: false
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zecnero/logo.png
+ecosystem:
+  - other
+product_launch_day: 2026-09-24T21:11:00.000Z
+sunset: false
+assets_used:
+  - zecnero
+tokens:
+  - symbol: ZMR
+    name: ZMR
+    contract_address: ""
+    token_link: https://explorer.zecnero.org/
+project_phase: testnet
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - seed
+    - wallet
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Kaito Arisaka
+      link: https://gitlab.com/zecnero
