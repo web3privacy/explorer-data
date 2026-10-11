@@ -1,0 +1,68 @@
+id: ephemeral
+name: ephemeral
+categories:
+  - applications
+usecases:
+  - wallets
+  - research-and-development
+ecosystem:
+  - ethereum
+description: "Private receiving on Ethereum L1 with ERC-5564 stealth addresses
+  and the ERC-6538 registry: a fresh address for every payment, no pool. Also
+  publishes an open leak study of withdrawn stealth addresses on mainnet
+  (38.97% of 25,017 linkable, mostly through withdrawal habits) with the method
+  and scanner."
+sunset: false
+links:
+  web: https://ephemeral.money
+  blog: ""
+  github: https://github.com/siriusthemaster/ephemeral
+  forum: ""
+  docs: https://ephemeral.money/docs
+  whitepaper: https://ephemeral.money/docs/research/leak-study
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ephemeral_eth
+  discord: ""
+  telegram: https://t.me/ephemeral_eth
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.png
+    ext: png
+assets_used:
+  - eth
+have_token: false
+tokens: []
+project_phase: beta
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: beta
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  encryption: Stealth Address
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+compliance: ""
+tracebility:
+  kyc: false
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers:
+    - name: Sirius
+      link: https://x.com/SiriusTheMaster
+funding: []
+history: []
