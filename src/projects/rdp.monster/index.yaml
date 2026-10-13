@@ -1,0 +1,68 @@
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - hardware
+  - vpn
+  - storage
+  - computing
+ecosystem:
+  - monero
+  - ethereum
+  - bitcoin
+  - solana
+  - cosmos
+  - other
+  - multichain
+description: >-
+  rdp.monster is a privacy-first hosting provider selling Windows RDP, Linux VPS
+  and dedicated servers that you can buy without revealing your identity.
+
+
+  Technology: every VPS runs on KVM virtualization with dedicated CPU and RAM,
+  NVMe storage and full admin or root access. Windows RDP and Linux (Ubuntu,
+  Debian, Kali) are available. Servers are provisioned automatically about 10
+  seconds after payment confirms. Datacenters are in Europe and New York, with
+  unlimited bandwidth (fair-use).
+
+
+  Special features:
+
+
+  No KYC at any step: no ID, no phone number, no selfie. An email, which can be
+  an alias, is the only data we keep on file.
+
+  Crypto-native checkout: Monero (XMR), Bitcoin on-chain and Lightning, USDT and
+  10+ other coins, paid from your own wallet. Each order gets a one-time deposit
+  address.
+
+  Monero is the recommended payment path. We publish a guide to buying without
+  leaking metadata: a non-KYC XMR source, an email alias, and Tor or a VPN on
+  first login.
+
+  No card or bank account required.
+
+
+  Why use it: most cloud providers require identity checks and a card, which
+  ties your infrastructure to your real name. rdp.monster lets you run privacy
+  tools, nodes, bots or remote desktops on a server that isn't linked to your
+  identity, from $8.99/month, with 24/7 live chat support.
+product_launch_day: 2023-04-29T22:00:00.000Z
+nickname: ""
+sunset: false
+links:
+  web: https://rdp.monster
+  telegram: https://t.me/rdp_monster
+  twitter: https://x.com/rdp_monster
+privacy_policy:
+  defined: false
+  link: https://rdp.monster/terms-of-service/
+tracebility:
+  kyc: false
+  sign_in_type_requirments:
+    - email
+team:
+  anonymous: true
+name: rdp.monster
+have_token: false
+id: rdp.monster
