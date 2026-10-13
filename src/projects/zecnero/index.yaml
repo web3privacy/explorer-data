@@ -68,7 +68,7 @@ ecosystem:
 product_launch_day: 2026-09-24T21:11:00.000Z
 sunset: false
 assets_used:
-  - zecnero
+  - other
 tokens:
   - symbol: ZMR
     name: ZMR
