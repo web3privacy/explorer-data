@@ -1,0 +1,85 @@
+id: panther-protocol
+name: Panther Protocol
+categories:
+  - defi
+ecosystem:
+  - ethereum
+  - other
+description: Panther Protocol is a compliance-oriented shielded pool with
+  private transfers and in-pool swaps. Panther Protocol is deployed on Polygon,
+  Base, and Ethereum.
+technology:
+  type: zk
+  features:
+    - transactions
+links:
+  web: https://www.pantherprotocol.io/
+  github: https://github.com/pantherfoundation
+  docs: https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation
+  blog: https://blog.pantherprotocol.io/
+  forum: https://forum.pantherprotocol.io/
+  governance: https://snapshot.org/#/s:pantherprotocol.eth
+  whitepaper: https://docsend.com/view/tbz99g285hbnn8ic
+  block_explorer: https://etherscan.io/token/0x909E34d3f6124C324ac83DccA84b74398a6fa173
+  twitter: https://x.com/ZKPanther
+  telegram: https://t.me/pantherprotocol
+  discord: https://discord.com/invite/WZuRnMCZ4c
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+team:
+  anonymous: false
+  company:
+    link: https://www.pantherprotocol.io/
+usecases:
+  - defi
+  - mixing-service
+have_token: true
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/panther-protocl/logo.png
+product_launch_day: 2022-01-30T23:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - other
+tokens:
+  - symbol: ZKP
+    name: Panther
+    contract_address: "0x909E34d3f6124C324ac83DccA84b74398a6fa173"
+    token_link: https://etherscan.io/token/0x909E34d3f6124C324ac83DccA84b74398a6fa173
+  - symbol: ZKP
+    name: Panther
+    contract_address: "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC"
+    token_link: https://polygonscan.com/token/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC
+  - symbol: ZKP
+    name: Panther
+    contract_address: https://basescan.org/token/0x0a776c1c22b8b8e7eab346744daa33722b80fda4
+    token_link: https://basescan.org/token/0x0a776c1c22b8b8e7eab346744daa33722b80fda4
+blockchain_features:
+  asset_custody_type: non-custody
+  opensource: true
+  upgradability:
+    enabled: true
+  p2p: true
+  encryption: zk-SNARKs, HE, MPC
+storage:
+  decentralized: true
+tracebility:
+  kyc: true
+audits:
+  - name: "Veridise Audit Report: Panther Protocol"
+    url: https://github.com/pantherfoundation/audits/blob/main/Veridise%20Panther%20Protocol%20250425.pdf
+    time: 2025-04-24T22:00:00.000Z
+  - name: "Veridise Audit Report: Internal Transfers"
+    url: https://github.com/pantherfoundation/audits/blob/main/VAR_panther_250912_internal_transfers.pdf
+    time: 2025-09-17T22:00:00.000Z
+funding:
+  - name: "31.8m USD (private + public sale). "
+    link: https://dropstab.com/coins/panther/fundraising
+privacy_policy:
+  defined: false
