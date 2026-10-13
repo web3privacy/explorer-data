@@ -57320,6 +57320,101 @@
       ]
     },
     {
+      "id": "biscuit-wallet",
+      "name": "Biscuit Wallet",
+      "categories": [
+        "applications"
+      ],
+      "ecosystem": [
+        "monero",
+        "bitcoin"
+      ],
+      "have_token": false,
+      "tokens": [
+        {
+          "name": "",
+          "symbol": "",
+          "network": "",
+          "contract_address": ""
+        }
+      ],
+      "description": "Biscuit is a free, open-source desktop wallet for Monero, Bitcoin and Litecoin on Windows, macOS, Linux and Tails, built on Feather, with Tor built in, exchange swaps, atomic swaps from Bitcoin to Monero and reproducible builds.",
+      "project_type": "Privacy wallet",
+      "technology": {
+        "type": "",
+        "features": []
+      },
+      "links": {
+        "web": "https://biscuitwallet.com/",
+        "blog": "https://biscuitwallet.com/journal/",
+        "github": "https://github.com/BiscuitWallet/Biscuit",
+        "forum": "",
+        "docs": "https://biscuitwallet.com/docs/",
+        "whitepaper": "",
+        "block_explorer": "",
+        "governance": "",
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "lens": "",
+        "farcaster": ""
+      },
+      "blockchain_features": {
+        "opensource": true,
+        "upgradability": {
+          "enabled": false
+        },
+        "asset_custody_type": "non-custody",
+        "encryption": ""
+      },
+      "privacy_policy": {
+        "defined": true,
+        "link": "https://biscuitwallet.com/privacy/",
+        "data_usage": "No accounts, analytics or crash reports; keys, balances and history stay on the user's computer."
+      },
+      "team": {
+        "anonymous": true,
+        "teammembers": []
+      },
+      "storage": {},
+      "tracebility": {
+        "kyc": false,
+        "tracked_data": "When an exchange swap through Trocador is created, the IP address, user agent, languages and swap ID, encrypted and kept for 12 months, as Trocador requires. Nothing for atomic swaps; exchange swaps are off over Tor.",
+        "sign_in_type_requirments": []
+      },
+      "third_party_dependency": "Trocador and its exchanges for exchange swaps; public Monero nodes and Electrum servers unless the user runs their own.",
+      "audits": [],
+      "history": [],
+      "client_diversability": [],
+      "default_privacy": true,
+      "funding": [],
+      "project_status": {
+        "live_status": true,
+        "mainnet": true,
+        "testnet": false,
+        "version": "mainnet"
+      },
+      "usecases": [
+        "wallets"
+      ],
+      "sunset": false,
+      "assets_used": [
+        "xmr",
+        "btc"
+      ],
+      "project_phase": "mainnet",
+      "compliance": "",
+      "social_trust": "",
+      "technical_spof": "",
+      "logos": [
+        {
+          "file": "logo.png",
+          "ext": "png",
+          "url": "https://explorer-data.web3privacy.info/assets/projects/biscuit-wallet/logo.png"
+        }
+      ]
+    },
+    {
       "id": "ginger",
       "name": "Ginger",
       "categories": [
