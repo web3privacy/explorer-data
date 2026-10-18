@@ -1,0 +1,38 @@
+id: monero-one
+name: Monero One
+categories:
+  - applications
+description: Free, open-source Monero wallet for iPhone and Android. Your keys
+  stay on your phone. Trezor Safe 7 support on iPhone.
+ecosystem:
+  - monero
+product_launch_day: "2026-03-13"
+links:
+  web: https://monero.one
+  github: https://github.com/bwgh0/MoneroOne
+  twitter: https://x.com/MoneroOne
+  telegram: https://t.me/monero_one
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+team:
+  anonymous: false
+  teammembers:
+    - name: Joe
+      link: https://x.com/Joe_IO
+usecases:
+  - wallets
+have_token: false
+sunset: false
+assets_used:
+  - xmr
+project_phase: mainnet
+licences: MIT License
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+privacy_policy:
+  defined: true
+  link: https://monero.one/privacy
