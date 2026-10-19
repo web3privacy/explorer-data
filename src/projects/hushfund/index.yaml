@@ -1,0 +1,15 @@
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: Save in private. ZK-powered USDC vaults on Ethereum. Unlinkable. Gas-free.
+product_launch_day: 2026-10-19T17:00:00.000Z
+nickname: ""
+sunset: false
+name: Hushfund
+have_token: false
+privacy_policy:
+  defined: false
+id: hushfund
