@@ -1,0 +1,20 @@
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - ethereum
+description: Save in private. ZK-powered USDC vaults on Ethereum. Unlinkable. Gas-free.
+sunset: false
+assets_used:
+  - eth
+tokens:
+  - symbol: Hushfund
+    name: HUSHED
+    contract_address: "0x0aaa50b0ebe72f330a5594cae255b57f19806ba7"
+    token_link: https://etherscan.io/token/0x0aaa50b0ebe72f330a5594cae255b57f19806ba7#code
+name: Hushfund
+have_token: true
+privacy_policy:
+  defined: false
+id: hushfund
