@@ -1,35 +1,69 @@
+name: Hushfund
+id: hushfund
 categories:
   - defi
 usecases:
   - defi
 ecosystem:
   - ethereum
-description: Save in private. ZK-powered USDC vaults on Ethereum. Unlinkable. Gas-free.
+description: >-
+  Private USDC vaults on Ethereum mainnet. Deposit fixed amounts, earn yield
+  on Aave V3 and Morpho, then withdraw or borrow with zero-knowledge proofs
+  generated in the browser. A relayer pays all gas.
+product_launch_day: "2026-10-19"
 sunset: false
 assets_used:
-  - eth
+  - usdc
+have_token: true
 tokens:
-  - symbol: Hushfund
-    name: HUSHED
+  - name: Hushfund
+    symbol: HUSHED
     contract_address: "0x0aaa50b0ebe72f330a5594cae255b57f19806ba7"
-    token_link: https://etherscan.io/token/0x0aaa50b0ebe72f330a5594cae255b57f19806ba7#code
+    token_link: https://etherscan.io/token/0x0aaa50b0ebe72f330a5594cae255b57f19806ba7
 links:
-  web: https://hushfund.eth.limo/
+  web: https://hushfund.app
   github: https://github.com/hushfund
   docs: https://hushfund.app/docs
-  block_explorer: https://etherscan.io/token/0x0aaa50b0ebe72f330a5594cae255b57f19806ba7#code
   twitter: https://x.com/Hushfund_
+  block_explorer: https://etherscan.io/address/0x03586c547159683E8b2Bd70958734F3B0Bacfb58
 project_status:
   version: mainnet
   live_status: true
   mainnet: true
   testnet: false
 blockchain_features:
-  asset_custody_type: non-custody
   opensource: true
-  encryption: "  zk-SNARKs (Noir circuits, UltraHonk proofs), Poseidon2 Merkle tree"
-name: Hushfund
-have_token: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: false
+  encryption: zk-SNARKs (Noir circuits, UltraHonk proofs), Poseidon2 Merkle tree
+  p2p: false
+technology:
+  type: ZK-SNARKs
+storage:
+  decentralized: false
 privacy_policy:
-  defined: false
-id: hushfund
+  defined: true
+  link: https://hushfund.eth.limo/privacy.html
+  data_usage: Notes are generated and kept in the browser; the relayer sees transaction requests and network metadata
+default_privacy: true
+tracebility:
+  kyc: false
+  tracked_data: Deposit and withdrawal amounts, timing, recipient addresses and relayer are public onchain
+  sign_in_type_requirments:
+    - EVM wallet
+    - Email
+compliance: ""
+audits: []
+fee: Withdrawal protocol fee shown before confirming; gas sponsored by relayer
+third_party_dependency: Aave V3, Morpho (Steakhouse USDC vault), Circle USDC, Chainlink ETH/USD
+social_trust: Owner-controlled pause for deposits and loans (withdrawals and repayments cannot be paused); 2-day timelock on strategy changes
+technical_spof: Relayer availability for gas-free transactions; Aave or Morpho market risk
+team:
+  anonymous: true
+funding: []
+history:
+  - title: Mainnet launch
+    description: Hushfund vaults (10, 50, 100, 1,000 USDC) went live on Ethereum mainnet
+    time: "2026-10-19"
+    link: https://hushfund.eth.limo
