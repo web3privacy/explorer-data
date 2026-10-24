@@ -64,7 +64,9 @@ audits: []
 history: []
 client_diversability: []
 default_privacy: true
-funding: []
+funding:
+  - type: Donations
+    link: https://biscuitwallet.com/donate/
 project_status:
   live_status: true
   mainnet: true
