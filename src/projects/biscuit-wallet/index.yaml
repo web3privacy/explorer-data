@@ -5,15 +5,18 @@ categories:
 ecosystem:
   - monero
   - bitcoin
+  - ethereum
+  - solana
 have_token: false
 tokens:
   - name: ""
     symbol: ""
     network: ""
     contract_address: ""
-description: Biscuit is a free, open-source desktop wallet for Monero, Bitcoin and
-  Litecoin on Windows, macOS, Linux and Tails, built on Feather, with Tor built in,
-  exchange swaps, atomic swaps from Bitcoin to Monero and reproducible builds.
+description: Biscuit is a free, open-source multi-crypto desktop wallet for Windows,
+  macOS, Linux and Tails, built on Feather, Monero first, with Tor built in, swaps
+  that work over Tor through exchanges that never ask for KYC, atomic swaps from
+  Bitcoin to Monero and reproducible builds.
 project_type: Privacy wallet
 technology:
   type: ""
@@ -24,10 +27,10 @@ links:
   github: https://github.com/BiscuitWallet/Biscuit
   forum: ""
   docs: https://biscuitwallet.com/docs/
-  whitepaper: ""
+  whitepaper: https://biscuitwallet.com/whitepaper/
   block_explorer: ""
   governance: ""
-  twitter: ""
+  twitter: https://x.com/Biscuitwalletx
   discord: ""
   telegram: ""
   lens: ""
@@ -41,25 +44,29 @@ blockchain_features:
 privacy_policy:
   defined: true
   link: https://biscuitwallet.com/privacy/
-  data_usage: No accounts, analytics or crash reports; keys, balances and history
-    stay on the user's computer.
+  data_usage: No accounts, analytics or crash reports.
 team:
   anonymous: true
   teammembers: []
 storage: {}
 tracebility:
   kyc: false
-  tracked_data: When an exchange swap through Trocador is created, the IP address,
-    user agent, languages and swap ID, encrypted and kept for 12 months, as Trocador
-    requires. Nothing for atomic swaps; exchange swaps are off over Tor.
+  tracked_data: When an exchange swap through Trocador is created (outside Tor
+    mode only), the IP address, user agent, languages and swap ID, encrypted and
+    kept for 12 months, as Trocador requires. Nothing for swaps through Biscuit's
+    own exchanges, the ones used in Tor mode, and nothing for atomic swaps.
   sign_in_type_requirments: []
-third_party_dependency: Trocador and its exchanges for exchange swaps; public Monero
-  nodes and Electrum servers unless the user runs their own.
+third_party_dependency: Trocador and its exchanges for exchange swaps outside Tor
+  mode; PegasusSwap, ETZ-Swap and Stereoswap, reached through Biscuit's onion service,
+  in Tor mode; public Monero nodes, Electrum servers, Ethereum, Arbitrum and Solana
+  nodes and Blockscout unless the user sets their own.
 audits: []
 history: []
 client_diversability: []
 default_privacy: true
-funding: []
+funding:
+  - type: Donations
+    link: https://biscuitwallet.com/donate/
 project_status:
   live_status: true
   mainnet: true
@@ -71,6 +78,11 @@ sunset: false
 assets_used:
   - xmr
   - btc
+  - eth
+  - usdt
+  - usdc
+  - sol
+  - other
 project_phase: mainnet
 compliance: ""
 social_trust: ""
