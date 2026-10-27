@@ -1,0 +1,27 @@
+categories:
+  - social-and-communications
+usecases:
+  - messaging
+ecosystem:
+  - other
+description: Morse is a privacy-focused messaging app that uses end-to-end
+  encryption to protect conversations. Users can sign up with a username—no
+  phone number, email address or SIM card required. With less personal
+  information tied to your account, Morse makes private communication simpler
+  and more accessible.
+product_launch_day: 2026-09-30T22:00:00.000Z
+sunset: false
+links:
+  web: https://www.joinmorse.com
+  whitepaper: https://www.joinmorse.com/security/morse-security-whitepaper.pdf
+  twitter: https://x.com/home
+privacy_policy:
+  defined: false
+  link: https://www.joinmorse.com/privacy
+default_privacy: true
+tracebility:
+  kyc: false
+  sign_in_type_requirments: []
+name: Morse Private Messenger
+have_token: false
+id: morse-private-messenger
