@@ -1,0 +1,33 @@
+categories:
+  - infrastructure
+usecases:
+  - ai
+ecosystem:
+  - other
+description: UncensoredLabs offers uncensored and abliterated AI models through
+  an OpenAI-compatible API with prepaid token pricing. Account-key registration
+  and login do not require an email address or password, VPN access is
+  supported, and the service does not require KYC. The owner confirms Monero
+  (XMR) payments are supported through OxaPay; no current public Monero payment
+  proof URL is available. The application servers do not store prompts or model
+  responses; the inference provider's separate retention policy applies.
+  Content-free account, usage, security and financial records are retained under
+  the published policies. This is a hosted paid AI API.
+sunset: false
+links:
+  web: https://uncensoredlabs.dev/
+  docs: https://uncensoredlabs.dev/docs
+privacy_policy:
+  defined: false
+  link: https://uncensoredlabs.dev/privacy
+  data_usage: Account operation, billing and usage accounting, and security.
+    Inference and network providers process data under their separate policies.
+    https://uncensoredlabs.dev/retention
+tracebility:
+  kyc: false
+  tracked_data: Content-free account, usage, security and financial records.
+    Application servers do not store prompts, responses or tool-call payloads;
+    optional browser-only chat history.
+name: UncensoredLabs
+have_token: false
+id: uncensoredlabs
