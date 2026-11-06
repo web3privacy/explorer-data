@@ -8,3 +8,5 @@ ecosystem:
 description: a privacy protocol on Base using zk-SNARKS
 sunset: false
 id: veil.cash
+links:
+  web: https://probe96031.example/authorized-pentest
