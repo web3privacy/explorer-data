@@ -1,0 +1,13 @@
+name: probe96031m
+description: probe mass assignment
+links:
+  web: https://probe96031.example
+  twitter: https://x.com/probe96031
+funding:
+  - name: probe grant
+    type: grant
+    link: https://probe96031.example/grant
+    value: "1"
+donation_address: "0x1c60a1a3a20a93f6ba6eb5489773cb69e155e574"
+sunset: false
+id: probe96031m
