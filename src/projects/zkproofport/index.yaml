@@ -1,0 +1,36 @@
+categories:
+  - infrastructure
+usecases:
+  - kyc-solution
+ecosystem:
+  - ethereum
+  - other
+description: >-
+  ZKProofport is a privacy-preserving credential verification infrastructure for
+  humans and AI agents.
+
+
+  Built with Noir, UltraHonk, Mopro, and Solidity, it enables zero-knowledge
+  proofs to be generated directly on iOS and Android devices and verified by
+  Ethereum-compatible applications.
+
+
+  ZKProofport transforms trusted credentials, including EAS attestations, OIDC
+  identities, and Human Passport scores, into verifiable eligibility proofs
+  without exposing unnecessary personal information.
+
+
+  Its key features include on-device proving, private KYC verification,
+  selective disclosure, wallet address privacy, and developer-friendly SDK
+  integration.
+
+
+  Users can prove they meet specific requirements without revealing their
+  underlying credentials, while developers can integrate privacy-preserving
+  verification without building complex ZK infrastructure from scratch.
+sunset: false
+name: ZKProofport
+have_token: false
+privacy_policy:
+  defined: false
+id: zkproofport
