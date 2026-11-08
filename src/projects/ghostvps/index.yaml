@@ -1,0 +1,58 @@
+id: ghostvps
+name: GhostVPS
+categories:
+  - infrastructure
+usecases:
+  - infrastructure
+  - computing
+ecosystem:
+  - monero
+  - bitcoin
+description: No-KYC crypto-paid VPS (resold DigitalOcean and OVHcloud capacity)
+  with token-only accounts, hourly billing from a prepaid balance, and a native
+  Tor onion mirror. Pay in XMR, BTC or USDT (TRC20).
+product_launch_day: "2026-06-01"
+team:
+  anonymous: true
+links:
+  web: https://www.ghostvps.shop
+  blog: https://www.ghostvps.shop/blog/
+  telegram: https://t.me/ghostvps_cp_bot
+project_status:
+  live_status: true
+  version: Mainnet
+  testnet: false
+  mainnet: true
+sunset: false
+assets_used:
+  - xmr
+  - btc
+  - usdt
+have_token: false
+fee: Hourly billing from a prepaid balance; live prices in the public catalog
+blockchain_features:
+  opensource: false
+  asset_custody_type: custodial
+  p2p: false
+  frontend_anonymity: Tor onion mirror
+    http://3cjysis5k7sqt3x2nraz6luo56t4cdvsvdpezugeqs2tojzn5ysa35yd.onion/ ;
+    signup over Tor/VPN allowed
+privacy_policy:
+  defined: true
+  link: https://www.ghostvps.shop/legal/privacy/
+  data_usage: Account token, billing ledger, server details and SSH public keys
+    to run the service; short-lived technical logs; no third-party analytics or ad trackers
+default_privacy: true
+tracebility:
+  kyc: false
+  tracked_data: Short-lived clearnet IP logs (client IP not visible via the Tor mirror)
+  sign_in_type_requirments:
+    - Account token (email and Telegram optional)
+storage:
+  decentralized: false
+third_party_dependency: Upstream cloud providers (DigitalOcean, OVHcloud)
+technical_spof: Upstream provider AUP enforcement can suspend servers
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ghostvps/logo.png
