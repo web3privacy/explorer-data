@@ -1,0 +1,60 @@
+categories:
+  - applications
+usecases:
+  - wallets
+  - mpc
+ecosystem:
+  - other
+description: >-
+  Zafe is a Zcash multisig nobody can see. One shielded vault for your group.
+  Nothing moves until enough of you approve, and on-chain it looks like any
+  payment.
+
+
+  Each phone holds a share of the key (FROST), and enough of them sign together.
+  The chain sees one ordinary signature. Your phone checks the recipient, the
+  amount and the fee before you approve. No one gathers signatures, and the
+  chain doesn't show who approved.
+
+
+  You set up the vault on your phones together. Each keeps a share; no one ever
+  holds all of it.
+
+
+  The app, the server and the spec are open source.
+nickname: ""
+sunset: false
+links:
+  web: https://zafe.cash
+  github: https://github.com/zafe-cash/zafe
+  docs: https://zafe.cash/docs
+  whitepaper: https://github.com/zafe-cash/zafe/blob/main/spec.md
+  twitter: https://x.com/zafecash
+project_status:
+  version: mainnet
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  encryption: FROST threshold signatures, Zcash shielded (ZK)
+privacy_policy:
+  defined: false
+  link: https://zafe.cash/privacy
+  data_usage: Your key share never leaves your phone. The vault's server only
+    passes on end-to-end encrypted messages; it keeps no access logs and doesn't
+    record IP addresses.
+default_privacy: true
+tracebility:
+  kyc: false
+  tracked_data: None. No accounts, no analytics, no ads and no tracking.
+team:
+  teammembers:
+    - name: Anmol Bansal
+      link: https://x.com/AnmolBansal02
+assets_used:
+  - zcash
+name: Zafe
+have_token: false
+id: zafe
