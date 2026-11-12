@@ -1,0 +1,27 @@
+id: shieldz-swap
+name: Shieldz Swap
+categories:
+  - defi
+usecases:
+  - defi
+  - bridge
+ecosystem:
+  - multichain
+description: Non-custodial cross-chain swap with no account. Each quote races NEAR
+  Intents, Chainflip, Relay and Maya Protocol, including native BTC and ZEC
+  routes; funds go from the user's wallet to the protocol, never to a Shieldz wallet.
+sunset: false
+links:
+  web: https://swap.shieldz.cash
+  blog: https://shieldz.cash/blog
+  github: https://github.com/ShieldZCash
+  forum: ""
+  docs: https://swap.shieldz.cash/risks
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/shieldzcash
+  discord: https://discord.gg/8AmvrMmvMp
+  telegram: ""
+  lens: ""
+  farcaster: ""
