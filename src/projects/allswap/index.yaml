@@ -1,0 +1,81 @@
+id: allswap
+name: AllSwap
+categories:
+  - defi
+  - applications
+usecases:
+  - defi
+  - bridge
+  - dapps
+ecosystem:
+  - bitcoin
+  - ethereum
+  - solana
+  - multichain
+  - other
+description: AllSwap is a non-custodial cross-chain crypto swap and bridge aggregator supporting 300+ assets across 46 blockchains (including Bitcoin, Ethereum, Solana, and Zcash) via single-use deposit addresses without account registration, wallet-connect contract approvals, or routine KYC.
+project_type: Cross-chain swap and bridge aggregator
+product_launch_day: 2026-06-04T00:00:00.000Z
+sunset: false
+assets_used:
+  - btc
+  - eth
+  - sol
+  - zcash
+  - usdt
+  - usdc
+  - dai
+  - other
+have_token: false
+tokens: []
+fee: "0.25% platform fee"
+links:
+  web: https://allswap.io
+  blog: https://allswap.io/learn
+  github: ""
+  forum: ""
+  docs: https://allswap.io/docs
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/allswapio
+  discord: ""
+  telegram: https://t.me/allswapservice
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/allswap/logo.png
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://allswap.io/privacy
+  data_usage: Swap parameters, deposit/payout addresses, and anti-abuse access metadata (IP, User-Agent, essential security cookies) are processed strictly to operate swaps and protect service security; no third-party ad tracking or data sales.
+compliance: Standard consumer swaps require no account registration or routine ID upload; order-support or risk-flagged cases may require payment verification.
+tracebility:
+  kyc: false
+  tracked_data: Swap order parameters, on-chain deposit/receiving addresses, and temporary anti-abuse request metadata (IP address, User-Agent, security cookies).
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: Cross-chain settlement protocols, public RPCs/explorers, and hosting/CDN infrastructure (Cloudflare/Vercel).
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
