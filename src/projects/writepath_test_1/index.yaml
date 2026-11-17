@@ -1,0 +1,10 @@
+name: WRITEPATH_TEST_1
+description: WRITEPATH_TEST_1
+categories:
+  - test
+usecases:
+  - test
+ecosystem:
+  - test
+sunset: false
+id: writepath_test_1
