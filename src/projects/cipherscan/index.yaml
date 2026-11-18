@@ -7,7 +7,7 @@ usecases:
   - other
 ecosystem:
   - other
-description: CipherScan is a privacy-first Zcash blockchain explorer. Not just a
+description: ZecBlock (formerly CipherScan) is a privacy-first Zcash blockchain explorer. Not just a
   block browser — a tool for understanding, analyzing, and visualizing what
   privacy means on-chain. Making the invisible visible without compromising
   individuals.
@@ -15,12 +15,12 @@ sunset: false
 assets_used:
   - zcash
 links:
-  web: https://cipherscan.app/
-  docs: https://cipherscan.app/docs
-  block_explorer: https://cipherscan.app/
-  twitter: https://x.com/cipherscan_app
-  github: https://github.com/Kenbak/cipherscan
-  blog: https://cipherscan.app/newsletter
+  web: https://zecblock.com/
+  docs: https://zecblock.com/docs
+  block_explorer: https://zecblock.com/
+  twitter: https://x.com/zecblock
+  github: https://github.com/Kenbak/zecblock
+  blog: https://zecblock.com/newsletter
 project_status:
   version: mainnet
   live_status: true
@@ -31,8 +31,8 @@ blockchain_features:
   asset_custody_type: non-custody
 privacy_policy:
   defined: false
-  link: https://cipherscan.app/privacy-policy
-name: CipherScan
+  link: https://zecblock.com/privacy-policy
+name: ZecBlock
 have_token: false
 logos:
   - file: logo.jpeg
