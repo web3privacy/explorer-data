@@ -86,10 +86,12 @@ technology:
     - private
 audits: []
 social_trust: >-
-  Testnet owner roles are one plain key (Router allowlist and pause, Privacy
-  Pools Entrypoint upgrade); Safe multisig planned before mainnet. Depositors
-  can always withdraw with ragequit on the pool contract.
-technical_spof: One relayer (can censor or go down); one approved-set provider
+  Testnet owner roles (Router allowlist and pause, Privacy Pools Entrypoint
+  upgrade) are held by a Safe 2-of-2 since 2026-11-21. Depositors can always
+  withdraw with ragequit on the pool contract.
+technical_spof: >-
+  Two relayers, both run by the team (one down does not stop pieces; together
+  they can still censor); one approved-set provider
 team:
   anonymous: true
   teammembers: []
