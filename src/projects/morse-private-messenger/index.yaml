@@ -14,9 +14,9 @@ sunset: false
 links:
   web: https://www.joinmorse.com
   whitepaper: https://www.joinmorse.com/security/morse-security-whitepaper.pdf
-  twitter: https://x.com/home
+  twitter: https://x.com/joinmorse
 privacy_policy:
-  defined: false
+  defined: true
   link: https://www.joinmorse.com/privacy
 default_privacy: true
 tracebility:
