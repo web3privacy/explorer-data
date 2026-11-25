@@ -1,0 +1,79 @@
+id: swaprocket
+name: SwapRocket
+categories:
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - monero
+  - bitcoin
+  - ethereum
+  - solana
+  - multichain
+description: "Non-custodial crypto-to-crypto swap service. Standard swaps need
+  no account and no KYC: the user enters a receiving address, sends from their
+  own wallet, and a licensed third-party liquidity provider executes the swap
+  and pays out to that address. The provider screens transactions and can,
+  rarely, hold a flagged one and ask for verification. 700+ assets including
+  Monero in both directions, at a floating rate with the fees included in the
+  quote. No wallet connection, no seed phrase or private key requested."
+product_launch_day: "2025-03-13"
+sunset: false
+assets_used:
+  - btc
+  - eth
+  - xmr
+  - usdt
+  - sol
+  - other
+have_token: false
+tokens: []
+links:
+  web: https://swaprocket.io/
+  blog: https://swaprocket.io/blog
+  github: ""
+  forum: ""
+  docs: https://swaprocket.io/integrations
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/swap_rocket
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.png
+    ext: png
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://swaprocket.io/privacy-policy
+  data_usage: ""
+compliance: Not offered to residents of the United States or the United Kingdom
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: Swaps are executed by a licensed third-party liquidity provider.
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history: []
