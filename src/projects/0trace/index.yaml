@@ -1,0 +1,65 @@
+name: 0trace
+categories:
+  - applications
+  - infrastructure
+  - defi
+usecases:
+  - infrastructure
+  - currency
+ecosystem:
+  - ethereum
+  - bitcoin
+  - solana
+  - monero
+description: Privacy-first crypto exchange. No KYC. No AML. No logs. Monero supported.
+product_launch_day: 2026-04-05T21:00:00.000Z
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://0trace.io/
+  blog: ""
+  github: ""
+  forum: https://bitcointalk.org/index.php?topic=5577836.0
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/0trace_io
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://0trace.io/terms
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: We just need your wallet address. Once the swap is completed, you
+    can permanently delete it.
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding: []
+history: []
+id: 0trace

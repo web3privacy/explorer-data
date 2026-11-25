@@ -1,0 +1,65 @@
+id: fiber-so
+name: Fiber
+categories:
+  - applications
+  - defi
+usecases:
+  - wallets
+  - defi
+ecosystem:
+  - ethereum
+description: >
+  Privacy-first, non-custodial stablecoin wallet by Merkle Software Inc.
+  Receive USDC; keep supported transfers, trades, and earn activity private
+  with ZK proofs (RAILGUN-based). Email/phone login, no seed phrase. 0% Fiber
+  onramp and trading fees. Not a bank. US ACH/wire via Rain requires identity
+  verification. App: https://app.fiber.so
+sunset: false
+assets_used:
+  - usdc
+have_token: false
+tokens: []
+links:
+  web: https://fiber.so
+  github: https://github.com/fiberevm
+  twitter: https://x.com/fiber_evm
+  blog: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+blockchain_features:
+  asset_custody_type: non-custody
+  wallets:
+    name: Fiber
+    link: https://app.fiber.so
+technology:
+  type: zk
+  features:
+    - private
+default_privacy: true
+fee: 0% Fiber onramp and trading fees
+privacy_policy:
+  defined: false
+tracebility:
+  kyc: true
+  tracked_data: US ACH/wire via Rain requires identity verification.
+  sign_in_type_requirments:
+    - email
+    - phone
+third_party_dependency: Rain (US ACH/wire)
+team:
+  anonymous: false
+  teammembers: []
+client_diversability:
+  - name: Fiber app
+    link: https://app.fiber.so

@@ -1,4 +1,5 @@
-name: Bridge.Human.tech
+id: shield.human.tech
+name: Shield.Human.tech
 categories:
   - infrastructure
   - applications
@@ -9,7 +10,9 @@ usecases:
 ecosystem:
   - ethereum
   - other
-description: Ethereum <> Aztec bridge for moving between Aztec and Ethereum.
+description: "Shield moves your ERC-20 tokens from Ethereum into the Aztec
+  network, where you can hold and pay privately. It’s non-custodial: only the
+  protocol’s smart contracts touch your funds in transit, never Human Tech."
 sunset: false
 assets_used:
   - eth
@@ -17,15 +20,15 @@ assets_used:
 have_token: false
 tokens: []
 links:
-  web: https://bridge.human.tech/
+  web: https://shield.human.tech/
   blog: https://blog.human.tech/
-  github: https://github.com/holonym-foundation
+  github: https://github.com/holonym-foundation/shield.human.tech
   forum: ""
-  docs: https://docs.human.tech/
+  docs: https://support.shield.human.tech/
   whitepaper: https://drive.google.com/file/d/1TALP8sGn1n7VZgexq6ihSuw7wSOwc65J/view
   block_explorer: https://aztecscan.xyz/
   governance: ""
-  twitter: https://x.com/0xHolonym
+  twitter: https://x.com/humntech
   discord: https://discord.com/invite/zfGqjA5pxU
   telegram: https://t.me/humantechofficial
   lens: ""
@@ -33,9 +36,9 @@ links:
 project_phase: mainnet
 project_status:
   live_status: true
-  mainnet: true
+  mainnet: false
   testnet: false
-  version: mainnet
+  version: alpha
 blockchain_features:
   opensource: false
   upgradability:
@@ -62,4 +65,7 @@ team:
   teammembers: []
 funding: []
 history: []
-id: bridge.human.tech
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/bridge.human.tech/logo.png

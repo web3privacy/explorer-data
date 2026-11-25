@@ -1,0 +1,93 @@
+id: biscuit-wallet
+name: Biscuit Wallet
+categories:
+  - applications
+ecosystem:
+  - monero
+  - bitcoin
+  - ethereum
+  - solana
+have_token: false
+tokens:
+  - name: ""
+    symbol: ""
+    network: ""
+    contract_address: ""
+description: Biscuit is a free, open-source multi-crypto desktop wallet for Windows,
+  macOS, Linux and Tails, built on Feather, Monero first, with Tor built in, swaps
+  that work over Tor through exchanges that never ask for KYC, atomic swaps from
+  Bitcoin to Monero and reproducible builds.
+project_type: Privacy wallet
+technology:
+  type: ""
+  features: []
+links:
+  web: https://biscuitwallet.com/
+  blog: https://biscuitwallet.com/journal/
+  github: https://github.com/BiscuitWallet/Biscuit
+  forum: ""
+  docs: https://biscuitwallet.com/docs/
+  whitepaper: https://biscuitwallet.com/whitepaper/
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Biscuitwalletx
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+privacy_policy:
+  defined: true
+  link: https://biscuitwallet.com/privacy/
+  data_usage: No accounts, analytics or crash reports.
+team:
+  anonymous: true
+  teammembers: []
+storage: {}
+tracebility:
+  kyc: false
+  tracked_data: When an exchange swap through Trocador is created (outside Tor
+    mode only), the IP address, user agent, languages and swap ID, encrypted and
+    kept for 12 months, as Trocador requires. Nothing for swaps through Biscuit's
+    own exchanges, the ones used in Tor mode, and nothing for atomic swaps.
+  sign_in_type_requirments: []
+third_party_dependency: Trocador and its exchanges for exchange swaps outside Tor
+  mode; PegasusSwap, ETZ-Swap and Stereoswap, reached through Biscuit's onion service,
+  in Tor mode; public Monero nodes, Electrum servers, Ethereum, Arbitrum and Solana
+  nodes and Blockscout unless the user sets their own.
+audits: []
+history: []
+client_diversability: []
+default_privacy: true
+funding:
+  - type: Donations
+    link: https://biscuitwallet.com/donate/
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+usecases:
+  - wallets
+sunset: false
+assets_used:
+  - xmr
+  - btc
+  - eth
+  - usdt
+  - usdc
+  - sol
+  - other
+project_phase: mainnet
+compliance: ""
+social_trust: ""
+technical_spof: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/biscuit-wallet/logo.png
