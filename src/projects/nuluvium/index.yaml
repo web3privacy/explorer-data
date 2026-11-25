@@ -1,0 +1,104 @@
+id: nuluvium
+name: Nuluvium
+categories:
+  - defi
+description: >-
+  Privacy layer for stock tokens on Robinhood Chain, for people (web app) and AI
+  agents (MCP server). USDG goes into a shielded pool (an unchanged fork of
+  Privacy Pools v1.3.0). Each order is split into pieces of random size at
+  random times, and each piece is bought from a fresh address through a
+  relayer, so trades do not trace back to the depositor. Private from other
+  readers of the chain, not from Robinhood, which runs the chain and issues the
+  stock tokens. Privacy is weak while the set of depositors is small. Testnet
+  only, not audited.
+product_launch_day: "2026-11-16"
+project_type: Private routing for stock token trades
+fee: 0.10 USDG per piece (or gas + 20% if higher)
+licences: Apache-2.0
+links:
+  web: https://nuluvium.com
+  github: https://github.com/nuluviumhq/nuluvium
+  docs: https://nuluvium.com/docs
+  whitepaper: ""
+  blog: ""
+  twitter: https://x.com/NuluviumHQ
+  block_explorer: https://explorer.testnet.chain.robinhood.com
+  forum: ""
+  governance: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+usecases:
+  - defi
+  - dapps
+have_token: false
+tokens: []
+third_party_dependency: >-
+  Robinhood Chain (sequencer and stock token issuer, can block addresses),
+  Uniswap v3 pools for swaps, Privy for web login
+logos:
+  - file: logo.png
+    ext: png
+ecosystem:
+  - ethereum
+sunset: false
+assets_used:
+  - other
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: false
+storage:
+  decentralized: false
+privacy_policy:
+  defined: true
+  link: https://nuluvium.com/privacy
+  data_usage: >-
+    No trade data on servers. Keys, notes, fresh addresses and orders stay in
+    the browser or on the agent's machine. Privy keeps the login email or login
+    wallet address.
+compliance: >-
+  Approved-set screening of every deposit (sanctions lists, the stock token
+  issuer's blocklist, a denylist, deposit caps), every approved set published;
+  not offered in the US and restricted countries
+tracebility:
+  kyc: false
+  tracked_data: >-
+    Deposit address and amount are public; timing and amounts can still link a
+    piece to its deposit while the crowd is small
+  sign_in_type_requirments:
+    - EVM wallet
+    - Email
+default_privacy: true
+technology:
+  type: zk
+  features:
+    - private
+audits: []
+social_trust: >-
+  Testnet owner roles (Router allowlist and pause, Privacy Pools Entrypoint
+  upgrade) are held by a Safe 2-of-2 since 2026-11-21. Depositors can always
+  withdraw with ragequit on the pool contract.
+technical_spof: >-
+  Two relayers, both run by the team (one down does not stop pieces; together
+  they can still censor); one approved-set provider
+team:
+  anonymous: true
+  teammembers: []
+funding: []
+history:
+  - title: Testnet
+    event_type: launch
+    description: Web app and MCP server live on Robinhood Chain testnet
+    time: "2026-11-16T00:00:00.000Z"
+    link: https://nuluvium.com/stats
