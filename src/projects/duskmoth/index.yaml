@@ -1,0 +1,28 @@
+id: duskmoth
+name: Duskmoth
+categories:
+  - applications
+ecosystem:
+  - solana
+usecases:
+  - dapps
+project_type: Privacy payment application and developer tooling
+description: Open-source Solana application for wallet-approved SOL and USDC shielding and
+  withdrawals through Privacy Cash. Includes wallet privacy estimates, optional burn-issued Moth
+  Passes, AI-assisted plans and sequential private-payroll authorization. Privacy estimates are
+  heuristic, not anonymity guarantees; the HTTP SDK does not sign or broadcast transactions.
+links:
+  web: https://duskmoth.xyz
+  github: https://github.com/duskmoth-dev/duskmoth
+  docs: https://github.com/duskmoth-dev/duskmoth-docs
+  twitter: https://x.com/duskmoth_app
+  changelog: https://github.com/duskmoth-dev/duskmoth/blob/main/CHANGELOG.md
+licences: MIT for original source; third-party assets and dependencies retain their own terms.
+blockchain_features:
+  opensource: true
+default_privacy: false
+third_party_dependency: Privacy Cash pool, proof tooling and relayer; Helius RPC; Scorechain
+  sanctions-only screening; optional Anthropic intent parsing. MagicBlock is a separately configured
+  experimental engine, not a claim of general public execution availability.
+technical_spof: Hosted API, configured RPC and relayer availability; Moth Pass issuer and durable
+  replay storage. No independent Duskmoth security audit is claimed.
