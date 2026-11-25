@@ -44,6 +44,7 @@ links:
   twitter: https://x.com/zkproofport
   docs: https://zkproofport.com/developers
 team:
+  anonymous: false
   teammembers:
     - name: Masse Labs
       link: https://masselabs.com/#team
