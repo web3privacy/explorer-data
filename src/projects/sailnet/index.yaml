@@ -1,0 +1,68 @@
+id: sailnet
+name: Sailnet
+categories:
+  - applications
+usecases:
+  - vpn
+ecosystem:
+  - other
+description: >-
+  A rewarded privacy network paid in XNO. Relays carry onion-routed circuits
+  over ordinary-looking HTTPS and are paid per megabyte, directly, on the Nano
+  ledger. No token, no accounts, no company in the middle. Censorship
+  resistance: bridges, WebSocket-shaped tunnels, measured traffic shaping.
+  Privacy limits, stated plainly: Sailnet cannot hide the device's MAC address
+  or hostname on the local network, or the funding graph of a wallet on the
+  public ledger; fund relay and client wallets from an exchange if they must
+  not be linkable to you. Nothing here has been measured from inside a
+  censored network yet; the measurement rig and the bridge distribution
+  service are what that will be done with.
+sunset: false
+assets_used:
+  - other
+have_token: false
+tokens: []
+team:
+  anonymous: false
+  teammembers:
+    - name: dhyabi2
+      role: author
+      link: https://github.com/dhyabi2
+links:
+  web: https://www.sailnet.space
+  github: https://github.com/dhyabi2/sailnet
+  docs: https://github.com/dhyabi2/sailnet/blob/main/README.md
+  blog: ""
+  forum: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mvp
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: v0.3.41
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: onion-routed circuits over HTTPS, cells in RFC 6455 WebSocket frames
+  p2p: true
+licences: ""
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+funding: []
