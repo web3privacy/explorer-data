@@ -39440,18 +39440,27 @@
       "ecosystem": [
         "ethereum"
       ],
-      "description": "Verifiable Data Infrastructure",
+      "description": "Orochi Network is the Verifiable Data Infrastructure for enterprise systems that ensures data integrity and privacy using advanced cryptography primitives such as ZKP, FHE, and TEE. Its product, zkDatabase, is a verifiable database where every insert, update and query comes with a Zero-Knowledge Proof, so anyone can check it was done correctly while the raw data stays private and off-chain.",
       "sunset": false,
+      "have_token": true,
+      "tokens": [
+        {
+          "symbol": "ON",
+          "name": "Orochi Network",
+          "contract_address": "",
+          "token_link": "https://www.coingecko.com/en/coins/orochi-network"
+        }
+      ],
       "links": {
         "web": "https://orochi.network",
-        "blog": "",
-        "github": "",
+        "blog": "https://orochi.network/blog",
+        "github": "https://github.com/orochi-network",
         "forum": "",
-        "docs": "",
+        "docs": "https://docs.orochi.network",
         "whitepaper": "",
         "block_explorer": "",
         "governance": "",
-        "twitter": "",
+        "twitter": "https://x.com/OrochiNetwork",
         "discord": "",
         "telegram": "",
         "lens": "",
