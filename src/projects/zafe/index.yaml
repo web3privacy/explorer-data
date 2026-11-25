@@ -50,6 +50,7 @@ tracebility:
   kyc: false
   tracked_data: None. No accounts, no analytics, no ads and no tracking.
 team:
+  anonymous: false
   teammembers:
     - name: Anmol Bansal
       link: https://x.com/AnmolBansal02
