@@ -1,3 +1,4 @@
+id: zkproofport
 categories:
   - infrastructure
 usecases:
@@ -33,4 +34,16 @@ name: ZKProofport
 have_token: false
 privacy_policy:
   defined: false
-id: zkproofport
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zkproofport/logo.png
+links:
+  github: https://github.com/zkproofport
+  web: https://zkproofport.com/
+  twitter: https://x.com/zkproofport
+  docs: https://zkproofport.com/developers
+team:
+  teammembers:
+    - name: Masse Labs
+      link: https://masselabs.com/#team
