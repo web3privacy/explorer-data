@@ -1,0 +1,81 @@
+id: gloam
+name: Gloam
+categories:
+  - defi
+  - applications
+  - infrastructure
+usecases:
+  - currency
+  - dapps
+  - ai
+  - infrastructure
+ecosystem:
+  - other
+description: >-
+  Gloam lets people and AI agents pay each other in stablecoins privately on
+  public chains. Money goes into a shielded pool, and payments inside it are
+  zero-knowledge transfers (Groth16, Circom), so amounts and who paid whom stay
+  off the block explorer. Deposits and withdrawals stay public.
+
+
+  You can pay someone's Gloam address, send a claim link to someone who isn't
+  on Gloam yet, or run private payroll. You can also prove funds, a payment or a
+  payroll total to one named party with a proof that expires. Agents get the
+  same through an SDK and an MCP server. Live on Tempo testnet and Robinhood
+  Chain testnet. No token.
+have_token: false
+tokens: []
+assets_used:
+  - eth
+  - other
+sunset: false
+team:
+  anonymous: false
+  teammembers:
+    - name: Duke
+      link: https://x.com/dukedotsol
+links:
+  web: https://gloam.trade
+  github: https://github.com/cryptoduke01/gloam
+  docs: https://gloam.trade/docs
+  whitepaper: https://gloam.trade/whitepaper
+  blog: https://gloam.trade/blog
+  twitter: https://x.com/gloamtrade
+  telegram: https://t.me/gloamhq
+  block_explorer: ""
+  forum: ""
+  governance: ""
+  discord: ""
+  lens: ""
+  farcaster: ""
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ZK (Groth16), ECIES for Gloam addresses
+  p2p: false
+privacy_policy:
+  defined: true
+  link: https://gloam.trade/privacy
+  data_usage: >-
+    No accounts. Payment notes are kept encrypted in the user's browser, with an
+    optional encrypted backup that only the user's wallet or passkey can open.
+default_privacy: true
+tracebility:
+  kyc: false
+  tracked_data: Deposits and withdrawals are public on-chain; transfers inside the pool are not
+  sign_in_type_requirments:
+    - EVM wallet
+    - Passkey
+compliance: Selective disclosure proofs (funds, payment, payroll total) to a named party
+third_party_dependency: Tempo and Robinhood Chain networks; optional Gloam relay
+social_trust: No admin withdraw; any rule change waits behind a 3-day public timelock
+technical_spof: Trusted setup is a single-contributor dev ceremony until the multi-party ceremony before mainnet
+audits: []
