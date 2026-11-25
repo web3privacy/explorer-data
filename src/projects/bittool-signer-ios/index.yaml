@@ -1,0 +1,32 @@
+id: bittool-signer-ios
+name: BitTool Signer (iOS)
+categories:
+  - applications
+usecases:
+  - wallets
+description: >-
+  Free, open-source signing software for a dedicated offline iPhone. Keys and
+  transaction review stay on the device; signing requests and signatures are
+  exchanged through QR codes with a separate online wallet. The app has no
+  account, cloud synchronization or networking code. This separates signing-key
+  handling from online services; it does not make public blockchain transactions
+  private or anonymous. It is phone software, not a purpose-built hardware wallet.
+  No independent third-party security audit has been completed. The official site
+  publishes AI-assisted reviews with unresolved findings.
+links:
+  web: https://bittool.com/signer/
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+privacy_policy:
+  defined: true
+  link: https://bittool.com/signer/privacy/
+  data_usage: >-
+    Keys and recent signing activity are stored locally. Camera frames are
+    processed on the device, and the app receives only the result of an iOS
+    biometric check. The published policy states that the app has no telemetry,
+    analytics, crash reporting or advertising. User-directed exports and the
+    separate online wallet have different privacy implications.
+third_party_dependency: >-
+  Requires trust in the iPhone, iOS and the installed app. A separate online
+  wallet prepares requests and broadcasts signed transactions.
