@@ -18186,7 +18186,22 @@
           "ext": "png",
           "url": "https://explorer-data.web3privacy.info/assets/projects/zkproofport/logo.png"
         }
-      ]
+      ],
+      "links": {
+        "github": "https://github.com/zkproofport",
+        "web": "https://zkproofport.com/",
+        "twitter": "https://x.com/zkproofport",
+        "docs": "https://zkproofport.com/developers"
+      },
+      "team": {
+        "anonymous": false,
+        "teammembers": [
+          {
+            "name": "Masse Labs",
+            "link": "https://masselabs.com/#team"
+          }
+        ]
+      }
     },
     {
       "id": "belnet",
