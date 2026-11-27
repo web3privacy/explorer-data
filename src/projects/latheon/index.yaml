@@ -1,0 +1,116 @@
+id: latheon
+name: Latheon
+categories:
+  - applications
+  - infrastructure
+usecases:
+  - dapps
+  - infrastructure
+ecosystem:
+  - ethereum
+description: >-
+  Open-source zero-knowledge privacy protocol running on its own Arbitrum
+  Orbit test chain (testnet only, no audit, development trusted-setup keys).
+  Fixed-denomination shielded pools with Groth16 proofs bound to the recipient,
+  relayer and fee; a router for arbitrary amounts; a relayer that pays the gas
+  and can send a withdrawal at a random moment within a chosen window; payouts
+  to a list of recipients. Disclosure is started only by the user: a report
+  file, bound to one auditor's one-time code, proves which deposits are theirs
+  and, for withdrawn notes, where the funds went. There is no operator or
+  regulator key. Deposit addresses and amounts are public, anonymity sets are
+  small, and one operator runs the test chain's sequencer, validator and
+  relayer; the full list of limitations is in THREAT-MODEL.md.
+project_type: Shielded pools with user-started disclosure to an auditor
+have_token: false
+tokens: []
+assets_used:
+  - other
+fee: None on the test chain (gas only; the relayer charges no fee)
+sunset: false
+links:
+  web: https://latheon.xyz
+  github: https://github.com/latheon-network/Latheon
+  docs: https://github.com/latheon-network/Latheon/tree/main/docs
+  whitepaper: ""
+  blog: ""
+  twitter: https://x.com/Latheon_xyz
+  telegram: https://t.me/Latheon
+  block_explorer: https://explorer.testnet.latheon.xyz
+  forum: ""
+  governance: ""
+  discord: ""
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/latheon/logo.png
+team:
+  anonymous: false
+  teammembers:
+    - name: Vladimir Smirnov
+      role: Founder
+      link: https://x.com/ExPlurUm
+funding: []
+project_phase: testnet
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  asset_custody_type: non-custody
+  upgradability:
+    enabled: false
+  encryption: ZK-SNARK (Groth16, BN254)
+  viewing_key: true
+  p2p: false
+technology:
+  type: ZK-SNARK
+  name: Groth16 (circom, snarkjs)
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+tracebility:
+  kyc: false
+  tracked_data: >-
+    On chain: the depositor's address, the pool (and so the amount) and the
+    recipient of a withdrawal. Off chain: the RPC endpoint and the relayer see
+    the caller's IP address and requests.
+  sign_in_type_requirments:
+    - EVM wallet
+compliance: >-
+  No screening of addresses. Disclosure to an auditor is optional and started
+  by the user.
+default_privacy: false
+audits: []
+third_party_dependency: >-
+  Arbitrum Sepolia as the parent chain (data and settlement); a third-party
+  RPC provider for reading the parent chain.
+social_trust: >-
+  Testnet run by one person: one sequencer, one whitelisted validator and the
+  relayer are operated by the project; the trusted-setup keys come from a
+  single-party development setup.
+technical_spof: >-
+  Single sequencer and validator; single-party trusted setup (a public
+  ceremony and an independent audit are not done).
+history:
+  - title: Latheon test chain opened
+    event_type: launch
+    description: Own Arbitrum Orbit test chain with explorer, faucet, bridge and relayer.
+    time: "2026-10-20"
+    link: https://github.com/latheon-network/Latheon/blob/main/STATUS.md
+  - title: V7 pools after an internal review
+    event_type: security
+    description: >-
+      An internal review found that every earlier circuit let a crafted proof
+      withdraw without a deposit; fixed in V7, older pools frozen for deposits.
+    time: "2026-10-27"
+    link: https://github.com/latheon-network/Latheon/blob/main/STATUS.md
+  - title: Payouts with an accountant's report
+    event_type: release
+    description: Payouts to a list of recipients, two live runs on the test chain.
+    time: "2026-11-07"
+    link: https://github.com/latheon-network/Latheon/blob/main/STATUS.md
